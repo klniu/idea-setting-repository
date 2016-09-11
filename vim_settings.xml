@@ -13,12 +13,12 @@
       <file name="/Dummy.txt" timestamp="1472953663695">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/sync/code/go/src/asmeb31_ui/asme.go" timestamp="1473563676600">
+      <file name="$USER_HOME$/sync/code/go/src/asmeb31_ui/asme.go" timestamp="1473579674862">
         <mark key="'" line="78" column="32" />
-        <mark key="[" line="25" column="32" />
-        <mark key="]" line="25" column="11" />
-        <mark key="^" line="25" column="11" />
-        <mark key="." line="25" column="11" />
+        <mark key="[" line="24" column="12" />
+        <mark key="]" line="24" column="15" />
+        <mark key="^" line="24" column="15" />
+        <mark key="." line="24" column="15" />
       </file>
       <file name="$USER_HOME$/sync/code/java/src/bazi/BaZi.java" timestamp="1473507526890">
         <mark key="'" line="69" column="28" />
@@ -64,11 +64,11 @@
       <jump line="72" column="32" filename="$USER_HOME$/sync/code/go/src/asmeb31_ui/asme.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CX0K</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>Field(0)</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>Suffix</text>
@@ -94,32 +94,25 @@
         <text encoding="base64">CWZvciB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXZhciBsYWJlbEFTTUVSZXN1bHQgKndhbGsuTGFiZWwK</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CXZhciBsYWJlbEFTTUUgKndhbGsuTGFiZWwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXZhciBlcCB3YWxrLkVycm9yUHJlc2VudGVyCg==</text>
+        <text encoding="base64">CWZvciB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CXZhciBkYiAqd2Fsay5EYXRhQmluZGVyCg==</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YHRleHQ6IuadkOaWmeeahOiuuOeUqOW6lOWKm1MiIHVuaXQ6InBzaSJgCmB0ZXh0OiLnhIrnvJ3mjqXlpLTlvLrluqbpmY3kvY7ns7vmlbBXImAKYHRleHQ6Iuiuvuiuoeezu+aVsFkiYApgdGV4dDoi5Li7566h5aSW5b6ERGgiIHVuaXQ6ImluImAKYHRleHQ6IuaUr+euoeWkluW+hERiIiB1bml0OiIgaW4iYApgdGV4dDoi5Li7566h5YWs56ew5aOB5Y6aVGgiIHVuaXQ6ImluImAKYHRleHQ6IuaUr+euoeWFrOensOWjgeWOmlRiIiB1bml0OiJpbiJgCmB0ZXh0OiLoo5Xph49jIiB1bml0OiIgaW4iYApgdGV4dDoi6KGl5by655qE5pyA5bCP5Y6a5bqmVHIiIHVuaXQ6IiBpbiJgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="8">
-        <text>text:&quot;计算压力P&quot; unit:&quot;psi&quot;`
-text:&quot;计算压力P&quot; unit:&quot;psi&quot;`
-text:&quot;计算压力P&quot; unit:&quot;psi&quot;`
-text:&quot;计算压力P&quot; unit:&quot;psi&quot;`
-text:&quot;计算压力P&quot; unit:&quot;psi&quot;`
-text:&quot;计算压力P&quot; unit:&quot;psi&quot;`
-text:&quot;计算压力P&quot; unit:&quot;psi&quot;`
-text:&quot;计算压力P&quot; unit:&quot;psi&quot;`</text>
+      <register name="9" type="2">
+        <text encoding="base64">CWZvciB7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL1N1ZmZpeC91bml0L2dj</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -142,6 +135,8 @@ text:&quot;计算压力P&quot; unit:&quot;psi&quot;`</text>
         <entry encoding="base64">JzwsJz5zL0xhYmVse1RleHQ6IC9gdGV4dDovZ2M=</entry>
         <entry encoding="base64">JzwsJz5zL1N1ZmZpeC91bml0Oi9nYw==</entry>
         <entry encoding="base64">JzwsJz5zL1N1ZmZpeC91bml0L2dj</entry>
+        <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
