@@ -13,11 +13,12 @@
       <file name="/Dummy.txt" timestamp="1472953663695">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/sync/code/go/src/asmeb31_ui/asme.go" timestamp="1473562611793">
-        <mark key="[" line="12" column="40" />
-        <mark key="]" line="12" column="40" />
-        <mark key="^" line="7" column="18" />
-        <mark key="." line="12" column="40" />
+      <file name="$USER_HOME$/sync/code/go/src/asmeb31_ui/asme.go" timestamp="1473563676600">
+        <mark key="'" line="78" column="32" />
+        <mark key="[" line="25" column="32" />
+        <mark key="]" line="25" column="11" />
+        <mark key="^" line="25" column="11" />
+        <mark key="." line="25" column="11" />
       </file>
       <file name="$USER_HOME$/sync/code/java/src/bazi/BaZi.java" timestamp="1473507526890">
         <mark key="'" line="69" column="28" />
@@ -60,13 +61,14 @@
       <jump line="33" column="0" filename="$USER_HOME$/sync/code/go/src/asmeb31_ui/asme.go" />
       <jump line="17" column="0" filename="$USER_HOME$/sync/code/go/src/asmeb31_ui/asme.go" />
       <jump line="24" column="12" filename="$USER_HOME$/sync/code/go/src/asmeb31_ui/asme.go" />
+      <jump line="72" column="32" filename="$USER_HOME$/sync/code/go/src/asmeb31_ui/asme.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Field(0)</text>
       </register>
       <register name="/" type="4">
         <text>Suffix</text>
@@ -83,9 +85,30 @@
 `text:&quot;补强的最小厚度Tr&quot; unit:&quot; in&quot;`</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">CX0K</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CWZvciB7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CXZhciBsYWJlbEFTTUVSZXN1bHQgKndhbGsuTGFiZWwK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CXZhciBsYWJlbEFTTUUgKndhbGsuTGFiZWwK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CXZhciBlcCB3YWxrLkVycm9yUHJlc2VudGVyCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CXZhciBkYiAqd2Fsay5EYXRhQmluZGVyCg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">YHRleHQ6IuadkOaWmeeahOiuuOeUqOW6lOWKm1MiIHVuaXQ6InBzaSJgCmB0ZXh0OiLnhIrnvJ3mjqXlpLTlvLrluqbpmY3kvY7ns7vmlbBXImAKYHRleHQ6Iuiuvuiuoeezu+aVsFkiYApgdGV4dDoi5Li7566h5aSW5b6ERGgiIHVuaXQ6ImluImAKYHRleHQ6IuaUr+euoeWkluW+hERiIiB1bml0OiIgaW4iYApgdGV4dDoi5Li7566h5YWs56ew5aOB5Y6aVGgiIHVuaXQ6ImluImAKYHRleHQ6IuaUr+euoeWFrOensOWjgeWOmlRiIiB1bml0OiJpbiJgCmB0ZXh0OiLoo5Xph49jIiB1bml0OiIgaW4iYApgdGV4dDoi6KGl5by655qE5pyA5bCP5Y6a5bqmVHIiIHVuaXQ6IiBpbiJgCg==</text>
       </register>
-      <register name="2" type="8">
+      <register name="9" type="8">
         <text>text:&quot;计算压力P&quot; unit:&quot;psi&quot;`
 text:&quot;计算压力P&quot; unit:&quot;psi&quot;`
 text:&quot;计算压力P&quot; unit:&quot;psi&quot;`
@@ -94,35 +117,6 @@ text:&quot;计算压力P&quot; unit:&quot;psi&quot;`
 text:&quot;计算压力P&quot; unit:&quot;psi&quot;`
 text:&quot;计算压力P&quot; unit:&quot;psi&quot;`
 text:&quot;计算压力P&quot; unit:&quot;psi&quot;`</text>
-      </register>
-      <register name="3" type="8">
-        <text>`
-`
-`
-`
-`
-`
-`
-`
-`</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">fSwK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">RGVjaW1hbHM6IDIsCn0sCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">TnVtYmVyRWRpdHsKVmFsdWU6ICAgIEJpbmQoIlRyIiksCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">RGVjaW1hbHM6IDgsCn0sCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">TnVtYmVyRWRpdHsKVmFsdWU6ICAgIEJpbmQoIkMiKSwK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">RGVjaW1hbHM6IDgsCn0sCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1N1ZmZpeC91bml0L2dj</text>
@@ -176,6 +170,9 @@ text:&quot;计算压力P&quot; unit:&quot;psi&quot;`</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
