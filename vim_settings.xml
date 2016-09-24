@@ -3,13 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/sync/code/java/src/bazi/PaiPan.java" timestamp="1473506578456">
-        <mark key="'" line="261" column="0" />
-        <mark key="[" line="8" column="7" />
-        <mark key="]" line="8" column="10" />
-        <mark key="^" line="8" column="10" />
-        <mark key="." line="8" column="10" />
-      </file>
       <file name="/Dummy.txt" timestamp="1472953663695">
         <mark key="[" line="0" column="0" />
       </file>
@@ -20,12 +13,11 @@
         <mark key="^" line="24" column="15" />
         <mark key="." line="24" column="15" />
       </file>
-      <file name="$USER_HOME$/sync/code/java/ProgrammingProjectList/README-EN.md" timestamp="1474700599100">
-        <mark key="'" line="109" column="0" />
-        <mark key="[" line="18" column="2" />
-        <mark key="]" line="18" column="10" />
-        <mark key="^" line="148" column="0" />
-        <mark key="." line="148" column="0" />
+      <file name="$USER_HOME$/sync/code/java/ProgrammingProjectList/002-PigLatin/src/PigLatin.java" timestamp="1474714579465">
+        <mark key="[" line="13" column="35" />
+        <mark key="]" line="14" column="21" />
+        <mark key="." line="14" column="21" />
+        <mark key="^" line="14" column="21" />
       </file>
       <file name="/a.dummy" timestamp="1474696080649">
         <mark key="[" line="0" column="0" />
@@ -35,17 +27,37 @@
         <mark key="^" line="137" column="62" />
         <mark key="." line="137" column="62" />
       </file>
-      <file name="$USER_HOME$/sync/code/java/ProgrammingProjectList/001-ReverseString/src/ReverseString.java" timestamp="1474699797319">
-        <mark key="[" line="10" column="48" />
-        <mark key="]" line="10" column="61" />
-        <mark key="^" line="10" column="61" />
-        <mark key="." line="10" column="61" />
-      </file>
       <file name="$USER_HOME$/sync/code/java/ProgrammingProjectList/001-ReverseString/src/Main.java" timestamp="1474696071606">
         <mark key="[" line="3" column="19" />
         <mark key="]" line="3" column="15" />
         <mark key="." line="3" column="15" />
         <mark key="^" line="3" column="15" />
+      </file>
+      <file name="$USER_HOME$/sync/code/java/ProgrammingProjectList/002-PigLatin/src/PigLatinTest.groovy" timestamp="1474715489337">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/sync/code/java/src/bazi/PaiPan.java" timestamp="1473506578456">
+        <mark key="'" line="261" column="0" />
+        <mark key="[" line="8" column="7" />
+        <mark key="]" line="8" column="10" />
+        <mark key="^" line="8" column="10" />
+        <mark key="." line="8" column="10" />
+      </file>
+      <file name="$USER_HOME$/sync/code/java/ProgrammingProjectList/README-EN.md" timestamp="1474700599100">
+        <mark key="'" line="109" column="0" />
+        <mark key="[" line="18" column="2" />
+        <mark key="]" line="18" column="10" />
+        <mark key="^" line="148" column="0" />
+        <mark key="." line="148" column="0" />
+      </file>
+      <file name="$USER_HOME$/sync/code/java/ProgrammingProjectList/001-ReverseString/src/ReverseString.java" timestamp="1474699797319">
+        <mark key="[" line="10" column="48" />
+        <mark key="]" line="10" column="61" />
+        <mark key="^" line="10" column="61" />
+        <mark key="." line="10" column="61" />
       </file>
       <file name="$USER_HOME$/sync/code/java/src/bazi/BaZi.java" timestamp="1473507526890">
         <mark key="'" line="69" column="28" />
@@ -60,7 +72,7 @@
         <mark key="^" line="4" column="3" />
         <mark key="." line="4" column="3" />
       </file>
-      <file name="/fragment.java" timestamp="1474700092358">
+      <file name="/fragment.java" timestamp="1474714778533">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -98,60 +110,72 @@
       <jump line="109" column="0" filename="$USER_HOME$/sync/code/java/ProgrammingProjectList/README-EN.md" />
       <jump line="7" column="11" filename="$USER_HOME$/sync/code/java/ProgrammingProjectList/001-ReverseString/src/ReverseString.java" />
       <jump line="1" column="0" filename="$USER_HOME$/sync/code/java/ProgrammingProjectList/001-ReverseString/src/ReverseString.java" />
+      <jump line="15" column="0" filename="$USER_HOME$/sync/code/java/ProgrammingProjectList/002-PigLatin/src/PigLatinTest.groovy" />
+      <jump line="7" column="8" filename="$USER_HOME$/sync/code/java/ProgrammingProjectList/002-PigLatin/src/PigLatinTest.groovy" />
+      <jump line="5" column="8" filename="$USER_HOME$/sync/code/java/ProgrammingProjectList/002-PigLatin/src/PigLatinTest.groovy" />
+      <jump line="0" column="0" filename="$USER_HOME$/sync/code/java/ProgrammingProjectList/002-PigLatin/src/PigLatinTest.groovy" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>ddj</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>Pig Latin</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoUGlnTGF0aW4ubWFrZVBpZ0xhdGluKCJ0ZXN0IiksICJlc3R0YXkiKQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">QnVpbGRlciA=</text>
+        <text>esttay</text>
       </register>
       <register name="/" type="4">
-        <text>^$</text>
+        <text>$</text>
       </register>
       <register name="0" type="4">
-        <text>Pig Latin</text>
+        <text>assertEquals(PigLatin.makePigLatin(</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoUGlnTGF0aW4ubWFrZVBpZ0xhdGluKCJ0ZXN0IiksICJlc3R0YXkiKQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="8">
+        <text encoding="base64">IAogCiAKIAogCiAKIAogCiA=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGpkay5uYXNob3JuLmludGVybmFsLnBhcnNlci5TY2FubmVyOwo=</text>
+      <register name="4" type="8">
+        <text encoding="base64">IAogCiAKIAogCiAKIAogCiA=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBqYXZhLnV0aWwuU2Nhbm5lciAK</text>
+      <register name="5" type="8">
+        <text encoding="base64">IAogCiAKIAogCiAKIAogCiA=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTY2Fubgo=</text>
+      <register name="6" type="8">
+        <text encoding="base64">IAogCiAKIAogCiAKIAogCiA=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTY2FubmVyCg==</text>
+      <register name="7" type="8">
+        <text>&quot;
+&quot;
+&quot;
+&quot;
+&quot;
+&quot;
+&quot;
+&quot;
+&quot;</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIFNjYW5uZXIK</text>
+        <text encoding="base64">ICAgICAgICBGb3Igd29yZHMgdGhhdCBiZWdpbiB3aXRoIHZvd2VsIHNvdW5kcywgb25lIGp1c3QgYWRkcyAieWF5IiB0byB0aGUgZW5kLiBFeGFtcGxlcyBhcmU6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTY2FuCg==</text>
+        <text encoding="base64">ICAgICAgICBkbyB7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text encoding="base64">JzwsJz5zLyQvKS9nYw==</text>
       </register>
     </registers>
     <search>
-      <last-search>^$</last-search>
+      <last-search>$</last-search>
       <last-offset />
-      <last-pattern>^$</last-pattern>
-      <last-replace />
-      <last-substitute>^$</last-substitute>
+      <last-pattern>$</last-pattern>
+      <last-replace>)</last-replace>
+      <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -162,6 +186,8 @@
         <entry encoding="base64">TGFiZWx7VGV4dDog</entry>
         <entry>Suffix</entry>
         <entry>^$</entry>
+        <entry>→</entry>
+        <entry>$</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0xhYmVse1RleHQ6IC9gdGV4dDovZ2M=</entry>
@@ -177,6 +203,8 @@
         <entry>q</entry>
         <entry>A;</entry>
         <entry>A</entry>
+        <entry encoding="base64">JzwsJz5zL+KGki8pLC9nYw==</entry>
+        <entry encoding="base64">JzwsJz5zLyQvKS9nYw==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
