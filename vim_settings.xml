@@ -20,6 +20,14 @@
         <mark key="^" line="24" column="15" />
         <mark key="." line="24" column="15" />
       </file>
+      <file name="$USER_HOME$/sync/code/java/ProgrammingProjectList/README-EN.md" timestamp="1474690806427">
+        <mark key="'" line="27" column="0" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="^" line="17" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/sync/code/java/ProgrammingProjectList/README.md" timestamp="1474690614495" />
       <file name="$USER_HOME$/sync/code/java/src/bazi/BaZi.java" timestamp="1473507526890">
         <mark key="'" line="69" column="28" />
         <mark key="[" line="328" column="34" />
@@ -62,16 +70,18 @@
       <jump line="17" column="0" filename="$USER_HOME$/sync/code/go/src/asmeb31_ui/asme.go" />
       <jump line="24" column="12" filename="$USER_HOME$/sync/code/go/src/asmeb31_ui/asme.go" />
       <jump line="72" column="32" filename="$USER_HOME$/sync/code/go/src/asmeb31_ui/asme.go" />
+      <jump line="41" column="0" filename="$USER_HOME$/sync/code/java/ProgrammingProjectList/README-EN.md" />
+      <jump line="27" column="0" filename="$USER_HOME$/sync/code/java/ProgrammingProjectList/README-EN.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>Suffix</text>
+        <text>^$</text>
       </register>
       <register name="0" type="8">
         <text>`text:&quot;材料的许用应力S&quot; unit:&quot;psi&quot;`
@@ -85,42 +95,42 @@
 `text:&quot;补强的最小厚度Tr&quot; unit:&quot; in&quot;`</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWZvciB7Cg==</text>
+        <text encoding="base64">KiAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">KiAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KiAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CWZvciB7Cg==</text>
+        <text encoding="base64">KiAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">KiAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KiAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWZvciB7Cg==</text>
+        <text encoding="base64">KiAK</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text encoding="base64">JzwsJz5zL14kLy9nYw==</text>
       </register>
     </registers>
     <search>
-      <last-search>Suffix</last-search>
+      <last-search>^$</last-search>
       <last-offset />
-      <last-pattern>Suffix</last-pattern>
-      <last-replace>unit</last-replace>
-      <last-substitute>Suffix</last-substitute>
+      <last-pattern>^$</last-pattern>
+      <last-replace />
+      <last-substitute>^$</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -130,6 +140,7 @@
         <entry>12</entry>
         <entry encoding="base64">TGFiZWx7VGV4dDog</entry>
         <entry>Suffix</entry>
+        <entry>^$</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0xhYmVse1RleHQ6IC9gdGV4dDovZ2M=</entry>
@@ -137,6 +148,9 @@
         <entry encoding="base64">JzwsJz5zL1N1ZmZpeC91bml0L2dj</entry>
         <entry>w</entry>
         <entry>wq</entry>
+        <entry encoding="base64">JzwsJz5zL14kLy9nYw==</entry>
+        <entry encoding="base64">JzwsJz5nL14kL2Q=</entry>
+        <entry encoding="base64">JzwsJz5nL14kL2Rj</entry>
       </history-cmd>
       <history-expr />
       <history-input />
