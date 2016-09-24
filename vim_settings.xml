@@ -20,14 +20,33 @@
         <mark key="^" line="24" column="15" />
         <mark key="." line="24" column="15" />
       </file>
-      <file name="$USER_HOME$/sync/code/java/ProgrammingProjectList/README-EN.md" timestamp="1474690806427">
-        <mark key="'" line="27" column="0" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="^" line="17" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/sync/code/java/ProgrammingProjectList/README-EN.md" timestamp="1474695065861">
+        <mark key="'" line="109" column="0" />
+        <mark key="[" line="148" column="0" />
+        <mark key="]" line="148" column="0" />
+        <mark key="^" line="148" column="0" />
+        <mark key="." line="148" column="0" />
       </file>
-      <file name="$USER_HOME$/sync/code/java/ProgrammingProjectList/README.md" timestamp="1474690614495" />
+      <file name="/a.dummy" timestamp="1474696080649">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/sync/code/java/ProgrammingProjectList/README.md" timestamp="1474695290885">
+        <mark key="]" line="137" column="62" />
+        <mark key="^" line="137" column="62" />
+        <mark key="." line="137" column="62" />
+      </file>
+      <file name="$USER_HOME$/sync/code/java/ProgrammingProjectList/001-ReverseString/src/ReverseString.java" timestamp="1474696132368">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="6" column="40" />
+        <mark key="." line="6" column="40" />
+        <mark key="^" line="6" column="40" />
+      </file>
+      <file name="$USER_HOME$/sync/code/java/ProgrammingProjectList/001-ReverseString/src/Main.java" timestamp="1474696071606">
+        <mark key="[" line="3" column="19" />
+        <mark key="]" line="3" column="15" />
+        <mark key="." line="3" column="15" />
+        <mark key="^" line="3" column="15" />
+      </file>
       <file name="$USER_HOME$/sync/code/java/src/bazi/BaZi.java" timestamp="1473507526890">
         <mark key="'" line="69" column="28" />
         <mark key="[" line="328" column="34" />
@@ -72,13 +91,18 @@
       <jump line="72" column="32" filename="$USER_HOME$/sync/code/go/src/asmeb31_ui/asme.go" />
       <jump line="41" column="0" filename="$USER_HOME$/sync/code/java/ProgrammingProjectList/README-EN.md" />
       <jump line="27" column="0" filename="$USER_HOME$/sync/code/java/ProgrammingProjectList/README-EN.md" />
+      <jump line="151" column="0" filename="$USER_HOME$/sync/code/java/ProgrammingProjectList/README-EN.md" />
+      <jump line="109" column="0" filename="$USER_HOME$/sync/code/java/ProgrammingProjectList/README-EN.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="a" type="4">
+        <text>ddj</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>strings</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>strings</text>
       </register>
       <register name="/" type="4">
         <text>^$</text>
@@ -95,10 +119,10 @@
 `text:&quot;补强的最小厚度Tr&quot; unit:&quot; in&quot;`</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyAK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">KiAK</text>
@@ -122,7 +146,7 @@
         <text encoding="base64">KiAK</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL14kLy9nYw==</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -146,11 +170,14 @@
         <entry encoding="base64">JzwsJz5zL0xhYmVse1RleHQ6IC9gdGV4dDovZ2M=</entry>
         <entry encoding="base64">JzwsJz5zL1N1ZmZpeC91bml0Oi9nYw==</entry>
         <entry encoding="base64">JzwsJz5zL1N1ZmZpeC91bml0L2dj</entry>
-        <entry>w</entry>
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zL14kLy9nYw==</entry>
         <entry encoding="base64">JzwsJz5nL14kL2Q=</entry>
         <entry encoding="base64">JzwsJz5nL14kL2Rj</entry>
+        <entry>g/^$/d</entry>
+        <entry>help g</entry>
+        <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -182,6 +209,15 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
