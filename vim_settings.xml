@@ -20,10 +20,10 @@
         <mark key="^" line="24" column="15" />
         <mark key="." line="24" column="15" />
       </file>
-      <file name="$USER_HOME$/sync/code/java/ProgrammingProjectList/README-EN.md" timestamp="1474695065861">
+      <file name="$USER_HOME$/sync/code/java/ProgrammingProjectList/README-EN.md" timestamp="1474700599100">
         <mark key="'" line="109" column="0" />
-        <mark key="[" line="148" column="0" />
-        <mark key="]" line="148" column="0" />
+        <mark key="[" line="18" column="2" />
+        <mark key="]" line="18" column="10" />
         <mark key="^" line="148" column="0" />
         <mark key="." line="148" column="0" />
       </file>
@@ -35,11 +35,11 @@
         <mark key="^" line="137" column="62" />
         <mark key="." line="137" column="62" />
       </file>
-      <file name="$USER_HOME$/sync/code/java/ProgrammingProjectList/001-ReverseString/src/ReverseString.java" timestamp="1474696132368">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="6" column="40" />
-        <mark key="." line="6" column="40" />
-        <mark key="^" line="6" column="40" />
+      <file name="$USER_HOME$/sync/code/java/ProgrammingProjectList/001-ReverseString/src/ReverseString.java" timestamp="1474699797319">
+        <mark key="[" line="10" column="48" />
+        <mark key="]" line="10" column="61" />
+        <mark key="^" line="10" column="61" />
+        <mark key="." line="10" column="61" />
       </file>
       <file name="$USER_HOME$/sync/code/java/ProgrammingProjectList/001-ReverseString/src/Main.java" timestamp="1474696071606">
         <mark key="[" line="3" column="19" />
@@ -59,6 +59,9 @@
         <mark key="]" line="4" column="3" />
         <mark key="^" line="4" column="3" />
         <mark key="." line="4" column="3" />
+      </file>
+      <file name="/fragment.java" timestamp="1474700092358">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -93,57 +96,51 @@
       <jump line="27" column="0" filename="$USER_HOME$/sync/code/java/ProgrammingProjectList/README-EN.md" />
       <jump line="151" column="0" filename="$USER_HOME$/sync/code/java/ProgrammingProjectList/README-EN.md" />
       <jump line="109" column="0" filename="$USER_HOME$/sync/code/java/ProgrammingProjectList/README-EN.md" />
+      <jump line="7" column="11" filename="$USER_HOME$/sync/code/java/ProgrammingProjectList/001-ReverseString/src/ReverseString.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/sync/code/java/ProgrammingProjectList/001-ReverseString/src/ReverseString.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>ddj</text>
       </register>
       <register name="&quot;" type="4">
-        <text>strings</text>
+        <text>Pig Latin</text>
       </register>
       <register name="-" type="4">
-        <text>strings</text>
+        <text encoding="base64">QnVpbGRlciA=</text>
       </register>
       <register name="/" type="4">
         <text>^$</text>
       </register>
-      <register name="0" type="8">
-        <text>`text:&quot;材料的许用应力S&quot; unit:&quot;psi&quot;`
-`text:&quot;焊缝接头强度降低系数W&quot;`
-`text:&quot;设计系数Y&quot;`
-`text:&quot;主管外径Dh&quot; unit:&quot;in&quot;`
-`text:&quot;支管外径Db&quot; unit:&quot; in&quot;`
-`text:&quot;主管公称壁厚Th&quot; unit:&quot;in&quot;`
-`text:&quot;支管公称壁厚Tb&quot; unit:&quot;in&quot;`
-`text:&quot;裕量c&quot; unit:&quot; in&quot;`
-`text:&quot;补强的最小厚度Tr&quot; unit:&quot; in&quot;`</text>
+      <register name="0" type="4">
+        <text>Pig Latin</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">Cgo=</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">KiAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">KiAK</text>
+        <text encoding="base64">aW1wb3J0IGpkay5uYXNob3JuLmludGVybmFsLnBhcnNlci5TY2FubmVyOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">KiAK</text>
+        <text encoding="base64">ICAgICAgICBqYXZhLnV0aWwuU2Nhbm5lciAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">KiAK</text>
+        <text encoding="base64">ICAgICAgICBTY2Fubgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">KiAK</text>
+        <text encoding="base64">ICAgICAgICBTY2FubmVyCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">KiAK</text>
+        <text encoding="base64">Ly8gICAgICAgIFNjYW5uZXIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">KiAK</text>
+        <text encoding="base64">ICAgICAgICBTY2FuCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
@@ -178,12 +175,14 @@
         <entry>help g</entry>
         <entry>w</entry>
         <entry>q</entry>
+        <entry>A;</entry>
+        <entry>A</entry>
       </history-cmd>
       <history-expr />
       <history-input />
     </history>
     <shortcut-conflicts>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed N</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
@@ -218,6 +217,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>

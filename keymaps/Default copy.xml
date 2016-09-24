@@ -1,11 +1,34 @@
 <keymap version="1" name="Default copy" parent="$default">
+  <action id="Console.Execute.Multiline" />
+  <action id="EditorCompleteStatement">
+    <keyboard-shortcut first-keystroke="shift ctrl enter" />
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+  <action id="EditorDown">
+    <keyboard-shortcut first-keystroke="down" />
+    <keyboard-shortcut first-keystroke="ctrl n" />
+  </action>
   <action id="EditorSelectWord" />
+  <action id="EditorSplitLine" />
+  <action id="EditorUp">
+    <keyboard-shortcut first-keystroke="up" />
+    <keyboard-shortcut first-keystroke="ctrl p" />
+  </action>
+  <action id="FileChooser.NewFolder">
+    <keyboard-shortcut first-keystroke="alt insert" />
+  </action>
+  <action id="FileChooser.TogglePathShowing" />
   <action id="FindNext">
     <keyboard-shortcut first-keystroke="f3" />
   </action>
+  <action id="GotoChangedFile" />
+  <action id="GotoClass" />
+  <action id="KotlinShellExecute" />
+  <action id="ParameterInfo" />
   <action id="TypeHierarchy" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
   <action id="Vcs.Log.FocusTextFilter" />
+  <action id="ViewSource" />
   <action id="VimMotionNextTab">
     <keyboard-shortcut first-keystroke="ctrl l" />
   </action>
@@ -15,4 +38,5 @@
   <action id="VimWindowNext">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
+  <action id="org.intellij.plugins.markdown.ui.actions.editorLayout.CyclicSplitLayoutChangeAction" />
 </keymap>
