@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1472953663695">
+      <file name="/Dummy.txt" timestamp="1474716521443">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/sync/code/go/src/asmeb31_ui/asme.go" timestamp="1473579674862">
@@ -13,11 +13,11 @@
         <mark key="^" line="24" column="15" />
         <mark key="." line="24" column="15" />
       </file>
-      <file name="$USER_HOME$/sync/code/java/ProgrammingProjectList/002-PigLatin/src/PigLatin.java" timestamp="1474714579465">
-        <mark key="[" line="13" column="35" />
-        <mark key="]" line="14" column="21" />
-        <mark key="." line="14" column="21" />
-        <mark key="^" line="14" column="21" />
+      <file name="$USER_HOME$/sync/code/java/ProgrammingProjectList/002-PigLatin/src/PigLatin.java" timestamp="1474716987893">
+        <mark key="[" line="31" column="30" />
+        <mark key="]" line="31" column="34" />
+        <mark key="." line="31" column="34" />
+        <mark key="^" line="31" column="34" />
       </file>
       <file name="/a.dummy" timestamp="1474696080649">
         <mark key="[" line="0" column="0" />
@@ -33,11 +33,17 @@
         <mark key="." line="3" column="15" />
         <mark key="^" line="3" column="15" />
       </file>
-      <file name="$USER_HOME$/sync/code/java/ProgrammingProjectList/002-PigLatin/src/PigLatinTest.groovy" timestamp="1474715489337">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/sync/code/java/ProgrammingProjectList/002-PigLatin/src/PigLatinTest.groovy" timestamp="1474716268391">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="3" column="37" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/sync/code/java/ProgrammingProjectList/002-PigLatin/src/PigLatinTest.java" timestamp="1474716466366">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="9" column="7" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/sync/code/java/src/bazi/PaiPan.java" timestamp="1473506578456">
         <mark key="'" line="261" column="0" />
@@ -72,7 +78,7 @@
         <mark key="^" line="4" column="3" />
         <mark key="." line="4" column="3" />
       </file>
-      <file name="/fragment.java" timestamp="1474714778533">
+      <file name="/fragment.java" timestamp="1474716521464">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -119,11 +125,11 @@
       <register name="a" type="4">
         <text>ddj</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoUGlnTGF0aW4ubWFrZVBpZ0xhdGluKCJ0ZXN0IiksICJlc3R0YXkiKQo=</text>
+      <register name="&quot;" type="4">
+        <text>result.deleteCharAt(0)</text>
       </register>
       <register name="-" type="4">
-        <text>esttay</text>
+        <text>result.deleteCharAt(0)</text>
       </register>
       <register name="/" type="4">
         <text>$</text>
@@ -132,39 +138,31 @@
         <text>assertEquals(PigLatin.makePigLatin(</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoUGlnTGF0aW4ubWFrZVBpZ0xhdGluKCJ0ZXN0IiksICJlc3R0YXkiKQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="8">
-        <text encoding="base64">IAogCiAKIAogCiAKIAogCiA=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCBuYW1lKCkgdGhyb3dzIEV4Y2VwdGlvbiB7CgogICAgfQo=</text>
       </register>
-      <register name="4" type="8">
-        <text encoding="base64">IAogCiAKIAogCiAKIAogCiA=</text>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBncm9vdnkudXRpbC5Hcm9vdnlUZXN0Q2FzZS5hc3NlcnRFcXVhbHM7Cg==</text>
       </register>
-      <register name="5" type="8">
-        <text encoding="base64">IAogCiAKIAogCiAKIAogCiA=</text>
+      <register name="5" type="4">
+        <text encoding="base64">IHsKICAgICAgICAgICAgICAgIA==</text>
       </register>
-      <register name="6" type="8">
-        <text encoding="base64">IAogCiAKIAogCiAKIAogCiA=</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="8">
-        <text>&quot;
-&quot;
-&quot;
-&quot;
-&quot;
-&quot;
-&quot;
-&quot;
-&quot;</text>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5jb2RlaGF1cy5ncm9vdnkudm1wbHVnaW4udjUuSlVuaXQ0VXRpbHMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBGb3Igd29yZHMgdGhhdCBiZWdpbiB3aXRoIHZvd2VsIHNvdW5kcywgb25lIGp1c3QgYWRkcyAieWF5IiB0byB0aGUgZW5kLiBFeGFtcGxlcyBhcmU6Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgc3RyID0gbmV3IFN0cmluZygpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkbyB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoUGlnTGF0aW4ubWFrZVBpZ0xhdGluKCJ0ZXN0IiksICJlc3R0YXkiKQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyQvKS9nYw==</text>
