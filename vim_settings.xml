@@ -20,12 +20,12 @@
         <mark key="^" line="24" column="15" />
         <mark key="." line="24" column="15" />
       </file>
-      <file name="$USER_HOME$/sync/code/java/ProgrammingProjectList/README-EN.md" timestamp="1474700599100">
-        <mark key="'" line="109" column="0" />
-        <mark key="[" line="18" column="2" />
-        <mark key="]" line="18" column="10" />
-        <mark key="^" line="148" column="0" />
-        <mark key="." line="148" column="0" />
+      <file name="$USER_HOME$/sync/code/java/ProgrammingProjectList/README-EN.md" timestamp="1474702702459">
+        <mark key="'" line="44" column="135" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="6" />
+        <mark key="^" line="42" column="6" />
+        <mark key="." line="42" column="6" />
       </file>
       <file name="/a.dummy" timestamp="1474696080649">
         <mark key="[" line="0" column="0" />
@@ -92,12 +92,16 @@
       <jump line="17" column="0" filename="$USER_HOME$/sync/code/go/src/asmeb31_ui/asme.go" />
       <jump line="24" column="12" filename="$USER_HOME$/sync/code/go/src/asmeb31_ui/asme.go" />
       <jump line="72" column="32" filename="$USER_HOME$/sync/code/go/src/asmeb31_ui/asme.go" />
-      <jump line="41" column="0" filename="$USER_HOME$/sync/code/java/ProgrammingProjectList/README-EN.md" />
       <jump line="27" column="0" filename="$USER_HOME$/sync/code/java/ProgrammingProjectList/README-EN.md" />
       <jump line="151" column="0" filename="$USER_HOME$/sync/code/java/ProgrammingProjectList/README-EN.md" />
       <jump line="109" column="0" filename="$USER_HOME$/sync/code/java/ProgrammingProjectList/README-EN.md" />
       <jump line="7" column="11" filename="$USER_HOME$/sync/code/java/ProgrammingProjectList/001-ReverseString/src/ReverseString.java" />
       <jump line="1" column="0" filename="$USER_HOME$/sync/code/java/ProgrammingProjectList/001-ReverseString/src/ReverseString.java" />
+      <jump line="34" column="10" filename="$USER_HOME$/sync/code/java/ProgrammingProjectList/README-EN.md" />
+      <jump line="39" column="158" filename="$USER_HOME$/sync/code/java/ProgrammingProjectList/README-EN.md" />
+      <jump line="41" column="30" filename="$USER_HOME$/sync/code/java/ProgrammingProjectList/README-EN.md" />
+      <jump line="43" column="197" filename="$USER_HOME$/sync/code/java/ProgrammingProjectList/README-EN.md" />
+      <jump line="44" column="135" filename="$USER_HOME$/sync/code/java/ProgrammingProjectList/README-EN.md" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -110,7 +114,7 @@
         <text encoding="base64">QnVpbGRlciA=</text>
       </register>
       <register name="/" type="4">
-        <text>^$</text>
+        <text encoding="base64">XDx0aGVcPg==</text>
       </register>
       <register name="0" type="4">
         <text>Pig Latin</text>
@@ -147,9 +151,9 @@
       </register>
     </registers>
     <search>
-      <last-search>^$</last-search>
+      <last-search encoding="base64">XDx0aGVcPg==</last-search>
       <last-offset />
-      <last-pattern>^$</last-pattern>
+      <last-pattern encoding="base64">XDx0aGVcPg==</last-pattern>
       <last-replace />
       <last-substitute>^$</last-substitute>
       <last-dir>1</last-dir>
@@ -162,6 +166,8 @@
         <entry encoding="base64">TGFiZWx7VGV4dDog</entry>
         <entry>Suffix</entry>
         <entry>^$</entry>
+        <entry encoding="base64">XDxUaGVcPg==</entry>
+        <entry encoding="base64">XDx0aGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0xhYmVse1RleHQ6IC9gdGV4dDovZ2M=</entry>
@@ -223,6 +229,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed J</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed L</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
