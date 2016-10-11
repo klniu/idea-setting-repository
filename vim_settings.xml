@@ -92,6 +92,11 @@
       <file name="/fragment.java" timestamp="1474761636308">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/sync/code/go/src/zhvocs/controllers/common.go" timestamp="1476156335028">
+        <mark key="[" line="195" column="0" />
+        <mark key="]" line="206" column="24" />
+        <mark key="." line="195" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="272" column="0" filename="$USER_HOME$/sync/code/java/src/bazi/PaiPan.java" />
@@ -138,11 +143,11 @@
       <register name="a" type="4">
         <text>ddj</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">U3RyaW5nIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CS8vIGFsd2F5cyByZWFkIHNldHRpbmdzIGZyb20gY29uZmlndXJlIGZpbGUKCXNldHRpbmdQYXRoIDo9IGJlZWdvLkFwcENvbmZpZy5EZWZhdWx0U3RyaW5nKCJzZXR0aW5nZmlsZSIsICJjb25mL3NldHRpbmdzIikKCWlmICFmaWxlRXhpc3RzKHNldHRpbmdQYXRoKSB7CgkJY2hlY2tFcnIoZm10LkVycm9yZigic2V0dGluZ3MgZmlsZSAlcyBmb3VuZCIsIHNldHRpbmdQYXRoKSkKCX0KCWYsIGVyciA6PSBvcy5PcGVuKHNldHRpbmdQYXRoKQoJY2hlY2tFcnIoZXJyKQoJZGVmZXIgZi5DbG9zZSgpCglTUywgZXJyIDo9IGxkYXIuUGFyc2VTZXR0aW5ncyhmKQoJY2hlY2tFcnIoZXJyKQoJbGRhci5TZXRHbG9iYWxWYWxzKFNTKQoJTERBUlNldHRpbmcgPSBTUwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">U3RyaW5nIA==</text>
+        <text encoding="base64">IGVsc2Ugew==</text>
       </register>
       <register name="/" type="4">
         <text>$</text>
@@ -151,31 +156,31 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKICAgICAgICBTY2FubmVyIGluID0gbmV3IFNjYW5uZXIoU3lzdGVtLmluKTsKICAgICAgICBTdHJpbmcgc3RyOwogICAgICAgIHdoaWxlICh0cnVlKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnQoIlBsZWFzZSBpbnB1dCBhIHdvcmQgb3IgaW5wdXQgJ3F1aXQnIHRvIHRlcm1pbmFsIHRoZSBwcm9ncmFtOiAiKTsKICAgICAgICAgICAgc3RyID0gaW4ubmV4dCgpOwogICAgICAgICAgICBpZiAoc3RyLmVxdWFscygicXVpdCIpKSB7CiAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgfQogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIlRoZSByZXZlcnNlZCBzdHJpbmcgaXM6ICIgKyBtYWtlUGlnTGF0aW4oc3RyKSk7CiAgICAgICAgfQogICAgfQoKICAgIHN0YXRpYyBTdHJpbmcgbWFrZVBpZ0xhdGluKFN0cmluZyBzdHIpIHsKICAgICAgICBzdHIgPSBzdHIudHJpbSgpOwogICAgICAgIGlmIChzdHIuZXF1YWxzKCIiKSkgewogICAgICAgICAgICByZXR1cm4gIiI7CiAgICAgICAgfQogICAgICAgIGZpbmFsIGNoYXJbXSBjb25zb25hbnRzID0geydCJywgJ0MnLCAnRCcsICdGJywgJ0cnLCAnSCcsICdKJywgJ0snLCAnTCcsCiAgICAgICAgICAgICAgICAnTScsICdOJywgJ1AnLCAnUScsICdSJywgJ1MnLCAnVCcsICdWJywgJ1cnLCAnWCcsICdZJywgJ1onfTsKICAgICAgICAvLyBmaXJzdCBsZXR0ZXIgaXMgdm93ZWwgY2hhci4KICAgICAgICBpZiAoQXJyYXlzLmJpbmFyeVNlYXJjaChjb25zb25hbnRzLCBDaGFyYWN0ZXIudG9VcHBlckNhc2Uoc3RyLmNoYXJBdCgwKSkpIDwgMCkgewogICAgICAgICAgICByZXR1cm4gc3RyICsgInlheSI7CiAgICAgICAgfQogICAgICAgIFN0cmluZ0J1aWxkZXIgcmVzdWx0ID0gbmV3IFN0cmluZ0J1aWxkZXIoc3RyKTsKICAgICAgICBmb3IgKGNoYXIgYyA6CiAgICAgICAgICAgICAgICBzdHIudG9DaGFyQXJyYXkoKSkgewogICAgICAgICAgICBpZiAoQXJyYXlzLmJpbmFyeVNlYXJjaChjb25zb25hbnRzLCBDaGFyYWN0ZXIudG9VcHBlckNhc2UoYykpID4gLTEpIHsKICAgICAgICAgICAgICAgIGNoYXIgZmlyc3QgPSByZXN1bHQuY2hhckF0KDApOwogICAgICAgICAgICAgICAgcmVzdWx0LmRlbGV0ZUNoYXJBdCgwKS5hcHBlbmQoZmlyc3QpOwogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgcmV0dXJuIHJlc3VsdC5hcHBlbmQoImF5IikudG9TdHJpbmcoKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CS8vIGFsd2F5cyByZWFkIHNldHRpbmdzIGZyb20gY29uZmlndXJlIGZpbGUKCXNldHRpbmdQYXRoIDo9IGJlZWdvLkFwcENvbmZpZy5EZWZhdWx0U3RyaW5nKCJzZXR0aW5nZmlsZSIsICJjb25mL3NldHRpbmdzIikKCWlmICFmaWxlRXhpc3RzKHNldHRpbmdQYXRoKSB7CgkJY2hlY2tFcnIoZm10LkVycm9yZigic2V0dGluZ3MgZmlsZSAlcyBmb3VuZCIsIHNldHRpbmdQYXRoKSkKCX0KCWYsIGVyciA6PSBvcy5PcGVuKHNldHRpbmdQYXRoKQoJY2hlY2tFcnIoZXJyKQoJZGVmZXIgZi5DbG9zZSgpCglTUywgZXJyIDo9IGxkYXIuUGFyc2VTZXR0aW5ncyhmKQoJY2hlY2tFcnIoZXJyKQoJbGRhci5TZXRHbG9iYWxWYWxzKFNTKQoJTERBUlNldHRpbmcgPSBTUwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQljaGVja0VycihEQi5TYXZlU2V0dGluZ3MoKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmdCdWlsZGVyIHJlc3VsdCA9IG5ldyBTdHJpbmdCdWlsZGVyKHN0cik7Cg==</text>
+        <text encoding="base64">CUxEQVJTZXR0aW5nID0gU1MK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWxkYXIuU2V0R2xvYmFsVmFscyhTUykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3VsdC5hcHBlbmQoZmlyc3QpOwo=</text>
+        <text encoding="base64">CQlsZGFyLlNldEdsb2JhbFZhbHMoU1MpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3VsdC5hcHBlbmQoZmlyc3QpOwo=</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNoYXIgZmlyc3QgPSByZXN1bHQuY2hhckF0KDApOwo=</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAK</text>
+        <text encoding="base64">CS8vIGFsd2F5cyByZWFkIHNldHRpbmdzIGZyb20gY29uZmlndXJlIGZpbGUKCXNldHRpbmdQYXRoIDo9IGJlZWdvLkFwcENvbmZpZy5EZWZhdWx0U3RyaW5nKCJzZXR0aW5nZmlsZSIsICJjb25mL3NldHRpbmdzIikKCWlmIGZpbGVFeGlzdHMoc2V0dGluZ1BhdGgpIHsKCQlmLCBlcnIgOj0gb3MuT3BlbihzZXR0aW5nUGF0aCkKCQljaGVja0VycihlcnIpCgkJZGVmZXIgZi5DbG9zZSgpCgkJU1MsIGVyciA9IGxkYXIuUGFyc2VTZXR0aW5ncyhmKQoJCWNoZWNrRXJyKGVycikKCQlsZGFyLlNldEdsb2JhbFZhbHMoU1MpCgkJY2hlY2tFcnIoREIuU2F2ZVNldHRpbmdzKCkpCgl9Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyQvKS9nYw==</text>
@@ -221,13 +226,13 @@
       <history-input />
     </history>
     <shortcut-conflicts>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed S</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed O</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
@@ -260,7 +265,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed X</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed P</text>
       </shortcut-conflict>
     </shortcut-conflicts>
