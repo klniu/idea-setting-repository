@@ -50,8 +50,5 @@
   <action id="VimMotionPreviousTab">
     <keyboard-shortcut first-keystroke="ctrl h" />
   </action>
-  <action id="VimWindowNext">
-    <keyboard-shortcut first-keystroke="ctrl w" />
-  </action>
   <action id="org.intellij.plugins.markdown.ui.actions.editorLayout.CyclicSplitLayoutChangeAction" />
 </keymap>
