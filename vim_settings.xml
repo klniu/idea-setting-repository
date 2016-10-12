@@ -113,8 +113,12 @@
         <mark key="." line="4" column="2" />
         <mark key="^" line="4" column="2" />
       </file>
-      <file name="$USER_HOME$/sync/code/go/src/zhvocs/controllers/photo.go" timestamp="1476261805799">
-        <mark key="'" line="266" column="20" />
+      <file name="$USER_HOME$/sync/code/go/src/zhvocs/controllers/photo.go" timestamp="1476264833826">
+        <mark key="'" line="467" column="32" />
+        <mark key="[" line="467" column="60" />
+        <mark key="]" line="467" column="66" />
+        <mark key="^" line="467" column="66" />
+        <mark key="." line="467" column="66" />
       </file>
       <file name="$USER_HOME$/sync/code/go/src/ldar/test_all.sh" timestamp="1476253099533" />
       <file name="$USER_HOME$/sync/code/go/src/ldar/monitorstate_test.go" timestamp="1476255374926">
@@ -207,22 +211,23 @@
       <jump line="483" column="38" filename="$USER_HOME$/sync/code/go/src/zhvocs/controllers/photo.go" />
       <jump line="253" column="30" filename="$USER_HOME$/sync/code/go/src/zhvocs/controllers/photo.go" />
       <jump line="266" column="20" filename="$USER_HOME$/sync/code/go/src/zhvocs/controllers/photo.go" />
+      <jump line="466" column="32" filename="$USER_HOME$/sync/code/go/src/zhvocs/controllers/photo.go" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>ddj</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQlmbXQuUHJpbnRsbihzLkNoaW5lc2UsIGNvZGUpCg==</text>
+      <register name="&quot;" type="4">
+        <text>SvgPath</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>SvgPath</text>
       </register>
       <register name="/" type="4">
         <text>log</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CXN0YXRlLCBlcnIgOj0gTmV3TW9uaXRvclN0YXRlKCJHIikKCWMuQXNzZXJ0KGVyciwgSXNOaWwpCgljLkFzc2VydChzdGF0ZSwgRXF1YWxzLCBTUy5Nb25pdG9yU3RhdGVzLkdlbmVyYWwpCg==</text>
+        <text encoding="base64">CQkJCWZtdC5QcmludGxuKFN2Z1BhdGgpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQlmbXQuUHJpbnRsbihzLkNoaW5lc2UsIGNvZGUpCg==</text>
