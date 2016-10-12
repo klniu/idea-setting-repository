@@ -71,11 +71,10 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/sync/code/go/src/ldar/monitorstate.go" timestamp="1476254139523">
-        <mark key="[" line="22" column="34" />
-        <mark key="]" line="22" column="53" />
-        <mark key="^" line="22" column="53" />
-        <mark key="." line="22" column="53" />
+      <file name="$USER_HOME$/sync/code/go/src/ldar/monitorstate.go" timestamp="1476255691741">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/sync/code/go/src/ldar/svg/write.go" timestamp="1476170850640">
         <mark key="'" line="24" column="19" />
@@ -123,6 +122,12 @@
         <mark key="'" line="415" column="38" />
       </file>
       <file name="$USER_HOME$/sync/code/go/src/ldar/test_all.sh" timestamp="1476253099533" />
+      <file name="$USER_HOME$/sync/code/go/src/ldar/monitorstate_test.go" timestamp="1476255374926">
+        <mark key="[" line="16" column="40" />
+        <mark key="]" line="16" column="40" />
+        <mark key="." line="16" column="40" />
+        <mark key="^" line="16" column="40" />
+      </file>
       <file name="$USER_HOME$/sync/code/go/src/ldar/direction.go" timestamp="1476252890962">
         <mark key="[" line="15" column="34" />
         <mark key="]" line="15" column="51" />
@@ -208,44 +213,44 @@
       <register name="a" type="4">
         <text>ddj</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>TestTimeZone</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQlmbXQuUHJpbnRsbihzLkNoaW5lc2UsIGNvZGUpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>log</text>
       </register>
-      <register name="0" type="4">
-        <text>TestTimeZone</text>
+      <register name="0" type="2">
+        <text encoding="base64">CXN0YXRlLCBlcnIgOj0gTmV3TW9uaXRvclN0YXRlKCJHIikKCWMuQXNzZXJ0KGVyciwgSXNOaWwpCgljLkFzc2VydChzdGF0ZSwgRXF1YWxzLCBTUy5Nb25pdG9yU3RhdGVzLkdlbmVyYWwpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlmbXQuUHJpbnRsbihzLkNoaW5lc2UpCg==</text>
+        <text encoding="base64">CQlmbXQuUHJpbnRsbihzLkNoaW5lc2UsIGNvZGUpCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">CQlmbXQuUHJpbnRsbihzLkNoaW5lc2UpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWxvZy5QcmludGxuKCJ0ZXN0IikK</text>
+        <text encoding="base64">CQlmbXQuUHJpbnRsbihzLkNoaW5lc2UpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CWxvZy5QcmludGxuKHcsaCkK</text>
+        <text encoding="base64">CWxvZy5QcmludGxuKCJ0ZXN0IikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CSJsb2ciCg==</text>
+        <text encoding="base64">CWxvZy5QcmludGxuKHcsaCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlsb2cuUHJpbnRsbihyZXN1bHQuQm91bmRzKCkuRHkoKSkK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQlsb2cuUHJpbnRsbih0ZW1wLkJvdW5kcygpLkR5KCkpCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">CSJsb2ciCg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQlsb2cuUHJpbnRsbihyZXN1bHQuQm91bmRzKCkuRHkoKSkK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CQlsb2cuUHJpbnRsbih0ZW1wLkJvdW5kcygpLkR5KCkpCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CWxvZy5QcmludGxuKGR5LCBmaWx0ZXJMZW5ndGgpCg==</text>
+        <text encoding="base64">CSJsb2ciCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
