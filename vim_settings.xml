@@ -35,8 +35,8 @@
         <mark key="." line="15" column="35" />
         <mark key="^" line="15" column="35" />
       </file>
-      <file name="$USER_HOME$/sync/code/go/src/ldar/import.go" timestamp="1478568711426">
-        <mark key="'" line="57" column="32" />
+      <file name="$USER_HOME$/sync/code/go/src/ldar/import.go" timestamp="1478592626915">
+        <mark key="'" line="53" column="34" />
       </file>
       <file name="$USER_HOME$/sync/code/java/ProgrammingProjectList/001-ReverseString/src/Main.java" timestamp="1474696071606">
         <mark key="[" line="3" column="19" />
@@ -89,8 +89,11 @@
       <file name="$USER_HOME$/sync/code/go/src/zhvocs/routers/router.go" timestamp="1478568217306">
         <mark key="'" line="64" column="76" />
       </file>
-      <file name="$USER_HOME$/sync/code/go/src/ldar/monitor.go" timestamp="1478568717426">
-        <mark key="'" line="902" column="20" />
+      <file name="$USER_HOME$/sync/code/go/src/ldar/monitor.go" timestamp="1478592823037">
+        <mark key="'" line="226" column="46" />
+        <mark key="[" line="226" column="73" />
+        <mark key="]" line="226" column="73" />
+        <mark key="." line="226" column="73" />
       </file>
       <file name="$USER_HOME$/sync/code/go/src/ldar/monitorstate.go" timestamp="1476257753248">
         <mark key="[" line="22" column="0" />
@@ -124,6 +127,12 @@
       </file>
       <file name="/Dummy.txt" timestamp="1478583887413">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/sync/code/go/src/ldar/common.go" timestamp="1478592598194">
+        <mark key="'" line="77" column="57" />
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="0" />
+        <mark key="." line="77" column="0" />
       </file>
       <file name="$USER_HOME$/sync/code/go/src/ldar/direction_test.go" timestamp="1476252942723">
         <mark key="[" line="16" column="19" />
@@ -200,8 +209,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="61" filename="$USER_HOME$/sync/code/java/src/bazi/BaZi.java" />
-      <jump line="577" column="11" filename="/usr/lib/jvm/java-8-jdk/src.zip!/java/text/SimpleDateFormat.java" />
       <jump line="21" column="30" filename="$USER_HOME$/sync/code/java/src/bazi/BaZi.java" />
       <jump line="105" column="16" filename="$USER_HOME$/sync/code/java/src/bazi/BaZi.java" />
       <jump line="338" column="0" filename="$USER_HOME$/sync/code/java/src/bazi/BaZi.java" />
@@ -297,19 +304,21 @@
       <jump line="0" column="0" filename="$USER_HOME$/workdir/servlet/src/HelloWord.java" />
       <jump line="64" column="76" filename="$USER_HOME$/sync/code/go/src/zhvocs/routers/router.go" />
       <jump line="142" column="34" filename="$USER_HOME$/sync/code/go/src/zhvocs/controllers/monitor.go" />
-      <jump line="53" column="32" filename="$USER_HOME$/sync/code/go/src/ldar/import.go" />
       <jump line="57" column="32" filename="$USER_HOME$/sync/code/go/src/ldar/import.go" />
       <jump line="902" column="20" filename="$USER_HOME$/sync/code/go/src/ldar/monitor.go" />
+      <jump line="77" column="57" filename="$USER_HOME$/sync/code/go/src/ldar/common.go" />
+      <jump line="53" column="34" filename="$USER_HOME$/sync/code/go/src/ldar/import.go" />
+      <jump line="226" column="46" filename="$USER_HOME$/sync/code/go/src/ldar/monitor.go" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>ddj</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>, false</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>, false</text>
       </register>
       <register name="/" type="4">
         <text>println</text>
@@ -318,31 +327,31 @@
         <text>filepath.Join(OriginPath, photoName+PhotoExt)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxzZXJ2bGV0PgogICAgICAgIDxzZXJ2bGV0LW5hbWU+SGVsbG9Xb3JsZDwvc2VydmxldC1uYW1lPgogICAgICAgIDxzZXJ2bGV0LWNsYXNzPkhlbGxvV29ybGQ8L3NlcnZsZXQtY2xhc3M+CiAgICA8L3NlcnZsZXQ+CgogICAgPHNlcnZsZXQtbWFwcGluZz4KICAgICAgICA8c2VydmxldC1uYW1lPkhlbGxvV29ybGQ8L3NlcnZsZXQtbmFtZT4KICAgICAgICA8dXJsLXBhdHRlcm4+L0hlbGxvV29ybGQ8L3VybC1wYXR0ZXJuPgogICAgPC9zZXJ2bGV0LW1hcHBpbmc+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuCg==</text>
+        <text encoding="base64">ICAgIDxzZXJ2bGV0PgogICAgICAgIDxzZXJ2bGV0LW5hbWU+SGVsbG9Xb3JsZDwvc2VydmxldC1uYW1lPgogICAgICAgIDxzZXJ2bGV0LWNsYXNzPkhlbGxvV29ybGQ8L3NlcnZsZXQtY2xhc3M+CiAgICA8L3NlcnZsZXQ+CgogICAgPHNlcnZsZXQtbWFwcGluZz4KICAgICAgICA8c2VydmxldC1uYW1lPkhlbGxvV29ybGQ8L3NlcnZsZXQtbmFtZT4KICAgICAgICA8dXJsLXBhdHRlcm4+L0hlbGxvV29ybGQ8L3VybC1wYXR0ZXJuPgogICAgPC9zZXJ2bGV0LW1hcHBpbmc+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QFdlYlNlcnZsZXQoIi9IZWxsb1dvcmxkIikK</text>
+        <text encoding="base64">aW1wb3J0IGphdmEuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxzZXJ2bGV0PgogICAgICAgIDxzZXJ2bGV0LW5hbWU+SGVsbG9Xb3JsZDwvc2VydmxldC1uYW1lPgogICAgPC9zZXJ2bGV0Pgo=</text>
+        <text encoding="base64">QFdlYlNlcnZsZXQoIi9IZWxsb1dvcmxkIikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICAgIDxzZXJ2bGV0PgogICAgICAgIDxzZXJ2bGV0LW5hbWU+SGVsbG9Xb3JsZDwvc2VydmxldC1uYW1lPgogICAgPC9zZXJ2bGV0Pgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBrbG5pdSBvbiAxNi0xMS0zLgo=</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBrbG5pdSBvbiAxNi0xMS0zLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
