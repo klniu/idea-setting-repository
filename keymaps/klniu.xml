@@ -1,4 +1,8 @@
 <keymap version="1" name="klniu" parent="$default">
+  <action id="AceJumpAction">
+    <keyboard-shortcut first-keystroke="ctrl semicolon" />
+    <keyboard-shortcut first-keystroke="ctrl comma" />
+  </action>
   <action id="Console.Execute.Multiline" />
   <action id="EditorCompleteStatement">
     <keyboard-shortcut first-keystroke="shift ctrl enter" />
@@ -23,11 +27,14 @@
   </action>
   <action id="GotoChangedFile" />
   <action id="GotoClass" />
+  <action id="ImplementMethods" />
   <action id="KotlinShellExecute" />
+  <action id="MethodHierarchy.ImplementMethodAction" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="alt right" />
     <keyboard-shortcut first-keystroke="ctrl l" />
   </action>
+  <action id="OverrideMethods" />
   <action id="ParameterInfo" />
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="alt left" />
@@ -52,5 +59,11 @@
   <action id="TypeHierarchyBase.BaseOnThisType" />
   <action id="Vcs.Log.FocusTextFilter" />
   <action id="ViewSource" />
+  <action id="VimMotionJumpNext">
+    <keyboard-shortcut first-keystroke="ctrl i" />
+  </action>
+  <action id="VimMotionJumpPrevious">
+    <keyboard-shortcut first-keystroke="ctrl o" />
+  </action>
   <action id="org.intellij.plugins.markdown.ui.actions.editorLayout.CyclicSplitLayoutChangeAction" />
 </keymap>
