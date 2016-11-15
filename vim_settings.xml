@@ -144,12 +144,12 @@
         <mark key="]" line="77" column="0" />
         <mark key="." line="77" column="0" />
       </file>
-      <file name="$USER_HOME$/sync/code/go/src/ldar/emission.go" timestamp="1479210207872">
-        <mark key="'" line="423" column="28" />
-        <mark key="[" line="364" column="0" />
-        <mark key="]" line="365" column="48" />
-        <mark key="." line="365" column="48" />
-        <mark key="^" line="365" column="48" />
+      <file name="$USER_HOME$/sync/code/go/src/ldar/emission.go" timestamp="1479215653616">
+        <mark key="'" line="83" column="80" />
+        <mark key="[" line="427" column="0" />
+        <mark key="]" line="427" column="0" />
+        <mark key="." line="427" column="0" />
+        <mark key="^" line="451" column="46" />
       </file>
       <file name="$USER_HOME$/sync/code/go/src/ldar/direction_test.go" timestamp="1476252942723">
         <mark key="[" line="16" column="19" />
@@ -160,12 +160,12 @@
       <file name="$USER_HOME$/workdir/shopping-management-system/0#Java基础项目/shopping-management-system/src/lyons/page/MainPage.java" timestamp="1476752546628">
         <mark key="'" line="159" column="48" />
       </file>
-      <file name="$USER_HOME$/sync/code/go/src/ldar/emission_test.go" timestamp="1479214278273">
+      <file name="$USER_HOME$/sync/code/go/src/ldar/emission_test.go" timestamp="1479215663749">
         <mark key="'" line="820" column="78" />
-        <mark key="[" line="860" column="4" />
-        <mark key="]" line="853" column="4" />
+        <mark key="[" line="817" column="46" />
+        <mark key="]" line="817" column="46" />
         <mark key="^" line="853" column="4" />
-        <mark key="." line="853" column="4" />
+        <mark key="." line="817" column="46" />
       </file>
       <file name="$USER_HOME$/sync/code/java/ProgrammingProjectList/002-PigLatin/src/PigLatinTest.groovy" timestamp="1474716268391">
         <mark key="[" line="0" column="0" />
@@ -232,9 +232,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="199" column="24" filename="$USER_HOME$/sync/code/go/src/zhvocs/controllers/photo.go" />
-      <jump line="192" column="21" filename="$USER_HOME$/sync/code/go/src/zhvocs/controllers/photo.go" />
-      <jump line="308" column="0" filename="$USER_HOME$/sync/code/go/src/ldar/svg/write.go" />
       <jump line="42" column="9" filename="$USER_HOME$/sync/code/go/src/ldar/svg/write.go" />
       <jump line="405" column="0" filename="$USER_HOME$/sync/code/go/src/ldar/svg/write.go" />
       <jump line="0" column="0" filename="$USER_HOME$/sync/code/go/src/ldar/svg/write.go" />
@@ -295,14 +292,12 @@
       <jump line="49" column="66" filename="$USER_HOME$/sync/code/go/src/zhvocs/routers/router.go" />
       <jump line="96" column="16" filename="$USER_HOME$/sync/code/go/src/ldar/component.go" />
       <jump line="85" column="29" filename="$USER_HOME$/sync/code/go/src/ldar/component.go" />
-      <jump line="361" column="358" filename="$USER_HOME$/sync/code/go/src/ldar/emission.go" />
       <jump line="109" column="17" filename="$USER_HOME$/sync/code/go/src/ldar/emission.go" />
       <jump line="355" column="110" filename="$USER_HOME$/sync/code/go/src/ldar/emission.go" />
       <jump line="787" column="23" filename="$USER_HOME$/sync/code/go/src/ldar/emission_test.go" />
       <jump line="200" column="50" filename="$USER_HOME$/sync/code/go/src/ldar/constants_test.go" />
       <jump line="0" column="0" filename="$USER_HOME$/sync/code/go/src/ldar/monitor.go" />
       <jump line="347" column="35" filename="$USER_HOME$/sync/code/go/src/ldar/emission.go" />
-      <jump line="363" column="25" filename="$USER_HOME$/sync/code/go/src/ldar/emission.go" />
       <jump line="444" column="7" filename="$USER_HOME$/sync/code/go/src/ldar/emission.go" />
       <jump line="469" column="4" filename="$USER_HOME$/sync/code/go/src/ldar/emission.go" />
       <jump line="861" column="4" filename="$USER_HOME$/sync/code/go/src/ldar/emission_test.go" />
@@ -332,58 +327,71 @@
       <jump line="428" column="4" filename="$USER_HOME$/sync/code/go/src/ldar/emission.go" />
       <jump line="759" column="0" filename="$USER_HOME$/sync/code/go/src/ldar/sql_test.go" />
       <jump line="216" column="46" filename="$USER_HOME$/sync/code/go/src/ldar/constants_test.go" />
+      <jump line="361" column="13" filename="$USER_HOME$/sync/code/go/src/ldar/emission.go" />
+      <jump line="363" column="0" filename="$USER_HOME$/sync/code/go/src/ldar/emission.go" />
+      <jump line="452" column="65" filename="$USER_HOME$/sync/code/go/src/ldar/emission.go" />
+      <jump line="427" column="0" filename="$USER_HOME$/sync/code/go/src/ldar/emission.go" />
+      <jump line="83" column="80" filename="$USER_HOME$/sync/code/go/src/ldar/emission.go" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>ddj</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKGNudEd0MTAwMDAsIGNudEx0MTAwMDAsIHVuQ250LCBhQ250LCBlbWlzc2lvbnMpCg==</text>
+      <register name="&quot;" type="4">
+        <text>:</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
-        <text>debug</text>
+        <text>print</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CWZtdC5QcmludGxuKGNudEd0MTAwMDAsIGNudEx0MTAwMDAsIHVuQ250LCBhQ250LCBlbWlzc2lvbnMpCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQlmbXQuUHJpbnRsbihjbnRHdDEwMDAwLCBjbnRMdDEwMDAwLCB1bkNudCwgYUNudCkK</text>
+      <register name="1" type="8">
+        <text>//
+//
+//
+//
+//
+//</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWRiYyA9ICZEQntkYmMuRGVidWcoKX0K</text>
+        <text encoding="base64">CWZtdC5QcmludGxuKGNudEd0MTAwMDAsIGNudEx0MTAwMDAsIHVuQ250LCBhQ250LCBlbWlzc2lvbnMpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKHVuQ250LCBhQ250KQo=</text>
+        <text encoding="base64">CWZtdC5QcmludGxuKGNudEd0MTAwMDAsIGNudEx0MTAwMDAsIHVuQ250LCBhQ250LCBlbWlzc2lvbnMpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXByZXR0eS5QcmludGxuKGFTZWFscykK</text>
+        <text encoding="base64">CWRiYyA9ICZEQntkYmMuRGVidWcoKX0K</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CX0K</text>
+      <register name="5" type="8">
+        <text>//
+//
+//
+//</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQlmbXQuUHJpbnRsbihjbnRHdDEwMDAwLCBjbnRMdDEwMDAwLCB1bkNudCwgYUNudCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWRiYyA9ICZEQntkYmMuRGVidWcoKX0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWMuQXNzZXJ0KGZtdC5TcHJpbnRmKCIlLjVmIiwgZW1pc3Npb25zKSwgRXF1YWxzLCBmbXQuU3ByaW50ZigiJS41ZiIsIDAuMCkpCg==</text>
+        <text encoding="base64">CWZtdC5QcmludGxuKHVuQ250LCBhQ250KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWMuQXNzZXJ0KGNudCwgRXF1YWxzLCAwKQo=</text>
+        <text encoding="base64">CXByZXR0eS5QcmludGxuKGFTZWFscykK</text>
       </register>
       <register name=":" type="4">
         <text>e emission_test.go</text>
       </register>
     </registers>
     <search>
-      <last-search>debug</last-search>
+      <last-search>print</last-search>
       <last-offset />
-      <last-pattern>debug</last-pattern>
+      <last-pattern>print</last-pattern>
       <last-replace>)</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
@@ -391,7 +399,6 @@
     </search>
     <history>
       <history-search>
-        <entry>12:30</entry>
         <entry>12</entry>
         <entry encoding="base64">TGFiZWx7VGV4dDog</entry>
         <entry>Suffix</entry>
@@ -411,6 +418,7 @@
         <entry encoding="base64">XDxEZWJ1Z1w+</entry>
         <entry>pretty</entry>
         <entry>debug</entry>
+        <entry>print</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0xhYmVse1RleHQ6IC9gdGV4dDovZ2M=</entry>
