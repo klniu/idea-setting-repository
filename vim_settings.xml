@@ -57,8 +57,8 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/sync/code/go/src/ldar/constants_test.go" timestamp="1479194141004">
-        <mark key="'" line="200" column="50" />
+      <file name="$USER_HOME$/sync/code/go/src/ldar/constants_test.go" timestamp="1479209461729">
+        <mark key="'" line="216" column="46" />
       </file>
       <file name="$USER_HOME$/sync/code/java/livesim/src/test/java/TreeTest.java" timestamp="1479183596751">
         <mark key="[" line="17" column="37" />
@@ -66,8 +66,8 @@
         <mark key="." line="17" column="38" />
         <mark key="^" line="16" column="53" />
       </file>
-      <file name="$USER_HOME$/sync/code/go/src/ldar/sql_test.go" timestamp="1479190598372">
-        <mark key="'" line="523" column="28" />
+      <file name="$USER_HOME$/sync/code/go/src/ldar/sql_test.go" timestamp="1479211173269">
+        <mark key="'" line="759" column="0" />
         <mark key="[" line="750" column="47" />
         <mark key="]" line="750" column="48" />
         <mark key="." line="750" column="48" />
@@ -144,12 +144,12 @@
         <mark key="]" line="77" column="0" />
         <mark key="." line="77" column="0" />
       </file>
-      <file name="$USER_HOME$/sync/code/go/src/ldar/emission.go" timestamp="1479201922387">
-        <mark key="'" line="451" column="91" />
-        <mark key="[" line="363" column="0" />
-        <mark key="]" line="363" column="26" />
-        <mark key="." line="363" column="0" />
-        <mark key="^" line="451" column="98" />
+      <file name="$USER_HOME$/sync/code/go/src/ldar/emission.go" timestamp="1479210207872">
+        <mark key="'" line="423" column="28" />
+        <mark key="[" line="364" column="0" />
+        <mark key="]" line="365" column="48" />
+        <mark key="." line="365" column="48" />
+        <mark key="^" line="365" column="48" />
       </file>
       <file name="$USER_HOME$/sync/code/go/src/ldar/direction_test.go" timestamp="1476252942723">
         <mark key="[" line="16" column="19" />
@@ -160,12 +160,12 @@
       <file name="$USER_HOME$/workdir/shopping-management-system/0#Java基础项目/shopping-management-system/src/lyons/page/MainPage.java" timestamp="1476752546628">
         <mark key="'" line="159" column="48" />
       </file>
-      <file name="$USER_HOME$/sync/code/go/src/ldar/emission_test.go" timestamp="1479200450153">
-        <mark key="'" line="811" column="82" />
-        <mark key="[" line="811" column="82" />
-        <mark key="]" line="811" column="83" />
-        <mark key="^" line="866" column="76" />
-        <mark key="." line="811" column="83" />
+      <file name="$USER_HOME$/sync/code/go/src/ldar/emission_test.go" timestamp="1479210625239">
+        <mark key="'" line="820" column="78" />
+        <mark key="[" line="831" column="40" />
+        <mark key="]" line="831" column="40" />
+        <mark key="^" line="831" column="40" />
+        <mark key="." line="831" column="40" />
       </file>
       <file name="$USER_HOME$/sync/code/java/ProgrammingProjectList/002-PigLatin/src/PigLatinTest.groovy" timestamp="1474716268391">
         <mark key="[" line="0" column="0" />
@@ -232,13 +232,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="485" column="45" filename="$USER_HOME$/sync/code/go/src/zhvocs/controllers/photo.go" />
-      <jump line="2452" column="86" filename="$USER_HOME$/go/src/github.com/jung-kurt/gofpdf/fpdf.go" />
-      <jump line="59" column="5" filename="$USER_HOME$/go/src/github.com/jung-kurt/gofpdf/def.go" />
-      <jump line="488" column="24" filename="$USER_HOME$/sync/code/go/src/zhvocs/controllers/photo.go" />
-      <jump line="31" column="8" filename="$USER_HOME$/sync/code/go/src/zhvocs/controllers/photo.go" />
-      <jump line="466" column="54" filename="$USER_HOME$/sync/code/go/src/zhvocs/controllers/photo.go" />
-      <jump line="193" column="25" filename="$USER_HOME$/sync/code/go/src/zhvocs/controllers/photo.go" />
       <jump line="199" column="24" filename="$USER_HOME$/sync/code/go/src/zhvocs/controllers/photo.go" />
       <jump line="192" column="21" filename="$USER_HOME$/sync/code/go/src/zhvocs/controllers/photo.go" />
       <jump line="308" column="0" filename="$USER_HOME$/sync/code/go/src/ldar/svg/write.go" />
@@ -332,52 +325,59 @@
       <jump line="356" column="18" filename="$USER_HOME$/sync/code/go/src/ldar/emission.go" />
       <jump line="441" column="61" filename="$USER_HOME$/sync/code/go/src/ldar/emission.go" />
       <jump line="451" column="91" filename="$USER_HOME$/sync/code/go/src/ldar/emission.go" />
+      <jump line="158" column="23" filename="$USER_HOME$/sync/code/go/src/ldar/emission.go" />
+      <jump line="445" column="19" filename="$USER_HOME$/sync/code/go/src/ldar/emission.go" />
+      <jump line="216" column="46" filename="$USER_HOME$/sync/code/go/src/ldar/constants_test.go" />
+      <jump line="820" column="78" filename="$USER_HOME$/sync/code/go/src/ldar/emission_test.go" />
+      <jump line="422" column="28" filename="$USER_HOME$/sync/code/go/src/ldar/emission.go" />
+      <jump line="428" column="4" filename="$USER_HOME$/sync/code/go/src/ldar/emission.go" />
+      <jump line="759" column="0" filename="$USER_HOME$/sync/code/go/src/ldar/sql_test.go" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>ddj</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CWRiYyA9ICZEQntkYmMuRGVidWcoKX0K</text>
+        <text encoding="base64">CWZtdC5QcmludGxuKGNudEd0MTAwMDAsIGNudEx0MTAwMDAsIHVuQ250LCBhQ250LCBlbWlzc2lvbnMpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>debug</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">c2VhbHMudHlwZSY/PjA=</text>
+      <register name="0" type="2">
+        <text encoding="base64">CWZtdC5QcmludGxuKGNudEd0MTAwMDAsIGNudEx0MTAwMDAsIHVuQ250LCBhQ250LCBlbWlzc2lvbnMpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWRiYyA9ICZEQntkYmMuRGVidWcoKX0K</text>
+        <text encoding="base64">CQlmbXQuUHJpbnRsbihjbnRHdDEwMDAwLCBjbnRMdDEwMDAwLCB1bkNudCwgYUNudCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKHVuQ250LCBhQ250KQo=</text>
+        <text encoding="base64">CWRiYyA9ICZEQntkYmMuRGVidWcoKX0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXByZXR0eS5QcmludGxuKGFTZWFscykK</text>
+        <text encoding="base64">CWZtdC5QcmludGxuKHVuQ250LCBhQ250KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">CXByZXR0eS5QcmludGxuKGFTZWFscykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CWMuQXNzZXJ0KGZtdC5TcHJpbnRmKCIlLjVmIiwgZW1pc3Npb25zKSwgRXF1YWxzLCBmbXQuU3ByaW50ZigiJS41ZiIsIDAuMCkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWMuQXNzZXJ0KGNudCwgRXF1YWxzLCAwKQo=</text>
+        <text encoding="base64">CWMuQXNzZXJ0KGZtdC5TcHJpbnRmKCIlLjVmIiwgZW1pc3Npb25zKSwgRXF1YWxzLCBmbXQuU3ByaW50ZigiJS41ZiIsIDAuMCkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWMuQXNzZXJ0KGVyciwgSXNOaWwpCg==</text>
+        <text encoding="base64">CWMuQXNzZXJ0KGNudCwgRXF1YWxzLCAwKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>e emission.go</text>
+        <text>e emission_test.go</text>
       </register>
     </registers>
     <search>
@@ -429,10 +429,10 @@
         <entry encoding="base64">JzwsJz5zLyQvKS9nYw==</entry>
         <entry encoding="base64">YWN0aW9uIA==</entry>
         <entry>actionlist</entry>
-        <entry>e emission_test.go</entry>
         <entry>q</entry>
         <entry>help gu</entry>
         <entry>e emission.go</entry>
+        <entry>e emission_test.go</entry>
       </history-cmd>
       <history-expr />
       <history-input />
