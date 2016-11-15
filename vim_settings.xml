@@ -63,12 +63,11 @@
         <mark key="." line="17" column="38" />
         <mark key="^" line="16" column="53" />
       </file>
-      <file name="$USER_HOME$/sync/code/go/src/ldar/sql_test.go" timestamp="1479180019799">
+      <file name="$USER_HOME$/sync/code/go/src/ldar/sql_test.go" timestamp="1479190598372">
         <mark key="'" line="523" column="28" />
-        <mark key="[" line="524" column="28" />
-        <mark key="]" line="525" column="46" />
-        <mark key="^" line="525" column="46" />
-        <mark key="." line="525" column="46" />
+        <mark key="[" line="750" column="47" />
+        <mark key="]" line="750" column="48" />
+        <mark key="." line="750" column="48" />
       </file>
       <file name="$USER_HOME$/workdir/shopping-management-system/0#Java基础项目/shopping-management-system/src/lyons/db/DbConn.java" timestamp="1476753069988">
         <mark key="'" line="23" column="14" />
@@ -170,11 +169,12 @@
         <mark key="]" line="486" column="0" />
         <mark key="." line="486" column="0" />
       </file>
-      <file name="$USER_HOME$/sync/code/go/src/ldar/component.go" timestamp="1479174000855">
-        <mark key="[" line="22" column="80" />
-        <mark key="]" line="22" column="80" />
-        <mark key="." line="22" column="80" />
-        <mark key="^" line="22" column="71" />
+      <file name="$USER_HOME$/sync/code/go/src/ldar/component.go" timestamp="1479190408066">
+        <mark key="'" line="85" column="29" />
+        <mark key="[" line="92" column="53" />
+        <mark key="]" line="92" column="53" />
+        <mark key="." line="92" column="53" />
+        <mark key="^" line="92" column="53" />
       </file>
       <file name="$USER_HOME$/sync/code/go/src/zhvocs/controllers/monitor.go" timestamp="1478568227161">
         <mark key="'" line="142" column="34" />
@@ -222,8 +222,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="151" column="0" filename="$USER_HOME$/sync/code/java/ProgrammingProjectList/README-EN.md" />
-      <jump line="109" column="0" filename="$USER_HOME$/sync/code/java/ProgrammingProjectList/README-EN.md" />
       <jump line="7" column="11" filename="$USER_HOME$/sync/code/java/ProgrammingProjectList/001-ReverseString/src/ReverseString.java" />
       <jump line="1" column="0" filename="$USER_HOME$/sync/code/java/ProgrammingProjectList/001-ReverseString/src/ReverseString.java" />
       <jump line="15" column="0" filename="$USER_HOME$/sync/code/java/ProgrammingProjectList/002-PigLatin/src/PigLatinTest.groovy" />
@@ -322,58 +320,60 @@
       <jump line="525" column="47" filename="$USER_HOME$/sync/code/go/src/ldar/sql.go" />
       <jump line="706" column="32" filename="$USER_HOME$/sync/code/go/src/ldar/sql.go" />
       <jump line="49" column="66" filename="$USER_HOME$/sync/code/go/src/zhvocs/routers/router.go" />
+      <jump line="96" column="16" filename="$USER_HOME$/sync/code/go/src/ldar/component.go" />
+      <jump line="85" column="29" filename="$USER_HOME$/sync/code/go/src/ldar/component.go" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>ddj</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CWNvbS5JbnN0YWxsSUQgPSAyCg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">Tm8g</text>
       </register>
       <register name="/" type="4">
-        <text>joins</text>
+        <text>range</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMobmV3IFRyZWUoMjA0ODAwMDApLmdldExldmVsKCksIDEyKTsK</text>
+        <text encoding="base64">CWNvbS5JbnN0YWxsTm8gPSAyCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">CWNvbS5JbnN0YWxsSUQgPSAyCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0RXF1YWxzKG5ldyBUcmVlKGV4cCkuZ2V0TGV2ZWwoKSwgaSsxKTsK</text>
+        <text encoding="base64">CWMuQXNzZXJ0KHNlYWxzWzBdLlRhZywgRXF1YWxzLCAiOTk5OTAwMDkwMExGMDEiKQoJYy5Bc3NlcnQoc2VhbHNbMF0uVGFnLCBFcXVhbHMsICI5OTk5MDAwOTAwTEYwMiIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhwICs9MTsK</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0RXF1YWxzKG5ldyBUcmVlKGV4cCkuZ2V0TGV2ZWwoKSwgaSsxKTsK</text>
+        <text encoding="base64">CWNvbS5ObyAgPSA4MDAKCWVyciA9IGRiYy5VcGRhdGUoJmNvbSkKCWMuQXNzZXJ0KGVyciwgSXNOaWwpCglzZWFscywgZXJyIDo9IGRiYy5TZWFscygiY29tcG9uZW50X2lkPT8iLCBjb20uSUQpCgljLkFzc2VydChlcnIsIElzTmlsKQoJYy5Bc3NlcnQoc2VhbHNbMF0uVGFnLCBFcXVhbHMsICI5OTk5MDAwOTAwTEYwMSIpCgljLkFzc2VydChzZWFsc1swXS5UYWcsIEVxdWFscywgIjk5OTkwMDA5MDBMRjAyIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IGV4cCA9IChpbnQpTWF0aC5wb3coMi4wLCBpKSo1MDAwOwo=</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IDExOyBpKyspIHsK</text>
+        <text encoding="base64">CWNvbS4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhwID0gCg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMobmV3IFRyZWUoMSkuZ2V0TGV2ZWwoKSwgMSk7Cg==</text>
+        <text encoding="base64">CgkJLy8gdXBkYXRlCgkJdW5pdHNbMF0uSUQgPSAxCgl1bml0c1swXS5OYW1lID0gIuefs+WMluS6jOWOgiIKCWVyciA9IGRiYy5VcGRhdGUodW5pdHNbOjFdKQoJdW5pdHNfcSwgZXJyIDo9IGRiYy5Vbml0cygibmFtZT0/IiwgIuefs+WMluS6jOWOgiIpCgljLkFzc2VydChlcnIsIElzTmlsKQoJYy5Bc3NlcnQodW5pdHNfcVswXSwgRGVlcEVxdWFscywgdW5pdHNbMF0pCgoJLy8gdXBkYXRlCglhcmVhc1swXS5JRCA9IDEKCWFyZWFzWzBdLk5hbWUgPSAi6L2754OD6KOF572u5Yy6IgoJZXJyID0gZGJjLlVwZGF0ZShhcmVhc1s6MV0pCgljLkFzc2VydChlcnIsIElzTmlsKQoJYXJlYXNRLCBlcnIgOj0gZGJjLkluc3RhbGxzKCJuYW1lPT8iLCAi6L2754OD6KOF572u5Yy6IikKCWMuQXNzZXJ0KGVyciwgSXNOaWwpCgljLkFzc2VydChhcmVhc1FbMF0sIERlZXBFcXVhbHMsIGFyZWFzWzBdKQoKCXBob3Rvc1swXS5OYW1lID0gIklNR19VcGRhdGUiCgkvLyBjaGFuZ2UgaWQgZm9yIHVwZGF0aW5nCglwaG90b3NbMF0uSUQgPSAxCgllcnIgPSBkYmMuVXBkYXRlKHBob3Rvc1s6MV0pCgljLkFzc2VydChlcnIsIElzTmlsKQoJcHMsIGVyciA6PSBkYmMuQ29tcG9uZW50cygtMSwgLTEsICJuYW1lPT8iLCAiSU1HX1VwZGF0ZSIpCgljLkFzc2VydChlcnIsIElzTmlsKQoJYy5Bc3NlcnQocHNbMF0sIERlZXBFcXVhbHMsIHBob3Rvc1swXSkKCglzZWFsc1swXS5JRCA9IDEKCXNlYWxzWzBdLlR5cGUgPSBTYW1wbGUKCWVyciA9IGRiYy5VcGRhdGUoc2VhbHNbOjFdKQoJYy5Bc3NlcnQoZXJyLCBJc05pbCkKCXNzLCBlcnIgOj0gZGJjLlNlYWxzKCJ0eXBlPT8iLCBTYW1wbGUpCgljLkFzc2VydChlcnIsIElzTmlsKQoJYy5Bc3NlcnQoc3NbMF0sIERlZXBFcXVhbHMsIHNlYWxzWzBdKQoKCWRldGVjdHNbMF0uSUQgPSAxCglkZXRlY3RzWzBdLkZJRCA9IDEwMi4zCgllcnIgPSBkYmMuVXBkYXRlKGRldGVjdHNbOjFdKQoJYy5Bc3NlcnQoZXJyLCBJc05pbCkKCW1zLCBlcnIgOj0gZGJjLkRldGVjdGlvbnMoLTEsIC0xLCAiaWQ9PyIsIDEpCgljLkFzc2VydChlcnIsIElzTmlsKQoJYy5Bc3NlcnQobXNbMF0sIERlZXBFcXVhbHMsIGRldGVjdHNbMF0pCgoJcmVwYWlyc1swXS5JRCA9IDEKCXJlcGFpcnNbMF0uRGV0ZWN0aW9uSUQgPSAyCglyZXBhaXJzWzBdLkZJRCA9IDIzOAoJZXJyID0gZGJjLlVwZGF0ZShyZXBhaXJzWzoxXSkKCWMuQXNzZXJ0KGVyciwgSXNOaWwpCglycywgZXJyIDo9IGRiYy5SZXBhaXJzKC0xLCAtMSwgImRldGVjdGlvbl9pZD0/IiwgMikKCWMuQXNzZXJ0KGVyciwgSXNOaWwpCgljLkFzc2VydChyc1swXSwgRGVlcEVxdWFscywgcmVwYWlyc1swXSkKCglkZWxheVJlcGFpcnNbMF0uSUQgPSAxCglkZWxheVJlcGFpcnNbMF0uRGV0ZWN0aW9uSUQgPSAyCgllcnIgPSBkYmMuVXBkYXRlKGRlbGF5UmVwYWlyc1s6MV0pCgljLkFzc2VydChlcnIsIElzTmlsKQoJZHJzLCBlcnIgOj0gZGJjLkRlbGF5UmVwYWlycygtMSwgLTEsICJkZXRlY3Rpb25faWQ9PyIsIDIpCgljLkFzc2VydChlcnIsIElzTmlsKQoJYy5Bc3NlcnQoZHJzWzBdLCBEZWVwRXF1YWxzLCBkZWxheVJlcGFpcnNbMF0pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWMuQXNzZXJ0KGxlbihhcmVhc1EpLCBFcXVhbHMsIDIpCg==</text>
+        <text encoding="base64">CWlmIGVyciAhPQo=</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
       </register>
     </registers>
     <search>
-      <last-search>joins</last-search>
+      <last-search>range</last-search>
       <last-offset />
-      <last-pattern>joins</last-pattern>
+      <last-pattern>range</last-pattern>
       <last-replace>)</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
@@ -396,6 +396,7 @@
         <entry>println</entry>
         <entry encoding="base64">XDxVcGRhdGVcPg==</entry>
         <entry>joins</entry>
+        <entry>range</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0xhYmVse1RleHQ6IC9gdGV4dDovZ2M=</entry>
