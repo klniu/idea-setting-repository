@@ -115,8 +115,11 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="21" column="8" />
       </file>
-      <file name="$USER_HOME$/sync/code/go/src/zhvocs/controllers/ldarStatics.go" timestamp="1479176071964">
-        <mark key="'" line="122" column="74" />
+      <file name="$USER_HOME$/sync/code/go/src/zhvocs/controllers/ldarStatics.go" timestamp="1479258044419">
+        <mark key="'" line="119" column="74" />
+        <mark key="[" line="161" column="0" />
+        <mark key="]" line="163" column="40" />
+        <mark key="." line="161" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/untitled/src/Test.java" timestamp="1472951202493">
         <mark key="[" line="4" column="23" />
@@ -217,6 +220,12 @@
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/sync/code/go/src/zhvocs/conf/app.conf" timestamp="1479257088739">
+        <mark key="[" line="11" column="35" />
+        <mark key="]" line="11" column="41" />
+        <mark key="." line="11" column="41" />
+        <mark key="^" line="11" column="41" />
       </file>
       <file name="/fragment.java" timestamp="1476752110368">
         <mark key="[" line="0" column="0" />
@@ -337,52 +346,44 @@
       <register name="a" type="4">
         <text>ddj</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>:</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJdG90YWxDb3VudFswXSArPSBlLkNvdW50CgkJCXRvdGFsWzBdICs9IGUuQmVmb3JlUmVwYWlyaW5nCgkJCXRvdGFsWzFdICs9IGUuQWZ0ZXJSZXBhaXJpbmcK</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>BeforeRepairing</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKGNudEd0MTAwMDAsIGNudEx0MTAwMDAsIHVuQ250LCBhQ250LCBlbWlzc2lvbnMpCg==</text>
+        <text encoding="base64">CQkJdG90YWxDb3VudFswXSArPSBlLkNvdW50CgkJCXRvdGFsWzBdICs9IGUuQmVmb3JlUmVwYWlyaW5nCgkJCXRvdGFsWzFdICs9IGUuQWZ0ZXJSZXBhaXJpbmcK</text>
       </register>
-      <register name="1" type="8">
-        <text>//
-//
-//
-//
-//
-//</text>
+      <register name="1" type="2">
+        <text encoding="base64">CQkJCXRvdGFsQ291bnRbMF0gKz0gYUNudAoJCQkJdG90YWxbMF0gKz0gYUVtaXNzaW9ucwoJCQkJdG90YWxbMV0gKz0gYUVtaXNzaW9ucwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKGNudEd0MTAwMDAsIGNudEx0MTAwMDAsIHVuQ250LCBhQ250LCBlbWlzc2lvbnMpCg==</text>
+        <text encoding="base64">CQkJCWUuQmVmb3JlUmVwYWlyaW5nKz1hRW1pc3Npb25zCgkJCQllLis9YUVtaXNzaW9ucwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKGNudEd0MTAwMDAsIGNudEx0MTAwMDAsIHVuQ250LCBhQ250LCBlbWlzc2lvbnMpCg==</text>
+        <text encoding="base64">CQkJCXt9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CWRiYyA9ICZEQntkYmMuRGVidWcoKX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="8">
-        <text>//
-//
-//
-//</text>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJCQl0b3RhbFsxXSArPSBhRW1pc3Npb25zCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlmbXQuUHJpbnRsbihjbnRHdDEwMDAwLCBjbnRMdDEwMDAwLCB1bkNudCwgYUNudCkK</text>
+        <text encoding="base64">CQkJCQl0b3RhbFswXSArPSBhRW1pc3Npb25zCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CWRiYyA9ICZEQntkYmMuRGVidWcoKX0K</text>
+        <text encoding="base64">CQkJCQl0b3RhbENvdW50WzBdICs9IGFDbnQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKHVuQ250LCBhQ250KQo=</text>
+        <text encoding="base64">CQkJdG90YWxbMV0gKz0gZS5BZnRlclJlcGFpcmluZwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CXByZXR0eS5QcmludGxuKGFTZWFscykK</text>
+        <text encoding="base64">CQkJdG90YWxbMF0gKz0gZS5CZWZvcmVSZXBhaXJpbmcK</text>
       </register>
       <register name=":" type="4">
         <text>e emission_test.go</text>
@@ -399,6 +400,7 @@
     </search>
     <history>
       <history-search>
+        <entry>12:30</entry>
         <entry>12</entry>
         <entry encoding="base64">TGFiZWx7VGV4dDog</entry>
         <entry>Suffix</entry>
@@ -418,7 +420,6 @@
         <entry encoding="base64">XDxEZWJ1Z1w+</entry>
         <entry>pretty</entry>
         <entry>debug</entry>
-        <entry>print</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0xhYmVse1RleHQ6IC9gdGV4dDovZ2M=</entry>
@@ -437,10 +438,10 @@
         <entry encoding="base64">JzwsJz5zLyQvKS9nYw==</entry>
         <entry encoding="base64">YWN0aW9uIA==</entry>
         <entry>actionlist</entry>
+        <entry>e emission_test.go</entry>
         <entry>q</entry>
         <entry>help gu</entry>
         <entry>e emission.go</entry>
-        <entry>e emission_test.go</entry>
       </history-cmd>
       <history-expr />
       <history-input />
