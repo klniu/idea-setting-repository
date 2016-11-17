@@ -89,11 +89,11 @@
         <mark key="^" line="3" column="37" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/sync/code/java/livesim/src/main/java/Category.java" timestamp="1479361167076">
-        <mark key="[" line="34" column="30" />
-        <mark key="]" line="35" column="20" />
-        <mark key="." line="35" column="20" />
-        <mark key="^" line="35" column="20" />
+      <file name="$USER_HOME$/sync/code/java/livesim/src/main/java/Category.java" timestamp="1479371249935">
+        <mark key="[" line="5" column="23" />
+        <mark key="]" line="5" column="37" />
+        <mark key="." line="5" column="37" />
+        <mark key="^" line="5" column="37" />
       </file>
       <file name="$USER_HOME$/sync/code/go/src/ldar/component.go" timestamp="1479190408066">
         <mark key="'" line="85" column="29" />
@@ -113,6 +113,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/sync/code/java/livesim/src/main/java/History.java" timestamp="1479371703760">
+        <mark key="[" line="9" column="11" />
+        <mark key="]" line="10" column="9" />
+        <mark key="." line="10" column="9" />
+        <mark key="^" line="10" column="9" />
       </file>
       <file name="$USER_HOME$/sync/code/java/livesim/DESIGN.md" timestamp="1479355574389">
         <mark key="[" line="11" column="16" />
@@ -173,11 +179,12 @@
         <mark key="." line="18" column="14" />
         <mark key="^" line="18" column="14" />
       </file>
-      <file name="$USER_HOME$/sync/code/java/livesim/src/main/java/Task.java" timestamp="1479368771220">
-        <mark key="[" line="65" column="8" />
-        <mark key="]" line="65" column="14" />
-        <mark key="." line="65" column="14" />
-        <mark key="^" line="65" column="14" />
+      <file name="$USER_HOME$/sync/code/java/livesim/src/main/java/Task.java" timestamp="1479371651142">
+        <mark key="'" line="63" column="0" />
+        <mark key="[" line="14" column="33" />
+        <mark key="]" line="14" column="34" />
+        <mark key="." line="14" column="34" />
+        <mark key="^" line="14" column="32" />
       </file>
       <file name="$USER_HOME$/go/src/github.com/nfnt/resize/filters.go" timestamp="1476169694172">
         <mark key="[" line="20" column="0" />
@@ -193,7 +200,7 @@
         <mark key="]" line="163" column="40" />
         <mark key="." line="161" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1479352388061">
+      <file name="/Dummy.txt" timestamp="1479371858584">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/sync/code/go/src/ldar/common.go" timestamp="1478592598194">
@@ -202,11 +209,11 @@
         <mark key="]" line="77" column="0" />
         <mark key="." line="77" column="0" />
       </file>
-      <file name="$USER_HOME$/sync/code/java/livesim/src/main/java/Action.java" timestamp="1479287708320">
-        <mark key="[" line="5" column="12" />
-        <mark key="]" line="5" column="12" />
-        <mark key="." line="5" column="12" />
-        <mark key="^" line="5" column="11" />
+      <file name="$USER_HOME$/sync/code/java/livesim/src/main/java/Action.java" timestamp="1479371899295">
+        <mark key="[" line="9" column="82" />
+        <mark key="]" line="10" column="32" />
+        <mark key="." line="10" column="32" />
+        <mark key="^" line="10" column="32" />
       </file>
       <file name="$USER_HOME$/sync/code/go/src/ldar/emission.go" timestamp="1479215653616">
         <mark key="'" line="83" column="80" />
@@ -258,7 +265,7 @@
         <mark key="." line="11" column="41" />
         <mark key="^" line="11" column="41" />
       </file>
-      <file name="/fragment.java" timestamp="1479360769532">
+      <file name="/fragment.java" timestamp="1479371858591">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -271,7 +278,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="9" filename="$USER_HOME$/sync/code/go/src/ldar/svg/write.go" />
       <jump line="405" column="0" filename="$USER_HOME$/sync/code/go/src/ldar/svg/write.go" />
       <jump line="0" column="0" filename="$USER_HOME$/sync/code/go/src/ldar/svg/write.go" />
       <jump line="522" column="5" filename="$USER_HOME$/sync/code/go/src/zhvocs/controllers/photo.go" />
@@ -371,49 +377,50 @@
       <jump line="452" column="65" filename="$USER_HOME$/sync/code/go/src/ldar/emission.go" />
       <jump line="427" column="0" filename="$USER_HOME$/sync/code/go/src/ldar/emission.go" />
       <jump line="83" column="80" filename="$USER_HOME$/sync/code/go/src/ldar/emission.go" />
+      <jump line="63" column="0" filename="$USER_HOME$/sync/code/java/livesim/src/main/java/Task.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>ddj</text>
       </register>
       <register name="&quot;" type="4">
-        <text>void</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>void</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgRGF0ZSBkdWVUbzsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBib29sZWFuIGFkZFVzZXJzKENvbGxlY3Rpb248VXNlcj4gdXNlcnMpIHsKICAgICAgICByZXR1cm4gdXNlcnMuYWRkQWxsKHVzZXJzKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGVzCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBDYXRlZ29yeTxFPiBjYXRlZ29yeQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmNhdGVnb3JpZXMgPSBjYXRlZ29yaWVzOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBlbnVtIFR5cGUge0FDVElPTiwgVEFTS30K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBoYXNDYXRlZ29yaWVzOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIGlmIGEgY2F0ZWdvcnkgaGFzIHN1YiBjYXRlZ29yaWVzLCBpdCBjYW4ndCBpbmNsdWRlIGl0ZW1zLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBUYXNrKFN0cmluZyBuYW1lLCBTdHJpbmcgZGVzYywgaW50IHNjb3JlLCBMb2NhbERhdGVUaW1lIGR1ZVRvLCBMb2NhbERhdGVUaW1lIGFsYXJtVGltZSwgQWxhcm1NZXRob2QgYWxhcm1NZXRob2QpIHsKICAgICAgICBzdXBlcihuYW1lLCBkZXNjLCBzY29yZSk7CiAgICAgICAgdGhpcy5kdWVUbyA9IGR1ZVRvOwogICAgICAgIHRoaXMuYWxhcm1UaW1lID0gYWxhcm1UaW1lOwogICAgICAgIHRoaXMuYWxhcm1NZXRob2QgPSBhbGFybU1ldGhvZDsKICAgIH0KCiAgICBwdWJsaWMgVGFzayhTdHJpbmcgbmFtZSwgU3RyaW5nIGRlc2MsIGludCBzY29yZSwgTG9jYWxEYXRlVGltZSBkdWVUbykgewogICAgICAgIHN1cGVyKG5hbWUsIGRlc2MsIHNjb3JlKTsKICAgICAgICB0aGlzLmR1ZVRvID0gZHVlVG87CiAgICB9CgogICAgcHVibGljIFRhc2soU3RyaW5nIG5hbWUsIFN0cmluZyBkZXNjLCBpbnQgc2NvcmUpIHsKICAgICAgICBzdXBlcihuYW1lLCBkZXNjLCBzY29yZSk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGVzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBzZgo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmNhdGVnb3JpZXMgPSBjYXRlZ29yaWVzOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBoYXNDYXRlZ29yaWVzOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZW51bSBBbGFybU1ldGhvZCB7QUxBUk1fRU1BSUwsIEFMQVJNX1dFQ0hBVH07Cg==</text>
+        <text encoding="base64">ICAgIC8vIGlmIGEgY2F0ZWdvcnkgaGFzIHN1YiBjYXRlZ29yaWVzLCBpdCBjYW4ndCBpbmNsdWRlIGl0ZW1zLgo=</text>
       </register>
       <register name=":" type="4">
         <text>e emission_test.go</text>
