@@ -104,18 +104,17 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/sync/code/java/livesim/src/test/java/HistoryTest.java" timestamp="1479534471398">
-        <mark key="[" line="26" column="19" />
-        <mark key="]" line="26" column="26" />
-        <mark key="^" line="26" column="26" />
-        <mark key="." line="26" column="26" />
+      <file name="$USER_HOME$/sync/code/java/livesim/src/test/java/HistoryTest.java" timestamp="1479538444538">
+        <mark key="[" line="27" column="38" />
+        <mark key="]" line="27" column="41" />
+        <mark key="." line="27" column="41" />
+        <mark key="^" line="27" column="41" />
       </file>
-      <file name="$USER_HOME$/sync/code/java/livesim/src/main/java/History.java" timestamp="1479534592901">
+      <file name="$USER_HOME$/sync/code/java/livesim/src/main/java/History.java" timestamp="1479538267963">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="57" column="36" />
-        <mark key="]" line="57" column="36" />
-        <mark key="." line="57" column="36" />
-        <mark key="^" line="57" column="36" />
+        <mark key="[" line="62" column="42" />
+        <mark key="]" line="62" column="81" />
+        <mark key="." line="62" column="0" />
       </file>
       <file name="$USER_HOME$/sync/code/java/livesim/DESIGN.md" timestamp="1479355574389">
         <mark key="[" line="11" column="16" />
@@ -171,12 +170,12 @@
         <mark key="." line="18" column="14" />
         <mark key="^" line="18" column="14" />
       </file>
-      <file name="$USER_HOME$/sync/code/java/livesim/src/main/java/Task.java" timestamp="1479437592175">
-        <mark key="'" line="67" column="0" />
-        <mark key="[" line="12" column="35" />
-        <mark key="]" line="12" column="74" />
-        <mark key="." line="20" column="24" />
-        <mark key="^" line="20" column="24" />
+      <file name="$USER_HOME$/sync/code/java/livesim/src/main/java/Task.java" timestamp="1479538696201">
+        <mark key="'" line="8" column="46" />
+        <mark key="[" line="8" column="50" />
+        <mark key="]" line="8" column="50" />
+        <mark key="." line="8" column="50" />
+        <mark key="^" line="18" column="24" />
       </file>
       <file name="/HTML File.txt.ft" timestamp="1479352385229">
         <mark key="[" line="0" column="0" />
@@ -265,7 +264,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="8" filename="$USER_HOME$/sync/code/go/src/zhvocs/controllers/common.go" />
       <jump line="234" column="17" filename="$USER_HOME$/sync/code/go/src/zhvocs/controllers/photo.go" />
       <jump line="465" column="53" filename="$USER_HOME$/sync/code/go/src/zhvocs/controllers/photo.go" />
       <jump line="203" column="18" filename="$USER_HOME$/sync/code/go/src/zhvocs/controllers/photo.go" />
@@ -365,49 +363,50 @@
       <jump line="57" column="27" filename="$USER_HOME$/sync/code/java/livesim/src/main/java/History.java" />
       <jump line="56" column="24" filename="$USER_HOME$/sync/code/java/livesim/src/main/java/History.java" />
       <jump line="0" column="0" filename="$USER_HOME$/sync/code/java/livesim/src/main/java/History.java" />
+      <jump line="8" column="46" filename="$USER_HOME$/sync/code/java/livesim/src/main/java/Task.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>ddj</text>
       </register>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBhY3Rpb24gaXMgZXhlY3V0ZWQuCiAgICAgICAgaGlzdG9yeSA9IG5ldyBIaXN0b3J5PEFjdGlvbj4oYWN0aW9uLCBMb2NhbERhdGVUaW1lLm5vdygpKTsKICAgICAgICBhc3NlcnRFcXVhbHMoaGlzdG9yeS50b1N0cmluZygpLCAiVGhlIGFjdGlvbiBUZXN0IHdhcyBleGVjdXRlZC4iKTsK</text>
+        <text encoding="base64">ICAgICAgICBoaXN0b3J5ID0gbmV3IEhpc3Rvcnk8QWN0aW9uPih0YXNrLCBMb2NhbERhdGVUaW1lLm5vdygpLCBIaXN0b3J5LkFjdGlvblN0YXR1cy5ORVcpOwogICAgICAgIGFzc2VydEVxdWFscyhoaXN0b3J5LnRvU3RyaW5nKCksICJUaGUgdGFzayBUZXN0MSB3YXMgY3JlYXRlZC4iKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgQWN0aW9uUwo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoaGlzdG9yeS50b1N0cmluZygpLCAiVGhlIGFjdGlvbiBUZXN0IHdhcyBleGVjdXRlZC4iKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBoaXN0b3J5ID0gbmV3IEhpc3Rvcnk8QWN0aW9uPih0YXNrLCBMb2NhbERhdGVUaW1lLm5vdygpLCBIaXN0b3J5LkFjdGlvblN0YXR1cy5GSU5JU0hFRCk7CiAgICAgICAgYXNzZXJ0RXF1YWxzKGhpc3RvcnkudG9TdHJpbmcoKSwgIlRoZSBzdGF0dXMgb2YgdGFzayBUZXN0MSB3YXMgY2hhbmdlZCB0byBmaW5pc2hlZC4iKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gU3RyaW5nLmZvcm1hdCgiVGhlIHN0YXR1cyBvZiB0YXNrICVzIHdhcyBjaGFuZ2VkIHRvICVzLiIsIGFjdGlvbi5nZXROYW1lKCksIHN0YXR1cy5kZXNjKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFN0cmluZy5mb3JtYXQoIlRoZSBzdGF0dXMgb2YgdGFzayAlcyB3YXMgY2hhbmdlZCB0byAlcy4iLCBhY3Rpb24uZ2V0TmFtZSgpLCBzdGF0dXMuZGVzYyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBIaXN0b3J5PEFjdGlvbj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBIaXN0b3J5PEFjdGlvbj4gaGlzdG9yeSA9IG5ldyBIaXN0b3J5PEFjdGlvbj4oYWN0aW9uLCBMb2NhbERhdGVUaW1lLm5vdygpLCApOwogICAgICAgIGFzc2VydEVxdWFscyhoaXN0b3J5LnRvU3RyaW5nKCksICJUaGUgYWN0aW9uIFRlc3Qgd2FzIGV4ZWN1dGVkLiIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBicmVhZGRrOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICBIaXN0b3J5PEFjdGlvbj4gaGlzdG9yeSA9IG5ldyBIaXN0b3J5PEFjdGlvbj4oYWN0aW9uLCBMb2NhbERhdGVUaW1lLm5vdygpLCApOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmRlc2MgPSBkZXNjOwo=</text>
+        <text encoding="base64">ICAgICAgICBBY3Rpb24gYWN0aW9uID0gYWN0aW9uMTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3dpdGNoIChzdGF0dXMpIHsKICAgICAgICAgICAgICAgIGNhc2UgVU5GSU5JU0hFRDoKICAgICAgICAgICAgICAgICAgICByZXR1cm4gU3RyaW5nLmZvcm1hdCgiVGhlIHN0YXR1cyBvZiB0YXNrICVzIHdhcyBjaGFuZ2VkIHRvICVzLiIsIGFjdGlvbi5nZXROYW1lKCksIHN0YXR1cy5kZXNjKTsKICAgICAgICAgICAgICAgIGNhc2UgT1ZFUlRJTUU6CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIFN0cmluZy5mb3JtYXQoIlRoZSBzdGF0dXMgb2YgdGFzayAlcyB3YXMgY2hhbmdlZCB0byAlcy4iLCBhY3Rpb24uZ2V0TmFtZSgpLCBzdGF0dXMuZGVzYyk7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgQWN0aW9uUwo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
@@ -446,8 +445,6 @@
         <entry>debug</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL0xhYmVse1RleHQ6IC9gdGV4dDovZ2M=</entry>
-        <entry encoding="base64">JzwsJz5zL1N1ZmZpeC91bml0Oi9nYw==</entry>
         <entry encoding="base64">JzwsJz5zL1N1ZmZpeC91bml0L2dj</entry>
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zL14kLy9nYw==</entry>
@@ -465,6 +462,8 @@
         <entry>e emission_test.go</entry>
         <entry>help gu</entry>
         <entry>e emission.go</entry>
+        <entry>tabnew task.java</entry>
+        <entry>tabnew Task.java</entry>
         <entry>q</entry>
       </history-cmd>
       <history-expr />
