@@ -3,8 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workdir/shopping-management-system/0#Java基础项目/shopping-management-system/src/lyons/dao/GoodsDao.java" timestamp="1476753117340">
-        <mark key="'" line="37" column="29" />
+      <file name="$USER_HOME$/workdir/shopping-management-system/0#Java基础项目/shopping-management-system/src/lyons/dao/GoodsDao.java" timestamp="1479702449487">
+        <mark key="'" line="173" column="34" />
       </file>
       <file name="$USER_HOME$/sync/code/go/src/ldar/sql.go" timestamp="1479180069271">
         <mark key="'" line="706" column="32" />
@@ -135,6 +135,9 @@
       <file name="$USER_HOME$/go/src/github.com/jung-kurt/gofpdf/def.go" timestamp="1476342590911">
         <mark key="'" line="59" column="5" />
       </file>
+      <file name="$USER_HOME$/workdir/shopping-management-system/0#Java基础项目/shopping-management-system/src/lyons/page/GoodsPage.java" timestamp="1479702489783">
+        <mark key="'" line="41" column="15" />
+      </file>
       <file name="$USER_HOME$/sync/documents/vocs/plan/VOCs平台/VOCs污染源排查信息化系统操作技术说明.md" timestamp="1475889692936">
         <mark key="[" line="0" column="0" />
       </file>
@@ -161,6 +164,9 @@
         <mark key="[" line="750" column="47" />
         <mark key="]" line="750" column="48" />
         <mark key="." line="750" column="48" />
+      </file>
+      <file name="$USER_HOME$/workdir/shopping-management-system/0#Java基础项目/shopping-management-system/src/lyons/tools/ScannerChoice.java" timestamp="1479702550935">
+        <mark key="'" line="86" column="38" />
       </file>
       <file name="$USER_HOME$/workdir/shopping-management-system/0#Java基础项目/shopping-management-system/src/lyons/db/DbConn.java" timestamp="1476753069988">
         <mark key="'" line="23" column="14" />
@@ -209,8 +215,8 @@
         <mark key="." line="427" column="0" />
         <mark key="^" line="451" column="46" />
       </file>
-      <file name="$USER_HOME$/workdir/shopping-management-system/0#Java基础项目/shopping-management-system/src/lyons/page/MainPage.java" timestamp="1476752546628">
-        <mark key="'" line="159" column="48" />
+      <file name="$USER_HOME$/workdir/shopping-management-system/0#Java基础项目/shopping-management-system/src/lyons/page/MainPage.java" timestamp="1479702169900">
+        <mark key="'" line="95" column="38" />
       </file>
       <file name="$USER_HOME$/sync/code/go/src/ldar/emission_test.go" timestamp="1479215663749">
         <mark key="'" line="820" column="78" />
@@ -252,7 +258,7 @@
         <mark key="." line="11" column="41" />
         <mark key="^" line="11" column="41" />
       </file>
-      <file name="/fragment.java" timestamp="1479443416696">
+      <file name="/fragment.java" timestamp="1479702835706">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -265,12 +271,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/sync/code/go/src/ldar/svg/write.go" />
-      <jump line="522" column="5" filename="$USER_HOME$/sync/code/go/src/zhvocs/controllers/photo.go" />
-      <jump line="524" column="45" filename="$USER_HOME$/sync/code/go/src/zhvocs/controllers/photo.go" />
-      <jump line="23" column="8" filename="$USER_HOME$/sync/code/go/src/zhvocs/controllers/common.go" />
-      <jump line="234" column="17" filename="$USER_HOME$/sync/code/go/src/zhvocs/controllers/photo.go" />
-      <jump line="465" column="53" filename="$USER_HOME$/sync/code/go/src/zhvocs/controllers/photo.go" />
       <jump line="203" column="18" filename="$USER_HOME$/sync/code/go/src/zhvocs/controllers/photo.go" />
       <jump line="191" column="21" filename="$USER_HOME$/sync/code/go/src/zhvocs/controllers/photo.go" />
       <jump line="375" column="16" filename="$USER_HOME$/sync/code/go/src/ldar/svg/write.go" />
@@ -365,6 +365,12 @@
       <jump line="83" column="80" filename="$USER_HOME$/sync/code/go/src/ldar/emission.go" />
       <jump line="63" column="0" filename="$USER_HOME$/sync/code/java/livesim/src/main/java/Task.java" />
       <jump line="34" column="0" filename="$USER_HOME$/sync/code/java/livesim/src/main/java/History.java" />
+      <jump line="95" column="38" filename="$USER_HOME$/workdir/shopping-management-system/0#Java基础项目/shopping-management-system/src/lyons/page/MainPage.java" />
+      <jump line="35" column="33" filename="$USER_HOME$/workdir/shopping-management-system/0#Java基础项目/shopping-management-system/src/lyons/page/GoodsPage.java" />
+      <jump line="193" column="34" filename="$USER_HOME$/workdir/shopping-management-system/0#Java基础项目/shopping-management-system/src/lyons/dao/GoodsDao.java" />
+      <jump line="44" column="15" filename="$USER_HOME$/workdir/shopping-management-system/0#Java基础项目/shopping-management-system/src/lyons/page/GoodsPage.java" />
+      <jump line="85" column="27" filename="$USER_HOME$/workdir/shopping-management-system/0#Java基础项目/shopping-management-system/src/lyons/tools/ScannerChoice.java" />
+      <jump line="86" column="38" filename="$USER_HOME$/workdir/shopping-management-system/0#Java基础项目/shopping-management-system/src/lyons/tools/ScannerChoice.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
