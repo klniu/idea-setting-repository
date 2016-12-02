@@ -36,6 +36,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/workdir/java/livesim/webpack.config.js" timestamp="1480666770929">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="17" column="11" />
+      </file>
       <file name="$USER_HOME$/go/src/github.com/jung-kurt/gofpdf/fpdf.go" timestamp="1476342580813">
         <mark key="'" line="2452" column="86" />
       </file>
@@ -197,7 +203,7 @@
         <mark key="]" line="7" column="11" />
         <mark key="." line="5" column="38" />
       </file>
-      <file name="/Dummy.txt" timestamp="1480664682105">
+      <file name="/Dummy.txt" timestamp="1480664740311">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/sync/code/java/livesim/src/main/java/Action.java" timestamp="1479429714271">
@@ -243,6 +249,11 @@
         <mark key="]" line="15" column="51" />
         <mark key="^" line="15" column="51" />
         <mark key="." line="15" column="51" />
+      </file>
+      <file name="$USER_HOME$/workdir/java/livesim/package.json" timestamp="1480666621752">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/sync/code/go/src/zhvocs/conf/app.conf" timestamp="1479257088739">
         <mark key="[" line="11" column="35" />
@@ -363,10 +374,10 @@
         <text>ddj</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdGVzdDogcGF0aC5qb2luKF9fZGlybmFtZSwgJy4nKSwKICAgICAgICAgICAgICAgIGV4Y2x1ZGU6IC8obm9kZV9tb2R1bGVzKS8sCiAgICAgICAgICAgICAgICBsb2FkZXI6ICdiYWJlbCcsCiAgICAgICAgICAgICAgICBxdWVyeTogewogICAgICAgICAgICAgICAgICAgIGNhY2hlRGlyZWN0b3J5OiB0cnVlLAogICAgICAgICAgICAgICAgICAgIHByZXNldHM6IFsnZXMyMDE1JywgJ3JlYWN0J10KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSwK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
@@ -375,31 +386,31 @@
         <text encoding="base64">ICAgICAgICBoaXN0b3J5ID0gbmV3IEhpc3Rvcnk8QWN0aW9uPih0YXNrLCBMb2NhbERhdGVUaW1lLm5vdygpLCBIaXN0b3J5LkFjdGlvblN0YXR1cy5ORVcpOwogICAgICAgIGFzc2VydEVxdWFscyhoaXN0b3J5LnRvU3RyaW5nKCksICJUaGUgdGFzayBUZXN0MSB3YXMgY3JlYXRlZC4iKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdGVzdDogcGF0aC5qb2luKF9fZGlybmFtZSwgJy4nKSwKICAgICAgICAgICAgICAgIGV4Y2x1ZGU6IC8obm9kZV9tb2R1bGVzKS8sCiAgICAgICAgICAgICAgICBsb2FkZXI6ICdiYWJlbCcsCiAgICAgICAgICAgICAgICBxdWVyeTogewogICAgICAgICAgICAgICAgICAgIGNhY2hlRGlyZWN0b3J5OiB0cnVlLAogICAgICAgICAgICAgICAgICAgIHByZXNldHM6IFsnZXMyMDE1JywgJ3JlYWN0J10KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CSAqIEBwYXJhbSBnbmFtZQo=</text>
+        <text encoding="base64">ICB9LAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoaGlzdG9yeS50b1N0cmluZygpLCAiVGhlIGFjdGlvbiBUZXN0IHdhcyBleGVjdXRlZC4iKTsK</text>
+        <text encoding="base64">ICAic2NyaXB0cyI6IHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJ0ZXN0IjogImVjaG8gXCJFcnJvcjogbm8gdGVzdCBzcGVjaWZpZWRcIiAmJiBleGl0IDEiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFN0cmluZy5mb3JtYXQoIlRoZSBzdGF0dXMgb2YgdGFzayAlcyB3YXMgY2hhbmdlZCB0byAlcy4iLCBhY3Rpb24uZ2V0TmFtZSgpLCBzdGF0dXMuZGVzYyk7Cg==</text>
+        <text encoding="base64">ICAgICJ3YXRjaCI6ICJ3ZWJwYWNrIC0td2F0Y2ggLWQiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBicmVhZGRrOwo=</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBrbG5pdSBvbiAxNi0xMi0yLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
