@@ -36,11 +36,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/workdir/java/livesim/webpack.config.js" timestamp="1480668633048">
-        <mark key="[" line="9" column="19" />
-        <mark key="]" line="9" column="61" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="17" column="11" />
+      <file name="$USER_HOME$/workdir/java/livesim/webpack.config.js" timestamp="1480928637533">
+        <mark key="[" line="3" column="32" />
+        <mark key="]" line="3" column="32" />
+        <mark key="." line="3" column="32" />
+        <mark key="^" line="3" column="32" />
       </file>
       <file name="$USER_HOME$/go/src/github.com/jung-kurt/gofpdf/fpdf.go" timestamp="1476342580813">
         <mark key="'" line="2452" column="86" />
@@ -97,11 +97,12 @@
         <mark key="." line="16" column="40" />
         <mark key="^" line="16" column="40" />
       </file>
-      <file name="$USER_HOME$/workdir/java/livesim/tsconfig.json.js" timestamp="1480668646857">
-        <mark key="[" line="2" column="49" />
-        <mark key="]" line="2" column="49" />
-        <mark key="^" line="2" column="18" />
-        <mark key="." line="2" column="49" />
+      <file name="$USER_HOME$/workdir/java/livesim/tsconfig.json.js" timestamp="1480928569149">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="10" column="19" />
+        <mark key="]" line="10" column="21" />
+        <mark key="^" line="10" column="21" />
+        <mark key="." line="10" column="21" />
       </file>
       <file name="$USER_HOME$/sync/code/java/livesim/src/main/Tree.java" timestamp="1478853333202">
         <mark key="[" line="0" column="0" />
@@ -244,6 +245,9 @@
       <file name="$USER_HOME$/sync/code/go/src/zhvocs/controllers/monitor.go" timestamp="1478568227161">
         <mark key="'" line="142" column="34" />
       </file>
+      <file name="$USER_HOME$/workdir/java/livesim/src/main/java/Main.java" timestamp="1480928896921">
+        <mark key="'" line="0" column="25" />
+      </file>
       <file name="$USER_HOME$/workdir/servlet/src/HelloWord.java" timestamp="1478157412736">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="32" column="0" />
@@ -274,10 +278,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="142" column="34" filename="$USER_HOME$/sync/code/go/src/zhvocs/controllers/monitor.go" />
-      <jump line="57" column="32" filename="$USER_HOME$/sync/code/go/src/ldar/import.go" />
-      <jump line="902" column="20" filename="$USER_HOME$/sync/code/go/src/ldar/monitor.go" />
-      <jump line="77" column="57" filename="$USER_HOME$/sync/code/go/src/ldar/common.go" />
       <jump line="53" column="34" filename="$USER_HOME$/sync/code/go/src/ldar/import.go" />
       <jump line="226" column="46" filename="$USER_HOME$/sync/code/go/src/ldar/monitor.go" />
       <jump line="41" column="67" filename="$USER_HOME$/sync/code/go/src/zhvocs/routers/router.go" />
@@ -374,16 +374,20 @@
       <jump line="51" column="37" filename="$USER_HOME$/workdir/shopping-management-system/0#Java基础项目/shopping-management-system/src/lyons/dao/GoodsDao.java" />
       <jump line="17" column="27" filename="$USER_HOME$/workdir/shopping-management-system/0#Java基础项目/shopping-management-system/src/lyons/db/DbClose.java" />
       <jump line="47" column="16" filename="$USER_HOME$/workdir/shopping-management-system/0#Java基础项目/shopping-management-system/src/lyons/dao/GoodsDao.java" />
+      <jump line="13" column="0" filename="$USER_HOME$/workdir/java/livesim/tsconfig.json.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workdir/java/livesim/tsconfig.json.js" />
+      <jump line="28" column="62" filename="$USER_HOME$/workdir/java/livesim/src/main/java/Main.java" />
+      <jump line="0" column="25" filename="$USER_HOME$/workdir/java/livesim/src/main/java/Main.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>ddj</text>
       </register>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>Hello</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>Hello</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
@@ -392,31 +396,31 @@
         <text>./src/main/resources/static/built/bundle.js</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICAgICIuL3NyYy9pbmRleC50c3giCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBrbG5pdSBvbiAxNi0xMi0yLgo=</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBrbG5pdSBvbiAxNi0xMi0yLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdGVzdDogcGF0aC5qb2luKF9fZGlybmFtZSwgJy4nKSwKICAgICAgICAgICAgICAgIGV4Y2x1ZGU6IC8obm9kZV9tb2R1bGVzKS8sCiAgICAgICAgICAgICAgICBsb2FkZXI6ICdiYWJlbCcsCiAgICAgICAgICAgICAgICBxdWVyeTogewogICAgICAgICAgICAgICAgICAgIGNhY2hlRGlyZWN0b3J5OiB0cnVlLAogICAgICAgICAgICAgICAgICAgIHByZXNldHM6IFsnZXMyMDE1JywgJ3JlYWN0J10KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSwK</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdGVzdDogcGF0aC5qb2luKF9fZGlybmFtZSwgJy4nKSwKICAgICAgICAgICAgICAgIGV4Y2x1ZGU6IC8obm9kZV9tb2R1bGVzKS8sCiAgICAgICAgICAgICAgICBsb2FkZXI6ICdiYWJlbCcsCiAgICAgICAgICAgICAgICBxdWVyeTogewogICAgICAgICAgICAgICAgICAgIGNhY2hlRGlyZWN0b3J5OiB0cnVlLAogICAgICAgICAgICAgICAgICAgIHByZXNldHM6IFsnZXMyMDE1JywgJ3JlYWN0J10KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAic2NyaXB0cyI6IHsK</text>
+        <text encoding="base64">ICB9LAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJ0ZXN0IjogImVjaG8gXCJFcnJvcjogbm8gdGVzdCBzcGVjaWZpZWRcIiAmJiBleGl0IDEiCg==</text>
+        <text encoding="base64">ICAic2NyaXB0cyI6IHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJ3YXRjaCI6ICJ3ZWJwYWNrIC0td2F0Y2ggLWQiCg==</text>
+        <text encoding="base64">ICAgICJ0ZXN0IjogImVjaG8gXCJFcnJvcjogbm8gdGVzdCBzcGVjaWZpZWRcIiAmJiBleGl0IDEiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICJ3YXRjaCI6ICJ3ZWJwYWNrIC0td2F0Y2ggLWQiCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
