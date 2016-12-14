@@ -3,11 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/sync/code/java/mdtools/src/main/java/com/klniu/md/model/Mol.java" timestamp="1481685615417">
-        <mark key="[" line="34" column="17" />
-        <mark key="]" line="34" column="17" />
-        <mark key="^" line="34" column="17" />
-        <mark key="." line="34" column="17" />
+      <file name="$USER_HOME$/sync/code/java/mdtools/src/main/java/com/klniu/md/model/Mol.java" timestamp="1481691215668">
+        <mark key="'" line="23" column="31" />
+        <mark key="[" line="48" column="36" />
+        <mark key="]" line="48" column="45" />
+        <mark key="." line="48" column="45" />
+        <mark key="^" line="48" column="45" />
       </file>
       <file name="$USER_HOME$/workdir/shopping-management-system/0#Java基础项目/shopping-management-system/src/lyons/dao/GoodsDao.java" timestamp="1479614036118">
         <mark key="'" line="47" column="16" />
@@ -65,6 +66,13 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
         <mark key="^" line="21" column="8" />
+      </file>
+      <file name="$USER_HOME$/sync/code/java/mdtools/src/main/java/com/klniu/md/Main.java" timestamp="1481690321154">
+        <mark key="'" line="39" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="7" column="44" />
+        <mark key="." line="0" column="21" />
+        <mark key="^" line="0" column="21" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/untitled/src/Test.java" timestamp="1472951202493">
         <mark key="[" line="4" column="23" />
@@ -230,7 +238,7 @@
         <mark key="^" line="53" column="28" />
         <mark key="." line="53" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1481085310024">
+      <file name="/Dummy.txt" timestamp="1481690175807">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/sync/code/java/livesim/src/main/java/Action.java" timestamp="1479429714271">
@@ -268,10 +276,10 @@
         <mark key="^" line="3" column="17" />
         <mark key="." line="3" column="17" />
       </file>
-      <file name="$USER_HOME$/sync/code/java/mdtools/src/test/java/com/klniu/md/model/MolTest.java" timestamp="1481676153243">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/sync/code/java/mdtools/src/test/java/com/klniu/md/model/MolTest.java" timestamp="1481691400556">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/sync/code/go/src/zhvocs/controllers/monitor.go" timestamp="1478568227161">
         <mark key="'" line="142" column="34" />
@@ -302,17 +310,13 @@
         <mark key="." line="11" column="41" />
         <mark key="^" line="11" column="41" />
       </file>
-      <file name="/fragment.java" timestamp="1481674280430">
+      <file name="/fragment.java" timestamp="1481690292366">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="32" filename="$USER_HOME$/sync/code/go/src/zhvocs/controllers/install.go" />
-      <jump line="84" column="82" filename="$USER_HOME$/sync/code/go/src/zhvocs/routers/router.go" />
-      <jump line="122" column="74" filename="$USER_HOME$/sync/code/go/src/zhvocs/controllers/ldarStatics.go" />
-      <jump line="648" column="11" filename="$USER_HOME$/sync/code/go/src/ldar/sql_test.go" />
       <jump line="651" column="18" filename="$USER_HOME$/sync/code/go/src/ldar/sql_test.go" />
       <jump line="658" column="18" filename="$USER_HOME$/sync/code/go/src/ldar/sql_test.go" />
       <jump line="661" column="11" filename="$USER_HOME$/sync/code/go/src/ldar/sql_test.go" />
@@ -409,13 +413,17 @@
       <jump line="11" column="42" filename="$USER_HOME$/sync/code/java/mdtools/src/main/java/Main.java" />
       <jump line="0" column="0" filename="$USER_HOME$/sync/code/java/mdtools/src/main/java/Main.java" />
       <jump line="4" column="9" filename="$USER_HOME$/sync/code/java/mdtools/src/main/java/Main.java" />
+      <jump line="23" column="31" filename="$USER_HOME$/sync/code/java/mdtools/src/main/java/com/klniu/md/model/Mol.java" />
+      <jump line="6" column="13" filename="$USER_HOME$/sync/code/java/mdtools/src/main/java/com/klniu/md/Main.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/sync/code/java/mdtools/src/main/java/com/klniu/md/Main.java" />
+      <jump line="38" column="0" filename="$USER_HOME$/sync/code/java/mdtools/src/main/java/com/klniu/md/Main.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>ddj</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obW9sLik7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -424,34 +432,34 @@
         <text>print</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMobW9sLmdldEF0b21zTnVtKCksIDQpOwo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoNSwgbW9sLk51bUF0b21zKCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obW9sLik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obW9sLnRvU3RyaW5nKCkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMobW9sLk51bUF0b21zKCksIDUpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMobW9sLk51bUF0b21zKCksIDExKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgT0JNb2wgcmVhZFN0cmluZ09yRmlsZShTdHJpbmcgZm9ybWF0LCBTdHJpbmcgZmlsZU9yU3RyaW5nKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMobW9sLk51bUF0b21zKCksIDUpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBPQm1vbCBvYm1vbCA9IG5ldyBPQk1vbCgpOwogICAgICAgIE9CQ29udmVyc2lvbiBjb252ID0gbmV3IE9CQ29udmVyc2lvbigpOwogICAgICAgIGNvbnYuU2V0SW5Gb3JtYXQoZm9ybWF0KTsKICAgICAgICBzd2l0Y2goZm9ybWF0KSB7CiAgICAgICAgICAgIGNhc2UgInNtaSI6CiAgICAgICAgICAgICAgICBjb252LlJlYWRTdHJpbmcob2Jtb2wsIGZpbGVPclN0cmluZyk7CiAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgY2FzZSAicGRiIjoKICAgICAgICAgICAgICAgIGNvbnYuUmVhZEZpbGUob2Jtb2wsZmlsZU9yU3RyaW5nKTsKICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICBkZWZhdWx0OgogICAgICAgICAgICAgICAgdGhyb3cgbmV3IElsbGVnYWxBcmd1bWVudEV4Y2VwdGlvbigib25seSBhY2NlcHQgc21pLCBwZGIgYXMgaW5wdXQgZm9ybWF0Iik7CiAgICAgICAgfQogICAgICAgIHJldHVybiBvYm1vbDsK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMobW9sLk51bUF0b21zKCksIDEyKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBPQm1vbCBvYm1vbCA9IG5ldyBPQk1vbCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMobW9sLk51bUF0b21zKCksIDEyKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBPQkNvbnZlcnNpb24gY29udiA9IG5ldyBPQkNvbnZlcnNpb24oKTsKICAgICAgICBjb252LlNldEluRm9ybWF0KGZvcm1hdCk7CiAgICAgICAgc3dpdGNoKGZvcm1hdCkgewogICAgICAgICAgICBjYXNlICJzbWkiOgogICAgICAgICAgICAgICAgY29udi5SZWFkU3RyaW5nKG9ibW9sLCBmaWxlT3JTdHJpbmcpOwogICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgIGNhc2UgInBkYiI6CiAgICAgICAgICAgICAgICBjb252LlJlYWRGaWxlKG9ibW9sLGZpbGVPclN0cmluZyk7CiAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgZGVmYXVsdDoKICAgICAgICAgICAgICAgIHRocm93IG5ldyBJbGxlZ2FsQXJndW1lbnRFeGNlcHRpb24oIm9ubHkgYWNjZXB0IHNtaSwgcGRiIGFzIGlucHV0IGZvcm1hdCIpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMobW9sLk51bUF0b21zKCksIDYpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlcih0aGlzKTsK</text>
+        <text encoding="base64">ICAgICAgICBtb2wuRGVsZXRlTm9uUG9sYXJIeWRyb2dlbnMoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
