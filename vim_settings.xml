@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/sync/code/java/mdtools/src/main/java/com/klniu/md/model/Mol.java" timestamp="1482120373902">
-        <mark key="'" line="154" column="16" />
-        <mark key="[" line="129" column="96" />
-        <mark key="]" line="129" column="107" />
-        <mark key="." line="129" column="107" />
-        <mark key="^" line="129" column="107" />
+      <file name="$USER_HOME$/sync/code/java/mdtools/src/main/java/com/klniu/md/model/Mol.java" timestamp="1482138642411">
+        <mark key="'" line="161" column="31" />
+        <mark key="[" line="184" column="51" />
+        <mark key="]" line="184" column="56" />
+        <mark key="." line="184" column="56" />
+        <mark key="^" line="184" column="56" />
       </file>
       <file name="$USER_HOME$/workdir/shopping-management-system/0#Java基础项目/shopping-management-system/src/lyons/dao/GoodsDao.java" timestamp="1479614036118">
         <mark key="'" line="47" column="16" />
@@ -282,11 +282,11 @@
         <mark key="^" line="3" column="17" />
         <mark key="." line="3" column="17" />
       </file>
-      <file name="$USER_HOME$/sync/code/java/mdtools/src/test/java/com/klniu/md/model/MolTest.java" timestamp="1482121221140">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="67" />
-        <mark key="." line="53" column="0" />
-        <mark key="^" line="50" column="42" />
+      <file name="$USER_HOME$/sync/code/java/mdtools/src/test/java/com/klniu/md/model/MolTest.java" timestamp="1482138767483">
+        <mark key="[" line="53" column="66" />
+        <mark key="]" line="53" column="66" />
+        <mark key="." line="53" column="66" />
+        <mark key="^" line="53" column="66" />
       </file>
       <file name="$USER_HOME$/sync/code/go/src/zhvocs/controllers/monitor.go" timestamp="1478568227161">
         <mark key="'" line="142" column="34" />
@@ -317,14 +317,13 @@
         <mark key="." line="11" column="41" />
         <mark key="^" line="11" column="41" />
       </file>
-      <file name="/fragment.java" timestamp="1481856095735">
+      <file name="/fragment.java" timestamp="1482137240030">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="493" column="26" filename="$USER_HOME$/sync/code/go/src/ldar/sql_test.go" />
       <jump line="523" column="28" filename="$USER_HOME$/sync/code/go/src/ldar/sql_test.go" />
       <jump line="245" column="63" filename="$USER_HOME$/sync/code/go/src/ldar/monitor.go" />
       <jump line="502" column="13" filename="$USER_HOME$/sync/code/go/src/ldar/sql.go" />
@@ -424,58 +423,59 @@
       <jump line="154" column="16" filename="$USER_HOME$/sync/code/java/mdtools/src/main/java/com/klniu/md/model/Mol.java" />
       <jump line="9" column="0" filename="$USER_HOME$/sync/code/java/mdtools/src/main/java/com/klniu/md/Main.java" />
       <jump line="0" column="0" filename="$USER_HOME$/sync/code/java/mdtools/src/main/java/com/klniu/md/Main.java" />
+      <jump line="161" column="31" filename="$USER_HOME$/sync/code/java/mdtools/src/main/java/com/klniu/md/model/Mol.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>ddj</text>
       </register>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>308</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>308</text>
       </register>
       <register name="/" type="4">
-        <text>opti</text>
+        <text>itr</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oQXJyYXlzLnRvU3RyaW5nKG1vbC5nZXRBdG9tc0NoYXJnZXMoKSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpbnQgaSA9IDA7CiAgICAgICAgZm9yIChPQkF0b20gYXRvbSA6IG5ldyBPQk1vbEF0b21JdGVyKG1vbCkpIHsKICAgICAgICAgICAgYXNzZXJ0RXF1YWxzKGF0b20uR2V0UGFydGlhbENoYXJnZSgpLCByZXN1bHRbaV0sIDAuMDAxKTsKICAgICAgICAgICAgaSsrOwogICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oQXJyYXlzLnRvU3RyaW5nKG1vbC5nZXRBdG9tc0NoYXJnZXMoKSkpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oQXJyYXlzLnRvU3RyaW5nKG1vbC5nZXRBdG9tc0NoYXJnZXMoKSkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBSZWFkIG1vbGVjdWxlIGZyb20gU01JTEVTIHN0cmluZwogICAgICAgIE9CQ29udmVyc2lvbiBjb252ID0gbmV3IE9CQ29udmVyc2lvbigpOwogICAgICAgIE9CTW9sIG1vbCA9IG5ldyBPQk1vbCgpOwogICAgICAgIGNvbnYuU2V0SW5Gb3JtYXQoInNtaSIpOwogICAgICAgIGNvbnYuUmVhZFN0cmluZyhtb2wsICJDQ0NDQ0NDIik7CiAgICAgICAgbW9sLkFkZEh5ZHJvZ2VucygpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihtb2wuTnVtQXRvbXMoKSk7IC8vIG91dHB1dDogMjAKCiAgICAgICAgT0JHcmFwaFN5bSBncyA9IG5ldyBPQkdyYXBoU3ltKG1vbCk7CiAgICAgICAgdmVjdG9yVW5zaWduZWRJbnQgc3ltY2xhc3NlcyA9IG5ldyB2ZWN0b3JVbnNpZ25lZEludCgpOwogICAgICAgIGdzLkdldFN5bW1ldHJ5KHN5bWNsYXNzZXMpOwogICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgc3ltY2xhc3Nlcy5zaXplKCk7IGkrKykgewogICAgICAgICAgICBPQkF0b20gYXRvbSA9IG1vbC5HZXRBdG9tKGkrMSk7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihzeW1jbGFzc2VzLmdldChpKSArICIgIiArICBhdG9tLkdldFR5cGUoKSArICIgIiArIGF0b20uR2V0SWR4KCkgKyAiICIgKyBhdG9tLkdldFBhcnRpYWxDaGFyZ2UoKSk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkb3VibGUK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjaGFyZ2VzTGlzdCA9IG5ldyBBcnJheUxpc3Q8PihBcnJheXMuYXNMaXN0KDAuMSwgMC4yLCAwLjMsIC0wLjMsIC0wLjIsIC0wLjEpKTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBSZWFkIG1vbGVjdWxlIGZyb20gU01JTEVTIHN0cmluZwogICAgICAgIE9CQ29udmVyc2lvbiBjb252ID0gbmV3IE9CQ29udmVyc2lvbigpOwogICAgICAgIE9CTW9sIG1vbCA9IG5ldyBPQk1vbCgpOwogICAgICAgIGNvbnYuU2V0SW5Gb3JtYXQoInNtaSIpOwogICAgICAgIGNvbnYuUmVhZFN0cmluZyhtb2wsICJDQ0NDQ0NDIik7CiAgICAgICAgbW9sLkFkZEh5ZHJvZ2VucygpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihtb2wuTnVtQXRvbXMoKSk7IC8vIG91dHB1dDogMjAKCiAgICAgICAgT0JHcmFwaFN5bSBncyA9IG5ldyBPQkdyYXBoU3ltKG1vbCk7CiAgICAgICAgdmVjdG9yVW5zaWduZWRJbnQgc3ltY2xhc3NlcyA9IG5ldyB2ZWN0b3JVbnNpZ25lZEludCgpOwogICAgICAgIGdzLkdldFN5bW1ldHJ5KHN5bWNsYXNzZXMpOwogICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgc3ltY2xhc3Nlcy5zaXplKCk7IGkrKykgewogICAgICAgICAgICBPQkF0b20gYXRvbSA9IG1vbC5HZXRBdG9tKGkrMSk7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihzeW1jbGFzc2VzLmdldChpKSArICIgIiArICBhdG9tLkdldFR5cGUoKSArICIgIiArIGF0b20uR2V0SWR4KCkgKyAiICIgKyBhdG9tLkdldFBhcnRpYWxDaGFyZ2UoKSk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkb3VibGUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBjaGFyZ2VzTGlzdCA9IG5ldyBBcnJheUxpc3Q8PihBcnJheXMuYXNMaXN0KDAuMSwgMC4yLCAwLjMsIC0wLjMsIC0wLjIsIC0wLjEpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>opti</last-search>
+      <last-search>itr</last-search>
       <last-offset />
-      <last-pattern>opti</last-pattern>
+      <last-pattern>itr</last-pattern>
       <last-replace>)</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
@@ -483,7 +483,6 @@
     </search>
     <history>
       <history-search>
-        <entry>12</entry>
         <entry encoding="base64">TGFiZWx7VGV4dDog</entry>
         <entry>Suffix</entry>
         <entry>^$</entry>
@@ -503,6 +502,7 @@
         <entry>pretty</entry>
         <entry>debug</entry>
         <entry>opti</entry>
+        <entry>itr</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0xhYmVse1RleHQ6IC9gdGV4dDovZ2M=</entry>
