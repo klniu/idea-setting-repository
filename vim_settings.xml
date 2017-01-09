@@ -212,6 +212,12 @@
         <mark key="^" line="19" column="31" />
         <mark key="." line="5" column="25" />
       </file>
+      <file name="$USER_HOME$/sync/code/java/xiaoyi/src/com/klniu/xiaoyi/Main.java" timestamp="1483963129122">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="9" column="8" />
+        <mark key="]" line="45" column="6" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/sync/code/java/mdtools/lib/Jmol.jar!/org/jmol/api/JmolViewer.class" timestamp="1482725784488">
         <mark key="'" line="71" column="22" />
       </file>
@@ -254,6 +260,9 @@
         <mark key="]" line="11" column="11" />
         <mark key="." line="11" column="11" />
         <mark key="^" line="6" column="18" />
+      </file>
+      <file name="$USER_HOME$/Downloads/Java_voice_1.018_58736af3/sample/MscDemo/src/com/iflytek/view/MainView.java" timestamp="1483962227051">
+        <mark key="'" line="154" column="42" />
       </file>
       <file name="/HTML File.txt.ft" timestamp="1482908859813">
         <mark key="[" line="0" column="0" />
@@ -313,13 +322,6 @@
         <mark key="^" line="3" column="17" />
         <mark key="." line="3" column="17" />
       </file>
-      <file name="$USER_HOME$/sync/code/java/mdtools/src/test/java/com/klniu/md/model/MolTest.java" timestamp="1483082779963">
-        <mark key="'" line="117" column="16" />
-        <mark key="[" line="35" column="78" />
-        <mark key="]" line="35" column="78" />
-        <mark key="." line="35" column="78" />
-        <mark key="^" line="35" column="77" />
-      </file>
       <file name="$USER_HOME$/sync/code/go/src/zhvocs/controllers/monitor.go" timestamp="1478568227161">
         <mark key="'" line="142" column="34" />
       </file>
@@ -354,11 +356,14 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/sync/code/java/xiaoyi/build.gradle" timestamp="1483963387061">
+        <mark key="[" line="9" column="4" />
+        <mark key="]" line="13" column="1" />
+        <mark key="." line="9" column="4" />
+        <mark key="^" line="9" column="3" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="24" filename="$USER_HOME$/workdir/shopping-management-system/0#Java基础项目/shopping-management-system/src/lyons/dao/GoodsDao.java" />
-      <jump line="35" column="29" filename="$USER_HOME$/workdir/shopping-management-system/0#Java基础项目/shopping-management-system/src/lyons/page/GoodsPage.java" />
-      <jump line="41" column="40" filename="$USER_HOME$/workdir/shopping-management-system/0#Java基础项目/shopping-management-system/src/lyons/dao/GoodsDao.java" />
       <jump line="94" column="8" filename="$JAVA_HOME$/src.zip!/java/sql/PreparedStatement.java" />
       <jump line="51" column="37" filename="$USER_HOME$/workdir/shopping-management-system/0#Java基础项目/shopping-management-system/src/lyons/dao/GoodsDao.java" />
       <jump line="17" column="27" filename="$USER_HOME$/workdir/shopping-management-system/0#Java基础项目/shopping-management-system/src/lyons/db/DbClose.java" />
@@ -456,16 +461,19 @@
       <jump line="125" column="15" filename="$USER_HOME$/sync/code/java/mdtools/src/main/java/com/klniu/md/model/Mol.java" />
       <jump line="2" column="17" filename="$USER_HOME$/sync/code/java/mdtools/src/main/java/com/klniu/md/model/Mol.java" />
       <jump line="6" column="20" filename="$USER_HOME$/sync/code/java/mdtools/src/main/java/com/klniu/md/model/Mol.java" />
+      <jump line="154" column="42" filename="$USER_HOME$/Downloads/Java_voice_1.018_58736af3/sample/MscDemo/src/com/iflytek/view/MainView.java" />
+      <jump line="38" column="0" filename="$USER_HOME$/sync/code/java/xiaoyi/src/com/klniu/xiaoyi/Main.java" />
+      <jump line="8" column="0" filename="$USER_HOME$/sync/code/java/xiaoyi/src/com/klniu/xiaoyi/Main.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>ddj</text>
       </register>
       <register name="&quot;" type="4">
-        <text>get(0).</text>
+        <text>, 'libs/gson-2.2.4.jar'</text>
       </register>
       <register name="-" type="4">
-        <text>get(0).</text>
+        <text>, 'libs/gson-2.2.4.jar'</text>
       </register>
       <register name="/" type="4">
         <text>list</text>
@@ -474,38 +482,34 @@
         <text encoding="base64">ICAgICAgICAvL2Fzc2VydEVxdWFscygxLCBtYXRjaGVzLnNpemUoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2dnBhaXJVSW50VUludCB2dlBhaXIgPSBuZXcgdnZwYWlyVUludFVJbnQoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlc3VsdDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodnZQYWlyLnNpemUoKSA9PSAwKSB7Cg==</text>
+        <text encoding="base64">aW1wb3J0IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtYXBwZXIuTWFwQWxsKGZyYWdtZW50LCB2dlBhaXIsIG1hc2tWZWMpOwo=</text>
+        <text encoding="base64">ICAgICAgICB2dnBhaXJVSW50VUludCB2dlBhaXIgPSBuZXcgdnZwYWlyVUludFVJbnQoKTsK</text>
       </register>
-      <register name="6" type="8">
-        <text>//
-//
-//
-//
-//</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtYXBwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlc3VsdDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb2Jtb2wuMwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAodnZQYWlyLnNpemUoKSA9PSAwKSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBtYXRjaEZyYWdtZW50KGZyYWdtZW50LCBuZXcgQXJyYXlMaXN0PEludGVnZXI+KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBtYXBwZXIuTWFwQWxsKGZyYWdtZW50LCB2dlBhaXIsIG1hc2tWZWMpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
@@ -541,7 +545,6 @@
         <entry>list</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL0xhYmVse1RleHQ6IC9gdGV4dDovZ2M=</entry>
         <entry encoding="base64">JzwsJz5zL1N1ZmZpeC91bml0Oi9nYw==</entry>
         <entry encoding="base64">JzwsJz5zL1N1ZmZpeC91bml0L2dj</entry>
         <entry>wq</entry>
@@ -561,6 +564,7 @@
         <entry>help gu</entry>
         <entry>e emission.go</entry>
         <entry>q</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
