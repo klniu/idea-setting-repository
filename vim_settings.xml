@@ -103,11 +103,11 @@
         <mark key="^" line="4" column="3" />
         <mark key="." line="4" column="3" />
       </file>
-      <file name="$USER_HOME$/sync/code/java/xiaoyi/src/main/java/com/klniu/xiaoyi/BDYuYin/BDRecognize.java" timestamp="1484224333302">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
-        <mark key="^" line="57" column="30" />
+      <file name="$USER_HOME$/sync/code/java/xiaoyi/src/main/java/com/klniu/xiaoyi/BDYuYin/BDRecognize.java" timestamp="1484225825787">
+        <mark key="[" line="36" column="59" />
+        <mark key="]" line="36" column="61" />
+        <mark key="." line="36" column="61" />
+        <mark key="^" line="36" column="61" />
       </file>
       <file name="$USER_HOME$/sync/code/go/src/ldar/direction_test.go" timestamp="1476252942723">
         <mark key="[" line="16" column="19" />
@@ -252,6 +252,12 @@
         <mark key="." line="17" column="38" />
         <mark key="^" line="16" column="53" />
       </file>
+      <file name="$USER_HOME$/sync/code/java/xiaoyi/src/main/java/com/klniu/xiaoyi/Main.java" timestamp="1484225838047">
+        <mark key="[" line="26" column="57" />
+        <mark key="]" line="26" column="59" />
+        <mark key="." line="26" column="59" />
+        <mark key="^" line="26" column="59" />
+      </file>
       <file name="$USER_HOME$/workdir/shopping-management-system/0#Java基础项目/shopping-management-system/src/lyons/tools/ScannerChoice.java" timestamp="1479609491597">
         <mark key="'" line="86" column="38" />
         <mark key="[" line="25" column="61" />
@@ -306,6 +312,11 @@
       <file name="/Dummy.txt" timestamp="1483963952560">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/sync/code/java/xiaoyi/src/main/java/com/klniu/xiaoyi/MinimInput.java" timestamp="1484225571702">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/sync/code/java/livesim/src/main/java/Action.java" timestamp="1479429714271">
         <mark key="[" line="9" column="27" />
         <mark key="]" line="9" column="28" />
@@ -343,6 +354,12 @@
       </file>
       <file name="$USER_HOME$/sync/code/go/src/zhvocs/controllers/monitor.go" timestamp="1478568227161">
         <mark key="'" line="142" column="34" />
+      </file>
+      <file name="$USER_HOME$/sync/code/java/xiaoyi/src/main/java/com/klniu/xiaoyi/AudioRecorder.java" timestamp="1484225726657">
+        <mark key="'" line="18" column="19" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/workdir/java/livesim/src/main/java/Main.java" timestamp="1480928896921">
         <mark key="'" line="0" column="25" />
@@ -383,7 +400,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="27" filename="$USER_HOME$/workdir/shopping-management-system/0#Java基础项目/shopping-management-system/src/lyons/db/DbClose.java" />
       <jump line="47" column="16" filename="$USER_HOME$/workdir/shopping-management-system/0#Java基础项目/shopping-management-system/src/lyons/dao/GoodsDao.java" />
       <jump line="13" column="0" filename="$USER_HOME$/workdir/java/livesim/tsconfig.json.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workdir/java/livesim/tsconfig.json.js" />
@@ -483,66 +499,68 @@
       <jump line="8" column="0" filename="$USER_HOME$/sync/code/java/xiaoyi/src/com/klniu/xiaoyi/Main.java" />
       <jump line="12" column="7" filename="$USER_HOME$/sync/code/java/xiaoyi/src/com/klniu/xiaoyi/Main.java" />
       <jump line="26" column="37" filename="$USER_HOME$/sync/code/java/xiaoyi/src/test/java/com/klniu/xiaoyi/BDYuYin/BDRecognizeTest.java" />
+      <jump line="16" column="19" filename="$USER_HOME$/sync/code/java/xiaoyi/src/main/java/com/klniu/xiaoyi/AudioRecorder.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>ddj</text>
       </register>
       <register name="&quot;" type="4">
-        <text>test</text>
+        <text>pcm</text>
       </register>
       <register name="-" type="4">
-        <text>test</text>
+        <text>pcm</text>
       </register>
       <register name="/" type="4">
-        <text>list</text>
+        <text encoding="base64">XDxBdWRpb1JlY29yZGVyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImJlZ2luIHJlY29yZC4uLiIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludChqc29uLnRvU3RyaW5nKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZWNvcmRlci4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGZpcnN0U3RyaW5nLmVuZHNXaXRoKCIsIikpCg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50KCJjcmVhdGVJbnB1dDogIiArIGZpbGVOYW1lKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50KCJjcmVhdGVJbnB1dDogIiArIGZpbGVOYW1lKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnRva2VuID0gdG9rZW47Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50KCJza2V0Y2hQYXRoOiAiICsgZmlsZU5hbWUpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnRva2VuCg==</text>
+        <text encoding="base64">ICAgICAgICByZWNvcgo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gfQo=</text>
+      <register name="6" type="8">
+        <text>//
+//
+//</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy/lvIDlp4vlvZXpn7MK</text>
+        <text encoding="base64">ICAgICAgICByZWNvcmRlciA9IG1pbmltLmNyZWF0ZVJlY29yZGVyKG1pbmltLmdldExpbmVJbigpLCAibXlyZWNvcmRpbmcud2F2Iik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvL+WQrOWGmeebkeWQrOWZqAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action Back</text>
       </register>
     </registers>
     <search>
-      <last-search>list</last-search>
+      <last-search encoding="base64">XDxBdWRpb1JlY29yZGVyXD4=</last-search>
       <last-offset />
-      <last-pattern>list</last-pattern>
+      <last-pattern encoding="base64">XDxBdWRpb1JlY29yZGVyXD4=</last-pattern>
       <last-replace>)</last-replace>
       <last-substitute>itr</last-substitute>
-      <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <last-dir>-1</last-dir>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxJbWFnZUluZm9UeXBlXD4=</entry>
         <entry encoding="base64">XDxmaXhPcmlQaG90b1BhdGhcPg==</entry>
         <entry>fmt</entry>
         <entry>println</entry>
@@ -562,6 +580,7 @@
         <entry>charge</entry>
         <entry>label</entry>
         <entry>list</entry>
+        <entry encoding="base64">XDxBdWRpb1JlY29yZGVyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1N1ZmZpeC91bml0L2dj</entry>
