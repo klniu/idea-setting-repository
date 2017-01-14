@@ -145,6 +145,11 @@
         <mark key="." line="92" column="53" />
         <mark key="^" line="92" column="53" />
       </file>
+      <file name="$USER_HOME$/sync/code/java/xiaoyi/src/main/java/com/klniu/xiaoyi/XFYuYin/XFRecognizer.java" timestamp="1484379701206">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+      </file>
       <file name="$USER_HOME$/sync/code/go/src/ldar/monitorstate_test.go" timestamp="1476255374926">
         <mark key="[" line="16" column="40" />
         <mark key="]" line="16" column="40" />
@@ -511,8 +516,8 @@
       <register name="a" type="4">
         <text>ddj</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>1</text>
@@ -524,34 +529,34 @@
         <text>TemporaryFolder</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXVkaW9QbGF5ZXIuY2xvc2UoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICAgICAgICBsb2dnZXIuZmF0YWwoZSk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gaW5kZXggYXVkaW8gZmlsZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuZmF0YWwoInRlc3RhYXNkZmFzZGZhc2RsZmFqZGZsIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhdWRpb1BsYXllciA9IG5ldyBBdWRpb1BsYXllcigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXVkaW9QbGF5ZXIuY2xvc2UoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEJ1ZmZlcgo=</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICAgICAgICBsb2dnZXIuZmF0YWwoZSk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmZhdGFsKCJ0ZXN0YWFzZGZhc2RmYXNkbGZhamRmbCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gaW5kZXggYXVkaW8gZmlsZQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBsb2dnZXIuZmF0YWwoInRlc3RhYXNkZmFzZGZhc2RsZmFqZGZsIik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">b3JnLmdyYWRsZS5kYWVtb249ZmFsc2UgCg==</text>
+        <text encoding="base64">ICAgICAgICBhdWRpb1BsYXllciA9IG5ldyBBdWRpb1BsYXllcigpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text>action Back</text>
       </register>
     </registers>
     <search>
@@ -605,8 +610,8 @@
         <entry>help gu</entry>
         <entry>e emission.go</entry>
         <entry>q</entry>
-        <entry>action Back</entry>
         <entry>action ReformatCode</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
