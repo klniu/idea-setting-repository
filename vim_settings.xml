@@ -86,11 +86,12 @@
         <mark key="^" line="4" column="3" />
         <mark key="." line="4" column="3" />
       </file>
-      <file name="$USER_HOME$/sync/code/java/xiaoyi/src/main/java/com/klniu/xiaoyi/XFYuYin/XFArs.java" timestamp="1484399266433">
-        <mark key="[" line="35" column="19" />
-        <mark key="]" line="35" column="19" />
-        <mark key="." line="35" column="19" />
-        <mark key="^" line="35" column="19" />
+      <file name="$USER_HOME$/sync/code/java/xiaoyi/src/main/java/com/klniu/xiaoyi/XFYuYin/XFArs.java" timestamp="1484401710002">
+        <mark key="'" line="63" column="30" />
+        <mark key="[" line="78" column="27" />
+        <mark key="]" line="78" column="27" />
+        <mark key="^" line="78" column="26" />
+        <mark key="." line="78" column="27" />
       </file>
       <file name="$USER_HOME$/sync/code/java/xiaoyi/src/main/java/com/klniu/xiaoyi/BDYuYin/BDRecognize.java" timestamp="1484225825787">
         <mark key="[" line="36" column="59" />
@@ -337,10 +338,10 @@
         <mark key="^" line="29" column="38" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/Java_voice_1.018_58736af3/sample/MscDemo/src/com/iflytek/view/AsrSpeechView.java" timestamp="1484399246748">
-        <mark key="'" line="129" column="64" />
-        <mark key="[" line="120" column="0" />
-        <mark key="]" line="121" column="49" />
+      <file name="$USER_HOME$/Downloads/Java_voice_1.018_58736af3/sample/MscDemo/src/com/iflytek/view/AsrSpeechView.java" timestamp="1484401241668">
+        <mark key="'" line="131" column="40" />
+        <mark key="[" line="172" column="0" />
+        <mark key="]" line="222" column="5" />
       </file>
       <file name="$USER_HOME$/sync/code/java/xiaoyi/src/main/java/com/klniu/xiaoyi/AudioRecorder.java" timestamp="1484362180877">
         <mark key="'" line="20" column="19" />
@@ -385,10 +386,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="22" filename="$USER_HOME$/sync/code/java/mdtools/lib/Jmol.jar!/org/jmol/api/JmolViewer.class" />
-      <jump line="307" column="11" filename="$USER_HOME$/sync/code/java/mdtools/lib/Jmol.jar!/org/jmol/viewer/Viewer.class" />
-      <jump line="28" column="12" filename="$USER_HOME$/sync/code/java/mdtools/src/main/java/com/klniu/md/controller/JmolControl.java" />
-      <jump line="14" column="23" filename="$USER_HOME$/sync/code/java/mdtools/src/main/java/com/klniu/md/controller/JmolControl.java" />
       <jump line="189" column="0" filename="$USER_HOME$/sync/code/java/mdtools/src/main/java/com/klniu/md/Main.java" />
       <jump line="144" column="31" filename="$USER_HOME$/sync/code/java/mdtools/src/main/java/com/klniu/md/model/Mol.java" />
       <jump line="13" column="33" filename="$USER_HOME$/sync/code/java/mdtools/src/main/java/com/klniu/md/model/MolViewer.java" />
@@ -485,58 +482,62 @@
       <jump line="37" column="19" filename="$USER_HOME$/Downloads/Java_voice_1.018_58736af3/sample/MscDemo/src/com/iflytek/view/AsrSpeechView.java" />
       <jump line="124" column="16" filename="$USER_HOME$/Downloads/Java_voice_1.018_58736af3/sample/MscDemo/src/com/iflytek/view/AsrSpeechView.java" />
       <jump line="129" column="64" filename="$USER_HOME$/Downloads/Java_voice_1.018_58736af3/sample/MscDemo/src/com/iflytek/view/AsrSpeechView.java" />
+      <jump line="39" column="25" filename="$USER_HOME$/sync/code/java/xiaoyi/src/main/java/com/klniu/xiaoyi/XFYuYin/XFArs.java" />
+      <jump line="13" column="19" filename="$USER_HOME$/sync/code/java/xiaoyi/src/main/java/com/klniu/xiaoyi/XFYuYin/XFArs.java" />
+      <jump line="31" column="30" filename="$USER_HOME$/sync/code/java/xiaoyi/src/main/java/com/klniu/xiaoyi/XFYuYin/XFArs.java" />
+      <jump line="131" column="40" filename="$USER_HOME$/Downloads/Java_voice_1.018_58736af3/sample/MscDemo/src/com/iflytek/view/AsrSpeechView.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>ddj</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>recognizerListener</text>
       </register>
       <register name="-" type="4">
-        <text>DebugLog.Log(&quot;语法构建失败,错误码：&quot; + ret);</text>
+        <text>recognizerListener</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtR3JhbW1hcklkXD4=</text>
+        <text encoding="base64">XDx7XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJaWYgKHJldCAhPSBFcnJvckNvZGUuU1VDQ0VTUykKCQkJCURlYnVnTG9nLkxvZygi6K+t5rOV5p6E5bu65aSx6LSlLOmUmeivr+egge+8miIgKyByZXQpOwo=</text>
+        <text encoding="base64">ICAgICAgICBtQXNyLnNldFBhcmFtZXRlcihTcGVlY2hDb25zdGFudC5DTE9VRF9HUkFNTUFSLCBtR3JhbW1hcklkKTsKICAgICAgICBtQXNyLnN0YXJ0TGlzdGVuaW5nKHJlY29nbml6ZXJMaXN0ZW5lcik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuY29tbW9ucy5pby5maWxlZmlsdGVyLkZhbHNlRmlsZUZpbHRlcjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZgo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zdW4ueG1sLmludGVybmFsLmJpbmQudjIubW9kZWwuY29yZS5JRDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBtQXNyLnNldFBhcmFtZXRlcihTcGVlY2hDb25zdGFudC5DTE9VRF9HUkFNTUFSLCBtR3JhbW1hcklkKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGludCByZXQgPSBtQXNyLmJ1aWxkR3JhbW1hcigiYWJuZiIsIG1HcmFtbWFyLCBncmFtbWFyTGlzdGVuZXIpOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgcmV0ID0gbUFzci5idWlsZEdyYW1tYXIoImFibmYiLCBtR3JhbW1hciwgZ3JhbW1hckxpc3RlbmVyKTsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgKChKTGFiZWwpIGpidG5SZWNvZ25pemVyLmdldENvbXBvbmVudCgwKSkuc2V0VGV4dCgi562J5b6F57uT5p6cIik7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgKChKTGFiZWwpIGpidG5SZWNvZ25pemVyLmdldENvbXBvbmVudCgwKSkuc2V0VGV4dCgi6K+36K+06K+dLi4uIik7Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3VsdEFyZWEuc2V0VGV4dCggIuivreazleaehOW7uuWksei0pSzplJnor6/noIHvvJoiICsgZXJyb3IuZ2V0RXJyb3JEZXNjcmlwdGlvbih0cnVlKSApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXNyU3BlZWNoSW5pdFVJKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIERlYnVnTG9nLkxvZygi6K+t5rOV5p6E5bu65aSx6LSlLOmUmeivr+egge+8miIgKyBlcnJvci5nZXRFcnJvckNvZGUoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIERlYnVnTG9nLkxvZygib25FcnJvciBDb2Rl77yaIiArIGVycm9yLmdldEVycm9yQ29kZSgpKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>action Back</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtR3JhbW1hcklkXD4=</last-search>
+      <last-search encoding="base64">XDx7XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtR3JhbW1hcklkXD4=</last-pattern>
+      <last-pattern encoding="base64">XDx7XD4=</last-pattern>
       <last-replace>)</last-replace>
       <last-substitute>itr</last-substitute>
       <last-dir>1</last-dir>
@@ -544,8 +545,6 @@
     </search>
     <history>
       <history-search>
-        <entry>opti</entry>
-        <entry>itr</entry>
         <entry encoding="base64">XDxTbWFydGVySm1vbEFkYXB0ZXJcPg==</entry>
         <entry>jmolpanel</entry>
         <entry>add</entry>
@@ -564,6 +563,8 @@
         <entry encoding="base64">XDxzZXRQYXJhbWV0ZXJcPg==</entry>
         <entry encoding="base64">XDxtVm9pY2VNYXBcPg==</entry>
         <entry encoding="base64">XDxtR3JhbW1hcklkXD4=</entry>
+        <entry encoding="base64">XDxyZWNvZ25pemVyTGlzdGVuZXJcPg==</entry>
+        <entry encoding="base64">XDx7XD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1N1ZmZpeC91bml0L2dj</entry>
@@ -584,8 +585,8 @@
         <entry>help gu</entry>
         <entry>e emission.go</entry>
         <entry>q</entry>
-        <entry>action ReformatCode</entry>
         <entry>action Back</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
