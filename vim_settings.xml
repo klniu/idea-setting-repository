@@ -86,12 +86,12 @@
         <mark key="^" line="4" column="3" />
         <mark key="." line="4" column="3" />
       </file>
-      <file name="$USER_HOME$/sync/code/java/xiaoyi/src/main/java/com/klniu/xiaoyi/XFYuYin/XFArs.java" timestamp="1484401710002">
-        <mark key="'" line="63" column="30" />
-        <mark key="[" line="78" column="27" />
-        <mark key="]" line="78" column="27" />
-        <mark key="^" line="78" column="26" />
-        <mark key="." line="78" column="27" />
+      <file name="$USER_HOME$/sync/code/java/xiaoyi/src/main/java/com/klniu/xiaoyi/XFYuYin/XFArs.java" timestamp="1484445717529">
+        <mark key="'" line="68" column="30" />
+        <mark key="[" line="67" column="54" />
+        <mark key="]" line="67" column="53" />
+        <mark key="^" line="67" column="53" />
+        <mark key="." line="67" column="53" />
       </file>
       <file name="$USER_HOME$/sync/code/java/xiaoyi/src/main/java/com/klniu/xiaoyi/BDYuYin/BDRecognize.java" timestamp="1484225825787">
         <mark key="[" line="36" column="59" />
@@ -190,11 +190,11 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/sync/code/java/xiaoyi/src/main/java/com/klniu/xiaoyi/Robot.java" timestamp="1484442691698">
-        <mark key="[" line="31" column="54" />
-        <mark key="]" line="31" column="51" />
-        <mark key="." line="31" column="51" />
-        <mark key="^" line="31" column="51" />
+      <file name="$USER_HOME$/sync/code/java/xiaoyi/src/main/java/com/klniu/xiaoyi/Robot.java" timestamp="1484444807106">
+        <mark key="[" line="44" column="26" />
+        <mark key="]" line="44" column="26" />
+        <mark key="^" line="44" column="26" />
+        <mark key="." line="44" column="26" />
       </file>
       <file name="$USER_HOME$/sync/code/java/livesim/src/main/java/History.java" timestamp="1480318763076">
         <mark key="'" line="0" column="0" />
@@ -323,7 +323,8 @@
         <mark key="^" line="853" column="4" />
         <mark key="." line="817" column="46" />
       </file>
-      <file name="$USER_HOME$/sync/code/java/xiaoyi/src/main/java/com/klniu/xiaoyi/IndexFiles.java" timestamp="1484307416692">
+      <file name="$USER_HOME$/sync/code/java/xiaoyi/src/main/java/com/klniu/xiaoyi/IndexFiles.java" timestamp="1484444233255">
+        <mark key="'" line="105" column="0" />
         <mark key="[" line="82" column="41" />
         <mark key="]" line="82" column="46" />
         <mark key="." line="82" column="46" />
@@ -347,11 +348,10 @@
         <mark key="[" line="172" column="0" />
         <mark key="]" line="222" column="5" />
       </file>
-      <file name="$USER_HOME$/sync/code/java/xiaoyi/src/main/resources/config" timestamp="1484443033325">
-        <mark key="[" line="7" column="20" />
-        <mark key="]" line="7" column="21" />
-        <mark key="^" line="7" column="20" />
-        <mark key="." line="7" column="21" />
+      <file name="$USER_HOME$/sync/code/java/xiaoyi/src/main/resources/config" timestamp="1484444503449">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/sync/code/java/xiaoyi/src/main/java/com/klniu/xiaoyi/AudioRecorder.java" timestamp="1484362180877">
         <mark key="'" line="20" column="19" />
@@ -396,7 +396,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="189" column="0" filename="$USER_HOME$/sync/code/java/mdtools/src/main/java/com/klniu/md/Main.java" />
       <jump line="144" column="31" filename="$USER_HOME$/sync/code/java/mdtools/src/main/java/com/klniu/md/model/Mol.java" />
       <jump line="13" column="33" filename="$USER_HOME$/sync/code/java/mdtools/src/main/java/com/klniu/md/model/MolViewer.java" />
       <jump line="7460" column="30" filename="$USER_HOME$/sync/code/java/mdtools/lib/Jmol.jar!/org/jmol/viewer/Viewer.class" />
@@ -496,49 +495,50 @@
       <jump line="13" column="19" filename="$USER_HOME$/sync/code/java/xiaoyi/src/main/java/com/klniu/xiaoyi/XFYuYin/XFArs.java" />
       <jump line="31" column="30" filename="$USER_HOME$/sync/code/java/xiaoyi/src/main/java/com/klniu/xiaoyi/XFYuYin/XFArs.java" />
       <jump line="131" column="40" filename="$USER_HOME$/Downloads/Java_voice_1.018_58736af3/sample/MscDemo/src/com/iflytek/view/AsrSpeechView.java" />
+      <jump line="105" column="0" filename="$USER_HOME$/sync/code/java/xiaoyi/src/main/java/com/klniu/xiaoyi/IndexFiles.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>ddj</text>
       </register>
       <register name="&quot;" type="4">
-        <text>wav</text>
+        <text>invalid</text>
       </register>
       <register name="-" type="4">
-        <text>wav</text>
+        <text>invalid</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBDb25maWd1cmF0aW9uIGNvbmY7CiAgICAgICAgWEZSZWNvZ25pemVyIHJlY29nOwogICAgICAgIFhGVFRTIHR0czsKICAgICAgICBYRkFycyBhcnM7CiAgICAgICAgQXVkaW9QbGF5ZXIgYXVkaW9QbGF5ZXIgPSBuZXcgQXVkaW9QbGF5ZXIoKTsKICAgICAgICBBdWRpb1JlY29yZGVyIHJlY29yZGVyID0gQXVkaW9SZWNvcmRlci5jcmVhdGVSZWNvcmRlcihwcm9qZWN0RGlyICsgInJlYy53YXYiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uZiA9IG5ldyBDb25maWd1cmF0aW9uKHByb2plY3REaXIgKyAiY29uZmlnIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEF1ZGlvUmVjb3JkZXIgcmVjb3JkZXIgPSBBdWRpb1JlY29yZGVyLmNyZWF0ZVJlY29yZGVyKHByb2plY3REaXIgKyAicmVjLndhdiIpOwo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgIGNvbmYgPSBuZXcgQ29uZmlndXJhdGlvbihwcm9qZWN0RGlyICsgImNvbmZpZyIpOwoKICAgICAgICAvLyBpbml0aWFsaXplIEJEUmVjb2duaXplciBhbmQgQkRUZXh0MkF1ZGlvCiAgICAgICAgU3RyaW5nIGFwaUlEID0gY29uZi5nZXRQcm9wZXJ0eSgiWEZBUElJRCIsICIiKTsKCiAgICAgICAgcmVjb2cgPSBuZXcgWEZSZWNvZ25pemVyKGFwaUlEKTsKICAgICAgICB0dHMgPSBuZXcgWEZUVFMoYXBpSUQpOwogICAgICAgIGFycyA9IG5ldyBYRkFycyhhcGlJRCk7CgogICAgICAgIFN0cmluZyBhdWRpb0RpciA9IGNvbmYuZ2V0UHJvcGVydHkoIkF1ZGlvRGlyIiwgIi4iKTsKICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgbG9nZ2VyLmZhdGFsKGUpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbUdyYW1tYXJJZDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICBjb25mID0gbmV3IENvbmZpZ3VyYXRpb24ocHJvamVjdERpciArICJjb25maWciKTsKCiAgICAgICAgICAgIC8vIGluaXRpYWxpemUgQkRSZWNvZ25pemVyIGFuZCBCRFRleHQyQXVkaW8KICAgICAgICAgICAgU3RyaW5nIGFwaUlEID0gY29uZi5nZXRQcm9wZXJ0eSgiWEZBUElJRCIsICIiKTsKCiAgICAgICAgICAgIHJlY29nID0gbmV3IFhGUmVjb2duaXplcihhcGlJRCk7CiAgICAgICAgICAgIHR0cyA9IG5ldyBYRlRUUyhhcGlJRCk7CiAgICAgICAgICAgIGFycyA9IG5ldyBYRkFycyhhcGlJRCk7CgogICAgICAgICAgICBTdHJpbmcgYXVkaW9EaXIgPSBjb25mLmdldFByb3BlcnR5KCJBdWRpb0RpciIsICIuIik7CiAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgbG9nZ2VyLmZhdGFsKGUpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0bUdyYW1tYXJJZCgpIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBDb25maWd1cmF0aW9uIGNvbmY7CiAgICAgICAgWEZSZWNvZ25pemVyIHJlY29nOwogICAgICAgIFhGVFRTIHR0czsKICAgICAgICBYRkFycyBhcnM7CiAgICAgICAgQXVkaW9QbGF5ZXIgYXVkaW9QbGF5ZXIgPSBuZXcgQXVkaW9QbGF5ZXIoKTsKICAgICAgICBBdWRpb1JlY29yZGVyIHJlY29yZGVyID0gQXVkaW9SZWNvcmRlci5jcmVhdGVSZWNvcmRlcihwcm9qZWN0RGlyICsgInJlYy53YXYiKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25mID0gbmV3IENvbmZpZ3VyYXRpb24ocHJvamVjdERpciArICJjb25maWciKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBjb25mID0gbmV3IENvbmZpZ3VyYXRpb24ocHJvamVjdERpciArICJjb25maWciKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBsb2FkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action Back</text>
