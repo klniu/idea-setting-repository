@@ -22,6 +22,9 @@
         <mark key="." line="209" column="119" />
         <mark key="^" line="209" column="119" />
       </file>
+      <file name="$USER_HOME$/workdir/vocs-react/src/data/tables.ts" timestamp="1489195787302">
+        <mark key="'" line="364" column="21" />
+      </file>
       <file name="$USER_HOME$/workdir/web/vocs-react/src/components/treePage.tsx" timestamp="1489130422536">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="3" column="0" />
@@ -496,7 +499,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="117" column="50" filename="$USER_HOME$/workdir/web/vocs-react/src/components/upload.tsx" />
       <jump line="57" column="14" filename="$USER_HOME$/workdir/web/vocs-react/src/components/upload.tsx" />
       <jump line="116" column="52" filename="$USER_HOME$/workdir/web/vocs-react/src/components/upload.tsx" />
       <jump line="98" column="37" filename="$USER_HOME$/workdir/web/vocs-react/src/components/upload.tsx" />
@@ -596,6 +598,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/workdir/vocs-react/src/entry/tobeRepaired.tsx" />
       <jump line="20" column="8" filename="$USER_HOME$/workdir/vocs-react/src/entry/tobeRepaired.tsx" />
       <jump line="183" column="21" filename="$USER_HOME$/workdir/vocs-react/src/entry/tobeRepaired.tsx" />
+      <jump line="364" column="21" filename="$USER_HOME$/workdir/vocs-react/src/data/tables.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -626,7 +629,7 @@
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>span=&quot;\(\d\+\)&quot;</text>
+        <text encoding="base64">XDxyZW5kZXJcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0ICogYXMgcmVxdWVzdCBmcm9tICdyZXF1ZXN0JzsK</text>
@@ -663,9 +666,9 @@
       </register>
     </registers>
     <search>
-      <last-search>span=&quot;\(\d\+\)&quot;</last-search>
+      <last-search encoding="base64">XDxyZW5kZXJcPg==</last-search>
       <last-offset />
-      <last-pattern>span=&quot;\(\d\+\)&quot;</last-pattern>
+      <last-pattern encoding="base64">XDxyZW5kZXJcPg==</last-pattern>
       <last-replace>span={\1}</last-replace>
       <last-substitute>span=&quot;\(\d\+\)&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -673,7 +676,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwaG90b01vZGFsQ29udGVudFw+</entry>
         <entry encoding="base64">XDxzZXRBbGVydFw+</entry>
         <entry>req</entry>
         <entry>reqwes</entry>
@@ -693,6 +695,7 @@
         <entry encoding="base64">XDxyZXF1ZXN0XD4=</entry>
         <entry encoding="base64">XDxzZWxlY3RlZFJvd0tleXNcPg==</entry>
         <entry>span=&quot;\(\d\+\)&quot;</entry>
+        <entry encoding="base64">XDxyZW5kZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>help g</entry>
