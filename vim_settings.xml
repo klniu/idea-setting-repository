@@ -451,12 +451,11 @@
         <mark key="^" line="29" column="38" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/workdir/vocs-react/src/common/constants.ts" timestamp="1489202126762">
+      <file name="$USER_HOME$/workdir/vocs-react/src/common/constants.ts" timestamp="1489202848233">
         <mark key="'" line="13" column="17" />
-        <mark key="[" line="69" column="11" />
-        <mark key="]" line="69" column="16" />
-        <mark key="." line="69" column="16" />
-        <mark key="^" line="69" column="16" />
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
       </file>
       <file name="$USER_HOME$/sync/code/java/xiaoyi/src/main/java/com/klniu/xiaoyi/AudioRecorder.java" timestamp="1484362180877">
         <mark key="'" line="20" column="19" />
@@ -625,8 +624,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHsiSUQiOjEsIk5hbWUiOiLnn7PmsrnngrzliLblt6XkuJrmsaHmn5PnianmjpLmlL7moIflh4YiLCJTZXBhcmF0ZWREYXRlIjoiMjAxNS0wNy0wMVQwMDowMDowMFoiLCJEZXNjIjoiR0IzMTU3MC8yMDE1IOefs+ayueeCvOWItuW3peS4muaxoeafk+eJqeaOkuaUvuagh+WHhiIsIkRlZmluYXRpb25zIjpudWxsfQo=</text>
       </register>
       <register name="-" type="4">
         <text>&quot;</text>
@@ -638,31 +637,31 @@
         <text encoding="base64">ICAgIElEOm51bWJlcjsKICAgIE5hbWU6IHN0cmluZzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIElEOm51bWJlcjsKICAgIE5hbWU6IHN0cmluZzsKICAgIFNlcGFyYXRlZERhdGU6IHN0cmluZzsKICAgIERlc2M6IHN0cmluZzsK</text>
+        <text encoding="base64">ICAgIHsiSUQiOjEsIk5hbWUiOiLnn7PmsrnngrzliLblt6XkuJrmsaHmn5PnianmjpLmlL7moIflh4YiLCJTZXBhcmF0ZWREYXRlIjoiMjAxNS0wNy0wMVQwMDowMDowMFoiLCJEZXNjIjoiR0IzMTU3MC8yMDE1IOefs+ayueeCvOWItuW3peS4muaxoeafk+eJqeaOkuaUvuagh+WHhiIsIkRlZmluYXRpb25zIjpudWxsfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIElEOm51bWJlcjsKICAgIE5hbWU6IHN0cmluZzsKICAgIFNlcGFyYXRlZERhdGU6IHN0cmluZzsKICAgIERlc2M6IHN0cmluZzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIE5hbWU6IHN0cmluZzsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIERlc2NTZXBhcmF0ZWREYXRlCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIE5hbWU6IHN0cmluZzsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIERlc2NTZXBhcmF0ZWREYXRlCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHdpZHRoPzogbnVtYmVyOyAvLyB0aGUgd2lkdGggb2YgdGhlIGNvbHVtbgo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJlbmRlcj86IEZ1bmN0aW9uOyAvLyBoYW5kbGUgdGhlIGRhdGEgYW5kIHRoZW4gZ2l2ZSBpdCB0byB0YWJsZQo=</text>
+        <text encoding="base64">ICAgIHdpZHRoPzogbnVtYmVyOyAvLyB0aGUgd2lkdGggb2YgdGhlIGNvbHVtbgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRpdGxlOiBzdHJpbmc7IC8vdGhlIGxhYmVsIG9mIHRoZSBjb2x1bW4K</text>
+        <text encoding="base64">ICAgIHJlbmRlcj86IEZ1bmN0aW9uOyAvLyBoYW5kbGUgdGhlIGRhdGEgYW5kIHRoZW4gZ2l2ZSBpdCB0byB0YWJsZQo=</text>
       </register>
       <register name=":" type="4">
         <text>vsplit common/constants.ts</text>
