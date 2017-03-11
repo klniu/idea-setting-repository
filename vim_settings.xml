@@ -451,12 +451,12 @@
         <mark key="^" line="29" column="38" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/workdir/vocs-react/src/common/constants.ts" timestamp="1489199017871">
+      <file name="$USER_HOME$/workdir/vocs-react/src/common/constants.ts" timestamp="1489202126762">
         <mark key="'" line="13" column="17" />
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="0" />
-        <mark key="." line="78" column="0" />
-        <mark key="^" line="77" column="24" />
+        <mark key="[" line="69" column="11" />
+        <mark key="]" line="69" column="16" />
+        <mark key="." line="69" column="16" />
+        <mark key="^" line="69" column="16" />
       </file>
       <file name="$USER_HOME$/sync/code/java/xiaoyi/src/main/java/com/klniu/xiaoyi/AudioRecorder.java" timestamp="1484362180877">
         <mark key="'" line="20" column="19" />
@@ -615,30 +615,21 @@
     <registers>
       <register name="a" type="4">
         <keys>
-          <key char="94" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
           <key char="102" code="0" mods="0" />
-          <key char="40" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="36" code="0" mods="0" />
           <key char="97" code="0" mods="0" />
-          <key char="44" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="113" code="0" mods="0" />
           <key char="65535" code="27" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="64" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="117" code="0" mods="0" />
-          <key char="117" code="0" mods="0" />
-          <key char="104" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>T</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZW5kZXJcPg==</text>
@@ -647,31 +638,31 @@
         <text encoding="base64">ICAgIElEOm51bWJlcjsKICAgIE5hbWU6IHN0cmluZzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIElEOm51bWJlcjsKICAgIE5hbWU6IHN0cmluZzsKICAgIFNlcGFyYXRlZERhdGU6IHN0cmluZzsKICAgIERlc2M6IHN0cmluZzsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIE5hbWU6IHN0cmluZzsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIERlc2NTZXBhcmF0ZWREYXRlCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIE5hbWU6IHN0cmluZzsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIERlc2NTZXBhcmF0ZWREYXRlCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHdpZHRoPzogbnVtYmVyOyAvLyB0aGUgd2lkdGggb2YgdGhlIGNvbHVtbgo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJlbmRlcj86IEZ1bmN0aW9uOyAvLyBoYW5kbGUgdGhlIGRhdGEgYW5kIHRoZW4gZ2l2ZSBpdCB0byB0YWJsZQo=</text>
+        <text encoding="base64">ICAgIHdpZHRoPzogbnVtYmVyOyAvLyB0aGUgd2lkdGggb2YgdGhlIGNvbHVtbgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRpdGxlOiBzdHJpbmc7IC8vdGhlIGxhYmVsIG9mIHRoZSBjb2x1bW4K</text>
+        <text encoding="base64">ICAgIHJlbmRlcj86IEZ1bmN0aW9uOyAvLyBoYW5kbGUgdGhlIGRhdGEgYW5kIHRoZW4gZ2l2ZSBpdCB0byB0YWJsZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRhdGFJbmRleDogc3RyaW5nOyAvLyB0aGUgZGF0YSBpbmRleCBvZiB0aGUgY29sdW1uCg==</text>
+        <text encoding="base64">ICAgIHRpdGxlOiBzdHJpbmc7IC8vdGhlIGxhYmVsIG9mIHRoZSBjb2x1bW4K</text>
       </register>
       <register name=":" type="4">
         <text>vsplit common/constants.ts</text>
