@@ -22,8 +22,12 @@
         <mark key="." line="209" column="119" />
         <mark key="^" line="209" column="119" />
       </file>
-      <file name="$USER_HOME$/workdir/vocs-react/src/data/tables.ts" timestamp="1489195787302">
-        <mark key="'" line="364" column="21" />
+      <file name="$USER_HOME$/workdir/vocs-react/src/data/tables.ts" timestamp="1489197026951">
+        <mark key="'" line="13" column="19" />
+        <mark key="[" line="37" column="42" />
+        <mark key="]" line="37" column="48" />
+        <mark key="." line="37" column="48" />
+        <mark key="^" line="37" column="48" />
       </file>
       <file name="$USER_HOME$/workdir/web/vocs-react/src/components/treePage.tsx" timestamp="1489130422536">
         <mark key="'" line="0" column="0" />
@@ -322,8 +326,8 @@
         <mark key="." line="25" column="61" />
         <mark key="^" line="25" column="61" />
       </file>
-      <file name="$USER_HOME$/workdir/vocs-react/src/entry/tobeRepaired.tsx" timestamp="1489194258386">
-        <mark key="'" line="183" column="21" />
+      <file name="$USER_HOME$/workdir/vocs-react/src/entry/tobeRepaired.tsx" timestamp="1489196903991">
+        <mark key="'" line="198" column="52" />
         <mark key="[" line="183" column="31" />
         <mark key="]" line="183" column="31" />
         <mark key="^" line="183" column="31" />
@@ -447,11 +451,12 @@
         <mark key="^" line="29" column="38" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/workdir/vocs-react/src/common/constants.ts" timestamp="1489146233361">
+      <file name="$USER_HOME$/workdir/vocs-react/src/common/constants.ts" timestamp="1489199017871">
         <mark key="'" line="13" column="17" />
-        <mark key="[" line="81" column="22" />
-        <mark key="]" line="81" column="22" />
-        <mark key="." line="81" column="22" />
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="." line="78" column="0" />
+        <mark key="^" line="77" column="24" />
       </file>
       <file name="$USER_HOME$/sync/code/java/xiaoyi/src/main/java/com/klniu/xiaoyi/AudioRecorder.java" timestamp="1484362180877">
         <mark key="'" line="20" column="19" />
@@ -497,11 +502,15 @@
         <mark key="." line="13" column="32" />
         <mark key="^" line="13" column="32" />
       </file>
+      <file name="$USER_HOME$/workdir/vocs-react/src/data/tables.tsx" timestamp="1489198827833">
+        <mark key="'" line="365" column="28" />
+        <mark key="[" line="28" column="18" />
+        <mark key="]" line="28" column="30" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="39" column="39" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="14" filename="$USER_HOME$/workdir/web/vocs-react/src/components/upload.tsx" />
-      <jump line="116" column="52" filename="$USER_HOME$/workdir/web/vocs-react/src/components/upload.tsx" />
-      <jump line="98" column="37" filename="$USER_HOME$/workdir/web/vocs-react/src/components/upload.tsx" />
       <jump line="36" column="40" filename="$USER_HOME$/workdir/web/vocs-react/src/components/upload.tsx" />
       <jump line="0" column="0" filename="$USER_HOME$/workdir/web/vocs-react/src/entry/install.tsx" />
       <jump line="81" column="0" filename="$USER_HOME$/workdir/web/vocs-react/src/entry/install.tsx" />
@@ -599,6 +608,9 @@
       <jump line="20" column="8" filename="$USER_HOME$/workdir/vocs-react/src/entry/tobeRepaired.tsx" />
       <jump line="183" column="21" filename="$USER_HOME$/workdir/vocs-react/src/entry/tobeRepaired.tsx" />
       <jump line="364" column="21" filename="$USER_HOME$/workdir/vocs-react/src/data/tables.ts" />
+      <jump line="198" column="52" filename="$USER_HOME$/workdir/vocs-react/src/entry/tobeRepaired.tsx" />
+      <jump line="13" column="19" filename="$USER_HOME$/workdir/vocs-react/src/data/tables.ts" />
+      <jump line="365" column="28" filename="$USER_HOME$/workdir/vocs-react/src/data/tables.tsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -623,46 +635,46 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>T</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZW5kZXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgcmVxdWVzdCBmcm9tICdyZXF1ZXN0JzsK</text>
+        <text encoding="base64">ICAgIElEOm51bWJlcjsKICAgIE5hbWU6IHN0cmluZzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIE5hbWU6IHN0cmluZzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXMuX2JpbmQoImhhbmRsZUltcG9ydCIsICJoYW5kbGVFeHBvcnQiLCAicmVxdWVzdCIsICJmZXRjaCIsICJvblNlbGVjdENoYW5nZSIsICJhZGRSZXBhaXIiLCAib25Db21wbGV0ZUZvcm0iLCAib25DYW5jZWxGb3JtIik7Cg==</text>
+        <text encoding="base64">ICAgIERlc2NTZXBhcmF0ZWREYXRlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG1ldGhvZHMuZm9yRWFjaCgobWV0aG9kKSA9PiB0aGlzW21ldGhvZF0gPSB0aGlzW21ldGhvZF0uYmluZCh0aGlzKSk7Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBfYmluZCguLi5tZXRob2RzKSB7Cg==</text>
+        <text encoding="base64">ICAgIHdpZHRoPzogbnVtYmVyOyAvLyB0aGUgd2lkdGggb2YgdGhlIGNvbHVtbgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dmFyIHVwZGF0ZSA9IHJlcXVpcmUoJ3JlYWN0LWFkZG9ucy11cGRhdGUnKTsK</text>
+        <text encoding="base64">ICAgIHJlbmRlcj86IEZ1bmN0aW9uOyAvLyBoYW5kbGUgdGhlIGRhdGEgYW5kIHRoZW4gZ2l2ZSBpdCB0byB0YWJsZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHJlcXdlc3QgZnJvbSAncmVxd2VzdCc7Cg==</text>
+        <text encoding="base64">ICAgIHRpdGxlOiBzdHJpbmc7IC8vdGhlIGxhYmVsIG9mIHRoZSBjb2x1bW4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgY29ubmVjdCB9IGZyb20gJ3JlYWN0LXJlZHV4Jwo=</text>
+        <text encoding="base64">ICAgIGRhdGFJbmRleDogc3RyaW5nOyAvLyB0aGUgZGF0YSBpbmRleCBvZiB0aGUgY29sdW1uCg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s/span=&quot;\(\d\+\)&quot;/span={\1}/gc</text>
+        <text>vsplit common/constants.ts</text>
       </register>
     </registers>
     <search>
@@ -698,7 +710,6 @@
         <entry encoding="base64">XDxyZW5kZXJcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>help g</entry>
         <entry>w</entry>
         <entry>A;</entry>
         <entry>A</entry>
@@ -716,8 +727,9 @@
         <entry>%s/offset=&quot;\(\d\+\)&quot;/offset={\1}/gc</entry>
         <entry>action Forward</entry>
         <entry>action Back</entry>
-        <entry>action ReformatCode</entry>
         <entry>%s/span=&quot;\(\d\+\)&quot;/span={\1}/gc</entry>
+        <entry>action ReformatCode</entry>
+        <entry>vsplit common/constants.ts</entry>
       </history-cmd>
       <history-expr />
       <history-input />
