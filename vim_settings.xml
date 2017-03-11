@@ -116,10 +116,10 @@
         <mark key="." line="12" column="4" />
         <mark key="^" line="12" column="4" />
       </file>
-      <file name="$USER_HOME$/sync/code/go/src/ldar/component.go" timestamp="1479190408066">
-        <mark key="'" line="85" column="29" />
-        <mark key="[" line="92" column="53" />
-        <mark key="]" line="92" column="53" />
+      <file name="$USER_HOME$/sync/code/go/src/ldar/component.go" timestamp="1489231190921">
+        <mark key="'" line="584" column="22" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="38" column="0" />
         <mark key="." line="92" column="53" />
         <mark key="^" line="92" column="53" />
       </file>
@@ -268,6 +268,11 @@
         <mark key="]" line="7" column="11" />
         <mark key="." line="5" column="38" />
       </file>
+      <file name="$USER_HOME$/sync/code/go/src/zhvocs/controllers/ldarStatics.go" timestamp="1489232232755">
+        <mark key="'" line="164" column="17" />
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="73" column="4" />
+      </file>
       <file name="$USER_HOME$/sync/code/java/mdtools/src/com/klniu/md/model/Mol.java" timestamp="1481603697598">
         <mark key="[" line="53" column="28" />
         <mark key="]" line="53" column="28" />
@@ -319,6 +324,10 @@
       </file>
       <file name="$USER_HOME$/sync/code/go/src/zhvocs/controllers/monitor.go" timestamp="1478568227161">
         <mark key="'" line="142" column="34" />
+      </file>
+      <file name="$USER_HOME$/sync/code/go/src/ldar/plant.go" timestamp="1489231074418">
+        <mark key="[" line="104" column="0" />
+        <mark key="]" line="113" column="83" />
       </file>
       <file name="$USER_HOME$/sync/code/java/xiaoyi/src/main/java/com/klniu/xiaoyi/XFYuYin/XFTTS.java" timestamp="1484451611867">
         <mark key="'" line="21" column="23" />
@@ -435,6 +444,11 @@
         <mark key="]" line="32" column="64" />
         <mark key="^" line="32" column="64" />
         <mark key="." line="32" column="64" />
+      </file>
+      <file name="$USER_HOME$/sync/code/go/src/ldar/seal.go" timestamp="1489231417889">
+        <mark key="'" line="91" column="27" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="28" column="0" />
       </file>
       <file name="$USER_HOME$/sync/code/go/src/ldar/monitorstate_test.go" timestamp="1476255374926">
         <mark key="[" line="16" column="40" />
@@ -603,9 +617,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="31" filename="$USER_HOME$/workdir/web/vocs-react/src/components/treePage.tsx" />
-      <jump line="461" column="0" filename="$USER_HOME$/workdir/web/vocs-react/src/components/treePage.tsx" />
-      <jump line="6" column="7" filename="$USER_HOME$/workdir/web/vocs-react/src/components/treePage.tsx" />
       <jump line="1373" column="90" filename="$USER_HOME$/workdir/web/vocs-react/src/data/forms.tsx" />
       <jump line="30" column="20" filename="$USER_HOME$/workdir/web/vocs-react/src/entry/rules.tsx" />
       <jump line="19" column="4" filename="$USER_HOME$/workdir/web/vocs-react/src/components/upload.tsx" />
@@ -703,6 +714,9 @@
       <jump line="1027" column="13" filename="$USER_HOME$/workdir/vocs-react/src/data/forms.tsx" />
       <jump line="185" column="43" filename="$USER_HOME$/workdir/vocs-react/src/entry/detection.tsx" />
       <jump line="43" column="8" filename="$USER_HOME$/workdir/vocs-react/src/entry/tobeRepaired.tsx" />
+      <jump line="584" column="22" filename="$USER_HOME$/sync/code/go/src/ldar/component.go" />
+      <jump line="91" column="27" filename="$USER_HOME$/sync/code/go/src/ldar/seal.go" />
+      <jump line="164" column="17" filename="$USER_HOME$/sync/code/go/src/zhvocs/controllers/ldarStatics.go" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -727,7 +741,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">dHlwZSBUb0JlUmVwYWlyZWRVbmlvbiBzdHJ1Y3QgewoJVW5pdE5vICAgICAgIGludAoJVW5pdE5hbWUgICAgIHN0cmluZwoJSW5zdGFsbElEICAgIGludAoJSW5zdGFsbE5hbWUgIHN0cmluZwoJQ29tcG9uZW50VGFnIHN0cmluZwoJU2VhbElEICAgICAgIGludAoJRGV0ZWN0aW9uSUQgIGludAoJVGFnICAgICAgICAgIHN0cmluZwoJVGltZSAgICAgICAgIHRpbWUuVGltZQoJU3RhbmRhcmQgICAgIGludAoJRklEICAgICAgICAgIGZsb2F0NjQKfQo=</text>
+        <text encoding="base64">CXR5cGUgZW1pc3Npb24gc3RydWN0IHsKCQlUeXBlICAgICAgICAgICAgc3RyaW5nCgkJU3RhdGUgICAgICAgICAgIHN0cmluZwoJCUNvdW50ICAgICAgICAgICBpbnQgLy9tb25pdG9yZWQKCQlCZWZvcmVSZXBhaXJpbmcgZmxvYXQ2NAoJCUFmdGVyUmVwYWlyaW5nICBmbG9hdDY0CgkJVW5hY2Nlc3NhYmxlQ250IGludAoJCVVuYWNjZXNzYWJsZSAgICBmbG9hdDY0CgkJQWxsQ291bnQgICAgICAgIGludAoJCVVuTERBUiAgICAgICAgICBmbG9hdDY0Cgl9Cg==</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -736,7 +750,7 @@
         <text encoding="base64">XDxyZXF1ZXN0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CUlEICAgICAgICAgICAgICAgICAgaW50CglEZXRlY3Rpb25JRCAgICAgICAgIGludCAgICAgICBgZ29ybToidW5pcXVlX2luZGV4OmlkeF9kZXRlY3Rpb25faWRfdGltZTt0eXBlOmludGVnZXIgUkVGRVJFTkNFUyBkZXRlY3Rpb25zKGlkKSBPTiBERUxFVEUgQ0FTQ0FERSBPTiBVUERBVEUgQ0FTQ0FERSJgCglUaW1lICAgICAgICAgICAgICAgIHRpbWUuVGltZSBgZ29ybToidW5pcXVlX2luZGV4OmlkeF9kZXRlY3Rpb25faWRfdGltZSJgCglGSUQgICAgICAgICAgICAgICAgIGZsb2F0NjQKCVJlcGFpck1ldGhvZCAgICAgICAgc3RyaW5nCglJc0xlYWtpbmcgICAgICAgICAgIGJvb2wKCURldmljZU1vZGVsICAgICAgICAgc3RyaW5nCglEZXZpY2VObyAgICAgICAgICAgIHN0cmluZwoJQ29tcGFueSAgICAgICAgICAgICBzdHJpbmcKCVBlcnNvbnMgICAgICAgICAgICAgc3RyaW5nCglBdmVyYWdlRW1pc3Npb24gICAgIGZsb2F0NjQgLy8gQXZlcmFnZSBlbWlzc2lvbiBmYWN0b3IgbWV0aG9kCglTY3JlZW5FbWlzc2lvbiAgICAgIGZsb2F0NjQgLy8gU2NyZWVuIHJhbmdlIG1ldGhvZAoJQ29ycmVsYXRpb25FbWlzc2lvbiBmbG9hdDY0IC8vVVMuRVBBIGVtaXNzaW9uIGNvcnJlbGF0aW9uIG1ldGhvZAo=</text>
+        <text encoding="base64">CUlEICAgICAgICAgICAgaW50CglSdWxlSUQgICAgICAgIGludCBgZ29ybToibm90IG51bGwiYAoJVW5pdE5vICAgICAgICBpbnQgYGdvcm06Im5vdCBudWxsO3VuaXF1ZV9pbmRleDppZHhfdW5pdF9ub19ubzt0eXBlOmludGVnZXIgUkVGRVJFTkNFUyB1bml0cyhubykgT04gREVMRVRFIENBU0NBREUgT04gVVBEQVRFIENBU0NBREUiYAoJTm8gICAgICAgICAgICBpbnQgYGdvcm06Im5vdCBudWxsO3VuaXF1ZV9pbmRleDppZHhfdW5pdF9ub19ubyJgCglOYW1lICAgICAgICAgIHN0cmluZwoJQ29kZSAgICAgICAgICBzcWwuTnVsbFN0cmluZyBgZ29ybToiaW5kZXg7dW5pcXVlImAKCVR5cGUgICAgICAgICAgSW5zdGFsbGF0aW9uVHlwZQoJQ29uc3RydWN0RGF0ZSB0aW1lLlRpbWUKCURlc2MgICAgICAgICAgc3RyaW5nCglDb21wb25lbnRzICAgIFtdQ29tcG9uZW50IGBnb3JtOiJGb3JlaWduS2V5Okluc3RhbGxJRDtBc3NvY2lhdGlvbkZvcmVpZ25LZXk6SUQiYAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHRoaXMuX2JpbmQoImhhbmRsZUltcG9ydCIsICJoYW5kbGVFeHBvcnQiLCAicmVxdWVzdCIsICJmZXRjaCIsICJvblNlbGVjdENoYW5nZSIsICJhZGRSZXBhaXIiLCAib25Db21wbGV0ZUZvcm0iLCAib25DYW5jZWxGb3JtIik7Cg==</text>
