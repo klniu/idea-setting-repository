@@ -260,11 +260,11 @@
         <mark key="." line="71" column="0" />
         <mark key="^" line="71" column="55" />
       </file>
-      <file name="$USER_HOME$/workdir/vocs-react/webpack-dev.config.js" timestamp="1489282200230">
-        <mark key="[" line="29" column="73" />
-        <mark key="]" line="29" column="73" />
-        <mark key="^" line="29" column="73" />
-        <mark key="." line="29" column="73" />
+      <file name="$USER_HOME$/workdir/vocs-react/webpack-dev.config.js" timestamp="1489286242513">
+        <mark key="'" line="105" column="12" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/sync/code/java/livesim/src/main/java/History.java" timestamp="1480318763076">
         <mark key="'" line="0" column="0" />
@@ -284,6 +284,13 @@
         <mark key="]" line="13" column="19" />
         <mark key="." line="13" column="19" />
         <mark key="^" line="13" column="19" />
+      </file>
+      <file name="$USER_HOME$/workdir/vocs-react/package.json" timestamp="1489286219776">
+        <mark key="'" line="6" column="80" />
+        <mark key="[" line="6" column="57" />
+        <mark key="]" line="6" column="81" />
+        <mark key="." line="6" column="57" />
+        <mark key="^" line="6" column="56" />
       </file>
       <file name="$USER_HOME$/workdir/web/vocs-react/src/data/tables.ts" timestamp="1489127319634">
         <mark key="'" line="50" column="24" />
@@ -371,6 +378,12 @@
         <mark key="]" line="188" column="9" />
         <mark key="^" line="188" column="9" />
         <mark key="." line="188" column="9" />
+      </file>
+      <file name="$USER_HOME$/workdir/vocs-react/tsconfig.json" timestamp="1489285531489">
+        <mark key="[" line="11" column="5" />
+        <mark key="]" line="11" column="9" />
+        <mark key="^" line="24" column="3" />
+        <mark key="." line="23" column="24" />
       </file>
       <file name="$USER_HOME$/sync/code/java/mdtools/src/com/klniu/md/model/Mol.java" timestamp="1481603697598">
         <mark key="[" line="53" column="28" />
@@ -536,11 +549,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="247" column="18" filename="$USER_HOME$/workdir/web/vocs-react/src/components/photoedit.tsx" />
-      <jump line="334" column="47" filename="$USER_HOME$/workdir/web/vocs-react/src/components/photoedit.tsx" />
-      <jump line="156" column="12" filename="$USER_HOME$/workdir/web/vocs-react/src/components/photoedit.tsx" />
-      <jump line="392" column="47" filename="$USER_HOME$/workdir/web/vocs-react/src/components/photoedit.tsx" />
-      <jump line="433" column="28" filename="$USER_HOME$/workdir/web/vocs-react/src/components/photoedit.tsx" />
       <jump line="42" column="0" filename="$USER_HOME$/workdir/web/vocs-react/src/common/constants.ts" />
       <jump line="45" column="10" filename="$USER_HOME$/workdir/web/vocs-react/src/common/constants.ts" />
       <jump line="40" column="8" filename="$USER_HOME$/workdir/web/vocs-react/src/entry/photo.tsx" />
@@ -636,6 +644,11 @@
       <jump line="148" column="0" filename="$USER_HOME$/workdir/vocs-react/src/entry/user.tsx" />
       <jump line="114" column="12" filename="$USER_HOME$/workdir/vocs-react/src/entry/user.tsx" />
       <jump line="34" column="19" filename="$USER_HOME$/workdir/vocs-react/src/entry/main.tsx" />
+      <jump line="92" column="9" filename="$USER_HOME$/workdir/vocs-react/webpack-dev.config.js" />
+      <jump line="33" column="8" filename="$USER_HOME$/workdir/vocs-react/webpack-dev.config.js" />
+      <jump line="31" column="22" filename="$USER_HOME$/workdir/vocs-react/package.json" />
+      <jump line="6" column="80" filename="$USER_HOME$/workdir/vocs-react/package.json" />
+      <jump line="104" column="12" filename="$USER_HOME$/workdir/vocs-react/webpack-dev.config.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -650,11 +663,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IC8vIGBzdHlsZTogdHJ1ZWAgZm9yIGxlc3M=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC8vIGBzdHlsZTogdHJ1ZWAgZm9yIGxlc3M=</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaGExXD4=</text>
@@ -663,31 +676,31 @@
         <text>rule:any, value:string, callback:Function</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfV0sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0eWxlOiB0cnVlCg==</text>
+        <text encoding="base64">ICAgICJzcmMvaW5kZXgudHMiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgWyJhbnRkIiwgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmFpbFBsdWdpbgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gZm9yIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PCEtLQo=</text>
+        <text encoding="base64">ICAgICAgICBjaHVua0ZpbGVuYW1lOiAnW2NodW5raGFzaF0uanMnLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCEtLQogICAgICAgICAgICA8Um91dGUgcGF0aD0ibGRhci9zdGF0aXN0aWMvc2VhbHMiIGNvbXBvbmVudD17IExEQVJTZWFsc0NvdW50IH0vPgogICAgICAgICAgICA8Um91dGUgcGF0aD0ibGRhci9zdGF0aXN0aWMvbGVha2Rpc3QiIGNvbXBvbmVudD17IExEQVJMZWFrRGlzdCB9Lz4KICAgICAgICAgICAgPFJvdXRlIHBhdGg9ImxkYXIvc3RhdGlzdGljL2VtaXNzaW9uIiBjb21wb25lbnQ9eyBMREFSRW1pc3Npb24gfS8+CiAgICAgICAgICAgIC0tPgo=</text>
+        <text encoding="base64">ICAgIH0sCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IEluZGV4Um91dGUgZnJvbSAicmVhY3Qtcm91dGVyL2xpYi9JbmRleFJvdXRlIgo=</text>
+        <text encoding="base64">ICAgICAgICAicmVhY3QtZG9tIjogIlJlYWN0RE9NIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGJyb3dzZXJIaXN0b3J5IGZyb20gInJlYWN0LXJvdXRlci9saWIvYnJvd3Nlckhpc3RvcnkiCg==</text>
+        <text encoding="base64">ICAgICAgICAicmVhY3QiOiAiUmVhY3QiLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dmFyIHNoYTEgPSByZXF1aXJlKCdzaGExJyk7Cg==</text>
+        <text encoding="base64">ICAgIGV4dGVybmFsczogewo=</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
