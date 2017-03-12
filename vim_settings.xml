@@ -214,12 +214,11 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workdir/vocs-react/src/entry/main.tsx" timestamp="1489235526687">
-        <mark key="'" line="109" column="0" />
-        <mark key="[" line="109" column="0" />
-        <mark key="]" line="109" column="0" />
-        <mark key="." line="109" column="0" />
-        <mark key="^" line="84" column="26" />
+      <file name="$USER_HOME$/workdir/vocs-react/src/entry/main.tsx" timestamp="1489278489781">
+        <mark key="[" line="108" column="35" />
+        <mark key="]" line="108" column="35" />
+        <mark key="^" line="108" column="35" />
+        <mark key="." line="108" column="35" />
       </file>
       <file name="$USER_HOME$/workdir/web/vocs-react/src/entry/photo.tsx" timestamp="1489137082816">
         <mark key="'" line="214" column="100" />
@@ -259,6 +258,12 @@
         <mark key="]" line="71" column="0" />
         <mark key="." line="71" column="0" />
         <mark key="^" line="71" column="55" />
+      </file>
+      <file name="$USER_HOME$/workdir/vocs-react/webpack-dev.config.js" timestamp="1489279178665">
+        <mark key="[" line="112" column="4" />
+        <mark key="]" line="115" column="6" />
+        <mark key="." line="112" column="4" />
+        <mark key="^" line="112" column="3" />
       </file>
       <file name="$USER_HOME$/sync/code/java/livesim/src/main/java/History.java" timestamp="1480318763076">
         <mark key="'" line="0" column="0" />
@@ -430,12 +435,12 @@
         <mark key="^" line="853" column="4" />
         <mark key="." line="817" column="46" />
       </file>
-      <file name="$USER_HOME$/workdir/vocs-react/src/entry/user.tsx" timestamp="1489236484547">
-        <mark key="'" line="114" column="12" />
-        <mark key="[" line="148" column="15" />
-        <mark key="]" line="148" column="25" />
-        <mark key="^" line="148" column="25" />
-        <mark key="." line="148" column="25" />
+      <file name="$USER_HOME$/workdir/vocs-react/src/entry/user.tsx" timestamp="1489275736716">
+        <mark key="'" line="115" column="12" />
+        <mark key="[" line="102" column="101" />
+        <mark key="]" line="102" column="101" />
+        <mark key="^" line="102" column="101" />
+        <mark key="." line="102" column="101" />
       </file>
       <file name="$USER_HOME$/sync/code/java/xiaoyi/src/main/java/com/klniu/xiaoyi/IndexFiles.java" timestamp="1484444233255">
         <mark key="'" line="105" column="0" />
@@ -645,10 +650,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>User</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>User</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaGExXD4=</text>
@@ -657,31 +662,31 @@
         <text>rule:any, value:string, callback:Function</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LS0+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">PCEtLQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLQogICAgICAgICAgICA8Um91dGUgcGF0aD0ibGRhci9zdGF0aXN0aWMvc2VhbHMiIGNvbXBvbmVudD17IExEQVJTZWFsc0NvdW50IH0vPgogICAgICAgICAgICA8Um91dGUgcGF0aD0ibGRhci9zdGF0aXN0aWMvbGVha2Rpc3QiIGNvbXBvbmVudD17IExEQVJMZWFrRGlzdCB9Lz4KICAgICAgICAgICAgPFJvdXRlIHBhdGg9ImxkYXIvc3RhdGlzdGljL2VtaXNzaW9uIiBjb21wb25lbnQ9eyBMREFSRW1pc3Npb24gfS8+CiAgICAgICAgICAgIC0tPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLkNoYW5nZVBhc3N3b3JkRm9ybSA9IFsKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdHlwZTogInBhc3N3b3JkIiwKICAgICAgICAgICAgICAgIGlkOiAiT3JpUGFzc3dvcmQiLAogICAgICAgICAgICAgICAgbGFiZWw6ICLljp/lp4vlr4bnoIEiLAogICAgICAgICAgICAgICAgZmllbGRQcm9wczogewogICAgICAgICAgICAgICAgICAgIHJ1bGVzOiBbCiAgICAgICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlcXVpcmVkOiB0cnVlLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgbWVzc2FnZTogIuivt+i+k+WFpeWOn+Wni+WvhueggSIKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIF0sCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0sIHsKICAgICAgICAgICAgICAgIHR5cGU6ICJwYXNzd29yZCIsCiAgICAgICAgICAgICAgICBpZDogIlBhc3N3b3JkIiwKICAgICAgICAgICAgICAgIGxhYmVsOiAi5paw5a+G56CBIiwKICAgICAgICAgICAgICAgIGZpZWxkUHJvcHM6IHsKICAgICAgICAgICAgICAgICAgICBydWxlczogWwogICAgICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXF1aXJlZDogdHJ1ZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1lc3NhZ2U6ICLor7fovpPlhaXmlrDlr4bnoIEiCiAgICAgICAgICAgICAgICAgICAgICAgIH0sIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbGlkYXRvcjogdGhpcy5jaGVja1Bhc3MsCiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICBdLAogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9LCB7CiAgICAgICAgICAgICAgICB0eXBlOiAicGFzc3dvcmQiLAogICAgICAgICAgICAgICAgaWQ6ICJSZVBhc3N3b3JkIiwKICAgICAgICAgICAgICAgIGxhYmVsOiAi5YaN5qyh6L6T5YWlIiwKICAgICAgICAgICAgICAgIGZpZWxkUHJvcHM6IHsKICAgICAgICAgICAgICAgICAgICBydWxlczogWwogICAgICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXF1aXJlZDogdHJ1ZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1lc3NhZ2U6ICLor7flho3mrKHovpPlhaXlr4bnoIEiCiAgICAgICAgICAgICAgICAgICAgICAgIH0sIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbGlkYXRvcjogdGhpcy5jaGVja1Bhc3MyLAogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgXSwKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIF0K</text>
+        <text encoding="base64">aW1wb3J0IEluZGV4Um91dGUgZnJvbSAicmVhY3Qtcm91dGVyL2xpYi9JbmRleFJvdXRlIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIGFwcGVuZCB2YWxpZGF0ZSBmb3IgQ2hhbmdlUGFzc3dvcmRGb3JtIGFuZCBBZGRVc2VyRm9ybQo=</text>
+        <text encoding="base64">aW1wb3J0IGJyb3dzZXJIaXN0b3J5IGZyb20gInJlYWN0LXJvdXRlci9saWIvYnJvd3Nlckhpc3RvcnkiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">dmFyIHNoYTEgPSByZXF1aXJlKCdzaGExJyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">XQo=</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgc2hhMSBmcm9tICJzaGExIjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dmFyIHNoYTEgPSByZXF1aXJlKCdqcy1zaGExJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRoaXMuX2JpbmQoImhhbmRsZVN1Ym1pdCIsICJjaGVja1Bhc3MiLCAiY2hlY2tQYXNzMiIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
@@ -694,7 +699,7 @@
       <last-replace>:string</last-replace>
       <last-substitute>string</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
