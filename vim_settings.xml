@@ -121,6 +121,12 @@
         <mark key="." line="74" column="26" />
         <mark key="^" line="74" column="26" />
       </file>
+      <file name="$USER_HOME$/sync/code/go/src/minger/src/audioplayer.go" timestamp="1489400219115">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="13" />
+        <mark key="." line="0" column="13" />
+        <mark key="^" line="0" column="13" />
+      </file>
       <file name="$USER_HOME$/sync/code/java/xiaoyi/src/main/java/com/klniu/xiaoyi/BDYuYin/BDRecognize.java" timestamp="1484225825787">
         <mark key="[" line="36" column="59" />
         <mark key="]" line="36" column="61" />
@@ -289,6 +295,9 @@
       <file name="$USER_HOME$/workdir/web/vocs-react/node_modules/antd/lib/tree/index.d.ts" timestamp="1489135844062">
         <mark key="'" line="9" column="62" />
       </file>
+      <file name="vim_settings.xml" timestamp="1489399871558">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/sync/code/java/livesim/src/main/java/Tree.java" timestamp="1479187705017">
         <mark key="[" line="10" column="5" />
         <mark key="]" line="26" column="83" />
@@ -343,8 +352,8 @@
         <mark key="'" line="13" column="14" />
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="14" />
-        <mark key="." line="13" column="14" />
         <mark key="^" line="13" column="14" />
+        <mark key="." line="13" column="14" />
       </file>
       <file name="$USER_HOME$/sync/code/java/ProgrammingProjectList/003-CountVowels/src/CountVowels.java" timestamp="1474772524816">
         <mark key="[" line="18" column="11" />
@@ -645,10 +654,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>User</text>
+        <text>src</text>
       </register>
       <register name="-" type="4">
-        <text>User</text>
+        <text>src</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaGExXD4=</text>
@@ -684,7 +693,7 @@
         <text encoding="base64">ICAgIHRoaXMuX2JpbmQoImhhbmRsZVN1Ym1pdCIsICJjaGVja1Bhc3MiLCAiY2hlY2tQYXNzMiIpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text>action Forward</text>
       </register>
     </registers>
     <search>
@@ -694,32 +703,37 @@
       <last-replace>:string</last-replace>
       <last-substitute>string</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
+        <entry>adfad</entry>
+        <entry encoding="base64">XDxwaG90b01vZGFsQ29udGVudFw+</entry>
+        <entry encoding="base64">XDxzZXRBbGVydFw+</entry>
+        <entry>req</entry>
+        <entry>reqwes</entry>
+        <entry>span=&quot;(%d)&quot;</entry>
+        <entry>span=&quot;(\d+)&quot;</entry>
+        <entry>span=&quot;\(\d+\)&quot;</entry>
+        <entry encoding="base64">XDx0cmVlVW5pdHNcPg==</entry>
+        <entry encoding="base64">XDxjYXNjYWRlclVuaXRzXD4=</entry>
         <entry>tree</entry>
         <entry encoding="base64">XDxnZXRJbnN0YWxsc1w+</entry>
         <entry encoding="base64">XDxyZUNhbGNEZXRlY3RzXD4=</entry>
         <entry encoding="base64">XDxSZUNhbGNEZXRlY3RzXD4=</entry>
         <entry encoding="base64">XDx1bml0XD4=</entry>
+        <entry>span=&quot;\(\d\+\)&quot;</entry>
         <entry>offset=&quot;\(\d\+\)&quot;</entry>
         <entry>server</entry>
         <entry encoding="base64">XDxEZXRlY3Rpb25TZWFjaEZvcm1cPg==</entry>
         <entry encoding="base64">XDxyZXF1ZXN0XD4=</entry>
-        <entry encoding="base64">XDxzZWxlY3RlZFJvd0tleXNcPg==</entry>
-        <entry>span=&quot;\(\d\+\)&quot;</entry>
-        <entry encoding="base64">XDxyZW5kZXJcPg==</entry>
-        <entry>time.Time</entry>
-        <entry>int</entry>
-        <entry>float64</entry>
-        <entry>string</entry>
-        <entry>adfadf</entry>
-        <entry encoding="base64">XDxNYWluUmVkdWNlclw+</entry>
-        <entry encoding="base64">XDxqc1w+</entry>
-        <entry encoding="base64">XDxzaGExXD4=</entry>
       </history-search>
       <history-cmd>
+        <entry>help g</entry>
+        <entry>w</entry>
+        <entry>A;</entry>
+        <entry>A</entry>
+        <entry encoding="base64">JzwsJz5zL+KGki8pLC9nYw==</entry>
         <entry encoding="base64">JzwsJz5zLyQvKS9nYw==</entry>
         <entry encoding="base64">YWN0aW9uIA==</entry>
         <entry>actionlist</entry>
@@ -730,16 +744,11 @@
         <entry>%s/span=&quot;(%d)&quot;/span={%1}/gc</entry>
         <entry>%s/span=&quot;(\d+)&quot;/span={%1}/gc</entry>
         <entry>%s/span=&quot;\(\d+\)&quot;/span={\1}/gc</entry>
-        <entry>%s/offset=&quot;\(\d\+\)&quot;/offset={\1}/gc</entry>
-        <entry>action Forward</entry>
         <entry>%s/span=&quot;\(\d\+\)&quot;/span={\1}/gc</entry>
-        <entry>vsplit common/constants.ts</entry>
-        <entry encoding="base64">JzwsJz5zL3RpbWUuVGltZS86c3RyaW5nL2dj</entry>
-        <entry encoding="base64">JzwsJz5zL2ludC86bnVtYmVyL2dj</entry>
-        <entry encoding="base64">JzwsJz5zL2Zsb2F0NjQvOm51bWJlci9nYw==</entry>
-        <entry encoding="base64">JzwsJz5zL3N0cmluZy86c3RyaW5nL2dj</entry>
+        <entry>%s/offset=&quot;\(\d\+\)&quot;/offset={\1}/gc</entry>
         <entry>action Back</entry>
         <entry>action ReformatCode</entry>
+        <entry>action Forward</entry>
       </history-cmd>
       <history-expr />
       <history-input />
