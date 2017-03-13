@@ -55,12 +55,6 @@
         <mark key="." line="3" column="32" />
         <mark key="^" line="3" column="32" />
       </file>
-      <file name="$USER_HOME$/workdir/web/vocs-react/tsconfig.json" timestamp="1489395254407">
-        <mark key="[" line="15" column="9" />
-        <mark key="]" line="15" column="11" />
-        <mark key="." line="15" column="11" />
-        <mark key="^" line="15" column="11" />
-      </file>
       <file name="$USER_HOME$/sync/code/java/ProgrammingProjectList/001-ReverseString/src/ReverseString.java" timestamp="1474764144607">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="86" />
@@ -581,10 +575,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>generated</text>
+        <text>number</text>
       </register>
       <register name="-" type="4">
-        <text>generated</text>
+        <text>number</text>
       </register>
       <register name="/" type="4">
         <text>offset=&quot;\(\d\+\)&quot;</text>
@@ -593,34 +587,34 @@
         <text>String(unit.No * 100+install.No)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJiYXNlVXJsIjogIi4iCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBdLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXJyOiAocmVzdWx0KSA9PiB7CiAgICAgICAgICAgICAgICB0aGlzLl9zZXRBbGVydCgi6K+35rGC5aSx6LSl77yM6K+35qOA5rWL572R57ucIikKICAgICAgICAgICAgICAgIHRoaXMuc2V0U3RhdGUoewogICAgICAgICAgICAgICAgICAgIGxvYWRpbmc6IGZhbHNlCiAgICAgICAgICAgICAgICB9KQogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJyZWFjdCIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWV0aG9kOiAnZ2V0JywK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAidHlwZXMiOiBbCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXJyOiAocmVzdWx0KSA9PiB7CiAgICAgICAgICAgICAgICB0aGlzLl9zZXRBbGVydCgi6K+35rGC5aSx6LSl77yM6K+35qOA5rWL572R57ucIikKICAgICAgICAgICAgICAgIHRoaXMuc2V0U3RhdGUoewogICAgICAgICAgICAgICAgICAgIGxvYWRpbmc6IGZhbHNlCiAgICAgICAgICAgICAgICB9KQogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAic3JjLyoiLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgIioiOnsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0pCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text>%s/offset=&quot;\(\d\+\)&quot;/offset={\1}/gc</text>
       </register>
     </registers>
     <search>
@@ -630,7 +624,7 @@
       <last-replace>offset={\1}</last-replace>
       <last-substitute>offset=&quot;\(\d\+\)&quot;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -673,9 +667,9 @@
         <entry>%s/span=&quot;(%d)&quot;/span={%1}/gc</entry>
         <entry>%s/span=&quot;(\d+)&quot;/span={%1}/gc</entry>
         <entry>%s/span=&quot;\(\d+\)&quot;/span={\1}/gc</entry>
+        <entry>action ReformatCode</entry>
         <entry>%s/span=&quot;\(\d\+\)&quot;/span={\1}/gc</entry>
         <entry>%s/offset=&quot;\(\d\+\)&quot;/offset={\1}/gc</entry>
-        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
