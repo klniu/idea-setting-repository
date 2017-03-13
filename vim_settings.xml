@@ -55,10 +55,11 @@
         <mark key="." line="3" column="32" />
         <mark key="^" line="3" column="32" />
       </file>
-      <file name="$USER_HOME$/workdir/web/vocs-react/tsconfig.json" timestamp="1489392982494">
-        <mark key="[" line="10" column="40" />
-        <mark key="]" line="10" column="40" />
-        <mark key="." line="10" column="40" />
+      <file name="$USER_HOME$/workdir/web/vocs-react/tsconfig.json" timestamp="1489395254407">
+        <mark key="[" line="15" column="9" />
+        <mark key="]" line="15" column="11" />
+        <mark key="." line="15" column="11" />
+        <mark key="^" line="15" column="11" />
       </file>
       <file name="$USER_HOME$/sync/code/java/ProgrammingProjectList/001-ReverseString/src/ReverseString.java" timestamp="1474764144607">
         <mark key="[" line="4" column="0" />
@@ -580,10 +581,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>generated</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>generated</text>
       </register>
       <register name="/" type="4">
         <text>offset=&quot;\(\d\+\)&quot;</text>
@@ -592,34 +593,34 @@
         <text>String(unit.No * 100+install.No)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJiYXNlVXJsIjogIi4iLAo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgXQo=</text>
+        <text encoding="base64">ICAgICJiYXNlVXJsIjogIi4iCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAic3JjLyoiCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAiKiIsCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgIioiOiBbCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICJwYXRocyI6IHsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICBdLAo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICJyZWFjdCIK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAidHlwZXMiOiBbCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICB9LAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgXQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICIuL3NyYy8qKi8qIgo=</text>
+        <text encoding="base64">ICAgICAgICAic3JjLyoiLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAiaW5jbHVkZSI6IFsK</text>
+        <text encoding="base64">ICAgICAgIioiOnsK</text>
       </register>
       <register name=":" type="4">
-        <text>%s/offset=&quot;\(\d\+\)&quot;/offset={\1}/gc</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
@@ -672,9 +673,9 @@
         <entry>%s/span=&quot;(%d)&quot;/span={%1}/gc</entry>
         <entry>%s/span=&quot;(\d+)&quot;/span={%1}/gc</entry>
         <entry>%s/span=&quot;\(\d+\)&quot;/span={\1}/gc</entry>
-        <entry>action ReformatCode</entry>
         <entry>%s/span=&quot;\(\d\+\)&quot;/span={\1}/gc</entry>
         <entry>%s/offset=&quot;\(\d\+\)&quot;/offset={\1}/gc</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
