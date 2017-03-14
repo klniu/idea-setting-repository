@@ -114,11 +114,12 @@
         <mark key="." line="74" column="26" />
         <mark key="^" line="74" column="26" />
       </file>
-      <file name="$USER_HOME$/sync/code/go/src/minger/src/audioplayer.go" timestamp="1489465239407">
-        <mark key="[" line="541" column="0" />
-        <mark key="]" line="541" column="16" />
-        <mark key="." line="541" column="16" />
-        <mark key="^" line="541" column="16" />
+      <file name="$USER_HOME$/sync/code/go/src/minger/src/audioplayer.go" timestamp="1489466484979">
+        <mark key="'" line="464" column="23" />
+        <mark key="[" line="466" column="5" />
+        <mark key="]" line="467" column="0" />
+        <mark key="^" line="467" column="0" />
+        <mark key="." line="483" column="33" />
       </file>
       <file name="$USER_HOME$/sync/code/java/xiaoyi/src/main/java/com/klniu/xiaoyi/BDYuYin/BDRecognize.java" timestamp="1484225825787">
         <mark key="[" line="36" column="59" />
@@ -377,10 +378,11 @@
         <mark key="." line="427" column="0" />
         <mark key="^" line="451" column="46" />
       </file>
-      <file name="$USER_HOME$/sync/code/go/src/minger/main.go" timestamp="1489465263675">
-        <mark key="[" line="11" column="42" />
-        <mark key="]" line="11" column="42" />
-        <mark key="." line="11" column="42" />
+      <file name="$USER_HOME$/sync/code/go/src/minger/main.go" timestamp="1489466068639">
+        <mark key="[" line="17" column="21" />
+        <mark key="]" line="17" column="22" />
+        <mark key="^" line="14" column="21" />
+        <mark key="." line="17" column="22" />
       </file>
       <file name="$USER_HOME$/sync/code/go/src/ldar/emission_test.go" timestamp="1479215663749">
         <mark key="'" line="820" column="78" />
@@ -462,14 +464,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="46" filename="$USER_HOME$/workdir/web/vocs-react/src/data/tables.ts" />
-      <jump line="117" column="57" filename="$USER_HOME$/workdir/web/vocs-react/src/common/constants.ts" />
-      <jump line="229" column="12" filename="$USER_HOME$/workdir/web/vocs-react/src/data/tables.ts" />
-      <jump line="678" column="12" filename="$USER_HOME$/workdir/web/vocs-react/src/data/tables.ts" />
-      <jump line="369" column="13" filename="$USER_HOME$/workdir/web/vocs-react/src/data/tables.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/workdir/web/vocs-react/src/data/tables.ts" />
-      <jump line="671" column="0" filename="$USER_HOME$/workdir/web/vocs-react/src/data/tables.ts" />
-      <jump line="19" column="7" filename="$USER_HOME$/workdir/web/vocs-react/src/data/tables.ts" />
       <jump line="149" column="13" filename="$USER_HOME$/workdir/web/vocs-react/src/data/tables.ts" />
       <jump line="437" column="13" filename="$USER_HOME$/workdir/web/vocs-react/src/data/tables.ts" />
       <jump line="8" column="31" filename="$USER_HOME$/workdir/web/vocs-react/src/components/treePage.tsx" />
@@ -562,6 +556,14 @@
       <jump line="67" column="12" filename="$USER_HOME$/workdir/web/vocs-react/src/entry/photo.tsx" />
       <jump line="211" column="24" filename="$USER_HOME$/workdir/web/vocs-react/src/entry/photo.tsx" />
       <jump line="214" column="100" filename="$USER_HOME$/workdir/web/vocs-react/src/entry/photo.tsx" />
+      <jump line="347" column="26" filename="$USER_HOME$/sync/code/go/src/minger/src/audioplayer.go" />
+      <jump line="512" column="13" filename="$USER_HOME$/sync/code/go/src/minger/src/audioplayer.go" />
+      <jump line="243" column="34" filename="$USER_HOME$/sync/code/go/src/minger/src/audioplayer.go" />
+      <jump line="273" column="56" filename="$USER_HOME$/sync/code/go/src/minger/src/audioplayer.go" />
+      <jump line="285" column="30" filename="$USER_HOME$/sync/code/go/src/minger/src/audioplayer.go" />
+      <jump line="393" column="37" filename="$USER_HOME$/sync/code/go/src/minger/src/audioplayer.go" />
+      <jump line="465" column="39" filename="$USER_HOME$/sync/code/go/src/minger/src/audioplayer.go" />
+      <jump line="480" column="23" filename="$USER_HOME$/sync/code/go/src/minger/src/audioplayer.go" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -585,61 +587,60 @@
           <key char="104" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>erfei</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cmV0dXJuCg==</text>
       </register>
       <register name="-" type="4">
-        <text>erfei</text>
+        <text encoding="base64">b3Ag</text>
       </register>
       <register name="/" type="4">
-        <text>offset=&quot;\(\d\+\)&quot;</text>
+        <text encoding="base64">XDxsb29wXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>String(unit.No * 100+install.No)</text>
+      <register name="0" type="2">
+        <text encoding="base64">CWZtdC5QcmludGxuKCJ0ZXN0MSIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWEud2cuV2FpdCgpCg==</text>
+        <text encoding="base64">cmV0dXJuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8g6Lev5b6E6Z2e5rOVCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">fSBlbHNlIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSwK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXJyOiAocmVzdWx0KSA9PiB7CiAgICAgICAgICAgICAgICB0aGlzLl9zZXRBbGVydCgi6K+35rGC5aSx6LSl77yM6K+35qOA5rWL572R57ucIikKICAgICAgICAgICAgICAgIHRoaXMuc2V0U3RhdGUoewogICAgICAgICAgICAgICAgICAgIGxvYWRpbmc6IGZhbHNlCiAgICAgICAgICAgICAgICB9KQogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWV0aG9kOiAnZ2V0JywK</text>
+        <text encoding="base64">b3MuRXhpdCgwKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSwK</text>
+        <text encoding="base64">Y2xvc2Uoc2lnX291dCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXJyOiAocmVzdWx0KSA9PiB7CiAgICAgICAgICAgICAgICB0aGlzLl9zZXRBbGVydCgi6K+35rGC5aSx6LSl77yM6K+35qOA5rWL572R57ucIikKICAgICAgICAgICAgICAgIHRoaXMuc2V0U3RhdGUoewogICAgICAgICAgICAgICAgICAgIGxvYWRpbmc6IGZhbHNlCiAgICAgICAgICAgICAgICB9KQogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">YS53Zy5XYWl0KCkK</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
-      <last-search>offset=&quot;\(\d\+\)&quot;</last-search>
+      <last-search encoding="base64">XDxsb29wXD4=</last-search>
       <last-offset />
-      <last-pattern>offset=&quot;\(\d\+\)&quot;</last-pattern>
+      <last-pattern encoding="base64">XDxsb29wXD4=</last-pattern>
       <last-replace>offset={\1}</last-replace>
       <last-substitute>offset=&quot;\(\d\+\)&quot;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxNZW51SXRlbVw+</entry>
         <entry encoding="base64">XDxoYW5kbGVFeHBvcnRcPg==</entry>
         <entry encoding="base64">XDxzZWFyY2hQYXJhbXNcPg==</entry>
         <entry>adfad</entry>
@@ -659,6 +660,7 @@
         <entry encoding="base64">XDx1bml0XD4=</entry>
         <entry>span=&quot;\(\d\+\)&quot;</entry>
         <entry>offset=&quot;\(\d\+\)&quot;</entry>
+        <entry encoding="base64">XDxsb29wXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>help g</entry>
