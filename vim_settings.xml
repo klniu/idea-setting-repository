@@ -164,8 +164,8 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="12" column="69" />
       </file>
-      <file name="$USER_HOME$/workdir/web/vocs-react/src/entry/main.tsx" timestamp="1489130306844">
-        <mark key="'" line="91" column="31" />
+      <file name="$USER_HOME$/workdir/web/vocs-react/src/entry/main.tsx" timestamp="1489472967991">
+        <mark key="'" line="83" column="14" />
         <mark key="[" line="10" column="24" />
         <mark key="]" line="10" column="28" />
         <mark key="." line="10" column="28" />
@@ -451,7 +451,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="46" filename="$USER_HOME$/workdir/web/vocs-react/src/data/tables.ts" />
       <jump line="117" column="57" filename="$USER_HOME$/workdir/web/vocs-react/src/common/constants.ts" />
       <jump line="229" column="12" filename="$USER_HOME$/workdir/web/vocs-react/src/data/tables.ts" />
       <jump line="678" column="12" filename="$USER_HOME$/workdir/web/vocs-react/src/data/tables.ts" />
@@ -551,6 +550,7 @@
       <jump line="67" column="12" filename="$USER_HOME$/workdir/web/vocs-react/src/entry/photo.tsx" />
       <jump line="211" column="24" filename="$USER_HOME$/workdir/web/vocs-react/src/entry/photo.tsx" />
       <jump line="214" column="100" filename="$USER_HOME$/workdir/web/vocs-react/src/entry/photo.tsx" />
+      <jump line="83" column="14" filename="$USER_HOME$/workdir/web/vocs-react/src/entry/main.tsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -624,7 +624,7 @@
       <last-replace>offset={\1}</last-replace>
       <last-substitute>offset=&quot;\(\d\+\)&quot;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
