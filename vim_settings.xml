@@ -278,12 +278,12 @@
         <mark key="^" line="208" column="55" />
         <mark key="." line="5" column="75" />
       </file>
-      <file name="$USER_HOME$/sync/code/go/src/mingerserver/robotserver/communication.go" timestamp="1489580185916">
-        <mark key="'" line="88" column="0" />
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="101" column="0" />
-        <mark key="." line="88" column="0" />
-        <mark key="^" line="12" column="0" />
+      <file name="$USER_HOME$/sync/code/go/src/mingerserver/robotserver/communication.go" timestamp="1489582977599">
+        <mark key="'" line="102" column="0" />
+        <mark key="[" line="19" column="32" />
+        <mark key="]" line="20" column="13" />
+        <mark key="." line="20" column="13" />
+        <mark key="^" line="20" column="13" />
       </file>
       <file name="$USER_HOME$/sync/code/java/mdtools/src/com/klniu/md/model/Mol.java" timestamp="1481603697598">
         <mark key="[" line="53" column="28" />
@@ -432,11 +432,11 @@
         <mark key="^" line="4" column="3" />
         <mark key="." line="4" column="3" />
       </file>
-      <file name="$USER_HOME$/sync/code/go/src/mingerserver/robotserver/robot_test.go" timestamp="1489581171944">
-        <mark key="[" line="41" column="15" />
-        <mark key="]" line="41" column="16" />
-        <mark key="^" line="37" column="19" />
-        <mark key="." line="41" column="16" />
+      <file name="$USER_HOME$/sync/code/go/src/mingerserver/robotserver/robot_test.go" timestamp="1489582961251">
+        <mark key="[" line="23" column="50" />
+        <mark key="]" line="24" column="28" />
+        <mark key="^" line="24" column="28" />
+        <mark key="." line="24" column="28" />
       </file>
       <file name="$USER_HOME$/sync/code/go/src/mingerserver/robotserver/messages_test.go" timestamp="1489576860302">
         <mark key="[" line="0" column="13" />
@@ -642,12 +642,12 @@
         <mark key="." line="16" column="17" />
         <mark key="^" line="16" column="16" />
       </file>
-      <file name="$USER_HOME$/sync/code/go/src/mingerserver/robotserver/robot.go" timestamp="1489581144248">
-        <mark key="'" line="19" column="25" />
-        <mark key="[" line="23" column="4" />
-        <mark key="]" line="23" column="5" />
-        <mark key="." line="23" column="5" />
-        <mark key="^" line="23" column="5" />
+      <file name="$USER_HOME$/sync/code/go/src/mingerserver/robotserver/robot.go" timestamp="1489582848440">
+        <mark key="'" line="80" column="0" />
+        <mark key="[" line="20" column="6" />
+        <mark key="]" line="20" column="13" />
+        <mark key="." line="20" column="13" />
+        <mark key="^" line="20" column="13" />
       </file>
       <file name="$USER_HOME$/workdir/vocs-react/src/entry/photo.tsx" timestamp="1489146455048">
         <mark key="'" line="27" column="4" />
@@ -671,10 +671,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="15" filename="$USER_HOME$/workdir/web/vocs-react/src/entry/photo.tsx" />
-      <jump line="65" column="15" filename="$USER_HOME$/workdir/web/vocs-react/src/entry/photo.tsx" />
-      <jump line="254" column="105" filename="$USER_HOME$/workdir/web/vocs-react/src/entry/photo.tsx" />
-      <jump line="67" column="12" filename="$USER_HOME$/workdir/web/vocs-react/src/entry/photo.tsx" />
       <jump line="211" column="24" filename="$USER_HOME$/workdir/web/vocs-react/src/entry/photo.tsx" />
       <jump line="214" column="100" filename="$USER_HOME$/workdir/web/vocs-react/src/entry/photo.tsx" />
       <jump line="83" column="14" filename="$USER_HOME$/workdir/web/vocs-react/src/entry/main.tsx" />
@@ -771,6 +767,10 @@
       <jump line="24" column="0" filename="$USER_HOME$/sync/code/go/src/mingerserver/robotserver/messages.go" />
       <jump line="40" column="5" filename="$USER_HOME$/sync/code/go/src/mingerserver/robotserver/messages.go" />
       <jump line="51" column="46" filename="$USER_HOME$/sync/code/go/src/mingerserver/robotserver/WebChatServer.go" />
+      <jump line="66" column="25" filename="$USER_HOME$/sync/code/go/src/mingerserver/robotserver/robot.go" />
+      <jump line="20" column="24" filename="$USER_HOME$/sync/code/go/src/mingerserver/robotserver/communication.go" />
+      <jump line="81" column="29" filename="$USER_HOME$/sync/code/go/src/mingerserver/robotserver/robot.go" />
+      <jump line="77" column="0" filename="$USER_HOME$/sync/code/go/src/mingerserver/robotserver/robot.go" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -795,43 +795,43 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CWhhbmRsZXIgIGZ1bmMoKQo=</text>
+        <text encoding="base64">CXZhciBjb20gQ29tbXVuaWNhdGlvbgo=</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">d3JpdGVMb2NrIA==</text>
       </register>
       <register name="/" type="4">
         <text>moment</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CXdjIDo9IHJvYm90c2VydmVyLk5ld1dlYkNoYXQoKQo=</text>
+        <text encoding="base64">CWNvbS53cml0ZUxvY2sgPSAmc3luYy5NdXRleHt9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWhhbmRsZXIgIGZ1bmMoKQo=</text>
+        <text encoding="base64">CXZhciBjb20gQ29tbXVuaWNhdGlvbgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CSJnaXRodWIuY29tL3NpZGRvbnRhbmcvbGVkaXNkYi9zZXJ2ZXIiCg==</text>
+        <text encoding="base64">CWRlZmVyIHMud3JpdGVMb2NrLlVubG9jaygpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CW1lc3NhZ2UxIDo9IC5zZXJ2ZXIuUmVhZENvbm4oKQo=</text>
+        <text encoding="base64">CXMud3JpdGVMb2NrLkxvY2soKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXZhciBlcnIgZXJyb3IK</text>
+        <text encoding="base64">CSJzeW5jIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CSJlbmNvZGluZy9iaW5hcnkiCg==</text>
+        <text encoding="base64">CXMud3JpdGVMb2NrID0gJnN5bmMuTXV0ZXh7fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CSJidWZpbyIK</text>
+        <text encoding="base64">CXMuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnVuYyByZWFkTkJ5dGVzKHJlYWRlciAqYnVmaW8uUmVhZGVyLCBzaXplIGludDMyKSBbXWJ5dGUgewoJYnl0ZXMgOj0gbWFrZShbXWJ5dGUsIDAsIHNpemUpCglmb3IgbGVuKGJ5dGVzKSA8IGNhcChieXRlcykgewoJCW5lZWRzIDo9IGNhcChieXRlcykgLSBsZW4oYnl0ZXMpCgkJdGVtcCA6PSBtYWtlKFtdYnl0ZSwgbmVlZHMsIG5lZWRzKQoJCWlmIF8sIGVyciA6PSByZWFkZXIuUmVhZCh0ZW1wKTsgZXJyICE9IG5pbCB7CgkJCWNvbnRpbnVlCgkJfQoJCWJ5dGVzID0gYXBwZW5kKGJ5dGVzLCB0ZW1wLi4uKQoJfQoJcmV0dXJuIGJ5dGVzCn0KCgo=</text>
+        <text encoding="base64">CXdyaXRlTG9jayAqc3luYy5NdXRleAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQljLkFzc2VydCgsIElzTmlsKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnVuYyAoYyAqQ29tbXVuaWNhdGlvbikgUmVhZENvbm4oKSAqTWVzc2FnZSB7CgkvLyBleGl0IHdoZW4gY29ubmVjdGlvbiBpcyBuaWwKCWlmIGMuY29ubiA9PSBuaWwgewoJCXJldHVybiBuaWwKCX0KCXJlYWRlciA6PSBidWZpby5OZXdSZWFkZXIoYy5jb25uKQoJdmFyIHVzZXJTaXplIGludDE2Cgl2YXIgY29udGVudFNpemUgaW50MzIKCXZhciBjcmVhdGVUaW1lIGludDY0CgkvLyB1c2VyIHNpemUKCWlmIGVyciA6PSBiaW5hcnkuUmVhZChyZWFkZXIsIGJpbmFyeS5MaXR0bGVFbmRpYW4sICZ1c2VyU2l6ZSk7IGVyciAhPSBuaWwgewoJCXJldHVybiBuaWwKCX0KCS8vIHVzZXIKCXVzZXIgOj0gc3RyaW5nKHJlYWROQnl0ZXMocmVhZGVyLCBpbnQzMih1c2VyU2l6ZSkpKQoKCS8vIGNyZWF0ZSB0aW1lCglpZiBlcnIgOj0gYmluYXJ5LlJlYWQocmVhZGVyLCBiaW5hcnkuQmlnRW5kaWFuLCAmY3JlYXRlVGltZSk7IGVyciAhPSBuaWwgewoJCXJldHVybiBuaWwKCX0KCgkvLyBmb3JtYXQKCWZvcm1hdCA6PSBzdHJpbmcocmVhZE5CeXRlcyhyZWFkZXIsIDMpKQoJLy8gaGVhcnQgYmVhdAoJaWYgZm9ybWF0ID09ICJiYXQiIHsKCQlyZXR1cm4gbmlsCgl9CgoJLy8gY29udGVudCBzaXplCglpZiBlcnIgOj0gYmluYXJ5LlJlYWQocmVhZGVyLCBiaW5hcnkuTGl0dGxlRW5kaWFuLCAmY29udGVudFNpemUpOyBlcnIgIT0gbmlsIHsKCQlyZXR1cm4gbmlsCgl9CgoJLy8gY29udGVudAoJY29udGVudCA6PSByZWFkTkJ5dGVzKHJlYWRlciwgY29udGVudFNpemUpCglyZXR1cm4gJk1lc3NhZ2V7VXNlcjp1c2VyLCBDcmVhdGVUaW1lOmNyZWF0ZVRpbWUsIEZvcm1hdDogZm9ybWF0LCBDb250ZW50OiBjb250ZW50fQp9CgpmdW5jIChjICpDb21tdW5pY2F0aW9uKSBXcml0ZUNvbm4obWVzc2FnZSAqTWVzc2FnZSkgZXJyb3IgewoJd3JpdGVyIDo9IGJ1ZmlvLk5ld1dyaXRlcihjLmNvbm4pCgoJLy8gd3JpdGUgdXNlciBzaXplCglpZiBlcnIgOj0gYmluYXJ5LldyaXRlKHdyaXRlciwgYmluYXJ5LkxpdHRsZUVuZGlhbiwgaW50MTYobGVuKG1lc3NhZ2UuVXNlcikpKTsgZXJyICE9IG5pbCB7CgkJcmV0dXJuIGVycgoJfQoJLy8gd3JpdGUgdXNlcgoJaWYgbm4sIGVyciA6PSB3cml0ZXIuV3JpdGUoW11ieXRlKG1lc3NhZ2UuVXNlcikpOyBubiAhPSBsZW4obWVzc2FnZS5Vc2VyKSB8fCBlcnIgIT0gbmlsIHsKCQlyZXR1cm4gZXJyb3JzLk5ldygid3JpdGUgdXNlcm5hbWUgZmFpbHVyZSIpCgl9CgkvLyB3cml0ZSBjcmVhdGUgdGltZQoJaWYgZXJyIDo9IGJpbmFyeS5Xcml0ZSh3cml0ZXIsIGJpbmFyeS5CaWdFbmRpYW4sIG1lc3NhZ2UuQ3JlYXRlVGltZSk7IGVyciAhPSBuaWwgewoJCXJldHVybiBlcnIKCX0KCS8vIHdyaXRlIGZvcm1hdAoJaWYgbm4sIGVyciA6PSB3cml0ZXIuV3JpdGUoW11ieXRlKG1lc3NhZ2UuRm9ybWF0KSk7IG5uICE9IDMgfHwgZXJyICE9IG5pbCB7CgkJcmV0dXJuIGVycm9ycy5OZXcoIndyaXRlIGZvcm1hdCBmYWlsdXJlIikKCX0KCS8vIHdyaXRlIGNvbnRlbnQgc2l6ZQoJaWYgZXJyIDo9IGJpbmFyeS5Xcml0ZSh3cml0ZXIsIGJpbmFyeS5MaXR0bGVFbmRpYW4sIGludDMyKGxlbihtZXNzYWdlLkNvbnRlbnQpKSk7IGVyciAhPSBuaWwgewoJCXJldHVybiBlcnIKCX0KCS8vIHdyaXRlIGNvbnRlbnQKCWlmIG5uLCBlcnIgOj0gd3JpdGVyLldyaXRlKG1lc3NhZ2UuQ29udGVudCk7IG5uICE9IGxlbihtZXNzYWdlLkNvbnRlbnQpIHx8IGVyciAhPSBuaWwgewoJCXJldHVybiBlcnJvcnMuTmV3KCJ3cml0ZSBkYXRhIGZhaWx1cmUiKQoJfQoJcmV0dXJuIHdyaXRlci5GbHVzaCgpCn0KCg==</text>
+        <text encoding="base64">CXdyaXRlCg==</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
