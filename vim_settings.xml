@@ -105,12 +105,12 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/workdir/web/vocs-react/src/common/constants.ts" timestamp="1489567893149">
-        <mark key="'" line="39" column="41" />
-        <mark key="[" line="488" column="34" />
-        <mark key="]" line="488" column="39" />
-        <mark key="." line="488" column="39" />
-        <mark key="^" line="488" column="39" />
+      <file name="$USER_HOME$/workdir/web/vocs-react/src/common/constants.ts" timestamp="1489569220957">
+        <mark key="'" line="491" column="67" />
+        <mark key="[" line="488" column="67" />
+        <mark key="]" line="488" column="80" />
+        <mark key="." line="488" column="80" />
+        <mark key="^" line="488" column="80" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/untitled/src/Test.java" timestamp="1472951202493">
         <mark key="[" line="4" column="23" />
@@ -496,8 +496,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="392" column="47" filename="$USER_HOME$/workdir/web/vocs-react/src/components/photoedit.tsx" />
-      <jump line="433" column="28" filename="$USER_HOME$/workdir/web/vocs-react/src/components/photoedit.tsx" />
       <jump line="42" column="0" filename="$USER_HOME$/workdir/web/vocs-react/src/common/constants.ts" />
       <jump line="45" column="10" filename="$USER_HOME$/workdir/web/vocs-react/src/common/constants.ts" />
       <jump line="40" column="8" filename="$USER_HOME$/workdir/web/vocs-react/src/entry/photo.tsx" />
@@ -593,9 +591,11 @@
       <jump line="137" column="12" filename="$USER_HOME$/workdir/web/vocs-react/src/components/statistic.tsx" />
       <jump line="88" column="39" filename="$USER_HOME$/workdir/web/vocs-react/src/components/statistic.tsx" />
       <jump line="487" column="39" filename="$USER_HOME$/workdir/web/vocs-react/src/common/constants.ts" />
-      <jump line="3" column="0" filename="$USER_HOME$/workdir/web/vocs-react/src/common/constants.ts" />
       <jump line="486" column="0" filename="$USER_HOME$/workdir/web/vocs-react/src/common/constants.ts" />
       <jump line="39" column="41" filename="$USER_HOME$/workdir/web/vocs-react/src/common/constants.ts" />
+      <jump line="488" column="37" filename="$USER_HOME$/workdir/web/vocs-react/src/common/constants.ts" />
+      <jump line="3" column="25" filename="$USER_HOME$/workdir/web/vocs-react/src/common/constants.ts" />
+      <jump line="491" column="67" filename="$USER_HOME$/workdir/web/vocs-react/src/common/constants.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -620,13 +620,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>moment</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>moment</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZWFyY2hQYXJhbXNcPg==</text>
+        <text>moment</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHBhcmFtczogVHJlZVBhZ2VQYXJhbTxULCBTPiwKICAgIHNlYXJjaFBhcmFtczogSVN0cmluZ0FueU1hcCwKICAgIGJ1dHRvbnM6IGFueVtdLAogICAgLy8gZGVmYXVsdCBidXR0b25zIGlzIHRvIGRpc3BsYXksIHRoZXJlIGFyZSBzaXggYnV0dG9ucyB0byBkaXNwbGF5LCBwYXJlbnQgYWRkLCBlZGl0LCBkZWxldGUgYW5kIGNoaWxkIGFkZCwgZWRpdCwgZGVsZXRlCiAgICBkZWZhdWx0QnV0dG9uc0Rpc3BsYXk6IGJvb2xlYW5bXQo=</text>
@@ -663,17 +663,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZWFyY2hQYXJhbXNcPg==</last-search>
+      <last-search>moment</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZWFyY2hQYXJhbXNcPg==</last-pattern>
+      <last-pattern>moment</last-pattern>
       <last-replace>offset={\1}</last-replace>
       <last-substitute>offset=&quot;\(\d\+\)&quot;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>req</entry>
         <entry>reqwes</entry>
         <entry>span=&quot;(%d)&quot;</entry>
         <entry>span=&quot;(\d+)&quot;</entry>
@@ -693,6 +692,7 @@
         <entry>query</entry>
         <entry>adfasdf</entry>
         <entry encoding="base64">XDxzZWFyY2hQYXJhbXNcPg==</entry>
+        <entry>moment</entry>
       </history-search>
       <history-cmd>
         <entry>help g</entry>
