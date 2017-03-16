@@ -55,11 +55,10 @@
         <mark key="." line="3" column="32" />
         <mark key="^" line="3" column="32" />
       </file>
-      <file name="$USER_HOME$/workdir/web/vocs-react/tsconfig.json" timestamp="1489644679824">
+      <file name="$USER_HOME$/workdir/web/vocs-react/tsconfig.json" timestamp="1489647236115">
         <mark key="[" line="15" column="15" />
-        <mark key="]" line="15" column="14" />
-        <mark key="." line="15" column="14" />
-        <mark key="^" line="15" column="14" />
+        <mark key="]" line="15" column="15" />
+        <mark key="." line="15" column="15" />
       </file>
       <file name="$USER_HOME$/sync/code/java/ProgrammingProjectList/001-ReverseString/src/ReverseString.java" timestamp="1474764144607">
         <mark key="[" line="4" column="0" />
@@ -355,10 +354,11 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="207" column="55" />
       </file>
-      <file name="$USER_HOME$/workdir/web/vocs-react/webpack-dev.config.js" timestamp="1489644221227">
-        <mark key="[" line="15" column="14" />
-        <mark key="]" line="15" column="15" />
-        <mark key="." line="15" column="15" />
+      <file name="$USER_HOME$/workdir/web/vocs-react/webpack-dev.config.js" timestamp="1489647707322">
+        <mark key="[" line="44" column="41" />
+        <mark key="]" line="44" column="41" />
+        <mark key="." line="44" column="41" />
+        <mark key="^" line="37" column="16" />
       </file>
       <file name="$USER_HOME$/sync/code/java/mdtools/src/com/klniu/md/model/Mol.java" timestamp="1481603697598">
         <mark key="[" line="53" column="28" />
@@ -627,44 +627,44 @@
           <key char="104" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAiKiIsCg==</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGFydHNGdW5jdGlvbnNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHVwZGF0ZSA9IHJlcXVpcmUoInJlYWN0LWFkZG9ucy11cGRhdGUiKTsK</text>
+        <text encoding="base64">ICAgICAgICAic3JjL2RhdGEiLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAiKiIsCg==</text>
+        <text encoding="base64">ICAgICAgICBleHRlbnNpb25zOiBbInRzIiwgIi50c3giLCAiLmpzIl0sCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHVwZGF0ZSBmcm9tICJyZWFjdCI7Cg==</text>
+        <text encoding="base64">ICAgICAgICByb290OiBbCiAgICAgICAgICAgIHBhdGgucmVzb2x2ZSgnLicpLAogICAgICAgIF0sCiAgICAgICAgYWxpYXM6IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgdXBkYXRlIGZyb20gJ3JlYWN0LWFkZG9ucy11cGRhdGUnOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgaGFuZGxlUmVzZXQoZTogRm9ybUV2ZW50KSB7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHtUcmVlUGFnZVByb3BzfSBmcm9tICIuLi9jb21wb25lbnRzL3RyZWVQYWdlIjsK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAic3JjL2NvbW1vbi8qIgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAic3JjL2RhdGEvKiIsCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAic3JjL2NvbXBvbmVudHMvKiIsCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHtyZXF1ZXN0fSBmcm9tICJodHRwcyI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAic3JjL2VudHJ5LyoiLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHtGaWVsZFR5cGV9IGZyb20gIi4uL2RhdGEvZm9ybXMiOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGF0aC5yZXNvbHZlKCcuL3ZlbmRvci9tb2R1bGVzJykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHtyZXF1ZXN0fSBmcm9tICJodHRwIjsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
