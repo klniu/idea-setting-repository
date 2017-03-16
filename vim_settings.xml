@@ -55,10 +55,11 @@
         <mark key="." line="3" column="32" />
         <mark key="^" line="3" column="32" />
       </file>
-      <file name="$USER_HOME$/workdir/web/vocs-react/tsconfig.json" timestamp="1489647236115">
-        <mark key="[" line="15" column="15" />
-        <mark key="]" line="15" column="15" />
-        <mark key="." line="15" column="15" />
+      <file name="$USER_HOME$/workdir/web/vocs-react/tsconfig.json" timestamp="1489648707539">
+        <mark key="[" line="11" column="26" />
+        <mark key="]" line="11" column="26" />
+        <mark key="." line="11" column="26" />
+        <mark key="^" line="11" column="26" />
       </file>
       <file name="$USER_HOME$/sync/code/java/ProgrammingProjectList/001-ReverseString/src/ReverseString.java" timestamp="1474764144607">
         <mark key="[" line="4" column="0" />
@@ -260,9 +261,6 @@
         <mark key="^" line="14" column="31" />
         <mark key="." line="14" column="31" />
       </file>
-      <file name="$USER_HOME$/workdir/web/vocs-react/node_modules/antd/lib/tree/index.d.ts" timestamp="1489135844062">
-        <mark key="'" line="9" column="62" />
-      </file>
       <file name="$USER_HOME$/workdir/web/vocs-react/src/data/tables.tsx" timestamp="1489638866733">
         <mark key="'" line="430" column="13" />
         <mark key="[" line="369" column="34" />
@@ -354,11 +352,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="207" column="55" />
       </file>
-      <file name="$USER_HOME$/workdir/web/vocs-react/webpack-dev.config.js" timestamp="1489647707322">
-        <mark key="[" line="44" column="41" />
-        <mark key="]" line="44" column="41" />
-        <mark key="." line="44" column="41" />
-        <mark key="^" line="37" column="16" />
+      <file name="$USER_HOME$/workdir/web/vocs-react/webpack-dev.config.js" timestamp="1489649108721">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="103" column="8" />
+        <mark key="]" line="103" column="9" />
+        <mark key="^" line="103" column="9" />
+        <mark key="." line="103" column="9" />
       </file>
       <file name="$USER_HOME$/sync/code/java/mdtools/src/com/klniu/md/model/Mol.java" timestamp="1481603697598">
         <mark key="[" line="53" column="28" />
@@ -504,9 +503,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="208" column="54" filename="$USER_HOME$/workdir/web/vocs-react/src/entry/seal.tsx" />
-      <jump line="131" column="46" filename="$USER_HOME$/workdir/web/vocs-react/src/components/treePage.tsx" />
-      <jump line="458" column="13" filename="$USER_HOME$/workdir/web/vocs-react/src/components/treePage.tsx" />
       <jump line="456" column="23" filename="$USER_HOME$/workdir/web/vocs-react/src/components/treePage.tsx" />
       <jump line="470" column="0" filename="$USER_HOME$/workdir/web/vocs-react/src/components/treePage.tsx" />
       <jump line="0" column="0" filename="$USER_HOME$/workdir/web/vocs-react/src/components/treePage.tsx" />
@@ -604,6 +600,9 @@
       <jump line="60" column="4" filename="$USER_HOME$/workdir/web/vocs-react/src/entry/sealscount.tsx" />
       <jump line="8" column="31" filename="$USER_HOME$/workdir/web/vocs-react/src/entry/detection.tsx" />
       <jump line="5" column="0" filename="$USER_HOME$/workdir/web/vocs-react/src/components/photoedit.tsx" />
+      <jump line="37" column="0" filename="$USER_HOME$/workdir/web/vocs-react/webpack-dev.config.js" />
+      <jump line="101" column="5" filename="$USER_HOME$/workdir/web/vocs-react/webpack-dev.config.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workdir/web/vocs-react/webpack-dev.config.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -627,11 +626,11 @@
           <key char="104" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB9LAo=</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>rules</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGFydHNGdW5jdGlvbnNcPg==</text>
@@ -640,31 +639,31 @@
         <text encoding="base64">ICAgICAgICAic3JjL2RhdGEiLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBleHRlbnNpb25zOiBbInRzIiwgIi50c3giLCAiLmpzIl0sCg==</text>
+        <text encoding="base64">ICAgICAgICB9LAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByb290OiBbCiAgICAgICAgICAgIHBhdGgucmVzb2x2ZSgnLicpLAogICAgICAgIF0sCiAgICAgICAgYWxpYXM6IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29tbW9uOiAnc3JjL2NvbW1vbicK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGF0YTogJ3NyYy9kYXRhJywK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAic3JjL2NvbW1vbi8qIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZW50cnk6ICdzcmMvZW50cnknLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAic3JjL2RhdGEvKiIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29tcG9uZW50czogJ3NyYy9jb21wb25lbnRzJywK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAic3JjL2NvbXBvbmVudHMvKiIsCg==</text>
+        <text encoding="base64">ICAgICAgICBhbGlhczogewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAic3JjL2VudHJ5LyoiLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGVzdDogL1wudHMoeD8pJC8sCiAgICAgICAgICAgIGV4Y2x1ZGU6IC9ub2RlX21vZHVsZXMvLAogICAgICAgICAgICB1c2U6IFsKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBsb2FkZXI6ICdhd2Vzb21lLXR5cGVzY3JpcHQtbG9hZGVyJwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICBdCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGF0aC5yZXNvbHZlKCcuL3ZlbmRvci9tb2R1bGVzJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBsb2FkZXI6ICdiYWJlbC1sb2FkZXInLAogICAgICAgICAgICAgICAgICAgIG9wdGlvbnM6IGJhYmVsT3B0aW9ucwogICAgICAgICAgICAgICAgfSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
