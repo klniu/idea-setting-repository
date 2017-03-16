@@ -35,6 +35,12 @@
         <mark key="." line="15" column="35" />
         <mark key="^" line="15" column="35" />
       </file>
+      <file name="$USER_HOME$/workdir/web/vocs-react/package.json" timestamp="1489650236589">
+        <mark key="'" line="54" column="6" />
+        <mark key="[" line="6" column="54" />
+        <mark key="]" line="6" column="54" />
+        <mark key="." line="6" column="54" />
+      </file>
       <file name="$USER_HOME$/workdir/web/vocs-react/src/components/searchForm.tsx" timestamp="1489640094335">
         <mark key="'" line="23" column="12" />
         <mark key="[" line="36" column="27" />
@@ -177,8 +183,8 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="12" column="69" />
       </file>
-      <file name="$USER_HOME$/workdir/web/vocs-react/src/entry/main.tsx" timestamp="1489644594268">
-        <mark key="'" line="83" column="14" />
+      <file name="$USER_HOME$/workdir/web/vocs-react/src/entry/main.tsx" timestamp="1489650543053">
+        <mark key="'" line="4" column="22" />
         <mark key="[" line="7" column="20" />
         <mark key="]" line="7" column="21" />
         <mark key="." line="7" column="21" />
@@ -352,12 +358,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="207" column="55" />
       </file>
-      <file name="$USER_HOME$/workdir/web/vocs-react/webpack-dev.config.js" timestamp="1489649108721">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/workdir/web/vocs-react/webpack-dev.config.js" timestamp="1489650294189">
+        <mark key="'" line="6" column="1" />
         <mark key="[" line="103" column="8" />
-        <mark key="]" line="103" column="9" />
-        <mark key="^" line="103" column="9" />
-        <mark key="." line="103" column="9" />
+        <mark key="]" line="103" column="8" />
+        <mark key="^" line="6" column="1" />
+        <mark key="." line="103" column="8" />
       </file>
       <file name="$USER_HOME$/sync/code/java/mdtools/src/com/klniu/md/model/Mol.java" timestamp="1481603697598">
         <mark key="[" line="53" column="28" />
@@ -503,10 +509,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="456" column="23" filename="$USER_HOME$/workdir/web/vocs-react/src/components/treePage.tsx" />
-      <jump line="470" column="0" filename="$USER_HOME$/workdir/web/vocs-react/src/components/treePage.tsx" />
-      <jump line="0" column="0" filename="$USER_HOME$/workdir/web/vocs-react/src/components/treePage.tsx" />
-      <jump line="429" column="8" filename="$USER_HOME$/workdir/web/vocs-react/src/data/tables.tsx" />
       <jump line="167" column="45" filename="$USER_HOME$/workdir/web/vocs-react/src/components/treePage.tsx" />
       <jump line="175" column="48" filename="$USER_HOME$/workdir/web/vocs-react/src/components/treePage.tsx" />
       <jump line="67" column="0" filename="$USER_HOME$/workdir/web/vocs-react/src/components/treePage.tsx" />
@@ -603,6 +605,10 @@
       <jump line="37" column="0" filename="$USER_HOME$/workdir/web/vocs-react/webpack-dev.config.js" />
       <jump line="101" column="5" filename="$USER_HOME$/workdir/web/vocs-react/webpack-dev.config.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workdir/web/vocs-react/webpack-dev.config.js" />
+      <jump line="103" column="9" filename="$USER_HOME$/workdir/web/vocs-react/webpack-dev.config.js" />
+      <jump line="54" column="6" filename="$USER_HOME$/workdir/web/vocs-react/package.json" />
+      <jump line="6" column="1" filename="$USER_HOME$/workdir/web/vocs-react/webpack-dev.config.js" />
+      <jump line="4" column="22" filename="$USER_HOME$/workdir/web/vocs-react/src/entry/main.tsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -626,11 +632,11 @@
           <key char="104" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB9LAo=</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>rules</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGFydHNGdW5jdGlvbnNcPg==</text>
