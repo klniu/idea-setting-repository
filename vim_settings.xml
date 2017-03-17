@@ -108,11 +108,11 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/workdir/web/vocs-react/src/common/constants.ts" timestamp="1489724617973">
-        <mark key="[" line="1" column="21" />
-        <mark key="]" line="1" column="21" />
-        <mark key="." line="1" column="21" />
-        <mark key="^" line="1" column="21" />
+      <file name="$USER_HOME$/workdir/web/vocs-react/src/common/constants.ts" timestamp="1489732425031">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="11" column="1" />
+        <mark key="." line="6" column="14" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/untitled/src/Test.java" timestamp="1472951202493">
         <mark key="[" line="4" column="23" />
@@ -394,12 +394,12 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="115" column="4" />
       </file>
-      <file name="$USER_HOME$/workdir/web/vocs-react/src/entry/user.tsx" timestamp="1489731266369">
-        <mark key="'" line="32" column="0" />
-        <mark key="[" line="52" column="42" />
-        <mark key="]" line="53" column="33" />
-        <mark key="^" line="53" column="33" />
-        <mark key="." line="53" column="33" />
+      <file name="$USER_HOME$/workdir/web/vocs-react/src/entry/user.tsx" timestamp="1489732288605">
+        <mark key="'" line="47" column="12" />
+        <mark key="[" line="46" column="12" />
+        <mark key="]" line="46" column="12" />
+        <mark key="^" line="46" column="12" />
+        <mark key="." line="46" column="12" />
       </file>
       <file name="$USER_HOME$/sync/code/java/livesim/src/main/java/Action.java" timestamp="1479429714271">
         <mark key="[" line="9" column="27" />
@@ -533,8 +533,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="22" filename="$USER_HOME$/workdir/web/vocs-react/src/entry/sealscount.tsx" />
-      <jump line="1601" column="34" filename="$USER_HOME$/workdir/web/vocs-react/src/data/forms.tsx" />
       <jump line="9" column="32" filename="$USER_HOME$/workdir/web/vocs-react/src/data/forms.tsx" />
       <jump line="18" column="17" filename="$USER_HOME$/workdir/web/vocs-react/src/components/searchForm.tsx" />
       <jump line="35" column="12" filename="$USER_HOME$/workdir/web/vocs-react/src/components/searchForm.tsx" />
@@ -633,6 +631,8 @@
       <jump line="1534" column="120" filename="$USER_HOME$/workdir/web/vocs-react/src/data/forms.tsx" />
       <jump line="33" column="33" filename="$USER_HOME$/workdir/web/vocs-react/src/entry/user.tsx" />
       <jump line="32" column="0" filename="$USER_HOME$/workdir/web/vocs-react/src/entry/user.tsx" />
+      <jump line="53" column="33" filename="$USER_HOME$/workdir/web/vocs-react/src/entry/user.tsx" />
+      <jump line="47" column="12" filename="$USER_HOME$/workdir/web/vocs-react/src/entry/user.tsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -656,11 +656,11 @@
           <key char="104" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGVycm9ycykK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YXMg</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="/" type="4">
         <text>message</text>
@@ -669,31 +669,31 @@
         <text encoding="base64">ICAgICAgICB0aGlzLl9iaW5kKCJfZG91YmxlQ2xpY2tSb3ciLCAiX2hhbmRsZUFkZCIsICJfaGFuZGxlUmVtb3ZlIiwgImhpZGVNb2RhbCIsICJoaWRlUmVwb3J0TW9kYWwiKTsK</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">KCkgPT4gewogICAgbGV0IGdldFVybCA9IHdpbmRvdy5sb2NhdGlvbjsKICAgIHJldHVybiBnZXRVcmwgLnByb3RvY29sICsgIi8vIiArIGdldFVybC5ob3N0ICsgIi8iICsgZ2V0VXJsLnBhdGhuYW1lLnNwbGl0KCcvJylbMV07fQ==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGlmICh0eXBlb2YgbG9jYXRpb24ub3JpZ2luID09PSAndW5kZWZpbmVkJykKICAgICAgICBsb2NhdGlvbi5vcmlnaW4gPSBsb2NhdGlvbi5wcm90b2NvbCArICcvLycgKyBsb2NhdGlvbi5ob3N0Owo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IHJlcXVlc3QgZnJvbSAncmVxdWVzdCcK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGVsc2UK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IHJlcXVlc3QgZnJvbSAncmVxdWVzdCcK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGVycm9ycykK</text>
       </register>
-      <register name="2" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codmFsdWVzKQo=</text>
-      </register>
-      <register name="3" type="4">
-        <text>{...getFieldDecorator(v['id'], { ...v['fieldProps'], ...itemOptions, initialValue: defaultData })}</text>
-      </register>
-      <register name="4" type="4">
-        <text>{...getFieldDecorator(v['id'], { ...v['fieldProps'], ...itemOptions, initialValue: defaultData })}</text>
-      </register>
-      <register name="5" type="4">
-        <text>{...getFieldDecorator(v['id'], {...v['fieldProps'], ...itemOptions, initialValue: defaultData})}</text>
-      </register>
-      <register name="6" type="4">
-        <text>{...getFieldDecorator(v['id'], {...v['fieldProps'], ...itemOptions, initialValue: defaultData})}</text>
-      </register>
-      <register name="7" type="4">
-        <text>{...getFieldDecorator(v['id'], {...v['fieldProps'], ...itemOptions, initialValue: defaultData})}</text>
-      </register>
-      <register name="8" type="4">
-        <text>{...getFieldDecorator(v['id'], {...v['fieldProps'], ...itemOptions, initialValue: defaultData})}</text>
-      </register>
-      <register name="9" type="4">
-        <text>{...getFieldDecorator(v['id'], {...v['fieldProps'], ...itemOptions, initialValue: defaultData})}</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
