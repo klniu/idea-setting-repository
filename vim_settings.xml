@@ -214,12 +214,12 @@
         <mark key="^" line="81" column="46" />
         <mark key="." line="8" column="35" />
       </file>
-      <file name="$USER_HOME$/workdir/vocs-react/src/components/treePage.tsx" timestamp="1489841971998">
+      <file name="$USER_HOME$/workdir/vocs-react/src/components/treePage.tsx" timestamp="1489843623401">
         <mark key="'" line="282" column="16" />
-        <mark key="[" line="293" column="34" />
-        <mark key="]" line="293" column="34" />
-        <mark key="." line="293" column="34" />
-        <mark key="^" line="293" column="34" />
+        <mark key="[" line="301" column="22" />
+        <mark key="]" line="301" column="21" />
+        <mark key="." line="301" column="21" />
+        <mark key="^" line="301" column="21" />
       </file>
       <file name="$USER_HOME$/sync/code/java/ProgrammingProjectList/001-ReverseString/src/Main.java" timestamp="1474696071606">
         <mark key="[" line="3" column="19" />
@@ -352,12 +352,12 @@
         <mark key="^" line="13" column="5" />
         <mark key="." line="13" column="5" />
       </file>
-      <file name="$USER_HOME$/workdir/vocs-react/src/common/constants.ts" timestamp="1489822678543">
-        <mark key="'" line="415" column="5" />
-        <mark key="[" line="505" column="46" />
-        <mark key="]" line="505" column="46" />
-        <mark key="^" line="505" column="46" />
-        <mark key="." line="505" column="46" />
+      <file name="$USER_HOME$/workdir/vocs-react/src/common/constants.ts" timestamp="1489843248683">
+        <mark key="'" line="490" column="0" />
+        <mark key="[" line="452" column="8" />
+        <mark key="]" line="452" column="8" />
+        <mark key="^" line="452" column="8" />
+        <mark key="." line="452" column="8" />
       </file>
       <file name="$USER_HOME$/workdir/servlet/src/HelloWord.java" timestamp="1478157412736">
         <mark key="[" line="0" column="0" />
@@ -648,7 +648,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="6" filename="$USER_HOME$/workdir/vocs-react/src/entry/tobeRepaired.tsx" />
       <jump line="202" column="21" filename="$USER_HOME$/workdir/vocs-react/src/entry/tobeRepaired.tsx" />
       <jump line="200" column="19" filename="$USER_HOME$/workdir/vocs-react/src/common/constants.ts" />
       <jump line="13" column="43" filename="$USER_HOME$/workdir/vocs-react/src/common/constants.ts" />
@@ -748,6 +747,7 @@
       <jump line="1576" column="37" filename="$USER_HOME$/workdir/vocs-react/src/data/forms.tsx" />
       <jump line="288" column="44" filename="$USER_HOME$/workdir/vocs-react/src/components/treePage.tsx" />
       <jump line="282" column="16" filename="$USER_HOME$/workdir/vocs-react/src/components/treePage.tsx" />
+      <jump line="488" column="0" filename="$USER_HOME$/workdir/vocs-react/src/common/constants.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -766,41 +766,46 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJkZXZEZWJ1ZyI6ICJub2RlICROT0RFX0RFQlVHX09QVElPTiAvaG9tZS9rbG5pdS9zeW5jL2NvZGUvZ28vc3JjL3podm9jcy9zdGF0aWMvanMvbWFpbi5qcyAtLWFyZ3VtZW50cyIsCg==</text>
+      <register name="&quot;" type="4">
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;/home/klniu/sync/code/go/src/zhvocs/static/js&quot;</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
       </register>
       <register name="0" type="4">
-        <text>$USER_HOME$/sync/code/go/src/zhvocs/static/js</text>
+        <text>{
+            url: obj.removeUrl,
+            method: 'POST',
+            form: params,
+            json: &quot;true&quot;
+        }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJkZXZEZWJ1ZyI6ICJub2RlICROT0RFX0RFQlVHX09QVElPTiAvaG9tZS9rbG5pdS9zeW5jL2NvZGUvZ28vc3JjL3podm9jcy9zdGF0aWMvanMvbWFpbi5qcyAtLWFyZ3VtZW50cyIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAganNvbjogInRydWUiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWV0aG9kOiAnUE9TVCcsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codmFsdWVzKQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhvYmoucmVtb3ZlVXJsKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGRlZmF1bHREYXRhKQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhwYXJhbXMsIHRoaXMuc3RhdGUuc2VsZWN0ZWRLZXlzWzBdKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJkZXZEZWJ1ZyI6ICJub2RlICROT0RFX0RFQlVHX09QVElPTiAvaG9tZS9rbG5pdS9zeW5jL2NvZGUvZ28vc3JjL3podm9jcy9zdGF0aWMvanMvbWFpbi5qcyAtLWFyZ3VtZW50cyIsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9LCAocmVzdWx0OiBTZXJ2ZXJSZXN1bHQpID0+IHsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codmFsdWVzKQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9LCAocmVzdWx0OiBTZXJ2ZXJSZXN1bHQpID0+IHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGRlZmF1bHREYXRhKQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
