@@ -77,11 +77,11 @@
         <mark key="^" line="11" column="61" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/sync/code/go/src/zhvocs/routers/router.go" timestamp="1489798008029">
+      <file name="$USER_HOME$/sync/code/go/src/zhvocs/routers/router.go" timestamp="1489918695252">
         <mark key="'" line="104" column="4" />
-        <mark key="[" line="57" column="78" />
-        <mark key="]" line="57" column="81" />
-        <mark key="." line="57" column="81" />
+        <mark key="[" line="21" column="4" />
+        <mark key="]" line="21" column="4" />
+        <mark key="." line="21" column="4" />
         <mark key="^" line="57" column="81" />
       </file>
       <file name="$USER_HOME$/sync/code/go/src/mingerserver/robot/robot.go" timestamp="1489576725543">
@@ -803,11 +803,11 @@
           <key char="104" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gR2V0SWRzIGdldCBpZHMgZnJvbSBqc29uIHN0cmluZyBzdWNoIGFzIHsiaWRzIjogWzEsMl19LgpmdW5jIChjICpDb21tb25Db250cm9sbGVyKSBHZXRJZHMoKSAoW11pbnQsIGVycm9yKSB7Cgl2YXIgaWRzIFtdaW50CgljLkN0eC5JbnB1dC5CaW5kKCZpZHMsICJpZHMiKQoJcmV0dXJuIGlkcywgbmlsCn0KCg==</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>[</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>*:</text>
