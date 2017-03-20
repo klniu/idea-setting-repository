@@ -101,6 +101,13 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/workdir/web/vocs-react/src/common/constants.ts" timestamp="1489984858646">
+        <mark key="'" line="86" column="12" />
+        <mark key="[" line="356" column="26" />
+        <mark key="]" line="356" column="32" />
+        <mark key="^" line="356" column="32" />
+        <mark key="." line="356" column="32" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/untitled/src/Test.java" timestamp="1472951202493">
         <mark key="[" line="4" column="23" />
         <mark key="]" line="4" column="3" />
@@ -494,6 +501,13 @@
         <mark key="^" line="15" column="51" />
         <mark key="." line="15" column="51" />
       </file>
+      <file name="$USER_HOME$/workdir/web/vocs-react/src/data/forms.tsx" timestamp="1489985487426">
+        <mark key="'" line="4" column="59" />
+        <mark key="[" line="1042" column="16" />
+        <mark key="]" line="1042" column="19" />
+        <mark key="^" line="1042" column="19" />
+        <mark key="." line="1042" column="19" />
+      </file>
       <file name="$USER_HOME$/sync/code/go/src/zhvocs/conf/app.conf" timestamp="1479257088739">
         <mark key="[" line="11" column="35" />
         <mark key="]" line="11" column="41" />
@@ -514,19 +528,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="111" column="0" filename="$USER_HOME$/workdir/web/vocs-react/src/entry/main.tsx" />
-      <jump line="49" column="8" filename="$USER_HOME$/workdir/web/vocs-react/src/entry/main.tsx" />
-      <jump line="69" column="26" filename="$USER_HOME$/workdir/web/vocs-react/src/entry/main.tsx" />
-      <jump line="81" column="4" filename="$USER_HOME$/workdir/web/vocs-react/src/entry/main.tsx" />
-      <jump line="84" column="9" filename="$USER_HOME$/workdir/web/vocs-react/webpack-dev.config.js" />
-      <jump line="6" column="0" filename="$USER_HOME$/workdir/web/vocs-react/webpack-dev.config.js" />
-      <jump line="113" column="0" filename="$USER_HOME$/workdir/web/vocs-react/webpack-dev.config.js" />
-      <jump line="98" column="28" filename="$USER_HOME$/workdir/web/vocs-react/webpack-dev.config.js" />
-      <jump line="40" column="0" filename="$USER_HOME$/workdir/web/vocs-react/package.json" />
-      <jump line="50" column="4" filename="$USER_HOME$/workdir/web/vocs-react/webpack-dev.config.js" />
-      <jump line="124" column="4" filename="$USER_HOME$/workdir/web/vocs-react/webpack-dev.config.js" />
-      <jump line="51" column="0" filename="$USER_HOME$/workdir/web/vocs-react/webpack-dev.config.js" />
-      <jump line="64" column="16" filename="$USER_HOME$/workdir/web/vocs-react/webpack-dev.config.js" />
       <jump line="19" column="40" filename="$USER_HOME$/workdir/web/vocs-react/src/components/formModal.tsx" />
       <jump line="7" column="30" filename="$USER_HOME$/workdir/web/vocs-react/src/components/formModal.tsx" />
       <jump line="113" column="0" filename="$USER_HOME$/workdir/web/vocs-react/src/components/formModal.tsx" />
@@ -614,6 +615,19 @@
       <jump line="9" column="0" filename="$USER_HOME$/workdir/web/vocs-react/src/entry/seal.tsx" />
       <jump line="0" column="0" filename="$USER_HOME$/workdir/web/vocs-react/src/entry/seal.tsx" />
       <jump line="207" column="43" filename="$USER_HOME$/workdir/web/vocs-react/src/entry/seal.tsx" />
+      <jump line="416" column="21" filename="$USER_HOME$/workdir/web/vocs-react/src/data/forms.tsx" />
+      <jump line="448" column="30" filename="$USER_HOME$/workdir/web/vocs-react/src/data/forms.tsx" />
+      <jump line="390" column="20" filename="$USER_HOME$/workdir/web/vocs-react/src/data/forms.tsx" />
+      <jump line="356" column="21" filename="$USER_HOME$/workdir/web/vocs-react/src/common/constants.ts" />
+      <jump line="86" column="12" filename="$USER_HOME$/workdir/web/vocs-react/src/common/constants.ts" />
+      <jump line="418" column="21" filename="$USER_HOME$/workdir/web/vocs-react/src/data/forms.tsx" />
+      <jump line="449" column="21" filename="$USER_HOME$/workdir/web/vocs-react/src/data/forms.tsx" />
+      <jump line="2" column="77" filename="$USER_HOME$/workdir/web/vocs-react/src/data/forms.tsx" />
+      <jump line="506" column="29" filename="$USER_HOME$/workdir/web/vocs-react/src/data/forms.tsx" />
+      <jump line="476" column="22" filename="$USER_HOME$/workdir/web/vocs-react/src/data/forms.tsx" />
+      <jump line="670" column="22" filename="$USER_HOME$/workdir/web/vocs-react/src/data/forms.tsx" />
+      <jump line="1042" column="22" filename="$USER_HOME$/workdir/web/vocs-react/src/data/forms.tsx" />
+      <jump line="4" column="59" filename="$USER_HOME$/workdir/web/vocs-react/src/data/forms.tsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -638,64 +652,59 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>values</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>values</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkZWZhdWx0QnV0dG9uc0Rpc3BsYXlcPg==</text>
+        <text>Media</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtZXNzYWdlLmVycm9yKHJlc3VsdC5tc2csIDcpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHZhbHVlcykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHJlcXVlc3QgZnJvbSAncmVxdWVzdCcK</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IEluc3RhbGxNYXBzOgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGNoZWNrYm94IG5vIG5lZWQgZm9yIGl0ZW1PCg==</text>
+        <text encoding="base64">aW1wb3J0IHJlcXVlc3QgZnJvbSAncmVxdWVzdCcK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGNoZWNrYm94IG5vIG5lZWQgZm9yIGl0ZW1PCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgd2luZG93LmxvY2F0aW9uLmhyZWYgPSAiaHR0cDovL2V4YW1wbGUuY29tIjsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgd2luZG93LmxvY2F0aW9uID0gIi9sZGFyL3NlYWxzIjsK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgd2luZG93LmxvY2F0aW9uLmhyZWYgPSAiaHR0cDovL2V4YW1wbGUuY29tIjsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgd2luZG93LmxvY2F0aW9uID0gIi9sZGFyL3NlYWxzIjsK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtZXNzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3VsdCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtZXNzCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">KCkgPT4gewogICAgICAgIGxldCBnZXRVcmwgPSB3aW5kb3cubG9jYXRpb247CiAgICAgICAgcmV0dXJuIGdldFVybC5wcm90b2NvbCArICIvLyIgKyBnZXRVcmwuaG9zdCArICIvIiArIGdldFVybC5wYXRobmFtZS5zcGxpdCgnLycpWzFdOwogICAgfQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3VsdCkK</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkZWZhdWx0QnV0dG9uc0Rpc3BsYXlcPg==</last-search>
+      <last-search>Media</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkZWZhdWx0QnV0dG9uc0Rpc3BsYXlcPg==</last-pattern>
+      <last-pattern>Media</last-pattern>
       <last-replace>offset={\1}</last-replace>
       <last-substitute>offset=&quot;\(\d\+\)&quot;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>parent</entry>
-        <entry encoding="base64">XDxxdWVyeVBhcmFtc1w+</entry>
-        <entry>query</entry>
-        <entry>adfasdf</entry>
-        <entry encoding="base64">XDxzZWFyY2hQYXJhbXNcPg==</entry>
         <entry>moment</entry>
         <entry encoding="base64">XDxzdGFydERhdGVcPg==</entry>
         <entry>stat</entry>
@@ -711,6 +720,11 @@
         <entry encoding="base64">XDxpdGVtT3B0aW9uc1w+</entry>
         <entry>rule</entry>
         <entry encoding="base64">XDxkZWZhdWx0QnV0dG9uc0Rpc3BsYXlcPg==</entry>
+        <entry encoding="base64">XDxJbnN0YWxsYXRpb25zXD4=</entry>
+        <entry>Units</entry>
+        <entry>UnitIn</entry>
+        <entry>Unitinstall</entry>
+        <entry>Media</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL+KGki8pLC9nYw==</entry>
