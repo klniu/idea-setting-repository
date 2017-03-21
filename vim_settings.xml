@@ -165,12 +165,12 @@
         <mark key="^" line="209" column="5" />
         <mark key="." line="208" column="10" />
       </file>
-      <file name="$USER_HOME$/workdir/web/vocs-react/src/entry/photo.tsx" timestamp="1490071828643">
-        <mark key="'" line="21" column="4" />
-        <mark key="[" line="218" column="52" />
-        <mark key="]" line="218" column="53" />
-        <mark key="^" line="218" column="42" />
-        <mark key="." line="218" column="52" />
+      <file name="$USER_HOME$/workdir/web/vocs-react/src/entry/photo.tsx" timestamp="1490087078187">
+        <mark key="'" line="218" column="42" />
+        <mark key="[" line="255" column="40" />
+        <mark key="]" line="255" column="41" />
+        <mark key="^" line="255" column="34" />
+        <mark key="." line="255" column="40" />
       </file>
       <file name="$USER_HOME$/sync/code/java/xiaoyi/src/main/java/com/klniu/xiaoyi/Robot.java" timestamp="1484465688201">
         <mark key="'" line="21" column="30" />
@@ -382,8 +382,8 @@
         <mark key="." line="16" column="17" />
         <mark key="^" line="16" column="16" />
       </file>
-      <file name="$USER_HOME$/workdir/web/vocs-react/src/data/forms.tsx" timestamp="1490071331847">
-        <mark key="'" line="1457" column="26" />
+      <file name="$USER_HOME$/workdir/web/vocs-react/src/data/forms.tsx" timestamp="1490087315199">
+        <mark key="'" line="668" column="13" />
         <mark key="[" line="1454" column="8" />
         <mark key="]" line="1454" column="8" />
         <mark key="^" line="1454" column="8" />
@@ -405,9 +405,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="920" column="17" filename="$USER_HOME$/workdir/vocs-react/src/data/forms.tsx" />
-      <jump line="1105" column="14" filename="$USER_HOME$/workdir/vocs-react/src/data/forms.tsx" />
-      <jump line="1221" column="14" filename="$USER_HOME$/workdir/vocs-react/src/data/forms.tsx" />
       <jump line="1512" column="17" filename="$USER_HOME$/workdir/vocs-react/src/data/forms.tsx" />
       <jump line="1517" column="17" filename="$USER_HOME$/workdir/vocs-react/src/data/forms.tsx" />
       <jump line="1523" column="17" filename="$USER_HOME$/workdir/vocs-react/src/data/forms.tsx" />
@@ -505,13 +502,16 @@
       <jump line="5" column="20" filename="$USER_HOME$/workdir/web/vocs-react/src/entry/detection.tsx" />
       <jump line="113" column="0" filename="$USER_HOME$/workdir/web/vocs-react/src/components/searchForm.tsx" />
       <jump line="557" column="26" filename="$USER_HOME$/workdir/web/vocs-react/src/common/constants.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/workdir/web/vocs-react/src/entry/photo.tsx" />
+      <jump line="218" column="42" filename="$USER_HOME$/workdir/web/vocs-react/src/entry/photo.tsx" />
+      <jump line="668" column="13" filename="$USER_HOME$/workdir/web/vocs-react/src/data/forms.tsx" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBwcm9wczogewogICAgICAgICAgICBkaXNhYmxlZERhdGU6IE5vRnV0dXJlRGF0ZQogICAgICAgIH0sCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text>&quot;</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -618,10 +618,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>search</text>
+        <text>hori</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHZhbHVlLmFkZChtb21lbnQoKS51dGNPZmZzZXQoKSwgIm1pbnV0ZXMiKTsK</text>
@@ -658,9 +658,9 @@
       </register>
     </registers>
     <search>
-      <last-search>search</last-search>
+      <last-search>hori</last-search>
       <last-offset />
-      <last-pattern>search</last-pattern>
+      <last-pattern>hori</last-pattern>
       <last-replace>offset={\1}</last-replace>
       <last-substitute>offset=&quot;\(\d\+\)&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -668,7 +668,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb25zdGFudHNUb0FycmF5XD4=</entry>
         <entry encoding="base64">XDxTZWxlY3RcPg==</entry>
         <entry encoding="base64">XDxNdWx0aVNlbGVjdFw+</entry>
         <entry encoding="base64">XDxnZXRVbml0c1RyZWVcPg==</entry>
@@ -688,6 +687,7 @@
         <entry encoding="base64">XDxGbGFnQW5kVHlwZXNNYXBzXD4=</entry>
         <entry>console</entry>
         <entry>search</entry>
+        <entry>hori</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL+KGki8pLC9nYw==</entry>
