@@ -10,12 +10,6 @@
         <mark key="." line="209" column="119" />
         <mark key="^" line="209" column="119" />
       </file>
-      <file name="/fragment.js" timestamp="1489841985941">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/a.dummy" timestamp="1489818241199">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/workdir/web/vocs-react/src/components/treePage.tsx" timestamp="1489741784029">
         <mark key="'" line="346" column="29" />
         <mark key="[" line="345" column="14" />
@@ -126,9 +120,6 @@
         <mark key="^" line="133" column="9" />
         <mark key="." line="133" column="9" />
       </file>
-      <file name="/" timestamp="1489842014732">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/sync/code/go/src/ldar/component.go" timestamp="1479190408066">
         <mark key="'" line="85" column="29" />
         <mark key="[" line="92" column="53" />
@@ -237,6 +228,9 @@
         <mark key="^" line="90" column="26" />
         <mark key="." line="90" column="26" />
       </file>
+      <file name="$USER_HOME$/sync/code/go/src/ldar/component_test.go" timestamp="1490081815484">
+        <mark key="'" line="157" column="21" />
+      </file>
       <file name="$USER_HOME$/workdir/shopping-management-system/0#Java基础项目/shopping-management-system/src/lyons/tools/ScannerChoice.java" timestamp="1479609491597">
         <mark key="'" line="86" column="38" />
         <mark key="[" line="25" column="61" />
@@ -251,8 +245,11 @@
         <mark key="^" line="153" column="9" />
         <mark key="." line="153" column="9" />
       </file>
-      <file name="/JavaScript Console" timestamp="1489841584390">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/sync/code/go/src/ldar/sql_test.go" timestamp="1490081700053">
+        <mark key="[" line="158" column="68" />
+        <mark key="]" line="158" column="76" />
+        <mark key="^" line="158" column="76" />
+        <mark key="." line="158" column="76" />
       </file>
       <file name="$USER_HOME$/sync/code/java/livesim/src/main/java/Task.java" timestamp="1480319162739">
         <mark key="'" line="9" column="46" />
@@ -287,7 +284,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="115" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1489927215153">
+      <file name="/Dummy.txt" timestamp="1490081903147">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workdir/web/vocs-react/src/entry/user.tsx" timestamp="1489741346512">
@@ -388,6 +385,12 @@
         <mark key="." line="16" column="17" />
         <mark key="^" line="16" column="16" />
       </file>
+      <file name="$USER_HOME$/sync/code/go/src/ldar/seal_test.go" timestamp="1490081627555">
+        <mark key="[" line="45" column="42" />
+        <mark key="]" line="45" column="42" />
+        <mark key="." line="45" column="42" />
+        <mark key="^" line="45" column="42" />
+      </file>
       <file name="$USER_HOME$/workdir/web/vocs-react/src/data/forms.tsx" timestamp="1489741204270">
         <mark key="'" line="1406" column="81" />
         <mark key="[" line="1538" column="0" />
@@ -410,7 +413,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="99" column="13" filename="$USER_HOME$/workdir/vocs-react/src/entry/main.tsx" />
       <jump line="35" column="29" filename="$USER_HOME$/workdir/vocs-react/src/entry/test.tsx" />
       <jump line="18" column="7" filename="$USER_HOME$/workdir/vocs-react/src/entry/main.tsx" />
       <jump line="97" column="41" filename="$USER_HOME$/workdir/vocs-react/src/entry/main.tsx" />
@@ -510,13 +512,14 @@
       <jump line="476" column="36" filename="$USER_HOME$/workdir/vocs-react/src/data/forms.tsx" />
       <jump line="454" column="16" filename="$USER_HOME$/workdir/vocs-react/src/common/constants.ts" />
       <jump line="610" column="29" filename="$USER_HOME$/workdir/vocs-react/src/data/forms.tsx" />
+      <jump line="157" column="21" filename="$USER_HOME$/sync/code/go/src/ldar/component_test.go" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBwcm9wczogewogICAgICAgICAgICBkaXNhYmxlZERhdGU6IE5vRnV0dXJlRGF0ZQogICAgICAgIH0sCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>，</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -623,7 +626,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>，</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDYXNjYWRlclw+</text>
