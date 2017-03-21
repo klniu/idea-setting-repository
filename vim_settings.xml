@@ -228,6 +228,12 @@
         <mark key="^" line="90" column="26" />
         <mark key="." line="90" column="26" />
       </file>
+      <file name="$USER_HOME$/sync/code/go/src/zhvocs/packall.sh" timestamp="1490082363947">
+        <mark key="[" line="1" column="146" />
+        <mark key="]" line="1" column="152" />
+        <mark key="^" line="1" column="152" />
+        <mark key="." line="1" column="152" />
+      </file>
       <file name="$USER_HOME$/sync/code/go/src/ldar/component_test.go" timestamp="1490081815484">
         <mark key="'" line="157" column="21" />
       </file>
@@ -519,7 +525,7 @@
         <text encoding="base64">ICAgICAgICBwcm9wczogewogICAgICAgICAgICBkaXNhYmxlZERhdGU6IE5vRnV0dXJlRGF0ZQogICAgICAgIH0sCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>，</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -626,13 +632,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>，</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDYXNjYWRlclw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZXhwb3J0IGxldCBVbml0SW5zdGFsbFRyZWU6IFRyZWVOb2RlW10gPSBbXTsK</text>
+      <register name="0" type="4">
+        <text encoding="base64">Li9wYWNrLnNoIHNxbGl0ZSAkMSAmJiAuL3BhY2suc2ggcG9zdGdyZXMgJDEgJiY=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZXhwb3J0IGxldCBVbml0SW5zdGFsbENhc2NhZGVyOiBDYXNjYWRlck5vZGVbXSA9IFtdOwo=</text>
@@ -662,7 +668,7 @@
         <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -712,12 +718,12 @@
         <entry>%s/offset=&quot;\(\d\+\)&quot;/offset={\1}/gc</entry>
         <entry>qa</entry>
         <entry>action Forward</entry>
-        <entry>w</entry>
         <entry>action AceLineAction</entry>
         <entry>action AceAction</entry>
         <entry>q</entry>
         <entry>action Back</entry>
         <entry>action ReformatCode</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
