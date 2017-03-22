@@ -277,8 +277,10 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="115" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1489927215153">
+      <file name="/Dummy.txt" timestamp="1490157803180">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workdir/web/vocs-react/src/entry/user.tsx" timestamp="1489741346512">
         <mark key="'" line="47" column="12" />
@@ -506,8 +508,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICByZW5kZXI6ICh2YWwpID0+IHV0Y1RvTG9jYWwodmFsLCBGaWVsZFR5cGUuRGF0ZSkK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>initial porting finished,</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -614,7 +616,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>else {</text>
+        <text>initial porting finished,</text>
       </register>
       <register name="/" type="4">
         <text>utcto</text>
