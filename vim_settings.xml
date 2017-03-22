@@ -64,12 +64,11 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="187" column="51" />
       </file>
-      <file name="$USER_HOME$/workdir/web/vocs-react/src/common/constants.ts" timestamp="1490071997051">
-        <mark key="'" line="557" column="26" />
-        <mark key="[" line="557" column="0" />
-        <mark key="]" line="557" column="47" />
-        <mark key="^" line="216" column="17" />
-        <mark key="." line="328" column="44" />
+      <file name="$USER_HOME$/workdir/web/vocs-react/src/common/constants.ts" timestamp="1490152614009">
+        <mark key="'" line="455" column="0" />
+        <mark key="[" line="560" column="0" />
+        <mark key="]" line="560" column="0" />
+        <mark key="." line="560" column="0" />
       </file>
       <file name="$USER_HOME$/workdir/web/vocs-react/src/entry/detection.tsx" timestamp="1490071891139">
         <mark key="'" line="5" column="20" />
@@ -382,12 +381,11 @@
         <mark key="." line="16" column="17" />
         <mark key="^" line="16" column="16" />
       </file>
-      <file name="$USER_HOME$/workdir/web/vocs-react/src/data/forms.tsx" timestamp="1490149646858">
-        <mark key="'" line="74" column="20" />
-        <mark key="[" line="1530" column="84" />
-        <mark key="]" line="1530" column="86" />
-        <mark key="^" line="1454" column="8" />
-        <mark key="." line="1530" column="86" />
+      <file name="$USER_HOME$/workdir/web/vocs-react/src/data/forms.tsx" timestamp="1490152766397">
+        <mark key="'" line="74" column="25" />
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="0" />
+        <mark key="." line="75" column="0" />
       </file>
       <file name="$USER_HOME$/workdir/vocs-react/src/entry/photo.tsx" timestamp="1489895127868">
         <mark key="'" line="170" column="24" />
@@ -405,9 +403,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1093" column="8" filename="$USER_HOME$/workdir/vocs-react/src/data/forms.tsx" />
-      <jump line="1103" column="8" filename="$USER_HOME$/workdir/vocs-react/src/data/forms.tsx" />
-      <jump line="1583" column="36" filename="$USER_HOME$/workdir/vocs-react/src/data/forms.tsx" />
       <jump line="158" column="46" filename="$USER_HOME$/workdir/vocs-react/src/components/treePage.tsx" />
       <jump line="465" column="44" filename="$USER_HOME$/workdir/vocs-react/src/components/treePage.tsx" />
       <jump line="434" column="14" filename="$USER_HOME$/workdir/vocs-react/src/components/treePage.tsx" />
@@ -504,14 +499,17 @@
       <jump line="31" column="107" filename="$USER_HOME$/workdir/web/vocs-react/src/data/forms.tsx" />
       <jump line="35" column="14" filename="$USER_HOME$/workdir/web/vocs-react/src/data/forms.tsx" />
       <jump line="37" column="42" filename="$USER_HOME$/workdir/web/vocs-react/src/data/forms.tsx" />
-      <jump line="74" column="20" filename="$USER_HOME$/workdir/web/vocs-react/src/data/forms.tsx" />
+      <jump line="548" column="0" filename="$USER_HOME$/workdir/web/vocs-react/src/common/constants.ts" />
+      <jump line="456" column="42" filename="$USER_HOME$/workdir/web/vocs-react/src/common/constants.ts" />
+      <jump line="455" column="0" filename="$USER_HOME$/workdir/web/vocs-react/src/common/constants.ts" />
+      <jump line="74" column="25" filename="$USER_HOME$/workdir/web/vocs-react/src/data/forms.tsx" />
     </jumps>
     <registers>
       <register name="a" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9wczogewogICAgICAgICAgICBkaXNhYmxlZERhdGU6IE5vRnV0dXJlRGF0ZQogICAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICByZW5kZXI6ICh2YWwpID0+IHV0Y1RvTG9jYWwodmFsLCBGaWVsZFR5cGUuRGF0ZSkK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICByZW5kZXI6ICh2YWwpID0+IHV0Y1RvTG9jYWwodmFsLCBGaWVsZFR5cGUuRGF0ZSkK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -618,49 +616,57 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
-        <text>Date</text>
+        <text encoding="base64">XDx1dGNUb0xvY2FsXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhbHVlLmFkZChtb21lbnQoKS51dGNPZmZzZXQoKSwgIm1pbnV0ZXMiKTsK</text>
+        <text encoding="base64">ICAgICAgICByZW5kZXI6ICh2YWwpID0+IHV0Y1RvTG9jYWwodmFsLCBGaWVsZFR5cGUuRGF0ZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyBwcm9wVHlwZXMgPSB7CiAgICAgICAgZm9ybTogUmVhY3QuUHJvcFR5cGVzLm9iamVjdC5pc1JlcXVpcmVkLAogICAgICAgIGZvcm1PcHRpb25zOiBSZWFjdC5Qcm9wVHlwZXMuYXJyYXkuaXNSZXF1aXJlZCwKICAgICAgICBvbkNvbXBsZXRlOiBSZWFjdC5Qcm9wVHlwZXMuZnVuYywKICAgIH07Cg==</text>
+        <text encoding="base64">ICAgICAgICByZW5kZXI6ICh2YWwpID0+IHV0Y1RvTG9jYWwodmFsLCBGaWVsZFR5cGUuRGF0ZSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBmb3JtPXsgdGhpcy5wcm9wcy5mb3JtIH0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHZhbHVlcykK</text>
+        <text encoding="base64">ICAgICAgICByZW5kZXI6ICh2YWwpID0+IHV0Y1RvTG9jYWwodmFsLCBGaWVsZFR5cGUuRGF0ZSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGRlZmF1bHREYXRhKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHZbJ2lkJ10pCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICB9LAo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGEK</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGlzYWJsZWREYXRlOiBOb0Z1dHVyZURhdGUK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coYSkK</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBwcm9wczogewo=</text>
+      </register>
+      <register name="8" type="8">
+        <text>//
+//
+//
+//
+//
+//
+//
+//
+//</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHZbJ2lkJ10pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
-      <last-search>Date</last-search>
+      <last-search encoding="base64">XDx1dGNUb0xvY2FsXD4=</last-search>
       <last-offset />
-      <last-pattern>Date</last-pattern>
+      <last-pattern encoding="base64">XDx1dGNUb0xvY2FsXD4=</last-pattern>
       <last-replace>offset={\1}</last-replace>
       <last-substitute>offset=&quot;\(\d\+\)&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -668,7 +674,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxTZWxlY3RcPg==</entry>
         <entry encoding="base64">XDxNdWx0aVNlbGVjdFw+</entry>
         <entry encoding="base64">XDxnZXRVbml0c1RyZWVcPg==</entry>
         <entry>gettre</entry>
@@ -688,6 +693,7 @@
         <entry>search</entry>
         <entry>hori</entry>
         <entry>Date</entry>
+        <entry encoding="base64">XDx1dGNUb0xvY2FsXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL+KGki8pLC9nYw==</entry>
