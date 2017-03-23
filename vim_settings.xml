@@ -69,11 +69,11 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="187" column="51" />
       </file>
-      <file name="$USER_HOME$/workdir/web/vocs-react/src/common/constants.ts" timestamp="1490243340318">
-        <mark key="'" line="455" column="0" />
-        <mark key="[" line="560" column="73" />
-        <mark key="]" line="560" column="89" />
-        <mark key="." line="560" column="89" />
+      <file name="$USER_HOME$/workdir/web/vocs-react/src/common/constants.ts" timestamp="1490249721453">
+        <mark key="'" line="322" column="25" />
+        <mark key="[" line="71" column="4" />
+        <mark key="]" line="71" column="4" />
+        <mark key="." line="71" column="4" />
         <mark key="^" line="560" column="89" />
       </file>
       <file name="$USER_HOME$/workdir/web/vocs-react/src/entry/detection.tsx" timestamp="1490071891139">
@@ -427,7 +427,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="476" column="36" filename="$USER_HOME$/workdir/vocs-react/src/data/forms.tsx" />
       <jump line="454" column="16" filename="$USER_HOME$/workdir/vocs-react/src/common/constants.ts" />
       <jump line="610" column="29" filename="$USER_HOME$/workdir/vocs-react/src/data/forms.tsx" />
       <jump line="161" column="7" filename="$USER_HOME$/workdir/web/vocs-react/src/data/forms.tsx" />
@@ -527,13 +526,14 @@
       <jump line="159" column="21" filename="$USER_HOME$/workdir/web/vocs-react/src/components/statistic.tsx" />
       <jump line="33" column="50" filename="$USER_HOME$/workdir/web/vocs-react/src/entry/emission.tsx" />
       <jump line="73" column="15" filename="$USER_HOME$/workdir/web/vocs-react/src/entry/emission.tsx" />
+      <jump line="322" column="25" filename="$USER_HOME$/workdir/web/vocs-react/src/common/constants.ts" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICByZW5kZXI6ICh2YWwpID0+IHV0Y1RvTG9jYWwodmFsLCBGaWVsZFR5cGUuRGF0ZSkK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>/</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -640,7 +640,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>jsx</text>
