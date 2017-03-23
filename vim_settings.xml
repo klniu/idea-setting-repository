@@ -234,10 +234,11 @@
         <mark key="^" line="1" column="152" />
         <mark key="." line="1" column="152" />
       </file>
-      <file name="$USER_HOME$/sync/code/go/src/spiders/main.go" timestamp="1490256043494">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/sync/code/go/src/spiders/main.go" timestamp="1490256095756">
+        <mark key="[" line="4" column="10" />
+        <mark key="]" line="4" column="9" />
+        <mark key="^" line="4" column="9" />
+        <mark key="." line="4" column="9" />
       </file>
       <file name="$USER_HOME$/sync/code/go/src/ldar/component_test.go" timestamp="1490081815484">
         <mark key="'" line="157" column="21" />
@@ -529,8 +530,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBwcm9wczogewogICAgICAgICAgICBkaXNhYmxlZERhdGU6IE5vRnV0dXJlRGF0ZQogICAgICAgIH0sCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cGFja2FnZSBzcGlkZXJzCg==</text>
+      <register name="&quot;" type="4">
+        <text>pholcus_lib_pte</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -637,7 +638,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>pholcus_lib_pte</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDYXNjYWRlclw+</text>
@@ -646,34 +647,34 @@
         <text encoding="base64">Li9wYWNrLnNoIHNxbGl0ZSAkMSAmJiAuL3BhY2suc2ggcG9zdGdyZXMgJDEgJiY=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cGFja2FnZSBzcGlkZXJzCg==</text>
+        <text encoding="base64">CV8gImdpdGh1Yi5jb20vaGVucnlsZWUyY24vcGhvbGN1c19saWIiIC8vIOatpOS4uuWFrOW8gOe7tOaKpOeahHNwaWRlcuinhOWImeW6kwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cGFja2FnZSBzcGlkZXJzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXhwb3J0IGxldCBVbml0SW5zdGFsbENhc2NhZGVyOiBDYXNjYWRlck5vZGVbXSA9IFtdOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9LAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBrZXk6ICJpbnN0YWxsIiArIFN0cmluZyh1bml0Lk5vICogMTAwICsgaW5zdGFsbC5ObykK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ZXhwb3J0IGxldCBVbml0SW5zdGFsbENhc2NhZGVyOiBDYXNjYWRlck5vZGVbXSA9IFtdOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB9LAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBrZXk6ICJpbnN0YWxsIiArIFN0cmluZyh1bml0Lk5vICogMTAwICsgaW5zdGFsbC5ObykK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGtleTogc3RyaW5nOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHZhbHVlcykK</text>
+        <text encoding="base64">ICAgIGtleTogc3RyaW5nOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coVW5pdHMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHZhbHVlcykK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
@@ -727,8 +728,8 @@
         <entry>action AceAction</entry>
         <entry>q</entry>
         <entry>action Back</entry>
-        <entry>action ReformatCode</entry>
         <entry>w</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
