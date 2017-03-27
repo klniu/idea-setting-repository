@@ -827,6 +827,11 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="14" column="15" />
       </file>
+      <file name="$USER_HOME$/sync/code/go/src/ldar/svg/line.go" timestamp="1490594339668">
+        <mark key="'" line="69" column="8" />
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="103" column="0" />
+      </file>
       <file name="$USER_HOME$/sync/code/java/livesim/build.gradle" timestamp="1479443435078">
         <mark key="[" line="5" column="24" />
         <mark key="]" line="5" column="25" />
@@ -1038,8 +1043,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="9" filename="$USER_HOME$/workdir/vocs-react/src/data/forms.tsx" />
-      <jump line="33" column="48" filename="$USER_HOME$/workdir/vocs-react/src/data/forms.tsx" />
       <jump line="35" column="42" filename="$USER_HOME$/workdir/vocs-react/src/data/forms.tsx" />
       <jump line="75" column="34" filename="$USER_HOME$/workdir/vocs-react/src/data/forms.tsx" />
       <jump line="77" column="18" filename="$USER_HOME$/workdir/vocs-react/src/data/forms.tsx" />
@@ -1138,13 +1141,15 @@
       <jump line="78" column="39" filename="$USER_HOME$/sync/code/go/src/spiders/pholcus_lib/chinalaw.go" />
       <jump line="17" column="30" filename="$USER_HOME$/sync/code/c#/ExcelToWord/ExcelToWord/src/ExcelToWord.cs" />
       <jump line="28" column="4" filename="$USER_HOME$/sync/code/c#/ExcelToWord/ExcelToWord/Program.cs" />
+      <jump line="39" column="5" filename="$USER_HOME$/sync/code/go/src/ldar/svg/line.go" />
+      <jump line="69" column="8" filename="$USER_HOME$/sync/code/go/src/ldar/svg/line.go" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBwcm9wczogewogICAgICAgICAgICBkaXNhYmxlZERhdGU6IE5vRnV0dXJlRGF0ZQogICAgICAgIH0sCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>string</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gVGhlIG1haW4gZnVuY3Rpb24gdGhhdCByZXR1cm5zIHRydWUgaWYgbGluZSBzZWdtZW50ICdwMXExJwovLyBhbmQgJ3AycTInIGludGVyc2VjdC4KZnVuYyBpbnRlcnNlY3QobGluZTEsIGxpbmUyIExpbmUpIGJvb2wgewoJcDEsIHExIDo9IFBvaW50e2xpbmUxLlgxLCBsaW5lMS5ZMX0sIFBvaW50e2xpbmUxLlgyLCBsaW5lMS5ZMn0KCXAyLCBxMiA6PSBQb2ludHtsaW5lMi5YMSwgbGluZTIuWTF9LCBQb2ludHtsaW5lMi5YMiwgbGluZTIuWTJ9CgkvLyBGaW5kIHRoZSBmb3VyIG9yaWVudGF0aW9ucyBuZWVkZWQgZm9yIGdlbmVyYWwgYW5kCgkvLyBzcGVjaWFsIGNhc2VzCglvMSA6PSBvcmllbnRhdGlvbihwMSwgcTEsIHAyKQoJbzIgOj0gb3JpZW50YXRpb24ocDEsIHExLCBxMikKCW8zIDo9IG9yaWVudGF0aW9uKHAyLCBxMiwgcDEpCglvNCA6PSBvcmllbnRhdGlvbihwMiwgcTIsIHExKQoKCS8vIEdlbmVyYWwgY2FzZQoJaWYgbzEgIT0gbzIgJiYgbzMgIT0gbzQgewoJCXJldHVybiB0cnVlCgl9CgkvLyBTcGVjaWFsIENhc2VzCgkvLyBwMSwgcTEgYW5kIHAyIGFyZSBjb2xpbmVhciBhbmQgcDIgbGllcyBvbiBzZWdtZW50IHAxcTEKCWlmIG8xID09IDAgJiYgb25TZWdtZW50KHAxLCBwMiwgcTEpIHsKCQlyZXR1cm4gdHJ1ZQoJfQoJLy8gcDEsIHExIGFuZCBwMiBhcmUgY29saW5lYXIgYW5kIHEyIGxpZXMgb24gc2VnbWVudCBwMXExCglpZiBvMiA9PSAwICYmIG9uU2VnbWVudChwMSwgcTIsIHExKSB7CgkJcmV0dXJuIHRydWUKCX0KCS8vIHAyLCBxMiBhbmQgcDEgYXJlIGNvbGluZWFyIGFuZCBwMSBsaWVzIG9uIHNlZ21lbnQgcDJxMgoJaWYgbzMgPT0gMCAmJiBvblNlZ21lbnQocDIsIHAxLCBxMikgewoJCXJldHVybiB0cnVlCgl9CgkvLyBwMiwgcTIgYW5kIHExIGFyZSBjb2xpbmVhciBhbmQgcTEgbGllcyBvbiBzZWdtZW50IHAycTIKCWlmIG80ID09IDAgJiYgb25TZWdtZW50KHAyLCBxMSwgcTIpIHsKCQlyZXR1cm4gdHJ1ZQoJfQoJcmV0dXJuIGZhbHNlIC8vIERvZXNuJ3QgZmFsbCBpbiBhbnkgb2YgdGhlIGFib3ZlIGNhc2VzCn0K</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -1254,7 +1259,7 @@
         <text>string</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDzojrflj5bliJfooahcPg==</text>
+        <text encoding="base64">XDxvblNlZ21lbnRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIENvbnNvbGUuV3JpdGVMaW5lKCLmraPlnKjlpITnkIY6IHswfSIsIHRpdGxlKTsK</text>
@@ -1291,17 +1296,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDzojrflj5bliJfooahcPg==</last-search>
+      <last-search encoding="base64">XDxvblNlZ21lbnRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDzojrflj5bliJfooahcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxvblNlZ21lbnRcPg==</last-pattern>
       <last-replace>offset={\1}</last-replace>
       <last-substitute>offset=&quot;\(\d\+\)&quot;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>molatom</entry>
         <entry>try</entry>
         <entry>equal</entry>
         <entry>provide</entry>
@@ -1321,6 +1325,7 @@
         <entry encoding="base64">XDxtSWF0XD4=</entry>
         <entry encoding="base64">XDxtUGFyYW1NYXBcPg==</entry>
         <entry encoding="base64">XDxDb21tYW5kUmVzdWx0XD4=</entry>
+        <entry encoding="base64">XDxvblNlZ21lbnRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>g/^$/d</entry>
