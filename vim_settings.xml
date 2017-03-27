@@ -442,6 +442,10 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="115" column="4" />
       </file>
+      <file name="$USER_HOME$/sync/code/go/src/ldar/svg/parse.go" timestamp="1490595617666">
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="92" column="0" />
+      </file>
       <file name="$USER_HOME$/workdir/vocs-react/src/data/forms.tsx" timestamp="1489926986038">
         <mark key="'" line="610" column="29" />
         <mark key="[" line="4" column="74" />
@@ -827,8 +831,8 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="14" column="15" />
       </file>
-      <file name="$USER_HOME$/sync/code/go/src/ldar/svg/line.go" timestamp="1490594339668">
-        <mark key="'" line="69" column="8" />
+      <file name="$USER_HOME$/sync/code/go/src/ldar/svg/line.go" timestamp="1490595613170">
+        <mark key="'" line="71" column="30" />
         <mark key="[" line="69" column="0" />
         <mark key="]" line="103" column="0" />
       </file>
@@ -1043,7 +1047,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="42" filename="$USER_HOME$/workdir/vocs-react/src/data/forms.tsx" />
       <jump line="75" column="34" filename="$USER_HOME$/workdir/vocs-react/src/data/forms.tsx" />
       <jump line="77" column="18" filename="$USER_HOME$/workdir/vocs-react/src/data/forms.tsx" />
       <jump line="129" column="24" filename="$USER_HOME$/workdir/vocs-react/src/data/forms.tsx" />
@@ -1143,13 +1146,14 @@
       <jump line="28" column="4" filename="$USER_HOME$/sync/code/c#/ExcelToWord/ExcelToWord/Program.cs" />
       <jump line="39" column="5" filename="$USER_HOME$/sync/code/go/src/ldar/svg/line.go" />
       <jump line="69" column="8" filename="$USER_HOME$/sync/code/go/src/ldar/svg/line.go" />
+      <jump line="71" column="30" filename="$USER_HOME$/sync/code/go/src/ldar/svg/line.go" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBwcm9wczogewogICAgICAgICAgICBkaXNhYmxlZERhdGU6IE5vRnV0dXJlRGF0ZQogICAgICAgIH0sCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gVGhlIG1haW4gZnVuY3Rpb24gdGhhdCByZXR1cm5zIHRydWUgaWYgbGluZSBzZWdtZW50ICdwMXExJwovLyBhbmQgJ3AycTInIGludGVyc2VjdC4KZnVuYyBpbnRlcnNlY3QobGluZTEsIGxpbmUyIExpbmUpIGJvb2wgewoJcDEsIHExIDo9IFBvaW50e2xpbmUxLlgxLCBsaW5lMS5ZMX0sIFBvaW50e2xpbmUxLlgyLCBsaW5lMS5ZMn0KCXAyLCBxMiA6PSBQb2ludHtsaW5lMi5YMSwgbGluZTIuWTF9LCBQb2ludHtsaW5lMi5YMiwgbGluZTIuWTJ9CgkvLyBGaW5kIHRoZSBmb3VyIG9yaWVudGF0aW9ucyBuZWVkZWQgZm9yIGdlbmVyYWwgYW5kCgkvLyBzcGVjaWFsIGNhc2VzCglvMSA6PSBvcmllbnRhdGlvbihwMSwgcTEsIHAyKQoJbzIgOj0gb3JpZW50YXRpb24ocDEsIHExLCBxMikKCW8zIDo9IG9yaWVudGF0aW9uKHAyLCBxMiwgcDEpCglvNCA6PSBvcmllbnRhdGlvbihwMiwgcTIsIHExKQoKCS8vIEdlbmVyYWwgY2FzZQoJaWYgbzEgIT0gbzIgJiYgbzMgIT0gbzQgewoJCXJldHVybiB0cnVlCgl9CgkvLyBTcGVjaWFsIENhc2VzCgkvLyBwMSwgcTEgYW5kIHAyIGFyZSBjb2xpbmVhciBhbmQgcDIgbGllcyBvbiBzZWdtZW50IHAxcTEKCWlmIG8xID09IDAgJiYgb25TZWdtZW50KHAxLCBwMiwgcTEpIHsKCQlyZXR1cm4gdHJ1ZQoJfQoJLy8gcDEsIHExIGFuZCBwMiBhcmUgY29saW5lYXIgYW5kIHEyIGxpZXMgb24gc2VnbWVudCBwMXExCglpZiBvMiA9PSAwICYmIG9uU2VnbWVudChwMSwgcTIsIHExKSB7CgkJcmV0dXJuIHRydWUKCX0KCS8vIHAyLCBxMiBhbmQgcDEgYXJlIGNvbGluZWFyIGFuZCBwMSBsaWVzIG9uIHNlZ21lbnQgcDJxMgoJaWYgbzMgPT0gMCAmJiBvblNlZ21lbnQocDIsIHAxLCBxMikgewoJCXJldHVybiB0cnVlCgl9CgkvLyBwMiwgcTIgYW5kIHExIGFyZSBjb2xpbmVhciBhbmQgcTEgbGllcyBvbiBzZWdtZW50IHAycTIKCWlmIG80ID09IDAgJiYgb25TZWdtZW50KHAyLCBxMSwgcTIpIHsKCQlyZXR1cm4gdHJ1ZQoJfQoJcmV0dXJuIGZhbHNlIC8vIERvZXNuJ3QgZmFsbCBpbiBhbnkgb2YgdGhlIGFib3ZlIGNhc2VzCn0K</text>
+        <text encoding="base64">dHlwZSBMaW5lIHN0cnVjdCB7CglJZCBzdHJpbmcgIGB4bWw6ImlkLGF0dHIsb21pdGVtcHR5ImAKCVgxIGZsb2F0NjQgYHhtbDoieDEsYXR0ciJgCglZMSBmbG9hdDY0IGB4bWw6InkxLGF0dHIiYAoJWDIgZmxvYXQ2NCBgeG1sOiJ4MixhdHRyImAKCVkyIGZsb2F0NjQgYHhtbDoieTIsYXR0ciJgCn0K</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
