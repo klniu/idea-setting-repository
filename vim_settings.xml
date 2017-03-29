@@ -349,10 +349,12 @@
         <mark key="." line="3" column="15" />
         <mark key="^" line="3" column="15" />
       </file>
-      <file name="$USER_HOME$/workdir/web/vocs-react/src/components/upload.tsx" timestamp="1490752832134">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/workdir/web/vocs-react/src/components/upload.tsx" timestamp="1490753581213">
+        <mark key="'" line="32" column="22" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="16" column="17" />
       </file>
       <file name="$USER_HOME$/sync/code/java/livesim/src/test/java/TreeTest.java" timestamp="1479183596751">
         <mark key="[" line="17" column="37" />
@@ -1030,7 +1032,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="135" column="70" filename="$USER_HOME$/workdir/web/vocs-react/src/components/treePage.tsx" />
       <jump line="13" column="4" filename="$USER_HOME$/workdir/web/vocs-react/src/components/treePage.tsx" />
       <jump line="75" column="66" filename="$USER_HOME$/workdir/web/vocs-react/src/components/treePage.tsx" />
       <jump line="101" column="26" filename="$USER_HOME$/workdir/web/vocs-react/src/components/treePage.tsx" />
@@ -1130,13 +1131,14 @@
       <jump line="19" column="14" filename="$USER_HOME$/workdir/web/vocs-react/src/components/upload.tsx" />
       <jump line="123" column="36" filename="$USER_HOME$/workdir/web/vocs-react/src/components/upload.tsx" />
       <jump line="18" column="16" filename="$USER_HOME$/workdir/web/vocs-react/src/components/upload.tsx" />
+      <jump line="33" column="22" filename="$USER_HOME$/workdir/web/vocs-react/src/components/upload.tsx" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBwcm9wczogewogICAgICAgICAgICBkaXNhYmxlZERhdGU6IE5vRnV0dXJlRGF0ZQogICAgICAgIH0sCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBVcGxvYWRQcm9wcwo=</text>
+        <text encoding="base64">aW1wb3J0IHtVcGxvYWRQcm9wc30gZnJvbSAiYW50ZC9saWIvdXBsb2FkIjsK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -1243,40 +1245,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>React.PropTypes.string</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkYXRhXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB1cmw6IFJlYWN0LlByb3BUeXBlcy5zdHJpbmcsCiAgICAgICAgc2hvdzogUmVhY3QuUHJvcFR5cGVzLmJvb2wuaXNSZXF1aXJlZCwKICAgICAgICBkYXRhOiBSZWFjdC5Qcm9wVHlwZXMub2JqZWN0LAogICAgICAgIG11bHRpcGxlOiBSZWFjdC5Qcm9wVHlwZXMuYm9vbCwKICAgICAgICBhY2NlcHQ6IFJlYWN0LlByb3BUeXBlcy5zdHJpbmcsCiAgICAgICAgbWF4U2l6ZTogUmVhY3QuUHJvcFR5cGVzLm51bWJlciwKICAgICAgICBvbkNvbXBsZXRlOiBSZWFjdC5Qcm9wVHlwZXMuZnVuYywK</text>
+        <text encoding="base64">ICAgIHVybDogc3RyaW5nCiAgICBzaG93OiBib29sZWFuCiAgICBkYXRhPzogSVN0cmluZ0FueU1hcCwKICAgIG11bHRpcGxlPzogYm9vbGVhbiwKICAgIGFjY2VwdD86IHN0cmluZywKICAgIG1heFNpemU/OiBudW1iZXIsCiAgICBvbkNvbXBsZXRlPzogRnVuY3Rpb24sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBVcGxvYWRQcm9wcwo=</text>
+        <text encoding="base64">aW1wb3J0IHtVcGxvYWRQcm9wc30gZnJvbSAiYW50ZC9saWIvdXBsb2FkIjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN0YXRpYyBwcm9wVHlwZXMgPSB7CiAgICAgICAgdXJsOiBSZWFjdC5Qcm9wVHlwZXMuc3RyaW5nLAogICAgICAgIHNob3c6IFJlYWN0LlByb3BUeXBlcy5ib29sLmlzUmVxdWlyZWQsCiAgICAgICAgZGF0YTogUmVhY3QuUHJvcFR5cGVzLm9iamVjdCwKICAgICAgICBtdWx0aXBsZTogUmVhY3QuUHJvcFR5cGVzLmJvb2wsCiAgICAgICAgYWNjZXB0OiBSZWFjdC5Qcm9wVHlwZXMuc3RyaW5nLAogICAgICAgIG1heFNpemU6IFJlYWN0LlByb3BUeXBlcy5udW1iZXIsCiAgICAgICAgb25Db21wbGV0ZTogUmVhY3QuUHJvcFR5cGVzLmZ1bmMsCiAgICB9Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBVcGxvYWRQcm9wcwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gcm93IGtleSBpcyBJRAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIGZvcm0K</text>
+        <text encoding="base64">Ly8gcm93IGtleSBpcyBJRAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzaG93OiBmYWxzZSwKICAgICAgICB0aXRsZTogIiIsCiAgICAgICAgZm9ybU9wdGlvbnM6IFtdLAogICAgICAgIG9uQ29tcGxldGU6IHRoaXMub25Db21wbGV0ZUZvcm0sCiAgICAgICAgdXJsOiAiIgogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHVybDogc3RyaW5nCg==</text>
+        <text encoding="base64">ICAgIC8vIGZvcm0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzaG93OiBmYWxzZSwKICAgICAgICB0aXRsZTogIiIsCiAgICAgICAgZm9ybU9wdGlvbnM6IFtdLAogICAgICAgIG9uQ29tcGxldGU6IHRoaXMub25Db21wbGV0ZUZvcm0sCiAgICAgICAgdXJsOiAiIgogICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
