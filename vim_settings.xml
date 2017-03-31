@@ -686,11 +686,11 @@
         <mark key="^" line="36" column="23" />
         <mark key="." line="36" column="23" />
       </file>
-      <file name="$USER_HOME$/workdir/web/vocs-react/src/less/theme.js" timestamp="1490922421725">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="4" column="1" />
+      <file name="$USER_HOME$/workdir/web/vocs-react/src/less/theme.js" timestamp="1490930091137">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/sync/code/java/xiaoyi/src/main/java/com/klniu/xiaoyi/BDYuYin/BDRecognize.java" timestamp="1484225825787">
         <mark key="[" line="36" column="59" />
@@ -890,11 +890,12 @@
         <mark key="^" line="81" column="21" />
         <mark key="." line="81" column="21" />
       </file>
-      <file name="$USER_HOME$/workdir/web/vocs-react/webpack-dev.config.js" timestamp="1490928552150">
-        <mark key="[" line="95" column="46" />
-        <mark key="]" line="95" column="57" />
-        <mark key="." line="95" column="57" />
-        <mark key="^" line="95" column="57" />
+      <file name="$USER_HOME$/workdir/web/vocs-react/webpack-dev.config.js" timestamp="1490930392049">
+        <mark key="'" line="94" column="50" />
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="103" column="11" />
+        <mark key="." line="94" column="50" />
+        <mark key="^" line="94" column="50" />
       </file>
       <file name="/Dummy.txt" timestamp="1490856471657">
         <mark key="[" line="0" column="0" />
@@ -1045,7 +1046,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="49" filename="$USER_HOME$/workdir/web/vocs-react/src/components/treePage.tsx" />
       <jump line="474" column="18" filename="$USER_HOME$/workdir/web/vocs-react/src/components/treePage.tsx" />
       <jump line="482" column="24" filename="$USER_HOME$/workdir/web/vocs-react/src/components/treePage.tsx" />
       <jump line="198" column="8" filename="$USER_HOME$/workdir/web/vocs-react/src/components/treePage.tsx" />
@@ -1145,13 +1145,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/workdir/web/vocs-react/webpack-dev.config.js" />
       <jump line="130" column="8" filename="$USER_HOME$/workdir/web/vocs-react/webpack-dev.config.js" />
       <jump line="84" column="78" filename="$USER_HOME$/workdir/web/vocs-react/webpack-dev.config.js" />
+      <jump line="94" column="50" filename="$USER_HOME$/workdir/web/vocs-react/webpack-dev.config.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVmcmVzaFNlYXJjaEZvcm06IHJhbmRvbVN0cigpCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>read</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB9LCB7CiAgICAgICAgICAgIHRlc3Q6IC9cLmxlc3MkLywKICAgICAgICAgICAgdXNlOiBleHRyYWN0TGVzcy5leHRyYWN0KHsKICAgICAgICAgICAgICAgICAgICB1c2U6IFsKICAgICAgICAgICAgICAgICAgICAgICAgImNzcy1sb2FkZXIiLAogICAgICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBsb2FkZXI6ICJwb3N0Y3NzLWxvYWRlciIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBvcHRpb25zOiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcGx1Z2luczogZnVuY3Rpb24gKCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gWwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmVxdWlyZSgnYXV0b3ByZWZpeGVyJykKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgXTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgIH0sIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxvYWRlcjogImxlc3MtbG9hZGVyIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9wdGlvbnM6IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAic291cmNlTWFwIjogdHJ1ZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyJtb2RpZnlWYXJzIjogeyJmb250LXNpemUtYmFzZSI6ICIxNHB4IiwgImljb24tdXJsIjogIicvanMvaWNvbmZvbnQvaWNvbmZvbnQnIn0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAibW9kaWZ5VmFycyI6IHRoZW1lCgogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgXSwKICAgICAgICAgICAgICAgICAgICAvLyB1c2Ugc3R5bGUtbG9hZGVyIGluIGRldmVsb3BtZW50CiAgICAgICAgICAgICAgICAgICAgZmFsbGJhY2s6ICJzdHlsZS1sb2FkZXIiCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICkKICAgICAgICB9LCB7Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -1258,40 +1259,42 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>read</text>
+        <text>JSON.stringify(fs.readFileSync('./src/less/theme.js', 'utf-8'))</text>
       </register>
       <register name="/" type="4">
         <text>json</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyJtb2RpZnlWYXJzIjogeyJmb250LXNpemUtYmFzZSI6ICIxNHB4IiwgImljb24tdXJsIjogIicvanMvaWNvbmZvbnQvaWNvbmZvbnQnIn0K</text>
+        <text encoding="base64">ICAgICAgICB9LCB7CiAgICAgICAgICAgIHRlc3Q6IC9cLmxlc3MkLywKICAgICAgICAgICAgdXNlOiBleHRyYWN0TGVzcy5leHRyYWN0KHsKICAgICAgICAgICAgICAgICAgICB1c2U6IFsKICAgICAgICAgICAgICAgICAgICAgICAgImNzcy1sb2FkZXIiLAogICAgICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBsb2FkZXI6ICJwb3N0Y3NzLWxvYWRlciIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBvcHRpb25zOiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcGx1Z2luczogZnVuY3Rpb24gKCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gWwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmVxdWlyZSgnYXV0b3ByZWZpeGVyJykKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgXTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgIH0sIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxvYWRlcjogImxlc3MtbG9hZGVyIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9wdGlvbnM6IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAic291cmNlTWFwIjogdHJ1ZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyJtb2RpZnlWYXJzIjogeyJmb250LXNpemUtYmFzZSI6ICIxNHB4IiwgImljb24tdXJsIjogIicvanMvaWNvbmZvbnQvaWNvbmZvbnQnIn0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAibW9kaWZ5VmFycyI6IHRoZW1lCgogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgXSwKICAgICAgICAgICAgICAgICAgICAvLyB1c2Ugc3R5bGUtbG9hZGVyIGluIGRldmVsb3BtZW50CiAgICAgICAgICAgICAgICAgICAgZmFsbGJhY2s6ICJzdHlsZS1sb2FkZXIiCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlcXVpcmUoJ3ByZWNzcycpLAo=</text>
+        <text encoding="base64">ewp9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICdwcmltYXJ5LWNvbG9yJzogJyMxREE1N0EnLAogICAgJ2xpbmstY29sb3InOiAnIzFEQTU3QScsCiAgICAnYm9yZGVyLXJhZGl1cy1iYXNlJzogJzJweCcsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgInBvc3Rjc3MtbG9hZGVyIiwK</text>
+        <text encoding="base64">ICAiZm9udC1zaXplLWJhc2UiOiAiMTRweCIsCiAgImljb24tdXJsIjogIicvanMvaWNvbmZvbnQvaWNvbmZvbnQnIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgImNzcy1sb2FkZXIiLCBiYWJlbE9wdGlvbgo=</text>
+        <text encoding="base64">Y29uc29sZS5sb2codGhlbWUpCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7Cg==</text>
+      <register name="5" type="8">
+        <text>//
+//
+//</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlcXVpcmUoJ3ByZWNzcycpLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9XQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgInBvc3Rjc3MtbG9hZGVyIiwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICB0ZXN0OiAvXC5sZXNzJC8sCiAgICAgICAgICAgIHVzZXI6WwogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIGxvYWRlcjogJ3N0eWxlLWxvYWRlcicsCiAgICAgICAgICAgICAgICB9LHsKCiAgICAgICAgICAgICAgICAgICAgbG9hZGVyOiAnY3NzLWxvYWRlcicsCiAgICAgICAgICAgICAgICB9LHsKICAgICAgICAgICAgICAgICAgICBsb2FkZXI6ICdwb3N0Y3NzJywKICAgICAgICAgICAgICAgIH0sIHsKICAgICAgICAgICAgICAgICAgICBsb2FkZXI6ICdsZXNzLWxvYWRlcicsCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIF0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgImNzcy1sb2FkZXIiLCBiYWJlbE9wdGlvbgo=</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
