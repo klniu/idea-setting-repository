@@ -590,11 +590,11 @@
         <mark key="." line="25" column="35" />
         <mark key="^" line="15" column="45" />
       </file>
-      <file name="$USER_HOME$/workdir/web/vocs-react/src/less/theme.json" timestamp="1490923451530">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="28" />
-        <mark key="." line="0" column="27" />
-        <mark key="^" line="0" column="3" />
+      <file name="$USER_HOME$/workdir/web/vocs-react/src/less/theme.json" timestamp="1490928339928">
+        <mark key="[" line="2" column="16" />
+        <mark key="]" line="2" column="16" />
+        <mark key="." line="2" column="16" />
+        <mark key="^" line="2" column="16" />
       </file>
       <file name="$USER_HOME$/workdir/web/vocs-react/package.json" timestamp="1490865184115">
         <mark key="[" line="41" column="0" />
@@ -890,11 +890,11 @@
         <mark key="^" line="81" column="21" />
         <mark key="." line="81" column="21" />
       </file>
-      <file name="$USER_HOME$/workdir/web/vocs-react/webpack-dev.config.js" timestamp="1490924532379">
-        <mark key="[" line="80" column="24" />
-        <mark key="]" line="80" column="30" />
-        <mark key="." line="80" column="30" />
-        <mark key="^" line="80" column="30" />
+      <file name="$USER_HOME$/workdir/web/vocs-react/webpack-dev.config.js" timestamp="1490928552150">
+        <mark key="[" line="95" column="46" />
+        <mark key="]" line="95" column="57" />
+        <mark key="." line="95" column="57" />
+        <mark key="^" line="95" column="57" />
       </file>
       <file name="/Dummy.txt" timestamp="1490856471657">
         <mark key="[" line="0" column="0" />
@@ -1150,8 +1150,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVmcmVzaFNlYXJjaEZvcm06IHJhbmRvbVN0cigpCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>read</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -1258,40 +1258,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>theme</text>
+        <text>read</text>
       </register>
       <register name="/" type="4">
         <text>json</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">eyAiQGZvbnQtc2l6ZS1iYXNlIjogIjE0cHgiIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyJtb2RpZnlWYXJzIjogeyJmb250LXNpemUtYmFzZSI6ICIxNHB4IiwgImljb24tdXJsIjogIicvanMvaWNvbmZvbnQvaWNvbmZvbnQnIn0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlcXVpcmUoJ3ByZWNzcycpLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgInBvc3Rjc3MtbG9hZGVyIiwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICB0ZXN0OiAvXC5sZXNzJC8sCiAgICAgICAgICAgIGxvYWRlcjogJ3N0eWxlLWxvYWRlciFjc3MtbG9hZGVyP2ltcG9ydExvYWRlcnM9MiFwb3N0Y3NzIScgKwogICAgICAgICAgICBgbGVzcy1sb2FkZXI/eyJzb3VyY2VNYXAiOnRydWUsIm1vZGlmeVZhcnMiOiR7IEpTT04uc3RyaW5naWZ5KCl9fWAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgImNzcy1sb2FkZXIiLCBiYWJlbE9wdGlvbgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZhbGxiYWNrOiAic3R5bGUtbG9hZGVyIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHVzZSBzdHlsZS1sb2FkZXIgaW4gZGV2ZWxvcG1lbnQK</text>
+        <text encoding="base64">ICAgICAgICB9XQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH1dLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICB0ZXN0OiAvXC5sZXNzJC8sCiAgICAgICAgICAgIHVzZXI6WwogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIGxvYWRlcjogJ3N0eWxlLWxvYWRlcicsCiAgICAgICAgICAgICAgICB9LHsKCiAgICAgICAgICAgICAgICAgICAgbG9hZGVyOiAnY3NzLWxvYWRlcicsCiAgICAgICAgICAgICAgICB9LHsKICAgICAgICAgICAgICAgICAgICBsb2FkZXI6ICdwb3N0Y3NzJywKICAgICAgICAgICAgICAgIH0sIHsKICAgICAgICAgICAgICAgICAgICBsb2FkZXI6ICdsZXNzLWxvYWRlcicsCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIF0K</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
