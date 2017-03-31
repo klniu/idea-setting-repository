@@ -391,12 +391,12 @@
         <mark key="." line="11" column="11" />
         <mark key="^" line="6" column="18" />
       </file>
-      <file name="$USER_HOME$/workdir/web/vocs-react/src/entry/seal.tsx" timestamp="1490949834169">
+      <file name="$USER_HOME$/workdir/web/vocs-react/src/entry/seal.tsx" timestamp="1490951882626">
         <mark key="'" line="12" column="0" />
-        <mark key="[" line="222" column="0" />
-        <mark key="]" line="222" column="52" />
-        <mark key="^" line="60" column="39" />
-        <mark key="." line="60" column="39" />
+        <mark key="[" line="93" column="65" />
+        <mark key="]" line="93" column="65" />
+        <mark key="^" line="93" column="65" />
+        <mark key="." line="93" column="65" />
       </file>
       <file name="$USER_HOME$/sync/code/go/src/mingerserver/robotserver/communication.go" timestamp="1489582977599">
         <mark key="'" line="102" column="0" />
@@ -762,12 +762,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workdir/web/vocs-react/src/entry/photo.tsx" timestamp="1490950087835">
-        <mark key="'" line="104" column="36" />
-        <mark key="[" line="34" column="41" />
-        <mark key="]" line="34" column="55" />
-        <mark key="." line="34" column="55" />
-        <mark key="^" line="34" column="55" />
+      <file name="$USER_HOME$/workdir/web/vocs-react/src/entry/photo.tsx" timestamp="1490951812537">
+        <mark key="'" line="31" column="8" />
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="98" column="0" />
+        <mark key="." line="98" column="0" />
+        <mark key="^" line="107" column="54" />
       </file>
       <file name="$USER_HOME$/sync/code/java/xiaoyi/src/main/java/com/klniu/xiaoyi/AudioPlayer.java" timestamp="1484140163332">
         <mark key="'" line="19" column="14" />
@@ -1051,13 +1051,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="149" column="12" filename="$USER_HOME$/workdir/web/vocs-react/src/entry/detection.tsx" />
-      <jump line="87" column="33" filename="$USER_HOME$/workdir/web/vocs-react/src/entry/detection.tsx" />
-      <jump line="162" column="35" filename="$USER_HOME$/workdir/web/vocs-react/src/entry/detection.tsx" />
-      <jump line="11" column="24" filename="$USER_HOME$/workdir/web/vocs-react/src/entry/sealscount.tsx" />
-      <jump line="0" column="0" filename="$USER_HOME$/workdir/web/vocs-react/src/components/statistic.tsx" />
-      <jump line="140" column="29" filename="$USER_HOME$/workdir/web/vocs-react/src/components/statistic.tsx" />
-      <jump line="23" column="17" filename="$USER_HOME$/workdir/web/vocs-react/src/components/statistic.tsx" />
       <jump line="141" column="44" filename="$USER_HOME$/workdir/web/vocs-react/src/components/statistic.tsx" />
       <jump line="101" column="44" filename="$USER_HOME$/workdir/web/vocs-react/src/entry/emission.tsx" />
       <jump line="25" column="14" filename="$USER_HOME$/workdir/web/vocs-react/src/less/style.less" />
@@ -1151,13 +1144,20 @@
       <jump line="24" column="4" filename="$USER_HOME$/workdir/web/vocs-react/src/components/photoedit.tsx" />
       <jump line="55" column="8" filename="$USER_HOME$/workdir/web/vocs-react/src/components/photoedit.tsx" />
       <jump line="76" column="0" filename="$USER_HOME$/workdir/web/vocs-react/src/components/photoedit.tsx" />
+      <jump line="99" column="12" filename="$USER_HOME$/workdir/web/vocs-react/src/entry/photo.tsx" />
+      <jump line="100" column="27" filename="$USER_HOME$/workdir/web/vocs-react/src/entry/photo.tsx" />
+      <jump line="105" column="32" filename="$USER_HOME$/workdir/web/vocs-react/src/entry/photo.tsx" />
+      <jump line="235" column="48" filename="$USER_HOME$/workdir/web/vocs-react/src/entry/photo.tsx" />
+      <jump line="8" column="56" filename="$USER_HOME$/workdir/web/vocs-react/src/entry/photo.tsx" />
+      <jump line="17" column="4" filename="$USER_HOME$/workdir/web/vocs-react/src/entry/photo.tsx" />
+      <jump line="31" column="8" filename="$USER_HOME$/workdir/web/vocs-react/src/entry/photo.tsx" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVmcmVzaFNlYXJjaEZvcm06IHJhbmRvbVN0cigpCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>succ</text>
+        <text>,</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -1264,49 +1264,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>succ</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhbGVydFw+</text>
+        <text encoding="base64">XDx1cGxvYWRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxVcGxvYWRNb2RhbCB7Li4udGhpcy5zdGF0ZS51cGxvYWR9Lz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXBsb2FkOiB1cGRhdGUoCiAgICAgICAgICAgICAgICB0aGlzLnN0YXRlLnVwbG9hZCwgewogICAgICAgICAgICAgICAgICAgICRtZXJnZTogewogICAgICAgICAgICAgICAgICAgICAgICBzaG93OiB0cnVlLAogICAgICAgICAgICAgICAgICAgICAgICBvbkNvbXBsZXRlOiBmdW5jdGlvbiAoKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aGlzLnNldFN0YXRlKHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB1cGxvYWQ6IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2hvdzogZmFsc2UKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlZnJlc2hUYWJsZTogcmFuZG9tU3RyKCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICAgICAgICAgICAgICB9LmJpbmQodGhpcykKICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZWZyZXNoVGFibGU6IHJhbmRvbVN0cigpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9LAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB1cGxvYWQ6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2hvdzogZmFsc2UK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHVwbG9hZDoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB1cGxvYWQ6IHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBnZXRVbml0c0luc3RhbGxzKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBvbkNvbXBsZXRlOiBmdW5jdGlvbiAoKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRoaXMuc2V0U3RhdGUoewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdXBsb2FkOiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2hvdzogZmFsc2UKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZWZyZXNoVGFibGU6IHJhbmRvbVN0cigpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0uYmluZCh0aGlzKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLnN0YXRlLnVwbG9hZCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBvbkNvbXBsZXRlOiBmdW5jdGlvbiAoKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRoaXMuc2V0U3RhdGUoewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdXBsb2FkOiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2hvdzogZmFsc2UKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1heFNpemU6IDUwLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRoaXMuc2V0U3RhdGUoewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHVwbG9hZDogewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzaG93OiBmYWxzZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFjY2VwdDogIi54bHN4IiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZWZyZXNoVGFibGU6IHJhbmRvbVN0cigpCg==</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhbGVydFw+</last-search>
+      <last-search encoding="base64">XDx1cGxvYWRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhbGVydFw+</last-pattern>
+      <last-pattern encoding="base64">XDx1cGxvYWRcPg==</last-pattern>
       <last-replace>offset={\1}</last-replace>
       <last-substitute>offset=&quot;\(\d\+\)&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1329,11 +1329,11 @@
         <entry encoding="base64">XDxleGlzdHNTeW5jXD4=</entry>
         <entry>json</entry>
         <entry encoding="base64">XDxmaWVsZFByb3BzXD4=</entry>
-        <entry encoding="base64">XDx1cGxvYWRcPg==</entry>
         <entry encoding="base64">XDx1cGRhdGVcPg==</entry>
         <entry encoding="base64">XDxVbml0SW5zdGFsbFRyZWVcPg==</entry>
         <entry>messages</entry>
         <entry encoding="base64">XDxhbGVydFw+</entry>
+        <entry encoding="base64">XDx1cGxvYWRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyQvKS9nYw==</entry>
