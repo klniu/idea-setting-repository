@@ -340,8 +340,8 @@
         <mark key="." line="3" column="15" />
         <mark key="^" line="3" column="15" />
       </file>
-      <file name="$USER_HOME$/workdir/web/vocs-react/src/components/upload.tsx" timestamp="1491015521825">
-        <mark key="'" line="111" column="30" />
+      <file name="$USER_HOME$/workdir/web/vocs-react/src/components/upload.tsx" timestamp="1491020606896">
+        <mark key="'" line="33" column="12" />
         <mark key="[" line="10" column="33" />
         <mark key="]" line="10" column="97" />
         <mark key="." line="10" column="97" />
@@ -762,11 +762,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workdir/web/vocs-react/src/entry/photo.tsx" timestamp="1491015793383">
+      <file name="$USER_HOME$/workdir/web/vocs-react/src/entry/photo.tsx" timestamp="1491021031830">
         <mark key="'" line="31" column="8" />
-        <mark key="[" line="103" column="0" />
-        <mark key="]" line="105" column="26" />
-        <mark key="." line="103" column="0" />
+        <mark key="[" line="34" column="33" />
+        <mark key="]" line="34" column="37" />
+        <mark key="." line="34" column="37" />
+        <mark key="^" line="34" column="37" />
       </file>
       <file name="$USER_HOME$/sync/code/java/xiaoyi/src/main/java/com/klniu/xiaoyi/AudioPlayer.java" timestamp="1484140163332">
         <mark key="'" line="19" column="14" />
@@ -1050,15 +1051,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="14" filename="$USER_HOME$/workdir/web/vocs-react/src/less/style.less" />
-      <jump line="73" column="13" filename="$USER_HOME$/workdir/web/vocs-react/webpack-dev.config.js" />
-      <jump line="78" column="41" filename="$USER_HOME$/workdir/web/vocs-react/webpack-dev.config.js" />
-      <jump line="80" column="0" filename="$USER_HOME$/workdir/web/vocs-react/webpack-dev.config.js" />
-      <jump line="31" column="24" filename="$USER_HOME$/workdir/web/vocs-react/webpack-dev.config.js" />
-      <jump line="26" column="15" filename="$USER_HOME$/workdir/web/vocs-react/webpack-dev.config.js" />
-      <jump line="3" column="20" filename="$USER_HOME$/workdir/web/vocs-react/webpack-dev.config.js" />
-      <jump line="25" column="21" filename="$USER_HOME$/workdir/web/vocs-react/webpack-dev.config.js" />
-      <jump line="67" column="15" filename="$USER_HOME$/workdir/web/vocs-react/webpack-dev.config.js" />
       <jump line="86" column="51" filename="$USER_HOME$/workdir/web/vocs-react/webpack-dev.config.js" />
       <jump line="89" column="0" filename="$USER_HOME$/workdir/web/vocs-react/webpack-dev.config.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workdir/web/vocs-react/webpack-dev.config.js" />
@@ -1150,6 +1142,15 @@
       <jump line="31" column="8" filename="$USER_HOME$/workdir/web/vocs-react/src/entry/photo.tsx" />
       <jump line="119" column="50" filename="$USER_HOME$/workdir/web/vocs-react/src/components/upload.tsx" />
       <jump line="111" column="30" filename="$USER_HOME$/workdir/web/vocs-react/src/components/upload.tsx" />
+      <jump line="10" column="97" filename="$USER_HOME$/workdir/web/vocs-react/src/components/upload.tsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/workdir/web/vocs-react/src/components/upload.tsx" />
+      <jump line="36" column="22" filename="$USER_HOME$/workdir/web/vocs-react/src/components/upload.tsx" />
+      <jump line="37" column="22" filename="$USER_HOME$/workdir/web/vocs-react/src/components/upload.tsx" />
+      <jump line="40" column="44" filename="$USER_HOME$/workdir/web/vocs-react/src/components/upload.tsx" />
+      <jump line="62" column="34" filename="$USER_HOME$/workdir/web/vocs-react/src/components/upload.tsx" />
+      <jump line="63" column="18" filename="$USER_HOME$/workdir/web/vocs-react/src/components/upload.tsx" />
+      <jump line="68" column="34" filename="$USER_HOME$/workdir/web/vocs-react/src/components/upload.tsx" />
+      <jump line="33" column="12" filename="$USER_HOME$/workdir/web/vocs-react/src/components/upload.tsx" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1266,7 +1267,7 @@
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1cGxvYWRcPg==</text>
+        <text>file</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZGF0YTogewogICAgICAgICAgICAgICAgaW5zdGFsbDogdGhpcy5zdGF0ZS5pbnN0YWxsCiAgICAgICAgICAgIH0sCg==</text>
@@ -1303,17 +1304,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1cGxvYWRcPg==</last-search>
+      <last-search>file</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1cGxvYWRcPg==</last-pattern>
+      <last-pattern>file</last-pattern>
       <last-replace>offset={\1}</last-replace>
       <last-substitute>offset=&quot;\(\d\+\)&quot;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxvbkNhbmNlbEZvcm1cPg==</entry>
         <entry>childLo</entry>
         <entry>console</entry>
         <entry encoding="base64">XDxyb3dLZXlNYXBcPg==</entry>
@@ -1333,6 +1333,7 @@
         <entry>messages</entry>
         <entry encoding="base64">XDxhbGVydFw+</entry>
         <entry encoding="base64">XDx1cGxvYWRcPg==</entry>
+        <entry>file</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyQvKS9nYw==</entry>
