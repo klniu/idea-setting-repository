@@ -379,10 +379,9 @@
         <mark key="." line="11" column="23" />
         <mark key="^" line="11" column="23" />
       </file>
-      <file name="$USER_HOME$/sync/code/go/src/zhvocs/controllers/photo_test.go" timestamp="1491122613119">
-        <mark key="'" line="14" column="18" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="27" column="0" />
+      <file name="$USER_HOME$/sync/code/go/src/zhvocs/controllers/photo_test.go" timestamp="1491107127684">
+        <mark key="[" line="26" column="108" />
+        <mark key="]" line="26" column="108" />
         <mark key="^" line="26" column="108" />
         <mark key="." line="26" column="108" />
       </file>
@@ -569,8 +568,8 @@
         <mark key="." line="11" column="41" />
         <mark key="^" line="11" column="41" />
       </file>
-      <file name="$USER_HOME$/sync/code/go/src/zhvocs/controllers/common.go" timestamp="1491124173230">
-        <mark key="'" line="27" column="9" />
+      <file name="$USER_HOME$/sync/code/go/src/zhvocs/controllers/common.go" timestamp="1491102986926">
+        <mark key="'" line="27" column="53" />
         <mark key="[" line="128" column="35" />
         <mark key="]" line="128" column="43" />
         <mark key="^" line="128" column="43" />
@@ -637,12 +636,6 @@
         <mark key="]" line="19" column="50" />
         <mark key="." line="19" column="50" />
         <mark key="^" line="18" column="26" />
-      </file>
-      <file name="$USER_HOME$/sync/code/go/src/zhvocs/controllers/functions.go" timestamp="1491124403517">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="49" column="39" />
-        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/sync/code/java/mdtools/src/main/java/com/klniu/md/controller/JmolControl.java" timestamp="1482829169980">
         <mark key="'" line="14" column="23" />
@@ -928,7 +921,7 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1491124564649">
+      <file name="/Dummy.txt" timestamp="1491109752087">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
@@ -964,12 +957,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/sync/code/go/src/zhvocs/controllers/functions_test.go" timestamp="1491122981428">
-        <mark key="'" line="17" column="0" />
-        <mark key="[" line="31" column="45" />
-        <mark key="]" line="31" column="45" />
-        <mark key="." line="31" column="45" />
-        <mark key="^" line="26" column="21" />
+      <file name="$USER_HOME$/sync/code/go/src/zhvocs/controllers/functions_test.go" timestamp="1491106086501">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="22" column="0" />
       </file>
       <file name="$USER_HOME$/sync/code/java/xiaoyi/src/main/java/be/tarsos/dsp/example/Player.java" timestamp="1484135666923">
         <mark key="'" line="257" column="0" />
@@ -1012,11 +1003,12 @@
         <mark key="^" line="65" column="13" />
         <mark key="." line="65" column="13" />
       </file>
-      <file name="$USER_HOME$/sync/code/go/src/zhvocs/controllers/photo.go" timestamp="1491124188344">
-        <mark key="'" line="63" column="25" />
-        <mark key="[" line="563" column="0" />
-        <mark key="]" line="563" column="0" />
-        <mark key="." line="563" column="0" />
+      <file name="$USER_HOME$/sync/code/go/src/zhvocs/controllers/photo.go" timestamp="1491106107164">
+        <mark key="'" line="553" column="33" />
+        <mark key="[" line="569" column="5" />
+        <mark key="]" line="569" column="22" />
+        <mark key="." line="622" column="0" />
+        <mark key="^" line="620" column="29" />
       </file>
       <file name="$USER_HOME$/workdir/web/vocs-react/src/entry/install.tsx" timestamp="1490849582897">
         <mark key="'" line="53" column="82" />
@@ -1090,6 +1082,14 @@
       </file>
     </filemarks>
     <jumps>
+      <jump line="482" column="0" filename="$USER_HOME$/workdir/web/vocs-react/src/components/treePage.tsx" />
+      <jump line="8" column="33" filename="$USER_HOME$/workdir/web/vocs-react/src/components/treePage.tsx" />
+      <jump line="216" column="0" filename="$USER_HOME$/workdir/web/vocs-react/src/entry/photo.tsx" />
+      <jump line="211" column="79" filename="$USER_HOME$/workdir/web/vocs-react/src/entry/photo.tsx" />
+      <jump line="39" column="60" filename="$USER_HOME$/workdir/web/vocs-react/src/entry/photo.tsx" />
+      <jump line="4" column="62" filename="$USER_HOME$/workdir/web/vocs-react/src/entry/photo.tsx" />
+      <jump line="220" column="44" filename="$USER_HOME$/workdir/web/vocs-react/src/entry/photo.tsx" />
+      <jump line="252" column="77" filename="$USER_HOME$/workdir/web/vocs-react/src/entry/photo.tsx" />
       <jump line="12" column="17" filename="$USER_HOME$/workdir/web/vocs-react/src/entry/photo.tsx" />
       <jump line="215" column="72" filename="$USER_HOME$/workdir/web/vocs-react/src/entry/photo.tsx" />
       <jump line="0" column="0" filename="$USER_HOME$/workdir/web/vocs-react/src/entry/photo.tsx" />
@@ -1141,7 +1141,13 @@
       <jump line="120" column="24" filename="$USER_HOME$/workdir/web/vocs-react/src/components/treePage.tsx" />
       <jump line="223" column="44" filename="$USER_HOME$/workdir/web/vocs-react/src/entry/seal.tsx" />
       <jump line="529" column="12" filename="$USER_HOME$/sync/code/go/src/zhvocs/controllers/photo.go" />
+      <jump line="553" column="82" filename="$USER_HOME$/sync/code/go/src/zhvocs/controllers/photo.go" />
       <jump line="591" column="15" filename="$USER_HOME$/sync/code/go/src/zhvocs/controllers/photo.go" />
+      <jump line="48" column="26" filename="$USER_HOME$/sync/code/go/src/zhvocs/controllers/photo.go" />
+      <jump line="56" column="16" filename="$USER_HOME$/sync/code/go/src/zhvocs/controllers/photo.go" />
+      <jump line="57" column="46" filename="$USER_HOME$/sync/code/go/src/zhvocs/controllers/photo.go" />
+      <jump line="58" column="66" filename="$USER_HOME$/sync/code/go/src/zhvocs/controllers/photo.go" />
+      <jump line="63" column="25" filename="$USER_HOME$/sync/code/go/src/zhvocs/controllers/photo.go" />
       <jump line="88" column="82" filename="$USER_HOME$/sync/code/go/src/zhvocs/controllers/photo.go" />
       <jump line="94" column="27" filename="$USER_HOME$/sync/code/go/src/zhvocs/controllers/photo.go" />
       <jump line="95" column="12" filename="$USER_HOME$/sync/code/go/src/zhvocs/controllers/photo.go" />
@@ -1149,11 +1155,13 @@
       <jump line="160" column="70" filename="$USER_HOME$/sync/code/go/src/zhvocs/controllers/photo.go" />
       <jump line="179" column="7" filename="$USER_HOME$/sync/code/go/src/zhvocs/controllers/photo.go" />
       <jump line="130" column="30" filename="$USER_HOME$/sync/code/go/src/zhvocs/controllers/common.go" />
+      <jump line="27" column="53" filename="$USER_HOME$/sync/code/go/src/zhvocs/controllers/common.go" />
       <jump line="215" column="61" filename="$USER_HOME$/sync/code/go/src/zhvocs/controllers/photo.go" />
       <jump line="552" column="30" filename="$USER_HOME$/sync/code/go/src/zhvocs/controllers/photo.go" />
       <jump line="500" column="12" filename="$USER_HOME$/sync/code/go/src/zhvocs/controllers/photo.go" />
       <jump line="454" column="5" filename="$USER_HOME$/sync/code/go/src/ldar/component.go" />
       <jump line="549" column="33" filename="$USER_HOME$/sync/code/go/src/zhvocs/controllers/photo.go" />
+      <jump line="14" column="0" filename="$USER_HOME$/sync/code/go/src/zhvocs/controllers/functions_test.go" />
       <jump line="158" column="73" filename="$USER_HOME$/sync/code/go/src/ldar/sql_test.go" />
       <jump line="414" column="21" filename="$USER_HOME$/sync/code/go/src/ldar/sql.go" />
       <jump line="55" column="27" filename="$USER_HOME$/sync/code/go/src/ldar/sql_test.go" />
@@ -1174,29 +1182,13 @@
       <jump line="56" column="20" filename="$USER_HOME$/sync/code/go/src/ldar/sql.go" />
       <jump line="420" column="18" filename="$USER_HOME$/sync/code/go/src/ldar/sql.go" />
       <jump line="39" column="7" filename="$USER_HOME$/sync/code/go/src/ldar/sql.go" />
-      <jump line="553" column="30" filename="$USER_HOME$/sync/code/go/src/zhvocs/controllers/photo.go" />
-      <jump line="568" column="28" filename="$USER_HOME$/sync/code/go/src/zhvocs/controllers/photo.go" />
-      <jump line="14" column="0" filename="$USER_HOME$/sync/code/go/src/zhvocs/controllers/functions_test.go" />
-      <jump line="14" column="18" filename="$USER_HOME$/sync/code/go/src/zhvocs/controllers/photo_test.go" />
-      <jump line="46" column="24" filename="$USER_HOME$/sync/code/go/src/zhvocs/controllers/functions.go" />
-      <jump line="543" column="18" filename="$USER_HOME$/sync/code/go/src/zhvocs/controllers/photo.go" />
-      <jump line="0" column="0" filename="$USER_HOME$/sync/code/go/src/zhvocs/controllers/photo.go" />
-      <jump line="48" column="26" filename="$USER_HOME$/sync/code/go/src/zhvocs/controllers/photo.go" />
-      <jump line="56" column="16" filename="$USER_HOME$/sync/code/go/src/zhvocs/controllers/photo.go" />
-      <jump line="57" column="46" filename="$USER_HOME$/sync/code/go/src/zhvocs/controllers/photo.go" />
-      <jump line="58" column="66" filename="$USER_HOME$/sync/code/go/src/zhvocs/controllers/photo.go" />
-      <jump line="27" column="9" filename="$USER_HOME$/sync/code/go/src/zhvocs/controllers/common.go" />
-      <jump line="63" column="25" filename="$USER_HOME$/sync/code/go/src/zhvocs/controllers/photo.go" />
-      <jump line="50" column="39" filename="$USER_HOME$/sync/code/go/src/zhvocs/controllers/functions.go" />
-      <jump line="73" column="0" filename="$USER_HOME$/sync/code/go/src/zhvocs/controllers/functions.go" />
-      <jump line="4" column="5" filename="$USER_HOME$/sync/code/go/src/zhvocs/controllers/functions.go" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVmcmVzaFNlYXJjaEZvcm06IHJhbmRvbVN0cigpCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CSJmbXQiCg==</text>
+      <register name="&quot;" type="4">
+        <text>Formatter</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -1303,49 +1295,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Name</text>
+        <text>Formatter</text>
       </register>
       <register name="/" type="4">
-        <text>fmt</text>
+        <text>debug</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQliYXNlbmFtZSA6PSBzdHJpbmdzLlRyaW1TdWZmaXgoZi5OYW1lLCBmaWxlcGF0aC5FeHQoZi5OYW1lKSkK</text>
+        <text encoding="base64">CXZhciByZXN1bHRzIFtdcmVzdWx0Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CSJmbXQiCg==</text>
+        <text encoding="base64">CWMuQXNzZXJ0KGVyciwgSXNOaWwpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlmbXQuUHJpbnRsbigxLCBmLk5hbWUpCg==</text>
+        <text encoding="base64">CXNlYWxzLCBlcnIgOj0gZC5Db21wb25lbnRzKC0xLCAtMSwgImluc3RhbGxfaWQ9PyIsIDEpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQliYXNlbmFtZSA6PSAK</text>
+        <text encoding="base64">CWZtdC5QcmludGxuKHNlYWxzKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlmbXQuUHJpbnRsbigyLCBmLk5hbWUpCg==</text>
+        <text encoding="base64">CWZtdC5QcmludGxuKG5hbWVzKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlmbXQuUHJpbnRsbigyLCBmLk5hbWUpCg==</text>
+        <text encoding="base64">CXZhciByZXMgcmVzdWx0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlmbXQuUHJpbnRsbihmLk5hbWUpCg==</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXR5cGUgcmVzdWx0IHN0cnVjdCB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gVW56aXBBbmRDaGVja0V4dHJhIHVuemlwIGEgemlwIGZpbGUsIGFuZCBjaGVjayBpZiB0aGVyZSBhcmUgbmFtZXMgd2hpY2ggaXMgbm90IGluIG5hbWUgbGlzdC4KZnVuYyBVbnppcEFuZENoZWNrRXh0cmEoc3JjIGlvLlJlYWRlckF0LCBzaXplIGludDY0LCBpbWFnZU5hbWVzIFtdc3RyaW5nLCBkZXN0IHN0cmluZykgKGNvdW50IGludCwKCWlnbm9yZU5hbWVzIFtdc3RyaW5nLCBlcnIgZXJyb3IpIHsKCXJjLCBlcnIgOj0gemlwLk5ld1JlYWRlcihzcmMsIHNpemUpCglpZiBlcnIgIT0gbmlsIHsKCQlyZXR1cm4KCX0KCgkvLyBDbG9zdXJlIHRvIGFkZHJlc3MgZmlsZSBkZXNjcmlwdG9ycyBpc3N1ZSB3aXRoIGFsbCB0aGUgZGVmZXJyZWQgLkNsb3NlKCkgbWV0aG9kcwoJZXh0cmFjdEFuZFdyaXRlRmlsZSA6PSBmdW5jKGYgKnppcC5GaWxlKSBlcnJvciB7CgkJcmMsIGVyciA6PSBmLk9wZW4oKQoJCWlmIGVyciAhPSBuaWwgewoJCQlyZXR1cm4gZXJyCgkJfQoJCWRlZmVyIGZ1bmMoKSB7CgkJCWlmIGVyciA6PSByYy5DbG9zZSgpOyBlcnIgIT0gbmlsIHsKCQkJCXBhbmljKGVycikKCQkJfQoJCX0oKQoKCQlwYXRoIDo9IGZpbGVwYXRoLkpvaW4oZGVzdCwgZi5OYW1lKQoKCQluZXdGaWxlLCBlcnIgOj0gb3MuT3BlbkZpbGUocGF0aCwgb3MuT19XUk9OTFl8b3MuT19DUkVBVEV8b3MuT19UUlVOQywgZi5Nb2RlKCkpCgkJaWYgZXJyICE9IG5pbCB7CgkJCXJldHVybiBlcnIKCQl9CgkJZGVmZXIgZnVuYygpIHsKCQkJaWYgZXJyIDo9IG5ld0ZpbGUuQ2xvc2UoKTsgZXJyICE9IG5pbCB7CgkJCQlwYW5pYyhlcnIpCgkJCX0KCQl9KCkKCgkJXywgZXJyID0gaW8uQ29weShuZXdGaWxlLCByYykKCQlyZXR1cm4gZXJyCgl9CgkvLyBzb3J0IG5hbWUgZm9yIGZhc3Qgc2VhcmNoCglzb3J0LlN0cmluZ3MoaW1hZ2VOYW1lcykKCWZvciBfLCBmIDo9IHJhbmdlIHJjLkZpbGUgewoJCS8vIGlnbm9yZSBwYXRocwoJCWlmIGYuRmlsZUluZm8oKS5Jc0RpcigpIHsKCQkJY29udGludWUKCQl9CgkJLy8gaWdub3JlIG5vbiBqcGcgZmlsZXMKCQlpZiBwYXRoLkV4dChmLk5hbWUpICE9ICIuanBnIiAmJiBwYXRoLkV4dChmLk5hbWUpICE9ICIuSlBHIiB7CgkJCWlnbm9yZU5hbWVzID0gYXBwZW5kKGlnbm9yZU5hbWVzLCBmLk5hbWUpCgkJCWNvbnRpbnVlCgkJfQoJCWJhc2VuYW1lIDo9IHN0cmluZ3MuVHJpbVN1ZmZpeChmLk5hbWUsIGZpbGVwYXRoLkV4dChmLk5hbWUpKQoJCWluZGV4IDo9IHNvcnQuU2VhcmNoU3RyaW5ncyhpbWFnZU5hbWVzLCBiYXNlbmFtZSkKCgkJLy8gbm90IGluIHRoaXMgaW5zdGFsbAoJCWlmIGluZGV4ID49IGxlbihpbWFnZU5hbWVzKSB8fCBpbWFnZU5hbWVzW2luZGV4XSAhPSBiYXNlbmFtZSB7CgkJCWlnbm9yZU5hbWVzID0gYXBwZW5kKGlnbm9yZU5hbWVzLCBmLk5hbWUpCgkJCWNvbnRpbnVlCgkJfQoJCWlmIGV4dHJhY3RBbmRXcml0ZUZpbGUoZikgIT0gbmlsIHsKCQkJcmV0dXJuCgkJfQoJCWNvdW50KysKCX0KCglyZXR1cm4KfQo=</text>
+        <text encoding="base64">CXZhciBuYW1lcyBbXXN0cmluZwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWMuQXNzZXJ0KGVyciwgSXNOaWwpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
-      <last-search>fmt</last-search>
+      <last-search>debug</last-search>
       <last-offset />
-      <last-pattern>fmt</last-pattern>
+      <last-pattern>debug</last-pattern>
       <last-replace>offset={\1}</last-replace>
       <last-substitute>offset=&quot;\(\d\+\)&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1353,6 +1345,7 @@
     </search>
     <history>
       <history-search>
+        <entry>molcharge</entry>
         <entry>viewer</entry>
         <entry>print</entry>
         <entry>map</entry>
@@ -1366,13 +1359,12 @@
         <entry encoding="base64">XDxtSWF0XD4=</entry>
         <entry encoding="base64">XDxtUGFyYW1NYXBcPg==</entry>
         <entry encoding="base64">XDxDb21tYW5kUmVzdWx0XD4=</entry>
+        <entry>ext</entry>
         <entry>afasdf</entry>
         <entry>scan</entry>
         <entry>for</entry>
         <entry>getimage</entry>
         <entry>debug</entry>
-        <entry>ext</entry>
-        <entry>fmt</entry>
       </history-search>
       <history-cmd>
         <entry>help g</entry>
