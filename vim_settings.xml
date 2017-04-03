@@ -20,8 +20,8 @@
         <mark key="'" line="39" column="7" />
         <mark key="[" line="143" column="9" />
         <mark key="]" line="143" column="9" />
-        <mark key="^" line="422" column="19" />
         <mark key="." line="143" column="9" />
+        <mark key="^" line="422" column="19" />
       </file>
       <file name="$USER_HOME$/workdir/vocs-react/src/data/tables.ts" timestamp="1489197026951">
         <mark key="'" line="13" column="19" />
@@ -41,6 +41,11 @@
         <mark key="]" line="15" column="35" />
         <mark key="." line="15" column="35" />
         <mark key="^" line="15" column="35" />
+      </file>
+      <file name="$USER_HOME$/go/src/github.com/henrylee2cn/pholcus_lib/car_home/car_home.go" timestamp="1490270387009">
+        <mark key="'" line="85" column="16" />
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="92" column="17" />
       </file>
       <file name="$USER_HOME$/sync/code/go/src/zhvocs/controllers/ldar.go" timestamp="1489893282970">
         <mark key="'" line="21" column="22" />
@@ -542,6 +547,11 @@
         <mark key="." line="32" column="0" />
         <mark key="^" line="32" column="0" />
       </file>
+      <file name="$USER_HOME$/sync/code/go/src/spiders/pholcus_lib/car_home.go" timestamp="1490269110916">
+        <mark key="'" line="85" column="0" />
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="146" column="21" />
+      </file>
       <file name="$USER_HOME$/sync/code/go/src/ldar/direction.go" timestamp="1476252890962">
         <mark key="[" line="15" column="34" />
         <mark key="]" line="15" column="51" />
@@ -694,6 +704,13 @@
         <mark key="]" line="74" column="26" />
         <mark key="." line="74" column="26" />
         <mark key="^" line="74" column="26" />
+      </file>
+      <file name="$USER_HOME$/sync/code/c#/ExtractBFDoc/ExtractBFDoc/Program.cs" timestamp="1491225250471">
+        <mark key="'" line="39" column="58" />
+        <mark key="[" line="39" column="24" />
+        <mark key="]" line="39" column="27" />
+        <mark key="." line="39" column="27" />
+        <mark key="^" line="39" column="27" />
       </file>
       <file name="$USER_HOME$/workdir/vocs-react/src/entry/test.tsx" timestamp="1489919199483">
         <mark key="'" line="45" column="29" />
@@ -906,6 +923,7 @@
         <mark key="'" line="1349" column="16" />
         <mark key="[" line="1064" column="8" />
         <mark key="]" line="1064" column="8" />
+        <mark key="^" line="158" column="76" />
         <mark key="." line="1064" column="8" />
       </file>
       <file name="$USER_HOME$/sync/code/go/src/spiders/pholcus_lib/chinalaw.go" timestamp="1490274857998">
@@ -1082,9 +1100,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="482" column="0" filename="$USER_HOME$/workdir/web/vocs-react/src/components/treePage.tsx" />
-      <jump line="8" column="33" filename="$USER_HOME$/workdir/web/vocs-react/src/components/treePage.tsx" />
-      <jump line="216" column="0" filename="$USER_HOME$/workdir/web/vocs-react/src/entry/photo.tsx" />
       <jump line="211" column="79" filename="$USER_HOME$/workdir/web/vocs-react/src/entry/photo.tsx" />
       <jump line="39" column="60" filename="$USER_HOME$/workdir/web/vocs-react/src/entry/photo.tsx" />
       <jump line="4" column="62" filename="$USER_HOME$/workdir/web/vocs-react/src/entry/photo.tsx" />
@@ -1182,13 +1197,16 @@
       <jump line="56" column="20" filename="$USER_HOME$/sync/code/go/src/ldar/sql.go" />
       <jump line="420" column="18" filename="$USER_HOME$/sync/code/go/src/ldar/sql.go" />
       <jump line="39" column="7" filename="$USER_HOME$/sync/code/go/src/ldar/sql.go" />
+      <jump line="70" column="93" filename="$USER_HOME$/sync/code/c#/ExtractBFDoc/ExtractBFDoc/Program.cs" />
+      <jump line="62" column="16" filename="$USER_HOME$/sync/code/c#/ExtractBFDoc/ExtractBFDoc/Program.cs" />
+      <jump line="39" column="58" filename="$USER_HOME$/sync/code/c#/ExtractBFDoc/ExtractBFDoc/Program.cs" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVmcmVzaFNlYXJjaEZvcm06IHJhbmRvbVN0cigpCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>Formatter</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -1295,40 +1313,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Formatter</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>debug</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CXZhciByZXN1bHRzIFtdcmVzdWx0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yZWFjaCAodmFyIHJ1biBpbiBvbGRQYXIuUnVucykKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdmFyIHRleHRJblJ1biA9IHJ1bi5UZXh0OwogICAgICAgICAgICAgICAgaWYgKHRleHRJblJ1biA9PSBudWxsKQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIGNvbnRpbnVlOwogICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgIHZhciBmb250U2l6ZSA9IHJ1bi5Gb250U2l6ZTsKCiAgICAgICAgICAgICAgICB2YXIgbmV3UnVuID0gbmV3UGFyLkNyZWF0ZVJ1bigpOwoKICAgICAgICAgICAgICAgIC8vIENvcHkgdGV4dAogICAgICAgICAgICAgICAgbmV3UnVuLlNldFRleHQodGV4dEluUnVuKTsKCiAgICAgICAgICAgICAgICAvLyBBcHBseSB0aGUgc2FtZSBzdHlsZQogICAgICAgICAgICAgICAgbmV3UnVuLkZvbnRTaXplID0gZm9udFNpemUgPT0gLTEgPyBERUZBVUxUX0ZPTlRfU0laRSA6IHJ1bi5Gb250U2l6ZTsKICAgICAgICAgICAgICAgIG5ld1J1bi5TZXRGb250RmFtaWx5KHJ1bi5Gb250RmFtaWx5LCBGb250Q2hhclJhbmdlLkVhc3RBc2lhKTsKICAgICAgICAgICAgICAgIG5ld1J1bi5Jc0JvbGQgPSBydW4uSXNCb2xkOwogICAgICAgICAgICAgICAgbmV3UnVuLklzSXRhbGljID0gcnVuLklzSXRhbGljOwogICAgICAgICAgICAgICAgbmV3UnVuLlNldFN0cmlrZShydW4uSXNTdHJpa2UpOwogICAgICAgICAgICAgICAgbmV3UnVuLlNldENvbG9yKHJ1bi5HZXRDb2xvcigpKTsKICAgICAgICAgICAgfQogICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWMuQXNzZXJ0KGVyciwgSXNOaWwpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXNlYWxzLCBlcnIgOj0gZC5Db21wb25lbnRzKC0xLCAtMSwgImluc3RhbGxfaWQ9PyIsIDEpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFyIGZvbnRTaXplID0gcnVuLkZvbnRTaXplOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKHNlYWxzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKG5hbWVzKQo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CXZhciByZXMgcmVzdWx0Cg==</text>
+        <text encoding="base64">ICAgIC8vIENvcHkgYWxsIHJ1bnMgZnJvbSBvbmUgcGFyYWdyYXBoIHRvIGFub3RoZXIsIGtlZXBpbmcgdGhlIHN0eWxlIHVuY2hhbmdlZAogICAgcHJpdmF0ZSBzdGF0aWMgdm9pZCBjb3B5QWxsUnVuc1RvQW5vdGhlclBhcmFncmFwaChYV1BGUGFyYWdyYXBoIG9sZFBhciwgWFdQRlBhcmFncmFwaCBuZXdQYXIpCiAgICB7CiAgICBjb25zdCBpbnQgREVGQVVMVF9GT05UX1NJWkUgPSAxMDsKICAgIGZvcmVhY2gKICAgICh2YXIgcnVuIGluCiAgICBvbGRQYXIuUnVucykKICAgIHsKICAgICAgICB2YXIgdGV4dEluUnVuID0gcnVuLlRleHQ7CiAgICAgICAgaWYgKHRleHRJblJ1biA9PSBudWxsKQogICAgICAgIHsKICAgICAgICAgICAgY29udGludWU7CiAgICAgICAgfQoKICAgICAgICB2YXIgZm9udFNpemUgPSBydW4uRm9udFNpemU7CgogICAgICAgIHZhciBuZXdSdW4gPSBuZXdQYXIuQ3JlYXRlUnVuKCk7CgogICAgICAgIC8vIENvcHkgdGV4dAogICAgICAgIG5ld1J1bi5TZXRUZXh0KHRleHRJblJ1bik7CgogICAgICAgIC8vIEFwcGx5IHRoZSBzYW1lIHN0eWxlCiAgICAgICAgbmV3UnVuLkZvbnRTaXplID0gZm9udFNpemUgPT0gLTEgPyBERUZBVUxUX0ZPTlRfU0laRSA6IHJ1bi5Gb250U2l6ZTsKICAgICAgICBuZXdSdW4uU2V0Rm9udEZhbWlseShydW4uRm9udEZhbWlseSwgRm9udENoYXJSYW5nZS5FYXN0QXNpYSk7CiAgICAgICAgbmV3UnVuLklzQm9sZCA9IHJ1bi5Jc0JvbGQ7CiAgICAgICAgbmV3UnVuLklzSXRhbGljID0gcnVuLklzSXRhbGljOwogICAgICAgIG5ld1J1bi5TZXRTdHJpa2UocnVuLklzU3RyaWtlKTsKICAgICAgICBuZXdSdW4uU2V0Q29sb3IocnVuLkdldENvbG9yKCkpOwogICAgfQogICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb3B5QWxsUnVuc1RvQW5vdGhlclBhcmFncmFwaChwYXJhLCBuUGFyYSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CXR5cGUgcmVzdWx0IHN0cnVjdCB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBDb25zb2xlLldyaXRlTGluZShwYXJhLlBhcmFncmFwaFRleHQpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXZhciBuYW1lcyBbXXN0cmluZwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBDb25zb2xlLldyaXRlTGluZSgiX19fX19fX19fX19fX19fXyIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIENvbnNvbGUuV3JpdGVMaW5lKCJfX19fX19fX19fX19fX19fIik7CiAgICAgICAgICAgICAgICBDb25zb2xlLldyaXRlTGluZSh0ZXh0SW5SdW4pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
@@ -1341,10 +1359,16 @@
       <last-replace>offset={\1}</last-replace>
       <last-substitute>offset=&quot;\(\d\+\)&quot;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
+        <entry>molatom</entry>
+        <entry>try</entry>
+        <entry>equal</entry>
+        <entry>provide</entry>
+        <entry>integer</entry>
+        <entry>charge</entry>
         <entry>molcharge</entry>
         <entry>viewer</entry>
         <entry>print</entry>
@@ -1359,14 +1383,9 @@
         <entry encoding="base64">XDxtSWF0XD4=</entry>
         <entry encoding="base64">XDxtUGFyYW1NYXBcPg==</entry>
         <entry encoding="base64">XDxDb21tYW5kUmVzdWx0XD4=</entry>
-        <entry>ext</entry>
-        <entry>afasdf</entry>
-        <entry>scan</entry>
-        <entry>for</entry>
-        <entry>getimage</entry>
-        <entry>debug</entry>
       </history-search>
       <history-cmd>
+        <entry>g/^$/d</entry>
         <entry>help g</entry>
         <entry>w</entry>
         <entry>A;</entry>
@@ -1385,7 +1404,6 @@
         <entry>action Back</entry>
         <entry>q</entry>
         <entry>action Forward</entry>
-        <entry>tabnew photo_test.go</entry>
         <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
