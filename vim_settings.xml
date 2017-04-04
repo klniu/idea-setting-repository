@@ -726,6 +726,12 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/sync/code/go/src/test/main.go" timestamp="1491286823548">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="23" column="0" />
+      </file>
       <file name="$USER_HOME$/sync/code/java/xiaoyi/src/main/java/com/klniu/xiaoyi/BDYuYin/BDRecognize.java" timestamp="1484225825787">
         <mark key="[" line="36" column="59" />
         <mark key="]" line="36" column="61" />
@@ -934,7 +940,7 @@
         <mark key="^" line="81" column="21" />
         <mark key="." line="81" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1491109752087">
+      <file name="/Dummy.txt" timestamp="1491286833235">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
@@ -1029,11 +1035,11 @@
         <mark key="." line="622" column="0" />
         <mark key="^" line="620" column="29" />
       </file>
-      <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/indexer.go" timestamp="1491286208823">
-        <mark key="[" line="15" column="62" />
-        <mark key="]" line="16" column="18" />
-        <mark key="." line="16" column="18" />
-        <mark key="^" line="16" column="18" />
+      <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/indexer.go" timestamp="1491287254848">
+        <mark key="[" line="24" column="39" />
+        <mark key="]" line="25" column="16" />
+        <mark key="." line="25" column="16" />
+        <mark key="^" line="25" column="16" />
       </file>
       <file name="$USER_HOME$/workdir/web/vocs-react/src/entry/install.tsx" timestamp="1490849582897">
         <mark key="'" line="53" column="82" />
@@ -1107,8 +1113,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="220" column="44" filename="$USER_HOME$/workdir/web/vocs-react/src/entry/photo.tsx" />
-      <jump line="252" column="77" filename="$USER_HOME$/workdir/web/vocs-react/src/entry/photo.tsx" />
       <jump line="12" column="17" filename="$USER_HOME$/workdir/web/vocs-react/src/entry/photo.tsx" />
       <jump line="215" column="72" filename="$USER_HOME$/workdir/web/vocs-react/src/entry/photo.tsx" />
       <jump line="0" column="0" filename="$USER_HOME$/workdir/web/vocs-react/src/entry/photo.tsx" />
@@ -1207,13 +1211,15 @@
       <jump line="59" column="28" filename="$USER_HOME$/sync/code/c#/ExtractBFDoc/ExtractBFDoc/Program.cs" />
       <jump line="14" column="16" filename="$USER_HOME$/sync/code/c#/ExtractBFDoc/ExtractBFDoc/Program.cs" />
       <jump line="10" column="0" filename="$USER_HOME$/sync/code/go/src/LawIndexer/controllers/default.go" />
+      <jump line="5" column="8" filename="$USER_HOME$/sync/code/go/src/test/main.go" />
+      <jump line="0" column="0" filename="$USER_HOME$/sync/code/go/src/test/main.go" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVmcmVzaFNlYXJjaEZvcm06IHJhbmRvbVN0cigpCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQlvcy5FeGl0KDEpCg==</text>
+      <register name="&quot;" type="4">
+        <text>]</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -1320,7 +1326,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>enwiki-20120211-pages-articles.xml.bz2</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>Console</text>
@@ -1329,31 +1335,31 @@
         <text encoding="base64">ZnVuYyAoYyAqTWFpbkNvbnRyb2xsZXIpIEdldCgpIHsKCWMuRGF0YVsiV2Vic2l0ZSJdID0gImJlZWdvLm1lIgoJYy5EYXRhWyJFbWFpbCJdID0gImFzdGF4aWVAZ21haWwuY29tIgoJYy5UcGxOYW1lID0gImluZGV4LnRwbCIKfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlvcy5FeGl0KDEpCg==</text>
+        <text encoding="base64">cGFja2FnZSBtYWluCgppbXBvcnQgKAoJImdpdGh1Yi5jb20vaGVucnlsZWUyY24vc3VyZmVyIgoJImlvL2lvdXRpbCIKCSJsb2ciCikKCmZ1bmMgbWFpbigpIHsKCS8vIFVzZSBzdXJmIGVuZ2luZQoJcmVzcCwgZXJyIDo9IHN1cmZlci5Eb3dubG9hZCgmc3VyZmVyLlJlcXVlc3R7CgkJVXJsOiAiaHR0cDovL3d3dy5jaGluYWxhdy5nb3YuY24vYXJ0aWNsZS9mZ2tkL3hmZy94emZnL2luZGV4LnNodG1sPzIiLAoJfSkKCWlmIGVyciAhPSBuaWwgewoJCWxvZy5GYXRhbChlcnIpCgl9CgliLCBlcnIgOj0gaW91dGlsLlJlYWRBbGwocmVzcC5Cb2R5KQoJbG9nLlByaW50bG4oc3RyaW5nKGIpLCBlcnIpCgoJLy8gVXNlIHBoYW50b21qcyBlbmdpbmUKCS8vcmVzcCwgZXJyID0gc3VyZmVyLkRvd25sb2FkKCZzdXJmZXIuUmVxdWVzdHsKCS8vCVVybDogICAgICAgICAgImh0dHA6Ly9naXRodWIuY29tL2hlbnJ5bGVlMmNuIiwKCS8vCURvd25sb2FkZXJJRDogMSwKCS8vfSkKCS8vaWYgZXJyICE9IG5pbCB7CgkvLwlsb2cuRmF0YWwoZXJyKQoJLy99CgkvL2IsIGVyciA9IGlvdXRpbC5SZWFkQWxsKHJlc3AuQm9keSkKCS8vbG9nLlByaW50bG4oc3RyaW5nKGIpLCBlcnIpCgoJcmVzcC5Cb2R5LkNsb3NlKCkKCXN1cmZlci5EZXN0cm95SnNGaWxlcygpCn0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB3aWtpcGFyc2UuCg==</text>
+        <text encoding="base64">CQlvcy5FeGl0KDEpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG1vZGVscy5JbmRleCgpCg==</text>
+        <text encoding="base64">ICAgICAgICB3aWtpcGFyc2UuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJlcnJvcnMiCg==</text>
+        <text encoding="base64">ICAgIG1vZGVscy5JbmRleCgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJlcnJvcnMiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ImdpdGh1Yi5jb20vZHVzdGluL2dvLXdpa2lwYXJzZSIK</text>
+        <text encoding="base64">KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
+        <text encoding="base64">ImdpdGh1Yi5jb20vZHVzdGluL2dvLXdpa2lwYXJzZSIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
