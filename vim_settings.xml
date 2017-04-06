@@ -204,12 +204,12 @@
         <mark key="^" line="55" column="28" />
         <mark key="." line="59" column="26" />
       </file>
-      <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/indexer_test.go" timestamp="1491474364921">
-        <mark key="'" line="13" column="0" />
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="17" />
-        <mark key="^" line="63" column="3" />
-        <mark key="." line="69" column="0" />
+      <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/indexer_test.go" timestamp="1491479315245">
+        <mark key="'" line="35" column="0" />
+        <mark key="[" line="73" column="49" />
+        <mark key="]" line="73" column="49" />
+        <mark key="^" line="73" column="49" />
+        <mark key="." line="73" column="49" />
       </file>
       <file name="$USER_HOME$/sync/code/java/livesim/src/main/java/Category.java" timestamp="1479441952346">
         <mark key="[" line="8" column="31" />
@@ -454,6 +454,11 @@
         <mark key="]" line="34" column="34" />
         <mark key="." line="34" column="28" />
         <mark key="^" line="34" column="28" />
+      </file>
+      <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/law.go" timestamp="1491478692267">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/workdir/web/vocs-react/src/components/formModal.tsx" timestamp="1490839871932">
         <mark key="'" line="4" column="21" />
@@ -1062,6 +1067,11 @@
         <mark key="." line="622" column="0" />
         <mark key="^" line="620" column="29" />
       </file>
+      <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/indexer.go" timestamp="1491479350645">
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="94" column="0" />
+        <mark key="." line="94" column="0" />
+      </file>
       <file name="$USER_HOME$/workdir/web/vocs-react/src/entry/install.tsx" timestamp="1490849582897">
         <mark key="'" line="53" column="82" />
         <mark key="[" line="53" column="72" />
@@ -1134,8 +1144,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="18" filename="$USER_HOME$/workdir/web/vocs-react/src/components/photoedit.tsx" />
-      <jump line="106" column="50" filename="$USER_HOME$/workdir/web/vocs-react/src/components/photoedit.tsx" />
       <jump line="135" column="41" filename="$USER_HOME$/workdir/web/vocs-react/src/components/photoedit.tsx" />
       <jump line="251" column="50" filename="$USER_HOME$/workdir/web/vocs-react/src/components/photoedit.tsx" />
       <jump line="394" column="58" filename="$USER_HOME$/workdir/web/vocs-react/src/components/photoedit.tsx" />
@@ -1234,13 +1242,15 @@
       <jump line="173" column="22" filename="$USER_HOME$/sync/code/go/src/LawIndexer/ic/ic.go" />
       <jump line="103" column="21" filename="$USER_HOME$/sync/code/go/src/LawIndexer/ic/ic.go" />
       <jump line="13" column="0" filename="$USER_HOME$/sync/code/go/src/LawIndexer/models/indexer_test.go" />
+      <jump line="23" column="3" filename="$USER_HOME$/sync/code/go/src/LawIndexer/models/law.go" />
+      <jump line="35" column="0" filename="$USER_HOME$/sync/code/go/src/LawIndexer/models/indexer_test.go" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVmcmVzaFNlYXJjaEZvcm06IHJhbmRvbVN0cigpCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAi56ys5LqM56ug44CA54qv572qIiwK</text>
+        <text encoding="base64">ICAgIGlmIGxlbihwYXJ0cykK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -1347,40 +1357,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>adfa</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGxpbmVzIDo9IFtdc3RyaW5newogICAgICAgICLnrKzkuIDnvJbjgIDmgLvliJkiLAogICAgICAgICLnrKzkuIDnq6DjgIDliJHms5XnmoTku7vliqHjgIHln7rmnKzljp/liJnlkozpgILnlKjojIPlm7QiLAogICAgICAgICLnrKzkuoznq6DjgIDniq/nvaoiLAogICAgICAgICLnrKzkuIDoioLjgIDniq/nvarlkozliJHkuovotKPku7siLAogICAgICAgICLniq/nvarlkozliJHkuovotKPku7siLAogICAgICAgICLnrKzkuozoioLjgIDniq/nvarnmoTpooTlpIfjgIHmnKrpgYLlkozkuK3mraIiLAogICAgICAgICLniq/nvarlkozliJHkuovotKPku7siLAogICAgICAgICLnrKzkuInoioLjgIDlhbHlkIzniq/nvaoiLAogICAgICAgICLniq/nvarlkozliJHkuovotKPku7siLAogICAgICAgICLnrKzlm5voioLjgIDljZXkvY3niq/nvaoiLAogICAgICAgICLnrKzkuoznvJbjgIDliJHnvZoiLAogICAgICAgICLnrKzkuInnq6DjgIDliJHnvZoiLAogICAgICAgICLnrKzkuIDoioLjgIDliJHnvZrnmoTnp43nsbsiLAogICAgICAgICLnrKzkuozoioLjgIDnrqHliLYiLAogICAgICAgICLniq/nvarlkozliJHkuovotKPku7siLAogICAgICAgICLnrKzkuInnvJbjgIDliJHnvZoyIiwKICAgICAgICAi56ys5LiJ6IqC44CA5ouY5b25IiwKICAgICAgICAi56ys5Zub6IqC44CA5pyJ5pyf5b6S5YiR44CB5peg5pyf5b6S5YiRIiwKICAgICAgICAi54qv572q5ZKM5YiR5LqL6LSj5Lu7IiwKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ3JvdXBzID0gYXBwZW5kKGdyb3VwcywgW11zdHJpbmd7bGluZX0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAi56ys5LqM56ug44CA54qv572qIiwK</text>
+        <text encoding="base64">ICAgIGlmIGxlbihwYXJ0cykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAi56ys5LqM57yW44CA5YiR572aIiwK</text>
+        <text encoding="base64">ICAgIC8vIHRoZSBmaXJzdCBvbmUgaXMgYWx3YXlzIGluIG9uZSBncm91cAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAi56ys5Zub6IqC44CA5Y2V5L2N54qv572qIiwK</text>
+        <text encoding="base64">ICAgICAgIGdyb3VwcyA9IGFwcGVuZChncm91cHMsIFtdc3RyaW5ne2xpbmVzWzBdfSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAi54qv572q5ZKM5YiR5LqL6LSj5Lu7IiwK</text>
+        <text encoding="base64">ICAgICAgIGdyb3VwcyA9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAi56ys5LqM56ug44CA54qv572qIiwK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAi54qv572q5ZKM5YiR5LqL6LSj5Lu7IiwK</text>
+        <text encoding="base64">ICAgICAgICAvLyB0aGUgZmlyc3Qgb25lIGlzIGFsd2F5cyBpbiBvbmUgZ3JvdXAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAi56ys5LiA57yW44CA5oC75YiZIiwK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsYXN0QXJ0aWNsZUlkeCA6PSBsZW4obGF3LlBhcnRzW2xhc3RQYXJ0SWR4XS5DaGFwdGVyc1tsYXN0Q2hhcHRlcklkeF0uQXJ0aWNsZXMpIC0gMQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ3JvdXBzID0gYXBwZW5kCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsYXN0UGFydElkeCA9IGxlbihsYXcuUGFydHMpIC0gMQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBsZW4oZ3JvdXBzKSA9PSAwIHsK</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
