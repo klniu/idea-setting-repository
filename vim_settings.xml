@@ -1070,11 +1070,11 @@
         <mark key="." line="622" column="0" />
         <mark key="^" line="620" column="29" />
       </file>
-      <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/indexer.go" timestamp="1491483769437">
-        <mark key="[" line="72" column="4" />
-        <mark key="]" line="72" column="4" />
-        <mark key="^" line="255" column="15" />
-        <mark key="." line="72" column="4" />
+      <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/indexer.go" timestamp="1491484446167">
+        <mark key="[" line="268" column="13" />
+        <mark key="]" line="270" column="12" />
+        <mark key="." line="270" column="12" />
+        <mark key="^" line="270" column="12" />
       </file>
       <file name="$USER_HOME$/workdir/web/vocs-react/src/entry/install.tsx" timestamp="1490849582897">
         <mark key="'" line="53" column="82" />
@@ -1253,9 +1253,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVmcmVzaFNlYXJjaEZvcm06IHJhbmRvbVN0cigpCg==</text>
       </register>
-      <register name="&quot;" type="8">
-        <text>//
-//</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -1367,37 +1366,37 @@
       <register name="/" type="4">
         <text>adfa</text>
       </register>
-      <register name="0" type="4">
-        <text>&quot;此段没有标题或标题级别不符，错误的文章结构: %s&quot;</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBsZW4ocmVnTGV2ZWxzKSA+IDEgewo=</text>
       </register>
-      <register name="1" type="8">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZtdC5FcnJvcmYoIuatpOauteayoeacieagh+mimOaIluagh+mimOe6p+WIq+S4jeespu+8jOmUmeivr+eahOaWh+eroOe7k+aehDogJXMiLCBncm91cHNbaV1bMF0pCg==</text>
+      </register>
+      <register name="3" type="8">
         <text>//
 //</text>
       </register>
-      <register name="2" type="8">
+      <register name="4" type="8">
         <text>//
 //</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvL30K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL30K</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgICBmb3IgayA6PSByYW5nZSBhcnRpY2xlcyB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgICBhcnRpY2xlcyA6PSBzcGxpdExpbmVzKGFydGljbGVSZWcsIGNoYXB0ZXJzW2pdWzE6XSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgICBsYXcuUGFydHNbbGVuKGxhdy5QYXJ0cyktMV0uQ2hhcHRlcnMgPSBhcHBlbmQobGF3LlBhcnRzW2xlbihsYXcuUGFydHMpLTFdLkNoYXB0ZXJzLCBDaGFwdGVye05vOiBubywgVGV4dDogY2hhcHRlcnNbal1bMF19KQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyAgICBmb3IgayA6PSByYW5nZSBhcnRpY2xlcyB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
