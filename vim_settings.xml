@@ -30,6 +30,9 @@
         <mark key="." line="37" column="48" />
         <mark key="^" line="37" column="48" />
       </file>
+      <file name="/a.dummy" timestamp="1491482259239">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/sync/code/java/xiaoyi/gradle.properties" timestamp="1484386985579">
         <mark key="[" line="1" column="24" />
         <mark key="]" line="1" column="30" />
@@ -204,12 +207,12 @@
         <mark key="^" line="55" column="28" />
         <mark key="." line="59" column="26" />
       </file>
-      <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/indexer_test.go" timestamp="1491479315245">
-        <mark key="'" line="35" column="0" />
-        <mark key="[" line="73" column="49" />
-        <mark key="]" line="73" column="49" />
-        <mark key="^" line="73" column="49" />
-        <mark key="." line="73" column="49" />
+      <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/indexer_test.go" timestamp="1491483498536">
+        <mark key="'" line="107" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="230" column="57" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/sync/code/java/livesim/src/main/java/Category.java" timestamp="1479441952346">
         <mark key="[" line="8" column="31" />
@@ -1067,11 +1070,11 @@
         <mark key="." line="622" column="0" />
         <mark key="^" line="620" column="29" />
       </file>
-      <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/indexer.go" timestamp="1491480414960">
-        <mark key="[" line="251" column="26" />
-        <mark key="]" line="251" column="27" />
-        <mark key="." line="251" column="27" />
-        <mark key="^" line="251" column="27" />
+      <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/indexer.go" timestamp="1491483769437">
+        <mark key="[" line="72" column="4" />
+        <mark key="]" line="72" column="4" />
+        <mark key="^" line="255" column="15" />
+        <mark key="." line="72" column="4" />
       </file>
       <file name="$USER_HOME$/workdir/web/vocs-react/src/entry/install.tsx" timestamp="1490849582897">
         <mark key="'" line="53" column="82" />
@@ -1145,13 +1148,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="135" column="41" filename="$USER_HOME$/workdir/web/vocs-react/src/components/photoedit.tsx" />
-      <jump line="251" column="50" filename="$USER_HOME$/workdir/web/vocs-react/src/components/photoedit.tsx" />
-      <jump line="394" column="58" filename="$USER_HOME$/workdir/web/vocs-react/src/components/photoedit.tsx" />
-      <jump line="24" column="4" filename="$USER_HOME$/workdir/web/vocs-react/src/components/photoedit.tsx" />
-      <jump line="55" column="8" filename="$USER_HOME$/workdir/web/vocs-react/src/components/photoedit.tsx" />
-      <jump line="76" column="0" filename="$USER_HOME$/workdir/web/vocs-react/src/components/photoedit.tsx" />
-      <jump line="99" column="12" filename="$USER_HOME$/workdir/web/vocs-react/src/entry/photo.tsx" />
       <jump line="100" column="27" filename="$USER_HOME$/workdir/web/vocs-react/src/entry/photo.tsx" />
       <jump line="105" column="32" filename="$USER_HOME$/workdir/web/vocs-react/src/entry/photo.tsx" />
       <jump line="235" column="48" filename="$USER_HOME$/workdir/web/vocs-react/src/entry/photo.tsx" />
@@ -1242,9 +1238,16 @@
       <jump line="16" column="0" filename="$USER_HOME$/sync/code/go/src/LawIndexer/ic/ic_test.go" />
       <jump line="173" column="22" filename="$USER_HOME$/sync/code/go/src/LawIndexer/ic/ic.go" />
       <jump line="103" column="21" filename="$USER_HOME$/sync/code/go/src/LawIndexer/ic/ic.go" />
-      <jump line="13" column="0" filename="$USER_HOME$/sync/code/go/src/LawIndexer/models/indexer_test.go" />
       <jump line="23" column="3" filename="$USER_HOME$/sync/code/go/src/LawIndexer/models/law.go" />
       <jump line="35" column="0" filename="$USER_HOME$/sync/code/go/src/LawIndexer/models/indexer_test.go" />
+      <jump line="9" column="19" filename="$USER_HOME$/sync/code/go/src/LawIndexer/models/indexer_test.go" />
+      <jump line="13" column="0" filename="$USER_HOME$/sync/code/go/src/LawIndexer/models/indexer_test.go" />
+      <jump line="107" column="9" filename="$USER_HOME$/sync/code/go/src/LawIndexer/models/indexer_test.go" />
+      <jump line="224" column="0" filename="$USER_HOME$/sync/code/go/src/LawIndexer/models/indexer_test.go" />
+      <jump line="225" column="0" filename="$USER_HOME$/sync/code/go/src/LawIndexer/models/indexer_test.go" />
+      <jump line="110" column="0" filename="$USER_HOME$/sync/code/go/src/LawIndexer/models/indexer_test.go" />
+      <jump line="85" column="0" filename="$USER_HOME$/sync/code/go/src/LawIndexer/models/indexer_test.go" />
+      <jump line="108" column="0" filename="$USER_HOME$/sync/code/go/src/LawIndexer/models/indexer_test.go" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1359,13 +1362,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>序</text>
       </register>
       <register name="/" type="4">
         <text>adfa</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ3JvdXBzID0gYXBwZW5kKGdyb3VwcywgW11zdHJpbmd7bGluZX0pCg==</text>
+      <register name="0" type="4">
+        <text>&quot;此段没有标题或标题级别不符，错误的文章结构: %s&quot;</text>
       </register>
       <register name="1" type="8">
         <text>//
@@ -1376,25 +1379,25 @@
 //</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL30K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIGxlbihwYXJ0cykK</text>
+        <text encoding="base64">ICAgICAgICAvLyAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIHRoZSBmaXJzdCBvbmUgaXMgYWx3YXlzIGluIG9uZSBncm91cAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgIGdyb3VwcyA9IGFwcGVuZChncm91cHMsIFtdc3RyaW5ne2xpbmVzWzBdfSkK</text>
+        <text encoding="base64">ICAgICAgICAvLyAgICBmb3IgayA6PSByYW5nZSBhcnRpY2xlcyB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgIGdyb3VwcyA9Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyAgICBhcnRpY2xlcyA6PSBzcGxpdExpbmVzKGFydGljbGVSZWcsIGNoYXB0ZXJzW2pdWzE6XSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAvLyAgICBsYXcuUGFydHNbbGVuKGxhdy5QYXJ0cyktMV0uQ2hhcHRlcnMgPSBhcHBlbmQobGF3LlBhcnRzW2xlbihsYXcuUGFydHMpLTFdLkNoYXB0ZXJzLCBDaGFwdGVye05vOiBubywgVGV4dDogY2hhcHRlcnNbal1bMF19KQo=</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
