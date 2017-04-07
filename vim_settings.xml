@@ -455,11 +455,11 @@
         <mark key="." line="34" column="28" />
         <mark key="^" line="34" column="28" />
       </file>
-      <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/law.go" timestamp="1491540308990">
-        <mark key="[" line="20" column="39" />
-        <mark key="]" line="20" column="46" />
-        <mark key="^" line="20" column="46" />
-        <mark key="." line="20" column="46" />
+      <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/law.go" timestamp="1491541029439">
+        <mark key="[" line="11" column="19" />
+        <mark key="]" line="12" column="17" />
+        <mark key="^" line="12" column="17" />
+        <mark key="." line="12" column="17" />
       </file>
       <file name="$USER_HOME$/workdir/web/vocs-react/src/components/formModal.tsx" timestamp="1490839871932">
         <mark key="'" line="4" column="21" />
@@ -1259,7 +1259,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVmcmVzaFNlYXJjaEZvcm06IHJhbmRvbVN0cigpCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>UserRefer</text>
+        <text>time.Time</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -1366,7 +1366,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>UserRefer</text>
+        <text>time.Time</text>
       </register>
       <register name="/" type="4">
         <text>$</text>
