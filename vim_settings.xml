@@ -204,12 +204,12 @@
         <mark key="^" line="55" column="28" />
         <mark key="." line="59" column="26" />
       </file>
-      <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/indexer_test.go" timestamp="1491469932502">
-        <mark key="'" line="14" column="7" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="35" column="27" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/indexer_test.go" timestamp="1491539816511">
+        <mark key="'" line="15" column="7" />
+        <mark key="[" line="307" column="60" />
+        <mark key="]" line="307" column="60" />
+        <mark key="." line="307" column="60" />
+        <mark key="^" line="307" column="60" />
       </file>
       <file name="$USER_HOME$/sync/code/java/livesim/src/main/java/Category.java" timestamp="1479441952346">
         <mark key="[" line="8" column="31" />
@@ -455,6 +455,12 @@
         <mark key="." line="34" column="28" />
         <mark key="^" line="34" column="28" />
       </file>
+      <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/law.go" timestamp="1491540308990">
+        <mark key="[" line="20" column="39" />
+        <mark key="]" line="20" column="46" />
+        <mark key="^" line="20" column="46" />
+        <mark key="." line="20" column="46" />
+      </file>
       <file name="$USER_HOME$/workdir/web/vocs-react/src/components/formModal.tsx" timestamp="1490839871932">
         <mark key="'" line="4" column="21" />
         <mark key="[" line="42" column="0" />
@@ -586,13 +592,6 @@
         <mark key="]" line="3" column="16" />
         <mark key="^" line="3" column="16" />
         <mark key="." line="3" column="16" />
-      </file>
-      <file name="$USER_HOME$/sync/code/go/src/LawIndexer/controllers/default.go" timestamp="1491390780771">
-        <mark key="'" line="11" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="22" column="20" />
       </file>
       <file name="$USER_HOME$/sync/code/go/src/zhvocs/conf/app.conf" timestamp="1479257088739">
         <mark key="[" line="11" column="35" />
@@ -1076,12 +1075,11 @@
         <mark key="." line="622" column="0" />
         <mark key="^" line="620" column="29" />
       </file>
-      <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/indexer.go" timestamp="1491470187153">
-        <mark key="'" line="101" column="63" />
-        <mark key="[" line="104" column="63" />
-        <mark key="]" line="106" column="15" />
-        <mark key="^" line="106" column="15" />
-        <mark key="." line="106" column="15" />
+      <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/indexer.go" timestamp="1491539789070">
+        <mark key="[" line="131" column="75" />
+        <mark key="]" line="132" column="39" />
+        <mark key="." line="132" column="39" />
+        <mark key="^" line="132" column="39" />
       </file>
       <file name="$USER_HOME$/workdir/web/vocs-react/src/entry/install.tsx" timestamp="1490849582897">
         <mark key="'" line="53" column="82" />
@@ -1261,7 +1259,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVmcmVzaFNlYXJjaEZvcm06IHJhbmRvbVN0cigpCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">Y2hhcHRlcnMg</text>
+        <text>UserRefer</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -1368,40 +1366,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y2hhcHRlcnMg</text>
+        <text>UserRefer</text>
       </register>
       <register name="/" type="4">
         <text>$</text>
       </register>
-      <register name="0" type="4">
-        <text>law.Parts[len(law.Parts)-1].Chapters</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAi54qv572q5ZKM5YiR5LqL6LSj5Lu7IiwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIGltcG9zc2libGUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHNwbGl0TGluZXMoYXJ0aWNsZVJlZ1N0ciwgbm9uRW1wdHlMaW5lcykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFuaWMoIuW3sue7jyIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHNwbGl0TGluZXMoY2hhcHRlclJlZ1N0ciwgbm9uRW1wdHlMaW5lcykK</text>
+        <text encoding="base64">ICAgICAgICDnrKzkuIDmnaEK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBhcnRSZWcgOj0gcmVnZXhwLk11c3RDb21waWxlKHBhcnRSZWdTdHIpCiAgICBjaGFwdGVyUmVnIDo9IHJlZ2V4cC5NdXN0Q29tcGlsZShjaGFwdGVyUmVnU3RyKQogICAgYXJ0aWNsZVJlZyA6PSByZWdleHAuTXVzdENvbXBpbGUoYXJ0aWNsZVJlZ1N0cikK</text>
+        <text encoding="base64">ICAgIHByZXR0eS5QcmludChwYXJ0cykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGJlZ2luUmVnU3RyIDo9IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBhcnRSZWdTdHIgOj0gYmVnaW5SZWdTdHIgKyAi57yWIgo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJlZyA6PSByZWdleHAuTXVzdENvbXBpbGUocmVnU3RyKQo=</text>
+        <text encoding="base64">T09QUzogNCBwYXNzZWQsIDEgRkFJTEVECg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgIE5vOiAgICAgICAxLAogICAgICAgICAgICBUZXh0OiAgICAgIuesrOS4gOe8llx1MzAwMOaAu+WImSIsCiAgICAgICAgICAgIFBhcnRzOiBbXVBhcnR7CiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgTm86ICAgICAgIDEsCiAgICAgICAgICAgICAgICAgICAgVGV4dDogICAgICLnrKzkuIDnq6BcdTMwMDDliJHms5XnmoTku7vliqHjgIHln7rmnKzljp/liJnlkozpgILnlKjojIPlm7QiLAogICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBObzogICAgICAgMiwKICAgICAgICAgICAgICAgICAgICBUZXh0OiAgICAgIuesrOS6jOeroFx1MzAwMOeKr+e9qiIsCiAgICAgICAgICAgICAgICAgICAgUGFydHM6IFtdUGFydHsKICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgTm86ICAgICAgIDEsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBUZXh0OiAgICAgIuesrOS4gOiKglx1MzAwMOeKr+e9quWSjOWIkeS6i+i0o+S7u1xu54qv572q5ZKM5YiR5LqL6LSj5Lu7IiwKICAgICAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgTm86ICAgICAgIDIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBUZXh0OiAgICAgIuesrOS6jOiKglx1MzAwMOeKr+e9queahOmihOWkh+OAgeacqumBguWSjOS4reatolxu54qv572q5ZKM5YiR5LqL6LSj5Lu7IiwKICAgICAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgTm86ICAgICAgIDMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBUZXh0OiAgICAgIuesrOS4ieiKglx1MzAwMOWFseWQjOeKr+e9qlxu54qv572q5ZKM5YiR5LqL6LSj5Lu7IiwKICAgICAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgTm86ICAgICAgIDQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBUZXh0OiAgICAgIuesrOWbm+iKglx1MzAwMOWNleS9jeeKr+e9qiIsCiAgICAgICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgIH0sCiAgICAgICAgfSwKICAgICAgICB7CiAgICAgICAgICAgIE5vOiAgICAgICAyLAogICAgICAgICAgICBUZXh0OiAgICAgIuesrOS6jOe8llx1MzAwMOWIkee9miIsCiAgICAgICAgICAgIFBhcnRzOiBbXVBhcnR7CiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgTm86ICAgICAgIDMsCiAgICAgICAgICAgICAgICAgICAgVGV4dDogICAgICLnrKzkuInnq6BcdTMwMDDliJHnvZoiLAogICAgICAgICAgICAgICAgICAgIFBhcnRzOiBbXVBhcnR7CiAgICAgICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIE5vOiAgICAgICAxLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgVGV4dDogICAgICLnrKzkuIDoioJcdTMwMDDliJHnvZrnmoTnp43nsbsiLAogICAgICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBObzogICAgICAgMiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIFRleHQ6ICAgICAi56ys5LqM6IqCXHUzMDAw566h5Yi2XG7niq/nvarlkozliJHkuovotKPku7siLAogICAgICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICB9LAogICAgICAgIH0sCiAgICAgICAgewogICAgICAgICAgICBObzogICAgICAgMywKICAgICAgICAgICAgVGV4dDogICAgICLnrKzkuInnvJZcdTMwMDDliJHnvZoyIiwKICAgICAgICAgICAgUGFydHM6IFtdUGFydHsKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBObzogICAgICAgNCwKICAgICAgICAgICAgICAgICAgICBUZXh0OiAgICAgIuesrOWbm+eroFx1MzAwMOWIkee9mjMiLAogICAgICAgICAgICAgICAgICAgIFBhcnRzOiBbXVBhcnR7CiAgICAgICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIE5vOiAgICAgICAzLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgVGV4dDogICAgICLnrKzkuInoioJcdTMwMDDmi5jlvbkiLAogICAgICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBObzogICAgICAgNCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIFRleHQ6ICAgICAi56ys5Zub6IqCXHUzMDAw5pyJ5pyf5b6S5YiR44CB5peg5pyf5b6S5YiRXG7niq/nvarlkozliJHkuovotKPku7siLAogICAgICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICB9LAogICAgICAgIH0sCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAi56ys5LqM5p2h44CA54qv572q5ZKM5YiR5LqL6LSj5Lu7IiwK</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
@@ -1414,7 +1412,7 @@
       <last-replace>&quot;</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
