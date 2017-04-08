@@ -1075,11 +1075,12 @@
         <mark key="." line="622" column="0" />
         <mark key="^" line="620" column="29" />
       </file>
-      <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/indexer.go" timestamp="1491539789070">
-        <mark key="[" line="131" column="75" />
-        <mark key="]" line="132" column="39" />
-        <mark key="." line="132" column="39" />
-        <mark key="^" line="132" column="39" />
+      <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/indexer.go" timestamp="1491632220721">
+        <mark key="'" line="141" column="0" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="89" column="14" />
       </file>
       <file name="$USER_HOME$/workdir/web/vocs-react/src/entry/install.tsx" timestamp="1490849582897">
         <mark key="'" line="53" column="82" />
@@ -1153,10 +1154,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="56" filename="$USER_HOME$/workdir/web/vocs-react/src/entry/photo.tsx" />
-      <jump line="17" column="4" filename="$USER_HOME$/workdir/web/vocs-react/src/entry/photo.tsx" />
-      <jump line="31" column="8" filename="$USER_HOME$/workdir/web/vocs-react/src/entry/photo.tsx" />
-      <jump line="119" column="50" filename="$USER_HOME$/workdir/web/vocs-react/src/components/upload.tsx" />
       <jump line="111" column="30" filename="$USER_HOME$/workdir/web/vocs-react/src/components/upload.tsx" />
       <jump line="10" column="97" filename="$USER_HOME$/workdir/web/vocs-react/src/components/upload.tsx" />
       <jump line="36" column="22" filename="$USER_HOME$/workdir/web/vocs-react/src/components/upload.tsx" />
@@ -1253,13 +1250,17 @@
       <jump line="99" column="7" filename="$USER_HOME$/sync/code/go/src/LawIndexer/models/indexer.go" />
       <jump line="92" column="26" filename="$USER_HOME$/sync/code/go/src/LawIndexer/models/indexer.go" />
       <jump line="101" column="63" filename="$USER_HOME$/sync/code/go/src/LawIndexer/models/indexer.go" />
+      <jump line="91" column="53" filename="$USER_HOME$/sync/code/go/src/LawIndexer/models/indexer.go" />
+      <jump line="14" column="0" filename="$USER_HOME$/sync/code/go/src/LawIndexer/models/indexer.go" />
+      <jump line="100" column="0" filename="$USER_HOME$/sync/code/go/src/LawIndexer/models/indexer.go" />
+      <jump line="142" column="0" filename="$USER_HOME$/sync/code/go/src/LawIndexer/models/indexer.go" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVmcmVzaFNlYXJjaEZvcm06IHJhbmRvbVN0cigpCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>time.Time</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICJnaXRodWIuY29tL2tyL3ByZXR0eSIK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -1366,57 +1367,56 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>time.Time</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>$</text>
+        <text>pretty</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAi54qv572q5ZKM5YiR5LqL6LSj5Lu7IiwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIGltcG9zc2libGUK</text>
+        <text encoding="base64">ICAgICJnaXRodWIuY29tL2tyL3ByZXR0eSIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFuaWMoIuW3sue7jyIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByZXR0eS5QcmludGxuKGdyb3VwcykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICDnrKzkuIDmnaEK</text>
+        <text encoding="base64">ICAgIHByZXR0eS5QcmludGxuKG5vbkVtcHR5TGluZXMpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByZXR0eS5QcmludChwYXJ0cykK</text>
+        <text encoding="base64">ICAgICJnaXRodWIuY29tL2RpbWNoYW5za3kvdXRmYm9tIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByZXR0eS5QcmludGxuKFtdc3RyaW5ne3N0cmluZyhkYXRhKX0pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIGltcG9zc2libGUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">T09QUzogNCBwYXNzZWQsIDEgRkFJTEVECg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFuaWMoIuW3sue7jyIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgIE5vOiAgICAgICAxLAogICAgICAgICAgICBUZXh0OiAgICAgIuesrOS4gOe8llx1MzAwMOaAu+WImSIsCiAgICAgICAgICAgIFBhcnRzOiBbXVBhcnR7CiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgTm86ICAgICAgIDEsCiAgICAgICAgICAgICAgICAgICAgVGV4dDogICAgICLnrKzkuIDnq6BcdTMwMDDliJHms5XnmoTku7vliqHjgIHln7rmnKzljp/liJnlkozpgILnlKjojIPlm7QiLAogICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBObzogICAgICAgMiwKICAgICAgICAgICAgICAgICAgICBUZXh0OiAgICAgIuesrOS6jOeroFx1MzAwMOeKr+e9qiIsCiAgICAgICAgICAgICAgICAgICAgUGFydHM6IFtdUGFydHsKICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgTm86ICAgICAgIDEsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBUZXh0OiAgICAgIuesrOS4gOiKglx1MzAwMOeKr+e9quWSjOWIkeS6i+i0o+S7u1xu54qv572q5ZKM5YiR5LqL6LSj5Lu7IiwKICAgICAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgTm86ICAgICAgIDIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBUZXh0OiAgICAgIuesrOS6jOiKglx1MzAwMOeKr+e9queahOmihOWkh+OAgeacqumBguWSjOS4reatolxu54qv572q5ZKM5YiR5LqL6LSj5Lu7IiwKICAgICAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgTm86ICAgICAgIDMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBUZXh0OiAgICAgIuesrOS4ieiKglx1MzAwMOWFseWQjOeKr+e9qlxu54qv572q5ZKM5YiR5LqL6LSj5Lu7IiwKICAgICAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgTm86ICAgICAgIDQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBUZXh0OiAgICAgIuesrOWbm+iKglx1MzAwMOWNleS9jeeKr+e9qiIsCiAgICAgICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgIH0sCiAgICAgICAgfSwKICAgICAgICB7CiAgICAgICAgICAgIE5vOiAgICAgICAyLAogICAgICAgICAgICBUZXh0OiAgICAgIuesrOS6jOe8llx1MzAwMOWIkee9miIsCiAgICAgICAgICAgIFBhcnRzOiBbXVBhcnR7CiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgTm86ICAgICAgIDMsCiAgICAgICAgICAgICAgICAgICAgVGV4dDogICAgICLnrKzkuInnq6BcdTMwMDDliJHnvZoiLAogICAgICAgICAgICAgICAgICAgIFBhcnRzOiBbXVBhcnR7CiAgICAgICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIE5vOiAgICAgICAxLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgVGV4dDogICAgICLnrKzkuIDoioJcdTMwMDDliJHnvZrnmoTnp43nsbsiLAogICAgICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBObzogICAgICAgMiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIFRleHQ6ICAgICAi56ys5LqM6IqCXHUzMDAw566h5Yi2XG7niq/nvarlkozliJHkuovotKPku7siLAogICAgICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICB9LAogICAgICAgIH0sCiAgICAgICAgewogICAgICAgICAgICBObzogICAgICAgMywKICAgICAgICAgICAgVGV4dDogICAgICLnrKzkuInnvJZcdTMwMDDliJHnvZoyIiwKICAgICAgICAgICAgUGFydHM6IFtdUGFydHsKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBObzogICAgICAgNCwKICAgICAgICAgICAgICAgICAgICBUZXh0OiAgICAgIuesrOWbm+eroFx1MzAwMOWIkee9mjMiLAogICAgICAgICAgICAgICAgICAgIFBhcnRzOiBbXVBhcnR7CiAgICAgICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIE5vOiAgICAgICAzLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgVGV4dDogICAgICLnrKzkuInoioJcdTMwMDDmi5jlvbkiLAogICAgICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBObzogICAgICAgNCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIFRleHQ6ICAgICAi56ys5Zub6IqCXHUzMDAw5pyJ5pyf5b6S5YiR44CB5peg5pyf5b6S5YiRXG7niq/nvarlkozliJHkuovotKPku7siLAogICAgICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICB9LAogICAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICDnrKzkuIDmnaEK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAi56ys5LqM5p2h44CA54qv572q5ZKM5YiR5LqL6LSj5Lu7IiwK</text>
+        <text encoding="base64">ICAgIHByZXR0eS5QcmludChwYXJ0cykK</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
-      <last-search>$</last-search>
+      <last-search>pretty</last-search>
       <last-offset />
-      <last-pattern>$</last-pattern>
+      <last-pattern>pretty</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx2ZWN0b3JVbnNpZ25lZEludFw+</entry>
         <entry encoding="base64">XDxzeW1jbGFzc2VzXD4=</entry>
         <entry encoding="base64">XDxzeW1tZXRyaWVzXD4=</entry>
         <entry encoding="base64">XDxsb2FkRmlsZVw+</entry>
@@ -1436,6 +1436,7 @@
         <entry>adfa</entry>
         <entry>sort</entry>
         <entry>$</entry>
+        <entry>pretty</entry>
       </history-search>
       <history-cmd>
         <entry>actionlist</entry>
