@@ -474,11 +474,11 @@
         <mark key="." line="34" column="28" />
         <mark key="^" line="34" column="28" />
       </file>
-      <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/law.go" timestamp="1491646281472">
-        <mark key="[" line="34" column="30" />
-        <mark key="]" line="34" column="31" />
-        <mark key="." line="34" column="31" />
-        <mark key="^" line="34" column="31" />
+      <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/law.go" timestamp="1491650726453">
+        <mark key="[" line="60" column="9" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
+        <mark key="^" line="56" column="32" />
       </file>
       <file name="$USER_HOME$/workdir/web/vocs-react/src/components/formModal.tsx" timestamp="1490839871932">
         <mark key="'" line="4" column="21" />
@@ -1294,8 +1294,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVmcmVzaFNlYXJjaEZvcm06IHJhbmRvbVN0cigpCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ZW50SUQg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpZHMgPSBhcHBlbmQoaWRzLCApCg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -1402,40 +1402,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZW50SUQg</text>
+        <text>B</text>
       </register>
       <register name="/" type="4">
         <text>admin123</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGMuQXNzZXJ0KGxhd1F1ZXJ5LlBhcnRzWzBdLlBhcnRzWzBdLlBhcnRzWzBdLlRleHQsIEVxdWFscywgMSkK</text>
+        <text encoding="base64">ICAgICAgICB2YXIgaWRzIFtdaW50CiAgICAgICAgaWRzID0gYXBwZW5kKGlkcywgKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGMuQXNzZXJ0KGxhd1F1ZXJ5LklELCBFcXVhbHMsIDEpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZHMgPSBhcHBlbmQoaWRzLCApCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGMuQXNzZXJ0KGxhd1F1ZXJ5LklELCBFcXVhbHMsIDEpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJnaXRodWIuY29tL2tyL3ByZXR0eSIK</text>
+        <text encoding="base64">ICAgIHZhciBpZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByZXR0eS5QcmludGxuKGxhd1F1ZXJ5KQo=</text>
+        <text encoding="base64">ICAgIHBhcnRzIDo9IGxhdy5QYXJ0cwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGMuQXNzZXJ0KGxhd1F1ZXJ5LlBhcnRzWzBdLlBhcnRzLCBJc05pbCkK</text>
+        <text encoding="base64">ICAgIHZhciBwcmVsb2FkQ29uZCBzdHJpbmcK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGMuQXNzZXJ0KGxhd1F1ZXJ5LlBhcnRzWzBdLlBhcnRzLCBJc05pbCkK</text>
+        <text encoding="base64">ICAgIHZhciBwcmVsb2FkQXJncyBbXWludAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGMuQXNzZXJ0KGxhd1F1ZXJ5LlBhcnRzWzBdLk5vLCBFcXVhbHMsIDEpCg==</text>
+        <text encoding="base64">ICAgIHZhciBwcmVsb2FkCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGMuQXNzZXJ0KGxhd1F1ZXJ5LlBhcnRzWzBdLlBhcnRzW0xldmVsLCBFcXVhbHMsIDEpCg==</text>
+        <text encoding="base64">ICAgIHZhciBhcmdzIGludGVyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGMuQXNzZXJ0KGxhd1F1ZXJ5Lk5hbWUsIEVxdWFscywgbGF3Lk5hbWUpCiAgICBjLkFzc2VydChsYXdRdWVyeS5NYWtlciwgRXF1YWxzLCBsYXcuTWFrZXIpCiAgICBjLkFzc2VydChsYXdRdWVyeS5UaW1lc3RhbXAsIEVxdWFscywgbGF3LlRpbWVzdGFtcCkKICAgIGMuQXNzZXJ0KGxhd1F1ZXJ5Lk1heExldmVsLCBFcXVhbHMsIGxhdy5NYXhMZXZlbCkK</text>
+        <text encoding="base64">ICAgICAgICBpZiBsZW4oKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
