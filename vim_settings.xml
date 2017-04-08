@@ -204,12 +204,12 @@
         <mark key="^" line="55" column="28" />
         <mark key="." line="59" column="26" />
       </file>
-      <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/indexer_test.go" timestamp="1491539816511">
-        <mark key="'" line="15" column="7" />
-        <mark key="[" line="307" column="60" />
-        <mark key="]" line="307" column="60" />
-        <mark key="." line="307" column="60" />
-        <mark key="^" line="307" column="60" />
+      <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/indexer_test.go" timestamp="1491633431794">
+        <mark key="'" line="14" column="7" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="329" column="4" />
       </file>
       <file name="$USER_HOME$/sync/code/java/livesim/src/main/java/Category.java" timestamp="1479441952346">
         <mark key="[" line="8" column="31" />
@@ -455,11 +455,11 @@
         <mark key="." line="34" column="28" />
         <mark key="^" line="34" column="28" />
       </file>
-      <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/law.go" timestamp="1491541029439">
-        <mark key="[" line="11" column="19" />
-        <mark key="]" line="12" column="17" />
-        <mark key="^" line="12" column="17" />
-        <mark key="." line="12" column="17" />
+      <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/law.go" timestamp="1491632904046">
+        <mark key="[" line="18" column="19" />
+        <mark key="]" line="18" column="31" />
+        <mark key="^" line="18" column="31" />
+        <mark key="." line="18" column="31" />
       </file>
       <file name="$USER_HOME$/workdir/web/vocs-react/src/components/formModal.tsx" timestamp="1490839871932">
         <mark key="'" line="4" column="21" />
@@ -1075,12 +1075,12 @@
         <mark key="." line="622" column="0" />
         <mark key="^" line="620" column="29" />
       </file>
-      <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/indexer.go" timestamp="1491632220721">
-        <mark key="'" line="141" column="0" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="89" column="14" />
+      <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/indexer.go" timestamp="1491633683126">
+        <mark key="'" line="145" column="0" />
+        <mark key="[" line="163" column="11" />
+        <mark key="]" line="163" column="18" />
+        <mark key="." line="163" column="18" />
+        <mark key="^" line="163" column="18" />
       </file>
       <file name="$USER_HOME$/workdir/web/vocs-react/src/entry/install.tsx" timestamp="1490849582897">
         <mark key="'" line="53" column="82" />
@@ -1259,8 +1259,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVmcmVzaFNlYXJjaEZvcm06IHJhbmRvbVN0cigpCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJnaXRodWIuY29tL2tyL3ByZXR0eSIK</text>
+      <register name="&quot;" type="4">
+        <text>level</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -1367,40 +1367,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>level</text>
       </register>
       <register name="/" type="4">
         <text>pretty</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAi54qv572q5ZKM5YiR5LqL6LSj5Lu7IiwK</text>
+        <text encoding="base64">ICAgIGMuQXNzZXJ0KGxldmVsLCBFcXVhbHMsIDQpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJnaXRodWIuY29tL2tyL3ByZXR0eSIK</text>
+        <text encoding="base64">ICAgIGxldmVsKysK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByZXR0eS5QcmludGxuKGdyb3VwcykK</text>
+        <text encoding="base64">ICAgICAgICBpZiBsZXZlbCA9PSAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByZXR0eS5QcmludGxuKG5vbkVtcHR5TGluZXMpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJnaXRodWIuY29tL2RpbWNoYW5za3kvdXRmYm9tIgo=</text>
+        <text encoding="base64">ICAgICAgICBsZXZlbCsrCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByZXR0eS5QcmludGxuKFtdc3RyaW5ne3N0cmluZyhkYXRhKX0pCg==</text>
+        <text encoding="base64">ICAgICJnaXRodWIuY29tL2tyL3ByZXR0eSIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIGltcG9zc2libGUK</text>
+        <text encoding="base64">ICAgIGxhdy5NYXhMZXZlbCA9IGxldmVsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFuaWMoIuW3sue7jyIpCg==</text>
+        <text encoding="base64">ICAgIHByZXR0eS5QcmludChwYXJ0cykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICDnrKzkuIDmnaEK</text>
+        <text encoding="base64">ICAgICJnaXRodWIuY29tL2tyL3ByZXR0eSIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByZXR0eS5QcmludChwYXJ0cykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByZXR0eS5QcmludGxuKGdyb3VwcykK</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
@@ -1411,7 +1411,7 @@
       <last-offset />
       <last-pattern>pretty</last-pattern>
       <last-replace>&quot;</last-replace>
-      <last-substitute>$</last-substitute>
+      <last-substitute>pretty</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
