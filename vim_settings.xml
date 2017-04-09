@@ -864,11 +864,11 @@
         <mark key="." line="526" column="73" />
         <mark key="^" line="526" column="73" />
       </file>
-      <file name="$USER_HOME$/workdir/react-components/tsconfig.json" timestamp="1491700602361">
-        <mark key="[" line="8" column="12" />
-        <mark key="]" line="8" column="19" />
-        <mark key="." line="8" column="19" />
-        <mark key="^" line="8" column="19" />
+      <file name="$USER_HOME$/workdir/react-components/tsconfig.json" timestamp="1491701231807">
+        <mark key="[" line="17" column="40" />
+        <mark key="]" line="17" column="40" />
+        <mark key="." line="17" column="40" />
+        <mark key="^" line="16" column="26" />
       </file>
       <file name="$USER_HOME$/workdir/lawindexer-ui/tsconfig.json" timestamp="1491699240970">
         <mark key="[" line="8" column="12" />
@@ -1360,7 +1360,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVmcmVzaFNlYXJjaEZvcm06IHJhbmRvbVN0cigpCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>react</text>
+        <text>,</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -1467,7 +1467,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>react</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>quo</text>
@@ -1479,28 +1479,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICAgICJmb3JjZUNvbnNpc3RlbnRDYXNpbmdJbkZpbGVOYW1lcyI6IHRydWUsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBrbG5pdSBvbiAxNy00LTkuCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">LyoqCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHtyZW5kZXJ9IGZyb20gInJlYWN0LWRvbSI7Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICovCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBrbG5pdSBvbiAxNy00LTkuCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">LyoqCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Y2xhc3MgQXBwIGV4dGVuZHMgUmVhY3QuQ29tcG9uZW50PG51bGwsIG51bGw+IHsKICByZW5kZXIoKSB7CiAgICByZXR1cm4gKAogICAgICA8ZGl2IGNsYXNzTmFtZT0iQXBwIj4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iQXBwLWhlYWRlciI+CiAgICAgICAgICA8aW1nIHNyYz17bG9nb30gY2xhc3NOYW1lPSJBcHAtbG9nbyIgYWx0PSJsb2dvIiAvPgogICAgICAgICAgPGgyPldlbGNvbWUgdG8gUmVhY3Q8L2gyPgogICAgICAgIDwvZGl2PgogICAgICAgIDxwIGNsYXNzTmFtZT0iQXBwLWludHJvIj4KICAgICAgICAgIFRvIGdldCBzdGFydGVkLCBlZGl0IDxjb2RlPnNyYy9BcHAudHN4PC9jb2RlPiBhbmQgc2F2ZSB0byByZWxvYWQuCiAgICAgICAgPC9wPgogICAgICA8L2Rpdj4KICAgICk7CiAgfQp9Cg==</text>
+        <text encoding="base64">aW1wb3J0IHtyZW5kZXJ9IGZyb20gInJlYWN0LWRvbSI7Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbXBvbmVudFdpbGxNb3VudCgpIHsKICAgICAgICAvLyBsb2FkIGNvbnN0YW50cwogICAgICAgIGlmIChpc0VtcHR5KFNlYWxUeXBlcykpIHsKICAgICAgICAgICAgZ2V0U2VhbFR5cGVzKCkKICAgICAgICB9CiAgICAgICAgaWYgKGlzRW1wdHkoTWVkaWFTdGF0ZXMpKSB7CiAgICAgICAgICAgIGdldE1lZGlhU3RhdGVzKCkKICAgICAgICB9CiAgICAgICAgaWYgKGlzRW1wdHkoTW9uaXRvclN0YXRlcykpIHsKICAgICAgICAgICAgZ2V0TW9uaXRvclN0YXRlcygpCiAgICAgICAgfQogICAgICAgIGlmIChpc0VtcHR5KERpcmVjdGlvbnMpKSB7CiAgICAgICAgICAgIGdldERpcmVjdGlvbnMoKQogICAgICAgIH0KICAgICAgICBpZiAoaXNFbXB0eShVbml0cykpIHsKICAgICAgICAgICAgZ2V0VW5pdHNJbnN0YWxscygpCiAgICAgICAgfQogICAgICAgIGlmIChpc0VtcHR5KFJ1bGVzKSkgewogICAgICAgICAgICBnZXRSdWxlcygpCiAgICAgICAgfQogICAgfQo=</text>
+        <text encoding="base64">Y2xhc3MgQXBwIGV4dGVuZHMgUmVhY3QuQ29tcG9uZW50PG51bGwsIG51bGw+IHsKICByZW5kZXIoKSB7CiAgICByZXR1cm4gKAogICAgICA8ZGl2IGNsYXNzTmFtZT0iQXBwIj4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iQXBwLWhlYWRlciI+CiAgICAgICAgICA8aW1nIHNyYz17bG9nb30gY2xhc3NOYW1lPSJBcHAtbG9nbyIgYWx0PSJsb2dvIiAvPgogICAgICAgICAgPGgyPldlbGNvbWUgdG8gUmVhY3Q8L2gyPgogICAgICAgIDwvZGl2PgogICAgICAgIDxwIGNsYXNzTmFtZT0iQXBwLWludHJvIj4KICAgICAgICAgIFRvIGdldCBzdGFydGVkLCBlZGl0IDxjb2RlPnNyYy9BcHAudHN4PC9jb2RlPiBhbmQgc2F2ZSB0byByZWxvYWQuCiAgICAgICAgPC9wPgogICAgICA8L2Rpdj4KICAgICk7CiAgfQp9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
