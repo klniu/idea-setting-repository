@@ -867,12 +867,12 @@
         <mark key="." line="22" column="1" />
         <mark key="^" line="9" column="14" />
       </file>
-      <file name="$USER_HOME$/workdir/react-components/src/components/searchForm.tsx" timestamp="1491731721224">
-        <mark key="'" line="6" column="18" />
-        <mark key="[" line="7" column="4" />
-        <mark key="]" line="7" column="14" />
-        <mark key="^" line="7" column="14" />
-        <mark key="." line="7" column="14" />
+      <file name="$USER_HOME$/workdir/react-components/src/components/searchForm.tsx" timestamp="1491734507046">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="111" column="15" />
+        <mark key="]" line="111" column="20" />
+        <mark key="." line="111" column="20" />
+        <mark key="^" line="111" column="20" />
       </file>
       <file name="$USER_HOME$/workdir/web/vocs-react/src/components/statistic.tsx" timestamp="1490948830723">
         <mark key="'" line="142" column="44" />
@@ -1308,10 +1308,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="4" filename="$USER_HOME$/workdir/react-components/src/common/commons.ts" />
-      <jump line="159" column="35" filename="$USER_HOME$/workdir/react-components/src/components/user.tsx" />
-      <jump line="1588" column="11" filename="$USER_HOME$/workdir/vocs-react/src/data/forms.tsx" />
-      <jump line="41" column="6" filename="$USER_HOME$/workdir/react-components/src/common/forms.tsx" />
       <jump line="451" column="26" filename="$USER_HOME$/workdir/react-components/src/common/forms.tsx" />
       <jump line="1615" column="0" filename="$USER_HOME$/workdir/react-components/src/common/forms.tsx" />
       <jump line="136" column="40" filename="$USER_HOME$/workdir/react-components/src/common/forms.tsx" />
@@ -1408,13 +1404,17 @@
       <jump line="37" column="35" filename="$USER_HOME$/workdir/react-components/src/components/formModal.tsx" />
       <jump line="45" column="15" filename="$USER_HOME$/workdir/react-components/src/components/formModal.tsx" />
       <jump line="7" column="18" filename="$USER_HOME$/workdir/react-components/src/components/searchForm.tsx" />
+      <jump line="66" column="7" filename="$USER_HOME$/workdir/react-components/src/components/searchForm.tsx" />
+      <jump line="91" column="90" filename="$USER_HOME$/workdir/react-components/src/components/searchForm.tsx" />
+      <jump line="111" column="0" filename="$USER_HOME$/workdir/react-components/src/components/searchForm.tsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/workdir/react-components/src/components/searchForm.tsx" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVmcmVzaFNlYXJjaEZvcm06IHJhbmRvbVN0cigpCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>InputCountOneLine</text>
+        <text>WrappedSearchForm</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -1521,40 +1521,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>InputCountOneLine</text>
+        <text>WrappedSearchForm</text>
       </register>
       <register name="/" type="4">
         <text>key</text>
       </register>
-      <register name="0" type="4">
-        <text>, {validator: this.checkPass}</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBsZXQgY29sczogSlNYLkVsZW1lbnRbXVtdID0gW1tdLCBbXSwgW10sIFtdLCBbXSwgW10sIFtdLCBbXV07Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgfSwK</text>
+        <text encoding="base64">ICAgICAgICAvL2NvbnN0IGZvcm1JdGVtTGF5b3V0ID0gewogICAgICAgIC8vICBsYWJlbENvbDogewogICAgICAgIC8vICAgIHNwYW46IDEyLAogICAgICAgIC8vICB9LAogICAgICAgIC8vICB3cmFwcGVyQ29sOiB7CiAgICAgICAgLy8gICAgc3BhbjogMTIsCiAgICAgICAgLy8gIH0sCiAgICAgICAgLy99Owo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgICBzcGFuOiAxMiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC9Sb3c+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgd3JhcHBlckNvbDogewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgfSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPFJvdyBndXR0ZXI9eyAxNiB9IHR5cGU9ImZsZXgiIGp1c3RpZnk9ImNlbnRlciI+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgICBzcGFuOiAxMiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHsgY29sc0l0ZW1zIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgbGFiZWxDb2w6IHsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBhcnJhbmdlIHRoZSBmb3JtIGl0ZW1zLCA4IGFycmF5cwogICAgICAgIGZvciAobGV0IGogPSAwOyBqIDwgY29tcG9uZW50cy5sZW5ndGg7IGorKykgewogICAgICAgICAgICBsZXQgbiA9IE1hdGguY2VpbCgoaiArIDEpIC8gdGhpcy5wcm9wcy5JdGVtc1BlclJvdyk7CiAgICAgICAgICAgIGlmIChuICE9PSAwKSB7CiAgICAgICAgICAgICAgICBjb2xzW24gLSAxXS5wdXNoKGNvbXBvbmVudHNbal0pOwogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgY29sc1s4IC0gMV0ucHVzaChjb21wb25lbnRzW2pdKTsKICAgICAgICAgICAgfQogICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvL2NvbnN0IGZvcm1JdGVtTGF5b3V0ID0gewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoIChyb3dOdW0rMSkqcGVyUm93ID49IGNvbHMubGVuZ3RoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHN0YXRlOiBTZWFyY2hGb3JtU3RhdGVzID0gewogICAgICAgIGxvYWRpbmc6IGZhbHNlLAogICAgICAgIGFsZXJ0czogW10sCiAgICAgICAgc2VhcmNoQnV0dG9uRGlzYWJsZWQ6IHRydWUsCiAgICB9OwoK</text>
+        <text encoding="base64">ICAgICAgICBsZXQgY29sczogSlNYLkVsZW1lbnRbXVtdID0gW1tdLCBbXSwgW10sIFtdLCBbXSwgW10sIFtdLCBbXV07Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZvcm0/OiBXcmFwcGVkRm9ybVV0aWxzIC8vIGFudGQgZm9ybQo=</text>
+        <text encoding="base64">ICAgICAgICBsZXQgY29sc0l0ZW1zOiBKU1guRWxlbWVudFtdID0gW107Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
