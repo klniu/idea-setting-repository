@@ -283,11 +283,12 @@
         <mark key="^" line="71" column="55" />
         <mark key="." line="71" column="0" />
       </file>
-      <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/model.go" timestamp="1491800028763">
+      <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/model.go" timestamp="1491802851039">
         <mark key="'" line="21" column="6" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
+        <mark key="[" line="44" column="31" />
+        <mark key="]" line="44" column="36" />
+        <mark key="^" line="44" column="36" />
+        <mark key="." line="44" column="36" />
       </file>
       <file name="$USER_HOME$/sync/code/java/livesim/src/main/java/History.java" timestamp="1480318763076">
         <mark key="'" line="0" column="0" />
@@ -460,12 +461,12 @@
         <mark key="." line="34" column="28" />
         <mark key="^" line="34" column="28" />
       </file>
-      <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/law.go" timestamp="1491800024987">
+      <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/law.go" timestamp="1491803976244">
         <mark key="'" line="7" column="0" />
-        <mark key="[" line="38" column="1" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
-        <mark key="^" line="39" column="0" />
+        <mark key="[" line="8" column="23" />
+        <mark key="]" line="8" column="22" />
+        <mark key="." line="8" column="22" />
+        <mark key="^" line="8" column="22" />
       </file>
       <file name="$USER_HOME$/workdir/web/vocs-react/src/components/formModal.tsx" timestamp="1490839871932">
         <mark key="'" line="4" column="21" />
@@ -1272,7 +1273,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVmcmVzaFNlYXJjaEZvcm06IHJhbmRvbVN0cigpCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Update</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -1379,19 +1380,29 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Update</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>$</text>
       </register>
-      <register name="0" type="4">
-        <text>`gorm:&quot;type:varchar(100);unique_index&quot;`</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZtdC5FcnJvcmYoIuWIm+W7uueuoeeQhuWRmOWksei0pe+8miVzIiwgZXJyLkVycm9yKCkpCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="8">
+        <text>&quot;
+&quot;
+&quot;
+&quot;
+&quot;
+&quot;
+&quot;
+&quot;
+&quot;
+&quot;
+&quot;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -1400,19 +1411,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnVuYyAoZGIgKkRCKSBhZGRDYXRlZ29yaWVzKCkgewoKfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnVuYyAoZGIgKkRCKSBTZXRPcHRpb24oa2V5LCB2YWx1ZSBzdHJpbmcpIHsKCn0KCmZ1bmMgKGRiICpEQikgUmVhZE9wdGlvbihrZXkgc3RyaW5nKSBlcnJvciB7Cgp9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZtdC5QcmludGxuKGNudCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
