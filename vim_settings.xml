@@ -82,12 +82,12 @@
         <mark key="." line="9" column="60" />
         <mark key="^" line="9" column="70" />
       </file>
-      <file name="$USER_HOME$/sync/code/c#/LawViewer/LawViewer/LeftTree.cs" timestamp="1492220673322">
-        <mark key="'" line="20" column="30" />
-        <mark key="[" line="184" column="27" />
-        <mark key="]" line="184" column="36" />
-        <mark key="." line="184" column="36" />
-        <mark key="^" line="184" column="36" />
+      <file name="$USER_HOME$/sync/code/c#/LawViewer/LawViewer/LeftTree.cs" timestamp="1492265220259">
+        <mark key="'" line="267" column="16" />
+        <mark key="[" line="39" column="12" />
+        <mark key="]" line="39" column="13" />
+        <mark key="." line="39" column="13" />
+        <mark key="^" line="39" column="13" />
       </file>
       <file name="$USER_HOME$/workdir/vocs-react/src/entry/main.tsx" timestamp="1491702809108">
         <mark key="'" line="93" column="7" />
@@ -407,10 +407,11 @@
         <mark key="^" line="1" column="152" />
         <mark key="." line="1" column="152" />
       </file>
-      <file name="$USER_HOME$/sync/code/c#/LawViewer/LawViewer/MainUI.cs" timestamp="1492228864997">
-        <mark key="[" line="37" column="83" />
-        <mark key="]" line="37" column="83" />
-        <mark key="." line="37" column="83" />
+      <file name="$USER_HOME$/sync/code/c#/LawViewer/LawViewer/MainUI.cs" timestamp="1492267751496">
+        <mark key="[" line="76" column="69" />
+        <mark key="]" line="76" column="95" />
+        <mark key="." line="76" column="69" />
+        <mark key="^" line="55" column="90" />
       </file>
       <file name="$USER_HOME$/workdir/shopping-management-system/0#Java基础项目/shopping-management-system/src/lyons/tools/ScannerChoice.java" timestamp="1479609491597">
         <mark key="'" line="86" column="38" />
@@ -847,6 +848,12 @@
         <mark key="[" line="156" column="0" />
         <mark key="]" line="160" column="0" />
         <mark key="." line="156" column="26" />
+      </file>
+      <file name="$USER_HOME$/sync/code/c#/LawViewer/LawViewer/Resources.cs" timestamp="1492266118707">
+        <mark key="[" line="81" column="38" />
+        <mark key="]" line="81" column="38" />
+        <mark key="." line="81" column="38" />
+        <mark key="^" line="86" column="35" />
       </file>
       <file name="$USER_HOME$/workdir/vocs-react/src/data/forms.tsx" timestamp="1491706711212">
         <mark key="'" line="1607" column="30" />
@@ -1322,10 +1329,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="150" column="25" filename="$USER_HOME$/workdir/react-components/src/common/forms.tsx" />
-      <jump line="38" column="13" filename="$USER_HOME$/workdir/react-components/src/common/forms.tsx" />
-      <jump line="174" column="30" filename="$USER_HOME$/workdir/react-components/src/common/forms.tsx" />
-      <jump line="7" column="0" filename="$USER_HOME$/workdir/react-components/src/common/forms.tsx" />
       <jump line="15" column="43" filename="$USER_HOME$/workdir/react-components/src/common/forms.tsx" />
       <jump line="20" column="65" filename="$USER_HOME$/workdir/react-components/src/common/forms.tsx" />
       <jump line="124" column="12" filename="$USER_HOME$/workdir/react-components/src/common/forms.tsx" />
@@ -1422,13 +1425,17 @@
       <jump line="62" column="13" filename="$USER_HOME$/workdir/code/Eto/Source/Eto.Test/Eto.Test/Sections/Controls/TreeViewSection.cs" />
       <jump line="58" column="21" filename="$USER_HOME$/workdir/code/Eto/Source/Eto.Test/Eto.Test/Sections/Controls/TreeViewSection.cs" />
       <jump line="61" column="50" filename="$USER_HOME$/workdir/code/Eto/Source/Eto.Test/Eto.Test/Sections/Controls/TreeViewSection.cs" />
+      <jump line="423" column="32" filename="$USER_HOME$/sync/code/c#/LawViewer/LawViewer/LeftTree.cs" />
+      <jump line="106" column="62" filename="$USER_HOME$/sync/code/c#/LawViewer/LawViewer/LeftTree.cs" />
+      <jump line="259" column="16" filename="$USER_HOME$/sync/code/c#/LawViewer/LawViewer/LeftTree.cs" />
+      <jump line="87" column="35" filename="$USER_HOME$/sync/code/c#/LawViewer/LawViewer/MainUI.cs" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVmcmVzaFNlYXJjaEZvcm06IHJhbmRvbVN0cigpCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>309下一页</text>
+        <text>, Size = new Size(310, -1)</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -1535,69 +1542,56 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>309下一页</text>
+        <text>, null</text>
       </register>
       <register name="/" type="4">
-        <text>mouse</text>
+        <text>getre</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGFkZFN1Ykl0ZW0gPSBuZXcgQnV0dG9uTWVudUl0ZW0ge1RleHQgPSAi5re75Yqg5rOV6KeEIn07CiAgICAgICAgICAgIGFkZFN1Ykl0ZW0uQ2xpY2sgKz0gZGVsZWdhdGUKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgaWYgKFNlbGVjdGVkSXRlbSAhPSBudWxsKQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9OwogICAgICAgICAgICBtZW51Lkl0ZW1zLkFkZChhZGRTdWJJdGVtKTsK</text>
+      <register name="0" type="4">
+        <text>, Size = new Size(310, -1)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBSZXNvCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEhlaWdodCA9IDI1LAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIENvbnNvbGUuV3JpdGVMaW5lKGl0ZW0uVGFnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdG9vbEJhci4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIENvbnNvbGUuV3JpdGVMaW5lKGl0ZW0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgVG9vbEJhci5ICg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWVudS5JdGVtcy5BZGQoYWRkU3ViSXRlbSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIG1haW5MYXlvdXQgPSBuZXcgVGFibGVMYXlvdXQKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgU3BhY2luZyA9IG5ldyBTaXplKDUsIDUpLAogICAgICAgICAgICAgICAgUm93cyA9CiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgbmV3IFRhYmxlTGF5b3V0KAogICAgICAgICAgICAgICAgICAgICAgICBuZXcgVGFibGVSb3coVGFibGVMYXlvdXQuQXV0b1NpemVkKHRleHRTZWFyY2hJbnB1dCksIHRleHRTZWFyY2hCdXR0b24pKSwKICAgICAgICAgICAgICAgICAgICB0aXRsZUxpc3RCb3gKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFyZ3MK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEltYWdlID0gUmVzb3VyY2VzLlNlYXJjaCgpCg==</text>
       </register>
-      <register name="7" type="8">
-        <text>//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEhlaWdodCA9IDI1LAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBDb250ZXh0TWVudSA9IG51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vU2l6ZSA9IG5ldyBTaXplIHtIZWlnaHQgPSAyNSwgV2lkdGggPSAyNX0sCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgaXRlbSA9IEdldE5vZGVBdChlLkxvY2F0aW9uKSBhcyBUcmVlSXRlbTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
-      <last-search>mouse</last-search>
+      <last-search>getre</last-search>
       <last-offset />
-      <last-pattern>mouse</last-pattern>
+      <last-pattern>getre</last-pattern>
       <last-replace>v.\1</last-replace>
-      <last-substitute encoding="base64">XDxDcmVhdGVUcmVlSXRlbVw+</last-substitute>
+      <last-substitute>getre</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>v\['\(\w*\)'\]</entry>
         <entry>public</entry>
         <entry>semi</entry>
         <entry>element</entry>
@@ -1613,10 +1607,11 @@
         <entry encoding="base64">XDx0cmVlVmlld1w+</entry>
         <entry encoding="base64">XDxSZWZyZXNoRGF0YVw+</entry>
         <entry>size</entry>
-        <entry encoding="base64">XDxDcmVhdGVUcmVlSXRlbVw+</entry>
         <entry encoding="base64">XDxIb3Zlck5vZGVMYWJlbFw+</entry>
         <entry>nodemouse</entry>
         <entry>mouse</entry>
+        <entry encoding="base64">XDxDcmVhdGVUcmVlSXRlbVw+</entry>
+        <entry>getre</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyAvL2dj</entry>
