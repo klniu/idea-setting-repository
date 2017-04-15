@@ -407,11 +407,10 @@
         <mark key="^" line="1" column="152" />
         <mark key="." line="1" column="152" />
       </file>
-      <file name="$USER_HOME$/sync/code/c#/LawViewer/LawViewer/MainUI.cs" timestamp="1492221435630">
-        <mark key="[" line="36" column="52" />
-        <mark key="]" line="36" column="61" />
-        <mark key="^" line="36" column="61" />
-        <mark key="." line="36" column="61" />
+      <file name="$USER_HOME$/sync/code/c#/LawViewer/LawViewer/MainUI.cs" timestamp="1492227884198">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/workdir/shopping-management-system/0#Java基础项目/shopping-management-system/src/lyons/tools/ScannerChoice.java" timestamp="1479609491597">
         <mark key="'" line="86" column="38" />
@@ -1428,8 +1427,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVmcmVzaFNlYXJjaEZvcm06IHJhbmRvbVN0cigpCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>addSubItem</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBSZXNvCg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -1536,7 +1535,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>addSubItem</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>mouse</text>
@@ -1545,21 +1544,24 @@
         <text encoding="base64">ICAgICAgICAgICAgdmFyIGFkZFN1Ykl0ZW0gPSBuZXcgQnV0dG9uTWVudUl0ZW0ge1RleHQgPSAi5re75Yqg5rOV6KeEIn07CiAgICAgICAgICAgIGFkZFN1Ykl0ZW0uQ2xpY2sgKz0gZGVsZWdhdGUKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgaWYgKFNlbGVjdGVkSXRlbSAhPSBudWxsKQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9OwogICAgICAgICAgICBtZW51Lkl0ZW1zLkFkZChhZGRTdWJJdGVtKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIENvbnNvbGUuV3JpdGVMaW5lKGl0ZW0uVGFnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBSZXNvCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIENvbnNvbGUuV3JpdGVMaW5lKGl0ZW0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIENvbnNvbGUuV3JpdGVMaW5lKGl0ZW0uVGFnKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWVudS5JdGVtcy5BZGQoYWRkU3ViSXRlbSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIENvbnNvbGUuV3JpdGVMaW5lKGl0ZW0pOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFyZ3MK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWVudS5JdGVtcy5BZGQoYWRkU3ViSXRlbSk7Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFyZ3MK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="8">
+      <register name="7" type="8">
         <text>//
 //
 //
@@ -1574,14 +1576,11 @@
 //
 //</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBDb250ZXh0TWVudSA9IG51bGw7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgaXRlbSA9IEdldE5vZGVBdChlLkxvY2F0aW9uKSBhcyBUcmVlSXRlbTsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWVudS5JdGVtcy5BZGQoYWRkU3ViSXRlbSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgaXRlbSA9IEdldE5vZGVBdChlLkxvY2F0aW9uKSBhcyBUcmVlSXRlbTsK</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
