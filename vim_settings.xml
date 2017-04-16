@@ -82,12 +82,10 @@
         <mark key="." line="9" column="60" />
         <mark key="^" line="9" column="70" />
       </file>
-      <file name="$USER_HOME$/sync/code/c#/LawViewer/LawViewer/LeftTree.cs" timestamp="1492265220259">
-        <mark key="'" line="267" column="16" />
-        <mark key="[" line="39" column="12" />
-        <mark key="]" line="39" column="13" />
-        <mark key="." line="39" column="13" />
-        <mark key="^" line="39" column="13" />
+      <file name="$USER_HOME$/sync/code/c#/LawViewer/LawViewer/LeftTree.cs" timestamp="1492306752323">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/workdir/vocs-react/src/entry/main.tsx" timestamp="1491702809108">
         <mark key="'" line="93" column="7" />
@@ -205,6 +203,12 @@
         <mark key="." line="42" column="0" />
         <mark key="^" line="115" column="4" />
       </file>
+      <file name="$USER_HOME$/sync/code/c#/LawViewer/LawViewer/ViewerHandler.cs" timestamp="1492306814558">
+        <mark key="[" line="11" column="28" />
+        <mark key="]" line="11" column="28" />
+        <mark key="^" line="11" column="27" />
+        <mark key="." line="11" column="28" />
+      </file>
       <file name="$USER_HOME$/sync/code/java/xiaoyi/src/main/java/com/klniu/xiaoyi/IndexFiles.java" timestamp="1484444233255">
         <mark key="'" line="105" column="0" />
         <mark key="[" line="82" column="41" />
@@ -305,6 +309,12 @@
         <mark key="]" line="61" column="100" />
         <mark key="." line="40" column="0" />
         <mark key="^" line="15" column="28" />
+      </file>
+      <file name="$USER_HOME$/sync/code/c#/LawViewer/LawViewer/LawViewer.cs" timestamp="1492305407431">
+        <mark key="[" line="5" column="5" />
+        <mark key="]" line="6" column="52" />
+        <mark key="." line="6" column="52" />
+        <mark key="^" line="6" column="52" />
       </file>
       <file name="$USER_HOME$/sync/code/go/src/mingerserver/robotserver/messages_test.go" timestamp="1489576860302">
         <mark key="[" line="0" column="13" />
@@ -407,11 +417,12 @@
         <mark key="^" line="1" column="152" />
         <mark key="." line="1" column="152" />
       </file>
-      <file name="$USER_HOME$/sync/code/c#/LawViewer/LawViewer/MainUI.cs" timestamp="1492267751496">
-        <mark key="[" line="76" column="69" />
-        <mark key="]" line="76" column="95" />
-        <mark key="." line="76" column="69" />
-        <mark key="^" line="55" column="90" />
+      <file name="$USER_HOME$/sync/code/c#/LawViewer/LawViewer/MainUI.cs" timestamp="1492306163850">
+        <mark key="'" line="192" column="12" />
+        <mark key="[" line="17" column="41" />
+        <mark key="]" line="17" column="41" />
+        <mark key="." line="17" column="41" />
+        <mark key="^" line="17" column="41" />
       </file>
       <file name="$USER_HOME$/workdir/shopping-management-system/0#Java基础项目/shopping-management-system/src/lyons/tools/ScannerChoice.java" timestamp="1479609491597">
         <mark key="'" line="86" column="38" />
@@ -1329,8 +1340,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="43" filename="$USER_HOME$/workdir/react-components/src/common/forms.tsx" />
-      <jump line="20" column="65" filename="$USER_HOME$/workdir/react-components/src/common/forms.tsx" />
       <jump line="124" column="12" filename="$USER_HOME$/workdir/react-components/src/common/forms.tsx" />
       <jump line="152" column="16" filename="$USER_HOME$/workdir/react-components/src/common/forms.tsx" />
       <jump line="155" column="41" filename="$USER_HOME$/workdir/react-components/src/common/forms.tsx" />
@@ -1429,13 +1438,15 @@
       <jump line="106" column="62" filename="$USER_HOME$/sync/code/c#/LawViewer/LawViewer/LeftTree.cs" />
       <jump line="259" column="16" filename="$USER_HOME$/sync/code/c#/LawViewer/LawViewer/LeftTree.cs" />
       <jump line="87" column="35" filename="$USER_HOME$/sync/code/c#/LawViewer/LawViewer/MainUI.cs" />
+      <jump line="192" column="12" filename="$USER_HOME$/sync/code/c#/LawViewer/LawViewer/MainUI.cs" />
+      <jump line="237" column="48" filename="$USER_HOME$/sync/code/c#/LawViewer/LawViewer/LeftTree.cs" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVmcmVzaFNlYXJjaEZvcm06IHJhbmRvbVN0cigpCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>, Size = new Size(310, -1)</text>
+        <text>]</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -1542,40 +1553,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, null</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>getre</text>
       </register>
-      <register name="0" type="4">
-        <text>, Size = new Size(310, -1)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGxhd3NNYXAuQ29udGFpbnNLZXkobGF3LlRpdGxlKSkgY29udGludWU7CiAgICAgICAgICAgICAgICAgICAgICAgIGxhd3NNYXAuQWRkKGxhdy5UaXRsZSwgbGF3LkNvbnRlbnQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEhlaWdodCA9IDI1LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgR2VuZXJhdGVEYXRhU3RvcmUoY2F0cyk7CiAgICAgICAgICAgIGZvcmVhY2ggKHZhciBjYXQgaW4gY2F0cykKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgZm9yZWFjaCAodmFyIHN1YkNhdCBpbiBjYXQuU3ViQ2F0ZWdvcmllcykKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBmb3JlYWNoICh2YXIgbGF3IGluIHN1YkNhdC5MYXdzKQogICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGxhd3NNYXAuQ29udGFpbnNLZXkobGF3LlRpdGxlKSkgY29udGludWU7CiAgICAgICAgICAgICAgICAgICAgICAgIGxhd3NNYXAuQWRkKGxhdy5UaXRsZSwgbGF3LkNvbnRlbnQpOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQoKICAgICAgICAgICAgLy9TaXplID0gbmV3IFNpemUoMzUwLCAtMSk7Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdG9vbEJhci4K</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgdm9pZCBTZXRXZWJWaWV3KFdlYlZpZXcgd2ViVmlldykKICAgICAgICB7CiAgICAgICAgICAgIHRoaXMud2ViVmlldyA9IHdlYlZpZXc7CiAgICAgICAgfQoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVG9vbEJhci5ICg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yZWFjaCAodmFyIGNhdCBpbiBjYXRzKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBmb3JlYWNoICh2YXIgc3ViQ2F0IGluIGNhdC5TdWJDYXRlZ29yaWVzKQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIGZvcmVhY2ggKHZhciBsYXcgaW4gc3ViQ2F0Lkxhd3MpCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICBpZiAobGF3c01hcC5Db250YWluc0tleShsYXcuVGl0bGUpKSBjb250aW51ZTsKICAgICAgICAgICAgICAgICAgICAgICAgbGF3c01hcC5BZGQobGF3LlRpdGxlLCBsYXcuQ29udGVudCk7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIG1haW5MYXlvdXQgPSBuZXcgVGFibGVMYXlvdXQKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgU3BhY2luZyA9IG5ldyBTaXplKDUsIDUpLAogICAgICAgICAgICAgICAgUm93cyA9CiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgbmV3IFRhYmxlTGF5b3V0KAogICAgICAgICAgICAgICAgICAgICAgICBuZXcgVGFibGVSb3coVGFibGVMYXlvdXQuQXV0b1NpemVkKHRleHRTZWFyY2hJbnB1dCksIHRleHRTZWFyY2hCdXR0b24pKSwKICAgICAgICAgICAgICAgICAgICB0aXRsZUxpc3RCb3gKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbGF3c01hcC5BZGQobGF3LlRpdGxlLCBsYXcuQ29udGVudCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEltYWdlID0gUmVzb3VyY2VzLlNlYXJjaCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgdm9pZCBHZW5lcmF0ZURhdGFTdG9yZShJRW51bWVyYWJsZTxDYXRlZ29yeT4gY2F0cykKICAgICAgICB7CiAgICAgICAgICAgIHZhciBjb2xsZWN0aW9ucyA9IG5ldyBUcmVlSXRlbUNvbGxlY3Rpb24oKTsKICAgICAgICAgICAgdmFyIGluZGV4ID0gMTsKICAgICAgICAgICAgZm9yZWFjaCAodmFyIGNhdCBpbiBjYXRzKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB2YXIgdHJlZUl0ZW0gPSBuZXcgVHJlZUl0ZW0KICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBLZXkgPSAiQ2F0ZWdvcnkiICsgaW5kZXgrKywKICAgICAgICAgICAgICAgICAgICBUZXh0ID0gY2F0Lk5hbWUsCiAgICAgICAgICAgICAgICAgICAgSW1hZ2UgPSBSZXNvdXJjZXMuQ2F0ZWdvcnkoKSwKICAgICAgICAgICAgICAgICAgICBUYWcgPSAiQ2F0ZWdvcnkiCiAgICAgICAgICAgICAgICB9OwogICAgICAgICAgICAgICAgZm9yZWFjaCAodmFyIHN1YmNhdCBpbiBjYXQuU3ViQ2F0ZWdvcmllcykKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICB2YXIgc3ViVHJlZUl0ZW0gPSBuZXcgVHJlZUl0ZW0KICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgIEtleSA9ICJTdWJDYXRlZ29yeSIgKyBpbmRleCsrLAogICAgICAgICAgICAgICAgICAgICAgICBUZXh0ID0gc3ViY2F0Lk5hbWUsCiAgICAgICAgICAgICAgICAgICAgICAgIEltYWdlID0gUmVzb3VyY2VzLkNhdGVnb3J5KCksCiAgICAgICAgICAgICAgICAgICAgICAgIFRhZyA9ICJTdWJDYXRlZ29yeSIKICAgICAgICAgICAgICAgICAgICB9OwogICAgICAgICAgICAgICAgICAgIGZvcmVhY2ggKHZhciBsYXcgaW4gc3ViY2F0Lkxhd3MpCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICBzdWJUcmVlSXRlbS5DaGlsZHJlbi5BZGQoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBuZXcgVHJlZUl0ZW0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBLZXkgPSAiTGF3IiArIGluZGV4KyssCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgVGV4dCA9IGxhdy5UaXRsZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBJbWFnZSA9IFJlc291cmNlcy5MYXcoKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBUYWcgPSAiTGF3IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIHRyZWVJdGVtLkNoaWxkcmVuLkFkZChzdWJUcmVlSXRlbSk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBjb2xsZWN0aW9ucy5BZGQodHJlZUl0ZW0pOwogICAgICAgICAgICB9CiAgICAgICAgICAgIERhdGFTdG9yZSA9IGNvbGxlY3Rpb25zOwogICAgICAgIH0KCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEhlaWdodCA9IDI1LAo=</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHJlYWRvbmx5IFtdIGNhdHM7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vU2l6ZSA9IG5ldyBTaXplIHtIZWlnaHQgPSAyNSwgV2lkdGggPSAyNX0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQWN0aXZhdGVkICs9IChzZW5kZXIsIGFyZ3MpID0+CiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHZhciBpdGVtID0gU2VsZWN0ZWRJdGVtIGFzIFRyZWVJdGVtOwogICAgICAgICAgICAgICAgaWYgKGl0ZW0uVGFnID09ICJMYXciKQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIHdlYlZpZXcuTG9hZEh0bWwobGF3c01hcFtpdGVtLlRleHRdIGFzIHN0cmluZyk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBlbHNlIGlmIChpdGVtLlRhZyA9PSAiQ2F0ZWdvcnkiIHx8IGl0ZW0uVGFnID09ICJTdWJDYXRlZ29yeSIpCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgaXRlbS5FeHBhbmRlZCA9ICFpdGVtLkV4cGFuZGVkOwogICAgICAgICAgICAgICAgICAgIFJlZnJlc2hEYXRhKCk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH07Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIFdlYlZpZXcgd2ViVmlldzsK</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
@@ -1588,7 +1599,7 @@
       <last-replace>v.\1</last-replace>
       <last-substitute>getre</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
