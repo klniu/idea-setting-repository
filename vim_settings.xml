@@ -72,6 +72,12 @@
         <mark key="^" line="3" column="43" />
         <mark key="." line="3" column="43" />
       </file>
+      <file name="$USER_HOME$/workdir/web/react-components/tsconfig.json" timestamp="1492485489778">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="16" column="26" />
+        <mark key="." line="26" column="0" />
+      </file>
       <file name="$USER_HOME$/workdir/web/vocs-react/src/components/sidebar.tsx" timestamp="1490762879570">
         <mark key="'" line="3" column="28" />
         <mark key="[" line="3" column="28" />
@@ -448,9 +454,6 @@
         <mark key="]" line="57" column="96" />
         <mark key="." line="1064" column="8" />
         <mark key="^" line="158" column="76" />
-      </file>
-      <file name="$APPLICATION_HOME_DIR$/plugins/tslint/lib/tslint.jar!/tslintJsonSchema/tslint-schema.json" timestamp="1491707356300">
-        <mark key="'" line="279" column="9" />
       </file>
       <file name="$USER_HOME$/workdir/react-components/src/styles/user.css" timestamp="1491717147991">
         <mark key="[" line="6" column="1" />
@@ -1355,6 +1358,9 @@
         <mark key="." line="16" column="17" />
         <mark key="^" line="16" column="16" />
       </file>
+      <file name="$APPLICATION_HOME_DIR$/plugins/tslint/lib/tslint.jar!/tslintJsonSchema/tslint-schema.json" timestamp="1491707356300">
+        <mark key="'" line="279" column="9" />
+      </file>
       <file name="$USER_HOME$/workdir/java/livesim/package.json" timestamp="1480666621752">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -1486,8 +1492,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVmcmVzaFNlYXJjaEZvcm06IHJhbmRvbVN0cigpCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>22资料_手册</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICJtb2NoYSIsCg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -1594,49 +1600,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>22资料_手册</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>test</text>
+        <text>jest</text>
       </register>
       <register name="0" type="4">
         <text>22资料_手册.png</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5HZXRNYW5pZmVzdFJlc291cmNlU3RyZWFtKCJMYXdWaWV3ZXIuUmVzb3VyY2VzLl8yMui1hOaWmV/miYvlhowiKSk7Cg==</text>
+        <text encoding="base64">ICAgICJtb2NoYSIsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5ldyBCaXRtYXAoQXNzZW1ibHkuR2V0RW50cnlBc3NlbWJseSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5HZXRNYW5pZmVzdFJlc291cmNlU3RyZWFtKCJMYXdWaWV3ZXIuUmVzb3VyY2VzLl8yMui1hOaWmV/miYvlhowiKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNpbmcgTGF3Vmlld2VyLlByb3BlcnRpZXM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5ldyBCaXRtYXAoQXNzZW1ibHkuR2V0RW50cnlBc3NlbWJseSgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtLlJlc291cmNlczsK</text>
+        <text encoding="base64">dXNpbmcgTGF3Vmlld2VyLlByb3BlcnRpZXM7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtLklPOwo=</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtLlJlc291cmNlczsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtLklPOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEltYWdlCg==</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEltYWdlID0gUmVzb3VyY2VNYW4uU2VhcmNoKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEltYWdlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEltYWdlID0gUmVzb3VyY2VNYW4uU2VhcmNoKCkK</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
-      <last-search>test</last-search>
+      <last-search>jest</last-search>
       <last-offset />
-      <last-pattern>test</last-pattern>
+      <last-pattern>jest</last-pattern>
       <last-replace>-</last-replace>
       <last-substitute>、</last-substitute>
       <last-dir>1</last-dir>
@@ -1644,7 +1650,6 @@
     </search>
     <history>
       <history-search>
-        <entry>button</entry>
         <entry>normal</entry>
         <entry>key</entry>
         <entry encoding="base64">XDxJbWFnZVw+</entry>
@@ -1664,6 +1669,7 @@
         <entry>console</entry>
         <entry>、</entry>
         <entry>test</entry>
+        <entry>jest</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyAvL2c=</entry>
