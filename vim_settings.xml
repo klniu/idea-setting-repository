@@ -73,12 +73,12 @@
         <mark key="^" line="14" column="25" />
         <mark key="." line="14" column="25" />
       </file>
-      <file name="$USER_HOME$/workdir/web/react-components/src/App.tsx" timestamp="1492656924605">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="50" column="27" />
-        <mark key="]" line="50" column="28" />
-        <mark key="." line="50" column="28" />
-        <mark key="^" line="54" column="7" />
+      <file name="$USER_HOME$/workdir/web/react-components/src/App.tsx" timestamp="1492658594432">
+        <mark key="'" line="61" column="0" />
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="^" line="69" column="76" />
+        <mark key="." line="72" column="0" />
       </file>
       <file name="$USER_HOME$/workdir/web/vocs-react/src/components/sidebar.tsx" timestamp="1490762879570">
         <mark key="'" line="3" column="28" />
@@ -406,6 +406,13 @@
         <mark key="." line="54" column="9" />
         <mark key="^" line="54" column="9" />
       </file>
+      <file name="$USER_HOME$/workdir/web/react-components/src/components/upload.tsx" timestamp="1492658578265">
+        <mark key="'" line="105" column="52" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="101" column="47" />
+      </file>
       <file name="$USER_HOME$/sync/code/java/livesim/src/main/Tree.java" timestamp="1478853333202">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -484,7 +491,7 @@
         <mark key="." line="6" column="1" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1492656964846">
+      <file name="/Dummy.txt" timestamp="1492658756098">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1238,8 +1245,8 @@
         <mark key="." line="5" column="17" />
         <mark key="^" line="5" column="17" />
       </file>
-      <file name="$USER_HOME$/workdir/web/react-components/tslint.json" timestamp="1492494325539">
-        <mark key="'" line="65" column="14" />
+      <file name="$USER_HOME$/workdir/web/react-components/tslint.json" timestamp="1492658643599">
+        <mark key="'" line="44" column="38" />
         <mark key="[" line="31" column="18" />
         <mark key="]" line="31" column="22" />
         <mark key="." line="31" column="22" />
@@ -1431,23 +1438,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="90" column="70" filename="$USER_HOME$/workdir/web/react-components/src/common/forms.tsx" />
-      <jump line="8" column="0" filename="$USER_HOME$/workdir/web/react-components/src/common/forms.tsx" />
-      <jump line="41" column="10" filename="$USER_HOME$/workdir/web/react-components/src/common/forms.tsx" />
-      <jump line="239" column="0" filename="$USER_HOME$/workdir/web/react-components/src/common/forms.tsx" />
-      <jump line="20" column="49" filename="$USER_HOME$/workdir/web/react-components/src/common/forms.tsx" />
-      <jump line="197" column="34" filename="$USER_HOME$/workdir/web/react-components/src/common/forms.tsx" />
-      <jump line="111" column="15" filename="$USER_HOME$/workdir/web/react-components/src/components/searchForm.tsx" />
-      <jump line="87" column="33" filename="$USER_HOME$/workdir/web/react-components/src/components/searchForm.tsx" />
-      <jump line="108" column="51" filename="$USER_HOME$/workdir/web/react-components/src/components/form.tsx" />
-      <jump line="53" column="65" filename="$USER_HOME$/workdir/web/react-components/src/common/forms.tsx" />
-      <jump line="21" column="19" filename="$USER_HOME$/workdir/web/react-components/src/common/forms.tsx" />
-      <jump line="217" column="50" filename="$USER_HOME$/workdir/web/react-components/src/common/forms.tsx" />
-      <jump line="24" column="33" filename="$USER_HOME$/workdir/web/react-components/src/common/forms.tsx" />
-      <jump line="16" column="0" filename="$USER_HOME$/workdir/web/react-components/src/common/forms.tsx" />
-      <jump line="211" column="0" filename="$USER_HOME$/workdir/web/react-components/src/common/forms.tsx" />
-      <jump line="12" column="21" filename="$USER_HOME$/workdir/web/react-components/src/components/treePage.tsx" />
-      <jump line="12" column="8" filename="$USER_HOME$/workdir/web/react-components/node_modules/antd/lib/table/Column.d.ts" />
       <jump line="88" column="21" filename="$USER_HOME$/workdir/web/react-components/src/components/treePage.tsx" />
       <jump line="102" column="25" filename="$USER_HOME$/workdir/web/react-components/src/components/form.tsx" />
       <jump line="11" column="4" filename="$USER_HOME$/workdir/web/react-components/src/components/form.tsx" />
@@ -1531,13 +1521,30 @@
       <jump line="69" column="12" filename="$USER_HOME$/workdir/web/react-components/src/components/form.tsx" />
       <jump line="50" column="17" filename="$USER_HOME$/workdir/web/react-components/src/App.tsx" />
       <jump line="4" column="0" filename="$USER_HOME$/workdir/web/react-components/src/App.tsx" />
+      <jump line="67" column="26" filename="$USER_HOME$/workdir/web/react-components/src/components/upload.tsx" />
+      <jump line="83" column="23" filename="$USER_HOME$/workdir/web/react-components/src/components/upload.tsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/workdir/web/react-components/src/components/upload.tsx" />
+      <jump line="60" column="0" filename="$USER_HOME$/workdir/web/react-components/src/App.tsx" />
+      <jump line="15" column="26" filename="$USER_HOME$/workdir/web/react-components/src/components/upload.tsx" />
+      <jump line="123" column="37" filename="$USER_HOME$/workdir/web/react-components/src/components/upload.tsx" />
+      <jump line="102" column="16" filename="$USER_HOME$/workdir/web/react-components/src/components/upload.tsx" />
+      <jump line="141" column="20" filename="$USER_HOME$/workdir/web/react-components/src/components/upload.tsx" />
+      <jump line="130" column="24" filename="$USER_HOME$/workdir/web/react-components/src/components/upload.tsx" />
+      <jump line="116" column="15" filename="$USER_HOME$/workdir/web/react-components/src/components/upload.tsx" />
+      <jump line="122" column="32" filename="$USER_HOME$/workdir/web/react-components/src/components/upload.tsx" />
+      <jump line="105" column="25" filename="$USER_HOME$/workdir/web/react-components/src/components/upload.tsx" />
+      <jump line="111" column="40" filename="$USER_HOME$/workdir/web/react-components/src/components/upload.tsx" />
+      <jump line="125" column="20" filename="$USER_HOME$/workdir/web/react-components/src/components/upload.tsx" />
+      <jump line="103" column="42" filename="$USER_HOME$/workdir/web/react-components/src/components/upload.tsx" />
+      <jump line="106" column="52" filename="$USER_HOME$/workdir/web/react-components/src/components/upload.tsx" />
+      <jump line="44" column="38" filename="$USER_HOME$/workdir/web/react-components/tslint.json" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVmcmVzaFNlYXJjaEZvcm06IHJhbmRvbVN0cigpCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -1644,61 +1651,56 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>==</text>
+        <text>semi</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3VibWl0QnV0dG9ucy5wdXNoKCg8Q29sIGtleT0iZW1wdHkiIHNwYW49ezR9Lz4pKTsK</text>
+      <register name="0" type="4">
+        <text>;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG9mZnNldDogMgo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IHtpc051bGxPclVuZGVmaW5lZH0gZnJvbSAndXRpbCc7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIGFjY2VwdDogc3RyaW5nCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3VibWl0QnV0dG9ucy5wdXNoKCg8Q29sIGtleT0iZW1wdHkiIHNwYW49ezR9Lz4pKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG9mZnNldDogMgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3VibWl0QnV0dG9ucy5wdXNoKCg8Q29sIGtleT0iZW1wdHkiIHNwYW49ezR9Lz4pKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L0Zvcm0uSXRlbT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPEJ1dHRvbiBvbkNsaWNrPXt0aGlzLnByb3BzLm9uQ2FuY2VsfT7mj5DkuqQ8L0J1dHRvbj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
-      <last-search>==</last-search>
+      <last-search>semi</last-search>
       <last-offset />
-      <last-pattern>==</last-pattern>
-      <last-replace />
-      <last-substitute>...itemOptions,</last-substitute>
+      <last-pattern>semi</last-pattern>
+      <last-replace>}</last-replace>
+      <last-substitute encoding="base64">IH0=</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhbGVydFNob3dcPg==</entry>
-        <entry encoding="base64">XDxIYW5kbGVGb3JtRGF0YVw+</entry>
-        <entry encoding="base64">XDxyZXNldEZpZWxkc1w+</entry>
-        <entry>submit</entry>
-        <entry encoding="base64">XDxGb3JtVGV4dFw+</entry>
         <entry>parent</entry>
         <entry encoding="base64">XDxpdGVtT3B0aW9uc1w+</entry>
         <entry encoding="base64">XDxmaWVsZE9wdGlvbnNcPg==</entry>
@@ -1714,11 +1716,13 @@
         <entry encoding="base64">XDxpc0FycmF5XD4=</entry>
         <entry encoding="base64">XDxUcmVlU2VsZWN0XD4=</entry>
         <entry>==</entry>
+        <entry encoding="base64">eyA=</entry>
+        <entry encoding="base64">IH0=</entry>
+        <entry>adf</entry>
+        <entry>extra</entry>
+        <entry>semi</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz4=</entry>
-        <entry encoding="base64">JzwsJz4lcy8gLy9n</entry>
-        <entry encoding="base64">JzwsJz5zLyAvLw==</entry>
         <entry encoding="base64">JzwsJz5zLyQvIi9nYw==</entry>
         <entry encoding="base64">JzwsJz5zL0xldmVsL1BhdGgvZ2M=</entry>
         <entry encoding="base64">JzwsJz5zL1BhcnRzOiBbXVBhcnR7L2dj</entry>
@@ -1735,6 +1739,9 @@
         <entry>action Forward</entry>
         <entry>%s/...itemOptions,//gc</entry>
         <entry>q</entry>
+        <entry>%s/{ //gc</entry>
+        <entry>%s/{ /{/gc</entry>
+        <entry>%s/ }/}/gc</entry>
         <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
