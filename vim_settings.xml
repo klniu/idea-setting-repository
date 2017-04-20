@@ -209,11 +209,11 @@
         <mark key="^" line="53" column="28" />
         <mark key="." line="53" column="28" />
       </file>
-      <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/law.go" timestamp="1492662777344">
-        <mark key="[" line="8" column="36" />
-        <mark key="]" line="8" column="37" />
-        <mark key="^" line="8" column="36" />
-        <mark key="." line="8" column="37" />
+      <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/law.go" timestamp="1492666332910">
+        <mark key="[" line="8" column="28" />
+        <mark key="]" line="8" column="29" />
+        <mark key="^" line="8" column="29" />
+        <mark key="." line="8" column="29" />
       </file>
       <file name="$USER_HOME$/workdir/web/vocs-react/src/components/formModal.tsx" timestamp="1490839871932">
         <mark key="'" line="4" column="21" />
@@ -775,12 +775,12 @@
         <mark key="^" line="71" column="55" />
         <mark key="." line="71" column="0" />
       </file>
-      <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/model.go" timestamp="1492662372796">
-        <mark key="'" line="102" column="20" />
-        <mark key="[" line="23" column="4" />
-        <mark key="]" line="23" column="4" />
-        <mark key="." line="23" column="4" />
-        <mark key="^" line="35" column="91" />
+      <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/model.go" timestamp="1492667210115">
+        <mark key="'" line="98" column="20" />
+        <mark key="[" line="65" column="28" />
+        <mark key="]" line="65" column="28" />
+        <mark key="^" line="65" column="28" />
+        <mark key="." line="65" column="28" />
       </file>
       <file name="$USER_HOME$/sync/code/java/livesim/src/main/java/History.java" timestamp="1480318763076">
         <mark key="'" line="0" column="0" />
@@ -1299,10 +1299,11 @@
         <mark key="^" line="81" column="21" />
         <mark key="." line="81" column="21" />
       </file>
-      <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/options.go" timestamp="1492662425518">
-        <mark key="[" line="3" column="23" />
-        <mark key="]" line="3" column="41" />
+      <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/options.go" timestamp="1492666732187">
+        <mark key="[" line="16" column="24" />
+        <mark key="]" line="16" column="27" />
         <mark key="." line="16" column="27" />
+        <mark key="^" line="16" column="27" />
       </file>
       <file name="$USER_HOME$/workdir/web/vocs-react/src/entry/user.tsx" timestamp="1490839876394">
         <mark key="'" line="101" column="22" />
@@ -1507,8 +1508,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVmcmVzaFNlYXJjaEZvcm06IHJhbmRvbVN0cigpCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>type:varchar(50);</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHJldHVybiB0eC5Db21taXQoKS5FcnJvcgo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -1615,57 +1616,56 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>type:varchar(50);</text>
+        <text>x</text>
       </register>
       <register name="/" type="4">
-        <text>span</text>
+        <text>tx</text>
       </register>
       <register name="0" type="4">
         <text>&quot;type:varchar(100);</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhciBjb3VudCBpbnQK</text>
+        <text encoding="base64">ICAgIHJldHVybiB0eC5Db21taXQoKS5FcnJvcgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB0eC5Sb2xsYmFjaygpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIGNvdW50ID09IDAgewo=</text>
+        <text encoding="base64">ICAgICAgICB0eC5Sb2xsYmFjaygpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB0eC5Sb2xsYmFjaygpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0eCA6PSBkYi5CZWdpbigpCg==</text>
+        <text encoding="base64">ICAgIHR4IDo9ICZEQntkLkJlZ2luKCl9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHR4IDo9ICZEQntkLkJlZ2luKCl9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjaGVja2JveCBoYXMgbm8gbGFiZWwK</text>
+        <text encoding="base64">ICAgIHJldHVybiBuaWwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGV0IGxheW91dCA9Cg==</text>
+        <text encoding="base64">ICAgIHZhciBjb3VudCBpbnQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CmludGVyZmFjZSBMYXlvdXRTaXplIHsKICAgIHNwYW4/Om51bWJlcgogICAgb2Zmc2V0PzpudW1iZXIKfQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
-      <last-search>span</last-search>
+      <last-search>tx</last-search>
       <last-offset />
-      <last-pattern>span</last-pattern>
+      <last-pattern>tx</last-pattern>
       <last-replace />
       <last-substitute>...itemOptions,</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>sha1</entry>
         <entry>==</entry>
         <entry>any</entry>
         <entry>semi</entry>
@@ -1685,6 +1685,7 @@
         <entry encoding="base64">XDxmaWVsZE9wdGlvbnNcPg==</entry>
         <entry>...itemOptions,</entry>
         <entry>span</entry>
+        <entry>tx</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4=</entry>
