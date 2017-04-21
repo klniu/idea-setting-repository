@@ -825,11 +825,11 @@
         <mark key="^" line="12" column="19" />
         <mark key="." line="12" column="19" />
       </file>
-      <file name="$USER_HOME$/workdir/web/react-components/config/webpack.config.prod.js" timestamp="1492738505544">
-        <mark key="[" line="64" column="15" />
-        <mark key="]" line="64" column="19" />
-        <mark key="^" line="64" column="19" />
-        <mark key="." line="64" column="19" />
+      <file name="$USER_HOME$/workdir/web/react-components/config/webpack.config.prod.js" timestamp="1492739399745">
+        <mark key="[" line="63" column="29" />
+        <mark key="]" line="63" column="32" />
+        <mark key="^" line="63" column="32" />
+        <mark key="." line="63" column="32" />
       </file>
       <file name="$USER_HOME$/sync/code/java/livesim/src/main/java/Tree.java" timestamp="1479187705017">
         <mark key="[" line="10" column="5" />
@@ -1418,6 +1418,11 @@
         <mark key="." line="622" column="0" />
         <mark key="^" line="620" column="29" />
       </file>
+      <file name="$USER_HOME$/workdir/web/lawindexer-ui/tsconfig.json" timestamp="1492739178324">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+      </file>
       <file name="$USER_HOME$/sync/code/go/src/mingerserver/robot/messages.go" timestamp="1489576775645">
         <mark key="[" line="0" column="13" />
         <mark key="]" line="0" column="12" />
@@ -1563,7 +1568,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVmcmVzaFNlYXJjaEZvcm06IHJhbmRvbVN0cigpCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>static</text>
+        <text>components</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -1670,7 +1675,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>static</text>
+        <text>components</text>
       </register>
       <register name="/" type="4">
         <text>ali</text>
@@ -1679,31 +1684,31 @@
         <text encoding="base64">ICAgICAgICBmb3IgKGxldCB0aXRsZSBvZiB0aGlzLnByb3BzLnRpdGxlcykgewogICAgICAgICAgICBpZiAoZS5rZXk9PT0gdGl0bGUubmFtZSAmJiB0aXRsZS5vbkNsaWNrKSB7CiAgICAgICAgICAgICAgICB0aXRsZS5vbkNsaWNrKCk7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBdLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgbG9nbyA9IHJlcXVpcmUoJy4vbG9nby5zdmcnKTsK</text>
+        <text encoding="base64">ICAgICJub2RlX21vZHVsZXMvcmVhY3QtY29tcG9uZW50cyIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAiZmlsZXMiOiBbCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBrbG5pdSBvbiAxNy00LTIxLgo=</text>
+        <text encoding="base64">Y29uc3QgbG9nbyA9IHJlcXVpcmUoJy4vbG9nby5zdmcnKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iQXBwLWhlYWRlciI+CiAgICAgICAgICA8aW1nIHNyYz17bG9nb30gY2xhc3NOYW1lPSJBcHAtbG9nbyIgYWx0PSJsb2dvIiAvPgogICAgICAgICAgPGgyPldlbGNvbWUgdG8gUmVhY3Q8L2gyPgogICAgICAgIDwvZGl2PgogICAgICAgIDxwIGNsYXNzTmFtZT0iQXBwLWludHJvIj4KICAgICAgICAgIFRvIGdldCBzdGFydGVkLCBlZGl0IDxjb2RlPnNyYy9BcHAudHN4PC9jb2RlPiBhbmQgc2F2ZSB0byByZWxvYWQuCiAgICAgICAgPC9wPgo=</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJAdHlwZXMvbm9kZSI6ICJeNi4wLjY5IiwK</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBrbG5pdSBvbiAxNy00LTIxLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJAdHlwZXMvamVzdCI6ICJeMTkuMi4yIiwK</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
