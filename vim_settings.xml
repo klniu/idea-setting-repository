@@ -668,12 +668,12 @@
         <mark key="." line="2" column="16" />
         <mark key="^" line="2" column="16" />
       </file>
-      <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/functions.go" timestamp="1492834548557">
-        <mark key="'" line="18" column="57" />
-        <mark key="[" line="18" column="53" />
-        <mark key="]" line="18" column="62" />
-        <mark key="." line="18" column="62" />
-        <mark key="^" line="18" column="62" />
+      <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/functions.go" timestamp="1492849454955">
+        <mark key="'" line="20" column="57" />
+        <mark key="[" line="20" column="58" />
+        <mark key="]" line="20" column="59" />
+        <mark key="^" line="20" column="99" />
+        <mark key="." line="20" column="58" />
       </file>
       <file name="$USER_HOME$/workdir/web/vocs-react/package.json" timestamp="1490934669144">
         <mark key="'" line="40" column="0" />
@@ -955,11 +955,11 @@
         <mark key="." line="165" column="1" />
         <mark key="^" line="165" column="1" />
       </file>
-      <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/functions_test.go" timestamp="1492836004050">
-        <mark key="[" line="13" column="24" />
-        <mark key="]" line="14" column="22" />
-        <mark key="^" line="14" column="22" />
-        <mark key="." line="14" column="22" />
+      <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/functions_test.go" timestamp="1492849461085">
+        <mark key="[" line="14" column="4" />
+        <mark key="]" line="14" column="5" />
+        <mark key="^" line="14" column="5" />
+        <mark key="." line="14" column="5" />
       </file>
       <file name="$USER_HOME$/sync/code/java/livesim/build.gradle" timestamp="1479443435078">
         <mark key="[" line="5" column="24" />
@@ -1116,12 +1116,11 @@
         <mark key="." line="622" column="0" />
         <mark key="^" line="620" column="29" />
       </file>
-      <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/indexer.go" timestamp="1492836198881">
-        <mark key="'" line="183" column="0" />
-        <mark key="[" line="77" column="20" />
-        <mark key="]" line="77" column="22" />
-        <mark key="." line="77" column="22" />
-        <mark key="^" line="77" column="22" />
+      <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/indexer.go" timestamp="1492853111554">
+        <mark key="[" line="122" column="0" />
+        <mark key="]" line="122" column="0" />
+        <mark key="^" line="134" column="23" />
+        <mark key="." line="122" column="0" />
       </file>
       <file name="$USER_HOME$/workdir/web/vocs-react/src/entry/install.tsx" timestamp="1490849582897">
         <mark key="'" line="53" column="82" />
@@ -1195,10 +1194,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1349" column="16" filename="$USER_HOME$/sync/code/go/src/ldar/sql_test.go" />
-      <jump line="421" column="12" filename="$USER_HOME$/sync/code/go/src/ldar/sql.go" />
-      <jump line="722" column="52" filename="$USER_HOME$/sync/code/go/src/ldar/sql.go" />
-      <jump line="423" column="16" filename="$USER_HOME$/sync/code/go/src/ldar/sql.go" />
       <jump line="429" column="222" filename="$USER_HOME$/sync/code/go/src/ldar/sql.go" />
       <jump line="470" column="138" filename="$USER_HOME$/sync/code/go/src/ldar/sql.go" />
       <jump line="479" column="138" filename="$USER_HOME$/sync/code/go/src/ldar/sql.go" />
@@ -1295,13 +1290,17 @@
       <jump line="73" column="0" filename="$USER_HOME$/sync/code/go/src/LawIndexer/models/law.go" />
       <jump line="1" column="0" filename="$USER_HOME$/sync/code/go/src/LawIndexer/models/law.go" />
       <jump line="78" column="24" filename="$USER_HOME$/sync/code/go/src/LawIndexer/models/law.go" />
+      <jump line="127" column="14" filename="$USER_HOME$/sync/code/go/src/LawIndexer/models/indexer.go" />
+      <jump line="114" column="39" filename="$USER_HOME$/sync/code/go/src/LawIndexer/models/indexer.go" />
+      <jump line="78" column="0" filename="$USER_HOME$/sync/code/go/src/LawIndexer/models/indexer.go" />
+      <jump line="113" column="28" filename="$USER_HOME$/sync/code/go/src/LawIndexer/models/indexer.go" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVmcmVzaFNlYXJjaEZvcm06IHJhbmRvbVN0cigpCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>bufio.NewScanner</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZm10LlByaW50bG4obGluZSkK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -1408,62 +1407,56 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>line</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
-        <text>pretty</text>
+        <text>println</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm10LlByaW50bG4obGluZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgc3RyaW5ncy5IYXNQcmVmaXgobGluZSwgIuesrOS4gCIpIHsKICAgICAgICAgICAgICAgIGJlZ2luQ29udGVudCA9IHRydWUKICAgICAgICAgICAgICAgIGNvbnRlbnRMaW5lcyA9IGFwcGVuZChjb250ZW50TGluZXMsIGxpbmUpCiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBwcmVmYWNlTGluZXMgPSBhcHBlbmQocHJlZmFjZUxpbmVzLCBsaW5lKQogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmbXQuUHJpbnRsbihsaW5lKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZm10LlByaW50bG4obGluZSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGMuQXNzZXJ0KGNvbnRlbnQsIEVxdWFscywgIiIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZm10LlByaW50bG4oZmlyc3RQYXJ0VGl0bGUpCg==</text>
       </register>
-      <register name="3" type="8">
-        <text>//
-//
-//
-//
-//</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZm10LlByaW50bG4oZmlyc3RQYXJ0VGl0bGUpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmbXQuUHJpbnRsbihsaW5lKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZmlyc3RQYXJ0VGl0bGUgPSBsaW5lWzo3XQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZtdC5QcmludGYoIiV2IiwgbGluZSkK</text>
+        <text encoding="base64">CQlmbXQuUHJpbnRmKCIlYyAldlxuIiwgciwgc2l6ZSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">CQlmbXQuUHJpbnRmKCIlYyAldlxuIiwgciwgc2l6ZSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgc3RyaW5ncy5IYXNQcmVmaXgobGluZSwgIuesrCIpIHsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc3RyIDo9ICJIZWxsbywg5LiW55WMIgo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm10LlByaW50bG4obGluZSkK</text>
+        <text encoding="base64">ICAgICAgICBmbXQuUHJpbnRsbigxLCBzY2FubmVyLlRleHQoKSkK</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
-      <last-search>pretty</last-search>
+      <last-search>println</last-search>
       <last-offset />
-      <last-pattern>pretty</last-pattern>
+      <last-pattern>println</last-pattern>
       <last-replace />
       <last-substitute>Parts: \[\]Part{</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxDb21tYW5kUmVzdWx0XD4=</entry>
-        <entry>ext</entry>
         <entry>afasdf</entry>
         <entry>scan</entry>
         <entry>for</entry>
@@ -1482,6 +1475,8 @@
         <entry>Parts: []Part{//gc</entry>
         <entry>Parts: \[\]Part{</entry>
         <entry>pretty</entry>
+        <entry encoding="base64">XDxzcGxpdExpbmVzXD4=</entry>
+        <entry>println</entry>
       </history-search>
       <history-cmd>
         <entry>action FindNext</entry>
