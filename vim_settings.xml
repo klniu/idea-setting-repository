@@ -664,11 +664,11 @@
         <mark key="." line="2" column="16" />
         <mark key="^" line="2" column="16" />
       </file>
-      <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/functions.go" timestamp="1492829461042">
-        <mark key="[" line="11" column="3" />
-        <mark key="]" line="11" column="3" />
-        <mark key="^" line="11" column="3" />
-        <mark key="." line="11" column="3" />
+      <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/functions.go" timestamp="1492830654389">
+        <mark key="[" line="10" column="21" />
+        <mark key="]" line="10" column="29" />
+        <mark key="^" line="10" column="29" />
+        <mark key="." line="10" column="29" />
       </file>
       <file name="$USER_HOME$/workdir/web/vocs-react/package.json" timestamp="1490934669144">
         <mark key="'" line="40" column="0" />
@@ -1289,8 +1289,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVmcmVzaFNlYXJjaEZvcm06IHJhbmRvbVN0cigpCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJlcnJvcnMiCg==</text>
+      <register name="&quot;" type="4">
+        <text>Reader</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -1397,7 +1397,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;/tmp/Workbook.xlsx&quot;</text>
+        <text>Reader</text>
       </register>
       <register name="/" type="4">
         <text>pretty</text>
