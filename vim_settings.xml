@@ -223,12 +223,12 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="1" column="29" />
       </file>
-      <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/law_test.go" timestamp="1492921143443">
+      <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/law_test.go" timestamp="1493192397900">
         <mark key="'" line="31" column="0" />
-        <mark key="[" line="32" column="44" />
-        <mark key="]" line="32" column="44" />
-        <mark key="^" line="32" column="45" />
-        <mark key="." line="32" column="44" />
+        <mark key="[" line="37" column="12" />
+        <mark key="]" line="37" column="12" />
+        <mark key="^" line="37" column="12" />
+        <mark key="." line="37" column="12" />
       </file>
       <file name="$USER_HOME$/sync/code/go/src/zhvocs/controllers/photo_test.go" timestamp="1491107127684">
         <mark key="[" line="26" column="108" />
@@ -269,12 +269,12 @@
         <mark key="^" line="53" column="28" />
         <mark key="." line="53" column="28" />
       </file>
-      <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/law.go" timestamp="1493191292969">
-        <mark key="'" line="249" column="41" />
-        <mark key="[" line="265" column="1" />
-        <mark key="]" line="265" column="0" />
-        <mark key="." line="265" column="0" />
-        <mark key="^" line="265" column="0" />
+      <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/law.go" timestamp="1493192474863">
+        <mark key="'" line="250" column="41" />
+        <mark key="[" line="249" column="0" />
+        <mark key="]" line="249" column="11" />
+        <mark key="." line="249" column="11" />
+        <mark key="^" line="249" column="11" />
       </file>
       <file name="$USER_HOME$/workdir/web/vocs-react/src/components/formModal.tsx" timestamp="1490839871932">
         <mark key="'" line="4" column="21" />
@@ -546,12 +546,12 @@
         <mark key="^" line="35" column="28" />
         <mark key="." line="103" column="38" />
       </file>
-      <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/functions_test.go" timestamp="1492909570282">
-        <mark key="'" line="13" column="15" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="13" column="5" />
+      <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/functions_test.go" timestamp="1493192319982">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="29" column="50" />
+        <mark key="]" line="29" column="50" />
+        <mark key="^" line="29" column="50" />
+        <mark key="." line="29" column="50" />
       </file>
       <file name="$USER_HOME$/workdir/web/now-antd/test/now-antd.test.ts" timestamp="1492744348713">
         <mark key="[" line="0" column="0" />
@@ -1263,12 +1263,12 @@
         <mark key="." line="25" column="35" />
         <mark key="^" line="15" column="45" />
       </file>
-      <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/functions.go" timestamp="1493191298010">
+      <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/functions.go" timestamp="1493192159209">
         <mark key="'" line="33" column="0" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="45" column="3" />
-        <mark key="." line="45" column="3" />
-        <mark key="^" line="45" column="3" />
+        <mark key="[" line="46" column="5" />
+        <mark key="]" line="46" column="33" />
+        <mark key="." line="67" column="41" />
+        <mark key="^" line="67" column="41" />
       </file>
       <file name="$USER_HOME$/workdir/web/lawindexer-ui/src/data/tables.tsx" timestamp="1492828271524">
         <mark key="'" line="2" column="31" />
@@ -1679,7 +1679,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="31" filename="$USER_HOME$/workdir/web/react-components/config/webpack.config.dev.js" />
       <jump line="71" column="42" filename="$USER_HOME$/workdir/web/react-components/config/webpack.config.dev.js" />
       <jump line="88" column="29" filename="$USER_HOME$/workdir/web/react-components/config/webpack.config.dev.js" />
       <jump line="89" column="25" filename="$USER_HOME$/workdir/web/react-components/config/webpack.config.dev.js" />
@@ -1779,13 +1778,14 @@
       <jump line="246" column="34" filename="$USER_HOME$/sync/code/go/src/LawIndexer/models/law.go" />
       <jump line="248" column="41" filename="$USER_HOME$/sync/code/go/src/LawIndexer/models/law.go" />
       <jump line="47" column="23" filename="$USER_HOME$/sync/code/go/src/LawIndexer/controllers/default.go" />
+      <jump line="10" column="0" filename="$USER_HOME$/sync/code/go/src/LawIndexer/models/functions_test.go" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVmcmVzaFNlYXJjaEZvcm06IHJhbmRvbVN0cigpCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>t</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -1892,45 +1892,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBodG1sKz0gYDxwPmAgKyBsaW5lICsgYDwvcD5gCg==</text>
+        <text encoding="base64">ICAgIHJlc3VsdCwgZXJyID0gY29udmVydE51bWJlckFydGljbGVUb0NoaW5lc2UoIjEuMS4xIikKICAgIGMuQXNzZXJ0KGVyciwgSXNOaWwpCiAgICBjLkFzc2VydChyZXN1bHQsIEVxdWFscywgIuesrDHmnaHnrKwx5qy+56ysMemhuSIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGV4dCA6PSAK</text>
+        <text encoding="base64">ICAgIGMuQXNzZXJ0KHJlc3VsdCwgRXF1YWxzLCAi56ysMeadoeesrDHmrL7nrKwx6aG5IikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBodG1sKz0gYDxwPmAgKyBsaW5lICsgYDwvcD5gCg==</text>
+        <text encoding="base64">ICAgIC8vZm10LlByaW50bG4oY29udGVudCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IK</text>
+        <text encoding="base64">ICAgIGMuQXNzZXJ0KGVyciwgSXNOaWwpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGluZXMgPSBhcHBlbmQobGluZXMsICwgaXRlbXNbc2Vjb25kTm8tMV0uLi4pCg==</text>
+        <text encoding="base64">ICAgIF8sIGVyciA6PSBnZXRUZXh0RnJvbURvY3goIi4uL3Rlc3RfZmlsZXMv5Lit5Y2O5Lq65rCR5YWx5ZKM5Zu95L+d5a6I5Zu95a6256eY5a+G5rOV5a6e5pa95p2h5L6LLmRvY3giKQo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB2YXIgcmVzdWx0IHN0cmluZwo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
-      <register name="6" type="8">
-        <text>//
-//
-//</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZi5DbG9zZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBsZW4ocGFydHMpID49IDEgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXIgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG9zLk1rZGlyKCIvaG9tZS9rbG5pdS9Eb3dubG9hZHMvb3V0cHV0LyIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text>action NextTab</text>
       </register>
     </registers>
     <search>
@@ -1966,9 +1964,6 @@
         <entry>print</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLyAvL2dj</entry>
-        <entry encoding="base64">JzwsJz5zLyAvL2c=</entry>
-        <entry encoding="base64">JzwsJz4=</entry>
         <entry encoding="base64">JzwsJz4lcy8gLy9n</entry>
         <entry encoding="base64">JzwsJz5zLyAvLw==</entry>
         <entry encoding="base64">JzwsJz5zLyQvIi9nYw==</entry>
@@ -1986,6 +1981,9 @@
         <entry>%s/v\['\w*'\]/v.\1/gc</entry>
         <entry>%s/v\['\(\w*\)'\]/v.\1/gc</entry>
         <entry>action ReformatCode</entry>
+        <entry>action PreviousTab</entry>
+        <entry>action AceAction</entry>
+        <entry>action NextTab</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -2056,6 +2054,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>alt pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>alt pressed L</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
