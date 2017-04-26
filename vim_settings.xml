@@ -269,11 +269,11 @@
         <mark key="^" line="53" column="28" />
         <mark key="." line="53" column="28" />
       </file>
-      <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/law.go" timestamp="1492929233745">
-        <mark key="'" line="248" column="34" />
-        <mark key="[" line="49" column="35" />
-        <mark key="]" line="49" column="34" />
-        <mark key="." line="49" column="34" />
+      <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/law.go" timestamp="1493176685726">
+        <mark key="'" line="248" column="42" />
+        <mark key="[" line="197" column="28" />
+        <mark key="]" line="197" column="29" />
+        <mark key="." line="197" column="29" />
         <mark key="^" line="49" column="34" />
       </file>
       <file name="$USER_HOME$/workdir/web/vocs-react/src/components/formModal.tsx" timestamp="1490839871932">
@@ -352,10 +352,11 @@
         <mark key="." line="1579" column="0" />
         <mark key="^" line="1572" column="11" />
       </file>
-      <file name="$USER_HOME$/sync/code/go/src/LawIndexer/controllers/default.go" timestamp="1492929340278">
+      <file name="$USER_HOME$/sync/code/go/src/LawIndexer/controllers/default.go" timestamp="1493176670273">
+        <mark key="'" line="47" column="23" />
         <mark key="[" line="47" column="4" />
         <mark key="]" line="47" column="4" />
-        <mark key="^" line="48" column="6" />
+        <mark key="^" line="48" column="5" />
         <mark key="." line="47" column="4" />
       </file>
       <file name="$USER_HOME$/sync/code/go/src/zhvocs/conf/app.conf" timestamp="1479257088739">
@@ -1678,8 +1679,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="36" filename="$USER_HOME$/workdir/web/react-components/config/webpack.config.dev.js" />
-      <jump line="59" column="50" filename="$USER_HOME$/workdir/web/react-components/config/webpack.config.dev.js" />
       <jump line="68" column="31" filename="$USER_HOME$/workdir/web/react-components/config/webpack.config.dev.js" />
       <jump line="71" column="42" filename="$USER_HOME$/workdir/web/react-components/config/webpack.config.dev.js" />
       <jump line="88" column="29" filename="$USER_HOME$/workdir/web/react-components/config/webpack.config.dev.js" />
@@ -1778,13 +1777,15 @@
       <jump line="16" column="0" filename="$USER_HOME$/sync/code/go/src/LawIndexer/models/functions.go" />
       <jump line="31" column="0" filename="$USER_HOME$/sync/code/go/src/LawIndexer/models/functions.go" />
       <jump line="246" column="34" filename="$USER_HOME$/sync/code/go/src/LawIndexer/models/law.go" />
+      <jump line="47" column="23" filename="$USER_HOME$/sync/code/go/src/LawIndexer/controllers/default.go" />
+      <jump line="248" column="42" filename="$USER_HOME$/sync/code/go/src/LawIndexer/models/law.go" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVmcmVzaFNlYXJjaEZvcm06IHJhbmRvbVN0cigpCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>/</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -1891,7 +1892,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
@@ -1939,7 +1940,7 @@
       <last-replace>}</last-replace>
       <last-substitute encoding="base64">IH0=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
