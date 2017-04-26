@@ -638,10 +638,10 @@
         <mark key="." line="10" column="37" />
         <mark key="^" line="10" column="37" />
       </file>
-      <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/indexer.go" timestamp="1493193179011">
+      <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/indexer.go" timestamp="1493197798822">
         <mark key="'" line="154" column="1" />
-        <mark key="[" line="104" column="40" />
-        <mark key="]" line="104" column="40" />
+        <mark key="[" line="150" column="0" />
+        <mark key="]" line="150" column="51" />
         <mark key="^" line="104" column="40" />
         <mark key="." line="104" column="40" />
       </file>
@@ -1263,12 +1263,11 @@
         <mark key="." line="25" column="35" />
         <mark key="^" line="15" column="45" />
       </file>
-      <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/functions.go" timestamp="1493192159209">
-        <mark key="'" line="33" column="0" />
-        <mark key="[" line="46" column="5" />
-        <mark key="]" line="46" column="33" />
-        <mark key="." line="67" column="41" />
-        <mark key="^" line="67" column="41" />
+      <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/functions.go" timestamp="1493197922462">
+        <mark key="'" line="34" column="0" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/workdir/web/lawindexer-ui/src/data/tables.tsx" timestamp="1492828271524">
         <mark key="'" line="2" column="31" />
@@ -1784,8 +1783,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVmcmVzaFNlYXJjaEZvcm06IHJhbmRvbVN0cigpCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>Write</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYXJ0aWNsZVJlZy5GaW5kCg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -1892,43 +1891,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Write</text>
+        <text>articleRegStr</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZm10LkVycm9yZigiJXPmiZPlvIDlpLHotKUiLCBmaWxlbmFtZSkK</text>
+        <text encoding="base64">ICAgIGFydGljbGVSZWcgOj0gcmVnZXhwLk11c3RDb21waWxlKGFydGljbGVSZWdTdHIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIEdldCBhbGwgdGhlIHJvd3MgaW4gYSBzaGVldC4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXJ0aWNsZVJlZy5GaW5kCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJvd3MgOj0geGxzeC5HZXRSb3dzKCJzaGVldDEiKQo=</text>
+        <text encoding="base64">ICAgIGJlZ2luUmVnU3RyIDo9IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhcnRSZWdTdHIgOj0gYmVnaW5SZWdTdHIgKyAi57yWIgogICAgY2hhcHRlclJlZ1N0ciA6PSBiZWdpblJlZ1N0ciArICLnq6AiCiAgICBzZWN0aW9uUmVnU3RyIDo9IGJlZ2luUmVnU3RyICsgIuiKgiIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJnaXRodWIuY29tL0x1eHVyaW91c3QvZXhjZWxpemUiCg==</text>
+        <text encoding="base64">ICAgIC8vIEdldCBhbGwgdGhlIHJvd3MgaW4gYSBzaGVldC4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJnaXRodWIuY29tL0x1eHVyaW91c3QvZXhjZWxpemUiCg==</text>
+        <text encoding="base64">ICAgIHJvd3MgOj0geGxzeC5HZXRSb3dzKCJzaGVldDEiKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGMuQXNzZXJ0KHJlc3VsdCwgRXF1YWxzLCAi56ysMeadoeesrDHmrL7nrKwx6aG5IikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vZm10LlByaW50bG4oY29udGVudCkK</text>
+        <text encoding="base64">ICAgICJnaXRodWIuY29tL0x1eHVyaW91c3QvZXhjZWxpemUiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGMuQXNzZXJ0KGVyciwgSXNOaWwpCg==</text>
+        <text encoding="base64">ICAgICJnaXRodWIuY29tL0x1eHVyaW91c3QvZXhjZWxpemUiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIF8sIGVyciA6PSBnZXRUZXh0RnJvbURvY3goIi4uL3Rlc3RfZmlsZXMv5Lit5Y2O5Lq65rCR5YWx5ZKM5Zu95L+d5a6I5Zu95a6256eY5a+G5rOV5a6e5pa95p2h5L6LLmRvY3giKQo=</text>
+        <text encoding="base64">ICAgIGMuQXNzZXJ0KHJlc3VsdCwgRXF1YWxzLCAi56ysMeadoeesrDHmrL7nrKwx6aG5IikK</text>
       </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text>action NextTab</text>
       </register>
     </registers>
     <search>
@@ -1980,10 +1979,10 @@
         <entry>%s/v['\w*']/v.\1/gc</entry>
         <entry>%s/v\['\w*'\]/v.\1/gc</entry>
         <entry>%s/v\['\(\w*\)'\]/v.\1/gc</entry>
-        <entry>action PreviousTab</entry>
         <entry>action AceAction</entry>
-        <entry>action NextTab</entry>
         <entry>action ReformatCode</entry>
+        <entry>action PreviousTab</entry>
+        <entry>action NextTab</entry>
       </history-cmd>
       <history-expr />
       <history-input />
