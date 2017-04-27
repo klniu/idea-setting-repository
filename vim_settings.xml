@@ -223,12 +223,12 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="1" column="29" />
       </file>
-      <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/law_test.go" timestamp="1493258938150">
+      <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/law_test.go" timestamp="1493283911862">
         <mark key="'" line="33" column="0" />
-        <mark key="[" line="34" column="88" />
-        <mark key="]" line="34" column="89" />
+        <mark key="[" line="39" column="9" />
+        <mark key="]" line="39" column="9" />
         <mark key="^" line="34" column="89" />
-        <mark key="." line="34" column="89" />
+        <mark key="." line="39" column="9" />
       </file>
       <file name="$USER_HOME$/sync/code/go/src/zhvocs/controllers/photo_test.go" timestamp="1491107127684">
         <mark key="[" line="26" column="108" />
@@ -269,10 +269,11 @@
         <mark key="^" line="53" column="28" />
         <mark key="." line="53" column="28" />
       </file>
-      <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/law.go" timestamp="1493281738331">
-        <mark key="[" line="176" column="0" />
-        <mark key="]" line="176" column="0" />
-        <mark key="." line="176" column="0" />
+      <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/law.go" timestamp="1493283831485">
+        <mark key="[" line="194" column="0" />
+        <mark key="]" line="194" column="0" />
+        <mark key="." line="194" column="0" />
+        <mark key="^" line="190" column="37" />
       </file>
       <file name="$USER_HOME$/workdir/web/vocs-react/src/components/formModal.tsx" timestamp="1490839871932">
         <mark key="'" line="4" column="21" />
@@ -1782,8 +1783,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVmcmVzaFNlYXJjaEZvcm06IHJhbmRvbVN0cigpCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBmaXJzdExpbmUgOj0gIiIK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">56ys5LiJ5p2hIA==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -1890,40 +1891,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dmFyIA==</text>
+        <text encoding="base64">56ys5LiJ5p2hIA==</text>
       </register>
       <register name="/" type="4">
         <text>node</text>
       </register>
-      <register name="0" type="4">
-        <text>items[secondNode.Sub[0].No-1][0]</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxpbmVzID0gYXBwZW5kKGxpbmVzLCBpdGVtc1tzZWNvbmROb2RlLk5vLTFdLi4uKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmaXJzdExpbmUgOj0gIiIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgc2Vjb25kTm9kZQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyDpobkKICAgICAgICB0aGlyZE5vLCBlcnIgOj0gc3RyY29udi5BdG9pKG51bXNbMl0pCiAgICAgICAgaWYgZXJyICE9IG5pbCB7CiAgICAgICAgICAgIHJldHVybiBsaW5lcywgZm10LkVycm9yZigiJXMs5o+Q5L6b5p2h5qy+5Y+36ZSZ6K+v77yaJXMiLCBsYXcuTmFtZSwgbm9TdHIpCiAgICAgICAgfQogICAgICAgIC8vIHRoZSBmaXJzdCBwYXJhZ3JhcGggb2YgaXRlbSBpcyBub3Qgc3ViLWl0ZW0KICAgICAgICBpZiBsZW4oaXRlbXNbc2Vjb25kTm8tMV1bMF0pIDwgdGhpcmRObysxIHsKICAgICAgICAgICAgcmV0dXJuIGxpbmVzLCBmbXQuRXJyb3JmKCIlc+aJk+S4jeWIsOaMh+WumueahOmhueWPt++8miVzIiwgbGF3Lk5hbWUsIG5vU3RyKQogICAgICAgIH0KICAgICAgICBpZiBzZWNvbmRObyA+IDEgewogICAgICAgICAgICBjaGluZXNlTm8sIF8gOj0gaWMuSXRvQyhmaXJzdE5vLCBmYWxzZSkKICAgICAgICAgICAgaXRlbXNbc2Vjb25kTm8tMV1bMF0gPSAi56ysIiArIGNoaW5lc2VObyArICLmnaEgIiArIGl0ZW1zW3NlY29uZE5vLTFdWzBdCiAgICAgICAgfQogICAgICAgIGxpbmVzID0gYXBwZW5kKGxpbmVzLCBpdGVtc1tzZWNvbmROby0xXVswXSwgaXRlbXNbc2Vjb25kTm8tMV1bdGhpcmROb10pCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZmlyc3RMaW5lIDo9ICIiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgc2Vjb25kTm9kZS5ObyA9PSAxCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpcnN0TGluZSA9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXRlbXNbc2Vjb25kTm9kZS5Oby0xXVswXSA9IGZpcnN0TGluZSArIGl0ZW1zW3NlY29uZE5vZGUuTm8tMV1bMF0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0ZW1zW3NlY29uZE5vZGUuTm8tMV1bMF0gPSBmaXJzdExpbmUgKyBpdGVtc1tzZWNvbmROb2RlLk5vLTFdWzBdCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpdGVtc1tzZWNvbmROb2RlLlN1Yi0xXVswXSA9ICLnrKwiICsgY2hpbmVzZU5vICsgIuadoSAiICsgaXRlbXNbc2Vjb25kTm8tMV1bMF0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHRoZSBub24tc2Vjb25kIG9uZSBuZWVkIHRvIGFkZCDmnaEK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpdGVtc1tzZWNvbmROby0xXVswXSA9ICLnrKwiICsgY2hpbmVzZU5vICsgIuadoSAiICsgaXRlbXNbc2Vjb25kTm8tMV1bMF0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpcnN0TGluZSA6PSAiIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjaGluZXNlTm8sIF8gOj0gaWMuSXRvQyhmaXJzdE5vLCBmYWxzZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGluZXMgPSBhcHBlbmQobGluZXMsIGl0ZW1zW3NlY29uZE5vZGUuTm9dKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
