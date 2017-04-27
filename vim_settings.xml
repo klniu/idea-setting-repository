@@ -269,11 +269,11 @@
         <mark key="^" line="53" column="28" />
         <mark key="." line="53" column="28" />
       </file>
-      <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/law.go" timestamp="1493273123269">
-        <mark key="[" line="159" column="11" />
-        <mark key="]" line="159" column="12" />
-        <mark key="." line="159" column="12" />
-        <mark key="^" line="159" column="12" />
+      <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/law.go" timestamp="1493275087479">
+        <mark key="[" line="179" column="36" />
+        <mark key="]" line="179" column="38" />
+        <mark key="." line="179" column="38" />
+        <mark key="^" line="179" column="38" />
       </file>
       <file name="$USER_HOME$/workdir/web/vocs-react/src/components/formModal.tsx" timestamp="1490839871932">
         <mark key="'" line="4" column="21" />
@@ -1784,7 +1784,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVmcmVzaFNlYXJjaEZvcm06IHJhbmRvbVN0cigpCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>条</text>
+        <text>&quot;</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -1891,13 +1891,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>条</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>node</text>
       </register>
       <register name="0" type="4">
-        <text>重复范围的条款号：%s</text>
+        <text>&quot;第&quot; + chineseNo + &quot;条 &quot;</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
