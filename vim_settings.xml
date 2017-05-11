@@ -42,6 +42,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/sync/code/go/src/zhvocs/views/404.html" timestamp="1494504867407">
+        <mark key="[" line="89" column="23" />
+        <mark key="]" line="89" column="28" />
+        <mark key="^" line="89" column="28" />
+        <mark key="." line="89" column="28" />
+      </file>
       <file name="$USER_HOME$/sync/code/go/src/ldar/monitorstate.go" timestamp="1476257753248">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
@@ -270,6 +276,7 @@
         <mark key="." line="53" column="28" />
       </file>
       <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/law.go" timestamp="1493283831485">
+        <mark key="'" line="248" column="34" />
         <mark key="[" line="194" column="0" />
         <mark key="]" line="194" column="0" />
         <mark key="." line="194" column="0" />
@@ -549,8 +556,8 @@
         <mark key="'" line="56" column="0" />
         <mark key="[" line="90" column="42" />
         <mark key="]" line="90" column="46" />
-        <mark key="^" line="90" column="46" />
         <mark key="." line="90" column="46" />
+        <mark key="^" line="90" column="46" />
       </file>
       <file name="$USER_HOME$/workdir/web/now-antd/test/now-antd.test.ts" timestamp="1492744348713">
         <mark key="[" line="0" column="0" />
@@ -616,6 +623,13 @@
         <mark key="]" line="10" column="16" />
         <mark key="." line="10" column="16" />
         <mark key="^" line="10" column="24" />
+      </file>
+      <file name="$USER_HOME$/sync/code/go/src/zhvocs/main.go" timestamp="1494505939782">
+        <mark key="'" line="21" column="24" />
+        <mark key="[" line="20" column="77" />
+        <mark key="]" line="20" column="77" />
+        <mark key="." line="20" column="77" />
+        <mark key="^" line="20" column="76" />
       </file>
       <file name="$USER_HOME$/sync/code/go/src/mingerserver/robotserver/messages.go" timestamp="1489581043933">
         <mark key="'" line="40" column="5" />
@@ -774,8 +788,8 @@
         <mark key="." line="16" column="198" />
         <mark key="^" line="16" column="198" />
       </file>
-      <file name="$USER_HOME$/sync/code/go/src/zhvocs/routers/router.go" timestamp="1489918695252">
-        <mark key="'" line="104" column="4" />
+      <file name="$USER_HOME$/sync/code/go/src/zhvocs/routers/router.go" timestamp="1494505049860">
+        <mark key="'" line="102" column="72" />
         <mark key="[" line="21" column="4" />
         <mark key="]" line="21" column="4" />
         <mark key="." line="21" column="4" />
@@ -1229,12 +1243,11 @@
         <mark key="." line="122" column="55" />
         <mark key="^" line="122" column="86" />
       </file>
-      <file name="$USER_HOME$/sync/code/go/src/zhvocs/controllers/common.go" timestamp="1491102986926">
-        <mark key="'" line="27" column="53" />
-        <mark key="[" line="128" column="35" />
-        <mark key="]" line="128" column="43" />
-        <mark key="^" line="128" column="43" />
-        <mark key="." line="128" column="43" />
+      <file name="$USER_HOME$/sync/code/go/src/zhvocs/controllers/common.go" timestamp="1494505085495">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="163" column="0" />
+        <mark key="]" line="163" column="0" />
+        <mark key="." line="163" column="0" />
       </file>
       <file name="$USER_HOME$/sync/code/go/src/minger/client/main.go" timestamp="1489576077309">
         <mark key="[" line="8" column="9" />
@@ -1678,13 +1691,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="187" column="29" filename="$USER_HOME$/workdir/web/react-components/config/webpack.config.dev.js" />
-      <jump line="69" column="39" filename="$USER_HOME$/workdir/web/react-components/src/components/form.tsx" />
-      <jump line="27" column="0" filename="$USER_HOME$/workdir/web/react-components/src/components/form.tsx" />
-      <jump line="145" column="0" filename="$USER_HOME$/workdir/web/react-components/src/components/form.tsx" />
-      <jump line="39" column="39" filename="$USER_HOME$/workdir/web/react-components/src/components/formModal.tsx" />
-      <jump line="47" column="0" filename="$USER_HOME$/workdir/web/react-components/src/components/formModal.tsx" />
-      <jump line="0" column="0" filename="$USER_HOME$/workdir/web/react-components/src/components/formModal.tsx" />
       <jump line="17" column="14" filename="$USER_HOME$/workdir/web/react-components/src/components/formModal.tsx" />
       <jump line="28" column="12" filename="$USER_HOME$/workdir/web/react-components/src/components/form.tsx" />
       <jump line="2" column="4" filename="$USER_HOME$/workdir/web/now-antd/.babelrc" />
@@ -1778,13 +1784,20 @@
       <jump line="165" column="24" filename="$USER_HOME$/sync/code/go/src/LawIndexer/models/functions.go" />
       <jump line="180" column="12" filename="$USER_HOME$/sync/code/go/src/LawIndexer/models/functions.go" />
       <jump line="56" column="0" filename="$USER_HOME$/sync/code/go/src/LawIndexer/models/functions_test.go" />
+      <jump line="285" column="0" filename="$USER_HOME$/sync/code/go/src/zhvocs/controllers/common.go" />
+      <jump line="167" column="63" filename="$USER_HOME$/sync/code/go/src/zhvocs/controllers/common.go" />
+      <jump line="0" column="0" filename="$USER_HOME$/sync/code/go/src/zhvocs/controllers/common.go" />
+      <jump line="169" column="0" filename="$USER_HOME$/sync/code/go/src/zhvocs/controllers/common.go" />
+      <jump line="102" column="72" filename="$USER_HOME$/sync/code/go/src/zhvocs/routers/router.go" />
+      <jump line="12" column="0" filename="$USER_HOME$/sync/code/go/src/zhvocs/controllers/common.go" />
+      <jump line="21" column="24" filename="$USER_HOME$/sync/code/go/src/zhvocs/main.go" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVmcmVzaFNlYXJjaEZvcm06IHJhbmRvbVN0cigpCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">56ys5LiJ5p2hIA==</text>
+        <text>}</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -1891,49 +1904,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">56ys5LiJ5p2hIA==</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
-        <text>node</text>
+        <text>404</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGxpbmVzID0gYXBwZW5kKGxpbmVzLCBpdGVtc1tzZWNvbmROb2RlLk5vLTFdLi4uKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXQuRXhlY3V0ZShydywgZGF0YSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDpobkKICAgICAgICB0aGlyZE5vLCBlcnIgOj0gc3RyY29udi5BdG9pKG51bXNbMl0pCiAgICAgICAgaWYgZXJyICE9IG5pbCB7CiAgICAgICAgICAgIHJldHVybiBsaW5lcywgZm10LkVycm9yZigiJXMs5o+Q5L6b5p2h5qy+5Y+36ZSZ6K+v77yaJXMiLCBsYXcuTmFtZSwgbm9TdHIpCiAgICAgICAgfQogICAgICAgIC8vIHRoZSBmaXJzdCBwYXJhZ3JhcGggb2YgaXRlbSBpcyBub3Qgc3ViLWl0ZW0KICAgICAgICBpZiBsZW4oaXRlbXNbc2Vjb25kTm8tMV1bMF0pIDwgdGhpcmRObysxIHsKICAgICAgICAgICAgcmV0dXJuIGxpbmVzLCBmbXQuRXJyb3JmKCIlc+aJk+S4jeWIsOaMh+WumueahOmhueWPt++8miVzIiwgbGF3Lk5hbWUsIG5vU3RyKQogICAgICAgIH0KICAgICAgICBpZiBzZWNvbmRObyA+IDEgewogICAgICAgICAgICBjaGluZXNlTm8sIF8gOj0gaWMuSXRvQyhmaXJzdE5vLCBmYWxzZSkKICAgICAgICAgICAgaXRlbXNbc2Vjb25kTm8tMV1bMF0gPSAi56ysIiArIGNoaW5lc2VObyArICLmnaEgIiArIGl0ZW1zW3NlY29uZE5vLTFdWzBdCiAgICAgICAgfQogICAgICAgIGxpbmVzID0gYXBwZW5kKGxpbmVzLCBpdGVtc1tzZWNvbmROby0xXVswXSwgaXRlbXNbc2Vjb25kTm8tMV1bdGhpcmROb10pCg==</text>
+        <text encoding="base64">CWRhdGEgOj0gbWFrZShtYXBbc3RyaW5nXWludGVyZmFjZXt9KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmlyc3RMaW5lIDo9ICIiCg==</text>
+        <text encoding="base64">CWRhdGEK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpcnN0TGluZSA9Cg==</text>
+        <text encoding="base64">CWJlZWdvLlZpZXcK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXRlbXNbc2Vjb25kTm9kZS5Oby0xXVswXSA9IGZpcnN0TGluZSArIGl0ZW1zW3NlY29uZE5vZGUuTm8tMV1bMF0K</text>
+        <text encoding="base64">CWRhdGEgOj0gbWFrZShtYXBbc3RyaW5nXWludGVyZmFjZXt9KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0ZW1zW3NlY29uZE5vZGUuTm8tMV1bMF0gPSBmaXJzdExpbmUgKyBpdGVtc1tzZWNvbmROb2RlLk5vLTFdWzBdCg==</text>
+        <text encoding="base64">CWJlZWdvCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHRoZSBub24tc2Vjb25kIG9uZSBuZWVkIHRvIGFkZCDmnaEK</text>
+        <text encoding="base64">ZnVuYyBwYWdlX25vdF9mb3VuZChydyBodHRwLlJlc3BvbnNlV3JpdGVyLCByICpodHRwLlJlcXVlc3QpIHsKCXQsIF8gOj0gdGVtcGxhdGUuTmV3KCI0MDQuaHRtbCIpLlBhcnNlRmlsZXMoIjQwNC5odG1sIikKCWRhdGEgOj0gbWFrZShtYXBbc3RyaW5nXWludGVyZmFjZXt9KQoJdC5FeGVjdXRlKHJ3LCBkYXRhKQp9Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpcnN0TGluZSA6PSAiIgo=</text>
+        <text encoding="base64">CWJlZWdvLkVycm9ySGFuZGxlcigiNDA0IixwYWdlX25vdF9mb3VuZCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGluZXMgPSBhcHBlbmQobGluZXMsIGl0ZW1zW3NlY29uZE5vZGUuTm9dKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
-      <last-search>node</last-search>
+      <last-search>404</last-search>
       <last-offset />
-      <last-pattern>node</last-pattern>
+      <last-pattern>404</last-pattern>
       <last-replace>results[first]</last-replace>
       <last-substitute>node</last-substitute>
       <last-dir>1</last-dir>
@@ -1941,6 +1954,7 @@
     </search>
     <history>
       <history-search>
+        <entry>v['\w*']</entry>
         <entry>\w*</entry>
         <entry>v\['\w*'\]</entry>
         <entry>unde</entry>
@@ -1959,12 +1973,16 @@
         <entry encoding="base64">XDxjaGlsZERhdGFcPg==</entry>
         <entry encoding="base64">XDxidXR0b25Sb3dcPg==</entry>
         <entry>print</entry>
-        <entry>secondNo</entry>
-        <entry>node</entry>
+        <entry>404</entry>
       </history-search>
       <history-cmd>
+        <entry encoding="base64">JzwsJz5zLyAvL2dj</entry>
+        <entry encoding="base64">JzwsJz5zLyAvL2c=</entry>
+        <entry encoding="base64">JzwsJz4=</entry>
+        <entry encoding="base64">JzwsJz4lcy8gLy9n</entry>
         <entry encoding="base64">JzwsJz5zLyAvLw==</entry>
         <entry encoding="base64">JzwsJz5zLyQvIi9nYw==</entry>
+        <entry>action Forward</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz5zL0xldmVsL1BhdGgvZ2M=</entry>
         <entry encoding="base64">JzwsJz5zL1BhcnRzOiBbXVBhcnR7L2dj</entry>
@@ -1977,11 +1995,6 @@
         <entry>%s/v['\w*']/v.\1/gc</entry>
         <entry>%s/v\['\w*'\]/v.\1/gc</entry>
         <entry>%s/v\['\(\w*\)'\]/v.\1/gc</entry>
-        <entry>action AceAction</entry>
-        <entry>action Forward</entry>
-        <entry>%s/node/results[first]/gc</entry>
-        <entry>action PreviousTab</entry>
-        <entry>action NextTab</entry>
         <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
