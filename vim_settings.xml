@@ -603,7 +603,7 @@
         <mark key="." line="6" column="1" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1493194190014">
+      <file name="/Dummy.txt" timestamp="1494510329975">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -759,6 +759,13 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="191" column="1" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/sync/code/go/src/zhvocs/.gitignore" timestamp="1494510318282">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="18" column="7" />
+        <mark key="]" line="19" column="5" />
+        <mark key="." line="19" column="5" />
+        <mark key="^" line="19" column="5" />
       </file>
       <file name="$USER_HOME$/sync/code/java/ProgrammingProjectList/001-ReverseString/src/ReverseString.java" timestamp="1474764144607">
         <mark key="[" line="4" column="0" />
@@ -1670,8 +1677,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/workdir/web/now-antd/src/components/searchForm.tsx" />
-      <jump line="89" column="0" filename="$USER_HOME$/workdir/web/now-antd/src/components/treePage.tsx" />
       <jump line="0" column="0" filename="$USER_HOME$/workdir/web/now-antd/src/components/treePage.tsx" />
       <jump line="494" column="0" filename="$USER_HOME$/workdir/web/now-antd/src/components/treePage.tsx" />
       <jump line="165" column="0" filename="$USER_HOME$/workdir/web/now-antd/src/components/user.tsx" />
@@ -1770,13 +1775,15 @@
       <jump line="138" column="27" filename="$USER_HOME$/sync/code/go/src/zhvocs/controllers/repair.go" />
       <jump line="219" column="0" filename="$USER_HOME$/sync/code/go/src/zhvocs/controllers/repair.go" />
       <jump line="114" column="27" filename="$USER_HOME$/sync/code/go/src/zhvocs/controllers/repair.go" />
+      <jump line="18" column="0" filename="$USER_HOME$/sync/code/go/src/zhvocs/.gitignore" />
+      <jump line="10" column="0" filename="$USER_HOME$/sync/code/go/src/zhvocs/.gitignore" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVmcmVzaFNlYXJjaEZvcm06IHJhbmRvbVN0cigpCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CWMuUnNwKCZtYXBbc3RyaW5nXWludGVyZmFjZXt9eyJ1cmwiOiAiL3RtcC8iICsgZmlsZW5hbWV9LCAiIikK</text>
+      <register name="&quot;" type="4">
+        <text>add upload origin images</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -1883,7 +1890,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LCA=</text>
+        <text>add upload origin images</text>
       </register>
       <register name="/" type="4">
         <text>export</text>
@@ -1892,34 +1899,34 @@
         <text encoding="base64">CWlmIHRoaXMuR2V0U2Vzc2lvbigidXNlcl9pZCIpID09IG5pbCAmJiAhc3RyaW5ncy5IYXNQcmVmaXgodGhpcy5DdHguUmVxdWVzdC5SZXF1ZXN0VVJJLCAiL0xvZyIpIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWMuUnNwKCZtYXBbc3RyaW5nXWludGVyZmFjZXt9eyJ1cmwiOiAiL3RtcC8iICsgZmlsZW5hbWV9LCAiIikK</text>
+        <text encoding="base64">LmdpdGlnbm9yZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWlmICFjLklzQWpheCgpIHsKCQljLlJzcChuaWwsICLml6DmlYjnmoTmk43kvZwiKQoJCXJldHVybgoJfQo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">CWMuUnNwKCZtYXBbc3RyaW5nXWludGVyZmFjZXt9eyJ1cmwiOiAiL3RtcC8iICsgZmlsZW5hbWV9LCAiIikK</text>
       </register>
-      <register name="4" type="2">
+      <register name="3" type="2">
         <text encoding="base64">CWlmICFjLklzQWpheCgpIHsKCQljLlJzcChuaWwsICLml6DmlYjnmoTmk43kvZwiKQoJCXJldHVybgoJfQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CWMuUnNwKCZtYXBbc3RyaW5nXWludGVyZmFjZXt9eyJ1cmwiOiAiL3RtcC8iICsgZmlsZW5hbWV9LCAiIikK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">CWlmICFjLklzQWpheCgpIHsKCQljLlJzcChuaWwsICLml6DmlYjnmoTmk43kvZwiKQoJCXJldHVybgoJfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CWZpbGVuYQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CWMuUnNwKCZtYXBbc3RyaW5nXWludGVyZmFjZXt9eyJ1cmwiOiAiL3RtcC8iICsgZmlsZW5hbWV9LCAiIikK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">CWlmICFjLklzQWpheCgpIHsKCQljLlJzcChuaWwsICLml6DmlYjnmoTmk43kvZwiKQoJCXJldHVybgoJfQo=</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">CWZpbGVuYQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CWMuUnNwKCZtYXBbc3RyaW5nXWludGVyZmFjZXt9eyJ1cmwiOiAiL3RtcC8iICsgZmlsZW5hbWV9LCAiIikK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CWlmIGMuR2V0U2Vzc2lvbigidXNlcl9pZCIpICE9IG5pbCB7CgkJYy5SZWRpcmVjdChjLkN0eC5SZXF1ZXN0LlVSTC5QYXRoLCAzMDIpCgl9Cg==</text>
+        <text encoding="base64">CWlmICFjLklzQWpheCgpIHsKCQljLlJzcChuaWwsICLml6DmlYjnmoTmk43kvZwiKQoJCXJldHVybgoJfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1955,7 +1962,6 @@
         <entry>export</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLyAvL2dj</entry>
         <entry encoding="base64">JzwsJz5zLyAvL2c=</entry>
         <entry encoding="base64">JzwsJz4=</entry>
         <entry encoding="base64">JzwsJz4lcy8gLy9n</entry>
@@ -1975,6 +1981,7 @@
         <entry>%s/v\['\w*'\]/v.\1/gc</entry>
         <entry>%s/v\['\(\w*\)'\]/v.\1/gc</entry>
         <entry>action ReformatCode</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
