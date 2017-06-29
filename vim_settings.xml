@@ -723,6 +723,11 @@
         <mark key="." line="45" column="42" />
         <mark key="^" line="45" column="42" />
       </file>
+      <file name="$USER_HOME$/workdir/code/hsweb-demo/src/main/java/org/hsweb/demo/controller/index/IndexController.java" timestamp="1497840698157">
+        <mark key="'" line="19" column="38" />
+        <mark key="[" line="15" column="5" />
+        <mark key="]" line="15" column="18" />
+      </file>
       <file name="$USER_HOME$/sync/code/go/src/mingerserver/robotserver/robot.go" timestamp="1489582848440">
         <mark key="'" line="80" column="0" />
         <mark key="[" line="20" column="6" />
@@ -950,6 +955,12 @@
         <mark key="]" line="10" column="14" />
         <mark key="^" line="10" column="14" />
         <mark key="." line="10" column="14" />
+      </file>
+      <file name="$USER_HOME$/workdir/code/algorithms/src/Connectivity/QuickFind.java" timestamp="1497587944741">
+        <mark key="[" line="13" column="30" />
+        <mark key="]" line="13" column="31" />
+        <mark key="." line="13" column="31" />
+        <mark key="^" line="13" column="27" />
       </file>
       <file name="$USER_HOME$/sync/code/go/src/ldar/direction_test.go" timestamp="1476252942723">
         <mark key="[" line="16" column="19" />
@@ -1684,6 +1695,12 @@
         <mark key="^" line="71" column="76" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/workdir/code/algorithms/src/Connectivity/Connectivity.java" timestamp="1497587861455">
+        <mark key="[" line="4" column="19" />
+        <mark key="]" line="4" column="20" />
+        <mark key="." line="4" column="20" />
+        <mark key="^" line="4" column="28" />
+      </file>
       <file name="$USER_HOME$/workdir/web/lawindexer-ui/src/data/header.ts" timestamp="1492760730330">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -1869,9 +1886,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="20" filename="$USER_HOME$/sync/code/Android/HaiHuanLDAR/app/src/main/res/layout/properties_content_top.xml" />
-      <jump line="28" column="33" filename="$USER_HOME$/sync/code/Android/HaiHuanLDAR/app/src/main/res/layout/properties_content_top.xml" />
-      <jump line="241" column="0" filename="$USER_HOME$/sync/code/Android/HaiHuanLDAR/app/src/main/res/layout/properties_content_top.xml" />
       <jump line="1" column="17" filename="$USER_HOME$/sync/code/Android/HaiHuanLDAR/app/src/main/res/layout/properties_content_top.xml" />
       <jump line="18" column="0" filename="$USER_HOME$/sync/code/Android/HaiHuanLDAR/app/src/main/res/layout/activity_component_properties.xml" />
       <jump line="260" column="35" filename="$USER_HOME$/sync/code/Android/HaiHuanLDAR/app/src/main/res/layout/activity_component_properties.xml" />
@@ -1969,13 +1983,16 @@
       <jump line="234" column="17" filename="$USER_HOME$/Downloads/android-Camera2Basic-master/Application/src/main/java/com/example/android/camera2basic/Camera2BasicFragment.java" />
       <jump line="245" column="78" filename="$USER_HOME$/Downloads/android-Camera2Basic-master/Application/src/main/java/com/example/android/camera2basic/Camera2BasicFragment.java" />
       <jump line="69" column="11" filename="$USER_HOME$/sync/code/go/src/Minger/client/src/model/user.go" />
+      <jump line="17" column="17" filename="$USER_HOME$/workdir/code/hsweb-demo/src/main/java/org/hsweb/demo/controller/index/IndexController.java" />
+      <jump line="18" column="39" filename="$USER_HOME$/workdir/code/hsweb-demo/src/main/java/org/hsweb/demo/controller/index/IndexController.java" />
+      <jump line="19" column="38" filename="$USER_HOME$/workdir/code/hsweb-demo/src/main/java/org/hsweb/demo/controller/index/IndexController.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVmcmVzaFNlYXJjaEZvcm06IHJhbmRvbVN0cigpCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJmbXQiCg==</text>
+      <register name="&quot;" type="4">
+        <text>root</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2082,7 +2099,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>model</text>
+        <text>root</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtRmlsZVw+</text>
@@ -2091,34 +2108,34 @@
         <text encoding="base64">ICAgICAgICBhcHBsaWNhdGlvbklkICdjb20uZXhhbXBsZS5hbmRyb2lkLmNhbWVyYTJiYXNpYycK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJmbXQiCg==</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIGludCByb290KGludCBpKSB7CiAgICAgICAgcmV0dXJuIGlkc1tpXTsKICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJlcnJvcnMiCg==</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnVuYyAoZCAqREIpIGNyZWF0ZUFkbWluVXNlcigpIGVycm9yIHsKICAgIC8vIOaWsOW7uuS4gOS4qui2hee6p+euoeeQhuWRmOeUqOaItwogICAgdXNlciA6PSBVc2Vye1VzZXJOYW1lOiAiYWRtaW4iLCBQYXNzd29yZDogImY4NjViNTM2MjNiMTIxZmQzNGVlNTQyNmM3OTJlNWMzM2FmOGMyMjciLAogICAgICAgIEVtYWlsOiAgICAgICAgICAgICAiZXhhbXBsZUBleGFtcGxlLm9yZyIsIFJvbGU6IEFkbWluLCBDcmVhdGVBdDogdGltZS5Ob3coKX0KICAgIGlmIGVyciA6PSB1c2VyLmNyeXB0UGFzcygpOyBlcnIgIT0gbmlsIHsKICAgICAgICByZXR1cm4gZm10LkVycm9yZigi6LaF57qn566h55CG5ZGY5a+G56CB5Yqg5a+G5aSx6LSlOiAlcyIsIGVyci5FcnJvcigpKQogICAgfQogICAgdmFyIGNudCBpbnQKICAgIGlmIGVyciA6PSBkLk1vZGVsKFVzZXJ7fSkuV2hlcmUoInVzZXJfbmFtZT0/IiwgdXNlci5Vc2VyTmFtZSkuQ291bnQoJmNudCkuRXJyb3I7IGVyciAhPSBuaWwgewogICAgICAgIHJldHVybiBmbXQuRXJyb3JmKCLmn6Xor6LnrqHnkIblkZjluJDlj7flpLHotKU6ICVzIiwgZXJyLkVycm9yKCkpCiAgICB9CiAgICBpZiBjbnQgPT0gMCB7CiAgICAgICAgaWYgZXJyIDo9IGQuQ3JlYXRlKCZ1c2VyKS5FcnJvcjsgZXJyICE9IG5pbCB7CiAgICAgICAgICAgIHJldHVybiBmbXQuRXJyb3JmKCLliJvlu7rotoXnuqfnrqHnkIblkZjlpLHotKU6ICVzIiwgZXJyLkVycm9yKCkpCiAgICAgICAgfQogICAgfQogICAgcmV0dXJuIG5pbAp9CgpmdW5jIChkICpEQikgQ3JlYXRlVXNlcih1c2VyIFVzZXIpIGVycm9yIHsKICAgIGlmIGVyciA6PSB1c2VyLmNyeXB0UGFzcygpOyBlcnIgIT0gbmlsIHsKICAgICAgICByZXR1cm4gZXJyb3JzLk5ldygi55So5oi35a+G56CB5Yqg5a+G5aSx6LSlIikKICAgIH0KICAgIGlmIGVyciA6PSBkLkNyZWF0ZSgmdXNlcikuRXJyb3I7IGVyciAhPSBuaWwgewogICAgICAgIHJldHVybiBmbXQuRXJyb3JmKCLliJvlu7rnlKjmiLflpLHotKUiKQogICAgfQogICAgcmV0dXJuIG5pbAp9CgpmdW5jIChkICpEQikgTG9naW4odXNlcm5hbWUsIHBhc3Mgc3RyaW5nKSAodXNlciBVc2VyLCBlcnIgZXJyb3IpIHsKICAgIGlmIHN0cmluZ3MuVHJpbVNwYWNlKHVzZXJuYW1lKSA9PSAiIiB7CiAgICAgICAgcmV0dXJuIHVzZXIsIGVycm9ycy5OZXcoIueUqOaIt+WQjeS4jeiDveS4uuepuiIpCiAgICB9CiAgICBlcnIgPSBkLldoZXJlKCJ1c2VyX25hbWU9PyIsIHVzZXJuYW1lKS5GaXJzdCgmdXNlcikuRXJyb3IKICAgIGlmIGVyciAhPSBuaWwgewogICAgICAgIGlmIGVyciA9PSBnb3JtLkVyclJlY29yZE5vdEZvdW5kIHsKICAgICAgICAgICAgcmV0dXJuIHVzZXIsIGVycm9ycy5OZXcoIueUqOaIt+S4jeWtmOWcqCIpCiAgICAgICAgfQogICAgICAgIHJldHVybiB1c2VyLCBlcnJvcnMuTmV3KCLmn6Xmib7nlKjmiLflpLHotKUiKQogICAgfQogICAgZXJyID0gYmNyeXB0LkNvbXBhcmVIYXNoQW5kUGFzc3dvcmQoW11ieXRlKHVzZXIuUGFzc3dvcmQpLCBbXWJ5dGUocGFzcykpCiAgICBpZiBlcnIgIT0gbmlsIHsKICAgICAgICByZXR1cm4gdXNlciwgZXJyb3JzLk5ldygi5a+G56CB6ZSZ6K+vIikKICAgIH0KCiAgICByZXR1cm4KfQoKZnVuYyAoZCAqREIpIENoYW5nZVBhc3N3b3JkKHVzZXJJRCBpbnQsIG9yaVBhc3MsIG5ld1Bhc3Mgc3RyaW5nKSBlcnJvciB7CiAgICB2YXIgdXNlciBVc2VyCiAgICBlcnIgOj0gZC5XaGVyZSgiaWQ9PyIsIHVzZXJJRCkuRmlyc3QoJnVzZXIpLkVycm9yCiAgICBpZiBlcnIgIT0gbmlsIHsKICAgICAgICBpZiBlcnIgPT0gZ29ybS5FcnJSZWNvcmROb3RGb3VuZCB7CiAgICAgICAgICAgIHJldHVybiBlcnJvcnMuTmV3KCLnlKjmiLfkuI3lrZjlnKgiKQogICAgICAgIH0KICAgICAgICByZXR1cm4gZXJyb3JzLk5ldygi5p+l5om+55So5oi35aSx6LSlIikKICAgIH0KICAgIGVyciA9IGJjcnlwdC5Db21wYXJlSGFzaEFuZFBhc3N3b3JkKFtdYnl0ZSh1c2VyLlBhc3N3b3JkKSwgW11ieXRlKG9yaVBhc3MpKQogICAgaWYgZXJyICE9IG5pbCB7CiAgICAgICAgcmV0dXJuIGVycm9ycy5OZXcoIuWOn+Wni+WvhueggemUmeivryIpCiAgICB9CiAgICB1c2VyLlBhc3N3b3JkID0gbmV3UGFzcwogICAgaWYgZXJyID0gdXNlci5jcnlwdFBhc3MoKTsgZXJyICE9IG5pbCB7CiAgICAgICAgcmV0dXJuIGVycm9ycy5OZXcoIueUqOaIt+WvhueggeWKoOWvhuWksei0pSIpCiAgICB9CiAgICBpZiBlcnIgPSBkLlNhdmUoJnVzZXIpLkVycm9yOyBlcnIgIT0gbmlsIHsKICAgICAgICByZXR1cm4gZm10LkVycm9yZigi5a+G56CB5pu05paw5aSx6LSlIikKICAgIH0KICAgIHJldHVybiBuaWwKfQo=</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBrbG5pdSBvbiAxNy02LTE2Lgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhcHBsaWNhdGlvbklkICdjb20uZXhhbXBsZS5hbmRyb2lkLmNhbWVyYTJiYXNpYycK</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnY29tLmFuZHJvaWQuYXBwbGljYXRpb24nCg==</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBrbG5pdSBvbiAxNy02LTE2Lgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFwcGxpY2F0aW9uSWQgJ2NvbS5leGFtcGxlLmFuZHJvaWQuY2FtZXJhMmJhc2ljJwo=</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVwZW5kZW5jaWVzIHsKfQo=</text>
+        <text encoding="base64">ICAgICJmbXQiCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action NextTab</text>
+        <text>action PreviousTab</text>
       </register>
     </registers>
     <search>
@@ -2172,8 +2189,8 @@
         <entry encoding="base64">JzwsJz5J</entry>
         <entry>q</entry>
         <entry>action ReformatCode</entry>
-        <entry>action PreviousTab</entry>
         <entry>action NextTab</entry>
+        <entry>action PreviousTab</entry>
       </history-cmd>
       <history-expr />
       <history-input />
