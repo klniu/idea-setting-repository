@@ -298,6 +298,9 @@
         <mark key="^" line="191" column="49" />
         <mark key="." line="191" column="36" />
       </file>
+      <file name="$USER_HOME$/workdir/code/now-antd-js/config/webpack.config.dev.js" timestamp="1498986348256">
+        <mark key="'" line="164" column="21" />
+      </file>
       <file name="$USER_HOME$/sync/code/java/mdtools/src/com/klniu/md/model/Mol.java" timestamp="1481603697598">
         <mark key="[" line="53" column="28" />
         <mark key="]" line="53" column="28" />
@@ -1434,6 +1437,10 @@
         <mark key="." line="8" column="19" />
         <mark key="^" line="8" column="19" />
       </file>
+      <file name="$USER_HOME$/workdir/code/now-antd-js/src/App.js" timestamp="1498986357629">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="41" />
+      </file>
       <file name="$USER_HOME$/sync/code/go/src/ldar/direction.go" timestamp="1476252890962">
         <mark key="[" line="15" column="34" />
         <mark key="]" line="15" column="51" />
@@ -1928,6 +1935,12 @@
         <mark key="." line="427" column="0" />
         <mark key="^" line="451" column="46" />
       </file>
+      <file name="$USER_HOME$/workdir/code/now-antd-js/src/components/AdvancedTable.jsx" timestamp="1498986388805">
+        <mark key="[" line="0" column="26" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+      </file>
       <file name="/usr/lib/mono/xbuild/14.0/bin/Microsoft.Common.targets" timestamp="1492351215215">
         <mark key="'" line="8" column="37" />
       </file>
@@ -2032,12 +2045,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="4" filename="$USER_HOME$/sync/code/Android/HaiHuanLDAR/app/src/main/java/com/cnvoc/haihuanldar/svg/Group.java" />
-      <jump line="20" column="0" filename="$USER_HOME$/sync/code/Android/HaiHuanLDAR/app/src/main/java/com/cnvoc/haihuanldar/view/PhotoView.java" />
-      <jump line="84" column="32" filename="$USER_HOME$/sync/code/Android/HaiHuanLDAR/app/src/main/java/com/cnvoc/haihuanldar/view/PhotoView.java" />
-      <jump line="69" column="0" filename="$USER_HOME$/sync/code/Android/HaiHuanLDAR/app/src/main/java/com/cnvoc/haihuanldar/view/PhotoView.java" />
-      <jump line="46" column="8" filename="$USER_HOME$/sync/code/Android/HaiHuanLDAR/app/src/main/java/com/cnvoc/haihuanldar/activity/PhotoEditor.java" />
-      <jump line="59" column="0" filename="$USER_HOME$/sync/code/Android/HaiHuanLDAR/app/src/main/java/com/cnvoc/haihuanldar/view/PhotoView.java" />
       <jump line="100" column="4" filename="$USER_HOME$/sync/code/Android/HaiHuanLDAR/app/src/main/java/com/cnvoc/haihuanldar/activity/Photograph.java" />
       <jump line="37" column="20" filename="$USER_HOME$/sync/code/Android/HaiHuanLDAR/app/src/main/java/com/cnvoc/haihuanldar/activity/Photograph.java" />
       <jump line="423" column="14" filename="$USER_HOME$/sync/code/Android/HaiHuanLDAR/app/src/main/java/com/cnvoc/haihuanldar/view/PreviewFragment.java" />
@@ -2132,13 +2139,19 @@
       <jump line="5" column="41" filename="$USER_HOME$/workdir/code/voc-ui/src/components/tank/Base.jsx" />
       <jump line="24" column="25" filename="$USER_HOME$/workdir/code/voc-ui/src/components/tank/Base.jsx" />
       <jump line="44" column="47" filename="$USER_HOME$/workdir/code/voc-ui/src/components/tank/Base.jsx" />
+      <jump line="16" column="22" filename="$USER_HOME$/workdir/code/now-antd-js/config/webpack.config.dev.js" />
+      <jump line="83" column="23" filename="$USER_HOME$/workdir/code/now-antd-js/config/webpack.config.dev.js" />
+      <jump line="86" column="35" filename="$USER_HOME$/workdir/code/now-antd-js/config/webpack.config.dev.js" />
+      <jump line="112" column="21" filename="$USER_HOME$/workdir/code/now-antd-js/config/webpack.config.dev.js" />
+      <jump line="137" column="17" filename="$USER_HOME$/workdir/code/now-antd-js/config/webpack.config.dev.js" />
+      <jump line="164" column="21" filename="$USER_HOME$/workdir/code/now-antd-js/config/webpack.config.dev.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVmcmVzaFNlYXJjaEZvcm06IHJhbmRvbVN0cigpCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">LCB7IENvbXBvbmVudCB9IA==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2245,60 +2258,59 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">OiBGb3JtR3JvdXBTdGF0ZXMg</text>
+        <text encoding="base64">LCB7IENvbXBvbmVudCB9IA==</text>
       </register>
       <register name="/" type="4">
-        <text>$</text>
+        <text>jsx</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmNvbHVtbnMgPSBbCiAgICAgICAgICAgIHt0aXRsZTon5YKo572Q5L2N5Y+3JyxkYXRhSW5kZXg6J2NvZGUnfSwKICAgICAgICAgICAge3RpdGxlOifnvZDkvZPlvaLlvI8nLGRhdGFJbmRleDonc3R5bGUnfSwKICAgICAgICAgICAge3RpdGxlOifmiYDlsZ7nvZDljLonLGRhdGFJbmRleDonYXJlYSd9LAogICAgICAgICAgICB7dGl0bGU6J+WCqOWtmOeJqeaWmScsZGF0YUluZGV4OidtYXRlcmlhbCd9LAogICAgICAgICAgICB7dGl0bGU6J+WuueenryhtwrMpJyxkYXRhSW5kZXg6J3ZvbHVtZSd9LAogICAgICAgICAgICB7dGl0bGU6J+ebtOW+hChtKScsZGF0YUluZGV4OidkaWFtZXRlcid9LAogICAgICAgICAgICB7dGl0bGU6J+e9kOS9k+minOiJsicsZGF0YUluZGV4Oidib2R5Q29sb3InfSwKICAgICAgICAgICAge3RpdGxlOifnvZDmvIbnirblhrUnLGRhdGFJbmRleDoncGFpbnRTdGF0dXMnfSwKICAgICAgICAgICAge3RpdGxlOifnvZDkvZPpq5gv6ZW/5bqmKG0pJyxkYXRhSW5kZXg6J2hlaWdodCd9LAogICAgICAgICAgICB7dGl0bGU6J+WRvOWQuOmYgC3ljovlipvorr7lrpooUGEpJyxkYXRhSW5kZXg6J3ByZXNzdXJlJ30sCiAgICAgICAgICAgIHt0aXRsZTon5ZG85ZC46ZiALeecn+epuuiuvuWumihQYSknLGRhdGFJbmRleDondmFjdXVtJ30sCiAgICAgICAgICAgIHt0aXRsZTon572Q6aG25a+G5bCB57G75Z6LJyxkYXRhSW5kZXg6J3NlYWxUeXBlJ30KICAgICAgICBdOwo=</text>
+        <text encoding="base64">aW1wb3J0IFJlYWN0LCB7IENvbXBvbmVudCB9IGZyb20gJ3JlYWN0JzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW50ZXJmYWNlIEZvcm1Hcm91cEFuZEFudGRQcm9wcyBleHRlbmRzIEZvcm1Hcm91cFByb3BzLCBGb3JtQ29tcG9uZW50UHJvcHMge30K</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkga2xuaXUgb24gMTctNy0yLgogKi8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHtDb2x1bW5GaWVsZH0gZnJvbSAnLi4vY29tbW9uL2Zvcm1zJzsK</text>
+        <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0JzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHtTdHJpbmdBbnlNYXB9IGZyb20gJy4uL2NvbW1vbi9jb21tb25zJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">Y2xhc3MgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBoYW8uY2hlbmcgb24gMjAxNy80LzE2Lgo=</text>
+        <text encoding="base64">aW1wb3J0IHtSZWFjdH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmNvbHVtbnMgPSBbCiAgICAgICAgICAgIHt0aXRsZTon5YKo572Q5L2N5Y+3JyxkYXRhSW5kZXg6J2NvZGUnfSwKICAgICAgICAgICAge3RpdGxlOifnvZDkvZPlvaLlvI8nLGRhdGFJbmRleDonc3R5bGUnfSwKICAgICAgICAgICAge3RpdGxlOifmiYDlsZ7nvZDljLonLGRhdGFJbmRleDonYXJlYSd9LAogICAgICAgICAgICB7dGl0bGU6J+WCqOWtmOeJqeaWmScsZGF0YUluZGV4OidtYXRlcmlhbCd9LAogICAgICAgICAgICB7dGl0bGU6J+WuueenryhtwrMpJyxkYXRhSW5kZXg6J3ZvbHVtZSd9LAogICAgICAgICAgICB7dGl0bGU6J+ebtOW+hChtKScsZGF0YUluZGV4OidkaWFtZXRlcid9LAogICAgICAgICAgICB7dGl0bGU6J+e9kOS9k+minOiJsicsZGF0YUluZGV4Oidib2R5Q29sb3InfSwKICAgICAgICAgICAge3RpdGxlOifnvZDmvIbnirblhrUnLGRhdGFJbmRleDoncGFpbnRTdGF0dXMnfSwKICAgICAgICAgICAge3RpdGxlOifnvZDkvZPpq5gv6ZW/5bqmKG0pJyxkYXRhSW5kZXg6J2hlaWdodCd9LAogICAgICAgICAgICB7dGl0bGU6J+WRvOWQuOmYgC3ljovlipvorr7lrpooUGEpJyxkYXRhSW5kZXg6J3ByZXNzdXJlJ30sCiAgICAgICAgICAgIHt0aXRsZTon5ZG85ZC46ZiALeecn+epuuiuvuWumihQYSknLGRhdGFJbmRleDondmFjdXVtJ30sCiAgICAgICAgICAgIHt0aXRsZTon572Q6aG25a+G5bCB57G75Z6LJyxkYXRhSW5kZXg6J3NlYWxUeXBlJ30KICAgICAgICBdOwo=</text>
+        <text encoding="base64">aW50ZXJmYWNlIEZvcm1Hcm91cEFuZEFudGRQcm9wcyBleHRlbmRzIEZvcm1Hcm91cFByb3BzLCBGb3JtQ29tcG9uZW50UHJvcHMge30K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAga2V5OiAnMicsCiAgICAgICAgICAgIG5hbWU6ICdKaW0gR3JlZW4nLAogICAgICAgICAgICBhZ2U6IDQwLAogICAgICAgICAgICBhZGRyZXNzOiAnTG9uZG9uIFBhcmsnLAo=</text>
+        <text encoding="base64">aW1wb3J0IHtDb2x1bW5GaWVsZH0gZnJvbSAnLi4vY29tbW9uL2Zvcm1zJzsK</text>
       </register>
       <register name=":" type="4">
-        <text>action PreviousTab</text>
+        <text>action NextTab</text>
       </register>
     </registers>
     <search>
-      <last-search>$</last-search>
+      <last-search>jsx</last-search>
       <last-offset />
-      <last-pattern>$</last-pattern>
+      <last-pattern>jsx</last-pattern>
       <last-replace>',dataIndex:'</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
         <entry>public</entry>
         <entry>semi</entry>
         <entry>element</entry>
-        <entry>jsx</entry>
         <entry>align</entry>
         <entry>for</entry>
         <entry>user</entry>
@@ -2315,6 +2327,7 @@
         <entry encoding="base64">XDxiYXNlXD4=</entry>
         <entry>open</entry>
         <entry>$</entry>
+        <entry>jsx</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4lcy8gLy9n</entry>
@@ -2335,8 +2348,8 @@
         <entry>q</entry>
         <entry>action ReformatCode</entry>
         <entry encoding="base64">JzwsJz5zLyQvJyxkYXRhSW5kZXg6Jy9nYw==</entry>
-        <entry>action NextTab</entry>
         <entry>action PreviousTab</entry>
+        <entry>action NextTab</entry>
       </history-cmd>
       <history-expr />
       <history-input />
