@@ -296,11 +296,11 @@
         <mark key="^" line="10" column="30" />
         <mark key="." line="10" column="30" />
       </file>
-      <file name="$USER_HOME$/workdir/code/clear/src/main/java/com/cnvoc/clear/model/tank/FactoryInfo.java" timestamp="1499241210774">
-        <mark key="[" line="7" column="31" />
-        <mark key="]" line="7" column="39" />
-        <mark key="." line="7" column="39" />
-        <mark key="^" line="7" column="39" />
+      <file name="$USER_HOME$/workdir/code/clear/src/main/java/com/cnvoc/clear/model/tank/FactoryInfo.java" timestamp="1499242096282">
+        <mark key="[" line="14" column="5" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="16" column="0" />
       </file>
       <file name="$USER_HOME$/sync/code/java/xiaoyi/src/main/java/com/klniu/xiaoyi/BDYuYin/BDRecognize.java" timestamp="1484225825787">
         <mark key="[" line="36" column="59" />
@@ -430,7 +430,7 @@
         <mark key="." line="45" column="42" />
         <mark key="^" line="45" column="42" />
       </file>
-      <file name="/fragment.java" timestamp="1499241060302">
+      <file name="/fragment.java" timestamp="1499242151540">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -485,6 +485,12 @@
         <mark key="]" line="6" column="36" />
         <mark key="." line="6" column="36" />
         <mark key="^" line="6" column="36" />
+      </file>
+      <file name="$USER_HOME$/workdir/code/clear/src/main/resources/mapper/base/FactoryInfoMapper.xml" timestamp="1499242338292">
+        <mark key="[" line="6" column="23" />
+        <mark key="]" line="6" column="22" />
+        <mark key="." line="6" column="22" />
+        <mark key="^" line="6" column="22" />
       </file>
       <file name="$USER_HOME$/sync/code/Android/HaiHuanLDAR/app/src/main/java/com/cnvoc/haihuanldar/svg/Line.java" timestamp="1495095648075">
         <mark key="[" line="15" column="5" />
@@ -585,7 +591,7 @@
         <mark key="^" line="12" column="19" />
         <mark key="." line="12" column="19" />
       </file>
-      <file name="$USER_HOME$/workdir/code/clear/src/main/java/com/cnvoc/clear/mapper/FixedTankBaseMapper.java" timestamp="1499157256948">
+      <file name="$USER_HOME$/workdir/code/clear/src/main/java/com/cnvoc/clear/mapper/FixedTankBaseMapper.java" timestamp="1499242112832">
         <mark key="[" line="7" column="38" />
         <mark key="]" line="8" column="3" />
         <mark key="." line="8" column="3" />
@@ -1149,7 +1155,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVmcmVzaFNlYXJjaEZvcm06IHJhbmRvbVN0cigpCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>short</text>
+        <text>fixed_tank_base</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -1256,7 +1262,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>short</text>
+        <text>fixed_tank_base</text>
       </register>
       <register name="/" type="4">
         <text>jsx</text>
