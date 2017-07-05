@@ -296,6 +296,12 @@
         <mark key="^" line="10" column="30" />
         <mark key="." line="10" column="30" />
       </file>
+      <file name="$USER_HOME$/workdir/code/clear/src/main/java/com/cnvoc/clear/model/tank/FactoryInfo.java" timestamp="1499241210774">
+        <mark key="[" line="7" column="31" />
+        <mark key="]" line="7" column="39" />
+        <mark key="." line="7" column="39" />
+        <mark key="^" line="7" column="39" />
+      </file>
       <file name="$USER_HOME$/sync/code/java/xiaoyi/src/main/java/com/klniu/xiaoyi/BDYuYin/BDRecognize.java" timestamp="1484225825787">
         <mark key="[" line="36" column="59" />
         <mark key="]" line="36" column="61" />
@@ -424,7 +430,7 @@
         <mark key="." line="45" column="42" />
         <mark key="^" line="45" column="42" />
       </file>
-      <file name="/fragment.java" timestamp="1499236676883">
+      <file name="/fragment.java" timestamp="1499241060302">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -445,6 +451,12 @@
         <mark key="[" line="5" column="7" />
         <mark key="]" line="5" column="8" />
         <mark key="." line="5" column="8" />
+      </file>
+      <file name="$USER_HOME$/workdir/code/clear/src/main/java/com/cnvoc/clear/model/base/WeatherByMonth.java" timestamp="1499241155451">
+        <mark key="[" line="11" column="5" />
+        <mark key="]" line="14" column="20" />
+        <mark key="." line="14" column="20" />
+        <mark key="^" line="14" column="20" />
       </file>
       <file name="$USER_HOME$/workdir/web/vocs-react/tsconfig.json" timestamp="1489480782599">
         <mark key="[" line="4" column="21" />
@@ -692,6 +704,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workdir/code/clear/src/main/java/com/cnvoc/clear/model/base/WeatherByYear.java" timestamp="1499241117221">
+        <mark key="[" line="3" column="4" />
+        <mark key="]" line="3" column="4" />
+        <mark key="^" line="3" column="4" />
+        <mark key="." line="3" column="4" />
+      </file>
       <file name="$USER_HOME$/sync/code/c#/LawViewer/LawViewer/Program.cs" timestamp="1491820502536">
         <mark key="[" line="10" column="49" />
         <mark key="]" line="10" column="57" />
@@ -807,6 +825,12 @@
         <mark key="]" line="6" column="0" />
         <mark key="^" line="7" column="53" />
         <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/workdir/code/clear/src/main/java/com/cnvoc/clear/model/base/Weather.java" timestamp="1499240594840">
+        <mark key="[" line="2" column="20" />
+        <mark key="]" line="2" column="18" />
+        <mark key="." line="2" column="18" />
+        <mark key="^" line="2" column="18" />
       </file>
       <file name="$USER_HOME$/sync/code/Android/HaiHuanLDAR/app/src/main/res/values/styles.xml" timestamp="1494988074507">
         <mark key="[" line="17" column="46" />
@@ -924,7 +948,6 @@
         <mark key="." line="16" column="41" />
         <mark key="^" line="16" column="41" />
       </file>
-      <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/model_test.go" timestamp="1499156711506" />
       <file name="$USER_HOME$/Downloads/android-Camera2Basic-master/build.gradle" timestamp="1495611888023">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -1020,7 +1043,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="430" column="18" filename="$USER_HOME$/Downloads/Camera2/camera2/src/main/java/us/yydcdut/camera2/ui/PreviewFragment.java" />
       <jump line="439" column="73" filename="$USER_HOME$/Downloads/Camera2/camera2/src/main/java/us/yydcdut/camera2/ui/PreviewFragment.java" />
       <jump line="448" column="73" filename="$USER_HOME$/Downloads/Camera2/camera2/src/main/java/us/yydcdut/camera2/ui/PreviewFragment.java" />
       <jump line="526" column="29" filename="$USER_HOME$/Downloads/Camera2/camera2/src/main/java/us/yydcdut/camera2/ui/PreviewFragment.java" />
@@ -1120,13 +1142,14 @@
       <jump line="5" column="9" filename="$USER_HOME$/workdir/code/clear/src/main/java/com/cnvoc/clear/control/FixedTankController.java" />
       <jump line="115" column="0" filename="$USER_HOME$/workdir/code/clear/src/main/java/com/cnvoc/clear/model/FixedTankBase.java" />
       <jump line="129" column="0" filename="$USER_HOME$/workdir/code/clear/src/main/java/com/cnvoc/clear/model/FixedTankBase.java" />
+      <jump line="16" column="0" filename="$USER_HOME$/workdir/code/clear/src/main/java/com/cnvoc/clear/model/base/WeatherByMonth.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVmcmVzaFNlYXJjaEZvcm06IHJhbmRvbVN0cigpCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>short</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -1233,7 +1256,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text>short</text>
       </register>
       <register name="/" type="4">
         <text>jsx</text>
@@ -1241,32 +1264,44 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGxvbmcgaWQ7CiAgICBTdHJpbmcgbmFtZTsKCiAgICBwdWJsaWMgVW5pdChTdHJpbmcgbmFtZSwgU3RyaW5nIGRlc2NyaXB0aW9uKSB7CiAgICAgICAgdGhpcy5uYW1lID0gbmFtZTsKICAgICAgICB0aGlzLmRlc2NyaXB0aW9uID0gZGVzY3JpcHRpb247CiAgICB9CgogICAgU3RyaW5nIGRlc2NyaXB0aW9uOwoKICAgIHB1YmxpYyBsb25nIGdldElkKCkgewogICAgICAgIHJldHVybiBpZDsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRJZChsb25nIGlkKSB7CiAgICAgICAgdGhpcy5pZCA9IGlkOwogICAgfQoKICAgIHB1YmxpYyBTdHJpbmcgZ2V0TmFtZSgpIHsKICAgICAgICByZXR1cm4gbmFtZTsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXROYW1lKFN0cmluZyBuYW1lKSB7CiAgICAgICAgdGhpcy5uYW1lID0gbmFtZTsKICAgIH0KCiAgICBwdWJsaWMgU3RyaW5nIGdldERlc2NyaXB0aW9uKCkgewogICAgICAgIHJldHVybiBkZXNjcmlwdGlvbjsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXREZXNjcmlwdGlvbihTdHJpbmcgZGVzY3JpcHRpb24pIHsKICAgICAgICB0aGlzLmRlc2NyaXB0aW9uID0gZGVzY3JpcHRpb247CiAgICB9Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="8">
+        <text>private
+private
+private
+private
+private
+private
+private
+private
+private
+private
+private
+private
+private</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBrbG5pdSBvbiAxNy03LTQuCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgaW50IGlkOwogICAgcHJpdmF0ZSBTdHJpbmcgcHJvdmluY2U7CiAgICBwcml2YXRlIGludCBwcm92aW5jZUNvZGU7CiAgICBwcml2YXRlIFN0cmluZyBjaXR5OwogICAgcHJpdmF0ZSBpbnQgY2l0eUNvZGU7CiAgICBwcml2YXRlIFN0cmluZyBzdGF0aW9uOwogICAgcHJpdmF0ZSBpbnQgc3RhdGlvbkNvZGU7CiAgICBwcml2YXRlIGZsb2F0IHByZXNzdXJlOwogICAgcHJpdmF0ZSBmbG9hdCBhdmVyVGVtcDsKICAgIHByaXZhdGUgZmxvYXQgbWF4VGVtcDsKICAgIHByaXZhdGUgZmxvYXQgbWluVGVtcDsKICAgIHByaXZhdGUgZmxvYXQgc3BlZWQ7CiAgICBwcml2YXRlIGZsb2F0IHNvbGFyUmFkaWE7CgogICAgcHVibGljIFdlYXRoZXJCeU1vbnRoKFN0cmluZyBwcm92aW5jZSwgaW50IHByb3ZpbmNlQ29kZSwgU3RyaW5nIGNpdHksIGludCBjaXR5Q29kZSwgU3RyaW5nIHN0YXRpb24sIGludCBzdGF0aW9uQ29kZSwKICAgICAgICAgICAgICAgICAgICAgICAgICBmbG9hdCBwcmVzc3VyZSwgZmxvYXQgYXZlclRlbXAsIGZsb2F0IG1heFRlbXAsIGZsb2F0IG1pblRlbXAsIGZsb2F0IHNwZWVkLCBmbG9hdCBzb2xhclJhZGlhKSB7CiAgICAgICAgdGhpcy5wcm92aW5jZSA9IHByb3ZpbmNlOwogICAgICAgIHRoaXMucHJvdmluY2VDb2RlID0gcHJvdmluY2VDb2RlOwogICAgICAgIHRoaXMuY2l0eSA9IGNpdHk7CiAgICAgICAgdGhpcy5jaXR5Q29kZSA9IGNpdHlDb2RlOwogICAgICAgIHRoaXMuc3RhdGlvbiA9IHN0YXRpb247CiAgICAgICAgdGhpcy5zdGF0aW9uQ29kZSA9IHN0YXRpb25Db2RlOwogICAgICAgIHRoaXMucHJlc3N1cmUgPSBwcmVzc3VyZTsKICAgICAgICB0aGlzLmF2ZXJUZW1wID0gYXZlclRlbXA7CiAgICAgICAgdGhpcy5tYXhUZW1wID0gbWF4VGVtcDsKICAgICAgICB0aGlzLm1pblRlbXAgPSBtaW5UZW1wOwogICAgICAgIHRoaXMuc3BlZWQgPSBzcGVlZDsKICAgICAgICB0aGlzLnNvbGFyUmFkaWEgPSBzb2xhclJhZGlhOwogICAgfQoKICAgIHB1YmxpYyBpbnQgZ2V0SWQoKSB7CiAgICAgICAgcmV0dXJuIGlkOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldElkKGludCBpZCkgewogICAgICAgIHRoaXMuaWQgPSBpZDsKICAgIH0KCiAgICBwdWJsaWMgU3RyaW5nIGdldFByb3ZpbmNlKCkgewogICAgICAgIHJldHVybiBwcm92aW5jZTsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRQcm92aW5jZShTdHJpbmcgcHJvdmluY2UpIHsKICAgICAgICB0aGlzLnByb3ZpbmNlID0gcHJvdmluY2U7CiAgICB9CgogICAgcHVibGljIGludCBnZXRQcm92aW5jZUNvZGUoKSB7CiAgICAgICAgcmV0dXJuIHByb3ZpbmNlQ29kZTsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRQcm92aW5jZUNvZGUoaW50IHByb3ZpbmNlQ29kZSkgewogICAgICAgIHRoaXMucHJvdmluY2VDb2RlID0gcHJvdmluY2VDb2RlOwogICAgfQoKICAgIHB1YmxpYyBTdHJpbmcgZ2V0Q2l0eSgpIHsKICAgICAgICByZXR1cm4gY2l0eTsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRDaXR5KFN0cmluZyBjaXR5KSB7CiAgICAgICAgdGhpcy5jaXR5ID0gY2l0eTsKICAgIH0KCiAgICBwdWJsaWMgaW50IGdldENpdHlDb2RlKCkgewogICAgICAgIHJldHVybiBjaXR5Q29kZTsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRDaXR5Q29kZShpbnQgY2l0eUNvZGUpIHsKICAgICAgICB0aGlzLmNpdHlDb2RlID0gY2l0eUNvZGU7CiAgICB9CgogICAgcHVibGljIFN0cmluZyBnZXRTdGF0aW9uKCkgewogICAgICAgIHJldHVybiBzdGF0aW9uOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldFN0YXRpb24oU3RyaW5nIHN0YXRpb24pIHsKICAgICAgICB0aGlzLnN0YXRpb24gPSBzdGF0aW9uOwogICAgfQoKICAgIHB1YmxpYyBpbnQgZ2V0U3RhdGlvbkNvZGUoKSB7CiAgICAgICAgcmV0dXJuIHN0YXRpb25Db2RlOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldFN0YXRpb25Db2RlKGludCBzdGF0aW9uQ29kZSkgewogICAgICAgIHRoaXMuc3RhdGlvbkNvZGUgPSBzdGF0aW9uQ29kZTsKICAgIH0KCiAgICBwdWJsaWMgZmxvYXQgZ2V0UHJlc3N1cmUoKSB7CiAgICAgICAgcmV0dXJuIHByZXNzdXJlOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldFByZXNzdXJlKGZsb2F0IHByZXNzdXJlKSB7CiAgICAgICAgdGhpcy5wcmVzc3VyZSA9IHByZXNzdXJlOwogICAgfQoKICAgIHB1YmxpYyBmbG9hdCBnZXRBdmVyVGVtcCgpIHsKICAgICAgICByZXR1cm4gYXZlclRlbXA7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0QXZlclRlbXAoZmxvYXQgYXZlclRlbXApIHsKICAgICAgICB0aGlzLmF2ZXJUZW1wID0gYXZlclRlbXA7CiAgICB9CgogICAgcHVibGljIGZsb2F0IGdldE1heFRlbXAoKSB7CiAgICAgICAgcmV0dXJuIG1heFRlbXA7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0TWF4VGVtcChmbG9hdCBtYXhUZW1wKSB7CiAgICAgICAgdGhpcy5tYXhUZW1wID0gbWF4VGVtcDsKICAgIH0KCiAgICBwdWJsaWMgZmxvYXQgZ2V0TWluVGVtcCgpIHsKICAgICAgICByZXR1cm4gbWluVGVtcDsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRNaW5UZW1wKGZsb2F0IG1pblRlbXApIHsKICAgICAgICB0aGlzLm1pblRlbXAgPSBtaW5UZW1wOwogICAgfQoKICAgIHB1YmxpYyBmbG9hdCBnZXRTcGVlZCgpIHsKICAgICAgICByZXR1cm4gc3BlZWQ7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0U3BlZWQoZmxvYXQgc3BlZWQpIHsKICAgICAgICB0aGlzLnNwZWVkID0gc3BlZWQ7CiAgICB9CgogICAgcHVibGljIGZsb2F0IGdldFNvbGFyUmFkaWEoKSB7CiAgICAgICAgcmV0dXJuIHNvbGFyUmFkaWE7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0U29sYXJSYWRpYShmbG9hdCBzb2xhclJhZGlhKSB7CiAgICAgICAgdGhpcy5zb2xhclJhZGlhID0gc29sYXJSYWRpYTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBUYW5rQXJlYShTdHJpbmcgbmFtZSwgU3RyaW5nIGRlc2NyaXB0aW9uKSB7CiAgICAgICAgdGhpcy5uYW1lID0gbmFtZTsKICAgICAgICB0aGlzLmRlc2NyaXB0aW9uID0gZGVzY3JpcHRpb247CiAgICB9Cgo=</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBrbG5pdSBvbiAxNy03LTUuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBkZXNjcmlwdGlvbjsK</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBrbG5pdSBvbiAxNy03LTUuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
@@ -1279,7 +1314,7 @@
       <last-replace>',dataIndex:'</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
