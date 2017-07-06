@@ -570,11 +570,12 @@
         <mark key="^" line="422" column="19" />
         <mark key="." line="40" column="4" />
       </file>
-      <file name="$USER_HOME$/sync/code/java/clear_sql/clear_ddl.sql" timestamp="1499327796634">
-        <mark key="[" line="133" column="1" />
-        <mark key="]" line="133" column="1" />
-        <mark key="." line="133" column="1" />
-        <mark key="^" line="133" column="1" />
+      <file name="$USER_HOME$/sync/code/java/clear_sql/clear_ddl.sql" timestamp="1499332235496">
+        <mark key="'" line="5" column="38" />
+        <mark key="[" line="249" column="35" />
+        <mark key="]" line="249" column="39" />
+        <mark key="." line="249" column="39" />
+        <mark key="^" line="249" column="39" />
       </file>
       <file name="$USER_HOME$/sync/code/go/src/Minger/client/src/control/user.go" timestamp="1495888557462">
         <mark key="[" line="74" column="18" />
@@ -1248,7 +1249,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="439" column="73" filename="$USER_HOME$/Downloads/Camera2/camera2/src/main/java/us/yydcdut/camera2/ui/PreviewFragment.java" />
       <jump line="448" column="73" filename="$USER_HOME$/Downloads/Camera2/camera2/src/main/java/us/yydcdut/camera2/ui/PreviewFragment.java" />
       <jump line="526" column="29" filename="$USER_HOME$/Downloads/Camera2/camera2/src/main/java/us/yydcdut/camera2/ui/PreviewFragment.java" />
       <jump line="527" column="43" filename="$USER_HOME$/Downloads/Camera2/camera2/src/main/java/us/yydcdut/camera2/ui/PreviewFragment.java" />
@@ -1348,13 +1348,14 @@
       <jump line="115" column="0" filename="$USER_HOME$/workdir/code/clear/src/main/java/com/cnvoc/clear/model/FixedTankBase.java" />
       <jump line="129" column="0" filename="$USER_HOME$/workdir/code/clear/src/main/java/com/cnvoc/clear/model/FixedTankBase.java" />
       <jump line="16" column="0" filename="$USER_HOME$/workdir/code/clear/src/main/java/com/cnvoc/clear/model/base/WeatherByMonth.java" />
+      <jump line="5" column="38" filename="$USER_HOME$/sync/code/java/clear_sql/clear_ddl.sql" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVmcmVzaFNlYXJjaEZvcm06IHJhbmRvbVN0cigpCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -1461,40 +1462,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>base</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>jsx</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Q1JFQVRFIFRBQkxFIElGIE5PVCBFWElTVFMgZml4ZWRfdGFua19iYXNlCigKCiAgaWQgICAgICAgICAgIEJJR0lOVCAgICAgIE5PVCBOVUxMIEFVVE9fSU5DUkVNRU5UIFBSSU1BUlkgS0VZLAogIHRhbmtfYXJlYV9pZCBCSUdJTlQgICAgICBOT1QgTlVMTCwKICB0YWcgICAgICAgICAgVkFSQ0hBUigyMCkgTk9UIE5VTEwsCiAgc3R5bGUgICAgICAgIEJPT0wgICAgICAgIE5PVCBOVUxMLAogIG1hdGVyaWFsX2lkICBCSUdJTlQgICAgICBOT1QgTlVMTCwKICB2b2x1bWUgICAgICAgRkxPQVQgICAgICAgTk9UIE5VTEwsCiAgZGlhbWV0ZXIgICAgIEZMT0FUICAgICAgIE5PVCBOVUxMLAogIHBhaW50ICAgICAgICBWQVJDSEFSKDMwKSBOT1QgTlVMTCwKICBwYWludF9zdGF0dXMgQk9PTEVBTiAgICAgTk9UIE5VTEwsCiAgaGVpZ2h0ICAgICAgIEZMT0FUICAgICAgIE5PVCBOVUxMLAogIHByZXNzdXJlICAgICBGTE9BVCAgICAgICBOT1QgTlVMTCwKICB2YWN1dW0gICAgICAgRkxPQVQgICAgICAgTk9UIE5VTEwsCiAgc2VhbF90eXBlICAgIEJPT0xFQU4sCiAgRk9SRUlHTiBLRVkgKHRhbmtfYXJlYV9pZCkgUkVGRVJFTkNFUyB0YW5rX2FyZWEgKGlkKSwKICBGT1JFSUdOIEtFWSAobWF0ZXJpYWxfaWQpIFJFRkVSRU5DRVMgbWF0ZXJpYWwgKGlkKQopOwo=</text>
+        <text encoding="base64">ICBGT1JFSUdOIEtFWSAobWF0ZXJpYWxfaWQpIFJFRkVSRU5DRVMgbWF0ZXJpYWwgKGlkKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Q1JFQVRFIFRBQkxFIElGIE5PVCBFWElTVFMgZml4ZWRfdGFua19wZXJpb2QKKAogIGlkIEJJR0lOVCBOT1QgTlVMTCBBVVRPX0lOQ1JFTUVOVCBQUklNQVJZIEtFWSwKICAKKTsK</text>
+        <text encoding="base64">ICBGT1JFSUdOIEtFWSAobWF0ZXJpYWxfaWQpIFJFRkVSRU5DRVMgbWF0ZXJpYWwgKGlkKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8g572Q6aG25a+G5bCB57G75Z6LLCBUUlVFIEZPUiDnhIrmjqUsIEZBTFNFIEZPUiDonrrmoJPmiJbpk4bmjqUK</text>
+        <text encoding="base64">ICBvaWxfdHlwZSAgICAgICAgICAgIFZBUkNIQVIoMjApICBOT1QgTlVMTCwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8g5ZG85ZC46ZiALeecn+epuuiuvuWumihQYSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8g5ZG85ZC46ZiALSDljovlipvorr7lrpooUGEpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8g572Q56m56aG25Y2K5b6ECg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZG9tZV9yYWRpdXM7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8g572Q5L2T6auY5bqmKG0pIOe9kOS9k+mVv+W6pihtKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8g572Q5ryG54q25Ya1LCBUUlVFIEZPUiBnb29kLCBGQUxTRSBGT1IgYmFkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
@@ -1548,10 +1549,10 @@
         <entry>%s/node/results[first]/gc</entry>
         <entry>action AceAction</entry>
         <entry>vsplit photo.go</entry>
-        <entry>action Forward</entry>
         <entry>q</entry>
         <entry>action NextTab</entry>
         <entry>action PreviousTab</entry>
+        <entry>action Forward</entry>
         <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
