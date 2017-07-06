@@ -291,12 +291,12 @@
         <mark key="^" line="152" column="47" />
         <mark key="." line="200" column="0" />
       </file>
-      <file name="$USER_HOME$/go/src/zhvocs/controllers/ldarStatics.go" timestamp="1499309548875">
-        <mark key="'" line="117" column="58" />
-        <mark key="[" line="158" column="0" />
-        <mark key="]" line="158" column="0" />
-        <mark key="." line="158" column="0" />
-        <mark key="^" line="155" column="31" />
+      <file name="$USER_HOME$/go/src/zhvocs/controllers/ldarStatics.go" timestamp="1499310624766">
+        <mark key="'" line="122" column="18" />
+        <mark key="[" line="123" column="25" />
+        <mark key="]" line="123" column="25" />
+        <mark key="." line="123" column="25" />
+        <mark key="^" line="123" column="25" />
       </file>
       <file name="$USER_HOME$/sync/code/go/src/ldar/plant.go" timestamp="1494818388182">
         <mark key="[" line="154" column="14" />
@@ -848,7 +848,6 @@
       <jump line="232" column="15" filename="$USER_HOME$/go/src/ldar/import_test.go" />
       <jump line="102" column="82" filename="$USER_HOME$/go/src/zhvocs/controllers/ldarStatics.go" />
       <jump line="145" column="73" filename="$USER_HOME$/go/src/zhvocs/controllers/ldarStatics.go" />
-      <jump line="122" column="18" filename="$USER_HOME$/go/src/zhvocs/controllers/ldarStatics.go" />
       <jump line="348" column="38" filename="$USER_HOME$/go/src/ldar/emission.go" />
       <jump line="30" column="33" filename="$USER_HOME$/go/src/ldar/emission.go" />
       <jump line="44" column="57" filename="$USER_HOME$/go/src/ldar/emission.go" />
@@ -857,6 +856,7 @@
       <jump line="72" column="4" filename="$USER_HOME$/go/src/zhvocs/controllers/ldarStatics.go" />
       <jump line="101" column="76" filename="$USER_HOME$/go/src/zhvocs/controllers/ldarStatics.go" />
       <jump line="117" column="58" filename="$USER_HOME$/go/src/zhvocs/controllers/ldarStatics.go" />
+      <jump line="122" column="18" filename="$USER_HOME$/go/src/zhvocs/controllers/ldarStatics.go" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -973,7 +973,7 @@
         <text>-</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhbGxUb3RhbFw+</text>
+        <text encoding="base64">XDxBbGxDb3VudFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkvLyBlIDo9IGVtaXNzaW9ue3NlYWxUeXBlLkNoaW5lc2UsICLmiYDmnIkiLCB0b3RhbENvdW50WzBdLCB0b3RhbFswXSwgdG90YWxbMV0sIHRvdGFsQ291bnRbMV0sIHRvdGFsWzJdLCB0b3RhbENvdW50WzJdLCB0b3RhbFszXX0K</text>
@@ -1010,9 +1010,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhbGxUb3RhbFw+</last-search>
+      <last-search encoding="base64">XDxBbGxDb3VudFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhbGxUb3RhbFw+</last-pattern>
+      <last-pattern encoding="base64">XDxBbGxDb3VudFw+</last-pattern>
       <last-replace>results[first]</last-replace>
       <last-substitute>node</last-substitute>
       <last-dir>1</last-dir>
@@ -1037,9 +1037,9 @@
         <entry>tva</entry>
         <entry>import</entry>
         <entry>fmt</entry>
-        <entry encoding="base64">XDxBbGxDb3VudFw+</entry>
         <entry>println</entry>
         <entry encoding="base64">XDxhbGxUb3RhbFw+</entry>
+        <entry encoding="base64">XDxBbGxDb3VudFw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyQvIi9nYw==</entry>
