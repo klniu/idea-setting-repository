@@ -459,11 +459,11 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/sync/code/java/clear_sql/clear_ddl.sql" timestamp="1499315883244">
+      <file name="$USER_HOME$/sync/code/java/clear_sql/clear_ddl.sql" timestamp="1499318814310">
         <mark key="'" line="27" column="0" />
-        <mark key="[" line="82" column="37" />
-        <mark key="]" line="82" column="44" />
-        <mark key="." line="82" column="44" />
+        <mark key="[" line="61" column="36" />
+        <mark key="]" line="61" column="36" />
+        <mark key="." line="61" column="36" />
         <mark key="^" line="82" column="44" />
       </file>
       <file name="$USER_HOME$/sync/code/go/src/Minger/client/src/control/user.go" timestamp="1495888557462">
@@ -1169,7 +1169,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVmcmVzaFNlYXJjaEZvcm06IHJhbmRvbVN0cigpCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>tank_area</text>
+        <text>,</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -1276,7 +1276,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>tank_area</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>$</text>
