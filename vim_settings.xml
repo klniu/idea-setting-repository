@@ -459,12 +459,12 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/sync/code/java/clear_sql/clear_ddl.sql" timestamp="1499314717537">
-        <mark key="'" line="16" column="54" />
-        <mark key="[" line="23" column="2" />
-        <mark key="]" line="23" column="8" />
-        <mark key="." line="23" column="8" />
-        <mark key="^" line="23" column="8" />
+      <file name="$USER_HOME$/sync/code/java/clear_sql/clear_ddl.sql" timestamp="1499315883244">
+        <mark key="'" line="27" column="0" />
+        <mark key="[" line="82" column="37" />
+        <mark key="]" line="82" column="44" />
+        <mark key="." line="82" column="44" />
+        <mark key="^" line="82" column="44" />
       </file>
       <file name="$USER_HOME$/sync/code/go/src/Minger/client/src/control/user.go" timestamp="1495888557462">
         <mark key="[" line="74" column="18" />
@@ -1063,7 +1063,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="526" column="29" filename="$USER_HOME$/Downloads/Camera2/camera2/src/main/java/us/yydcdut/camera2/ui/PreviewFragment.java" />
       <jump line="527" column="43" filename="$USER_HOME$/Downloads/Camera2/camera2/src/main/java/us/yydcdut/camera2/ui/PreviewFragment.java" />
       <jump line="14" column="67" filename="$USER_HOME$/Downloads/Camera2/camera2/src/main/java/us/yydcdut/camera2/MainActivity.java" />
       <jump line="23" column="20" filename="$USER_HOME$/sync/code/Android/HaiHuanLDAR/app/src/main/res/layout/preview_fragment.xml" />
@@ -1163,13 +1162,14 @@
       <jump line="16" column="0" filename="$USER_HOME$/workdir/code/clear/src/main/java/com/cnvoc/clear/model/base/WeatherByMonth.java" />
       <jump line="24" column="8" filename="$USER_HOME$/sync/code/java/clear_sql/clear_ddl.sql" />
       <jump line="16" column="54" filename="$USER_HOME$/sync/code/java/clear_sql/clear_ddl.sql" />
+      <jump line="27" column="0" filename="$USER_HOME$/sync/code/java/clear_sql/clear_ddl.sql" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVmcmVzaFNlYXJjaEZvcm06IHJhbmRvbVN0cigpCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>factory_id</text>
+        <text>tank_area</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -1276,40 +1276,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>factory_id</text>
+        <text>tank_area</text>
       </register>
       <register name="/" type="4">
         <text>$</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBmYWN0b3J5X2lkIElOVCBOT1QgTlVMTCwK</text>
+        <text encoding="base64">Rk9SRUlHTiBLRVkgKHRhbmtfYXJlYV9pZCkgUkVGRVJFTkNFUyB0YW5rX2FyZWEoaWQpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBGT1JFSUdOIEtFWSAodW5pdF9pZCkgUkVGRVJFTkNFUyB1bml0KGlkKSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="8">
-        <text encoding="base64">ZmxvYXQgCmZsb2F0IApmbG9hdCAKZmxvYXQgCmZsb2F0IA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICBGT1JFSUdOIEtFWSAodGFua19hcmVhX2lkKSBSRUZFUkVOQ0VTIHRhbmtfYXJlYShpZCksCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c3RhdGlvbkNvZGU7Cg==</text>
+        <text encoding="base64">dGFua0FyZWFJZDsgLy8g5omA5bGe572Q5Yy65oiW6KOF572uaWQK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW50IGNpdHlDb2RlOwo=</text>
+      <register name="4" type="8">
+        <text encoding="base64">cHJpdmF0ZSAKcHJpdmF0ZSAKcHJpdmF0ZSAKcHJpdmF0ZSAKcHJpdmF0ZSAKcHJpdmF0ZSAKcHJpdmF0ZSAKcHJpdmF0ZSAKcHJpdmF0ZSAKcHJpdmF0ZSAKcHJpdmF0ZSAKcHJpdmF0ZSAKcHJpdmF0ZSAKcHJpdmF0ZSA=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">U3RyaW5nIGNpdHk7Cg==</text>
+        <text encoding="base64">Q1JFQVRFCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW50IHByb3ZpbmNlQ29kZTsK</text>
+        <text encoding="base64">Q1JFQVRFIFRBQkxFIElGIE5PVCBFWElTVFMgbGRhcl91bml0CigKICBpZCBCSUdJTlQgTk9UIE5VTEwgQVVUT19JTkNSRU1FTlQgUFJJTUFSWSBLRVksCiAgZmFjdG9yeV9pZCBJTlQgTk9UIE5VTEwsCiAgbmFtZSBWQVJDSEFSKDUwKSBOT1QgTlVMTCwKICBubyBUSU5ZSU5UIE5PVCBOVUxMLAogIGRlc2NyaXB0aW9uIFRFWFQsCiAgRk9SRUlHTiBLRVkgKGZhY3RvcnlfaWQpIFJFRkVSRU5DRVMgZmFjdG9yeShpZCkKKTsKCkNSRUFURSBUQUJMRSBJRiBOT1QgRVhJU1RTIGxkYXJfaW5zdGFsbAooCiAgaWQgQklHSU5UIE5PVCBOVUxMIEFVVE9fSU5DUkVNRU5UIFBSSU1BUlkgS0VZLAogIGZhY3RvcnlfaWQgSU5UIE5PVCBOVUxMLAogIHVuaXRfaWQgSU5UIE5PVCBOVUxMLAogIG5hbWUgVkFSQ0hBUig1MCkgTk9UIE5VTEwsCiAgbm8gVElOWUlOVCBOT1QgTlVMTCwKICBkZXNjcmlwdGlvbiBURVhULAogIEZPUkVJR04gS0VZIChmYWN0b3J5X2lkKSBSRUZFUkVOQ0VTIGZhY3RvcnkoaWQpLAogIEZPUkVJR04gS0VZICh1bml0X2lkKSBSRUZFUkVOQ0VTIHVuaXQoaWQpCik7Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwcm92aW5jZTsK</text>
+        <text encoding="base64">ICBubyBUSU5ZSU5UIE5PVCBOVUxMLAo=</text>
       </register>
-      <register name="8" type="8">
-        <text encoding="base64">cHJvdGVjdGVkIApwcm90ZWN0ZWQgCnByb3RlY3RlZCAKcHJvdGVjdGVkIApwcm90ZWN0ZWQgCnByb3RlY3RlZCAKcHJvdGVjdGVkIApwcm90ZWN0ZWQgCnByb3RlY3RlZCA=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICBGT1JFSUdOIEtFWSAodW5pdF9pZCkgUkVGRVJFTkNFUyB1bml0KGlkKSwK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+      <register name="9" type="8">
+        <text encoding="base64">ZmxvYXQgCmZsb2F0IApmbG9hdCAKZmxvYXQgCmZsb2F0IA==</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
