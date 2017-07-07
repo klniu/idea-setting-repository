@@ -46,6 +46,12 @@
         <mark key="." line="7" column="20" />
         <mark key="^" line="7" column="20" />
       </file>
+      <file name="$USER_HOME$/workdir/code/clear/src/main/resources/mapper/FixedTankBaseMapper.xml" timestamp="1499391297430">
+        <mark key="[" line="4" column="19" />
+        <mark key="]" line="4" column="65" />
+        <mark key="^" line="4" column="46" />
+        <mark key="." line="4" column="46" />
+      </file>
       <file name="$USER_HOME$/sync/code/java/livesim/src/main/js/app.ts" timestamp="1480663862866">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -466,7 +472,6 @@
         <mark key="^" line="10" column="57" />
         <mark key="." line="10" column="57" />
       </file>
-      <file name="$USER_HOME$/workdir/code/clear/src/main/java/com/cnvoc/clear/model/tank/FixTankPaint.java" timestamp="1499326209127" />
       <file name="$USER_HOME$/Downloads/Camera2/app/build.gradle" timestamp="1495588157146">
         <mark key="[" line="4" column="24" />
         <mark key="]" line="4" column="25" />
@@ -524,8 +529,9 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/workdir/code/clear/src/main/java/com/cnvoc/clear/model/base/Factory.java" timestamp="1499303781559">
-        <mark key="]" line="2" column="20" />
+      <file name="$USER_HOME$/workdir/code/clear/src/main/java/com/cnvoc/clear/model/base/Factory.java" timestamp="1499390985227">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="33" />
         <mark key="^" line="2" column="20" />
         <mark key="." line="2" column="20" />
       </file>
@@ -1047,7 +1053,7 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1499242151540">
+      <file name="/fragment.java" timestamp="1499390836788">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1171,8 +1177,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVmcmVzaFNlYXJjaEZvcm06IHJhbmRvbVN0cigpCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgbG9uZyBpZDsKICAgIHByaXZhdGUgU3RyaW5nIHRhZzsgLy/lgqjnvZDkvY3lj7cKICAgIHByaXZhdGUgYm9vbGVhbiBzdHlsZTsgLy8g572Q5L2T5b2i5byPLCB0cnVlIGZvciDnq4vlvI/vvIxmYWxzZSBmb3Ig5Y2n5byPCiAgICBwcml2YXRlIGxvbmcgdGFua0FyZWFJZDsgLy8g5omA5bGe572Q5Yy65oiW6KOF572uaWQKICAgIHByaXZhdGUgbG9uZyBtYXRlcmlhbElkOyAvLyDlgqjlrZjnianmlplpZAogICAgcHJpdmF0ZSBkb3VibGUgdm9sdW1lOyAvLyDlrrnnp68obTMpCiAgICBwcml2YXRlIGRvdWJsZSBkaWFtZXRlcjsgLy/nm7TlvoQobSkKICAgIHByaXZhdGUgRml4VGFua1BhaW50IHBhaW50OyAvLyDnvZDkvZPpopzoibIKICAgIHByaXZhdGUgYm9vbGVhbiBwYWludFN0YXR1czsgLy8g572Q5ryG54q25Ya1LCB0cnVlIGZvciBnb29kLCBmYWxzZSBmb3IgYmFkCiAgICBwcml2YXRlIGRvdWJsZSBoZWlnaHQ7IC8vIOe9kOS9k+mrmOW6pihtKSDnvZDkvZPplb/luqYobSkKICAgIHByaXZhdGUgZG91YmxlIGRvbWVSYWRpdXM7IC8vIOe9kOepuemhtuWNiuW+hAogICAgcHJpdmF0ZSBkb3VibGUgcHJlc3N1cmU7IC8vIOWRvOWQuOmYgC0g5Y6L5Yqb6K6+5a6aKFBhKQogICAgcHJpdmF0ZSBkb3VibGUgdmFjdXVtOyAvLyDlkbzlkLjpmIAt55yf56m66K6+5a6aKFBhKQogICAgcHJpdmF0ZSBib29sZWFuIHNlYWxUeXBlOyAvLyDnvZDpobblr4blsIHnsbvlnossIHRydWUgZm9yIOeEiuaOpSwgZmFsc2UgZm9yIOieuuagk+aIlumThuaOpQo=</text>
+      <register name="&quot;" type="4">
+        <text>com.cnvoc.clear.mapper.base.FixedTankBaseMapper</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
