@@ -660,12 +660,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workdir/code/now-antd-js/src/components/forms.jsx" timestamp="1499494797059">
-        <mark key="'" line="33" column="4" />
-        <mark key="[" line="101" column="43" />
-        <mark key="]" line="101" column="42" />
-        <mark key="^" line="101" column="42" />
-        <mark key="." line="101" column="42" />
+      <file name="$USER_HOME$/workdir/code/now-antd-js/src/components/forms.jsx" timestamp="1499509012763">
+        <mark key="'" line="61" column="17" />
+        <mark key="[" line="231" column="0" />
+        <mark key="]" line="231" column="0" />
+        <mark key="^" line="3" column="25" />
+        <mark key="." line="231" column="0" />
       </file>
       <file name="$USER_HOME$/sync/code/go/src/zhvocs/packall.sh" timestamp="1490082363947">
         <mark key="[" line="1" column="146" />
@@ -1460,12 +1460,12 @@
         <mark key="." line="8" column="19" />
         <mark key="^" line="8" column="19" />
       </file>
-      <file name="$USER_HOME$/workdir/code/now-antd-js/src/App.js" timestamp="1499496485911">
-        <mark key="'" line="93" column="34" />
-        <mark key="[" line="204" column="23" />
-        <mark key="]" line="205" column="15" />
-        <mark key="." line="205" column="15" />
-        <mark key="^" line="205" column="15" />
+      <file name="$USER_HOME$/workdir/code/now-antd-js/src/App.js" timestamp="1499508914467">
+        <mark key="'" line="185" column="20" />
+        <mark key="[" line="230" column="21" />
+        <mark key="]" line="230" column="40" />
+        <mark key="^" line="230" column="40" />
+        <mark key="." line="230" column="40" />
       </file>
       <file name="$USER_HOME$/sync/code/go/src/ldar/direction.go" timestamp="1476252890962">
         <mark key="[" line="15" column="34" />
@@ -2082,12 +2082,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="67" filename="$USER_HOME$/workdir/code/voc-ui/src/components/dashboard/LDAR.jsx" />
-      <jump line="4" column="24" filename="$USER_HOME$/workdir/code/voc-ui/src/components/dashboard/LDAR.jsx" />
-      <jump line="11" column="39" filename="$USER_HOME$/workdir/code/voc-ui/src/components/dashboard/LDAR.jsx" />
-      <jump line="15" column="46" filename="$USER_HOME$/workdir/code/voc-ui/src/components/dashboard/Dashboard.jsx" />
-      <jump line="27" column="60" filename="$USER_HOME$/workdir/code/voc-ui/src/components/dashboard/Dashboard.jsx" />
-      <jump line="7" column="27" filename="$USER_HOME$/workdir/code/voc-ui/src/components/dashboard/EchartsEmission.jsx" />
       <jump line="8" column="13" filename="$USER_HOME$/workdir/code/voc-ui/src/components/dashboard/EchartsEmission.jsx" />
       <jump line="14" column="13" filename="$USER_HOME$/workdir/code/voc-ui/src/components/dashboard/EchartsEmission.jsx" />
       <jump line="119" column="2" filename="$USER_HOME$/workdir/code/voc-ui/src/components/dashboard/EchartsEmission.jsx" />
@@ -2182,13 +2176,19 @@
       <jump line="186" column="19" filename="$USER_HOME$/workdir/code/now-antd-js/src/components/forms.jsx" />
       <jump line="101" column="42" filename="$USER_HOME$/workdir/code/now-antd-js/src/components/forms.jsx" />
       <jump line="33" column="4" filename="$USER_HOME$/workdir/code/now-antd-js/src/components/forms.jsx" />
+      <jump line="62" column="36" filename="$USER_HOME$/workdir/code/now-antd-js/src/components/forms.jsx" />
+      <jump line="69" column="50" filename="$USER_HOME$/workdir/code/now-antd-js/src/components/forms.jsx" />
+      <jump line="102" column="29" filename="$USER_HOME$/workdir/code/now-antd-js/src/components/forms.jsx" />
+      <jump line="104" column="30" filename="$USER_HOME$/workdir/code/now-antd-js/src/components/forms.jsx" />
+      <jump line="186" column="20" filename="$USER_HOME$/workdir/code/now-antd-js/src/App.js" />
+      <jump line="61" column="17" filename="$USER_HOME$/workdir/code/now-antd-js/src/components/forms.jsx" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVmcmVzaFNlYXJjaEZvcm06IHJhbmRvbVN0cigpCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Ly8jIHNvdXJjZU1hcHBpbmdVUkw9Zm9ybXMuanN4Lm1hcAo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2295,49 +2295,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>formItems</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxDaGVja2JveFw+</text>
+        <text>select</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxoMj7ooajljZU8L2gyPgogICAgICAgICAgICAgICAgPEZvcm0+CiAgICAgICAgICAgICAgICAgICAge2Zvcm1JdGVtc30KICAgICAgICAgICAgICAgIDwvRm9ybT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgRGF0ZVJhbmdlOlsiMjAxNy0xMi0zMSIsICIyMDE4LTA1LTAxIl0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Ly8jIHNvdXJjZU1hcHBpbmdVUkw9Zm9ybXMuanN4Lm1hcAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBbewogICAgICAgICAgICAgICAgICAgIHZhbHVlOiAiMTAiLAogICAgICAgICAgICAgICAgICAgIHRpdGxlOiAiRmlyc3QiCiAgICAgICAgICAgICAgICB9LCB7CiAgICAgICAgICAgICAgICAgICAgdmFsdWU6ICIyMCIsCiAgICAgICAgICAgICAgICAgICAgdGl0bGU6ICJTZWNvbmQiCiAgICAgICAgICAgICAgICB9XQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGRlZmF1bHREYXRhKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZGVmYXVsdERhdGEpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGhpZGVMYWJlbDogdHJ1ZSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZGVmYXVsdERhdGEpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpZWxkT3B0aW9uczogewogICAgICAgICAgICAgICAgICAgIHZhbHVlUHJvcE5hbWU6ICdjaGVja2VkJywKICAgICAgICAgICAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGRlZmF1bHREYXRhKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5pdGlhbFZhbHVlOiB0cnVlLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGRlZmF1bHREYXRhKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">aW1wb3J0IG1vbWVudCBmcm9tICdtb21lbnQnOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlZmF1bHREYXRhID0gZGVmYXVsdERhdGEgJiYgbW9tZW50KGRlZmF1bHREYXRhKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlZmF1bHRWYWx1ZTogIlRleHQiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlZmF1bHREYXRhID0gZGVmYXVsdERhdGEgJiYgbW9tZW50KGRlZmF1bHREYXRhKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhkZWZhdWx0RGF0YSkK</text>
       </register>
       <register name=":" type="4">
         <text>action NextTab</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxDaGVja2JveFw+</last-search>
+      <last-search>select</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxDaGVja2JveFw+</last-pattern>
+      <last-pattern>select</last-pattern>
       <last-replace>',dataIndex:'</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
@@ -2345,7 +2345,6 @@
     </search>
     <history>
       <history-search>
-        <entry>align</entry>
         <entry>for</entry>
         <entry>user</entry>
         <entry>button</entry>
@@ -2365,6 +2364,7 @@
         <entry encoding="base64">XDxpdGVtT3B0aW9uc1w+</entry>
         <entry>radio</entry>
         <entry encoding="base64">XDxDaGVja2JveFw+</entry>
+        <entry>select</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4lcy8gLy9n</entry>
