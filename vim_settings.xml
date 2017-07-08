@@ -660,12 +660,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workdir/code/now-antd-js/src/components/forms.jsx" timestamp="1499486060388">
-        <mark key="'" line="8" column="25" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="61" />
-        <mark key="^" line="218" column="18" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/workdir/code/now-antd-js/src/components/forms.jsx" timestamp="1499494797059">
+        <mark key="'" line="33" column="4" />
+        <mark key="[" line="101" column="43" />
+        <mark key="]" line="101" column="42" />
+        <mark key="^" line="101" column="42" />
+        <mark key="." line="101" column="42" />
       </file>
       <file name="$USER_HOME$/sync/code/go/src/zhvocs/packall.sh" timestamp="1490082363947">
         <mark key="[" line="1" column="146" />
@@ -1460,12 +1460,12 @@
         <mark key="." line="8" column="19" />
         <mark key="^" line="8" column="19" />
       </file>
-      <file name="$USER_HOME$/workdir/code/now-antd-js/src/App.js" timestamp="1499486105745">
-        <mark key="'" line="6" column="8" />
-        <mark key="[" line="56" column="44" />
-        <mark key="]" line="56" column="45" />
-        <mark key="." line="56" column="45" />
-        <mark key="^" line="56" column="44" />
+      <file name="$USER_HOME$/workdir/code/now-antd-js/src/App.js" timestamp="1499495568679">
+        <mark key="'" line="93" column="34" />
+        <mark key="[" line="166" column="31" />
+        <mark key="]" line="166" column="31" />
+        <mark key="." line="166" column="31" />
+        <mark key="^" line="165" column="33" />
       </file>
       <file name="$USER_HOME$/sync/code/go/src/ldar/direction.go" timestamp="1476252890962">
         <mark key="[" line="15" column="34" />
@@ -2082,13 +2082,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="157" column="0" filename="$USER_HOME$/workdir/code/voc-ui/src/components/dashboard/Dashboard.jsx" />
-      <jump line="17" column="39" filename="$USER_HOME$/workdir/code/voc-ui/src/components/dashboard/Dashboard.jsx" />
-      <jump line="83" column="25" filename="$USER_HOME$/workdir/code/voc-ui/src/components/dashboard/LDAR.jsx" />
-      <jump line="82" column="0" filename="$USER_HOME$/workdir/code/voc-ui/src/components/dashboard/LDAR.jsx" />
-      <jump line="16" column="33" filename="$USER_HOME$/workdir/code/voc-ui/src/components/dashboard/LDAR.jsx" />
-      <jump line="6" column="9" filename="$USER_HOME$/workdir/code/voc-ui/src/components/dashboard/LDAR.jsx" />
-      <jump line="84" column="21" filename="$USER_HOME$/workdir/code/voc-ui/src/components/dashboard/Dashboard.jsx" />
       <jump line="22" column="67" filename="$USER_HOME$/workdir/code/voc-ui/src/components/dashboard/LDAR.jsx" />
       <jump line="4" column="24" filename="$USER_HOME$/workdir/code/voc-ui/src/components/dashboard/LDAR.jsx" />
       <jump line="11" column="39" filename="$USER_HOME$/workdir/code/voc-ui/src/components/dashboard/LDAR.jsx" />
@@ -2182,13 +2175,20 @@
       <jump line="220" column="0" filename="$USER_HOME$/workdir/code/now-antd-js/src/components/forms.jsx" />
       <jump line="7" column="0" filename="$USER_HOME$/workdir/code/now-antd-js/src/components/forms.jsx" />
       <jump line="8" column="25" filename="$USER_HOME$/workdir/code/now-antd-js/src/components/forms.jsx" />
+      <jump line="92" column="34" filename="$USER_HOME$/workdir/code/now-antd-js/src/App.js" />
+      <jump line="14" column="35" filename="$USER_HOME$/workdir/code/now-antd-js/src/components/forms.jsx" />
+      <jump line="16" column="44" filename="$USER_HOME$/workdir/code/now-antd-js/src/components/forms.jsx" />
+      <jump line="214" column="19" filename="$USER_HOME$/workdir/code/now-antd-js/src/components/forms.jsx" />
+      <jump line="186" column="19" filename="$USER_HOME$/workdir/code/now-antd-js/src/components/forms.jsx" />
+      <jump line="101" column="42" filename="$USER_HOME$/workdir/code/now-antd-js/src/components/forms.jsx" />
+      <jump line="33" column="4" filename="$USER_HOME$/workdir/code/now-antd-js/src/components/forms.jsx" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVmcmVzaFNlYXJjaEZvcm06IHJhbmRvbVN0cigpCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2295,49 +2295,77 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>TextWith</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>radio</text>
+        <text encoding="base64">XDxDaGVja2JveFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlkOiAiVGV4dFdpdGhEZWZhdWx0VmFsdWUiLAogICAgICAgICAgICAgICAgdHlwZTogRmllbGRUeXBlLlRleHQsCiAgICAgICAgICAgICAgICBsYWJlbDogIlRleHRXaXRoRGVmYXVsdFZhbHVlIiwKICAgICAgICAgICAgICAgIGRlZmF1bHRWYWx1ZTogIkRlZmF1bHRWYWx1ZSIK</text>
+      <register name="0" type="4">
+        <text>, {
+                id: &quot;Cascader&quot;,
+                type: FieldType.Cascader,
+                label: &quot;Cascader&quot;,
+                defaultValue: [&quot;zhejiang&quot;,&quot;hangzhou&quot;, &quot;xihu&quot;],
+                arrayData:  [{
+                    value: 'zhejiang',
+                    label: 'Zhejiang',
+                    children: [{
+                        value: 'hangzhou',
+                        label: 'Hangzhou',
+                        children: [{
+                            value: 'xihu',
+                            label: 'West Lake',
+                        }],
+                    }],
+                }, {
+                    value: 'jiangsu',
+                    label: 'Jiangsu',
+                    children: [{
+                        value: 'nanjing',
+                        label: 'Nanjing',
+                        children: [{
+                            value: 'zhonghuamen',
+                            label: 'Zhong Hua Men',
+                        }],
+                    }],
+                }]
+            }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBbewogICAgICAgICAgICAgICAgICAgIHZhbHVlOiAiMTAiLAogICAgICAgICAgICAgICAgICAgIHRpdGxlOiAiRmlyc3QiCiAgICAgICAgICAgICAgICB9LCB7CiAgICAgICAgICAgICAgICAgICAgdmFsdWU6ICIyMCIsCiAgICAgICAgICAgICAgICAgICAgdGl0bGU6ICJTZWNvbmQiCiAgICAgICAgICAgICAgICB9XQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEZpZWxkVHlwZVtGaWVsZFR5cGVbIklucHV0TnVtYmVyIl0gPSAxMF0gPSAiSW5wdXROdW1iZXIiOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEZpZWxkVHlwZVtGaWVsZFR5cGVbIlBhc3N3b3JkIl0gPSAxMl0gPSAiUGFzc3dvcmQiOwogICAgRmllbGRUeXBlW0ZpZWxkVHlwZVsiQ2hlY2tib3giXSA9IDEzXSA9ICJDaGVja2JveCI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGhpZGVMYWJlbDogdHJ1ZSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEZpZWxkVHlwZVtGaWVsZFR5cGVbIkRhdGUiXSA9IDVdID0gIkRhdGUiOwogICAgRmllbGRUeXBlW0ZpZWxkVHlwZVsiRGF0ZVRpbWUiXSA9IDZdID0gIkRhdGVUaW1lIjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpZWxkT3B0aW9uczogewogICAgICAgICAgICAgICAgICAgIHZhbHVlUHJvcE5hbWU6ICdjaGVja2VkJywKICAgICAgICAgICAgICAgIH0sCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEZpZWxkVHlwZVtGaWVsZFR5cGVbIk51bWJlciJdID0gNF0gPSAiTnVtYmVyIjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5pdGlhbFZhbHVlOiB0cnVlLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEZpZWxkVHlwZVtGaWVsZFR5cGVbIlBsYWluVGV4dCJdID0gN10gPSAiUGxhaW5UZXh0IjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHVwZGF0ZSBmcm9tICdpbW11dGFiaWxpdHktaGVscGVyJzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlZmF1bHREYXRhID0gZGVmYXVsdERhdGEgJiYgbW9tZW50KGRlZmF1bHREYXRhKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlZmF1bHREYXRhID0gZGVmYXVsdERhdGEgJiYgbW9tZW50KGRlZmF1bHREYXRhKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxoMj7ooajljZU8L2gyPgogICAgICAgICAgICAgICAgIDxGb3JtPgogICAgICAgICAgICAgICAgICAgICB7Zm9ybUl0ZW1zfQogICAgICAgICAgICAgICAgIDwvRm9ybT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlZmF1bHREYXRhID0gZGVmYXVsdERhdGEgJiYgbW9tZW50KGRlZmF1bHREYXRhKTsK</text>
       </register>
       <register name=":" type="4">
         <text>action NextTab</text>
       </register>
     </registers>
     <search>
-      <last-search>radio</last-search>
+      <last-search encoding="base64">XDxDaGVja2JveFw+</last-search>
       <last-offset />
-      <last-pattern>radio</last-pattern>
+      <last-pattern encoding="base64">XDxDaGVja2JveFw+</last-pattern>
       <last-replace>',dataIndex:'</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
@@ -2345,7 +2373,6 @@
     </search>
     <history>
       <history-search>
-        <entry>element</entry>
         <entry>align</entry>
         <entry>for</entry>
         <entry>user</entry>
@@ -2365,6 +2392,7 @@
         <entry>jsx</entry>
         <entry encoding="base64">XDxpdGVtT3B0aW9uc1w+</entry>
         <entry>radio</entry>
+        <entry encoding="base64">XDxDaGVja2JveFw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4lcy8gLy9n</entry>
