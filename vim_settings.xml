@@ -660,8 +660,8 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workdir/code/now-antd-js/src/components/forms.jsx" timestamp="1499509012763">
-        <mark key="'" line="61" column="17" />
+      <file name="$USER_HOME$/workdir/code/now-antd-js/src/components/forms.jsx" timestamp="1499510579997">
+        <mark key="'" line="230" column="0" />
         <mark key="[" line="231" column="0" />
         <mark key="]" line="231" column="0" />
         <mark key="^" line="3" column="25" />
@@ -1375,6 +1375,12 @@
         <mark key="." line="111" column="20" />
         <mark key="^" line="111" column="20" />
       </file>
+      <file name="$USER_HOME$/workdir/code/now-antd-js/src/components/SideModal.jsx" timestamp="1499510497982">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="8" column="38" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/workdir/web/vocs-react/src/components/statistic.tsx" timestamp="1490948830723">
         <mark key="'" line="142" column="44" />
         <mark key="[" line="47" column="0" />
@@ -1460,12 +1466,12 @@
         <mark key="." line="8" column="19" />
         <mark key="^" line="8" column="19" />
       </file>
-      <file name="$USER_HOME$/workdir/code/now-antd-js/src/App.js" timestamp="1499508914467">
-        <mark key="'" line="185" column="20" />
-        <mark key="[" line="230" column="21" />
-        <mark key="]" line="230" column="40" />
-        <mark key="^" line="230" column="40" />
-        <mark key="." line="230" column="40" />
+      <file name="$USER_HOME$/workdir/code/now-antd-js/src/App.js" timestamp="1499510816137">
+        <mark key="'" line="46" column="33" />
+        <mark key="[" line="15" column="37" />
+        <mark key="]" line="15" column="40" />
+        <mark key="." line="15" column="40" />
+        <mark key="^" line="15" column="40" />
       </file>
       <file name="$USER_HOME$/sync/code/go/src/ldar/direction.go" timestamp="1476252890962">
         <mark key="[" line="15" column="34" />
@@ -1895,8 +1901,8 @@
         <mark key="." line="16" column="41" />
         <mark key="^" line="16" column="41" />
       </file>
-      <file name="$USER_HOME$/workdir/code/now-antd-js/src/components/BasicTable.jsx" timestamp="1499485715867">
-        <mark key="'" line="99" column="18" />
+      <file name="$USER_HOME$/workdir/code/now-antd-js/src/components/BasicTable.jsx" timestamp="1499510582820">
+        <mark key="'" line="4" column="13" />
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="23" />
         <mark key="." line="28" column="0" />
@@ -2082,9 +2088,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="13" filename="$USER_HOME$/workdir/code/voc-ui/src/components/dashboard/EchartsEmission.jsx" />
-      <jump line="14" column="13" filename="$USER_HOME$/workdir/code/voc-ui/src/components/dashboard/EchartsEmission.jsx" />
-      <jump line="119" column="2" filename="$USER_HOME$/workdir/code/voc-ui/src/components/dashboard/EchartsEmission.jsx" />
       <jump line="9" column="16" filename="$USER_HOME$/workdir/code/voc-ui/src/components/dashboard/Emissions.jsx" />
       <jump line="10" column="0" filename="$USER_HOME$/workdir/code/voc-ui/src/components/dashboard/EchartsEmission.jsx" />
       <jump line="9" column="9" filename="$USER_HOME$/workdir/code/voc-ui/src/components/dashboard/EmissionBar.jsx" />
@@ -2182,13 +2185,16 @@
       <jump line="104" column="30" filename="$USER_HOME$/workdir/code/now-antd-js/src/components/forms.jsx" />
       <jump line="186" column="20" filename="$USER_HOME$/workdir/code/now-antd-js/src/App.js" />
       <jump line="61" column="17" filename="$USER_HOME$/workdir/code/now-antd-js/src/components/forms.jsx" />
+      <jump line="36" column="33" filename="$USER_HOME$/workdir/code/now-antd-js/src/App.js" />
+      <jump line="230" column="0" filename="$USER_HOME$/workdir/code/now-antd-js/src/components/forms.jsx" />
+      <jump line="4" column="13" filename="$USER_HOME$/workdir/code/now-antd-js/src/components/BasicTable.jsx" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVmcmVzaFNlYXJjaEZvcm06IHJhbmRvbVN0cigpCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8jIHNvdXJjZU1hcHBpbmdVUkw9Zm9ybXMuanN4Lm1hcAo=</text>
+      <register name="&quot;" type="4">
+        <text>false</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2295,40 +2301,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>formItems</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>select</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRGF0ZVJhbmdlOlsiMjAxNy0xMi0zMSIsICIyMDE4LTA1LTAxIl0sCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">KCk9PiB0aGlzLnNldFN0YXRlKHttb2RhbFZpc2libGU6IGZhbHNlfSks</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8jIHNvdXJjZU1hcHBpbmdVUkw9Zm9ybXMuanN4Lm1hcAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGRlZmF1bHREYXRhKQo=</text>
+        <text encoding="base64">aW1wb3J0IGF4aW9zIGZyb20gJ2F4aW9zJwppbXBvcnQgXyBmcm9tICdsb2Rhc2gnOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZGVmYXVsdERhdGEpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZGVmYXVsdERhdGEpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGRlZmF1bHREYXRhKQo=</text>
+        <text encoding="base64">aW1wb3J0IFByb3BUeXBlcyBmcm9tICdwcm9wLXR5cGVzJzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGRlZmF1bHREYXRhKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxwPnNvbWUgY29udGVudHMuLi48L3A+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG1vbWVudCBmcm9tICdtb21lbnQnOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxwPnNvbWUgY29udGVudHMuLi48L3A+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlZmF1bHRWYWx1ZTogIlRleHQiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhkZWZhdWx0RGF0YSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGRpdj4K</text>
       </register>
       <register name=":" type="4">
         <text>action NextTab</text>
