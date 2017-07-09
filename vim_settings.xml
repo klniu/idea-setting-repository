@@ -1375,11 +1375,11 @@
         <mark key="." line="111" column="20" />
         <mark key="^" line="111" column="20" />
       </file>
-      <file name="$USER_HOME$/workdir/code/now-antd-js/src/components/SideModal.jsx" timestamp="1499582319867">
-        <mark key="'" line="45" column="28" />
-        <mark key="[" line="44" column="46" />
-        <mark key="]" line="44" column="47" />
-        <mark key="." line="44" column="47" />
+      <file name="$USER_HOME$/workdir/code/now-antd-js/src/components/SideModal.jsx" timestamp="1499583766817">
+        <mark key="[" line="38" column="70" />
+        <mark key="]" line="38" column="83" />
+        <mark key="^" line="38" column="83" />
+        <mark key="." line="38" column="83" />
       </file>
       <file name="$USER_HOME$/workdir/web/vocs-react/src/components/statistic.tsx" timestamp="1490948830723">
         <mark key="'" line="142" column="44" />
@@ -2094,7 +2094,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="9" filename="$USER_HOME$/workdir/code/voc-ui/src/components/dashboard/EmissionBar.jsx" />
       <jump line="18" column="36" filename="$USER_HOME$/workdir/code/voc-ui/src/components/dashboard/Emissions.jsx" />
       <jump line="155" column="0" filename="$USER_HOME$/workdir/code/voc-ui/src/components/dashboard/Dashboard.jsx" />
       <jump line="130" column="25" filename="$USER_HOME$/workdir/code/voc-ui/src/components/dashboard/EmissionBar.jsx" />
@@ -2194,13 +2193,14 @@
       <jump line="4" column="13" filename="$USER_HOME$/workdir/code/now-antd-js/src/components/BasicTable.jsx" />
       <jump line="44" column="28" filename="$USER_HOME$/workdir/code/now-antd-js/src/components/SideModal.jsx" />
       <jump line="45" column="28" filename="$USER_HOME$/workdir/code/now-antd-js/src/components/SideModal.jsx" />
+      <jump line="46" column="37" filename="$USER_HOME$/workdir/code/now-antd-js/src/components/SideModal.jsx" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVmcmVzaFNlYXJjaEZvcm06IHJhbmRvbVN0cigpCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPENvbCBzcGFuPXs4fT48L0NvbD4K</text>
+      <register name="&quot;" type="4">
+        <text>span</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2307,40 +2307,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>span</text>
       </register>
       <register name="/" type="4">
         <text>select</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPENvbCBzcGFuPXs4fT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgc3R5bGU9e3sKICAgICAgICAgICAgICAgICAgICBiYWNrZ3JvdW5kQ29sb3I6ICIjMDNhOWY0IiwKICAgICAgICAgICAgICAgICAgICBoZWlnaHQ6ICI1MHB4IiwKICAgICAgICAgICAgICAgICAgICBjb2xvcjogIiNmZmYiLAogICAgICAgICAgICAgICAgICAgIHRleHRBbGlnbjogImxlZnQiLAogICAgICAgICAgICAgICAgICAgIGZvbnRTaXplOiAiMjBweCIsCiAgICAgICAgICAgICAgICAgICAgcGFkZGluZ0xlZnQ6ICIyNXB4IiwKICAgICAgICAgICAgICAgICAgICBsaW5lSGVpZ2h0OiAiNTBweCIKICAgICAgICAgICAgICAgIH19CiAgICAgICAgICAgICAgICAgICAgIGNsYXNzTmFtZT17dGhpcy5wcm9wcy50aXRsZUNsYXNzTmFtZX0+e3RoaXMucHJvcHMudGl0bGV9CiAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPENvbCBzcGFuPXs4fT48L0NvbD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPENvbD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxzcGFuIHN0eWxlPXt7CiAgICAgICAgICAgICAgICAgICAgZmxvYXQ6ICJyaWdodCIsCiAgICAgICAgICAgICAgICAgICAgZGlzcGxheTogImlubGluZSIsCiAgICAgICAgICAgICAgICB9fT48SWNvbiB0eXBlPSJjbG9zZSIvPgogICAgICAgICAgICAgICAgPC9zcGFuPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxoci8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsaW5lSGVpZ2h0OiAiNTBweCIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IEJ1dHRvbiBmcm9tICJhbnRkL2xpYi9idXR0b24vYnV0dG9uLmQiOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYWRkaW5nTGVmdDogIjI1cHgiLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb250U2l6ZTogIjIwcHgiLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHpJbmRleDogMTAwMCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb2xvcjogIiNmZmYiLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnRlbnQ6IFByb3BUeXBlcy5lbGVtZW50LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBoZWlnaHQ6ICI1MHB4IiwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRlc3QK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBiYWNrZ3JvdW5kQ29sb3I6ICIjMDNhOWY0IiwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0ZXh0QWxpZ246ICJsZWZ0IiwK</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
