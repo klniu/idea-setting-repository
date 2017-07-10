@@ -453,12 +453,12 @@
         <mark key="]" line="0" column="23" />
         <mark key="." line="0" column="23" />
       </file>
-      <file name="$USER_HOME$/workdir/code/now-antd-js/src/components/advancedTable.jsx" timestamp="1499662062113">
-        <mark key="'" line="22" column="28" />
-        <mark key="[" line="22" column="24" />
-        <mark key="]" line="22" column="28" />
-        <mark key="." line="22" column="28" />
-        <mark key="^" line="22" column="28" />
+      <file name="$USER_HOME$/workdir/code/now-antd-js/src/components/advancedTable.jsx" timestamp="1499664667350">
+        <mark key="'" line="23" column="16" />
+        <mark key="[" line="37" column="5" />
+        <mark key="]" line="37" column="5" />
+        <mark key="." line="37" column="5" />
+        <mark key="^" line="37" column="5" />
       </file>
       <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/lineheaders_test.go" timestamp="1491468156732">
         <mark key="'" line="76" column="27" />
@@ -1937,14 +1937,14 @@
       <jump line="70" column="16" filename="$USER_HOME$/workdir/code/now-antd-js/src/components/AdvancedTable.jsx" />
       <jump line="80" column="33" filename="$USER_HOME$/workdir/code/now-antd-js/src/components/AdvancedTable.jsx" />
       <jump line="22" column="0" filename="$USER_HOME$/workdir/code/now-antd-js/src/components/BasicTable.jsx" />
-      <jump line="22" column="28" filename="$USER_HOME$/workdir/code/now-antd-js/src/components/advancedTable.jsx" />
+      <jump line="22" column="16" filename="$USER_HOME$/workdir/code/now-antd-js/src/components/advancedTable.jsx" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVmcmVzaFNlYXJjaEZvcm06IHJhbmRvbVN0cigpCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRhdGE6IHJlc3BvbnNlLmRhdGEucmVzdWx0cywK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">dGhpcy5zdGF0ZS5zZWxlY3RlZFJvd0tleXMubGVuZ3RoIA==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2051,40 +2051,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">dGhpcy5zdGF0ZS5zZWxlY3RlZFJvd0tleXMubGVuZ3RoIA==</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBheGlvcy5nZXQodGhpcy5wcm9wcy5kYXRhVXJsLCB7CiAgICAgICAgICAgIC4uLnBhcmFtcwogICAgICAgIH0pLnRoZW4oKHJlc3BvbnNlKSA9PiB7CiAgICAgICAgICAgIGNvbnN0IHBhZ2luYXRpb24gPSB7Li4udGhpcy5zdGF0ZS5wYWdpbmF0aW9ufTsKICAgICAgICAgICAgaWYgKHRoaXMucHJvcHMuc2hvd1BhZ2luYXRpb24pIHsKICAgICAgICAgICAgICAgIHBhZ2luYXRpb24udG90YWwgPSByZXNwb25zZS5kYXRhLnRvdGFsQ291bnQ7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgdGhpcy5zZXRTdGF0ZSh7CiAgICAgICAgICAgICAgICBsb2FkaW5nOiBmYWxzZSwKICAgICAgICAgICAgICAgIGRhdGE6IHJlc3BvbnNlLmRhdGEucmVzdWx0cywKICAgICAgICAgICAgfSk7CiAgICAgICAgfSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE1vZGFsLmVycm9yKHsKICAgICAgICAgICAgICAgICAgICB0aXRsZTogJ+WIoOmZpOWksei0pScsCiAgICAgICAgICAgICAgICAgICAgY29udGVudDogcmVzcG9uc2UuZXJyb3IKICAgICAgICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRhdGE6IHJlc3BvbnNlLmRhdGEucmVzdWx0cywK</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBjb3VudCA9IHRoaXMuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgcGFnaW5hdGlvbiA9IHsuLi50aGlzLnN0YXRlLnBhZ2luYXRpb259OwogICAgICAgICAgICBpZiAodGhpcy5wcm9wcy5zaG93UGFnaW5hdGlvbikgewogICAgICAgICAgICAgICAgcGFnaW5hdGlvbi50b3RhbCA9IHJlc3BvbnNlLmRhdGEudG90YWxDb3VudDsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE1vZGFsLnN1Y2Nlc3MoIuWIoOmZpOaIkOWKnyIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDogUHJvcFR5cGVzLmZ1bmMsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1lc3NhZ2UuZmFpbCgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG9uU2VsZWN0Q2hhbmdlID0gKCkgPT4gewogICAgICAgIHRoaXMuc2V0U3RhdGUKICAgIH07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRhdGE6IHJlc3BvbnNlLmRhdGEucmVzdWx0cywK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG9uU2VsZWN0Q2hhbmdlID0gKHNlbGVjdGVkUm93S2V5cykgPT4gewogICAgICAgIHRoaXMuc2V0U3RhdGUoe3NlbGVjdGVkUm93S2V5c30pOwogICAgfTsKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgcGFnaW5hdGlvbiA9IHsuLi50aGlzLnN0YXRlLnBhZ2luYXRpb259OwogICAgICAgICAgICBpZiAodGhpcy5wcm9wcy5zaG93UGFnaW5hdGlvbikgewogICAgICAgICAgICAgICAgcGFnaW5hdGlvbi50b3RhbCA9IHJlc3BvbnNlLmRhdGEudG90YWxDb3VudDsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxlY3RlZFJvd0tleXM6IFtdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvUm93Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDogUHJvcFR5cGVzLmZ1bmMsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxSb3cgdHlwZT0iZmxleCIganVzdGlmeT0ic3RhcnQiPgo=</text>
+        <text encoding="base64">ICAgIG9uU2VsZWN0Q2hhbmdlID0gKCkgPT4gewogICAgICAgIHRoaXMuc2V0U3RhdGUKICAgIH07Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action NextTab</text>
