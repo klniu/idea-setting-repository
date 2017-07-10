@@ -453,12 +453,12 @@
         <mark key="]" line="0" column="23" />
         <mark key="." line="0" column="23" />
       </file>
-      <file name="$USER_HOME$/workdir/code/now-antd-js/src/components/advancedTable.jsx" timestamp="1499649219893">
+      <file name="$USER_HOME$/workdir/code/now-antd-js/src/components/advancedTable.jsx" timestamp="1499657148971">
         <mark key="'" line="1" column="14" />
-        <mark key="[" line="14" column="22" />
-        <mark key="]" line="14" column="22" />
-        <mark key="." line="14" column="22" />
-        <mark key="^" line="12" column="59" />
+        <mark key="[" line="25" column="94" />
+        <mark key="]" line="26" column="27" />
+        <mark key="." line="26" column="27" />
+        <mark key="^" line="26" column="27" />
       </file>
       <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/lineheaders_test.go" timestamp="1491468156732">
         <mark key="'" line="76" column="27" />
@@ -1701,6 +1701,13 @@
         <mark key="." line="16" column="41" />
         <mark key="^" line="16" column="41" />
       </file>
+      <file name="$USER_HOME$/workdir/code/now-antd-js/src/components/BasicTable.jsx" timestamp="1499657098262">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="91" column="36" />
+        <mark key="^" line="73" column="32" />
+        <mark key="." line="22" column="0" />
+      </file>
       <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/model_test.go" timestamp="1499648456256" />
       <file name="$USER_HOME$/sync/code/go/src/spiders/pholcus_lib/chinalaw.go" timestamp="1490274857998">
         <mark key="'" line="78" column="39" />
@@ -1831,7 +1838,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="101" column="31" filename="$USER_HOME$/workdir/web/react-components/config/webpack.config.dev.js" />
       <jump line="112" column="27" filename="$USER_HOME$/workdir/web/react-components/config/webpack.config.dev.js" />
       <jump line="124" column="24" filename="$USER_HOME$/workdir/web/react-components/config/webpack.config.dev.js" />
       <jump line="126" column="29" filename="$USER_HOME$/workdir/web/react-components/config/webpack.config.dev.js" />
@@ -1931,13 +1937,14 @@
       <jump line="2" column="10" filename="$USER_HOME$/workdir/code/now-antd-js/src/data/test.json" />
       <jump line="70" column="16" filename="$USER_HOME$/workdir/code/now-antd-js/src/components/AdvancedTable.jsx" />
       <jump line="80" column="33" filename="$USER_HOME$/workdir/code/now-antd-js/src/components/AdvancedTable.jsx" />
+      <jump line="22" column="0" filename="$USER_HOME$/workdir/code/now-antd-js/src/components/BasicTable.jsx" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVmcmVzaFNlYXJjaEZvcm06IHJhbmRvbVN0cigpCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">PGJyIC8+</text>
+        <text>selectedRowKeys</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2044,43 +2051,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PGJyIC8+</text>
+        <text>selectedRowKeys</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">Jm5ic3A7</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIG9uU2VsZWN0Q2hhbmdlOiBQcm9wVHlwZXMuZnVuYywKICAgIHNlbGVjdGVkUm93S2V5czogUHJvcFR5cGVzLmFycmF5LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvUm93Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDogUHJvcFR5cGVzLmZ1bmMsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxSb3cgdHlwZT0iZmxleCIganVzdGlmeT0ic3RhcnQiPgo=</text>
+        <text encoding="base64">ICAgIG9uU2VsZWN0Q2hhbmdlID0gKCkgPT4gewogICAgICAgIHRoaXMuc2V0U3RhdGUKICAgIH07Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJlbW92ZVVybDogUHJvcFR5cGVzLnN0cmluZy5pc1JlcXVpcmVkLAo=</text>
+        <text encoding="base64">ICAgIG9uU2VsZWN0Q2hhbmdlID0gKHNlbGVjdGVkUm93S2V5cykgPT4gewogICAgICAgIHRoaXMuc2V0U3RhdGUoe3NlbGVjdGVkUm93S2V5c30pOwogICAgfTsKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGFkZFVybDogUHJvcFR5cGVzLnN0cmluZy5pc1JlcXVpcmVkLAo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxlY3RlZFJvd0tleXM6IFtdCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgVGFibGUgfSBmcm9tICdhbnRkJzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvUm93Pgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsb2FkaW5nOiBmYWxzZSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxSb3cgdHlwZT0iZmxleCIganVzdGlmeT0ic3RhcnQiPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLnByb3BzLmNvbHVtbnNbMF0uZGF0YUluZGV4KQo=</text>
+        <text encoding="base64">ICAgIHJlbW92ZVVybDogUHJvcFR5cGVzLnN0cmluZy5pc1JlcXVpcmVkLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2cocmVjb3JkW3RoaXMucHJvcHMuY29sdW1uc1swXS5kYXRhSW5kZXhdKQo=</text>
+        <text encoding="base64">ICAgIGFkZFVybDogUHJvcFR5cGVzLnN0cmluZy5pc1JlcXVpcmVkLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgewogICAgICAgICJpZCI6IDIsCiAgICAgICAgInRpdGxlIjogIuaIkeaYr3Bvc3RzMiIsCiAgICAgICAgImF1dGhvciI6ICJ0eXBpY29kZSIKICAgICAgfSwK</text>
+        <text encoding="base64">aW1wb3J0IHsgVGFibGUgfSBmcm9tICdhbnRkJzsK</text>
       </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text>action NextTab</text>
       </register>
     </registers>
     <search>
@@ -2133,9 +2140,9 @@
         <entry>w</entry>
         <entry>%s/components-layout-demo-side/App/gc</entry>
         <entry>q</entry>
-        <entry>action NextTab</entry>
-        <entry>action PreviousTab</entry>
         <entry>action ReformatCode</entry>
+        <entry>action PreviousTab</entry>
+        <entry>action NextTab</entry>
       </history-cmd>
       <history-expr />
       <history-input />
