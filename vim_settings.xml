@@ -453,12 +453,12 @@
         <mark key="]" line="0" column="23" />
         <mark key="." line="0" column="23" />
       </file>
-      <file name="$USER_HOME$/workdir/code/now-antd-js/src/components/advancedTable.jsx" timestamp="1499670278423">
+      <file name="$USER_HOME$/workdir/code/now-antd-js/src/components/advancedTable.jsx" timestamp="1499672157199">
         <mark key="'" line="23" column="16" />
-        <mark key="[" line="64" column="42" />
-        <mark key="]" line="64" column="42" />
-        <mark key="." line="64" column="42" />
-        <mark key="^" line="64" column="42" />
+        <mark key="[" line="19" column="30" />
+        <mark key="]" line="19" column="38" />
+        <mark key="." line="19" column="38" />
+        <mark key="^" line="19" column="38" />
       </file>
       <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/lineheaders_test.go" timestamp="1491468156732">
         <mark key="'" line="76" column="27" />
@@ -1320,6 +1320,12 @@
         <mark key="." line="14" column="27" />
         <mark key="^" line="14" column="27" />
       </file>
+      <file name="$USER_HOME$/workdir/code/now-antd-js/src/App.js" timestamp="1499672134896">
+        <mark key="[" line="55" column="114" />
+        <mark key="]" line="55" column="114" />
+        <mark key="^" line="55" column="114" />
+        <mark key="." line="55" column="114" />
+      </file>
       <file name="$USER_HOME$/workdir/lawindexer-ui/tsconfig.json" timestamp="1491699240970">
         <mark key="[" line="8" column="12" />
         <mark key="]" line="8" column="19" />
@@ -1944,7 +1950,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVmcmVzaFNlYXJjaEZvcm06IHJhbmRvbVN0cigpCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>removeUrl</text>
+        <text>dataUrl</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2051,7 +2057,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>removeUrl</text>
+        <text>dataUrl</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
