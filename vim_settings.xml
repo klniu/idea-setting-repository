@@ -453,12 +453,12 @@
         <mark key="]" line="0" column="23" />
         <mark key="." line="0" column="23" />
       </file>
-      <file name="$USER_HOME$/workdir/code/now-antd-js/src/components/advancedTable.jsx" timestamp="1499657148971">
-        <mark key="'" line="1" column="14" />
-        <mark key="[" line="25" column="94" />
-        <mark key="]" line="26" column="27" />
-        <mark key="." line="26" column="27" />
-        <mark key="^" line="26" column="27" />
+      <file name="$USER_HOME$/workdir/code/now-antd-js/src/components/advancedTable.jsx" timestamp="1499662062113">
+        <mark key="'" line="22" column="28" />
+        <mark key="[" line="22" column="24" />
+        <mark key="]" line="22" column="28" />
+        <mark key="." line="22" column="28" />
+        <mark key="^" line="22" column="28" />
       </file>
       <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/lineheaders_test.go" timestamp="1491468156732">
         <mark key="'" line="76" column="27" />
@@ -1701,10 +1701,10 @@
         <mark key="." line="16" column="41" />
         <mark key="^" line="16" column="41" />
       </file>
-      <file name="$USER_HOME$/workdir/code/now-antd-js/src/components/BasicTable.jsx" timestamp="1499657098262">
+      <file name="$USER_HOME$/workdir/code/now-antd-js/src/components/BasicTable.jsx" timestamp="1499661870966">
         <mark key="'" line="22" column="0" />
-        <mark key="[" line="90" column="0" />
-        <mark key="]" line="91" column="36" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="62" column="9" />
         <mark key="^" line="73" column="32" />
         <mark key="." line="22" column="0" />
       </file>
@@ -1838,7 +1838,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="112" column="27" filename="$USER_HOME$/workdir/web/react-components/config/webpack.config.dev.js" />
       <jump line="124" column="24" filename="$USER_HOME$/workdir/web/react-components/config/webpack.config.dev.js" />
       <jump line="126" column="29" filename="$USER_HOME$/workdir/web/react-components/config/webpack.config.dev.js" />
       <jump line="128" column="31" filename="$USER_HOME$/workdir/web/react-components/config/webpack.config.dev.js" />
@@ -1938,13 +1937,14 @@
       <jump line="70" column="16" filename="$USER_HOME$/workdir/code/now-antd-js/src/components/AdvancedTable.jsx" />
       <jump line="80" column="33" filename="$USER_HOME$/workdir/code/now-antd-js/src/components/AdvancedTable.jsx" />
       <jump line="22" column="0" filename="$USER_HOME$/workdir/code/now-antd-js/src/components/BasicTable.jsx" />
+      <jump line="22" column="28" filename="$USER_HOME$/workdir/code/now-antd-js/src/components/advancedTable.jsx" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVmcmVzaFNlYXJjaEZvcm06IHJhbmRvbVN0cigpCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>selectedRowKeys</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRhdGE6IHJlc3BvbnNlLmRhdGEucmVzdWx0cywK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2051,40 +2051,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>selectedRowKeys</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG9uU2VsZWN0Q2hhbmdlOiBQcm9wVHlwZXMuZnVuYywKICAgIHNlbGVjdGVkUm93S2V5czogUHJvcFR5cGVzLmFycmF5LAo=</text>
+        <text encoding="base64">ICAgICAgICBheGlvcy5nZXQodGhpcy5wcm9wcy5kYXRhVXJsLCB7CiAgICAgICAgICAgIC4uLnBhcmFtcwogICAgICAgIH0pLnRoZW4oKHJlc3BvbnNlKSA9PiB7CiAgICAgICAgICAgIGNvbnN0IHBhZ2luYXRpb24gPSB7Li4udGhpcy5zdGF0ZS5wYWdpbmF0aW9ufTsKICAgICAgICAgICAgaWYgKHRoaXMucHJvcHMuc2hvd1BhZ2luYXRpb24pIHsKICAgICAgICAgICAgICAgIHBhZ2luYXRpb24udG90YWwgPSByZXNwb25zZS5kYXRhLnRvdGFsQ291bnQ7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgdGhpcy5zZXRTdGF0ZSh7CiAgICAgICAgICAgICAgICBsb2FkaW5nOiBmYWxzZSwKICAgICAgICAgICAgICAgIGRhdGE6IHJlc3BvbnNlLmRhdGEucmVzdWx0cywKICAgICAgICAgICAgfSk7CiAgICAgICAgfSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDogUHJvcFR5cGVzLmZ1bmMsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRhdGE6IHJlc3BvbnNlLmRhdGEucmVzdWx0cywK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG9uU2VsZWN0Q2hhbmdlID0gKCkgPT4gewogICAgICAgIHRoaXMuc2V0U3RhdGUKICAgIH07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgcGFnaW5hdGlvbiA9IHsuLi50aGlzLnN0YXRlLnBhZ2luYXRpb259OwogICAgICAgICAgICBpZiAodGhpcy5wcm9wcy5zaG93UGFnaW5hdGlvbikgewogICAgICAgICAgICAgICAgcGFnaW5hdGlvbi50b3RhbCA9IHJlc3BvbnNlLmRhdGEudG90YWxDb3VudDsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG9uU2VsZWN0Q2hhbmdlID0gKHNlbGVjdGVkUm93S2V5cykgPT4gewogICAgICAgIHRoaXMuc2V0U3RhdGUoe3NlbGVjdGVkUm93S2V5c30pOwogICAgfTsKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxlY3RlZFJvd0tleXM6IFtdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDogUHJvcFR5cGVzLmZ1bmMsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvUm93Pgo=</text>
+        <text encoding="base64">ICAgIG9uU2VsZWN0Q2hhbmdlID0gKCkgPT4gewogICAgICAgIHRoaXMuc2V0U3RhdGUKICAgIH07Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxSb3cgdHlwZT0iZmxleCIganVzdGlmeT0ic3RhcnQiPgo=</text>
+        <text encoding="base64">ICAgIG9uU2VsZWN0Q2hhbmdlID0gKHNlbGVjdGVkUm93S2V5cykgPT4gewogICAgICAgIHRoaXMuc2V0U3RhdGUoe3NlbGVjdGVkUm93S2V5c30pOwogICAgfTsKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJlbW92ZVVybDogUHJvcFR5cGVzLnN0cmluZy5pc1JlcXVpcmVkLAo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxlY3RlZFJvd0tleXM6IFtdCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFkZFVybDogUHJvcFR5cGVzLnN0cmluZy5pc1JlcXVpcmVkLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvUm93Pgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgVGFibGUgfSBmcm9tICdhbnRkJzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxSb3cgdHlwZT0iZmxleCIganVzdGlmeT0ic3RhcnQiPgo=</text>
       </register>
       <register name=":" type="4">
         <text>action NextTab</text>
