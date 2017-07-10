@@ -31,6 +31,9 @@
         <mark key="." line="15" column="35" />
         <mark key="^" line="15" column="35" />
       </file>
+      <file name="$USER_HOME$/workdir/web/now-antd/src/components/formModal.tsx" timestamp="1499675599106">
+        <mark key="'" line="40" column="19" />
+      </file>
       <file name="$USER_HOME$/workdir/web/lawindexer-ui/package.json" timestamp="1492679618246">
         <mark key="[" line="7" column="11" />
         <mark key="]" line="7" column="20" />
@@ -453,12 +456,12 @@
         <mark key="]" line="0" column="23" />
         <mark key="." line="0" column="23" />
       </file>
-      <file name="$USER_HOME$/workdir/code/now-antd-js/src/components/advancedTable.jsx" timestamp="1499672157199">
-        <mark key="'" line="23" column="16" />
-        <mark key="[" line="19" column="30" />
-        <mark key="]" line="19" column="38" />
-        <mark key="." line="19" column="38" />
-        <mark key="^" line="19" column="38" />
+      <file name="$USER_HOME$/workdir/code/now-antd-js/src/components/advancedTable.jsx" timestamp="1499675399069">
+        <mark key="'" line="27" column="28" />
+        <mark key="[" line="57" column="5" />
+        <mark key="]" line="57" column="5" />
+        <mark key="." line="57" column="5" />
+        <mark key="^" line="57" column="5" />
       </file>
       <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/lineheaders_test.go" timestamp="1491468156732">
         <mark key="'" line="76" column="27" />
@@ -1320,11 +1323,12 @@
         <mark key="." line="14" column="27" />
         <mark key="^" line="14" column="27" />
       </file>
-      <file name="$USER_HOME$/workdir/code/now-antd-js/src/App.js" timestamp="1499672134896">
-        <mark key="[" line="55" column="114" />
-        <mark key="]" line="55" column="114" />
-        <mark key="^" line="55" column="114" />
-        <mark key="." line="55" column="114" />
+      <file name="$USER_HOME$/workdir/code/now-antd-js/src/App.js" timestamp="1499675359249">
+        <mark key="'" line="70" column="114" />
+        <mark key="[" line="71" column="56" />
+        <mark key="]" line="71" column="73" />
+        <mark key="." line="71" column="73" />
+        <mark key="^" line="71" column="73" />
       </file>
       <file name="$USER_HOME$/workdir/lawindexer-ui/tsconfig.json" timestamp="1491699240970">
         <mark key="[" line="8" column="12" />
@@ -1844,11 +1848,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="124" column="24" filename="$USER_HOME$/workdir/web/react-components/config/webpack.config.dev.js" />
-      <jump line="126" column="29" filename="$USER_HOME$/workdir/web/react-components/config/webpack.config.dev.js" />
-      <jump line="128" column="31" filename="$USER_HOME$/workdir/web/react-components/config/webpack.config.dev.js" />
-      <jump line="131" column="63" filename="$USER_HOME$/workdir/web/react-components/config/webpack.config.dev.js" />
-      <jump line="187" column="29" filename="$USER_HOME$/workdir/web/react-components/config/webpack.config.dev.js" />
       <jump line="69" column="39" filename="$USER_HOME$/workdir/web/react-components/src/components/form.tsx" />
       <jump line="27" column="0" filename="$USER_HOME$/workdir/web/react-components/src/components/form.tsx" />
       <jump line="145" column="0" filename="$USER_HOME$/workdir/web/react-components/src/components/form.tsx" />
@@ -1944,13 +1943,18 @@
       <jump line="80" column="33" filename="$USER_HOME$/workdir/code/now-antd-js/src/components/AdvancedTable.jsx" />
       <jump line="22" column="0" filename="$USER_HOME$/workdir/code/now-antd-js/src/components/BasicTable.jsx" />
       <jump line="22" column="16" filename="$USER_HOME$/workdir/code/now-antd-js/src/components/advancedTable.jsx" />
+      <jump line="62" column="44" filename="$USER_HOME$/workdir/code/now-antd-js/src/components/advancedTable.jsx" />
+      <jump line="79" column="54" filename="$USER_HOME$/workdir/code/now-antd-js/src/components/advancedTable.jsx" />
+      <jump line="55" column="114" filename="$USER_HOME$/workdir/code/now-antd-js/src/App.js" />
+      <jump line="27" column="28" filename="$USER_HOME$/workdir/code/now-antd-js/src/components/advancedTable.jsx" />
+      <jump line="40" column="19" filename="$USER_HOME$/workdir/web/now-antd/src/components/formModal.tsx" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVmcmVzaFNlYXJjaEZvcm06IHJhbmRvbVN0cigpCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>dataUrl</text>
+        <text>en</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2057,43 +2061,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>dataUrl</text>
+        <text>en</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHJlbW92ZVVybDogUHJvcFR5cGVzLnN0cmluZy5pc1JlcXVpcmVkCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">IHsKICAgICAgICAgICAgICAgIGlkOiAidGl0bGUiLAogICAgICAgICAgICAgICAgdHlwZTogRmllbGRUeXBlLlRleHQsCiAgICAgICAgICAgICAgICBsYWJlbDogIlRpdGxlIiw=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBjb3VudCA9IHRoaXMuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlZmF1bHRWYWx1ZTogIkRlZmF1bHRWYWx1ZSIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxhYmVsOiAiVGV4dCIsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE1vZGFsLnN1Y2Nlc3MoIuWIoOmZpOaIkOWKnyIpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1lc3NhZ2UuZmFpbCgpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRhdGE6IHJlc3BvbnNlLmRhdGEucmVzdWx0cywK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgcGFnaW5hdGlvbiA9IHsuLi50aGlzLnN0YXRlLnBhZ2luYXRpb259OwogICAgICAgICAgICBpZiAodGhpcy5wcm9wcy5zaG93UGFnaW5hdGlvbikgewogICAgICAgICAgICAgICAgcGFnaW5hdGlvbi50b3RhbCA9IHJlc3BvbnNlLmRhdGEudG90YWxDb3VudDsKICAgICAgICAgICAgfQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBnZXRGb3JtSXRlbXMoKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBmb3JtRmllbGRzOiBbXSwK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBsZXQgZm9ybTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDogUHJvcFR5cGVzLmZ1bmMsCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG9uU2VsZWN0Q2hhbmdlID0gKCkgPT4gewogICAgICAgIHRoaXMuc2V0U3RhdGUKICAgIH07Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBjb3VudCA9IHRoaXMuCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action NextTab</text>
+        <text>action PreviousTab</text>
       </register>
     </registers>
     <search>
@@ -2147,8 +2151,8 @@
         <entry>%s/components-layout-demo-side/App/gc</entry>
         <entry>q</entry>
         <entry>action ReformatCode</entry>
-        <entry>action PreviousTab</entry>
         <entry>action NextTab</entry>
+        <entry>action PreviousTab</entry>
       </history-cmd>
       <history-expr />
       <history-input />
