@@ -207,6 +207,11 @@
         <mark key="." line="12" column="43" />
         <mark key="^" line="12" column="42" />
       </file>
+      <file name="$USER_HOME$/workdir/code/now-antd-js/src/components/common.js" timestamp="1499760072915">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workdir/web/now-antd/src/components/form.tsx" timestamp="1492759119790">
         <mark key="'" line="24" column="76" />
         <mark key="[" line="24" column="76" />
@@ -456,12 +461,12 @@
         <mark key="]" line="0" column="23" />
         <mark key="." line="0" column="23" />
       </file>
-      <file name="$USER_HOME$/workdir/code/now-antd-js/src/components/advancedTable.jsx" timestamp="1499411198976">
-        <mark key="'" line="1" column="14" />
-        <mark key="[" line="44" column="14" />
-        <mark key="]" line="44" column="17" />
-        <mark key="." line="44" column="17" />
-        <mark key="^" line="44" column="17" />
+      <file name="$USER_HOME$/workdir/code/now-antd-js/src/components/advancedTable.jsx" timestamp="1499760519628">
+        <mark key="'" line="83" column="24" />
+        <mark key="[" line="64" column="123" />
+        <mark key="]" line="65" column="38" />
+        <mark key="." line="65" column="38" />
+        <mark key="^" line="65" column="38" />
       </file>
       <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/lineheaders_test.go" timestamp="1491468156732">
         <mark key="'" line="76" column="27" />
@@ -1726,6 +1731,10 @@
         <mark key="^" line="81" column="21" />
         <mark key="." line="81" column="21" />
       </file>
+      <file name="$USER_HOME$/workdir/web/now-antd/src/common/commons.ts" timestamp="1499760063285">
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="76" column="0" />
+      </file>
       <file name="$USER_HOME$/workdir/web/vocs-react/src/entry/user.tsx" timestamp="1490839876394">
         <mark key="'" line="101" column="22" />
         <mark key="[" line="32" column="39" />
@@ -1848,7 +1857,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="31" filename="$USER_HOME$/workdir/web/react-components/config/webpack.config.dev.js" />
       <jump line="71" column="42" filename="$USER_HOME$/workdir/web/react-components/config/webpack.config.dev.js" />
       <jump line="88" column="29" filename="$USER_HOME$/workdir/web/react-components/config/webpack.config.dev.js" />
       <jump line="89" column="25" filename="$USER_HOME$/workdir/web/react-components/config/webpack.config.dev.js" />
@@ -1948,13 +1956,14 @@
       <jump line="246" column="34" filename="$USER_HOME$/sync/code/go/src/LawIndexer/models/law.go" />
       <jump line="5" column="15" filename="$USER_HOME$/workdir/code/now-antd-js/src/components/BasicTable.jsx" />
       <jump line="88" column="24" filename="$USER_HOME$/workdir/code/now-antd-js/src/components/BasicTable.jsx" />
+      <jump line="79" column="24" filename="$USER_HOME$/workdir/code/now-antd-js/src/components/advancedTable.jsx" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVmcmVzaFNlYXJjaEZvcm06IHJhbmRvbVN0cigpCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2061,7 +2070,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">b25DaGFuZ2U9e3RoaXMuaGFuZGxlVGFibGVDaGFuZ2V9IA==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
@@ -2070,31 +2079,31 @@
         <text>&quot;https://localhost:3001/table&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbXBvbmVudFdpbAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbW9kYWwK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH07Cg==</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmZldGNoKCk7Cg==</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBrbG5pdSBvbiAxNy03LTExLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGhhbmRsZVRhYmxlQ2hhbmdlID0gKHBhZ2luYXRpb24sIGZpbHRlcnMsIHNvcnRlcikgPT4gewo=</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3JtSXRlbXM6IFtdLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCB7IGdldEZpZWxkRGVjb3JhdG9yIH0gPSB0aGlzLnByb3BzLmZvcm07CiAgICAgICAgY29uc3QgZm9ybUl0ZW1MYXlvdXQgPSB7CiAgICAgICAgICAgIGxhYmVsQ29sOiB7IHNwYW46IDYgfSwKICAgICAgICAgICAgd3JhcHBlckNvbDogeyBzcGFuOiAxNCB9LAogICAgICAgIH07Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxBZHZhbmNlZFRhYmxlIHNob3dQYWdpbmF0aW9uPXt0cnVlfSBkYXRhVXJsPXsiaHR0cDovL2xvY2FsaG9zdDozMDAxL3RhYmxlIn0gY29sdW1ucz17dGFibGVDb2x1bW5zfS8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9ybUl0ZW1zOiBnZXRGb3JtSXRlbXMoZ2V0RmllbGREZWNvcmF0b3IsdGhpcy5wcm9wcy5mb3JtT3B0aW9ucywgdW5kZWZpbmVkLCBmb3JtSXRlbUxheW91dCksCg==</text>
       </register>
       <register name=":" type="4">
         <text>action PreviousTab</text>
