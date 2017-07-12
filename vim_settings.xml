@@ -47,11 +47,12 @@
         <mark key="^" line="67" column="1" />
         <mark key="." line="69" column="0" />
       </file>
-      <file name="$USER_HOME$/workdir/code/now-antd-js/src/data/test.json" timestamp="1499414566220">
-        <mark key="[" line="1" column="3" />
-        <mark key="]" line="1" column="3" />
-        <mark key="^" line="1" column="8" />
-        <mark key="." line="1" column="3" />
+      <file name="$USER_HOME$/workdir/code/now-antd-js/src/data/test.json" timestamp="1499833749714">
+        <mark key="'" line="41" column="7" />
+        <mark key="[" line="136" column="14" />
+        <mark key="]" line="136" column="15" />
+        <mark key="^" line="136" column="15" />
+        <mark key="." line="136" column="15" />
       </file>
       <file name="$USER_HOME$/sync/code/java/livesim/src/main/js/app.ts" timestamp="1480663862866">
         <mark key="[" line="3" column="0" />
@@ -1716,12 +1717,12 @@
         <mark key="." line="16" column="41" />
         <mark key="^" line="16" column="41" />
       </file>
-      <file name="$USER_HOME$/workdir/code/now-antd-js/src/components/BasicTable.jsx" timestamp="1499828675969">
+      <file name="$USER_HOME$/workdir/code/now-antd-js/src/components/BasicTable.jsx" timestamp="1499833966062">
         <mark key="'" line="47" column="17" />
-        <mark key="[" line="19" column="92" />
-        <mark key="]" line="19" column="92" />
-        <mark key="." line="19" column="92" />
-        <mark key="^" line="19" column="92" />
+        <mark key="[" line="11" column="68" />
+        <mark key="]" line="11" column="69" />
+        <mark key="." line="11" column="69" />
+        <mark key="^" line="11" column="68" />
       </file>
       <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/model_test.go" timestamp="1499675676254" />
       <file name="$USER_HOME$/sync/code/go/src/spiders/pholcus_lib/chinalaw.go" timestamp="1490274857998">
@@ -1857,7 +1858,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="89" column="25" filename="$USER_HOME$/workdir/web/react-components/config/webpack.config.dev.js" />
       <jump line="95" column="48" filename="$USER_HOME$/workdir/web/react-components/config/webpack.config.dev.js" />
       <jump line="97" column="55" filename="$USER_HOME$/workdir/web/react-components/config/webpack.config.dev.js" />
       <jump line="100" column="98" filename="$USER_HOME$/workdir/web/react-components/config/webpack.config.dev.js" />
@@ -1957,13 +1957,14 @@
       <jump line="79" column="24" filename="$USER_HOME$/workdir/code/now-antd-js/src/components/advancedTable.jsx" />
       <jump line="13" column="0" filename="$USER_HOME$/workdir/code/now-antd-js/src/components/advancedTable.jsx" />
       <jump line="47" column="17" filename="$USER_HOME$/workdir/code/now-antd-js/src/components/BasicTable.jsx" />
+      <jump line="50" column="7" filename="$USER_HOME$/workdir/code/now-antd-js/src/data/test.json" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVmcmVzaFNlYXJjaEZvcm06IHJhbmRvbVN0cigpCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>immutability-helper</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2070,13 +2071,17 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bGV0IA==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>consoe</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLi4udGhpcy5zdGF0ZS50YWJsZVBhcmFtcy5wYWdpbmF0aW9uLAo=</text>
+      <register name="0" type="4">
+        <text>, {
+        &quot;id&quot;: 10,
+        &quot;title&quot;: &quot;我是posts10&quot;,
+        &quot;author&quot;: &quot;typicode&quot;
+      }</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHRhYmxlUGFyYW1zLnRvdGFsID0gcmVzcG9uc2UuZGF0YS50b3RhbENvdW50Owo=</text>
@@ -2106,7 +2111,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHNvcnRPcmRlcjogc29ydGVyLm9yZGVyLAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action NextTab</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
@@ -2159,9 +2164,9 @@
         <entry>w</entry>
         <entry>%s/components-layout-demo-side/App/gc</entry>
         <entry>q</entry>
-        <entry>action ReformatCode</entry>
         <entry>action PreviousTab</entry>
         <entry>action NextTab</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
