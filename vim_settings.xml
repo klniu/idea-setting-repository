@@ -277,6 +277,9 @@
         <mark key="." line="0" column="33" />
         <mark key="^" line="0" column="33" />
       </file>
+      <file name="$USER_HOME$/go/src/zhvocs/controllers/photo.go" timestamp="1500279134270">
+        <mark key="'" line="253" column="20" />
+      </file>
       <file name="$USER_HOME$/sync/code/java/xiaoyi/.gitignore" timestamp="1484374096440">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
@@ -1242,11 +1245,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="439" column="73" filename="$USER_HOME$/Downloads/Camera2/camera2/src/main/java/us/yydcdut/camera2/ui/PreviewFragment.java" />
-      <jump line="448" column="73" filename="$USER_HOME$/Downloads/Camera2/camera2/src/main/java/us/yydcdut/camera2/ui/PreviewFragment.java" />
-      <jump line="526" column="29" filename="$USER_HOME$/Downloads/Camera2/camera2/src/main/java/us/yydcdut/camera2/ui/PreviewFragment.java" />
-      <jump line="527" column="43" filename="$USER_HOME$/Downloads/Camera2/camera2/src/main/java/us/yydcdut/camera2/ui/PreviewFragment.java" />
-      <jump line="14" column="67" filename="$USER_HOME$/Downloads/Camera2/camera2/src/main/java/us/yydcdut/camera2/MainActivity.java" />
       <jump line="23" column="20" filename="$USER_HOME$/sync/code/Android/HaiHuanLDAR/app/src/main/res/layout/preview_fragment.xml" />
       <jump line="87" column="17" filename="$USER_HOME$/sync/code/Android/HaiHuanLDAR/app/src/main/java/com/cnvoc/haihuanldar/view/PreviewFragment.java" />
       <jump line="389" column="54" filename="$USER_HOME$/sync/code/Android/HaiHuanLDAR/app/src/main/java/com/cnvoc/haihuanldar/view/PreviewFragment.java" />
@@ -1342,6 +1340,11 @@
       <jump line="115" column="0" filename="$USER_HOME$/workdir/code/clear/src/main/java/com/cnvoc/clear/model/FixedTankBase.java" />
       <jump line="129" column="0" filename="$USER_HOME$/workdir/code/clear/src/main/java/com/cnvoc/clear/model/FixedTankBase.java" />
       <jump line="16" column="0" filename="$USER_HOME$/workdir/code/clear/src/main/java/com/cnvoc/clear/model/base/WeatherByMonth.java" />
+      <jump line="163" column="19" filename="$USER_HOME$/go/src/zhvocs/controllers/photo.go" />
+      <jump line="179" column="20" filename="$USER_HOME$/go/src/zhvocs/controllers/photo.go" />
+      <jump line="147" column="24" filename="$USER_HOME$/go/src/zhvocs/controllers/photo.go" />
+      <jump line="90" column="24" filename="$USER_HOME$/go/src/zhvocs/controllers/photo.go" />
+      <jump line="253" column="20" filename="$USER_HOME$/go/src/zhvocs/controllers/photo.go" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1458,7 +1461,7 @@
         <text>().</text>
       </register>
       <register name="/" type="4">
-        <text>jsx</text>
+        <text>28</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGxvbmcgaWQ7CiAgICBTdHJpbmcgbmFtZTsKCiAgICBwdWJsaWMgVW5pdChTdHJpbmcgbmFtZSwgU3RyaW5nIGRlc2NyaXB0aW9uKSB7CiAgICAgICAgdGhpcy5uYW1lID0gbmFtZTsKICAgICAgICB0aGlzLmRlc2NyaXB0aW9uID0gZGVzY3JpcHRpb247CiAgICB9CgogICAgU3RyaW5nIGRlc2NyaXB0aW9uOwoKICAgIHB1YmxpYyBsb25nIGdldElkKCkgewogICAgICAgIHJldHVybiBpZDsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRJZChsb25nIGlkKSB7CiAgICAgICAgdGhpcy5pZCA9IGlkOwogICAgfQoKICAgIHB1YmxpYyBTdHJpbmcgZ2V0TmFtZSgpIHsKICAgICAgICByZXR1cm4gbmFtZTsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXROYW1lKFN0cmluZyBuYW1lKSB7CiAgICAgICAgdGhpcy5uYW1lID0gbmFtZTsKICAgIH0KCiAgICBwdWJsaWMgU3RyaW5nIGdldERlc2NyaXB0aW9uKCkgewogICAgICAgIHJldHVybiBkZXNjcmlwdGlvbjsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXREZXNjcmlwdGlvbihTdHJpbmcgZGVzY3JpcHRpb24pIHsKICAgICAgICB0aGlzLmRlc2NyaXB0aW9uID0gZGVzY3JpcHRpb247CiAgICB9Cg==</text>
@@ -1507,17 +1510,16 @@ private</text>
       </register>
     </registers>
     <search>
-      <last-search>jsx</last-search>
+      <last-search>28</last-search>
       <last-offset />
-      <last-pattern>jsx</last-pattern>
+      <last-pattern>28</last-pattern>
       <last-replace>',dataIndex:'</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>base</entry>
         <entry>debug</entry>
         <entry>console</entry>
         <entry>seal</entry>
@@ -1537,6 +1539,7 @@ private</text>
         <entry>println</entry>
         <entry encoding="base64">XDxhbGxUb3RhbFw+</entry>
         <entry encoding="base64">XDxBbGxDb3VudFw+</entry>
+        <entry>28</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyQvIi9nYw==</entry>
