@@ -762,7 +762,7 @@
         <mark key="." line="6" column="1" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500347722834">
+      <file name="/Dummy.txt" timestamp="1500453088247">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -2366,7 +2366,7 @@
         <text encoding="base64">ICAgICAgICBmaWVsZE9wdGlvbnMgOiB7CiAgICAgICAgICAgIHJ1bGVzIDpbCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgdHlwZTogInN0cmluZyIsCiAgICAgICAgICAgICAgICAgICAgbWluOiA2LAogICAgICAgICAgICAgICAgICAgIG1heDogNTAsCiAgICAgICAgICAgICAgICAgICAgcmVxdWlyZWQ6IHRydWUsCiAgICAgICAgICAgICAgICAgICAgbWVzc2FnZTogIui+k+WFpemVv+W6puWcqDItNTDkuYvpl7TnmoTlr4bnoIEiCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIF0KICAgICAgICB9LAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -2376,7 +2376,7 @@
       <last-replace>}</last-replace>
       <last-substitute encoding="base64">IH0=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -2418,10 +2418,10 @@
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
         <entry>w</entry>
         <entry>%s/components-layout-demo-side/App/gc</entry>
-        <entry>q</entry>
         <entry>action PreviousTab</entry>
         <entry>action NextTab</entry>
         <entry>action ReformatCode</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
