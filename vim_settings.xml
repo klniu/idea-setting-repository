@@ -762,7 +762,7 @@
         <mark key="." line="6" column="1" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500454217021">
+      <file name="/Dummy.txt" timestamp="1500535255708">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1364,9 +1364,12 @@
         <mark key="]" line="7" column="11" />
         <mark key="." line="5" column="38" />
       </file>
-      <file name="$USER_HOME$/workdir/code/clear/build.gradle" timestamp="1500534227147">
-        <mark key="[" line="46" column="19" />
-        <mark key="]" line="46" column="76" />
+      <file name="$USER_HOME$/workdir/code/clear/build.gradle" timestamp="1500535449726">
+        <mark key="'" line="56" column="2" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="26" column="3" />
       </file>
       <file name="$USER_HOME$/sync/code/java/mdtools/build.gradle" timestamp="1483964088005">
         <mark key="[" line="33" column="0" />
@@ -2127,12 +2130,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="29" filename="$USER_HOME$/workdir/web/lawindexer-ui/src/data/tables.tsx" />
-      <jump line="4" column="0" filename="$USER_HOME$/workdir/web/lawindexer-ui/src/data/tables.tsx" />
-      <jump line="22" column="60" filename="$USER_HOME$/workdir/web/lawindexer-ui/src/App.tsx" />
-      <jump line="145" column="16" filename="$USER_HOME$/workdir/web/now-antd/src/data.tsx" />
-      <jump line="128" column="34" filename="$USER_HOME$/workdir/web/now-antd/src/data.tsx" />
-      <jump line="144" column="55" filename="$USER_HOME$/workdir/web/now-antd/src/data.tsx" />
       <jump line="2" column="23" filename="$USER_HOME$/workdir/web/now-antd/src/data.tsx" />
       <jump line="11" column="23" filename="$USER_HOME$/workdir/web/now-antd/src/components/treePage.tsx" />
       <jump line="0" column="0" filename="$USER_HOME$/workdir/web/now-antd/src/data.tsx" />
@@ -2227,13 +2224,19 @@
       <jump line="22" column="0" filename="$USER_HOME$/workdir/code/voc-ui/src/components/SiderCustom.jsx" />
       <jump line="25" column="0" filename="$USER_HOME$/workdir/code/voc-ui/src/components/SiderCustom.jsx" />
       <jump line="105" column="0" filename="$USER_HOME$/workdir/code/clear/src/main/resources/tools/generatorConfig.xml" />
+      <jump line="38" column="38" filename="$USER_HOME$/workdir/code/clear/build.gradle" />
+      <jump line="46" column="53" filename="$USER_HOME$/workdir/code/clear/build.gradle" />
+      <jump line="50" column="35" filename="$USER_HOME$/workdir/code/clear/build.gradle" />
+      <jump line="53" column="4" filename="$USER_HOME$/workdir/code/clear/build.gradle" />
+      <jump line="56" column="0" filename="$USER_HOME$/workdir/code/clear/build.gradle" />
+      <jump line="60" column="2" filename="$USER_HOME$/workdir/code/clear/build.gradle" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVmcmVzaFNlYXJjaEZvcm06IHJhbmRvbVN0cigpCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>gradle.plugin.com.arenagod.gradle:mybatis-generator-plugin</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2343,7 +2346,7 @@
         <text>TextWithDefaultValue</text>
       </register>
       <register name="/" type="4">
-        <text>console</text>
+        <text>mybatis</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhUYW5rQmFzZUZpeGVkQ29sdW1ucykK</text>
@@ -2352,45 +2355,44 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICDkvZzogIXvvJppbmtlCg==</text>
+        <text encoding="base64">CXRlc3RDb21waWxlKCdvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q6c3ByaW5nLWJvb3Qtc3RhcnRlci10ZXN0JykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICDpk77mjqXvvJpodHRwOi8vd3d3LmppYW5zaHUuY29tL3AvMTg4NjIyOTUwY2M2Cg==</text>
+        <text encoding="base64">Y29uZmlndXJhdGlvbnMgewogICAgbXliYXRpc0dlbmVyYXRvcgp9Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICDkvobmupDvvJrnroDkuaYK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICDokZfkvZzmnYPlvZLkvZzogIXmiYDmnInjgILllYbkuJrovazovb3or7fogZTns7vkvZzogIXojrflvpfmjojmnYPvvIzpnZ7llYbkuJrovazovb3or7fms6jmmI7lh7rlpITjgIIK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhUYW5rQmFzZUZpeGVkRm9ybU9wdGlvbnMpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhUYW5rQmFzZUZpeGVkQ29sdW1ucykK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICDkvZzogIXvvJppbmtlCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICDpk77mjqXvvJpodHRwOi8vd3d3LmppYW5zaHUuY29tL3AvMTg4NjIyOTUwY2M2Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICDkvobmupDvvJrnroDkuaYK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICDokZfkvZzmnYPlvZLkvZzogIXmiYDmnInjgILllYbkuJrovazovb3or7fogZTns7vkvZzogIXojrflvpfmjojmnYPvvIzpnZ7llYbkuJrovazovb3or7fms6jmmI7lh7rlpITjgIIK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLnN0YXRlKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhUYW5rQmFzZUZpeGVkRm9ybU9wdGlvbnMpCg==</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
-      <last-search>console</last-search>
+      <last-search>mybatis</last-search>
       <last-offset />
-      <last-pattern>console</last-pattern>
+      <last-pattern>mybatis</last-pattern>
       <last-replace>}</last-replace>
       <last-substitute encoding="base64">IH0=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>gotime</entry>
         <entry>handleimport</entry>
         <entry>es</entry>
         <entry>es6</entry>
@@ -2410,6 +2412,7 @@
         <entry>_</entry>
         <entry encoding="base64">XDxpc0VxdWFsXD4=</entry>
         <entry>console</entry>
+        <entry>mybatis</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1BhcnRzOiBcW1xdUGFydHsvL2dj</entry>
