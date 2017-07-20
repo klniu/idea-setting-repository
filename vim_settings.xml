@@ -1364,6 +1364,10 @@
         <mark key="]" line="7" column="11" />
         <mark key="." line="5" column="38" />
       </file>
+      <file name="$USER_HOME$/workdir/code/clear/build.gradle" timestamp="1500534227147">
+        <mark key="[" line="46" column="19" />
+        <mark key="]" line="46" column="76" />
+      </file>
       <file name="$USER_HOME$/sync/code/java/mdtools/build.gradle" timestamp="1483964088005">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="34" column="34" />
@@ -1393,6 +1397,13 @@
         <mark key="]" line="17" column="63" />
         <mark key="^" line="17" column="63" />
         <mark key="." line="17" column="63" />
+      </file>
+      <file name="$USER_HOME$/workdir/code/clear/src/main/resources/tools/generatorConfig.xml" timestamp="1500534031461">
+        <mark key="'" line="105" column="0" />
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="0" />
+        <mark key="^" line="106" column="41" />
+        <mark key="." line="106" column="0" />
       </file>
       <file name="$USER_HOME$/sync/code/go/src/minger/main.go" timestamp="1489576497124">
         <mark key="'" line="14" column="8" />
@@ -1523,6 +1534,9 @@
         <mark key="]" line="15" column="51" />
         <mark key="^" line="15" column="51" />
         <mark key="." line="15" column="51" />
+      </file>
+      <file name="$APPLICATION_HOME_DIR$/plugins/tslint/lib/tslint.jar!/tslintJsonSchema/tslint-schema.json" timestamp="1492494342292">
+        <mark key="'" line="867" column="25" />
       </file>
       <file name="$USER_HOME$/workdir/web/vocs-react/webpack-production.config.js" timestamp="1490933689095">
         <mark key="'" line="0" column="0" />
@@ -2087,9 +2101,6 @@
         <mark key="^" line="17" column="64" />
         <mark key="." line="10" column="21" />
       </file>
-      <file name="$APPLICATION_HOME_DIR$/plugins/tslint/lib/tslint.jar!/tslintJsonSchema/tslint-schema.json" timestamp="1492494342292">
-        <mark key="'" line="867" column="25" />
-      </file>
       <file name="$USER_HOME$/workdir/vocs-react/src/entry/photo.tsx" timestamp="1489895127868">
         <mark key="'" line="170" column="24" />
         <mark key="[" line="190" column="9" />
@@ -2116,7 +2127,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="18" filename="$USER_HOME$/workdir/web/lawindexer-ui/node_modules/now-antd/dist/types/components/treePage.d.ts" />
       <jump line="12" column="29" filename="$USER_HOME$/workdir/web/lawindexer-ui/src/data/tables.tsx" />
       <jump line="4" column="0" filename="$USER_HOME$/workdir/web/lawindexer-ui/src/data/tables.tsx" />
       <jump line="22" column="60" filename="$USER_HOME$/workdir/web/lawindexer-ui/src/App.tsx" />
@@ -2216,13 +2226,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/workdir/code/voc-ui/src/components/SiderCustom.jsx" />
       <jump line="22" column="0" filename="$USER_HOME$/workdir/code/voc-ui/src/components/SiderCustom.jsx" />
       <jump line="25" column="0" filename="$USER_HOME$/workdir/code/voc-ui/src/components/SiderCustom.jsx" />
+      <jump line="105" column="0" filename="$USER_HOME$/workdir/code/clear/src/main/resources/tools/generatorConfig.xml" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVmcmVzaFNlYXJjaEZvcm06IHJhbmRvbVN0cigpCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhUYW5rQmFzZUZpeGVkRm9ybU9wdGlvbnMpCg==</text>
+      <register name="&quot;" type="4">
+        <text>gradle.plugin.com.arenagod.gradle:mybatis-generator-plugin</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2338,34 +2349,34 @@
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhUYW5rQmFzZUZpeGVkQ29sdW1ucykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhUYW5rQmFzZUZpeGVkRm9ybU9wdGlvbnMpCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhUYW5rQmFzZUZpeGVkQ29sdW1ucykK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICDkvZzogIXvvJppbmtlCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICDpk77mjqXvvJpodHRwOi8vd3d3LmppYW5zaHUuY29tL3AvMTg4NjIyOTUwY2M2Cg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLnN0YXRlKTsK</text>
+        <text encoding="base64">ICAgICAgICDkvobmupDvvJrnroDkuaYK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhjb2xsYXBzZWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICDokZfkvZzmnYPlvZLkvZzogIXmiYDmnInjgILllYbkuJrovazovb3or7fogZTns7vkvZzogIXojrflvpfmjojmnYPvvIzpnZ7llYbkuJrovazovb3or7fms6jmmI7lh7rlpITjgIIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhuZXh0UHJvcHMpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhUYW5rQmFzZUZpeGVkRm9ybU9wdGlvbnMpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhUYW5rQmFzZUZpeGVkQ29sdW1ucykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBoYW8uY2hlbmcgb24gMjAxNy81LzMuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLnN0YXRlKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>action PreviousTab</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
@@ -2375,7 +2386,7 @@
       <last-replace>}</last-replace>
       <last-substitute encoding="base64">IH0=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -2417,10 +2428,10 @@
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
         <entry>w</entry>
         <entry>%s/components-layout-demo-side/App/gc</entry>
-        <entry>action ReformatCode</entry>
         <entry>action NextTab</entry>
         <entry>q</entry>
         <entry>action PreviousTab</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
