@@ -296,6 +296,9 @@
         <mark key="^" line="26" column="108" />
         <mark key="." line="26" column="108" />
       </file>
+      <file name="/a.sql" timestamp="1500607138743">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/sync/code/java/ProgrammingProjectList/003-CountVowels/src/CountVowels.java" timestamp="1474772524816">
         <mark key="[" line="18" column="11" />
         <mark key="]" line="18" column="14" />
@@ -1854,6 +1857,11 @@
         <mark key="^" line="21" column="15" />
         <mark key="." line="21" column="15" />
       </file>
+      <file name="$USER_HOME$/workdir/code/clear/src/main/resources/schema.sql" timestamp="1500607098164">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/workdir/web/lawindexer-ui/src/data/header.ts" timestamp="1492760730330">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -2201,8 +2209,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVmcmVzaFNlYXJjaEZvcm06IHJhbmRvbVN0cigpCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>hello</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBwcm92aW5jZSAgICAgICBWQVJDSEFSKDIwKSAgTk9UIE5VTEwsCg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2318,31 +2326,31 @@
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhUYW5rQmFzZUZpeGVkQ29sdW1ucykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwcm92aW5jZSAgICAgICBWQVJDSEFSKDIwKSAgTk9UIE5VTEwsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIEhlbGxvV29ybGRDb250cm9sbGVyIHsKfQo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">cHVibGljIGNsYXNzIEhlbGxvV29ybGRDb250cm9sbGVyIHsKfQo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBSZXF1ZXN0TWFwcGluZygiL2hlbGxvIikKICAgIHB1YmxpYyBTdHJpbmcgaW5kZXgoKSB7CiAgICAgICAgcmV0dXJuICJIZWxsbyBXb3JsZCI7CiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBSZXF1ZXN0TWFwcGluZygiL2hlbGxvIikK</text>
+        <text encoding="base64">ICAgIEBSZXF1ZXN0TWFwcGluZygiL2hlbGxvIikKICAgIHB1YmxpYyBTdHJpbmcgaW5kZXgoKSB7CiAgICAgICAgcmV0dXJuICJIZWxsbyBXb3JsZCI7CiAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QFJlc3RDb250cm9sbGVyCg==</text>
+        <text encoding="base64">ICAgIEBSZXF1ZXN0TWFwcGluZygiL2hlbGxvIikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBtYmcuamRiYy5kcml2ZXItbG9jYXRpb249L1VzZXJzL3l5cWlhbi8ubTIvcmVwb3NpdG9yeS9teXNxbC9teXNxbC1jb25uZWN0b3ItamF2YS81LjEuMzgvbXlzcWwtY29ubmVjdG9yLWphdmEtNS4xLjM4Lmphcgo=</text>
+        <text encoding="base64">QFJlc3RDb250cm9sbGVyCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxjbGFzc1BhdGhFbnRyeSBsb2NhdGlvbj0iJHttYmcuamRiYy5kcml2ZXItbG9jYXRpb259Ii8+Cg==</text>
+        <text encoding="base64">IyBtYmcuamRiYy5kcml2ZXItbG9jYXRpb249L1VzZXJzL3l5cWlhbi8ubTIvcmVwb3NpdG9yeS9teXNxbC9teXNxbC1jb25uZWN0b3ItamF2YS81LjEuMzgvbXlzcWwtY29ubmVjdG9yLWphdmEtNS4xLjM4Lmphcgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8dGFibGUgdGFibGVOYW1lPSJ1c2VyIj4KICAgICAgICAgICAgPGNvbHVtbk92ZXJyaWRlIGNvbHVtbj0icGFzc3dvcmRfaGFzaCIgamF2YVR5cGU9ImphdmEubGFuZy5TdHJpbmciLz4KICAgICAgICA8L3RhYmxlPgogICAgICAgIDx0YWJsZSB0YWJsZU5hbWU9InBvc3QiLz4K</text>
+        <text encoding="base64">ICAgIDxjbGFzc1BhdGhFbnRyeSBsb2NhdGlvbj0iJHttYmcuamRiYy5kcml2ZXItbG9jYXRpb259Ii8+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action PreviousTab</text>
