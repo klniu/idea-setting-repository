@@ -296,7 +296,7 @@
         <mark key="^" line="26" column="108" />
         <mark key="." line="26" column="108" />
       </file>
-      <file name="/a.sql" timestamp="1500607138743">
+      <file name="/a.sql" timestamp="1500627358914">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/sync/code/java/ProgrammingProjectList/003-CountVowels/src/CountVowels.java" timestamp="1474772524816">
@@ -757,7 +757,7 @@
         <mark key="." line="6" column="1" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500599337228">
+      <file name="/Dummy.txt" timestamp="1500627395430">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1857,10 +1857,12 @@
         <mark key="^" line="21" column="15" />
         <mark key="." line="21" column="15" />
       </file>
-      <file name="$USER_HOME$/workdir/code/clear/src/main/resources/schema.sql" timestamp="1500607098164">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/workdir/code/clear/src/main/resources/schema.sql" timestamp="1500627382019">
+        <mark key="'" line="209" column="2" />
+        <mark key="[" line="231" column="45" />
+        <mark key="]" line="231" column="45" />
+        <mark key="." line="231" column="45" />
+        <mark key="^" line="7" column="0" />
       </file>
       <file name="$USER_HOME$/workdir/web/lawindexer-ui/src/data/header.ts" timestamp="1492760730330">
         <mark key="[" line="0" column="0" />
@@ -1939,6 +1941,7 @@
         <mark key="." line="26" column="17" />
         <mark key="^" line="26" column="17" />
       </file>
+      <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/model_test.go" timestamp="1500625701022" />
       <file name="$USER_HOME$/sync/code/go/src/spiders/pholcus_lib/chinalaw.go" timestamp="1490274857998">
         <mark key="'" line="78" column="39" />
         <mark key="[" line="81" column="20" />
@@ -2104,22 +2107,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="13" filename="$USER_HOME$/sync/code/go/src/LawIndexer/models/model_test.go" />
-      <jump line="14" column="15" filename="$USER_HOME$/sync/code/go/src/LawIndexer/models/functions_test.go" />
-      <jump line="213" column="3" filename="$USER_HOME$/sync/code/go/src/LawIndexer/models/law.go" />
-      <jump line="0" column="0" filename="$USER_HOME$/sync/code/go/src/LawIndexer/models/law.go" />
-      <jump line="16" column="0" filename="$USER_HOME$/sync/code/go/src/LawIndexer/models/functions.go" />
-      <jump line="31" column="0" filename="$USER_HOME$/sync/code/go/src/LawIndexer/models/functions.go" />
-      <jump line="246" column="34" filename="$USER_HOME$/sync/code/go/src/LawIndexer/models/law.go" />
-      <jump line="5" column="15" filename="$USER_HOME$/workdir/code/now-antd-js/src/components/BasicTable.jsx" />
-      <jump line="88" column="24" filename="$USER_HOME$/workdir/code/now-antd-js/src/components/BasicTable.jsx" />
-      <jump line="79" column="24" filename="$USER_HOME$/workdir/code/now-antd-js/src/components/advancedTable.jsx" />
-      <jump line="13" column="0" filename="$USER_HOME$/workdir/code/now-antd-js/src/components/advancedTable.jsx" />
-      <jump line="47" column="17" filename="$USER_HOME$/workdir/code/now-antd-js/src/components/BasicTable.jsx" />
-      <jump line="50" column="7" filename="$USER_HOME$/workdir/code/now-antd-js/src/data/test.json" />
-      <jump line="50" column="22" filename="$USER_HOME$/workdir/web/vocs-react/src/components/formModal.tsx" />
-      <jump line="0" column="0" filename="$USER_HOME$/workdir/code/now-antd-js/src/components/forms.jsx" />
-      <jump line="88" column="24" filename="$USER_HOME$/workdir/code/now-antd-js/src/components/advancedTable.jsx" />
       <jump line="125" column="21" filename="$USER_HOME$/workdir/code/now-antd-js/src/components/advancedTable.jsx" />
       <jump line="126" column="73" filename="$USER_HOME$/workdir/code/now-antd-js/src/components/advancedTable.jsx" />
       <jump line="130" column="22" filename="$USER_HOME$/workdir/code/now-antd-js/src/components/advancedTable.jsx" />
@@ -2204,13 +2191,29 @@
       <jump line="47" column="15" filename="$USER_HOME$/workdir/code/clear/src/main/java/com/cnvoc/clear/model/FixedTankBase.java" />
       <jump line="50" column="37" filename="$USER_HOME$/workdir/code/clear/src/main/java/com/cnvoc/clear/model/FixedTankBase.java" />
       <jump line="51" column="25" filename="$USER_HOME$/workdir/code/clear/src/main/java/com/cnvoc/clear/model/FixedTankBase.java" />
+      <jump line="7" column="0" filename="$USER_HOME$/workdir/code/clear/src/main/resources/schema.sql" />
+      <jump line="229" column="16" filename="$USER_HOME$/workdir/code/clear/src/main/resources/schema.sql" />
+      <jump line="245" column="14" filename="$USER_HOME$/workdir/code/clear/src/main/resources/schema.sql" />
+      <jump line="67" column="0" filename="$USER_HOME$/workdir/code/clear/src/main/resources/schema.sql" />
+      <jump line="247" column="28" filename="$USER_HOME$/workdir/code/clear/src/main/resources/schema.sql" />
+      <jump line="28" column="24" filename="$USER_HOME$/workdir/code/clear/src/main/resources/schema.sql" />
+      <jump line="234" column="27" filename="$USER_HOME$/workdir/code/clear/src/main/resources/schema.sql" />
+      <jump line="8" column="0" filename="$USER_HOME$/workdir/code/clear/src/main/resources/schema.sql" />
+      <jump line="0" column="0" filename="$USER_HOME$/workdir/code/clear/src/main/resources/schema.sql" />
+      <jump line="163" column="7" filename="$USER_HOME$/workdir/code/clear/src/main/resources/schema.sql" />
+      <jump line="178" column="45" filename="$USER_HOME$/workdir/code/clear/src/main/resources/schema.sql" />
+      <jump line="186" column="7" filename="$USER_HOME$/workdir/code/clear/src/main/resources/schema.sql" />
+      <jump line="206" column="45" filename="$USER_HOME$/workdir/code/clear/src/main/resources/schema.sql" />
+      <jump line="182" column="31" filename="$USER_HOME$/workdir/code/clear/src/main/resources/schema.sql" />
+      <jump line="211" column="11" filename="$USER_HOME$/workdir/code/clear/src/main/resources/schema.sql" />
+      <jump line="209" column="2" filename="$USER_HOME$/workdir/code/clear/src/main/resources/schema.sql" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVmcmVzaFNlYXJjaEZvcm06IHJhbmRvbVN0cigpCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBwcm92aW5jZSAgICAgICBWQVJDSEFSKDIwKSAgTk9UIE5VTEwsCg==</text>
+      <register name="&quot;" type="4">
+        <text>d</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2317,49 +2320,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>hello</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
-        <text>factory</text>
+        <text>area</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhUYW5rQmFzZUZpeGVkQ29sdW1ucykK</text>
+        <text encoding="base64">ICBvaWxfdHlwZSAgICAgICAgICAgIEVOVU0gKCdHQVNPTElORScsICdESUVTRUwnLCAnTElHSFRfTkFQSFRIQScsICdIRUFWWV9OQVBIVEhBJywgJ0NSVURFJywgJ0xJR0hUX1NVTVBfT0lMJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdIRUFWWV9PSUwnLCAnQVZJQVRJT05fS0VST1NFTkUnLCAnUkVTSURVRScsICdXQVhfT0lMJywgJ1JBRkZJTkFURV9PSUwnLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwcm92aW5jZSAgICAgICBWQVJDSEFSKDIwKSAgTk9UIE5VTEwsCg==</text>
+        <text encoding="base64">Q1JFQVRFIFRBQkxFIElGIE5PVCBFWElTVFMgdW5pdAooCiAgaWQgICAgICAgICAgQklHSU5UICAgICAgTk9UIE5VTEwgQVVUT19JTkNSRU1FTlQgUFJJTUFSWSBLRVksCiAgZmFjdG9yeV9pZCAgSU5UICAgICAgICAgTk9UIE5VTEwsCiAgbmFtZSAgICAgICAgVkFSQ0hBUig1MCkgTk9UIE5VTEwsCiAgbm8gICAgICAgICAgVElOWUlOVCAgICAgTk9UIE5VTEwsCiAgZGVzY3JpcHRpb24gVEVYVCwKICBGT1JFSUdOIEtFWSAoZmFjdG9yeV9pZCkgUkVGRVJFTkNFUyBmYWN0b3J5IChpZCkKKTsKCkNSRUFURSBUQUJMRSBJRiBOT1QgRVhJU1RTIGluc3RhbGwKKAogIGlkICAgICAgICAgICBCSUdJTlQgICAgICBOT1QgTlVMTCBBVVRPX0lOQ1JFTUVOVCBQUklNQVJZIEtFWSwKICBmYWN0b3J5X2lkICAgSU5UICAgICAgICAgTk9UIE5VTEwsCiAgdW5pdF9pZCAgICAgIEJJR0lOVCAgICAgIE5PVCBOVUxMLAogIG5hbWUgICAgICAgICBWQVJDSEFSKDUwKSBOT1QgTlVMTCwKICBpbnN0YWxsX3R5cGUgRU5VTSAoJ0luc3RhbGwnLCAnVGFuaycsICdMb2FkaW5nJyksCiAgbm8gICAgICAgICAgIFRJTllJTlQgICAgIE5PVCBOVUxMLAogIGxkYXJfc3RhbmRhcmQgVkFSQ0hBUigyMDApLAogIGRlc2NyaXB0aW9uICBURVhULAogIEZPUkVJR04gS0VZIChmYWN0b3J5X2lkKSBSRUZFUkVOQ0VTIGZhY3RvcnkgKGlkKSwKICBGT1JFSUdOIEtFWSAodW5pdF9pZCkgUkVGRVJFTkNFUyB1bml0IChpZCkKKTsKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Q1JFQVRFIFRBQkxFIElGIE5PVCBFWElTVFMgdGFua19hcmVhCigKICBpZCAgICAgICAgICBCSUdJTlQgICAgICBOT1QgTlVMTCBBVVRPX0lOQ1JFTUVOVCBQUklNQVJZIEtFWSwKICBmYWN0b3J5X2lkICBJTlQgICAgICAgICBOT1QgTlVMTCwKICBuYW1lICAgICAgICBWQVJDSEFSKDUwKSBOT1QgTlVMTCwKICBkZXNjcmlwdGlvbiBURVhULAogIEZPUkVJR04gS0VZIChmYWN0b3J5X2lkKSBSRUZFUkVOQ0VTIGZhY3RvcnkgKGlkKQopOwoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIEhlbGxvV29ybGRDb250cm9sbGVyIHsKfQo=</text>
+        <text encoding="base64">Q1JFQVRFIFRBQkxFIElGIE5PVCBFWElTVFMgaW5zdGFsbAooCiAgaWQgICAgICAgICAgQklHSU5UICAgICAgTk9UIE5VTEwgQVVUT19JTkNSRU1FTlQgUFJJTUFSWSBLRVksCiAgZmFjdG9yeV9pZCAgSU5UICAgICAgICAgTk9UIE5VTEwsCiAgbmFtZSAgICAgICAgVkFSQ0hBUig1MCkgTk9UIE5VTEwsCiAgZGVzY3JpcHRpb24gVEVYVCwKICBGT1JFSUdOIEtFWSAoZmFjdG9yeV9pZCkgUkVGRVJFTkNFUyBmYWN0b3J5IChpZCkKKTsKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBzdGFuZGFyZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBSZXF1ZXN0TWFwcGluZygiL2hlbGxvIikKICAgIHB1YmxpYyBTdHJpbmcgaW5kZXgoKSB7CiAgICAgICAgcmV0dXJuICJIZWxsbyBXb3JsZCI7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAnSEVBVllfT0lMJywgJ0FWSUFUSU9OX0tFUk9TRU5FJywgJ1JFU0lEVUUnLCAnV0FYX09JTCcsICdSQUZGSU5BVEVfT0lMJywK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBSZXF1ZXN0TWFwcGluZygiL2hlbGxvIikK</text>
+        <text encoding="base64">ICBpbnN0YWxsX3R5cGUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QFJlc3RDb250cm9sbGVyCg==</text>
+        <text encoding="base64">ICBwcm92aW5jZSAgICAgICBWQVJDSEFSKDIwKSAgTk9UIE5VTEwsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBtYmcuamRiYy5kcml2ZXItbG9jYXRpb249L1VzZXJzL3l5cWlhbi8ubTIvcmVwb3NpdG9yeS9teXNxbC9teXNxbC1jb25uZWN0b3ItamF2YS81LjEuMzgvbXlzcWwtY29ubmVjdG9yLWphdmEtNS4xLjM4Lmphcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxjbGFzc1BhdGhFbnRyeSBsb2NhdGlvbj0iJHttYmcuamRiYy5kcml2ZXItbG9jYXRpb259Ii8+Cg==</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIEhlbGxvV29ybGRDb250cm9sbGVyIHsKfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action PreviousTab</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
-      <last-search>factory</last-search>
+      <last-search>area</last-search>
       <last-offset />
-      <last-pattern>factory</last-pattern>
+      <last-pattern>area</last-pattern>
       <last-replace>}</last-replace>
       <last-substitute encoding="base64">IH0=</last-substitute>
       <last-dir>1</last-dir>
@@ -2367,8 +2370,6 @@
     </search>
     <history>
       <history-search>
-        <entry>exports</entry>
-        <entry encoding="base64">XDxleHRyYWN0TGVzc1w+</entry>
         <entry>devtoo</entry>
         <entry encoding="base64">XDxjb21wb25lbnRzXD4=</entry>
         <entry>components-layout-demo-side</entry>
@@ -2387,6 +2388,8 @@
         <entry>properti</entry>
         <entry>com</entry>
         <entry>factory</entry>
+        <entry>enum</entry>
+        <entry>area</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1BhcnRzOiBcW1xdUGFydHsvL2dj</entry>
@@ -2406,9 +2409,9 @@
         <entry>w</entry>
         <entry>%s/components-layout-demo-side/App/gc</entry>
         <entry>q</entry>
-        <entry>action ReformatCode</entry>
         <entry>action NextTab</entry>
         <entry>action PreviousTab</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
