@@ -242,12 +242,12 @@
         <mark key="." line="24" column="76" />
         <mark key="^" line="122" column="63" />
       </file>
-      <file name="$USER_HOME$/workdir/code/voc-ui/src/data/forms.jsx" timestamp="1500617224250">
-        <mark key="'" line="20" column="13" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="34" column="9" />
-        <mark key="^" line="39" column="42" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/workdir/code/voc-ui/src/data/forms.jsx" timestamp="1500617922097">
+        <mark key="'" line="173" column="32" />
+        <mark key="[" line="187" column="27" />
+        <mark key="]" line="187" column="32" />
+        <mark key="^" line="187" column="32" />
+        <mark key="." line="187" column="32" />
       </file>
       <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/user.go" timestamp="1491643363039">
         <mark key="'" line="104" column="27" />
@@ -2095,12 +2095,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="131" column="0" filename="$USER_HOME$/workdir/web/now-antd/src/data.tsx" />
-      <jump line="150" column="0" filename="$USER_HOME$/workdir/web/now-antd/src/data.tsx" />
-      <jump line="11" column="7" filename="$USER_HOME$/workdir/web/now-antd/src/App.tsx" />
-      <jump line="80" column="0" filename="$USER_HOME$/workdir/web/now-antd/src/App.tsx" />
-      <jump line="33" column="52" filename="$USER_HOME$/workdir/web/now-antd/src/components/treePage.tsx" />
-      <jump line="2" column="31" filename="$USER_HOME$/workdir/web/lawindexer-ui/src/data/tables.tsx" />
       <jump line="31" column="0" filename="$USER_HOME$/sync/code/go/src/LawIndexer/models/law_test.go" />
       <jump line="60" column="32" filename="$USER_HOME$/sync/code/go/src/LawIndexer/models/law.go" />
       <jump line="32" column="0" filename="$USER_HOME$/sync/code/go/src/LawIndexer/models/model_test.go" />
@@ -2195,13 +2189,19 @@
       <jump line="0" column="0" filename="$USER_HOME$/workdir/code/clear/src/main/resources/tools/mybatisGenerator.properties" />
       <jump line="16" column="27" filename="$USER_HOME$/workdir/code/voc-ui/src/components/tank/FixedBase.jsx" />
       <jump line="126" column="0" filename="$USER_HOME$/workdir/code/voc-ui/src/now-antd-js/src/components/advancedTable.jsx" />
+      <jump line="28" column="8" filename="$USER_HOME$/workdir/code/voc-ui/src/data/forms.jsx" />
+      <jump line="54" column="32" filename="$USER_HOME$/workdir/code/voc-ui/src/data/forms.jsx" />
+      <jump line="115" column="32" filename="$USER_HOME$/workdir/code/voc-ui/src/data/forms.jsx" />
+      <jump line="128" column="32" filename="$USER_HOME$/workdir/code/voc-ui/src/data/forms.jsx" />
+      <jump line="159" column="32" filename="$USER_HOME$/workdir/code/voc-ui/src/data/forms.jsx" />
+      <jump line="173" column="32" filename="$USER_HOME$/workdir/code/voc-ui/src/data/forms.jsx" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVmcmVzaFNlYXJjaEZvcm06IHJhbmRvbVN0cigpCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBmaWVsZE9wdGlvbnM6IHsKICAgICAgICAgICAgcnVsZXM6IFsKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICByZXF1aXJlZDogdHJ1ZQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICBdCiAgICAgICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>float</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2308,10 +2308,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>³</text>
+        <text>float</text>
       </register>
       <register name="/" type="4">
-        <text>com</text>
+        <text>float</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBmaWVsZE9wdGlvbnM6IHsKICAgICAgICAgICAgcnVsZXM6IFsKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICByZXF1aXJlZDogdHJ1ZQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICBdCiAgICAgICAgfQo=</text>
@@ -2348,17 +2348,16 @@
       </register>
     </registers>
     <search>
-      <last-search>com</last-search>
+      <last-search>float</last-search>
       <last-offset />
-      <last-pattern>com</last-pattern>
+      <last-pattern>float</last-pattern>
       <last-replace>}</last-replace>
       <last-substitute encoding="base64">IH0=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>es2015</entry>
         <entry>exports</entry>
         <entry encoding="base64">XDxleHRyYWN0TGVzc1w+</entry>
         <entry>devtoo</entry>
@@ -2378,6 +2377,7 @@
         <entry>mysql</entry>
         <entry>properti</entry>
         <entry>com</entry>
+        <entry>float</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1BhcnRzOiBcW1xdUGFydHsvL2dj</entry>
