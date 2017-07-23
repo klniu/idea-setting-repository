@@ -979,6 +979,9 @@
         <mark key="^" line="216" column="44" />
         <mark key="." line="216" column="44" />
       </file>
+      <file name="$USER_HOME$/workdir/code/clear/src/main/java/com/cnvoc/clear/model/clear/FixedTankPeriod.java" timestamp="1500804733015">
+        <mark key="'" line="5" column="43" />
+      </file>
       <file name="$USER_HOME$/sync/code/go/src/LawIndexer/ic/ic.go" timestamp="1491390121231">
         <mark key="'" line="103" column="21" />
         <mark key="[" line="180" column="22" />
@@ -1264,9 +1267,9 @@
         <mark key="^" line="17" column="63" />
         <mark key="." line="17" column="63" />
       </file>
-      <file name="$USER_HOME$/workdir/code/clear/src/main/resources/tools/generatorConfig.xml" timestamp="1500696394122">
-        <mark key="[" line="57" column="46" />
-        <mark key="]" line="57" column="73" />
+      <file name="$USER_HOME$/workdir/code/clear/src/main/resources/tools/generatorConfig.xml" timestamp="1500804782572">
+        <mark key="[" line="57" column="28" />
+        <mark key="]" line="57" column="36" />
         <mark key="^" line="57" column="73" />
         <mark key="." line="57" column="73" />
       </file>
@@ -1950,7 +1953,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="52" filename="$USER_HOME$/workdir/web/now-antd/src/components/treePage.tsx" />
       <jump line="2" column="31" filename="$USER_HOME$/workdir/web/lawindexer-ui/src/data/tables.tsx" />
       <jump line="31" column="0" filename="$USER_HOME$/sync/code/go/src/LawIndexer/models/law_test.go" />
       <jump line="60" column="32" filename="$USER_HOME$/sync/code/go/src/LawIndexer/models/law.go" />
@@ -2050,13 +2052,14 @@
       <jump line="194" column="2" filename="$USER_HOME$/workdir/code/clear/src/main/resources/schema.sql" />
       <jump line="0" column="0" filename="$USER_HOME$/workdir/code/clear/src/main/resources/tools/generatorConfig.xml" />
       <jump line="33" column="12" filename="$USER_HOME$/workdir/code/clear/src/main/resources/tools/generatorConfig.xml" />
+      <jump line="5" column="43" filename="$USER_HOME$/workdir/code/clear/src/main/java/com/cnvoc/clear/model/clear/FixedTankPeriod.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVmcmVzaFNlYXJjaEZvcm06IHJhbmRvbVN0cigpCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>value=&quot;&quot;</text>
+        <text>rootClass</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2209,7 +2212,7 @@
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
