@@ -301,7 +301,7 @@
         <mark key="^" line="26" column="108" />
         <mark key="." line="26" column="108" />
       </file>
-      <file name="/a.sql" timestamp="1504507502346">
+      <file name="/a.sql" timestamp="1504509125687">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/sync/code/java/ProgrammingProjectList/003-CountVowels/src/CountVowels.java" timestamp="1474772524816">
@@ -714,6 +714,12 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="13" column="5" />
       </file>
+      <file name="$USER_HOME$/workdir/code/law/pom.xml" timestamp="1504510934598">
+        <mark key="'" line="17" column="22" />
+        <mark key="[" line="45" column="24" />
+        <mark key="]" line="45" column="53" />
+        <mark key="." line="43" column="0" />
+      </file>
       <file name="$USER_HOME$/workdir/web/now-antd/test/now-antd.test.ts" timestamp="1492744348713">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -819,6 +825,13 @@
         <mark key="." line="10" column="16" />
         <mark key="^" line="10" column="24" />
       </file>
+      <file name="$USER_HOME$/workdir/code/law/src/main/resources/application.properties" timestamp="1504508740778">
+        <mark key="'" line="31" column="76" />
+        <mark key="[" line="6" column="29" />
+        <mark key="]" line="6" column="33" />
+        <mark key="^" line="6" column="33" />
+        <mark key="." line="6" column="33" />
+      </file>
       <file name="$USER_HOME$/sync/code/go/src/mingerserver/robotserver/messages.go" timestamp="1489581043933">
         <mark key="'" line="40" column="5" />
         <mark key="[" line="68" column="0" />
@@ -870,11 +883,12 @@
         <mark key="." line="45" column="42" />
         <mark key="^" line="45" column="42" />
       </file>
-      <file name="$USER_HOME$/workdir/code/law/src/main/java/com/klniu/law/domain/Law.java" timestamp="1504494007040">
-        <mark key="[" line="23" column="33" />
-        <mark key="]" line="23" column="40" />
-        <mark key="." line="23" column="40" />
-        <mark key="^" line="23" column="40" />
+      <file name="$USER_HOME$/workdir/code/law/src/main/java/com/klniu/law/domain/Law.java" timestamp="1504510772896">
+        <mark key="'" line="136" column="1" />
+        <mark key="[" line="5" column="22" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="6" column="0" />
       </file>
       <file name="$USER_HOME$/sync/code/go/src/mingerserver/robotserver/robot.go" timestamp="1489582848440">
         <mark key="'" line="80" column="0" />
@@ -2161,9 +2175,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="150" column="0" filename="$USER_HOME$/workdir/web/now-antd/src/data.tsx" />
-      <jump line="11" column="7" filename="$USER_HOME$/workdir/web/now-antd/src/App.tsx" />
-      <jump line="80" column="0" filename="$USER_HOME$/workdir/web/now-antd/src/App.tsx" />
       <jump line="33" column="52" filename="$USER_HOME$/workdir/web/now-antd/src/components/treePage.tsx" />
       <jump line="2" column="31" filename="$USER_HOME$/workdir/web/lawindexer-ui/src/data/tables.tsx" />
       <jump line="31" column="0" filename="$USER_HOME$/sync/code/go/src/LawIndexer/models/law_test.go" />
@@ -2261,13 +2272,16 @@
       <jump line="147" column="23" filename="$USER_HOME$/workdir/code/voc-ui/src/now-antd-js/src/components/advancedTable.jsx" />
       <jump line="17" column="100" filename="$USER_HOME$/workdir/code/now-antd-js/src/components/SideModal.jsx" />
       <jump line="34" column="51" filename="$USER_HOME$/workdir/code/angularjs-springmvc-sample-boot-master/src/main/java/com/hantsylabs/restexample/springmvc/repository/UserSpecifications.java" />
+      <jump line="36" column="76" filename="$USER_HOME$/workdir/code/law/src/main/resources/application.properties" />
+      <jump line="134" column="1" filename="$USER_HOME$/workdir/code/law/src/main/java/com/klniu/law/domain/Law.java" />
+      <jump line="17" column="22" filename="$USER_HOME$/workdir/code/law/pom.xml" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVmcmVzaFNlYXJjaEZvcm06IHJhbmRvbVN0cigpCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>spring-boot-starter-validation</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2374,57 +2388,56 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>20</text>
       </register>
       <register name="/" type="4">
-        <text>com</text>
+        <text>session</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhUYW5rQmFzZUZpeGVkQ29sdW1ucykK</text>
+        <text encoding="base64">ICAgIEBDb2x1bW4obGVuZ3RoID0gMjApCiAgICBwcml2YXRlIFN0cmluZyBpbmR1c3RyeTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Owo=</text>
+        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yay5zZXNzaW9uPC9ncm91cElkPgoJCQk8YXJ0aWZhY3RJZD5zcHJpbmctc2Vzc2lvbjwvYXJ0aWZhY3RJZD4KCQk8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlkIExPTkcgUFJJTUFSWSBLRVkgTk9UIE5VTEwgQVVUT19JTkNSRU1FTlQK</text>
+        <text encoding="base64">ZW51bSBMYXdMZXZlbCB7QSwgQiwgQ30K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFBSSU1BUlkgS0VZZCAoaWQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlkIExPTkcgTk9UIE5VTEwgQVVUT19JTkNSRU1FTlQsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxldmVsIEVOVU0oJ0EnLCAnQicsICdDJyksCg==</text>
+        <text encoding="base64">YXBwLmRhdGFzb3VyY2UudXJsPWpkYmM6bXlzcWw6Ly9sb2NhbGhvc3QvbGF3cwphcHAuZGF0YXNvdXJjZS51c2VybmFtZT1rbG5pdQphcHAuZGF0YXNvdXJjZS5wYXNzd29yZD1rbG5pdQphcHAuZGF0YXNvdXJjZS5wb29sLXNpemU9MzAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBuYW1lIFZBUkNIQVIoMjU1KSBVTklRVUUgCg==</text>
+        <text encoding="base64">ICAgIGlkIExPTkcgUFJJTUFSWSBLRVkgTk9UIE5VTEwgQVVUT19JTkNSRU1FTlQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIFBSSU1BUlkgS0VZZCAoaWQpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y3JlYXRlIAo=</text>
+        <text encoding="base64">ICAgIGlkIExPTkcgTk9UIE5VTEwgQVVUT19JTkNSRU1FTlQsCg==</text>
       </register>
       <register name=":" type="4">
         <text>action PreviousTab</text>
       </register>
     </registers>
     <search>
-      <last-search>com</last-search>
+      <last-search>session</last-search>
       <last-offset />
-      <last-pattern>com</last-pattern>
+      <last-pattern>session</last-pattern>
       <last-replace>}</last-replace>
       <last-substitute encoding="base64">IH0=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>exports</entry>
         <entry encoding="base64">XDxleHRyYWN0TGVzc1w+</entry>
         <entry>devtoo</entry>
         <entry encoding="base64">XDxjb21wb25lbnRzXD4=</entry>
@@ -2444,6 +2457,7 @@
         <entry>properti</entry>
         <entry>com</entry>
         <entry>factory</entry>
+        <entry>session</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1BhcnRzOiBcW1xdUGFydHsvL2dj</entry>
