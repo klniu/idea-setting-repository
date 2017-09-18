@@ -320,7 +320,7 @@
         <mark key="^" line="26" column="108" />
         <mark key="." line="26" column="108" />
       </file>
-      <file name="/a.sql" timestamp="1505466167581">
+      <file name="/a.sql" timestamp="1505715614687">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/sync/code/java/ProgrammingProjectList/003-CountVowels/src/CountVowels.java" timestamp="1474772524816">
@@ -456,11 +456,11 @@
         <mark key="." line="32" column="0" />
         <mark key="^" line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/workdir/code/law/src/main/java/sql/schema.sql" timestamp="1505466678150">
-        <mark key="[" line="0" column="30" />
-        <mark key="]" line="0" column="30" />
-        <mark key="." line="0" column="30" />
-        <mark key="^" line="11" column="22" />
+      <file name="$USER_HOME$/workdir/code/law/src/main/java/sql/schema.sql" timestamp="1505715606617">
+        <mark key="[" line="5" column="10" />
+        <mark key="]" line="5" column="11" />
+        <mark key="." line="5" column="11" />
+        <mark key="^" line="5" column="9" />
       </file>
       <file name="$USER_HOME$/workdir/web/vocs-react/src/data/forms.tsx" timestamp="1499840831895">
         <mark key="'" line="1374" column="0" />
@@ -858,11 +858,11 @@
         <mark key="." line="10" column="16" />
         <mark key="^" line="10" column="24" />
       </file>
-      <file name="$USER_HOME$/workdir/code/law/src/main/resources/application.properties" timestamp="1505465616632">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
+      <file name="$USER_HOME$/workdir/code/law/src/main/resources/application.properties" timestamp="1505715017614">
+        <mark key="[" line="16" column="34" />
+        <mark key="]" line="16" column="34" />
         <mark key="^" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+        <mark key="." line="16" column="34" />
       </file>
       <file name="$USER_HOME$/sync/code/go/src/mingerserver/robotserver/messages.go" timestamp="1489581043933">
         <mark key="'" line="40" column="5" />
@@ -909,12 +909,12 @@
         <mark key="." line="45" column="42" />
         <mark key="^" line="45" column="42" />
       </file>
-      <file name="$USER_HOME$/workdir/code/law/src/main/java/com/klniu/law/domain/Law.java" timestamp="1505465761903">
-        <mark key="'" line="9" column="5" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="133" column="1" />
-        <mark key="^" line="6" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/workdir/code/law/src/main/java/com/klniu/law/domain/Law.java" timestamp="1505715705766">
+        <mark key="'" line="10" column="5" />
+        <mark key="[" line="6" column="17" />
+        <mark key="]" line="6" column="26" />
+        <mark key="^" line="6" column="26" />
+        <mark key="." line="6" column="26" />
       </file>
       <file name="$USER_HOME$/sync/code/go/src/mingerserver/robotserver/robot.go" timestamp="1489582848440">
         <mark key="'" line="80" column="0" />
@@ -1011,6 +1011,11 @@
         <mark key="]" line="13" column="4" />
         <mark key="." line="13" column="4" />
         <mark key="^" line="13" column="4" />
+      </file>
+      <file name="$USER_HOME$/workdir/code/law/src/main/resources/mapper/LawsMapper.xml" timestamp="1505715457060">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/workdir/web/vocs-react/src/components/searchForm.tsx" timestamp="1490776138142">
         <mark key="'" line="120" column="0" />
@@ -2058,6 +2063,7 @@
         <mark key="." line="26" column="17" />
         <mark key="^" line="26" column="17" />
       </file>
+      <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/model_test.go" timestamp="1505713077707" />
       <file name="$USER_HOME$/sync/code/go/src/spiders/pholcus_lib/chinalaw.go" timestamp="1490274857998">
         <mark key="'" line="78" column="39" />
         <mark key="[" line="81" column="20" />
@@ -2337,7 +2343,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVmcmVzaFNlYXJjaEZvcm06IHJhbmRvbVN0cigpCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>extends</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2444,7 +2450,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>extends</text>
       </register>
       <register name="/" type="4">
         <text>druid</text>
@@ -2453,31 +2459,31 @@
         <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLmFsaWJhYmE8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmRydWlkPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4xLjAuMTE8L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICA8cmVzdWx0TWFwIGlkPSJCYXNlUmVzdWx0TWFwIiB0eXBlPSJjb20ua2xuaXUubGF3LmRvbWFpbi5MYXdzIj4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLmFsaWJhYmE8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmRydWlkLXNwcmluZy1ib290LXN0YXJ0ZXI8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjEuMS4wPC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">ICAgIDwhLQogICAgICBXQVJOSU5HIC0gQG1iZy5nZW5lcmF0ZWQKICAgIC0tPgogICAgPGlkIGNvbHVtbj0iaWQiIGpkYmNUeXBlPSJJTlRFR0VSIiBwcm9wZXJ0eT0iaWQiIC8+CiAgICA8cmVzdWx0IGNvbHVtbj0ibmFtZSIgamRiY1R5cGU9IlZBUkNIQVIiIHByb3BlcnR5PSJuYW1lIiAvPgogICAgPHJlc3VsdCBjb2x1bW49ImxldmVsIiBqZGJjVHlwZT0iQ0hBUiIgcHJvcGVydHk9ImxldmVsIiAvPgogICAgPHJlc3VsdCBjb2x1bW49InJlZmVyTnVtYmVyIiBqZGJjVHlwZT0iVkFSQ0hBUiIgcHJvcGVydHk9InJlZmVybnVtYmVyIiAvPgogICAgPHJlc3VsdCBjb2x1bW49InB1Ymxpc2hpbmdEZXBhcnRtZW50IiBqZGJjVHlwZT0iVkFSQ0hBUiIgcHJvcGVydHk9InB1Ymxpc2hpbmdkZXBhcnRtZW50IiAvPgogICAgPHJlc3VsdCBjb2x1bW49ImVuZm9yY2VtZW50RGF0ZSIgamRiY1R5cGU9IkRBVEUiIHByb3BlcnR5PSJlbmZvcmNlbWVudGRhdGUiIC8+CiAgICA8cmVzdWx0IGNvbHVtbj0ic3RhdGUiIGpkYmNUeXBlPSJCSVQiIHByb3BlcnR5PSJzdGF0ZSIgLz4KICAgIDxyZXN1bHQgY29sdW1uPSJwcm9qZWN0IiBqZGJjVHlwZT0iVkFSQ0hBUiIgcHJvcGVydHk9InByb2plY3QiIC8+CiAgICA8cmVzdWx0IGNvbHVtbj0ibWFuYWdlbWVudCIgamRiY1R5cGU9IlZBUkNIQVIiIHByb3BlcnR5PSJtYW5hZ2VtZW50IiAvPgogICAgPHJlc3VsdCBjb2x1bW49ImluZHVzdHJ5IiBqZGJjVHlwZT0iVkFSQ0hBUiIgcHJvcGVydHk9ImluZHVzdHJ5IiAvPgogICAgPHJlc3VsdCBjb2x1bW49ImF0dGFjaFBhdGgiIGpkYmNUeXBlPSJMT05HVkFSQ0hBUiIgcHJvcGVydHk9ImF0dGFjaHBhdGgiIC8+CiAgPC9yZXN1bHRNYXA+CiAgPHJlc3VsdE1hcCBpZD0iQmFzZVJlc3VsdE1hcCIgdHlwZT0iY29tLmtsbml1Lmxhdy5kb21haW4uTGF3cyI+CiAgICA8IS0tCiAgICAgIFdBUk5JTkcgLSBAbWJnLmdlbmVyYXRlZAogICAgLS0+CiAgICA8aWQgY29sdW1uPSJpZCIgamRiY1R5cGU9IklOVEVHRVIiIHByb3BlcnR5PSJpZCIgLz4KICAgIDxyZXN1bHQgY29sdW1uPSJuYW1lIiBqZGJjVHlwZT0iVkFSQ0hBUiIgcHJvcGVydHk9Im5hbWUiIC8+CiAgICA8cmVzdWx0IGNvbHVtbj0ibGV2ZWwiIGpkYmNUeXBlPSJDSEFSIiBwcm9wZXJ0eT0ibGV2ZWwiIC8+CiAgICA8cmVzdWx0IGNvbHVtbj0icmVmZXJOdW1iZXIiIGpkYmNUeXBlPSJWQVJDSEFSIiBwcm9wZXJ0eT0icmVmZXJudW1iZXIiIC8+CiAgICA8cmVzdWx0IGNvbHVtbj0icHVibGlzaGluZ0RlcGFydG1lbnQiIGpkYmNUeXBlPSJWQVJDSEFSIiBwcm9wZXJ0eT0icHVibGlzaGluZ2RlcGFydG1lbnQiIC8+CiAgICA8cmVzdWx0IGNvbHVtbj0iZW5mb3JjZW1lbnREYXRlIiBqZGJjVHlwZT0iREFURSIgcHJvcGVydHk9ImVuZm9yY2VtZW50ZGF0ZSIgLz4KICAgIDxyZXN1bHQgY29sdW1uPSJzdGF0ZSIgamRiY1R5cGU9IkJJVCIgcHJvcGVydHk9InN0YXRlIiAvPgogICAgPHJlc3VsdCBjb2x1bW49InByb2plY3QiIGpkYmNUeXBlPSJWQVJDSEFSIiBwcm9wZXJ0eT0icHJvamVjdCIgLz4KICAgIDxyZXN1bHQgY29sdW1uPSJtYW5hZ2VtZW50IiBqZGJjVHlwZT0iVkFSQ0hBUiIgcHJvcGVydHk9Im1hbmFnZW1lbnQiIC8+CiAgICA8cmVzdWx0IGNvbHVtbj0iaW5kdXN0cnkiIGpkYmNUeXBlPSJWQVJDSEFSIiBwcm9wZXJ0eT0iaW5kdXN0cnkiIC8+CiAgICA8cmVzdWx0IGNvbHVtbj0iYXR0YWNoUGF0aCIgamRiY1R5cGU9IkxPTkdWQVJDSEFSIiBwcm9wZXJ0eT0iYXR0YWNocGF0aCIgLz4KICA8L3Jlc3VsdE1hcD4K</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLmFsaWJhYmE8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmRydWlkPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4xLjEuMzwvdmVyc2lvbj4KICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBASW5kZXgobmFtZSA9ICJsYXdzX25hbWVfdWluZGV4IiwgY29sdW1uTGlzdCA9ICJuYW1lIiwgdW5pcXVlID0gdHJ1ZSl9KQo=</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLmFsaWJhYmE8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmRydWlkLXNwcmluZy1ib290LXN0YXJ0ZXI8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjEuMS4wPC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QEVudGl0eQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QFRhYmxlKG5hbWU9Imxhd3MiLCBpbmRleGVzID0gewo=</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLmFsaWJhYmE8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmRydWlkPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4xLjEuMzwvdmVyc2lvbj4KICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBteWJhdGlzIOmFjee9rgo=</text>
+        <text encoding="base64">ICAgICAgICBASW5kZXgobmFtZSA9ICJsYXdzX25hbWVfdWluZGV4IiwgY29sdW1uTGlzdCA9ICJuYW1lIiwgdW5pcXVlID0gdHJ1ZSl9KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bXliYXRpcy50eXBlLWFsaWFzZXMtcGFja2FnZT10ay5teWJhdGlzLnNwcmluZ2Jvb3QubW9kZWwKbXliYXRpcy5tYXBwZXItbG9jYXRpb25zPWNsYXNzcGF0aDptYXBwZXIvKi54bWwK</text>
+        <text encoding="base64">QEVudGl0eQo=</text>
       </register>
       <register name=":" type="4">
         <text>action NextTab</text>
@@ -2490,7 +2496,7 @@
       <last-replace>}</last-replace>
       <last-substitute encoding="base64">IH0=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
