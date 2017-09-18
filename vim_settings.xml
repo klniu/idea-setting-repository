@@ -232,10 +232,12 @@
         <mark key="^" line="14" column="31" />
         <mark key="." line="14" column="31" />
       </file>
-      <file name="$USER_HOME$/code/example/MyBatis-Spring-Boot/src/main/resources/generator/generatorConfig.xml" timestamp="1505465149934">
+      <file name="$USER_HOME$/code/example/MyBatis-Spring-Boot/src/main/resources/generator/generatorConfig.xml" timestamp="1505720098203">
         <mark key="'" line="16" column="46" />
-        <mark key="[" line="16" column="39" />
-        <mark key="]" line="16" column="56" />
+        <mark key="[" line="22" column="113" />
+        <mark key="]" line="22" column="121" />
+        <mark key="^" line="22" column="121" />
+        <mark key="." line="22" column="121" />
       </file>
       <file name="$USER_HOME$/sync/code/Android/HaiHuanLDAR/app/src/main/java/com/cnvoc/haihuanldar/view/PreviewFragment.java" timestamp="1495607461413">
         <mark key="'" line="154" column="67" />
@@ -315,7 +317,8 @@
         <mark key="^" line="32" column="45" />
         <mark key="." line="32" column="44" />
       </file>
-      <file name="$USER_HOME$/code/example/MyBatis-Spring-Boot/pom.xml" timestamp="1505466010290">
+      <file name="$USER_HOME$/code/example/MyBatis-Spring-Boot/pom.xml" timestamp="1505719192729">
+        <mark key="'" line="94" column="0" />
         <mark key="[" line="101" column="0" />
         <mark key="]" line="101" column="0" />
         <mark key="." line="101" column="0" />
@@ -949,7 +952,7 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="119" column="9" />
       </file>
-      <file name="/fragment.java" timestamp="1505463947043">
+      <file name="/fragment.java" timestamp="1505719878861">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1011,6 +1014,9 @@
         <mark key="]" line="16" column="24" />
         <mark key="." line="16" column="24" />
         <mark key="^" line="16" column="24" />
+      </file>
+      <file name="$USER_HOME$/code/example/MyBatis-Spring-Boot/src/main/java/tk/mybatis/springboot/service/CityService.java" timestamp="1505719522643">
+        <mark key="'" line="46" column="42" />
       </file>
       <file name="$USER_HOME$/workdir/web/now-antd/src/App.css" timestamp="1495525973230">
         <mark key="[" line="3" column="12" />
@@ -1611,6 +1617,11 @@
         <mark key="." line="14" column="27" />
         <mark key="^" line="14" column="27" />
       </file>
+      <file name="$USER_HOME$/workdir/code/law/src/main/java/com/klniu/law/domain/BaseEntity.java" timestamp="1505720610136">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+      </file>
       <file name="$USER_HOME$/workdir/code/now-antd-js/src/App.js" timestamp="1500347563563">
         <mark key="'" line="81" column="0" />
         <mark key="[" line="81" column="0" />
@@ -2004,12 +2015,12 @@
         <mark key="." line="197" column="38" />
         <mark key="^" line="197" column="38" />
       </file>
-      <file name="$USER_HOME$/workdir/code/law/src/main/resources/generator/generatorConfig.xml" timestamp="1505466498427">
+      <file name="$USER_HOME$/workdir/code/law/src/main/resources/generator/generatorConfig.xml" timestamp="1505720243657">
         <mark key="'" line="16" column="39" />
-        <mark key="[" line="6" column="37" />
-        <mark key="]" line="6" column="40" />
-        <mark key="." line="6" column="40" />
-        <mark key="^" line="6" column="40" />
+        <mark key="[" line="23" column="78" />
+        <mark key="]" line="23" column="80" />
+        <mark key="." line="23" column="80" />
+        <mark key="^" line="23" column="80" />
       </file>
       <file name="$USER_HOME$/workdir/code/voc-ui/src/components/dashboard/Dashboard.jsx" timestamp="1498898961322">
         <mark key="'" line="157" column="0" />
@@ -2250,8 +2261,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="0" filename="$USER_HOME$/sync/code/go/src/LawIndexer/models/functions.go" />
-      <jump line="246" column="34" filename="$USER_HOME$/sync/code/go/src/LawIndexer/models/law.go" />
       <jump line="5" column="15" filename="$USER_HOME$/workdir/code/now-antd-js/src/components/BasicTable.jsx" />
       <jump line="88" column="24" filename="$USER_HOME$/workdir/code/now-antd-js/src/components/BasicTable.jsx" />
       <jump line="79" column="24" filename="$USER_HOME$/workdir/code/now-antd-js/src/components/advancedTable.jsx" />
@@ -2350,13 +2359,15 @@
       <jump line="0" column="13" filename="$USER_HOME$/code/example/MyBatis-Spring-Boot/src/main/resources/application.properties" />
       <jump line="9" column="5" filename="$USER_HOME$/workdir/code/law/src/main/java/com/klniu/law/domain/Law.java" />
       <jump line="16" column="39" filename="$USER_HOME$/workdir/code/law/src/main/resources/generator/generatorConfig.xml" />
+      <jump line="94" column="0" filename="$USER_HOME$/code/example/MyBatis-Spring-Boot/pom.xml" />
+      <jump line="46" column="42" filename="$USER_HOME$/code/example/MyBatis-Spring-Boot/src/main/java/tk/mybatis/springboot/service/CityService.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVmcmVzaFNlYXJjaEZvcm06IHJhbmRvbVN0cigpCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>lawMapper</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEBDb2x1bW4obmFtZSA9ICJpZCIpCg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2463,37 +2474,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>lawMapper</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>druid</text>
+        <text>root</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLmFsaWJhYmE8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmRydWlkPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4xLjAuMTE8L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5rbG5pdS5sYXcubWFwcGVyLkxhd01hcHBlcjsK</text>
+        <text encoding="base64">ICAgIEBDb2x1bW4obmFtZSA9ICJpZCIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW50ZXJmYWNlCg==</text>
+        <text encoding="base64">ICogQHNpbmNlIDIwMTYtMDEtMzEgMjE6NDIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICA8cmVzdWx0TWFwIGlkPSJCYXNlUmVzdWx0TWFwIiB0eXBlPSJjb20ua2xuaXUubGF3LmRvbWFpbi5MYXdzIj4K</text>
+        <text encoding="base64">ICogQGF1dGhvciBsaXV6aAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDwhLQogICAgICBXQVJOSU5HIC0gQG1iZy5nZW5lcmF0ZWQKICAgIC0tPgogICAgPGlkIGNvbHVtbj0iaWQiIGpkYmNUeXBlPSJJTlRFR0VSIiBwcm9wZXJ0eT0iaWQiIC8+CiAgICA8cmVzdWx0IGNvbHVtbj0ibmFtZSIgamRiY1R5cGU9IlZBUkNIQVIiIHByb3BlcnR5PSJuYW1lIiAvPgogICAgPHJlc3VsdCBjb2x1bW49ImxldmVsIiBqZGJjVHlwZT0iQ0hBUiIgcHJvcGVydHk9ImxldmVsIiAvPgogICAgPHJlc3VsdCBjb2x1bW49InJlZmVyTnVtYmVyIiBqZGJjVHlwZT0iVkFSQ0hBUiIgcHJvcGVydHk9InJlZmVybnVtYmVyIiAvPgogICAgPHJlc3VsdCBjb2x1bW49InB1Ymxpc2hpbmdEZXBhcnRtZW50IiBqZGJjVHlwZT0iVkFSQ0hBUiIgcHJvcGVydHk9InB1Ymxpc2hpbmdkZXBhcnRtZW50IiAvPgogICAgPHJlc3VsdCBjb2x1bW49ImVuZm9yY2VtZW50RGF0ZSIgamRiY1R5cGU9IkRBVEUiIHByb3BlcnR5PSJlbmZvcmNlbWVudGRhdGUiIC8+CiAgICA8cmVzdWx0IGNvbHVtbj0ic3RhdGUiIGpkYmNUeXBlPSJCSVQiIHByb3BlcnR5PSJzdGF0ZSIgLz4KICAgIDxyZXN1bHQgY29sdW1uPSJwcm9qZWN0IiBqZGJjVHlwZT0iVkFSQ0hBUiIgcHJvcGVydHk9InByb2plY3QiIC8+CiAgICA8cmVzdWx0IGNvbHVtbj0ibWFuYWdlbWVudCIgamRiY1R5cGU9IlZBUkNIQVIiIHByb3BlcnR5PSJtYW5hZ2VtZW50IiAvPgogICAgPHJlc3VsdCBjb2x1bW49ImluZHVzdHJ5IiBqZGJjVHlwZT0iVkFSQ0hBUiIgcHJvcGVydHk9ImluZHVzdHJ5IiAvPgogICAgPHJlc3VsdCBjb2x1bW49ImF0dGFjaFBhdGgiIGpkYmNUeXBlPSJMT05HVkFSQ0hBUiIgcHJvcGVydHk9ImF0dGFjaHBhdGgiIC8+CiAgPC9yZXN1bHRNYXA+CiAgPHJlc3VsdE1hcCBpZD0iQmFzZVJlc3VsdE1hcCIgdHlwZT0iY29tLmtsbml1Lmxhdy5kb21haW4uTGF3cyI+CiAgICA8IS0tCiAgICAgIFdBUk5JTkcgLSBAbWJnLmdlbmVyYXRlZAogICAgLS0+CiAgICA8aWQgY29sdW1uPSJpZCIgamRiY1R5cGU9IklOVEVHRVIiIHByb3BlcnR5PSJpZCIgLz4KICAgIDxyZXN1bHQgY29sdW1uPSJuYW1lIiBqZGJjVHlwZT0iVkFSQ0hBUiIgcHJvcGVydHk9Im5hbWUiIC8+CiAgICA8cmVzdWx0IGNvbHVtbj0ibGV2ZWwiIGpkYmNUeXBlPSJDSEFSIiBwcm9wZXJ0eT0ibGV2ZWwiIC8+CiAgICA8cmVzdWx0IGNvbHVtbj0icmVmZXJOdW1iZXIiIGpkYmNUeXBlPSJWQVJDSEFSIiBwcm9wZXJ0eT0icmVmZXJudW1iZXIiIC8+CiAgICA8cmVzdWx0IGNvbHVtbj0icHVibGlzaGluZ0RlcGFydG1lbnQiIGpkYmNUeXBlPSJWQVJDSEFSIiBwcm9wZXJ0eT0icHVibGlzaGluZ2RlcGFydG1lbnQiIC8+CiAgICA8cmVzdWx0IGNvbHVtbj0iZW5mb3JjZW1lbnREYXRlIiBqZGJjVHlwZT0iREFURSIgcHJvcGVydHk9ImVuZm9yY2VtZW50ZGF0ZSIgLz4KICAgIDxyZXN1bHQgY29sdW1uPSJzdGF0ZSIgamRiY1R5cGU9IkJJVCIgcHJvcGVydHk9InN0YXRlIiAvPgogICAgPHJlc3VsdCBjb2x1bW49InByb2plY3QiIGpkYmNUeXBlPSJWQVJDSEFSIiBwcm9wZXJ0eT0icHJvamVjdCIgLz4KICAgIDxyZXN1bHQgY29sdW1uPSJtYW5hZ2VtZW50IiBqZGJjVHlwZT0iVkFSQ0hBUiIgcHJvcGVydHk9Im1hbmFnZW1lbnQiIC8+CiAgICA8cmVzdWx0IGNvbHVtbj0iaW5kdXN0cnkiIGpkYmNUeXBlPSJWQVJDSEFSIiBwcm9wZXJ0eT0iaW5kdXN0cnkiIC8+CiAgICA8cmVzdWx0IGNvbHVtbj0iYXR0YWNoUGF0aCIgamRiY1R5cGU9IkxPTkdWQVJDSEFSIiBwcm9wZXJ0eT0iYXR0YWNocGF0aCIgLz4KICA8L3Jlc3VsdE1hcD4K</text>
+        <text encoding="base64">ICoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICog5Z+656GA5L+h5oGvCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLmFsaWJhYmE8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmRydWlkLXNwcmluZy1ib290LXN0YXJ0ZXI8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjEuMS4wPC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5rbG5pdS5sYXcubWFwcGVyLkxhd01hcHBlcjsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -2503,18 +2514,16 @@
       </register>
     </registers>
     <search>
-      <last-search>druid</last-search>
+      <last-search>root</last-search>
       <last-offset />
-      <last-pattern>druid</last-pattern>
+      <last-pattern>root</last-pattern>
       <last-replace>}</last-replace>
       <last-substitute encoding="base64">IH0=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>components-layout-demo-side</entry>
-        <entry encoding="base64">XDx0aGVtZVw+</entry>
         <entry>less</entry>
         <entry>consoe</entry>
         <entry>modal</entry>
@@ -2533,6 +2542,8 @@
         <entry>hiber</entry>
         <entry>mybatis</entry>
         <entry>druid</entry>
+        <entry>page</entry>
+        <entry>root</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1BhcnRzOiBcW1xdUGFydHsvL2dj</entry>
