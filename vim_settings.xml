@@ -148,10 +148,10 @@
         <mark key="." line="9" column="60" />
         <mark key="^" line="9" column="70" />
       </file>
-      <file name="$USER_HOME$/workdir/code/law/src/main/java/com/klniu/law/LawApplication.java" timestamp="1506474932993">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="8" column="49" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/workdir/code/law/src/main/java/com/klniu/law/LawApplication.java" timestamp="1506477247977">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/workdir/code/law/src/main/resources/sql/test.sql" timestamp="1505983928632">
         <mark key="[" line="2" column="87" />
@@ -756,7 +756,7 @@
         <mark key="." line="1" column="19" />
         <mark key="^" line="1" column="19" />
       </file>
-      <file name="/dummy.sql" timestamp="1506475809718">
+      <file name="/dummy.sql" timestamp="1506477731636">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workdir/react-components/src/styles/user.css" timestamp="1491717147991">
@@ -1865,12 +1865,11 @@
         <mark key="." line="2" column="63" />
         <mark key="^" line="2" column="63" />
       </file>
-      <file name="$USER_HOME$/workdir/code/law/src/test/java/com/klniu/law/service/impl/LawServiceImplTest.java" timestamp="1506475855555">
+      <file name="$USER_HOME$/workdir/code/law/src/test/java/com/klniu/law/service/impl/LawServiceImplTest.java" timestamp="1506477674139">
         <mark key="'" line="90" column="0" />
-        <mark key="[" line="40" column="38" />
-        <mark key="]" line="40" column="38" />
-        <mark key="^" line="40" column="38" />
-        <mark key="." line="40" column="38" />
+        <mark key="[" line="27" column="10" />
+        <mark key="]" line="27" column="10" />
+        <mark key="." line="27" column="10" />
       </file>
       <file name="$USER_HOME$/workdir/lawindexer-ui/src/entry/user.tsx" timestamp="1491699942633">
         <mark key="'" line="24" column="4" />
@@ -2195,7 +2194,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>tablename</text>
+        <text>/</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2302,7 +2301,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>tablename</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>mapper</text>
@@ -2311,37 +2310,31 @@
         <text encoding="base64">QFJ1bldpdGgoU3ByaW5nUnVubmVyLmNsYXNzKQpAU3ByaW5nQm9vdFRlc3QKQEltcG9ydChMYXdBcHBsaWNhdGlvbi5jbGFzcykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdC5hdXRvY29uZmlndXJlLlNwcmluZ0Jvb3RBcHBsaWNhdGlvbjsK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLnNlcnZsZXQuY29uZmlnLmFubm90YXRpb24uRW5hYmxlV2ViTXZjOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QFNwcmluZ0Jvb3RBcHBsaWNhdGlvbgpATWFwcGVyU2NhbihiYXNlUGFja2FnZXMgPSAiY29tLmtsbml1Lmxhdy5tYXBwZXIiKQo=</text>
+        <text encoding="base64">ICAgIC8vQFNxbCgic3FsL2NsZWFyLnNxbCIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QEVuYWJsZVdlYk12Ywo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdC5hdXRvY29uZmlndXJlLlNwcmluZ0Jvb3RBcHBsaWNhdGlvbjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QEVuYWJsZVdlYk12Ywo=</text>
+        <text encoding="base64">QFNwcmluZ0Jvb3RBcHBsaWNhdGlvbgpATWFwcGVyU2NhbihiYXNlUGFja2FnZXMgPSAiY29tLmtsbml1Lmxhdy5tYXBwZXIiKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QEVuYWJsZVdlYk12Ywo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmFmeC5hcHBsaWNhdGlvbi5BcHBsaWNhdGlvbjsK</text>
+        <text encoding="base64">QEVuYWJsZVdlYk12Ywo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuaHR0cC5SZXNwb25zZUVudGl0eTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuaHR0cC5IdHRwU3RhdHVzOwo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmFmeC5hcHBsaWNhdGlvbi5BcHBsaWNhdGlvbjsK</text>
       </register>
-      <register name="9" type="8">
-        <text>get(0).
-get(0).
-get(0).
-get(0).
-get(0).
-get(0).
-get(0).</text>
+      <register name="9" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuaHR0cC5SZXNwb25zZUVudGl0eTsK</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
