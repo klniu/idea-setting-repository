@@ -148,9 +148,9 @@
         <mark key="." line="9" column="60" />
         <mark key="^" line="9" column="70" />
       </file>
-      <file name="$USER_HOME$/workdir/code/law/src/main/java/com/klniu/law/LawApplication.java" timestamp="1506474272302">
+      <file name="$USER_HOME$/workdir/code/law/src/main/java/com/klniu/law/LawApplication.java" timestamp="1506474932993">
         <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
+        <mark key="]" line="8" column="49" />
         <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/workdir/code/law/src/main/resources/sql/test.sql" timestamp="1505983928632">
@@ -248,9 +248,9 @@
         <mark key="." line="12" column="43" />
         <mark key="^" line="12" column="42" />
       </file>
-      <file name="$USER_HOME$/workdir/code/law/src/test/java/com/klniu/law/LawApplicationTests.java" timestamp="1506415071368">
-        <mark key="[" line="10" column="8" />
-        <mark key="]" line="10" column="21" />
+      <file name="$USER_HOME$/workdir/code/law/src/test/java/com/klniu/law/LawApplicationTests.java" timestamp="1506474953766">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="10" column="28" />
         <mark key="^" line="10" column="21" />
         <mark key="." line="10" column="21" />
       </file>
@@ -750,11 +750,14 @@
         <mark key="." line="47" column="0" />
         <mark key="^" line="42" column="47" />
       </file>
-      <file name="$USER_HOME$/workdir/code/law/src/main/resources/sql/clear.sql" timestamp="1506328772655">
-        <mark key="[" line="1" column="40" />
-        <mark key="]" line="1" column="40" />
-        <mark key="." line="1" column="40" />
-        <mark key="^" line="1" column="40" />
+      <file name="$USER_HOME$/workdir/code/law/src/main/resources/sql/clear.sql" timestamp="1506475844836">
+        <mark key="[" line="1" column="12" />
+        <mark key="]" line="1" column="19" />
+        <mark key="." line="1" column="19" />
+        <mark key="^" line="1" column="19" />
+      </file>
+      <file name="/dummy.sql" timestamp="1506475809718">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workdir/react-components/src/styles/user.css" timestamp="1491717147991">
         <mark key="[" line="6" column="1" />
@@ -1862,12 +1865,12 @@
         <mark key="." line="2" column="63" />
         <mark key="^" line="2" column="63" />
       </file>
-      <file name="$USER_HOME$/workdir/code/law/src/test/java/com/klniu/law/service/impl/LawServiceImplTest.java" timestamp="1506328840134">
-        <mark key="'" line="82" column="0" />
-        <mark key="[" line="61" column="25" />
-        <mark key="]" line="61" column="25" />
-        <mark key="." line="61" column="25" />
-        <mark key="^" line="24" column="22" />
+      <file name="$USER_HOME$/workdir/code/law/src/test/java/com/klniu/law/service/impl/LawServiceImplTest.java" timestamp="1506475855555">
+        <mark key="'" line="90" column="0" />
+        <mark key="[" line="40" column="38" />
+        <mark key="]" line="40" column="38" />
+        <mark key="^" line="40" column="38" />
+        <mark key="." line="40" column="38" />
       </file>
       <file name="$USER_HOME$/workdir/lawindexer-ui/src/entry/user.tsx" timestamp="1491699942633">
         <mark key="'" line="24" column="4" />
@@ -2171,11 +2174,28 @@
       <jump line="50" column="31" filename="$USER_HOME$/code/example/MyBatis-Spring-Boot/src/test/java/tk/mybatis/springboot/mapper/MyBatis331Test.java" />
     </jumps>
     <registers>
-      <register name="a" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVmcmVzaFNlYXJjaEZvcm06IHJhbmRvbVN0cigpCg==</text>
+      <register name="a" type="4">
+        <keys>
+          <key char="94" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="40" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="41" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+        </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">QEVuYWJsZVdlYk12Ywo=</text>
+      <register name="&quot;" type="4">
+        <text>tablename</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2282,33 +2302,39 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>springboot</text>
+        <text>tablename</text>
       </register>
       <register name="/" type="4">
         <text>mapper</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUcnVlKGxhd0xpc3QuZ2V0KDApLmdldElkKCkgPj0gMSk7CiAgICAgICAgYXNzZXJ0RXF1YWxzKGxhd0xpc3QuZ2V0KDApLmdldE5hbWUoKSwgIuWuquazlSIpOwogICAgICAgIGFzc2VydEVxdWFscyhsYXdMaXN0LmdldCgwKS5nZXRMZXZlbCgpLCAiQSIpOwogICAgICAgIGFzc2VydEVxdWFscyhsYXdMaXN0LmdldCgwKS5nZXRSZWZlck51bWJlcigpLCAiMDAxIik7CiAgICAgICAgYXNzZXJ0RXF1YWxzKGxhd0xpc3QuZ2V0KDApLmdldFB1Ymxpc2hpbmdEZXBhcnRtZW50KCksICLlm73liqHpmaIiKTsKICAgICAgICBhc3NlcnRFcXVhbHMobGF3TGlzdC5nZXQoMCkuZ2V0RW5mb3JjZW1lbnREYXRlKCksIExvY2FsRGF0ZS5vZigxOTQ5LCAxLCAxKSk7CiAgICAgICAgYXNzZXJ0RXF1YWxzKGxhd0xpc3QuZ2V0KDApLmdldFN0YXRlKCksIHRydWUpOwogICAgICAgIGFzc2VydEVxdWFscyhsYXdMaXN0LmdldCgwKS5nZXRQcm9qZWN0KCksICIiKTsK</text>
+        <text encoding="base64">QFJ1bldpdGgoU3ByaW5nUnVubmVyLmNsYXNzKQpAU3ByaW5nQm9vdFRlc3QKQEltcG9ydChMYXdBcHBsaWNhdGlvbi5jbGFzcykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QEVuYWJsZVdlYk12Ywo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdC5hdXRvY29uZmlndXJlLlNwcmluZ0Jvb3RBcHBsaWNhdGlvbjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QEVuYWJsZVdlYk12Ywo=</text>
+        <text encoding="base64">QFNwcmluZ0Jvb3RBcHBsaWNhdGlvbgpATWFwcGVyU2NhbihiYXNlUGFja2FnZXMgPSAiY29tLmtsbml1Lmxhdy5tYXBwZXIiKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QEVuYWJsZVdlYk12Ywo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmFmeC5hcHBsaWNhdGlvbi5BcHBsaWNhdGlvbjsK</text>
+        <text encoding="base64">QEVuYWJsZVdlYk12Ywo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuaHR0cC5SZXNwb25zZUVudGl0eTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmFmeC5hcHBsaWNhdGlvbi5BcHBsaWNhdGlvbjsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuaHR0cC5SZXNwb25zZUVudGl0eTsK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuaHR0cC5IdHRwU3RhdHVzOwo=</text>
       </register>
-      <register name="7" type="8">
+      <register name="9" type="8">
         <text>get(0).
 get(0).
 get(0).
@@ -2317,20 +2343,8 @@ get(0).
 get(0).
 get(0).</text>
       </register>
-      <register name="8" type="8">
-        <text>List
-List
-List
-List
-List
-List
-List</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name=":" type="4">
-        <text>action PreviousTab</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
@@ -2383,9 +2397,9 @@ List</text>
         <entry>w</entry>
         <entry>%s/components-layout-demo-side/App/gc</entry>
         <entry>q</entry>
-        <entry>action ReformatCode</entry>
         <entry>action NextTab</entry>
         <entry>action PreviousTab</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
