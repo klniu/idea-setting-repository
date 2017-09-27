@@ -756,7 +756,7 @@
         <mark key="." line="1" column="19" />
         <mark key="^" line="1" column="19" />
       </file>
-      <file name="/dummy.sql" timestamp="1506480529768">
+      <file name="/dummy.sql" timestamp="1506482527640">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workdir/react-components/src/styles/user.css" timestamp="1491717147991">
@@ -764,6 +764,9 @@
         <mark key="]" line="6" column="1" />
         <mark key="." line="6" column="1" />
         <mark key="^" line="8" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1506482647504">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/sync/code/java/livesim/src/main/java/Action.java" timestamp="1479429714271">
         <mark key="[" line="9" column="27" />
@@ -1865,12 +1868,12 @@
         <mark key="." line="2" column="63" />
         <mark key="^" line="2" column="63" />
       </file>
-      <file name="$USER_HOME$/workdir/code/law/src/test/java/com/klniu/law/service/impl/LawServiceImplTest.java" timestamp="1506480873362">
-        <mark key="'" line="91" column="0" />
-        <mark key="[" line="37" column="10" />
-        <mark key="]" line="37" column="10" />
-        <mark key="." line="37" column="10" />
-        <mark key="^" line="27" column="30" />
+      <file name="$USER_HOME$/workdir/code/law/src/test/java/com/klniu/law/service/impl/LawServiceImplTest.java" timestamp="1506482514050">
+        <mark key="'" line="80" column="0" />
+        <mark key="[" line="77" column="24" />
+        <mark key="]" line="77" column="25" />
+        <mark key="." line="77" column="25" />
+        <mark key="^" line="77" column="25" />
       </file>
       <file name="$USER_HOME$/workdir/lawindexer-ui/src/entry/user.tsx" timestamp="1491699942633">
         <mark key="'" line="24" column="4" />
@@ -2195,7 +2198,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>宪法</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2302,40 +2305,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>宪法</text>
       </register>
       <register name="/" type="4">
         <text>mapper</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBTcWwoIi9ob21lL2tsbml1L0Rvd25sb2Fkcy90ZXN0LnNxbCIpCg==</text>
+        <text encoding="base64">ICAgIEBTcWwoInRlc3Quc3FsIikK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLnNlcnZsZXQuY29uZmlnLmFubm90YXRpb24uRW5hYmxlV2ViTXZjOwo=</text>
+      <register name="1" type="8">
+        <text>//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vQFNxbCgic3FsL2NsZWFyLnNxbCIpCg==</text>
+        <text encoding="base64">ICAgIEBTcWwoInRlc3Quc3FsIikKICAgIEBTcWwoc2NyaXB0cyA9ICJjbGFzc3BhdGg6Y29tL2tsbml1L2xhdy9jbGVhci5zcWwiLCBleGVjdXRpb25QaGFzZSA9IFNxbC5FeGVjdXRpb25QaGFzZS5BRlRFUl9URVNUX01FVEhPRCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdC5hdXRvY29uZmlndXJlLlNwcmluZ0Jvb3RBcHBsaWNhdGlvbjsK</text>
+        <text encoding="base64">ICAgIEBCZWZvcmUKICAgIHB1YmxpYyB2b2lkIHNldFVwKCkgdGhyb3dzIEV4Y2VwdGlvbiB7CiAgICB9CgogICAgLy9AU3FsKCJzcWwvY2xlYXIuc3FsIikKICAgIEBBZnRlcgogICAgcHVibGljIHZvaWQgdGVhckRvd24oKSB0aHJvd3MgRXhjZXB0aW9uIHsKICAgIH0KCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QFNwcmluZ0Jvb3RBcHBsaWNhdGlvbgpATWFwcGVyU2NhbihiYXNlUGFja2FnZXMgPSAiY29tLmtsbml1Lmxhdy5tYXBwZXIiKQo=</text>
+        <text encoding="base64">ICAgIEBTcWwoIi9ob21lL2tsbml1L0Rvd25sb2Fkcy90ZXN0LnNxbCIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QEVuYWJsZVdlYk12Ywo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLnNlcnZsZXQuY29uZmlnLmFubm90YXRpb24uRW5hYmxlV2ViTXZjOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QEVuYWJsZVdlYk12Ywo=</text>
+        <text encoding="base64">ICAgIC8vQFNxbCgic3FsL2NsZWFyLnNxbCIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdC5hdXRvY29uZmlndXJlLlNwcmluZ0Jvb3RBcHBsaWNhdGlvbjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmFmeC5hcHBsaWNhdGlvbi5BcHBsaWNhdGlvbjsK</text>
+        <text encoding="base64">QFNwcmluZ0Jvb3RBcHBsaWNhdGlvbgpATWFwcGVyU2NhbihiYXNlUGFja2FnZXMgPSAiY29tLmtsbml1Lmxhdy5tYXBwZXIiKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuaHR0cC5SZXNwb25zZUVudGl0eTsK</text>
+        <text encoding="base64">QEVuYWJsZVdlYk12Ywo=</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
