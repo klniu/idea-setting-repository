@@ -75,6 +75,12 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="21" column="8" />
       </file>
+      <file name="$USER_HOME$/code/laws/src/test/java/com/klniu/law/web/LawControllerTest.java" timestamp="1506913654195">
+        <mark key="[" line="25" column="61" />
+        <mark key="]" line="25" column="61" />
+        <mark key="." line="25" column="61" />
+        <mark key="^" line="24" column="42" />
+      </file>
       <file name="$USER_HOME$/sync/code/java/xiaoyi/src/main/resources/grammars/main_grammar.txt" timestamp="1484466225776">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -534,6 +540,12 @@
         <mark key="^" line="86" column="29" />
         <mark key="." line="76" column="28" />
       </file>
+      <file name="$USER_HOME$/code/laws/src/main/java/com/klniu/law/web/LawController.java" timestamp="1506913243426">
+        <mark key="[" line="19" column="12" />
+        <mark key="]" line="19" column="11" />
+        <mark key="^" line="19" column="11" />
+        <mark key="." line="19" column="11" />
+      </file>
       <file name="$USER_HOME$/workdir/react-components/src/common/forms.tsx" timestamp="1491719135818">
         <mark key="'" line="6" column="17" />
         <mark key="[" line="38" column="0" />
@@ -553,6 +565,10 @@
         <mark key="]" line="73" column="38" />
         <mark key="." line="73" column="38" />
         <mark key="^" line="73" column="38" />
+      </file>
+      <file name="$USER_HOME$/code/laws/src/test/java/com/klniu/law/service/impl/LawServiceImplTest.java" timestamp="1506913595722">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="21" column="81" />
       </file>
       <file name="$USER_HOME$/workdir/code/clear/src/main/java/com/cnvoc/clear/model/FixedTankBase.java" timestamp="1500691789891">
         <mark key="'" line="22" column="21" />
@@ -2242,7 +2258,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>sql</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2349,13 +2365,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>sql</text>
       </register>
       <register name="/" type="4">
         <text>mapper</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">QFJ1bldpdGgoU3ByaW5nUnVubmVyLmNsYXNzKQpAU3ByaW5nQm9vdFRlc3QKQEltcG9ydChMYXdBcHBsaWNhdGlvbi5jbGFzcykK</text>
+      <register name="0" type="4">
+        <text>classpath:com/klniu/law/service/impl/test.sql</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsudGVzdC53ZWIuc2VydmxldC5NdmNSZXN1bHQ7Cg==</text>
@@ -2385,7 +2401,7 @@
         <text encoding="base64">ICAgIEBCZWZvcmUKICAgIHB1YmxpYyB2b2lkIHNldFVwKCkgewogICAgICAgIExhd0NvbnRyb2xsZXIgbGF3Q29udHJvbGxlciA9IG5ldyBMYXdDb250cm9sbGVyKCk7CiAgICAgICAgbW9ja012YyA9IE1vY2tNdmNCdWlsZGVycy5zdGFuZGFsb25lU2V0dXAobGF3Q29udHJvbGxlcikuYnVpbGQoKTsKICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>action NextTab</text>
+        <text>action PreviousTab</text>
       </register>
     </registers>
     <search>
@@ -2437,10 +2453,10 @@
         <entry>%s/components-layout-demo-side/App/gc</entry>
         <entry>q</entry>
         <entry>action NextTab</entry>
-        <entry>action PreviousTab</entry>
         <entry encoding="base64">JzwsJz5zLyIvJy9nYw==</entry>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
         <entry>action ReformatCode</entry>
+        <entry>action PreviousTab</entry>
       </history-cmd>
       <history-expr />
       <history-input />
