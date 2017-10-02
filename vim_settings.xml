@@ -70,10 +70,11 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="21" column="8" />
       </file>
-      <file name="$USER_HOME$/code/laws/src/test/java/com/klniu/law/web/LawControllerTest.java" timestamp="1506918152588">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
+      <file name="$USER_HOME$/code/laws/src/test/java/com/klniu/law/web/LawControllerTest.java" timestamp="1506919068846">
+        <mark key="[" line="58" column="39" />
+        <mark key="]" line="58" column="42" />
+        <mark key="." line="58" column="42" />
+        <mark key="^" line="58" column="42" />
       </file>
       <file name="$USER_HOME$/sync/code/java/xiaoyi/src/main/resources/grammars/main_grammar.txt" timestamp="1484466225776">
         <mark key="[" line="5" column="0" />
@@ -2250,8 +2251,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hbmRFeHBlY3QoKQo=</text>
+      <register name="&quot;" type="4">
+        <text>pageSize</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2358,7 +2359,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ipsum</text>
+        <text>pageSize</text>
       </register>
       <register name="/" type="4">
         <text>mapper</text>
