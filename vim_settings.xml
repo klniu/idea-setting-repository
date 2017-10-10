@@ -353,6 +353,13 @@
         <mark key="^" line="191" column="49" />
         <mark key="." line="191" column="36" />
       </file>
+      <file name="$USER_HOME$/code/java/law/src/main/java/com/klniu/law/service/impl/LawServiceImpl.java" timestamp="1507622360385">
+        <mark key="'" line="30" column="21" />
+        <mark key="[" line="32" column="28" />
+        <mark key="]" line="32" column="28" />
+        <mark key="." line="32" column="28" />
+        <mark key="^" line="32" column="44" />
+      </file>
       <file name="$USER_HOME$/workdir/code/law/src/main/resources/application-dev.properties" timestamp="1505466109510">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="34" />
@@ -384,6 +391,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/java/law/src/test/java/com/klniu/law/service/impl/LawServiceImplTest.java" timestamp="1507622587788">
+        <mark key="[" line="80" column="21" />
+        <mark key="]" line="80" column="37" />
+        <mark key="." line="80" column="37" />
+        <mark key="^" line="80" column="37" />
       </file>
       <file name="$USER_HOME$/sync/code/c#/LawViewer/LawViewer/ViewerHandler.cs" timestamp="1492335492428">
         <mark key="'" line="21" column="39" />
@@ -779,6 +792,12 @@
         <mark key="]" line="9" column="28" />
         <mark key="." line="9" column="28" />
         <mark key="^" line="9" column="35" />
+      </file>
+      <file name="$USER_HOME$/code/java/law/src/main/java/com/klniu/law/service/LawService.java" timestamp="1507622539591">
+        <mark key="[" line="9" column="4" />
+        <mark key="]" line="9" column="7" />
+        <mark key="." line="9" column="7" />
+        <mark key="^" line="9" column="7" />
       </file>
       <file name="$USER_HOME$/sync/code/Android/HaiHuanLDAR/app/src/main/res/layout/preview_fragment.xml" timestamp="1495606188343">
         <mark key="'" line="24" column="20" />
@@ -1249,6 +1268,11 @@
         <mark key="]" line="26" column="83" />
         <mark key="^" line="26" column="83" />
         <mark key="." line="26" column="83" />
+      </file>
+      <file name="$USER_HOME$/code/java/law/src/main/resources/sql/schema.sql" timestamp="1507623015438">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/sync/code/java/xiaoyi/src/com/klniu/xiaoyi/Main.java" timestamp="1483964870716">
         <mark key="[" line="22" column="43" />
@@ -2084,7 +2108,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/workdir/code/voc-ui/src/components/tank/FixedBase.jsx" />
       <jump line="14" column="1" filename="$USER_HOME$/workdir/code/voc-ui/src/data/tables.jsx" />
       <jump line="0" column="0" filename="$USER_HOME$/workdir/code/voc-ui/src/data/forms.jsx" />
       <jump line="3" column="18" filename="$USER_HOME$/workdir/code/voc-ui/src/data/forms.jsx" />
@@ -2184,6 +2207,7 @@
       <jump line="35" column="53" filename="$USER_HOME$/code/example/MyBatis-Spring-Boot/src/main/java/tk/mybatis/springboot/util/MyMapper.java" />
       <jump line="50" column="31" filename="$USER_HOME$/code/example/MyBatis-Spring-Boot/src/test/java/tk/mybatis/springboot/mapper/MyBatis331Test.java" />
       <jump line="19" column="22" filename="$USER_HOME$/workdir/code/law/src/main/java/com/klniu/law/web/LawController.java" />
+      <jump line="30" column="21" filename="$USER_HOME$/code/java/law/src/main/java/com/klniu/law/service/impl/LawServiceImpl.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2206,8 +2230,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Q1JFQVRFIAo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2314,40 +2338,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>int</text>
       </register>
       <register name="/" type="4">
         <text>mapper</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QFJ1bldpdGgoU3ByaW5nUnVubmVyLmNsYXNzKQpAU3ByaW5nQm9vdFRlc3QKQEltcG9ydChMYXdBcHBsaWNhdGlvbi5jbGFzcykK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoMywgbmV3TGF3LmdldElkKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsudGVzdC53ZWIuc2VydmxldC5NdmNSZXN1bHQ7Cg==</text>
+        <text encoding="base64">Q1JFQVRFIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuc3ByaW5nZnJhbWV3b3JrLnRlc3Qud2ViLnNlcnZsZXQucmVxdWVzdC5Nb2NrTXZjUmVxdWVzdEJ1aWxkZXJzLio7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcubW9ja2l0by5Nb2NraXRvLio7Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUcnVlKGlkID49IDEpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuanVuaXQuQXNzZXJ0Lio7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGxhd01hcHBlci4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsudGVzdC53ZWIuc2VydmxldC5yZXN1bHQuTW9ja012Y1Jlc3VsdEhhbmRsZXJzOwppbXBvcnQgb3JnLnNwcmluZ2ZyYW1ld29yay50ZXN0LndlYi5zZXJ2bGV0LnJlc3VsdC5Nb2NrTXZjUmVzdWx0TWF0Y2hlcnM7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbGF3TWFwcGVyLmluc2VydFVzZUdlbmVyYXRlZEtleXMobGF3KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hbmRFeHBlY3QoTW9ja012Y1Jlc3VsdE1hdGNoZXJzLnZpZXcoKS5uYW1lKCJ1c2VyL3ZpZXciKSkKICAgICAgICAgICAgICAgIC5hbmRFeHBlY3QoTW9ja012Y1Jlc3VsdE1hdGNoZXJzLm1vZGVsKCkuYXR0cmlidXRlRXhpc3RzKCJ1c2VyIikpCiAgICAgICAgICAgICAgICAuYW5kRG8oTW9ja012Y1Jlc3VsdEhhbmRsZXJzLnByaW50KCkpCiAgICAgICAgICAgICAgICAuYW5kUmV0dXJuKCk7CgogICAgICAgIGFzc2VydE5vdE51bGwocmVzdWx0LmdldE1vZGVsQW5kVmlldygpLmdldE1vZGVsKCkuZ2V0KCJ1c2VyIikpOwoK</text>
+        <text encoding="base64">ICAgIExhdyB1cGRhdGUoTGF3IGxhdyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5Bc3NlcnQ7Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsudGVzdC53ZWIuc2VydmxldC5NdmNSZXN1bHQ7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuc3ByaW5nZnJhbWV3b3JrLnRlc3Qud2ViLnNlcnZsZXQucmVxdWVzdC5Nb2NrTXZjUmVxdWVzdEJ1aWxkZXJzLio7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBCZWZvcmUKICAgIHB1YmxpYyB2b2lkIHNldFVwKCkgewogICAgICAgIExhd0NvbnRyb2xsZXIgbGF3Q29udHJvbGxlciA9IG5ldyBMYXdDb250cm9sbGVyKCk7CiAgICAgICAgbW9ja012YyA9IE1vY2tNdmNCdWlsZGVycy5zdGFuZGFsb25lU2V0dXAobGF3Q29udHJvbGxlcikuYnVpbGQoKTsKICAgIH0K</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcubW9ja2l0by5Nb2NraXRvLio7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action NextTab</text>
