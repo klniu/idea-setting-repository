@@ -543,6 +543,13 @@
         <mark key="." line="6" column="17" />
         <mark key="^" line="6" column="17" />
       </file>
+      <file name="$USER_HOME$/go/src/zhvocs/controllers/common.go" timestamp="1507684119683">
+        <mark key="'" line="32" column="4" />
+        <mark key="[" line="306" column="20" />
+        <mark key="]" line="306" column="20" />
+        <mark key="^" line="306" column="20" />
+        <mark key="." line="306" column="20" />
+      </file>
       <file name="$USER_HOME$/sync/code/go/src/ldar/seal_test.go" timestamp="1490081627555">
         <mark key="[" line="45" column="42" />
         <mark key="]" line="45" column="42" />
@@ -1245,8 +1252,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="20" filename="$USER_HOME$/sync/code/Android/HaiHuanLDAR/app/src/main/res/layout/preview_fragment.xml" />
-      <jump line="87" column="17" filename="$USER_HOME$/sync/code/Android/HaiHuanLDAR/app/src/main/java/com/cnvoc/haihuanldar/view/PreviewFragment.java" />
       <jump line="389" column="54" filename="$USER_HOME$/sync/code/Android/HaiHuanLDAR/app/src/main/java/com/cnvoc/haihuanldar/view/PreviewFragment.java" />
       <jump line="135" column="37" filename="$USER_HOME$/sync/code/Android/HaiHuanLDAR/app/src/main/java/com/cnvoc/haihuanldar/view/PreviewFragment.java" />
       <jump line="416" column="17" filename="$USER_HOME$/sync/code/Android/HaiHuanLDAR/app/src/main/java/com/cnvoc/haihuanldar/view/PreviewFragment.java" />
@@ -1345,13 +1350,15 @@
       <jump line="147" column="24" filename="$USER_HOME$/go/src/zhvocs/controllers/photo.go" />
       <jump line="90" column="24" filename="$USER_HOME$/go/src/zhvocs/controllers/photo.go" />
       <jump line="253" column="20" filename="$USER_HOME$/go/src/zhvocs/controllers/photo.go" />
+      <jump line="305" column="47" filename="$USER_HOME$/go/src/zhvocs/controllers/common.go" />
+      <jump line="32" column="4" filename="$USER_HOME$/go/src/zhvocs/controllers/common.go" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVmcmVzaFNlYXJjaEZvcm06IHJhbmRvbVN0cigpCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>().</text>
+        <text>;</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -1458,7 +1465,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>().</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>28</text>
@@ -1506,7 +1513,7 @@ private</text>
         <text encoding="base64">ICogQ3JlYXRlZCBieSBrbG5pdSBvbiAxNy03LTUuCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text>action Forward</text>
       </register>
     </registers>
     <search>
@@ -1557,11 +1564,11 @@ private</text>
         <entry>%s/node/results[first]/gc</entry>
         <entry>action AceAction</entry>
         <entry>vsplit photo.go</entry>
-        <entry>action Forward</entry>
         <entry>q</entry>
         <entry>action NextTab</entry>
         <entry>action ReformatCode</entry>
         <entry>action PreviousTab</entry>
+        <entry>action Forward</entry>
       </history-cmd>
       <history-expr />
       <history-input />
