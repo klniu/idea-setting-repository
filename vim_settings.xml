@@ -1481,11 +1481,12 @@
         <mark key="^" line="0" column="12" />
         <mark key="." line="4" column="10" />
       </file>
-      <file name="$USER_HOME$/code/java/voc/src/main/resources/sql/schema.sql" timestamp="1508467800560">
+      <file name="$USER_HOME$/code/java/voc/src/main/resources/sql/schema.sql" timestamp="1508469937893">
         <mark key="'" line="72" column="19" />
-        <mark key="[" line="175" column="0" />
-        <mark key="]" line="175" column="0" />
-        <mark key="." line="175" column="0" />
+        <mark key="[" line="309" column="49" />
+        <mark key="]" line="309" column="49" />
+        <mark key="." line="309" column="49" />
+        <mark key="^" line="309" column="49" />
       </file>
       <file name="$USER_HOME$/workdir/web/react-components/src/components/form.tsx" timestamp="1492753028632">
         <mark key="'" line="28" column="12" />
@@ -2301,8 +2302,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>点</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2409,27 +2410,30 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>REAL</text>
+        <text>点</text>
       </register>
       <register name="/" type="4">
         <text>mapper</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBGT1JFSUdOIEtFWSAoYHVuaXRfbm9gKSBSRUZFUkVOQ0VTIGB1bml0YCAoYG5vYCkgT04gVVBEQVRFIENBU0NBREUsCg==</text>
+        <text encoding="base64">RU5HSU5FID0gSW5ub0RCCkRFRkFVTFQgQ0hBUlNFVCA9IHV0ZjgKQ09MTEFURSA9IHV0ZjhfdW5pY29kZV9jaQpDT01NRU5UID0gJ+WvhuWwgeeCueihqCc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Q1JFQVRFIFRBQkxFIElGIE5PVCBFWElTVFMgYGRldGVjdGlvbnNgICgKICBgaWRgICAgICAgICAgICAgICAgICAgIElOVEVHRVIgUFJJTUFSWSBLRVkgQVVUT0lOQ1JFTUVOVCwKICBgc2VhbF9pZGAgICAgICAgICAgICAgIElOVEVHRVIsCiAgYHRhZ2AgICAgICAgICAgICAgICAgICBWQVJDSEFSKDI1NSksCiAgYHRpbWVgICAgICAgICAgICAgICAgICBEQVRFVElNRSwKICBgZl9pZGAgICAgICAgICAgICAgICAgIFJFQUwsCiAgYGZfaWRfYmFja2AgICAgICAgICAgICBSRUFMLAogIGBwX2lkYCAgICAgICAgICAgICAgICAgUkVBTCwKICBgcF9pZF9iYWNrYCAgICAgICAgICAgIFJFQUwsCiAgYHN0YW5kYXJkYCAgICAgICAgICAgICBJTlRFR0VSLAogIGBpc19sZWFraW5nYCAgICAgICAgICAgQk9PTCwKICBgYXZlcmFnZV9lbWlzc2lvbmAgICAgIFJFQUwsCiAgYHNjcmVlbl9lbWlzc2lvbmAgICAgICBSRUFMLAogIGBjb3JyZWxhdGlvbl9lbWlzc2lvbmAgUkVBTCwKICBgZGV2aWNlX21vZGVsYCAgICAgICAgIFZBUkNIQVIoMjU1KSwKICBgZGV2aWNlX25vYCAgICAgICAgICAgIFZBUkNIQVIoMjU1KSwKICBgY29tcGFueWAgICAgICAgICAgICAgIFZBUkNIQVIoMjU1KSwKICBgcGVyc29uc2AgICAgICAgICAgICAgIFZBUkNIQVIoMjU1KSwKICBGT1JFSUdOIEtFWSAoYHNlYWxfaWRgKSBSRUZFUkVOQ0VTIGBzZWFsc2AgKGBpZGApCiAgICBPTiBERUxFVEUgQ0FTQ0FERQogICAgT04gVVBEQVRFIENBU0NBREUKKTsK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IAo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="8">
+      <register name="4" type="2">
+        <text encoding="base64">IAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="8">
         <text>`unit_no_length`
 `unit_no_inc`
 `install_no_length`
@@ -2446,10 +2450,10 @@
 `tag_no_inc_by`
 `seal_tag_format`</text>
       </register>
-      <register name="6" type="8">
+      <register name="7" type="8">
         <text encoding="base64">IHVuaXRfbm9fbGVuZ3RoCiB1bml0X25vX2luYwogaW5zdGFsbF9ub19sZW5ndGgKIGluc3RhbGxfbm9faW5jCiBjb21wb25lbnRfdGFnX2Zvcm1hdAogY29tcG9uZW50X3Bob3RvX2xhYmVsX2Zvcm1hdAogZmlyc3RfcGhvdG9fbm8KIHBob3RvX25vX2xlbmd0aAogcGhvdG9fbm9faW5jCiBwaG90b19ub19pbmNfYnkKIGZpcnN0X3RhZ19ubwogdGFnX25vX2xlbmd0aAogdGFnX25vX2luYwogdGFnX25vX2luY19ieQogc2VhbF90YWdfZm9ybWF0</text>
       </register>
-      <register name="7" type="8">
+      <register name="8" type="8">
         <text>unit_no_length
 unit_no_inc
 install_no_length
@@ -2466,11 +2470,8 @@ tag_no_inc
 tag_no_inc_by
 seal_tag_format</text>
       </register>
-      <register name="8" type="8">
-        <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiA=</text>
-      </register>
       <register name="9" type="8">
-        <text encoding="base64">ICBVbml0Tm9MZW5ndGggICAgICAgICAgICAgCiAgVW5pdE5vSW5jICAgICAgICAgICAgICAgIAogIEluc3RhbGxOb0xlbmd0aCAgICAgICAgICAKICBJbnN0YWxsTm9JbmMgICAgICAgICAgICAgCiAgQ29tcG9uZW50VGFnRm9ybWF0ICAgICAgIAogIENvbXBvbmVudFBob3RvTGFiZWxGb3JtYXQKICBGaXJzdFBob3RvTm8gICAgICAgICAgICAgCiAgUGhvdG9Ob0xlbmd0aCAgICAgICAgICAgIAogIFBob3RvTm9JbmMgICAgICAgICAgICAgICAKICBQaG90b05vSW5jQnkgICAgICAgICAgICAgCiAgRmlyc3RUYWdObyAgICAgICAgICAgICAgIAogIFRhZ05vTGVuZ3RoICAgICAgICAgICAgICAKICBUYWdOb0luYyAgICAgICAgICAgICAgICAgCiAgVGFnTm9JbmNCeSAgICAgICAgICAgICAgIAogIFNlYWxUYWdGb3JtYXQgICAgICAgICAgICA=</text>
+        <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiA=</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
