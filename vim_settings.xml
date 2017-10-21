@@ -596,6 +596,13 @@
         <mark key="." line="4" column="20" />
         <mark key="^" line="4" column="21" />
       </file>
+      <file name="$USER_HOME$/code/java/vocs/src/main/resources/sql/schema.sql" timestamp="1508579362231">
+        <mark key="'" line="54" column="0" />
+        <mark key="[" line="184" column="0" />
+        <mark key="]" line="184" column="0" />
+        <mark key="^" line="56" column="56" />
+        <mark key="." line="184" column="0" />
+      </file>
       <file name="$USER_HOME$/sync/code/java/mdtools/src/main/java/com/klniu/md/controller/JmolControl.java" timestamp="1482829169980">
         <mark key="'" line="14" column="23" />
         <mark key="[" line="61" column="48" />
@@ -2201,7 +2208,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="35" filename="$USER_HOME$/workdir/code/clear/build.gradle" />
       <jump line="53" column="4" filename="$USER_HOME$/workdir/code/clear/build.gradle" />
       <jump line="56" column="0" filename="$USER_HOME$/workdir/code/clear/build.gradle" />
       <jump line="60" column="2" filename="$USER_HOME$/workdir/code/clear/build.gradle" />
@@ -2301,6 +2307,7 @@
       <jump line="69" column="8" filename="$USER_HOME$/code/java/voc/src/main/resources/sql/schema.sql" />
       <jump line="70" column="19" filename="$USER_HOME$/code/java/voc/src/main/resources/sql/schema.sql" />
       <jump line="169" column="51" filename="$USER_HOME$/code/java/vocs/src/main/resources/sql/schema.sql" />
+      <jump line="68" column="0" filename="$USER_HOME$/code/java/vocs/src/main/resources/sql/schema.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2323,8 +2330,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>态</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBDT0xMQVRFID0gdXRmOF91bmljb2RlX2NpCg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2431,40 +2438,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>态</text>
+        <text>institution_id</text>
       </register>
       <register name="/" type="4">
         <text>mapper</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBQaG90b05vSW5jQnkgICAgRU5VTSgnZmFjdG9yeScsICd1bml0JywgJ2luc3RhbGwnKSBOT1QgTlVMTCAsICMg54Wn54mH5piv5oyJ5bel5Y6C44CB566h55CG5Y2V5YWD6L+Y5piv6KOF572u6YCS5aKeCg==</text>
+        <text encoding="base64">ICBgZGVzY2AgIFZBUkNIQVIoMjU1KSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBIZWlnaHQgICAgICAgICAgIFtdZmxvYXQ2NCAgIGBqc29uOiJoZWlnaHQiYAo=</text>
+        <text encoding="base64">ICBDT0xMQVRFID0gdXRmOF91bmljb2RlX2NpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBEaXN0YW5jZSAgICAgICAgIFtdZmxvYXQ2NCAgIGBqc29uOiJkaXN0YW5jZSJgCg==</text>
+        <text encoding="base64">ICBERUZBVUxUIENIQVJTRVQgPSB1dGY4Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBQaG90b05vSW5jQnkgICAgRU5VTSgnZmFjdG9yeScsICd1bml0JywgJ2luc3RhbGwnKSBOT1QgTlVMTCAsICMg54Wn54mH5piv5oyJ5bel5Y6C44CB566h55CG5Y2V5YWD6L+Y5piv6KOF572u6YCS5aKeCg==</text>
+        <text encoding="base64">ICBFTkdJTkUgPSBJbm5vREIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlUYWdOb0luYyAgICAgICAgVElOWUlOVCBOT1QgTlVMTCAsICMgdGFn5q+P5qyh6YCS5aKe5aSa5bCR57yW5Y+35pyJ5aSa5bCR5L2NCg==</text>
+        <text encoding="base64">ICBDT0xMQVRFID0gdXRmOF91bmljb2RlX2NpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CUNvbXBvbmVudFNldHRpbmcgc3RydWN0IHsK</text>
+        <text encoding="base64">ICBERUZBVUxUIENIQVJTRVQgPSB1dGY4Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">ICBFTkdJTkUgPSBJbm5vREIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBDT0xMQVRFID0gdXRmOF91bmljb2RlX2NpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBERUZBVUxUIENIQVJTRVQgPSB1dGY4Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBFTkdJTkUgPSBJbm5vREIK</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
