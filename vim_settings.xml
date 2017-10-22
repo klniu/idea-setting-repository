@@ -590,6 +590,11 @@
         <mark key="." line="4" column="20" />
         <mark key="^" line="4" column="21" />
       </file>
+      <file name="$USER_HOME$/code/java/vocs/src/main/resources/sql/schema.sql" timestamp="1508637577881">
+        <mark key="[" line="190" column="0" />
+        <mark key="]" line="190" column="0" />
+        <mark key="." line="190" column="0" />
+      </file>
       <file name="$USER_HOME$/sync/code/java/mdtools/src/main/java/com/klniu/md/controller/JmolControl.java" timestamp="1482829169980">
         <mark key="'" line="14" column="23" />
         <mark key="[" line="61" column="48" />
@@ -2303,7 +2308,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBgZmFjdG9yeV9pZGAgSU5URUdFUiBOT1QgTlVMTCwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2410,33 +2415,39 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>type</text>
       </register>
       <register name="/" type="4">
         <text>unique</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBgZmFjdG9yeV9pZGAgSU5URUdFUiBOT1QgTlVMTCwK</text>
+        <text encoding="base64">ICBgZmFjdG9yeV9pZGAgSU5URUdFUiAgICAgIE5PVCBOVUxMLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Q1JFQVRFIFVOSVFVRSBJTkRFWCBJRiBOT1QgRVhJU1RTIGB1aXhfdXNlcnNfdXNlcl9uYW1lYCBPTiBgdXNlcnNgICgKICBgdXNlcl9uYW1lYAopOwpDUkVBVEUgVU5JUVVFIElOREVYIElGIE5PVCBFWElTVFMgYHVpeF91c2Vyc19wX251bWJlcmAgT04gYHVzZXJzYCAoCiAgYHBfbnVtYmVyYAopOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Q1JFQVRFIFRBQkxFIElGIE5PVCBFWElTVFMgYGRldGVjdGlvbnNgICgKICBgaWRgICAgICAgICAgICAgICAgICAgIElOVEVHRVIgUFJJTUFSWSBLRVkgQVVUT0lOQ1JFTUVOVCwKICBgc2VhbF9pZGAgICAgICAgICAgICAgIElOVEVHRVIsCiAgYHRhZ2AgICAgICAgICAgICAgICAgICBWQVJDSEFSKDI1NSksCiAgYHRpbWVgICAgICAgICAgICAgICAgICBEQVRFVElNRSwKICBgZl9pZGAgICAgICAgICAgICAgICAgIFJFQUwsCiAgYGZfaWRfYmFja2AgICAgICAgICAgICBSRUFMLAogIGBwX2lkYCAgICAgICAgICAgICAgICAgUkVBTCwKICBgcF9pZF9iYWNrYCAgICAgICAgICAgIFJFQUwsCiAgYHN0YW5kYXJkYCAgICAgICAgICAgICBJTlRFR0VSLAogIGBpc19sZWFraW5nYCAgICAgICAgICAgQk9PTCwKICBgYXZlcmFnZV9lbWlzc2lvbmAgICAgIFJFQUwsCiAgYHNjcmVlbl9lbWlzc2lvbmAgICAgICBSRUFMLAogIGBjb3JyZWxhdGlvbl9lbWlzc2lvbmAgUkVBTCwKICBgZGV2aWNlX21vZGVsYCAgICAgICAgIFZBUkNIQVIoMjU1KSwKICBgZGV2aWNlX25vYCAgICAgICAgICAgIFZBUkNIQVIoMjU1KSwKICBgY29tcGFueWAgICAgICAgICAgICAgIFZBUkNIQVIoMjU1KSwKICBgcGVyc29uc2AgICAgICAgICAgICAgIFZBUkNIQVIoMjU1KSwKICBGT1JFSUdOIEtFWSAoYHNlYWxfaWRgKSBSRUZFUkVOQ0VTIGBzZWFsc2AgKGBpZGApCiAgICBPTiBERUxFVEUgQ0FTQ0FERQogICAgT04gVVBEQVRFIENBU0NBREUKKTsK</text>
+        <text encoding="base64">ICBgcnVsZV90eXBlYCBFTlUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Q1JFQVRFIFVOSVFVRSBJTkRFWCBJRiBOT1QgRVhJU1RTIGB1aXhfdXNlcnNfdXNlcl9uYW1lYCBPTiBgdXNlcnNgICgKICBgdXNlcl9uYW1lYAopOwpDUkVBVEUgVU5JUVVFIElOREVYIElGIE5PVCBFWElTVFMgYHVpeF91c2Vyc19wX251bWJlcmAgT04gYHVzZXJzYCAoCiAgYHBfbnVtYmVyYAopOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Q1JFQVRFIFRBQkxFIElGIE5PVCBFWElTVFMgYGRldGVjdGlvbnNgICgKICBgaWRgICAgICAgICAgICAgICAgICAgIElOVEVHRVIgUFJJTUFSWSBLRVkgQVVUT0lOQ1JFTUVOVCwKICBgc2VhbF9pZGAgICAgICAgICAgICAgIElOVEVHRVIsCiAgYHRhZ2AgICAgICAgICAgICAgICAgICBWQVJDSEFSKDI1NSksCiAgYHRpbWVgICAgICAgICAgICAgICAgICBEQVRFVElNRSwKICBgZl9pZGAgICAgICAgICAgICAgICAgIFJFQUwsCiAgYGZfaWRfYmFja2AgICAgICAgICAgICBSRUFMLAogIGBwX2lkYCAgICAgICAgICAgICAgICAgUkVBTCwKICBgcF9pZF9iYWNrYCAgICAgICAgICAgIFJFQUwsCiAgYHN0YW5kYXJkYCAgICAgICAgICAgICBJTlRFR0VSLAogIGBpc19sZWFraW5nYCAgICAgICAgICAgQk9PTCwKICBgYXZlcmFnZV9lbWlzc2lvbmAgICAgIFJFQUwsCiAgYHNjcmVlbl9lbWlzc2lvbmAgICAgICBSRUFMLAogIGBjb3JyZWxhdGlvbl9lbWlzc2lvbmAgUkVBTCwKICBgZGV2aWNlX21vZGVsYCAgICAgICAgIFZBUkNIQVIoMjU1KSwKICBgZGV2aWNlX25vYCAgICAgICAgICAgIFZBUkNIQVIoMjU1KSwKICBgY29tcGFueWAgICAgICAgICAgICAgIFZBUkNIQVIoMjU1KSwKICBgcGVyc29uc2AgICAgICAgICAgICAgIFZBUkNIQVIoMjU1KSwKICBGT1JFSUdOIEtFWSAoYHNlYWxfaWRgKSBSRUZFUkVOQ0VTIGBzZWFsc2AgKGBpZGApCiAgICBPTiBERUxFVEUgQ0FTQ0FERQogICAgT04gVVBEQVRFIENBU0NBREUKKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="8">
+      <register name="7" type="2">
+        <text encoding="base64">IAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="8">
         <text>`unit_no_length`
 `unit_no_inc`
 `install_no_length`
@@ -2453,26 +2464,6 @@
 `tag_no_inc_by`
 `seal_tag_format`</text>
       </register>
-      <register name="8" type="8">
-        <text encoding="base64">IHVuaXRfbm9fbGVuZ3RoCiB1bml0X25vX2luYwogaW5zdGFsbF9ub19sZW5ndGgKIGluc3RhbGxfbm9faW5jCiBjb21wb25lbnRfdGFnX2Zvcm1hdAogY29tcG9uZW50X3Bob3RvX2xhYmVsX2Zvcm1hdAogZmlyc3RfcGhvdG9fbm8KIHBob3RvX25vX2xlbmd0aAogcGhvdG9fbm9faW5jCiBwaG90b19ub19pbmNfYnkKIGZpcnN0X3RhZ19ubwogdGFnX25vX2xlbmd0aAogdGFnX25vX2luYwogdGFnX25vX2luY19ieQogc2VhbF90YWdfZm9ybWF0</text>
-      </register>
-      <register name="9" type="8">
-        <text>unit_no_length
-unit_no_inc
-install_no_length
-install_no_inc
-component_tag_format
-component_photo_label_format
-first_photo_no
-photo_no_length
-photo_no_inc
-photo_no_inc_by
-first_tag_no
-tag_no_length
-tag_no_inc
-tag_no_inc_by
-seal_tag_format</text>
-      </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
       </register>
@@ -2484,7 +2475,7 @@ seal_tag_format</text>
       <last-replace />
       <last-substitute>mapper</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
