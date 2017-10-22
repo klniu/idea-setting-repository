@@ -738,10 +738,12 @@
         <mark key="^" line="6" column="30" />
         <mark key="." line="6" column="31" />
       </file>
-      <file name="$USER_HOME$/code/java/vocs/pom.xml" timestamp="1508651500575">
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
+      <file name="$USER_HOME$/code/java/vocs/pom.xml" timestamp="1508668453606">
+        <mark key="'" line="60" column="7" />
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
+        <mark key="^" line="64" column="17" />
       </file>
       <file name="$USER_HOME$/workdir/web/now-antd/tsconfig.json" timestamp="1492753096687">
         <mark key="[" line="21" column="3" />
@@ -930,7 +932,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="24" filename="$USER_HOME$/code/laws/src/test/java/com/klniu/law/web/LawControllerTest.java" />
       <jump line="4" column="20" filename="$USER_HOME$/code/java/law/src/main/resources/sql/data.sql" />
       <jump line="0" column="0" filename="$USER_HOME$/code/java/law/src/main/resources/sql/data.sql" />
       <jump line="27" column="0" filename="$USER_HOME$/code/java/law/src/main/resources/sql/schema.sql" />
@@ -1030,6 +1031,7 @@
       <jump line="377" column="14" filename="$USER_HOME$/code/java/vocs/src/main/resources/sql/schema.sql" />
       <jump line="7" column="21" filename="$USER_HOME$/code/java/vocs/src/main/resources/sql/schema.sql" />
       <jump line="10" column="3" filename="$USER_HOME$/code/laws/src/main/java/com/klniu/law/web/LawController.java" />
+      <jump line="60" column="7" filename="$USER_HOME$/code/java/vocs/pom.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1053,7 +1055,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZvaWQgYWRkKExkYXJTZXR0aW5nIHNldHRpbmcpOwo=</text>
+        <text encoding="base64">CQk8IS0tbWFwcGVyLS0+CgkJPGRlcGVuZGVuY3k+CgkJCTxncm91cElkPnRrLm15YmF0aXM8L2dyb3VwSWQ+CgkJCTxhcnRpZmFjdElkPm1hcHBlci1zcHJpbmctYm9vdC1zdGFydGVyPC9hcnRpZmFjdElkPgoJCQk8dmVyc2lvbj5SRUxFQVNFPC92ZXJzaW9uPgoJCTwvZGVwZW5kZW5jeT4KCQk8IS0tcGFnZWhlbHBlci0tPgoJCTxkZXBlbmRlbmN5PgoJCQk8Z3JvdXBJZD5jb20uZ2l0aHViLnBhZ2VoZWxwZXI8L2dyb3VwSWQ+CgkJCTxhcnRpZmFjdElkPnBhZ2VoZWxwZXItc3ByaW5nLWJvb3Qtc3RhcnRlcjwvYXJ0aWZhY3RJZD4KCQkJPHZlcnNpb24+UkVMRUFTRTwvdmVyc2lvbj4KCQk8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -1160,49 +1162,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>LdarSetting</text>
+        <text>仓库最高版本号</text>
       </register>
       <register name="/" type="4">
-        <text>date</text>
+        <text>mybatis</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8dGFibGUgdGFibGVOYW1lPSJyZXBhaXIiPgogICAgICAgICAgICA8Y29sdW1uT3ZlcnJpZGUgY29sdW1uPSJ0aW1lIiBqYXZhVHlwZT0iamF2YS50aW1lLkxvY2FsRGF0ZVRpbWUiPjwvY29sdW1uT3ZlcnJpZGU+CiAgICAgICAgPC90YWJsZT4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZvaWQgYWRkKExkYXJTZXR0aW5nIHNldHRpbmcpOwo=</text>
+        <text encoding="base64">CQk8IS0tbWFwcGVyLS0+CgkJPGRlcGVuZGVuY3k+CgkJCTxncm91cElkPnRrLm15YmF0aXM8L2dyb3VwSWQ+CgkJCTxhcnRpZmFjdElkPm1hcHBlci1zcHJpbmctYm9vdC1zdGFydGVyPC9hcnRpZmFjdElkPgoJCQk8dmVyc2lvbj5SRUxFQVNFPC92ZXJzaW9uPgoJCTwvZGVwZW5kZW5jeT4KCQk8IS0tcGFnZWhlbHBlci0tPgoJCTxkZXBlbmRlbmN5PgoJCQk8Z3JvdXBJZD5jb20uZ2l0aHViLnBhZ2VoZWxwZXI8L2dyb3VwSWQ+CgkJCTxhcnRpZmFjdElkPnBhZ2VoZWxwZXItc3ByaW5nLWJvb3Qtc3RhcnRlcjwvYXJ0aWZhY3RJZD4KCQkJPHZlcnNpb24+UkVMRUFTRTwvdmVyc2lvbj4KCQk8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGRhclNldHRpbmdNYXBwZXIudXBkYXRlCg==</text>
+        <text encoding="base64">ICAgIHZvaWQgYWRkKExkYXJTZXR0aW5nIHNldHRpbmcpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsZGFyU2V0dGluZ01hcHBlci4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGRhclNldHRpbmdNYXBwZXIudXBkYXRlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gOwo=</text>
+        <text encoding="base64">ICAgICAgICBsZGFyU2V0dGluZ01hcHBlci4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBHZXRNYXBwaW5nKCIvbGF3IikKICAgIHB1YmxpYyBQYWdlSW5mbzxMZGFyU2V0dGluZz4gZ2V0QWxsKEBSZXF1ZXN0UGFyYW0odmFsdWUgPSAicGFnZSIsIGRlZmF1bHRWYWx1ZSA9ICIxIikgaW50IHBhZ2UsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBAUmVxdWVzdFBhcmFtKHZhbHVlID0gInBhZ2VTaXplIiwgZGVmYXVsdFZhbHVlID0gIjIwIikgaW50IHBhZ2VTaXplKSB7CiAgICAgICAgTGlzdDxMZGFyU2V0dGluZ1NlcnZpY2U+IGxhd0xpc3QgPSBMZGFyU2V0dGluZ1NlcnZpY2UuZ2V0QWxsKHBhZ2UsIHBhZ2VTaXplKTsKICAgICAgICByZXR1cm4gbmV3IFBhZ2VJbmZvPD4obGF3TGlzdCk7CiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIEBHZXRNYXBwaW5nKCIvbGF3IikKICAgIHB1YmxpYyBQYWdlSW5mbzxMZGFyU2V0dGluZz4gZ2V0QWxsKEBSZXF1ZXN0UGFyYW0odmFsdWUgPSAicGFnZSIsIGRlZmF1bHRWYWx1ZSA9ICIxIikgaW50IHBhZ2UsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBAUmVxdWVzdFBhcmFtKHZhbHVlID0gInBhZ2VTaXplIiwgZGVmYXVsdFZhbHVlID0gIjIwIikgaW50IHBhZ2VTaXplKSB7CiAgICAgICAgTGlzdDxMZGFyU2V0dGluZ1NlcnZpY2U+IGxhd0xpc3QgPSBMZGFyU2V0dGluZ1NlcnZpY2UuZ2V0QWxsKHBhZ2UsIHBhZ2VTaXplKTsKICAgICAgICByZXR1cm4gbmV3IFBhZ2VJbmZvPD4obGF3TGlzdCk7CiAgICB9Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIExkYXJTZXR0aW5nQ29udHJvbGxlciB7Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QFJlc3RDb250cm9sbGVyCg==</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIExkYXJTZXR0aW5nQ29udHJvbGxlciB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGNvbHVtbk92ZXJyaWRlIGNvbHVtbj0ibG9naW5fYXQiIGphdmFUeXBlPSJqYXZhLnRpbWUuTG9jYWxEYXRlVGltZSI+PC9jb2x1bW5PdmVycmlkZT4K</text>
+        <text encoding="base64">QFJlc3RDb250cm9sbGVyCg==</text>
       </register>
       <register name=":" type="4">
         <text>action NextTab</text>
       </register>
     </registers>
     <search>
-      <last-search>date</last-search>
+      <last-search>mybatis</last-search>
       <last-offset />
-      <last-pattern>date</last-pattern>
+      <last-pattern>mybatis</last-pattern>
       <last-replace>UNIQUE</last-replace>
       <last-substitute>UNIQUE KEY</last-substitute>
       <last-dir>1</last-dir>
@@ -1218,7 +1220,6 @@
         <entry>session</entry>
         <entry>hibernate</entry>
         <entry>hiber</entry>
-        <entry>mybatis</entry>
         <entry>druid</entry>
         <entry>root</entry>
         <entry>base</entry>
@@ -1230,6 +1231,7 @@
         <entry>UNIQUE KEY</entry>
         <entry>law</entry>
         <entry>date</entry>
+        <entry>mybatis</entry>
       </history-search>
       <history-cmd>
         <entry>%s/v['\w*']/v.\1/gc</entry>
