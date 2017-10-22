@@ -128,6 +128,12 @@
         <mark key="." line="33" column="25" />
         <mark key="^" line="33" column="25" />
       </file>
+      <file name="$USER_HOME$/code/java/vocs/src/main/java/com/klniu/voc/web/LdarSettingController.java" timestamp="1508653638324">
+        <mark key="[" line="16" column="11" />
+        <mark key="]" line="16" column="14" />
+        <mark key="." line="16" column="14" />
+        <mark key="^" line="16" column="14" />
+      </file>
       <file name="$USER_HOME$/workdir/web/vocs-react/src/components/sidebar.tsx" timestamp="1490762879570">
         <mark key="'" line="3" column="28" />
         <mark key="[" line="3" column="28" />
@@ -205,9 +211,6 @@
         <mark key="]" line="4" column="5" />
         <mark key="^" line="4" column="18" />
         <mark key="." line="4" column="5" />
-      </file>
-      <file name="$USER_HOME$/code/example/精通spring+4.x/chapter18/src/main/java/com/smart/web/ForumFilter.java" timestamp="1507880605758">
-        <mark key="'" line="54" column="22" />
       </file>
       <file name="$USER_HOME$/workdir/web/react-components/README.md" timestamp="1492679533458">
         <mark key="[" line="1" column="2" />
@@ -558,9 +561,10 @@
         <mark key="^" line="86" column="29" />
         <mark key="." line="76" column="28" />
       </file>
-      <file name="$USER_HOME$/code/laws/src/main/java/com/klniu/law/web/LawController.java" timestamp="1506913243426">
-        <mark key="[" line="19" column="12" />
-        <mark key="]" line="19" column="11" />
+      <file name="$USER_HOME$/code/laws/src/main/java/com/klniu/law/web/LawController.java" timestamp="1508653409123">
+        <mark key="'" line="10" column="3" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="32" column="0" />
         <mark key="^" line="19" column="11" />
         <mark key="." line="19" column="11" />
       </file>
@@ -2058,6 +2062,12 @@
         <mark key="." line="26" column="17" />
         <mark key="^" line="26" column="17" />
       </file>
+      <file name="$USER_HOME$/code/java/vocs/src/main/java/com/klniu/voc/service/LdarSettingService.java" timestamp="1508653658270">
+        <mark key="[" line="5" column="33" />
+        <mark key="]" line="5" column="32" />
+        <mark key="^" line="5" column="32" />
+        <mark key="." line="5" column="32" />
+      </file>
       <file name="$USER_HOME$/sync/code/go/src/spiders/pholcus_lib/chinalaw.go" timestamp="1490274857998">
         <mark key="'" line="78" column="39" />
         <mark key="[" line="81" column="20" />
@@ -2228,7 +2238,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="22" filename="$USER_HOME$/workdir/code/law/src/main/java/com/klniu/law/web/LawController.java" />
       <jump line="68" column="24" filename="$USER_HOME$/code/laws/src/test/java/com/klniu/law/web/LawControllerTest.java" />
       <jump line="4" column="20" filename="$USER_HOME$/code/java/law/src/main/resources/sql/data.sql" />
       <jump line="0" column="0" filename="$USER_HOME$/code/java/law/src/main/resources/sql/data.sql" />
@@ -2328,6 +2337,7 @@
       <jump line="357" column="9" filename="$USER_HOME$/code/java/vocs/src/main/resources/sql/schema.sql" />
       <jump line="377" column="14" filename="$USER_HOME$/code/java/vocs/src/main/resources/sql/schema.sql" />
       <jump line="7" column="21" filename="$USER_HOME$/code/java/vocs/src/main/resources/sql/schema.sql" />
+      <jump line="10" column="3" filename="$USER_HOME$/code/laws/src/main/java/com/klniu/law/web/LawController.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2351,7 +2361,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>delay_time</text>
+        <text>LdarSetting</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2458,7 +2468,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>delay_time</text>
+        <text>LdarSetting</text>
       </register>
       <register name="/" type="4">
         <text>date</text>
@@ -2467,34 +2477,34 @@
         <text encoding="base64">ICAgICAgICA8dGFibGUgdGFibGVOYW1lPSJyZXBhaXIiPgogICAgICAgICAgICA8Y29sdW1uT3ZlcnJpZGUgY29sdW1uPSJ0aW1lIiBqYXZhVHlwZT0iamF2YS50aW1lLkxvY2FsRGF0ZVRpbWUiPjwvY29sdW1uT3ZlcnJpZGU+CiAgICAgICAgPC90YWJsZT4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGNvbHVtbk92ZXJyaWRlIGNvbHVtbj0ibG9naW5fYXQiIGphdmFUeXBlPSJqYXZhLnRpbWUuTG9jYWxEYXRlVGltZSI+PC9jb2x1bW5PdmVycmlkZT4K</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGNvbHVtbk92ZXJyaWRlIGNvbHVtbj0iZW5kIiBqYXZhVHlwZT0iamF2YS50aW1lLkxvY2FsRGF0ZSI+PC9jb2x1bW5PdmVycmlkZT4K</text>
+        <text encoding="base64">ICAgIEBHZXRNYXBwaW5nKCIvbGF3IikKICAgIHB1YmxpYyBQYWdlSW5mbzxMZGFyU2V0dGluZz4gZ2V0QWxsKEBSZXF1ZXN0UGFyYW0odmFsdWUgPSAicGFnZSIsIGRlZmF1bHRWYWx1ZSA9ICIxIikgaW50IHBhZ2UsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBAUmVxdWVzdFBhcmFtKHZhbHVlID0gInBhZ2VTaXplIiwgZGVmYXVsdFZhbHVlID0gIjIwIikgaW50IHBhZ2VTaXplKSB7CiAgICAgICAgTGlzdDxMZGFyU2V0dGluZ1NlcnZpY2U+IGxhd0xpc3QgPSBMZGFyU2V0dGluZ1NlcnZpY2UuZ2V0QWxsKHBhZ2UsIHBhZ2VTaXplKTsKICAgICAgICByZXR1cm4gbmV3IFBhZ2VJbmZvPD4obGF3TGlzdCk7CiAgICB9Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGNvbHVtbk92ZXJyaWRlIGNvbHVtbj0ibG9naW5fYXQiIGphdmFUeXBlPSJqYXZhLnRpbWUuTG9jYWxEYXRlVGltZSI+PC9jb2x1bW5PdmVycmlkZT4K</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8dGFiCg==</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIExkYXJTZXR0aW5nQ29udHJvbGxlciB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQk8IS0tbXliYXRpcy0tPgoJCTxkZXBlbmRlbmN5PgoJCQk8Z3JvdXBJZD5vcmcubXliYXRpcy5zcHJpbmcuYm9vdDwvZ3JvdXBJZD4KCQkJPGFydGlmYWN0SWQ+bXliYXRpcy1zcHJpbmctYm9vdC1zdGFydGVyPC9hcnRpZmFjdElkPgoJCQk8dmVyc2lvbj4xLjMuMTwvdmVyc2lvbj4KCQk8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">QFJlc3RDb250cm9sbGVyCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQk8IS0tIE15QmF0aXMgVHlwZSBIYW5kbGVycyBmb3IgSlNSIDMxMCAtLT4KCQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+b3JnLm15YmF0aXM8L2dyb3VwSWQ+CgkJCTxhcnRpZmFjdElkPm15YmF0aXMtdHlwZWhhbmRsZXJzLWpzcjMxMDwvYXJ0aWZhY3RJZD4KCQkJPHZlcnNpb24+MS4wLjI8L3ZlcnNpb24+CgkJPC9kZXBlbmRlbmN5Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGNvbHVtbk92ZXJyaWRlIGNvbHVtbj0ibG9naW5fYXQiIGphdmFUeXBlPSJqYXZhLnRpbWUuTG9jYWxEYXRlVGltZSI+PC9jb2x1bW5PdmVycmlkZT4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGNvbHVtbk92ZXJyaWRlIGNvbHVtbj0iZW5kIiBqYXZhVHlwZT0iamF2YS50aW1lLkxvY2FsRGF0ZSI+PC9jb2x1bW5PdmVycmlkZT4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGNvbHVtbk92ZXJyaWRlIGNvbHVtbj0ibG9naW5fYXQiIGphdmFUeXBlPSJqYXZhLnRpbWUuTG9jYWxEYXRlVGltZSI+PC9jb2x1bW5PdmVycmlkZT4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CTxidWlsZD4KCQk8cGx1Z2lucz4KCQkJPHBsdWdpbj4KCQkJCTxncm91cElkPm9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDwvZ3JvdXBJZD4KCQkJCTxhcnRpZmFjdElkPnNwcmluZy1ib290LW1hdmVuLXBsdWdpbjwvYXJ0aWZhY3RJZD4KCQkJPC9wbHVnaW4+CgkJPC9wbHVnaW5zPgoJPC9idWlsZD4K</text>
+        <text encoding="base64">ICAgICAgICA8dGFiCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action NextTab</text>
+        <text>action PreviousTab</text>
       </register>
     </registers>
     <search>
@@ -2548,8 +2558,8 @@
         <entry>%s/</entry>
         <entry>%s/UNIQUE KEY/UNIQUE/gc</entry>
         <entry>action ReformatCode</entry>
-        <entry>action PreviousTab</entry>
         <entry>action NextTab</entry>
+        <entry>action PreviousTab</entry>
       </history-cmd>
       <history-expr />
       <history-input />
