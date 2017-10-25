@@ -645,12 +645,12 @@
         <mark key="." line="25" column="34" />
         <mark key="^" line="25" column="34" />
       </file>
-      <file name="$USER_HOME$/code/java/voc/pom.xml" timestamp="1508746914672">
+      <file name="$USER_HOME$/code/java/voc/pom.xml" timestamp="1508932222200">
         <mark key="'" line="47" column="0" />
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="80" column="20" />
-        <mark key="." line="92" column="15" />
-        <mark key="^" line="92" column="15" />
+        <mark key="[" line="108" column="21" />
+        <mark key="]" line="108" column="38" />
+        <mark key="." line="108" column="38" />
+        <mark key="^" line="108" column="38" />
       </file>
       <file name="$USER_HOME$/sync/code/go/src/mingerserver/robotserver/messages_test.go" timestamp="1489576860302">
         <mark key="[" line="0" column="13" />
@@ -2461,8 +2461,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
+      <register name="&quot;" type="4">
+        <text>2</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2569,13 +2569,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>mybatis</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQk8cmVzdWx0IGNvbHVtbj0idGl0bGUiIHByb3BlcnR5PSJ0aXRsZSIgLz4K</text>
+      <register name="0" type="4">
+        <text>velocity</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICApCg==</text>
@@ -2605,7 +2605,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action PreviousTab</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
@@ -2659,8 +2659,8 @@
         <entry>%s/UNIQUE KEY/UNIQUE/gc</entry>
         <entry>q</entry>
         <entry>action NextTab</entry>
-        <entry>action ReformatCode</entry>
         <entry>action PreviousTab</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
