@@ -139,6 +139,12 @@
         <mark key="." line="16" column="14" />
         <mark key="^" line="16" column="14" />
       </file>
+      <file name="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/common/MpMysqlGenerator.java" timestamp="1508914912271">
+        <mark key="[" line="23" column="58" />
+        <mark key="]" line="23" column="58" />
+        <mark key="." line="23" column="58" />
+        <mark key="^" line="23" column="58" />
+      </file>
       <file name="$USER_HOME$/workdir/web/vocs-react/src/components/sidebar.tsx" timestamp="1490762879570">
         <mark key="'" line="3" column="28" />
         <mark key="[" line="3" column="28" />
@@ -355,7 +361,7 @@
         <mark key="^" line="26" column="108" />
         <mark key="." line="26" column="108" />
       </file>
-      <file name="/a.sql" timestamp="1508652385773">
+      <file name="/a.sql" timestamp="1508914631366">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/sync/code/java/ProgrammingProjectList/003-CountVowels/src/CountVowels.java" timestamp="1474772524816">
@@ -631,12 +637,12 @@
         <mark key="." line="107" column="128" />
         <mark key="^" line="107" column="128" />
       </file>
-      <file name="$USER_HOME$/code/java/voc/pom.xml" timestamp="1508746914672">
+      <file name="$USER_HOME$/code/java/voc/pom.xml" timestamp="1508914861341">
         <mark key="'" line="47" column="0" />
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="80" column="20" />
-        <mark key="." line="92" column="15" />
-        <mark key="^" line="92" column="15" />
+        <mark key="[" line="106" column="19" />
+        <mark key="]" line="106" column="19" />
+        <mark key="." line="106" column="19" />
+        <mark key="^" line="106" column="26" />
       </file>
       <file name="$USER_HOME$/code/java/vocs/src/main/resources/application-dev.yml" timestamp="1508673684574">
         <mark key="'" line="0" column="0" />
@@ -1571,12 +1577,12 @@
         <mark key="^" line="0" column="12" />
         <mark key="." line="4" column="10" />
       </file>
-      <file name="$USER_HOME$/code/java/voc/src/main/resources/sql/schema.sql" timestamp="1508749352359">
-        <mark key="'" line="359" column="26" />
-        <mark key="[" line="2" column="5" />
-        <mark key="]" line="2" column="5" />
-        <mark key="." line="2" column="5" />
-        <mark key="^" line="2" column="5" />
+      <file name="$USER_HOME$/code/java/voc/src/main/resources/sql/schema.sql" timestamp="1508914620448">
+        <mark key="'" line="362" column="26" />
+        <mark key="[" line="11" column="12" />
+        <mark key="]" line="11" column="12" />
+        <mark key="." line="11" column="12" />
+        <mark key="^" line="20" column="12" />
       </file>
       <file name="$USER_HOME$/workdir/web/react-components/src/components/form.tsx" timestamp="1492753028632">
         <mark key="'" line="28" column="12" />
@@ -2319,9 +2325,9 @@
         <mark key="^" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/mapper/xml/PermissionMapper.xml" timestamp="1508910058513">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/sync/code/java/xiaoyi/build.gradle" timestamp="1483964103333">
         <mark key="[" line="13" column="27" />
@@ -2459,8 +2465,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CTxzZWxlY3QgaWQ9IiIK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2567,13 +2573,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>making schema</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>mybatis</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">I3NwcmluZwpzcHJpbmc6CiAgZGV2dG9vbHM6CiAgICByZXN0YXJ0OgogICAgICBlbmFibGVkOiBmYWxzZQoKc2VydmVyOgogIHBvcnQ6IDkwOTAKCmRlYnVnOiB0cnVlCmxvZ2dpbmc6CiAgbGV2ZWw6CiAgICByb290OiB3YXJuCiAgICBvcmcuc3ByaW5nZnJhbWV3b3JrLndlYjogd2FybgoKc3ByaW5nOgogIGRhdGFzb3VyY2U6CiAgICB1cmw6IGpkYmM6bXlzcWw6Ly9sb2NhbGhvc3Q6MzMwNi92b2MKICAgIHVzZXJuYW1lOiBrbG5pdQogICAgcGFzc3dvcmQ6IGtsbml1CiAgICBkcml2ZXItY2xhc3MtbmFtZTogY29tLm15c3FsLmpkYmMuRHJpdmVyCiAgICBkcnVpZC5pbml0aWFsLXNpemU6IDEKICAgIGRydWlkLm1pbi1pZGxlOiAxCiAgICBkcnVpZC5tYXgtYWN0aXZlOiAyMAogICAgZHJ1aWQudGVzdC1vbi1ib3Jyb3c6IHRydWUKICAgIGRydWlkLnN0YXQtdmlldy1zZXJ2bGV0LmFsbG93OiB0cnVlCg==</text>
+        <text encoding="base64">ICAgIE9OIFVQREFURSBDQVNDQURFLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CTxzZWxlY3QgaWQ9IiIK</text>
@@ -2603,7 +2609,7 @@
         <text encoding="base64">ICAgIHB1YmxpYyBMb25nIGdldFRlbmFudElkKCkgewo=</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
