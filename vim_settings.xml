@@ -882,7 +882,7 @@
         <mark key="." line="6" column="1" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508847065626">
+      <file name="/Dummy.txt" timestamp="1508934628733">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -2129,7 +2129,8 @@
         <mark key="^" line="153" column="9" />
         <mark key="." line="153" column="9" />
       </file>
-      <file name="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/security/CustomUserService.java" timestamp="1508845861231">
+      <file name="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/security/CustomUserService.java" timestamp="1508934597956">
+        <mark key="'" line="33" column="67" />
         <mark key="[" line="38" column="36" />
         <mark key="]" line="38" column="45" />
         <mark key="." line="38" column="45" />
@@ -2339,7 +2340,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="35" filename="$USER_HOME$/code/java/voc/src/main/resources/sql/schema.sql" />
       <jump line="43" column="49" filename="$USER_HOME$/code/java/voc/src/main/resources/sql/schema.sql" />
       <jump line="28" column="39" filename="$USER_HOME$/code/java/voc/src/main/resources/sql/schema.sql" />
       <jump line="39" column="38" filename="$USER_HOME$/code/java/voc/src/main/resources/sql/schema.sql" />
@@ -2439,6 +2439,7 @@
       <jump line="91" column="67" filename="$USER_HOME$/code/java/mpgenerator/src/main/java/mpgenerator/MpGenerator.java" />
       <jump line="361" column="0" filename="$USER_HOME$/code/java/voc/src/main/resources/sql/schema.sql" />
       <jump line="26" column="0" filename="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/entity/Role.java" />
+      <jump line="33" column="67" filename="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/security/CustomUserService.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
