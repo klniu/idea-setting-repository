@@ -615,7 +615,8 @@
         <mark key="." line="2" column="16" />
         <mark key="^" line="2" column="16" />
       </file>
-      <file name="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/security/auth/AuthController.java" timestamp="1508985809568">
+      <file name="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/security/auth/AuthController.java" timestamp="1508987332399">
+        <mark key="'" line="26" column="45" />
         <mark key="[" line="45" column="4" />
         <mark key="]" line="45" column="4" />
         <mark key="." line="45" column="4" />
@@ -931,7 +932,7 @@
         <mark key="." line="6" column="1" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508923112781">
+      <file name="/Dummy.txt" timestamp="1508987515392">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -2452,7 +2453,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="42" filename="$USER_HOME$/code/java/voc/src/main/resources/sql/schema.sql" />
       <jump line="187" column="31" filename="$USER_HOME$/code/java/voc/src/main/resources/sql/schema.sql" />
       <jump line="366" column="2" filename="$USER_HOME$/code/java/vocs/src/main/resources/sql/schema.sql" />
       <jump line="184" column="0" filename="$USER_HOME$/code/java/vocs/src/main/resources/sql/schema.sql" />
@@ -2552,6 +2552,7 @@
       <jump line="74" column="37" filename="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/security/auth/AuthServiceImpl.java" />
       <jump line="53" column="28" filename="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/security/auth/AuthServiceImpl.java" />
       <jump line="24" column="46" filename="$USER_HOME$/code/example/spring-boot-tut/src/main/java/dev/local/secruity/WebSecurityConfig.java" />
+      <jump line="26" column="45" filename="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/security/auth/AuthController.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2718,7 +2719,7 @@
         <text encoding="base64">ICAgICAgICBmaW5hbCBEYXRlIGNyZWF0ZWQgPSBnZXRDcmVhdGVkRGF0ZUZyb21Ub2tlbih0b2tlbik7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -2766,7 +2767,6 @@
         <entry>%s/components-layout-demo-side/App/gc</entry>
         <entry>%s/Date/LocalDate/gc</entry>
         <entry>%s/</entry>
-        <entry>q</entry>
         <entry>%s/`id`\s+INTEGER/`id` LONG/gc</entry>
         <entry>%s/LONG/BIGINT/gc</entry>
         <entry>%s/_id`\s\+INTEGER/_id` BIGINT/gc</entry>
@@ -2774,6 +2774,7 @@
         <entry>action NextTab</entry>
         <entry>action PreviousTab</entry>
         <entry>action ReformatCode</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
