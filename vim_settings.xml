@@ -37,6 +37,11 @@
         <mark key="." line="3" column="12" />
         <mark key="^" line="3" column="12" />
       </file>
+      <file name="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/service/impl/UserServiceImpl.java" timestamp="1509105052539">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/workdir/web/lawindexer-ui/package.json" timestamp="1492679618246">
         <mark key="[" line="7" column="11" />
         <mark key="]" line="7" column="20" />
@@ -181,6 +186,9 @@
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/examples/mybatisplus-spring-boot/src/main/java/com/baomidou/springboot/service/impl/UserServiceImpl.java" timestamp="1509104936184">
+        <mark key="'" line="21" column="23" />
       </file>
       <file name="$USER_HOME$/workdir/code/law/src/main/resources/sql/test.sql" timestamp="1505983928632">
         <mark key="[" line="2" column="87" />
@@ -2386,8 +2394,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="39" filename="$USER_HOME$/code/java/voc/src/main/resources/sql/schema.sql" />
-      <jump line="39" column="38" filename="$USER_HOME$/code/java/voc/src/main/resources/sql/schema.sql" />
       <jump line="52" column="44" filename="$USER_HOME$/code/java/voc/src/main/resources/sql/schema.sql" />
       <jump line="53" column="11" filename="$USER_HOME$/code/java/voc/src/main/resources/sql/schema.sql" />
       <jump line="54" column="17" filename="$USER_HOME$/code/java/voc/src/main/resources/sql/schema.sql" />
@@ -2486,6 +2492,8 @@
       <jump line="26" column="0" filename="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/entity/Role.java" />
       <jump line="33" column="67" filename="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/security/CustomUserService.java" />
       <jump line="16" column="9" filename="$USER_HOME$/code/java/voc/src/main/resources/application-dev.yml" />
+      <jump line="26" column="15" filename="$USER_HOME$/code/examples/mybatisplus-spring-boot/src/main/java/com/baomidou/springboot/service/impl/UserServiceImpl.java" />
+      <jump line="21" column="23" filename="$USER_HOME$/code/examples/mybatisplus-spring-boot/src/main/java/com/baomidou/springboot/service/impl/UserServiceImpl.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2508,8 +2516,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>/*</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5iYW9taWRvdS5teWJhdGlzcGx1cy5tYXBwZXIuQmFzZU1hcHBlcjsK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2619,74 +2627,73 @@
         <text>/*</text>
       </register>
       <register name="/" type="4">
-        <text>mybatis</text>
+        <text encoding="base64">XDxiYXNlTWFwcGVyXD4=</text>
       </register>
       <register name="0" type="4">
         <text>velocity</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBMaXN0PEZpbGVPdXRDb25maWc+IGZvY0xpc3QgPSBuZXcgQXJyYXlMaXN0PEZpbGVPdXRDb25maWc+KCk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5iYW9taWRvdS5teWJhdGlzcGx1cy5tYXBwZXIuQmFzZU1hcHBlcjsK</text>
       </register>
-      <register name="2" type="8">
-        <text>//
-//
-//
-//
-//
-//
-//
-//
-//</text>
+      <register name="2" type="2">
+        <text encoding="base64">CQo=</text>
       </register>
-      <register name="3" type="8">
-        <text>//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//</text>
+      <register name="3" type="2">
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEJhc2VNYXBwZXIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c3ByaW5nOgo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBMaXN0PEZpbGVPdXRDb25maWc+IGZvY0xpc3QgPSBuZXcgQXJyYXlMaXN0PEZpbGVPdXRDb25maWc+KCk7Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="8">
+        <text>//
+//
+//
+//
+//
+//
+//
+//
+//</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBkYXRhc291cmNlOgogICAgdXJsOiBqZGJjOm15c3FsOi8vbG9jYWxob3N0OjMzMDYvdm9jCiAgICB1c2VybmFtZToga2xuaXUKICAgIHBhc3N3b3JkOiBrbG5pdQogICAgZHJpdmVyLWNsYXNzLW5hbWU6IGNvbS5teXNxbC5qZGJjLkRyaXZlcgogICAgZHJ1aWQuaW5pdGlhbC1zaXplOiAxCiAgICBkcnVpZC5taW4taWRsZTogMQogICAgZHJ1aWQubWF4LWFjdGl2ZTogMjAKICAgIGRydWlkLnRlc3Qtb24tYm9ycm93OiB0cnVlCiAgICBkcnVpZC5zdGF0LXZpZXctc2VydmxldC5hbGxvdzogdHJ1ZQo=</text>
+      <register name="7" type="8">
+        <text>//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">U1RBUlQgVFJBTlNBQ1RJT047Cg==</text>
+        <text encoding="base64">c3ByaW5nOgo=</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
-      <last-search>mybatis</last-search>
+      <last-search encoding="base64">XDxiYXNlTWFwcGVyXD4=</last-search>
       <last-offset />
-      <last-pattern>mybatis</last-pattern>
+      <last-pattern encoding="base64">XDxiYXNlTWFwcGVyXD4=</last-pattern>
       <last-replace>UNIQUE</last-replace>
       <last-substitute>UNIQUE KEY</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>console</entry>
         <entry>mysql</entry>
         <entry>properti</entry>
         <entry>com</entry>
@@ -2706,6 +2713,7 @@
         <entry>law</entry>
         <entry>date</entry>
         <entry>mybatis</entry>
+        <entry encoding="base64">XDxiYXNlTWFwcGVyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/v['\w*']/v.\1/gc</entry>
