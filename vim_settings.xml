@@ -485,7 +485,7 @@
       <file name="/dummy.sql" timestamp="1508312617400">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509010769124">
+      <file name="/Dummy.txt" timestamp="1509093502587">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1603,10 +1603,11 @@
         <mark key="." line="107" column="128" />
         <mark key="^" line="107" column="128" />
       </file>
-      <file name="$USER_HOME$/code/java/voc/src/test/java/com/klniu/voc/security/auth/AuthControllerTest.java" timestamp="1509089560392">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/code/java/voc/src/test/java/com/klniu/voc/security/auth/AuthControllerTest.java" timestamp="1509093288340">
+        <mark key="[" line="15" column="9" />
+        <mark key="]" line="13" column="21" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="11" column="0" />
       </file>
       <file name="$USER_HOME$/code/java/voc/pom.xml" timestamp="1508922583152">
         <mark key="'" line="47" column="0" />
@@ -1738,6 +1739,12 @@
         <mark key="]" line="10" column="37" />
         <mark key="." line="10" column="37" />
         <mark key="^" line="10" column="37" />
+      </file>
+      <file name="$USER_HOME$/code/java/voc/src/test/resources/sql/auth.sql" timestamp="1509093106757">
+        <mark key="[" line="2" column="69" />
+        <mark key="]" line="2" column="69" />
+        <mark key="^" line="2" column="69" />
+        <mark key="." line="2" column="69" />
       </file>
       <file name="$USER_HOME$/sync/code/go/src/mingerserver/robotserver/robot.go" timestamp="1489582848440">
         <mark key="'" line="80" column="0" />
@@ -2609,8 +2616,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2717,7 +2724,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>finish jwt and spring security authority</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>mybatis</text>
