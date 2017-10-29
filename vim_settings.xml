@@ -592,6 +592,9 @@
       <file name="/&lt;Generic SQL&gt; Fragment (LdarSettingMapper.xml:1774).sql" timestamp="1508667106270">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/security/auth/AuthController.java" timestamp="1509256296827">
+        <mark key="'" line="26" column="42" />
+      </file>
       <file name="$USER_HOME$/sync/code/go/src/LawIndexer/views/index.tpl" timestamp="1491390763591">
         <mark key="[" line="83" column="17" />
         <mark key="]" line="83" column="21" />
@@ -1071,7 +1074,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="368" column="0" filename="$USER_HOME$/code/java/voc/src/main/resources/sql/schema.sql" />
       <jump line="5" column="39" filename="$USER_HOME$/code/java/voc/src/main/resources/sql/schema.sql" />
       <jump line="434" column="0" filename="$USER_HOME$/code/java/voc/src/main/resources/sql/schema.sql" />
       <jump line="306" column="17" filename="$USER_HOME$/code/java/voc/src/main/resources/sql/schema.sql" />
@@ -1171,6 +1173,7 @@
       <jump line="127" column="32" filename="$USER_HOME$/code/java/voc/pom.xml" />
       <jump line="128" column="24" filename="$USER_HOME$/code/java/voc/pom.xml" />
       <jump line="129" column="23" filename="$USER_HOME$/code/java/voc/pom.xml" />
+      <jump line="26" column="42" filename="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/security/auth/AuthController.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1347,7 +1350,7 @@
       <last-replace>UNIQUE</last-replace>
       <last-substitute>UNIQUE KEY</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
