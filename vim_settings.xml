@@ -35,6 +35,9 @@
         <mark key="." line="15" column="35" />
         <mark key="^" line="15" column="35" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.5.23/tomcat-embed-core-8.5.23.jar!/javax/servlet/FilterChain.class" timestamp="1509506335019">
+        <mark key="'" line="9" column="17" />
+      </file>
       <file name="$USER_HOME$/workdir/code/voc-ui/src/constants/ActionTypes.js" timestamp="1500202940649">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="12" />
@@ -692,12 +695,11 @@
         <mark key="." line="59" column="4" />
         <mark key="^" line="59" column="4" />
       </file>
-      <file name="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/security/JwtAuthenticationTokenFilter.java" timestamp="1509504357068">
-        <mark key="'" line="67" column="19" />
-        <mark key="[" line="40" column="42" />
-        <mark key="]" line="40" column="49" />
-        <mark key="^" line="40" column="49" />
-        <mark key="." line="40" column="49" />
+      <file name="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/security/JwtAuthenticationTokenFilter.java" timestamp="1509506792284">
+        <mark key="'" line="38" column="19" />
+        <mark key="[" line="38" column="12" />
+        <mark key="]" line="38" column="22" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/sync/code/java/xiaoyi/src/main/java/com/klniu/xiaoyi/BDYuYin/BDRecognize.java" timestamp="1484225825787">
         <mark key="[" line="36" column="59" />
@@ -1027,9 +1029,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="405" column="7" filename="$USER_HOME$/code/java/voc/src/main/resources/sql/schema.sql" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/java/voc/src/main/resources/sql/schema.sql" />
-      <jump line="3" column="42" filename="$USER_HOME$/code/java/voc/src/main/resources/sql/schema.sql" />
       <jump line="187" column="31" filename="$USER_HOME$/code/java/voc/src/main/resources/sql/schema.sql" />
       <jump line="366" column="2" filename="$USER_HOME$/code/java/vocs/src/main/resources/sql/schema.sql" />
       <jump line="184" column="0" filename="$USER_HOME$/code/java/vocs/src/main/resources/sql/schema.sql" />
@@ -1127,6 +1126,9 @@
       <jump line="65" column="19" filename="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/security/JwtAuthenticationTokenFilter.java" />
       <jump line="77" column="51" filename="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/security/WebSecurityConfig.java" />
       <jump line="43" column="41" filename="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/security/WebSecurityConfig.java" />
+      <jump line="67" column="10" filename="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/security/JwtAuthenticationTokenFilter.java" />
+      <jump line="38" column="19" filename="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/security/JwtAuthenticationTokenFilter.java" />
+      <jump line="9" column="17" filename="$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.5.23/tomcat-embed-core-8.5.23.jar!/javax/servlet/FilterChain.class" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1150,7 +1152,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>warn</text>
+        <text>FilterChain</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -1260,54 +1262,53 @@
         <text>warn</text>
       </register>
       <register name="/" type="4">
-        <text>lom</text>
+        <text>statement</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbyhyZXF1ZXN0LmdldFBhcmFtZXRlcigidXNlcm5hbWUiKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbyhyZXF1ZXN0LmdldFBhcmFtZXRlcigicGFzc3dvcmQiKSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBsZXZlbDogd2Fybgo=</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbyhyZXF1ZXN0LmdldFBhcmFtZXRlcigidXNlcm5hbWUiKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bG9nZ2luZzoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">I2xvZ2dpbmcK</text>
+        <text encoding="base64">ICBsZXZlbDogd2Fybgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">VFJVTkNBVEUgVEFCTEUgdm9jLnVzZXI7Cg==</text>
+        <text encoding="base64">bG9nZ2luZzoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">VFJVTkNBVEUgVEFCTEUgdm9jLnVzZXI7Cg==</text>
+        <text encoding="base64">I2xvZ2dpbmcK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QUxURVIgVEFCTEUgdm9jLnVzZXIgQVVUT19JTkNSRU1FTlQgPSAxOwo=</text>
+        <text encoding="base64">VFJVTkNBVEUgVEFCTEUgdm9jLnVzZXI7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Q09NTUlUOwo=</text>
+        <text encoding="base64">VFJVTkNBVEUgVEFCTEUgdm9jLnVzZXI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">U1RBUlQgVFJBTlNBQ1RJT047Cg==</text>
+        <text encoding="base64">QUxURVIgVEFCTEUgdm9jLnVzZXIgQVVUT19JTkNSRU1FTlQgPSAxOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action NextTab</text>
       </register>
     </registers>
     <search>
-      <last-search>lom</last-search>
+      <last-search>statement</last-search>
       <last-offset />
-      <last-pattern>lom</last-pattern>
+      <last-pattern>statement</last-pattern>
       <last-replace>UNIQUE</last-replace>
       <last-substitute>UNIQUE KEY</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>factory</entry>
         <entry>session</entry>
         <entry>hibernate</entry>
         <entry>hiber</entry>
@@ -1327,6 +1328,7 @@
         <entry encoding="base64">XDxteWJhdGlzcGx1c1w+</entry>
         <entry encoding="base64">XDx1c2VyTWFwcGVyXD4=</entry>
         <entry>lom</entry>
+        <entry>statement</entry>
       </history-search>
       <history-cmd>
         <entry>%s/v['\w*']/v.\1/gc</entry>
