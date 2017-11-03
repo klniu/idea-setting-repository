@@ -344,7 +344,8 @@
       <file name="/a.sql" timestamp="1509498784735">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/security/auth/AuthServiceImpl.java" timestamp="1509107457075">
+      <file name="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/security/auth/AuthServiceImpl.java" timestamp="1509693534699">
+        <mark key="'" line="57" column="74" />
         <mark key="[" line="69" column="8" />
         <mark key="]" line="69" column="10" />
         <mark key="." line="69" column="10" />
@@ -560,14 +561,13 @@
       <file name="/&lt;Generic SQL&gt; Fragment (LdarSettingMapper.xml:1774).sql" timestamp="1508667106270">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/security/auth/AuthController.java" timestamp="1509503606573">
-        <mark key="'" line="26" column="39" />
+      <file name="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/security/auth/AuthController.java" timestamp="1509693398633">
+        <mark key="'" line="27" column="42" />
         <mark key="[" line="26" column="105" />
         <mark key="]" line="26" column="104" />
         <mark key="^" line="26" column="104" />
         <mark key="." line="26" column="104" />
       </file>
-      <file name="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/security/JwtAuthenticationRequest.java" timestamp="1509503637145" />
       <file name="$USER_HOME$/sync/code/go/src/LawIndexer/views/index.tpl" timestamp="1491390763591">
         <mark key="[" line="83" column="17" />
         <mark key="]" line="83" column="21" />
@@ -1029,8 +1029,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="187" column="31" filename="$USER_HOME$/code/java/voc/src/main/resources/sql/schema.sql" />
-      <jump line="366" column="2" filename="$USER_HOME$/code/java/vocs/src/main/resources/sql/schema.sql" />
       <jump line="184" column="0" filename="$USER_HOME$/code/java/vocs/src/main/resources/sql/schema.sql" />
       <jump line="292" column="11" filename="$USER_HOME$/code/java/vocs/src/main/resources/sql/schema.sql" />
       <jump line="279" column="31" filename="$USER_HOME$/code/java/vocs/src/main/resources/sql/schema.sql" />
@@ -1129,6 +1127,8 @@
       <jump line="67" column="10" filename="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/security/JwtAuthenticationTokenFilter.java" />
       <jump line="38" column="19" filename="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/security/JwtAuthenticationTokenFilter.java" />
       <jump line="9" column="17" filename="$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.5.23/tomcat-embed-core-8.5.23.jar!/javax/servlet/FilterChain.class" />
+      <jump line="27" column="42" filename="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/security/auth/AuthController.java" />
+      <jump line="57" column="74" filename="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/security/auth/AuthServiceImpl.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1305,7 +1305,7 @@
       <last-replace>UNIQUE</last-replace>
       <last-substitute>UNIQUE KEY</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
