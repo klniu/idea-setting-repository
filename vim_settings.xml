@@ -344,10 +344,10 @@
       <file name="/a.sql" timestamp="1509498784735">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/security/auth/AuthServiceImpl.java" timestamp="1509693534699">
-        <mark key="'" line="57" column="74" />
-        <mark key="[" line="69" column="8" />
-        <mark key="]" line="69" column="10" />
+      <file name="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/security/auth/AuthServiceImpl.java" timestamp="1509870486622">
+        <mark key="'" line="32" column="23" />
+        <mark key="[" line="32" column="12" />
+        <mark key="]" line="32" column="32" />
         <mark key="." line="69" column="10" />
         <mark key="^" line="69" column="10" />
       </file>
@@ -616,12 +616,12 @@
         <mark key="." line="30" column="34" />
         <mark key="^" line="30" column="33" />
       </file>
-      <file name="$USER_HOME$/code/java/voc/pom.xml" timestamp="1509248239499">
-        <mark key="'" line="129" column="23" />
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="^" line="108" column="38" />
-        <mark key="." line="51" column="0" />
+      <file name="$USER_HOME$/code/java/voc/pom.xml" timestamp="1509869621509">
+        <mark key="'" line="133" column="23" />
+        <mark key="[" line="79" column="36" />
+        <mark key="]" line="79" column="43" />
+        <mark key="^" line="79" column="43" />
+        <mark key="." line="79" column="43" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/untitled/src/Test.java" timestamp="1472951202493">
         <mark key="[" line="4" column="23" />
@@ -695,7 +695,7 @@
         <mark key="." line="59" column="4" />
         <mark key="^" line="59" column="4" />
       </file>
-      <file name="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/security/JwtAuthenticationTokenFilter.java" timestamp="1509506792284">
+      <file name="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/security/JwtAuthenticationTokenFilter.java" timestamp="1509868817261">
         <mark key="'" line="38" column="19" />
         <mark key="[" line="38" column="12" />
         <mark key="]" line="38" column="22" />
@@ -762,8 +762,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/security/WebSecurityConfig.java" timestamp="1509505016710">
-        <mark key="'" line="43" column="41" />
+      <file name="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/security/WebSecurityConfig.java" timestamp="1509869961024">
+        <mark key="'" line="79" column="80" />
+        <mark key="[" line="70" column="26" />
+        <mark key="]" line="70" column="36" />
+        <mark key="^" line="70" column="25" />
+        <mark key="." line="70" column="26" />
       </file>
       <file name="$USER_HOME$/sync/code/java/xiaoyi/src/test/java/com/klniu/xiaoyi/IndexFilesTest.java" timestamp="1484307733700">
         <mark key="[" line="53" column="21" />
@@ -922,11 +926,11 @@
         <mark key="." line="4" column="4" />
         <mark key="^" line="4" column="3" />
       </file>
-      <file name="$USER_HOME$/code/java/voc/src/main/resources/application-dev.yml" timestamp="1509504769931">
-        <mark key="[" line="21" column="9" />
-        <mark key="]" line="21" column="13" />
-        <mark key="." line="21" column="13" />
-        <mark key="^" line="21" column="13" />
+      <file name="$USER_HOME$/code/java/voc/src/main/resources/application-dev.yml" timestamp="1509870464260">
+        <mark key="[" line="24" column="9" />
+        <mark key="]" line="24" column="38" />
+        <mark key="." line="24" column="38" />
+        <mark key="^" line="24" column="38" />
       </file>
       <file name="$USER_HOME$/sync/code/java/xiaoyi/src/main/java/com/klniu/xiaoyi/CommandPutter.java" timestamp="1486011186959">
         <mark key="[" line="10" column="16" />
@@ -1029,7 +1033,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="184" column="0" filename="$USER_HOME$/code/java/vocs/src/main/resources/sql/schema.sql" />
       <jump line="292" column="11" filename="$USER_HOME$/code/java/vocs/src/main/resources/sql/schema.sql" />
       <jump line="279" column="31" filename="$USER_HOME$/code/java/vocs/src/main/resources/sql/schema.sql" />
       <jump line="418" column="0" filename="$USER_HOME$/code/java/vocs/src/main/resources/sql/schema.sql" />
@@ -1122,13 +1125,14 @@
       <jump line="129" column="23" filename="$USER_HOME$/code/java/voc/pom.xml" />
       <jump line="26" column="39" filename="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/security/auth/AuthController.java" />
       <jump line="65" column="19" filename="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/security/JwtAuthenticationTokenFilter.java" />
-      <jump line="77" column="51" filename="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/security/WebSecurityConfig.java" />
       <jump line="43" column="41" filename="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/security/WebSecurityConfig.java" />
       <jump line="67" column="10" filename="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/security/JwtAuthenticationTokenFilter.java" />
       <jump line="38" column="19" filename="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/security/JwtAuthenticationTokenFilter.java" />
       <jump line="9" column="17" filename="$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.5.23/tomcat-embed-core-8.5.23.jar!/javax/servlet/FilterChain.class" />
       <jump line="27" column="42" filename="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/security/auth/AuthController.java" />
+      <jump line="77" column="80" filename="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/security/WebSecurityConfig.java" />
       <jump line="57" column="74" filename="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/security/auth/AuthServiceImpl.java" />
+      <jump line="32" column="23" filename="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/security/auth/AuthServiceImpl.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1152,7 +1156,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>FilterChain</text>
+        <text>AuthenticationManager</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -1259,13 +1263,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>warn</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>statement</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbyhyZXF1ZXN0LmdldFBhcmFtZXRlcigidXNlcm5hbWUiKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yay5ib290PC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5zcHJpbmctYm9vdC1zdGFydGVyLXNlY3VyaXR5PC9hcnRpZmFjdElkPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbyhyZXF1ZXN0LmdldFBhcmFtZXRlcigicGFzc3dvcmQiKSk7Cg==</text>
