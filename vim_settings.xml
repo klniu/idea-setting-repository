@@ -399,7 +399,10 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/security/JwtAuthenticationEntryPoint.java" timestamp="1509935225369" />
+      <file name="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/security/JwtAuthenticationEntryPoint.java" timestamp="1509954499955">
+        <mark key="[" line="12" column="52" />
+        <mark key="]" line="12" column="75" />
+      </file>
       <file name="$USER_HOME$/code/java/law/src/test/java/com/klniu/law/service/impl/LawServiceImplTest.java" timestamp="1507789069520">
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="0" />
@@ -1161,7 +1164,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>AbstractSecurityWebApplicationInitializer</text>
+        <text>AuthenticationEntryPoint</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
