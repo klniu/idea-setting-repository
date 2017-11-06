@@ -774,12 +774,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/security/WebSecurityConfig.java" timestamp="1509952803134">
+      <file name="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/security/WebSecurityConfig.java" timestamp="1509957632371">
         <mark key="'" line="21" column="48" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="29" column="12" />
-        <mark key="." line="29" column="12" />
-        <mark key="^" line="29" column="12" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="73" />
+        <mark key="." line="27" column="24" />
+        <mark key="^" line="27" column="24" />
       </file>
       <file name="$USER_HOME$/sync/code/java/xiaoyi/src/test/java/com/klniu/xiaoyi/IndexFilesTest.java" timestamp="1484307733700">
         <mark key="[" line="53" column="21" />
@@ -861,6 +861,12 @@
         <mark key="]" line="2" column="63" />
         <mark key="." line="2" column="63" />
         <mark key="^" line="2" column="63" />
+      </file>
+      <file name="$USER_HOME$/code/example/jwt-spring-security-demo/src/main/java/org/zerhusen/config/WebSecurityConfig.java" timestamp="1509957660216">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="73" />
+        <mark key="^" line="23" column="39" />
+        <mark key="." line="23" column="39" />
       </file>
       <file name="$USER_HOME$/sync/code/java/xiaoyi/src/main/resources/log4j2.xml" timestamp="1484972685247">
         <mark key="[" line="4" column="89" />
@@ -1167,8 +1173,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>AuthenticationManager</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByb3RlY3RlZCB2b2lkIGNvbmZpZ3VyZShIdHRwU2VjdXJpdHkgaHR0cFNlY3VyaXR5KSB0aHJvd3MgRXhjZXB0aW9uIHsK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -1281,7 +1287,7 @@
         <text>statement</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbyhyZXF1ZXN0LmdldFBhcmFtZXRlcigidXNlcm5hbWUiKSk7Cg==</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCB2b2lkIGNvbmZpZ3VyZShIdHRwU2VjdXJpdHkgaHR0cFNlY3VyaXR5KSB0aHJvd3MgRXhjZXB0aW9uIHsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
