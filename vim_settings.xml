@@ -399,6 +399,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/example/jwt-spring-security-demo/src/main/java/org/zerhusen/security/service/JwtUserDetailsServiceImpl.java" timestamp="1510045916324" />
       <file name="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/security/JwtAuthenticationEntryPoint.java" timestamp="1509954499955">
         <mark key="[" line="12" column="52" />
         <mark key="]" line="12" column="75" />
@@ -774,10 +775,10 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/security/WebSecurityConfig.java" timestamp="1510043596427">
+      <file name="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/security/WebSecurityConfig.java" timestamp="1510045628574">
         <mark key="'" line="21" column="48" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="29" column="13" />
+        <mark key="[" line="77" column="17" />
+        <mark key="]" line="77" column="31" />
         <mark key="." line="29" column="13" />
         <mark key="^" line="29" column="13" />
       </file>
@@ -862,10 +863,10 @@
         <mark key="." line="2" column="63" />
         <mark key="^" line="2" column="63" />
       </file>
-      <file name="$USER_HOME$/code/example/jwt-spring-security-demo/src/main/java/org/zerhusen/config/WebSecurityConfig.java" timestamp="1510043905599">
-        <mark key="'" line="45" column="28" />
-        <mark key="[" line="31" column="4" />
-        <mark key="]" line="16" column="4" />
+      <file name="$USER_HOME$/code/example/jwt-spring-security-demo/src/main/java/org/zerhusen/config/WebSecurityConfig.java" timestamp="1510045732786">
+        <mark key="'" line="45" column="31" />
+        <mark key="[" line="77" column="66" />
+        <mark key="]" line="77" column="101" />
         <mark key="^" line="16" column="4" />
         <mark key="." line="16" column="4" />
       </file>
@@ -887,7 +888,6 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/model_test.go" timestamp="1509246300016" />
       <file name="$USER_HOME$/workdir/code/law/src/main/resources/sql/clear.sql" timestamp="1506475844836">
         <mark key="[" line="1" column="12" />
         <mark key="]" line="1" column="19" />
@@ -1029,6 +1029,11 @@
         <mark key="^" line="17" column="64" />
         <mark key="." line="10" column="21" />
       </file>
+      <file name="$USER_HOME$/code/example/jwt-spring-security-demo/src/main/java/org/zerhusen/security/JwtAuthenticationTokenFilter.java" timestamp="1510045814652">
+        <mark key="'" line="62" column="144" />
+        <mark key="[" line="25" column="12" />
+        <mark key="]" line="25" column="29" />
+      </file>
       <file name="$USER_HOME$/workdir/code/law/src/main/java/util/MyMapper.java" timestamp="1505463926546">
         <mark key="[" line="0" column="27" />
         <mark key="]" line="1" column="0" />
@@ -1052,8 +1057,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="418" column="0" filename="$USER_HOME$/code/java/vocs/src/main/resources/sql/schema.sql" />
-      <jump line="59" column="69" filename="$USER_HOME$/code/java/vocs/src/main/resources/sql/schema.sql" />
       <jump line="422" column="0" filename="$USER_HOME$/code/java/vocs/src/main/resources/sql/schema.sql" />
       <jump line="375" column="0" filename="$USER_HOME$/code/java/vocs/src/main/resources/sql/schema.sql" />
       <jump line="275" column="26" filename="$USER_HOME$/code/java/vocs/src/main/resources/sql/schema.sql" />
@@ -1150,8 +1153,10 @@
       <jump line="27" column="42" filename="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/security/auth/AuthController.java" />
       <jump line="57" column="74" filename="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/security/auth/AuthServiceImpl.java" />
       <jump line="21" column="48" filename="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/security/WebSecurityConfig.java" />
-      <jump line="77" column="46" filename="$USER_HOME$/code/example/jwt-spring-security-demo/src/main/java/org/zerhusen/config/WebSecurityConfig.java" />
-      <jump line="45" column="28" filename="$USER_HOME$/code/example/jwt-spring-security-demo/src/main/java/org/zerhusen/config/WebSecurityConfig.java" />
+      <jump line="26" column="49" filename="$USER_HOME$/code/example/jwt-spring-security-demo/src/main/java/org/zerhusen/config/WebSecurityConfig.java" />
+      <jump line="62" column="144" filename="$USER_HOME$/code/example/jwt-spring-security-demo/src/main/java/org/zerhusen/security/JwtAuthenticationTokenFilter.java" />
+      <jump line="77" column="45" filename="$USER_HOME$/code/example/jwt-spring-security-demo/src/main/java/org/zerhusen/config/WebSecurityConfig.java" />
+      <jump line="45" column="31" filename="$USER_HOME$/code/example/jwt-spring-security-demo/src/main/java/org/zerhusen/config/WebSecurityConfig.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1174,8 +1179,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
+      <register name="&quot;" type="4">
+        <text>UserDetailsService</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -1285,7 +1290,7 @@
         <text>Authentication</text>
       </register>
       <register name="/" type="4">
-        <text>statement</text>
+        <text encoding="base64">XDx1bmF1dGhvcml6ZWRIYW5kbGVyXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByb3RlY3RlZCB2b2lkIGNvbmZpZ3VyZShIdHRwU2VjdXJpdHkgaHR0cFNlY3VyaXR5KSB0aHJvd3MgRXhjZXB0aW9uIHsK</text>
@@ -1322,17 +1327,16 @@
       </register>
     </registers>
     <search>
-      <last-search>statement</last-search>
+      <last-search encoding="base64">XDx1bmF1dGhvcml6ZWRIYW5kbGVyXD4=</last-search>
       <last-offset />
-      <last-pattern>statement</last-pattern>
+      <last-pattern encoding="base64">XDx1bmF1dGhvcml6ZWRIYW5kbGVyXD4=</last-pattern>
       <last-replace>UNIQUE</last-replace>
       <last-substitute>UNIQUE KEY</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>session</entry>
         <entry>hibernate</entry>
         <entry>hiber</entry>
         <entry>druid</entry>
@@ -1352,6 +1356,7 @@
         <entry encoding="base64">XDx1c2VyTWFwcGVyXD4=</entry>
         <entry>lom</entry>
         <entry>statement</entry>
+        <entry encoding="base64">XDx1bmF1dGhvcml6ZWRIYW5kbGVyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/v['\w*']/v.\1/gc</entry>
