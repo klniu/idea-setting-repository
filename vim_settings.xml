@@ -13,11 +13,20 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="11" column="64" />
       </file>
+      <file name="$USER_HOME$/code/example/jwt-spring-security-demo/src/test/java/org/zerhusen/rest/AuthenticationRestControllerTest.java" timestamp="1510213844322">
+        <mark key="'" line="80" column="39" />
+      </file>
       <file name="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/entity/User.java" timestamp="1510207967002">
         <mark key="[" line="43" column="35" />
         <mark key="]" line="44" column="27" />
         <mark key="^" line="44" column="27" />
         <mark key="." line="44" column="27" />
+      </file>
+      <file name="$USER_HOME$/code/example/jwt-spring-security-demo/src/main/java/org/zerhusen/model/security/AuthorityName.java" timestamp="1510213416571">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="24" />
+        <mark key="^" line="2" column="12" />
+        <mark key="." line="2" column="12" />
       </file>
       <file name="$USER_HOME$/code/example/jwt-spring-security-demo/src/main/java/org/zerhusen/security/JwtUserFactory.java" timestamp="1510120428688">
         <mark key="'" line="7" column="41" />
@@ -48,11 +57,15 @@
         <mark key="^" line="16" column="4" />
         <mark key="." line="16" column="4" />
       </file>
-      <file name="$USER_HOME$/code/java/voc/src/test/resources/com/klniu/voc/security/web/auth.sql" timestamp="1510212564335">
-        <mark key="[" line="5" column="18" />
-        <mark key="]" line="5" column="26" />
-        <mark key="^" line="5" column="26" />
-        <mark key="." line="5" column="26" />
+      <file name="$USER_HOME$/code/java/voc/src/test/resources/com/klniu/voc/security/web/auth.sql" timestamp="1510213232937">
+        <mark key="[" line="7" column="32" />
+        <mark key="]" line="7" column="32" />
+        <mark key="^" line="7" column="32" />
+        <mark key="." line="7" column="32" />
+      </file>
+      <file name="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/entity/enums/FactoryStructureEnum.java" timestamp="1510214050836">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="28" column="4" />
       </file>
       <file name="/a.sql" timestamp="1509498784735">
         <mark key="[" line="0" column="0" />
@@ -63,6 +76,11 @@
         <mark key="]" line="69" column="10" />
         <mark key="." line="69" column="10" />
         <mark key="^" line="69" column="10" />
+      </file>
+      <file name="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/entity/Role.java" timestamp="1510214085589">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/security/JwtUser.java" timestamp="1510210661447">
         <mark key="[" line="29" column="10" />
@@ -117,14 +135,18 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/code/example/jwt-spring-security-demo/src/main/java/org/zerhusen/model/security/Authority.java" timestamp="1510213900290">
+        <mark key="[" line="18" column="4" />
+        <mark key="]" line="18" column="14" />
+      </file>
       <file name="$USER_HOME$/code/examples/mybatisplus-spring-boot/src/main/java/com/baomidou/springboot/service/impl/UserServiceImpl.java" timestamp="1509108607143">
         <mark key="'" line="21" column="18" />
       </file>
-      <file name="$USER_HOME$/code/java/voc/src/test/java/com/klniu/voc/security/web/AuthenticationRestControllerTest.java" timestamp="1510212088051">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-        <mark key="^" line="58" column="16" />
+      <file name="$USER_HOME$/code/java/voc/src/test/java/com/klniu/voc/security/web/AuthenticationRestControllerTest.java" timestamp="1510213828896">
+        <mark key="[" line="79" column="22" />
+        <mark key="]" line="79" column="29" />
+        <mark key="." line="79" column="29" />
+        <mark key="^" line="79" column="29" />
       </file>
       <file name="$USER_HOME$/code/java/voc/src/main/resources/sql/schema.sql" timestamp="1510120882228">
         <mark key="'" line="363" column="0" />
@@ -132,6 +154,12 @@
         <mark key="]" line="7" column="41" />
         <mark key="^" line="7" column="42" />
         <mark key="." line="7" column="41" />
+      </file>
+      <file name="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/entity/enums/RoleName.java" timestamp="1510214079592">
+        <mark key="[" line="7" column="21" />
+        <mark key="]" line="7" column="30" />
+        <mark key="." line="7" column="30" />
+        <mark key="^" line="7" column="30" />
       </file>
       <file name="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/security/WebSecurityConfig.java" timestamp="1510120260118">
         <mark key="'" line="43" column="32" />
@@ -178,8 +206,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="146" column="9" filename="$USER_HOME$/code/java/vocs/src/main/resources/sql/schema.sql" />
-      <jump line="170" column="9" filename="$USER_HOME$/code/java/vocs/src/main/resources/sql/schema.sql" />
       <jump line="183" column="9" filename="$USER_HOME$/code/java/vocs/src/main/resources/sql/schema.sql" />
       <jump line="196" column="13" filename="$USER_HOME$/code/java/vocs/src/main/resources/sql/schema.sql" />
       <jump line="199" column="9" filename="$USER_HOME$/code/java/vocs/src/main/resources/sql/schema.sql" />
@@ -278,6 +304,8 @@
       <jump line="1" column="58" filename="$USER_HOME$/code/example/jwt-spring-security-demo/src/main/resources/import.sql" />
       <jump line="11" column="65" filename="$USER_HOME$/code/example/jwt-spring-security-demo/src/main/resources/import.sql" />
       <jump line="0" column="0" filename="$USER_HOME$/code/example/jwt-spring-security-demo/src/main/resources/import.sql" />
+      <jump line="82" column="36" filename="$USER_HOME$/code/example/jwt-spring-security-demo/src/test/java/org/zerhusen/rest/AuthenticationRestControllerTest.java" />
+      <jump line="80" column="39" filename="$USER_HOME$/code/example/jwt-spring-security-demo/src/test/java/org/zerhusen/rest/AuthenticationRestControllerTest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -300,8 +328,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>user_role</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -408,45 +436,47 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>user_role</text>
+        <text>extends</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDTEFJTV9LRVlfQVVESUVOQ0VcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPnRlc3Q8L3Njb3BlPgo=</text>
+        <text encoding="base64">ICAgIEBKc29uVmFsdWUgLy8gSmFja3NvbiDms6jop6PvvIzlj6/luo/liJfljJbor6XlsZ7mgKfkuLrkuK3mlofmj4/ov7DjgJDlj6/ml6DjgJEKICAgIHB1YmxpYyBTdHJpbmcgZ2V0RGVzYygpewogICAgICAgIHJldHVybiB0aGlzLmRlc2M7CiAgICB9Cg==</text>
       </register>
-      <register name="1" type="8">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CUBFbnVtZXJhdGVkKEVudW1UeXBlLlNUUklORykK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIEBKc29uVmFsdWUgLy8gSmFja3NvbiDms6jop6PvvIzlj6/luo/liJfljJbor6XlsZ7mgKfkuLrkuK3mlofmj4/ov7DjgJDlj6/ml6DjgJEKICAgIHB1YmxpYyBTdHJpbmcgZ2V0RGVzYygpewoKICAgIH0K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="8">
+        <text>authority
+authority
+authority
+authority</text>
+      </register>
+      <register name="6" type="8">
+        <text>USER_AUTHORITY
+USER_AUTHORITY
+USER_AUTHORITY
+USER_AUTHORITY</text>
+      </register>
+      <register name="7" type="8">
         <text>ID, NAME
 ID, NAME</text>
       </register>
-      <register name="2" type="2">
+      <register name="8" type="2">
         <text encoding="base64">IyBub2luc3BlY3Rpb24gU3FsTm9EYXRhU291cmNlSW5zcGVjdGlvbkZvckZpbGUK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">SU5TRVJUIElOVE8gdXNlciAodXNlcm5hbWUsIHBhc3N3b3JkLCBzYWx0LCBlbWFpbCwgY3JlYXRlX2F0KSBWQUxVRSAoCiAgImtsbml1IiwgImtsbml1IiwgInNhbHQiLCAiaHVnaGdhbzAxQGdtYWlsbC5jb20iLCAiMjAxNy0wMS0wMSAwMDowMDowMCIpOwoK</text>
-      </register>
-      <register name="4" type="8">
-        <text>, ENABLED
-, ENABLED
-, ENABLED</text>
-      </register>
-      <register name="5" type="8">
-        <text>, LASTPASSWORDRESETDATE
-, LASTPASSWORDRESETDATE
-, LASTPASSWORDRESETDATE</text>
-      </register>
-      <register name="6" type="8">
-        <text encoding="base64">RklSU1ROQU1FLCBMQVNUTkFNRSwgCkZJUlNUTkFNRSwgTEFTVE5BTUUsIA==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5MaXN0Owo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tIGh0dHBzOi8vbXZucmVwb3NpdG9yeS5jb20vYXJ0aWZhY3Qvb3JnLnNwcmluZ2ZyYW1ld29yay5ib290L3NwcmluZy1ib290LXNlY3VyaXR5LXRlc3RzIC0tPgogICAgICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICA8Z3JvdXBJZD5vcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPnNwcmluZy1ib290LXNlY3VyaXR5LXRlc3RzPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8c2NvcGU+dGVzdDwvc2NvcGU+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
+        <text encoding="base64">SU5TRVJUIElOVE8gdXNlciAodXNlcm5hbWUsIHBhc3N3b3JkLCBzYWx0LCBlbWFpbCwgY3JlYXRlX2F0KSBWQUxVRSAoCiAgImtsbml1IiwgImtsbml1IiwgInNhbHQiLCAiaHVnaGdhbzAxQGdtYWlsbC5jb20iLCAiMjAxNy0wMS0wMSAwMDowMDowMCIpOwoK</text>
       </register>
       <register name=":" type="4">
         <text>action PreviousTab</text>
@@ -502,8 +532,8 @@ ID, NAME</text>
         <entry>%s/</entry>
         <entry>%s/UNIQUE KEY/UNIQUE/gc</entry>
         <entry>q</entry>
-        <entry>action NextTab</entry>
         <entry>action ReformatCode</entry>
+        <entry>action NextTab</entry>
         <entry>action PreviousTab</entry>
       </history-cmd>
       <history-expr />
