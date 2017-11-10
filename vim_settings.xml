@@ -24,6 +24,11 @@
         <mark key="^" line="44" column="27" />
         <mark key="." line="44" column="27" />
       </file>
+      <file name="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/security/auth/AuthService.java" timestamp="1510278996703">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/code/example/jwt-spring-security-demo/src/main/java/org/zerhusen/model/security/AuthorityName.java" timestamp="1510213416571">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="24" />
@@ -62,12 +67,12 @@
       <file name="/a.sql" timestamp="1510217248300">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/security/auth/AuthServiceImpl.java" timestamp="1509693534699">
-        <mark key="'" line="57" column="74" />
-        <mark key="[" line="69" column="8" />
-        <mark key="]" line="69" column="10" />
-        <mark key="." line="69" column="10" />
-        <mark key="^" line="69" column="10" />
+      <file name="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/security/auth/AuthServiceImpl.java" timestamp="1510279163478">
+        <mark key="'" line="59" column="74" />
+        <mark key="[" line="29" column="34" />
+        <mark key="]" line="32" column="33" />
+        <mark key="^" line="32" column="33" />
+        <mark key="." line="32" column="33" />
       </file>
       <file name="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/entity/Role.java" timestamp="1510215071662">
         <mark key="[" line="31" column="21" />
@@ -82,6 +87,12 @@
         <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/model_test.go" timestamp="1510275097467" />
+      <file name="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/mapper/RoleMapper.java" timestamp="1510279564295">
+        <mark key="[" line="17" column="25" />
+        <mark key="]" line="17" column="37" />
+        <mark key="^" line="17" column="37" />
+        <mark key="." line="17" column="37" />
+      </file>
       <file name="$USER_HOME$/code/java/voc/pom.xml" timestamp="1510212071062">
         <mark key="'" line="135" column="23" />
         <mark key="[" line="93" column="0" />
@@ -141,8 +152,8 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/code/java/voc/src/test/java/com/klniu/voc/security/web/AuthenticationRestControllerTest.java" timestamp="1510276317398">
-        <mark key="'" line="95" column="45" />
+      <file name="$USER_HOME$/code/java/voc/src/test/java/com/klniu/voc/security/web/AuthenticationRestControllerTest.java" timestamp="1510278393021">
+        <mark key="'" line="95" column="44" />
         <mark key="[" line="49" column="0" />
         <mark key="]" line="50" column="24" />
         <mark key="." line="50" column="24" />
@@ -310,9 +321,7 @@
       <jump line="18" column="51" filename="$USER_HOME$/code/java/voc/src/test/java/com/klniu/voc/security/web/AuthenticationRestControllerTest.java" />
       <jump line="51" column="34" filename="$USER_HOME$/code/java/voc/src/test/java/com/klniu/voc/security/web/AuthenticationRestControllerTest.java" />
       <jump line="50" column="0" filename="$USER_HOME$/code/java/voc/src/test/java/com/klniu/voc/security/web/AuthenticationRestControllerTest.java" />
-      <jump line="72" column="71" filename="$USER_HOME$/code/java/voc/src/test/java/com/klniu/voc/security/web/AuthenticationRestControllerTest.java" />
       <jump line="93" column="44" filename="$USER_HOME$/code/java/voc/src/test/java/com/klniu/voc/security/web/AuthenticationRestControllerTest.java" />
-      <jump line="95" column="45" filename="$USER_HOME$/code/java/voc/src/test/java/com/klniu/voc/security/web/AuthenticationRestControllerTest.java" />
       <jump line="31" column="24" filename="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/security/JwtTokenUtil.java" />
       <jump line="47" column="36" filename="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/security/JwtTokenUtil.java" />
       <jump line="51" column="19" filename="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/security/JwtTokenUtil.java" />
@@ -320,6 +329,8 @@
       <jump line="43" column="37" filename="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/security/web/AuthenticationRestController.java" />
       <jump line="93" column="26" filename="$USER_HOME$/code/example/jwt-spring-security-demo/src/test/java/org/zerhusen/rest/AuthenticationRestControllerTest.java" />
       <jump line="51" column="19" filename="$USER_HOME$/code/example/jwt-spring-security-demo/src/test/java/org/zerhusen/rest/AuthenticationRestControllerTest.java" />
+      <jump line="72" column="76" filename="$USER_HOME$/code/java/voc/src/test/java/com/klniu/voc/security/web/AuthenticationRestControllerTest.java" />
+      <jump line="95" column="44" filename="$USER_HOME$/code/java/voc/src/test/java/com/klniu/voc/security/web/AuthenticationRestControllerTest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -342,8 +353,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">QmVhcmVyIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB1c2VyVG9BZGQuc2V0TGFzdFBhc3N3b3JkUmVzZXREYXRlKG5ldyBEYXRlKCkpOwo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -450,7 +461,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>mySecret</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0b2tlbkhlYWRlclw+</text>
@@ -459,31 +470,31 @@
         <text encoding="base64">REVMRVRFIEZST00gdm9jLnJvbGU7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBEYXRlIGNyZWF0ZWQgPSBnZXRJc3N1ZWRBdERhdGVGcm9tVG9rZW4odG9rZW4pOwo=</text>
+        <text encoding="base64">ICAgICAgICB1c2VyVG9BZGQuc2V0TGFzdFBhc3N3b3JkUmVzZXREYXRlKG5ldyBEYXRlKCkpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBEYXRlIGNyZWF0ZWQgPSBnZXRJc3N1ZWRBdERhdGVGcm9tVG9rZW4odG9rZW4pOwo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnVzZXJSZXBvc2l0b3J5ID0gdXNlclJlcG9zaXRvcnk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgQm9vbGVhbiBpc0NyZWF0ZWRCZWZvcmVMYXN0UGFzc3dvcmRSZXNldChEYXRlIGNyZWF0ZWQsIERhdGUgbGFzdFBhc3N3b3JkUmVzZXQpIHsKICAgICAgICByZXR1cm4gKGxhc3RQYXNzd29yZFJlc2V0ICE9IG51bGwgJiYgY3JlYXRlZC5iZWZvcmUobGFzdFBhc3N3b3JkUmVzZXQpKTsKICAgIH0KCg==</text>
+        <text encoding="base64">aW1wb3J0IGRldi5sb2NhbC51c2VyLlVzZXJSZXBvc2l0b3J5Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0QXVkaWVuY2VGcm9tVG9rZW4oU3RyaW5nIHRva2VuKSB7CiAgICAgICAgcmV0dXJuIGdldENsYWltRnJvbVRva2VuKHRva2VuLCBDbGFpbXM6OmdldEF1ZGllbmNlKTsKICAgIH0KCg==</text>
+        <text encoding="base64">aW1wb3J0IGRldi5sb2NhbC51c2VyLlVzZXI7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuc2VjdXJpdHkuYXV0aGVudGljYXRpb24uQXV0aGVudGljYXRpb25NYW5hZ2VyOwo=</text>
+        <text encoding="base64">aW1wb3J0IGRldi5sb2NhbC5zZWNydWl0eS5Kd3RVc2VyOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5rbG5pdS52b2MubWFwcGVyLlJvbGVNYXBwZXI7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGRldi5sb2NhbC5zZWNydWl0eS5Kd3RUb2tlblV0aWw7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBNb2NrQmVhbgogICAgcHJpdmF0ZSBBdXRoZW50aWNhdGlvbk1hbmFnZXIgYXV0aGVudGljYXRpb25NYW5hZ2VyOwoK</text>
+        <text encoding="base64">aW1wb3J0IGRldi5sb2NhbC51c2VyLlVzZXI7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICBATW9ja0JlYW4KICAgIHByaXZhdGUgUm9sZU1hcHBlciByb2xlTWFwcGVyOwo=</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBEYXRlIGNyZWF0ZWQgPSBnZXRJc3N1ZWRBdERhdGVGcm9tVG9rZW4odG9rZW4pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBEYXRlIGNyZWF0ZWQgPSBnZXRJc3N1ZWRBdERhdGVGcm9tVG9rZW4odG9rZW4pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action NextTab</text>
