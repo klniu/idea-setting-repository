@@ -120,11 +120,12 @@
       <file name="$USER_HOME$/code/examples/mybatisplus-spring-boot/src/main/java/com/baomidou/springboot/service/impl/UserServiceImpl.java" timestamp="1509108607143">
         <mark key="'" line="21" column="18" />
       </file>
-      <file name="$USER_HOME$/code/java/voc/src/test/java/com/klniu/voc/security/web/AuthenticationRestControllerTest.java" timestamp="1510621616607">
-        <mark key="'" line="95" column="44" />
-        <mark key="[" line="135" column="0" />
-        <mark key="]" line="135" column="0" />
-        <mark key="." line="135" column="0" />
+      <file name="$USER_HOME$/code/java/voc/src/test/java/com/klniu/voc/security/web/AuthenticationRestControllerTest.java" timestamp="1510622210178">
+        <mark key="'" line="68" column="0" />
+        <mark key="[" line="142" column="8" />
+        <mark key="]" line="142" column="7" />
+        <mark key="." line="142" column="7" />
+        <mark key="^" line="142" column="7" />
       </file>
       <file name="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/entity/enums/RoleName.java" timestamp="1510214079592">
         <mark key="[" line="7" column="21" />
@@ -159,6 +160,10 @@
         <mark key="]" line="16" column="44" />
         <mark key="^" line="16" column="44" />
         <mark key="." line="16" column="44" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-core/4.2.1.RELEASE/769c71e5a9b5f5f40c075d3d158e3d54c051dd36/spring-security-core-4.2.1.RELEASE-sources.jar!/org/springframework/security/crypto/bcrypt/BCryptPasswordEncoder.java" timestamp="1510622436987">
+        <mark key="[" line="33" column="13" />
+        <mark key="]" line="33" column="33" />
       </file>
       <file name="$USER_HOME$/code/java/voc/src/test/resources/com/klniu/voc/security/web/clear.sql" timestamp="1510218413196">
         <mark key="[" line="2" column="16" />
@@ -208,12 +213,6 @@
         <mark key="." line="31" column="24" />
         <mark key="^" line="31" column="24" />
       </file>
-      <file name="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/security/JwtUser.java" timestamp="1510216166627">
-        <mark key="'" line="66" column="0" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-      </file>
       <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/model_test.go" timestamp="1510621306309" />
       <file name="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/mapper/RoleMapper.java" timestamp="1510303261351">
         <mark key="[" line="16" column="0" />
@@ -250,18 +249,15 @@
         <mark key="^" line="38" column="3" />
         <mark key="." line="38" column="3" />
       </file>
+      <file name="$USER_HOME$/code/example/spring-boot-tut/src/main/java/dev/local/auth/AuthServiceImpl.java" timestamp="1510622409883">
+        <mark key="'" line="50" column="28" />
+      </file>
       <file name="$USER_HOME$/code/java/voc/src/main/resources/sql/schema.sql" timestamp="1510217240151">
         <mark key="'" line="32" column="0" />
         <mark key="[" line="31" column="8" />
         <mark key="]" line="31" column="11" />
         <mark key="^" line="31" column="11" />
         <mark key="." line="31" column="11" />
-      </file>
-      <file name="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/security/web/AuthenticationRestController.java" timestamp="1510276488523">
-        <mark key="'" line="43" column="37" />
-        <mark key="[" line="64" column="50" />
-        <mark key="]" line="64" column="50" />
-        <mark key="." line="64" column="50" />
       </file>
       <file name="$USER_HOME$/code/example/jwt-spring-security-demo/src/main/java/org/zerhusen/security/JwtAuthenticationTokenFilter.java" timestamp="1510277352956">
         <mark key="[" line="39" column="63" />
@@ -282,8 +278,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="91" column="67" filename="$USER_HOME$/code/java/mpgenerator/src/main/java/mpgenerator/MpGenerator.java" />
-      <jump line="361" column="0" filename="$USER_HOME$/code/java/voc/src/main/resources/sql/schema.sql" />
       <jump line="26" column="0" filename="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/entity/Role.java" />
       <jump line="33" column="67" filename="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/security/CustomUserService.java" />
       <jump line="16" column="9" filename="$USER_HOME$/code/java/voc/src/main/resources/application-dev.yml" />
@@ -382,6 +376,8 @@
       <jump line="78" column="32" filename="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/security/auth/AuthenticationRestController.java" />
       <jump line="62" column="31" filename="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/security/auth/AuthServiceImpl.java" />
       <jump line="20" column="24" filename="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/mapper/UserMapper.java" />
+      <jump line="68" column="0" filename="$USER_HOME$/code/java/voc/src/test/java/com/klniu/voc/security/web/AuthenticationRestControllerTest.java" />
+      <jump line="50" column="28" filename="$USER_HOME$/code/example/spring-boot-tut/src/main/java/dev/local/auth/AuthServiceImpl.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -404,8 +400,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VyVG9BZGQuc2V0UGFzc3dvcmQoKTsK</text>
+      <register name="&quot;" type="4">
+        <text>BCryptPasswordEncoder</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -512,13 +508,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>successfulAuthenticationWithAnonymousUser</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0b2tlbkhlYWRlclw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgQXV0aFNlcnZpY2UgYXV0aFNlcnZpY2U7Cg==</text>
+        <text encoding="base64">ICAgIEBUZXN0CiAgICBAV2l0aEFub255bW91c1VzZXIKICAgIHB1YmxpYyB2b2lkIHN1Y2Nlc3NmdWxBdXRoZW50aWNhdGlvbldpdGhBbm9ueW1vdXNVc2VyKCkgdGhyb3dzIEV4Y2VwdGlvbiB7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB1c2VyVG9BZGQuc2V0UGFzc3dvcmQoKTsK</text>
