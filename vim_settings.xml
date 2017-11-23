@@ -255,6 +255,13 @@
         <mark key="." line="1" column="56" />
         <mark key="^" line="1" column="56" />
       </file>
+      <file name="$USER_HOME$/code/python/autostock/scraper-jd.py" timestamp="1511411859544">
+        <mark key="'" line="328" column="31" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="748" column="17" />
+      </file>
       <file name="$USER_HOME$/sync/code/java/livesim/DESIGN.md" timestamp="1479355574389">
         <mark key="[" line="11" column="16" />
         <mark key="]" line="13" column="19" />
@@ -1074,17 +1081,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="39" filename="$USER_HOME$/code/java/voc/src/main/resources/sql/schema.sql" />
-      <jump line="434" column="0" filename="$USER_HOME$/code/java/voc/src/main/resources/sql/schema.sql" />
-      <jump line="306" column="17" filename="$USER_HOME$/code/java/voc/src/main/resources/sql/schema.sql" />
-      <jump line="405" column="7" filename="$USER_HOME$/code/java/voc/src/main/resources/sql/schema.sql" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/java/voc/src/main/resources/sql/schema.sql" />
-      <jump line="3" column="42" filename="$USER_HOME$/code/java/voc/src/main/resources/sql/schema.sql" />
-      <jump line="187" column="31" filename="$USER_HOME$/code/java/voc/src/main/resources/sql/schema.sql" />
-      <jump line="366" column="2" filename="$USER_HOME$/code/java/vocs/src/main/resources/sql/schema.sql" />
-      <jump line="184" column="0" filename="$USER_HOME$/code/java/vocs/src/main/resources/sql/schema.sql" />
-      <jump line="292" column="11" filename="$USER_HOME$/code/java/vocs/src/main/resources/sql/schema.sql" />
-      <jump line="279" column="31" filename="$USER_HOME$/code/java/vocs/src/main/resources/sql/schema.sql" />
       <jump line="418" column="0" filename="$USER_HOME$/code/java/vocs/src/main/resources/sql/schema.sql" />
       <jump line="59" column="69" filename="$USER_HOME$/code/java/vocs/src/main/resources/sql/schema.sql" />
       <jump line="422" column="0" filename="$USER_HOME$/code/java/vocs/src/main/resources/sql/schema.sql" />
@@ -1174,6 +1170,17 @@
       <jump line="128" column="24" filename="$USER_HOME$/code/java/voc/pom.xml" />
       <jump line="129" column="23" filename="$USER_HOME$/code/java/voc/pom.xml" />
       <jump line="26" column="42" filename="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/security/auth/AuthController.java" />
+      <jump line="496" column="13" filename="$USER_HOME$/code/python/autostock/scraper-jd.py" />
+      <jump line="570" column="48" filename="$USER_HOME$/code/python/autostock/scraper-jd.py" />
+      <jump line="627" column="17" filename="$USER_HOME$/code/python/autostock/scraper-jd.py" />
+      <jump line="642" column="47" filename="$USER_HOME$/code/python/autostock/scraper-jd.py" />
+      <jump line="651" column="13" filename="$USER_HOME$/code/python/autostock/scraper-jd.py" />
+      <jump line="671" column="21" filename="$USER_HOME$/code/python/autostock/scraper-jd.py" />
+      <jump line="16" column="0" filename="$USER_HOME$/code/python/autostock/scraper-jd.py" />
+      <jump line="39" column="19" filename="$USER_HOME$/code/python/autostock/scraper-jd.py" />
+      <jump line="333" column="22" filename="$USER_HOME$/code/python/autostock/scraper-jd.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/python/autostock/scraper-jd.py" />
+      <jump line="328" column="31" filename="$USER_HOME$/code/python/autostock/scraper-jd.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1196,8 +1203,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">VEFCTEUg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -1304,58 +1311,56 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">VEFCTEUg</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>lom</text>
+        <text>eog</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQk8bWF2ZW4uY29tcGlsZXIuc291cmNlPjEuNzwvbWF2ZW4uY29tcGlsZXIuc291cmNlPgoJCTxtYXZlbi5jb21waWxlci50YXJnZXQ+MS43PC9tYXZlbi5jb21waWxlci50YXJnZXQ+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">VFJVTkNBVEUgVEFCTEUgdm9jLnVzZXI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">VFJVTkNBVEUgVEFCTEUgdm9jLnVzZXI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QUxURVIgVEFCTEUgdm9jLnVzZXIgQVVUT19JTkNSRU1FTlQgPSAxOwo=</text>
+        <text encoding="base64">c3lzLnNldGRlZmF1bHRlbmNvZGluZygndXRmLTgnKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Q09NTUlUOwo=</text>
+        <text encoding="base64">cmVsb2FkKHN5cykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">U1RBUlQgVFJBTlNBQ1RJT047Cg==</text>
+        <text encoding="base64">VFJVTkNBVEUgVEFCTEUgdm9jLnVzZXI7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">VFJVTkNBVEUgVEFCTEUgdm9jLnVzZXI7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIE15YmF0aXNQbHVzQ29uZmlnIHsK</text>
+        <text encoding="base64">QUxURVIgVEFCTEUgdm9jLnVzZXIgQVVUT19JTkNSRU1FTlQgPSAxOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgSVVzZXJTZXJ2aWNlIHVzZXI7Cg==</text>
+        <text encoding="base64">Q09NTUlUOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">U1RBUlQgVFJBTlNBQ1RJT047Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action NextTab</text>
+        <text encoding="base64">JzwsJz5zLyQvKS9nYw==</text>
       </register>
     </registers>
     <search>
-      <last-search>lom</last-search>
+      <last-search>eog</last-search>
       <last-offset />
-      <last-pattern>lom</last-pattern>
-      <last-replace>UNIQUE</last-replace>
-      <last-substitute>UNIQUE KEY</last-substitute>
+      <last-pattern>eog</last-pattern>
+      <last-replace>)</last-replace>
+      <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>factory</entry>
-        <entry>session</entry>
         <entry>hibernate</entry>
         <entry>hiber</entry>
         <entry>druid</entry>
@@ -1374,9 +1379,10 @@
         <entry encoding="base64">XDxteWJhdGlzcGx1c1w+</entry>
         <entry encoding="base64">XDx1c2VyTWFwcGVyXD4=</entry>
         <entry>lom</entry>
+        <entry>$</entry>
+        <entry>eog</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/v['\w*']/v.\1/gc</entry>
         <entry>%s/v\['\w*'\]/v.\1/gc</entry>
         <entry>%s/v\['\(\w*\)'\]/v.\1/gc</entry>
         <entry>%s/、/-/gc</entry>
@@ -1396,6 +1402,7 @@
         <entry>action PreviousTab</entry>
         <entry>action ReformatCode</entry>
         <entry>action NextTab</entry>
+        <entry encoding="base64">JzwsJz5zLyQvKS9nYw==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
