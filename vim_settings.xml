@@ -402,12 +402,12 @@
         <mark key="^" line="16" column="44" />
         <mark key="." line="16" column="44" />
       </file>
-      <file name="$USER_HOME$/code/python/autostock/jd.py" timestamp="1511423248104">
-        <mark key="'" line="20" column="38" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="22" />
-        <mark key="^" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/code/python/autostock/jd.py" timestamp="1511424512818">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="36" column="11" />
+        <mark key="]" line="35" column="40" />
+        <mark key="^" line="35" column="40" />
+        <mark key="." line="35" column="40" />
       </file>
       <file name="$USER_HOME$/workdir/code/clear/build.gradle" timestamp="1500536437307">
         <mark key="[" line="59" column="0" />
@@ -1091,7 +1091,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="313" column="29" filename="$USER_HOME$/code/java/vocs/src/main/resources/sql/schema.sql" />
       <jump line="368" column="17" filename="$USER_HOME$/code/java/vocs/src/main/resources/sql/schema.sql" />
       <jump line="372" column="9" filename="$USER_HOME$/code/java/vocs/src/main/resources/sql/schema.sql" />
       <jump line="374" column="9" filename="$USER_HOME$/code/java/vocs/src/main/resources/sql/schema.sql" />
@@ -1181,7 +1180,6 @@
       <jump line="120" column="16" filename="$USER_HOME$/code/python/autostock/jd.py" />
       <jump line="74" column="18" filename="$USER_HOME$/code/python/autostock/jd.py" />
       <jump line="20" column="15" filename="$USER_HOME$/code/python/autostock/jd.py" />
-      <jump line="4" column="7" filename="$USER_HOME$/code/python/autostock/jd.py" />
       <jump line="58" column="24" filename="$USER_HOME$/code/python/autostock/jd.py" />
       <jump line="62" column="10" filename="$USER_HOME$/code/python/autostock/jd.py" />
       <jump line="107" column="14" filename="$USER_HOME$/code/python/autostock/jd.py" />
@@ -1191,6 +1189,8 @@
       <jump line="60" column="26" filename="$USER_HOME$/code/python/autostock/jd.py" />
       <jump line="106" column="8" filename="$USER_HOME$/code/python/autostock/jd.py" />
       <jump line="19" column="38" filename="$USER_HOME$/code/python/autostock/jd.py" />
+      <jump line="35" column="15" filename="$USER_HOME$/code/python/autostock/jd.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/code/python/autostock/jd.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1214,7 +1214,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">IyAtKi0gY29kaW5nOiBVVEYtOCAtKi0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -1321,7 +1321,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>川</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxydXNoXD4=</text>
@@ -1330,31 +1330,31 @@
         <text encoding="base64">ICAgIHsicGxhdGZvcm0iOiAiamQiLCAiaWQiOiAiIiwgIm5hbWUiOiAi5Yaw5bedIiwgIndlaWdodCI6IDJ9LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChyZXN1bHQpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChkYXRhKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXEgPSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChyZXN1bHQpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXEgPSAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBiczQgaW1wb3J0IEJlYXV0aWZ1bFNvdXAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG9zCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
+        <text encoding="base64">ZnJvbSBiczQgaW1wb3J0IEJlYXV0aWZ1bFNvdXAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHJlCg==</text>
+        <text encoding="base64">aW1wb3J0IG9zCg==</text>
       </register>
       <register name=":" type="4">
         <text>action NextTab</text>
