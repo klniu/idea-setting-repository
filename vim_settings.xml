@@ -433,11 +433,12 @@
         <mark key="^" line="46" column="88" />
         <mark key="." line="46" column="88" />
       </file>
-      <file name="$USER_HOME$/code/python/autostock/main.py" timestamp="1511524918655">
-        <mark key="[" line="52" column="36" />
-        <mark key="]" line="52" column="39" />
-        <mark key="^" line="52" column="39" />
-        <mark key="." line="52" column="39" />
+      <file name="$USER_HOME$/code/python/autostock/main.py" timestamp="1511526625068">
+        <mark key="'" line="4" column="10" />
+        <mark key="[" line="57" column="17" />
+        <mark key="]" line="57" column="23" />
+        <mark key="^" line="57" column="23" />
+        <mark key="." line="57" column="23" />
       </file>
       <file name="$USER_HOME$/sync/code/java/livesim/src/main/java/User.java" timestamp="1479368336893">
         <mark key="[" line="7" column="28" />
@@ -1067,8 +1068,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="55" filename="$USER_HOME$/code/java/vocs/src/main/resources/generator/generatorConfig.xml" />
-      <jump line="294" column="19" filename="$USER_HOME$/code/java/vocs/src/main/resources/sql/schema.sql" />
       <jump line="9" column="16" filename="$USER_HOME$/code/java/vocs/src/main/resources/sql/schema.sql" />
       <jump line="195" column="19" filename="$USER_HOME$/code/java/vocs/src/main/resources/sql/schema.sql" />
       <jump line="233" column="23" filename="$USER_HOME$/code/java/vocs/src/main/resources/sql/schema.sql" />
@@ -1167,6 +1166,8 @@
       <jump line="31" column="0" filename="$USER_HOME$/code/python/autostock/main.py" />
       <jump line="18" column="0" filename="$USER_HOME$/code/python/autostock/main.py" />
       <jump line="25" column="29" filename="$USER_HOME$/code/python/autostock/test_functions.py" />
+      <jump line="56" column="16" filename="$USER_HOME$/code/python/autostock/main.py" />
+      <jump line="4" column="10" filename="$USER_HOME$/code/python/autostock/main.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1189,8 +1190,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>debug</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYnJlYWsK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -1306,31 +1307,31 @@
         <text encoding="base64">ICAgICAgICBmaC5zZXRMZXZlbChsb2dnaW5nLklORk8pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmxvZ2dlci5zZXRMZXZlbChsb2dnaW5nLklORk8pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnJlYWsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQoZ2VuZXJhdGVfbXNnKG5pdVsnbmFtZSddLCBjb252ZXJ0KSkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmxvZ2dlci5zZXRMZXZlbChsb2dnaW5nLklORk8pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRhdGEgPSBbCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQoZ2VuZXJhdGVfbXNnKG5pdVsnbmFtZSddLCBjb252ZXJ0KSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGludWUK</text>
+        <text encoding="base64">ICAgIGRhdGEgPSBbCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChnZW5lcmF0ZV9tc2coIuWwj+mUpumypCIsIGNvbnZlcnQpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29udGludWUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIF0sICd0aW1lJzogJzA5OjM1OjI5J30sCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChnZW5lcmF0ZV9tc2coIuWwj+mUpumypCIsIGNvbnZlcnQpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHsnZGVhbCc6ICcyNi45NicsICdwb3NBZnRlcic6ICcwLjAwJScsICdwb3NCZWZvcmUnOiAnMTEuMjIlJywKICAgICAgICAgICAgICAgICAnc3RvY2tDb2RlJzogJ1NaMzAwNDEzJywKICAgICAgICAgICAgICAgICAnc3RvY2tOYW1lJzogJ+W/q+S5kOi0rScsICd0eXBlJzogJ3NhbGUnfSwKICAgICAgICAgICAgICAgIHsnZGVhbCc6ICcxMS4yMScsCiAgICAgICAgICAgICAgICAgJ3Bvc0FmdGVyJzogJzAwLjAwJScsCiAgICAgICAgICAgICAgICAgJ3Bvc0JlZm9yZSc6ICc1My4xMCUnLAogICAgICAgICAgICAgICAgICdzdG9ja0NvZGUnOiAnU1ozMDA0MTEnLAogICAgICAgICAgICAgICAgICdzdG9ja05hbWUnOiAn5rWL6K+V6IKhJywKICAgICAgICAgICAgICAgICAndHlwZSc6ICdzYWxlJ30sCiAgICAgICAgICAgIF0sICd0aW1lJzogJzA5OjM1OjI5J30sCg==</text>
+        <text encoding="base64">ICAgIF0sICd0aW1lJzogJzA5OjM1OjI5J30sCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgJ3N0b2NrQ29kZSc6ICdTWjMwMDQxMycsCiAgICAgICAgICdzdG9ja05hbWUnOiAn5b+r5LmQ6LStJywgJ3R5cGUnOiAnc2FsZSd9XSwgJ3RpbWUnOiAnMDk6MzU6MjknfSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHsnZGVhbCc6ICcyNi45NicsICdwb3NBZnRlcic6ICcwLjAwJScsICdwb3NCZWZvcmUnOiAnMTEuMjIlJywKICAgICAgICAgICAgICAgICAnc3RvY2tDb2RlJzogJ1NaMzAwNDEzJywKICAgICAgICAgICAgICAgICAnc3RvY2tOYW1lJzogJ+W/q+S5kOi0rScsICd0eXBlJzogJ3NhbGUnfSwKICAgICAgICAgICAgICAgIHsnZGVhbCc6ICcxMS4yMScsCiAgICAgICAgICAgICAgICAgJ3Bvc0FmdGVyJzogJzAwLjAwJScsCiAgICAgICAgICAgICAgICAgJ3Bvc0JlZm9yZSc6ICc1My4xMCUnLAogICAgICAgICAgICAgICAgICdzdG9ja0NvZGUnOiAnU1ozMDA0MTEnLAogICAgICAgICAgICAgICAgICdzdG9ja05hbWUnOiAn5rWL6K+V6IKhJywKICAgICAgICAgICAgICAgICAndHlwZSc6ICdzYWxlJ30sCiAgICAgICAgICAgIF0sICd0aW1lJzogJzA5OjM1OjI5J30sCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgJ3N0b2NrQ29kZSc6ICdTWjMwMDQxMycsCiAgICAgICAgICdzdG9ja05hbWUnOiAn5b+r5LmQ6LStJywgJ3R5cGUnOiAnc2FsZSd9XSwgJ3RpbWUnOiAnMDk6MzU6MjknfSwK</text>
       </register>
       <register name=":" type="4">
         <text>action NextTab</text>
