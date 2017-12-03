@@ -829,6 +829,9 @@
         <mark key="^" line="26" column="17" />
         <mark key="." line="26" column="17" />
       </file>
+      <file name="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/security/auth/AuthService.java" timestamp="1512279798184">
+        <mark key="'" line="6" column="12" />
+      </file>
       <file name="$USER_HOME$/workdir/code/now-antd-js/src/App.css" timestamp="1499414625520">
         <mark key="[" line="18" column="1" />
         <mark key="]" line="21" column="15" />
@@ -871,6 +874,7 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/model_test.go" timestamp="1512279529908" />
       <file name="$USER_HOME$/workdir/code/law/src/main/resources/sql/clear.sql" timestamp="1506475844836">
         <mark key="[" line="1" column="12" />
         <mark key="]" line="1" column="19" />
@@ -970,8 +974,8 @@
         <mark key="^" line="6" column="18" />
         <mark key="." line="6" column="18" />
       </file>
-      <file name="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/security/auth/AuthenticationRestController.java" timestamp="1511352861874">
-        <mark key="'" line="78" column="33" />
+      <file name="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/security/auth/AuthenticationRestController.java" timestamp="1512279790993">
+        <mark key="'" line="78" column="32" />
       </file>
       <file name="$USER_HOME$/workdir/code/voc-ui/src/store.js" timestamp="1500348069811">
         <mark key="[" line="1" column="22" />
@@ -1038,7 +1042,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="360" column="8" filename="$USER_HOME$/code/java/vocs/src/main/resources/sql/schema.sql" />
       <jump line="13" column="13" filename="$USER_HOME$/code/laws/src/main/resources/application.properties" />
       <jump line="0" column="0" filename="$USER_HOME$/code/laws/src/main/resources/application.properties" />
       <jump line="13" column="56" filename="$USER_HOME$/code/java/vocs/src/main/resources/generator/generatorConfig.xml" />
@@ -1131,13 +1134,14 @@
       <jump line="11" column="19" filename="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/4.2.3.RELEASE/spring-security-core-4.2.3.RELEASE.jar!/org/springframework/security/authentication/AuthenticationManager.class" />
       <jump line="76" column="65" filename="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/security/auth/AuthServiceImpl.java" />
       <jump line="8" column="16" filename="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/4.2.3.RELEASE/spring-security-core-4.2.3.RELEASE.jar!/org/springframework/security/core/userdetails/UserDetailsService.class" />
-      <jump line="78" column="33" filename="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/security/auth/AuthenticationRestController.java" />
       <jump line="70" column="36" filename="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/security/auth/AuthServiceImpl.java" />
       <jump line="71" column="0" filename="$USER_HOME$/code/java/voc/src/test/java/com/klniu/voc/security/web/AuthenticationRestControllerTest.java" />
       <jump line="157" column="0" filename="$USER_HOME$/code/java/voc/src/test/java/com/klniu/voc/security/web/AuthenticationRestControllerTest.java" />
       <jump line="63" column="23" filename="$USER_HOME$/code/java/voc/src/test/java/com/klniu/voc/security/web/AuthenticationRestControllerTest.java" />
       <jump line="160" column="0" filename="$USER_HOME$/code/java/voc/src/test/java/com/klniu/voc/security/web/AuthenticationRestControllerTest.java" />
       <jump line="64" column="35" filename="$USER_HOME$/code/java/voc/src/test/java/com/klniu/voc/security/web/AuthenticationRestControllerTest.java" />
+      <jump line="78" column="32" filename="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/security/auth/AuthenticationRestController.java" />
+      <jump line="6" column="12" filename="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/security/auth/AuthService.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
