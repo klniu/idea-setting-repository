@@ -144,6 +144,11 @@
         <mark key="." line="1" column="20" />
         <mark key="^" line="1" column="20" />
       </file>
+      <file name="F:/code/python/autostock/autostock.py" timestamp="1512731170451">
+        <mark key="[" line="242" column="0" />
+        <mark key="]" line="243" column="74" />
+        <mark key="." line="242" column="0" />
+      </file>
       <file name="$USER_HOME$/workdir/code/voc-ui/.gitignore" timestamp="1500627700006">
         <mark key="[" line="58" column="7" />
         <mark key="]" line="59" column="4" />
@@ -1013,7 +1018,8 @@
         <mark key="^" line="9" column="35" />
         <mark key="." line="9" column="35" />
       </file>
-      <file name="C:/ProgramData/Anaconda3/Lib/site-packages/easytrader/ht_clienttrader.py" timestamp="1512393285372">
+      <file name="C:/ProgramData/Anaconda3/Lib/site-packages/easytrader/ht_clienttrader.py" timestamp="1512731500493">
+        <mark key="'" line="170" column="29" />
         <mark key="[" line="211" column="8" />
         <mark key="]" line="196" column="8" />
         <mark key="." line="196" column="8" />
@@ -1222,10 +1228,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="21" filename="$USER_HOME$/code/java/vocs/src/main/resources/sql/schema.sql" />
-      <jump line="19" column="58" filename="$USER_HOME$/code/java/vocs/src/main/resources/generator/generatorConfig.xml" />
-      <jump line="17" column="26" filename="$USER_HOME$/code/java/vocs/src/main/resources/sql/schema.sql" />
-      <jump line="38" column="9" filename="$USER_HOME$/code/java/vocs/src/main/resources/sql/schema.sql" />
       <jump line="48" column="9" filename="$USER_HOME$/code/java/vocs/src/main/resources/sql/schema.sql" />
       <jump line="146" column="9" filename="$USER_HOME$/code/java/vocs/src/main/resources/sql/schema.sql" />
       <jump line="170" column="9" filename="$USER_HOME$/code/java/vocs/src/main/resources/sql/schema.sql" />
@@ -1322,6 +1324,10 @@
       <jump line="21" column="0" filename="$USER_HOME$/code/java/voc/src/test/java/com/klniu/voc/security/web/AuthenticationRestControllerTest.java" />
       <jump line="162" column="48" filename="$USER_HOME$/code/java/voc/src/test/java/com/klniu/voc/security/web/AuthenticationRestControllerTest.java" />
       <jump line="17" column="11" filename="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/service/IUserService.java" />
+      <jump line="199" column="8" filename="C:/ProgramData/Anaconda3/Lib/site-packages/easytrader/ht_clienttrader.py" />
+      <jump line="275" column="25" filename="C:/ProgramData/Anaconda3/Lib/site-packages/easytrader/ht_clienttrader.py" />
+      <jump line="145" column="25" filename="C:/ProgramData/Anaconda3/Lib/site-packages/easytrader/ht_clienttrader.py" />
+      <jump line="170" column="29" filename="C:/ProgramData/Anaconda3/Lib/site-packages/easytrader/ht_clienttrader.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1345,7 +1351,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50KHBhZ2VzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4Y2VwdF9uYW1lID0gZS5fX2NsYXNzX18uX19uYW1lX18KICAgICAgICAgICAgICAgIHNlbGYuX2xvZ19hbmRfbm90aWZ5KCJlcnJvciIsIGV4Y2VwdF9uYW1lICsgIjogIiArIHN0cihlKSkK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -1455,54 +1461,53 @@
         <text>#</text>
       </register>
       <register name="/" type="4">
-        <text>statement</text>
+        <text encoding="base64">XDxfZ2V0X3BvcF9kaWFsb2dfdGl0bGVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBQeVBERjIgaW1wb3J0IFBkZkZpbGVNZXJnZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4Y2VwdF9uYW1lID0gZS5fX2NsYXNzX18uX19uYW1lX18KICAgICAgICAgICAgICAgIHNlbGYuX2xvZ19hbmRfbm90aWZ5KCJlcnJvciIsIGV4Y2VwdF9uYW1lICsgIjogIiArIHN0cihlKSkK</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuX2xvZ19hbmRfbm90aWZ5KCJlcnJvciIsICkK</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgIHByaW50KHBhZ2VzKQo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">KSwgaW50KHJpZ2h0KSkKICAgIHJldHVybiBwYWdlcwo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIGlmIG5vdCBpc2luc3RhbmNlKHBhZ2VzLCBsaXN0KToKICAgICAgICBwcmludCgi0rPK/dOmzqrB0LHtIikKICAgICAgICBleGl0KDEpCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIHBhZ2VzID0gZXZhbChzeXMuYXJndlsyXSkKICAgIGlmIG5vdCBpc2luc3RhbmNlKHBhZ2VzLCBsaXN0KToKICAgICAgICBwcmludCgi0rPK/dOmzqrB0LHtIikKICAgICAgICBleGl0KDEpCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">YXJndiAyLCDM4cihtcTSs8Pmo6zA/cjnWzEsMiwzXQo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHByaW50KHR5cGUobmV3X3BkZikpCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIFBkZkZpbGVNZXJnZXIucGFnZXMK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBQeVBERjIgaW1wb3J0IFBkZkZpbGVNZXJnZXIK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBQeVBERjIgaW1wb3J0IFBkZkZpbGVNZXJnZXIK</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
-      <last-search>statement</last-search>
+      <last-search encoding="base64">XDxfZ2V0X3BvcF9kaWFsb2dfdGl0bGVcPg==</last-search>
       <last-offset />
-      <last-pattern>statement</last-pattern>
+      <last-pattern encoding="base64">XDxfZ2V0X3BvcF9kaWFsb2dfdGl0bGVcPg==</last-pattern>
       <last-replace>UNIQUE</last-replace>
       <last-substitute>statement</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>session</entry>
         <entry>hibernate</entry>
         <entry>hiber</entry>
         <entry>druid</entry>
@@ -1522,6 +1527,7 @@
         <entry encoding="base64">XDx1c2VyTWFwcGVyXD4=</entry>
         <entry>lom</entry>
         <entry>statement</entry>
+        <entry encoding="base64">XDxfZ2V0X3BvcF9kaWFsb2dfdGl0bGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/v\['\w*'\]/v.\1/gc</entry>
