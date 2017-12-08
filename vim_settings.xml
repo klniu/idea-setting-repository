@@ -343,7 +343,6 @@
         <mark key="." line="9" column="7" />
         <mark key="^" line="9" column="7" />
       </file>
-      <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/model_test.go" timestamp="1511434763802" />
       <file name="$USER_HOME$/workdir/web/now-antd/postcss.config.js" timestamp="1492750243397">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
@@ -525,7 +524,7 @@
         <mark key="." line="3" column="3" />
         <mark key="^" line="3" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512730798317">
+      <file name="/Dummy.txt" timestamp="1512733378283">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -680,6 +679,13 @@
         <mark key="." line="11" column="23" />
         <mark key="^" line="11" column="23" />
       </file>
+      <file name="F:/code/python/easytrader/easytrader/ht_clienttrader.py" timestamp="1512733418267">
+        <mark key="'" line="196" column="8" />
+        <mark key="[" line="57" column="55" />
+        <mark key="]" line="57" column="55" />
+        <mark key="^" line="57" column="55" />
+        <mark key="." line="57" column="55" />
+      </file>
       <file name="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/security/auth/AuthenticationRestController.java" timestamp="1511352861874">
         <mark key="'" line="78" column="33" />
         <mark key="[" line="37" column="50" />
@@ -741,7 +747,7 @@
         <mark key="^" line="10" column="21" />
         <mark key="." line="10" column="21" />
       </file>
-      <file name="/Python Console" timestamp="1511524185946">
+      <file name="/Python Console" timestamp="1512733372801">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workdir/web/react-test/src/App.tsx" timestamp="1492489933856">
@@ -1018,12 +1024,12 @@
         <mark key="^" line="9" column="35" />
         <mark key="." line="9" column="35" />
       </file>
-      <file name="C:/ProgramData/Anaconda3/Lib/site-packages/easytrader/ht_clienttrader.py" timestamp="1512731500493">
+      <file name="C:/ProgramData/Anaconda3/Lib/site-packages/easytrader/ht_clienttrader.py" timestamp="1512733007919">
         <mark key="'" line="170" column="29" />
-        <mark key="[" line="211" column="8" />
-        <mark key="]" line="196" column="8" />
-        <mark key="." line="196" column="8" />
-        <mark key="^" line="196" column="8" />
+        <mark key="[" line="57" column="55" />
+        <mark key="]" line="57" column="55" />
+        <mark key="." line="57" column="55" />
+        <mark key="^" line="57" column="55" />
       </file>
       <file name="$USER_HOME$/sync/code/go/src/ldar/direction_test.go" timestamp="1476252942723">
         <mark key="[" line="16" column="19" />
@@ -1228,7 +1234,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="9" filename="$USER_HOME$/code/java/vocs/src/main/resources/sql/schema.sql" />
       <jump line="146" column="9" filename="$USER_HOME$/code/java/vocs/src/main/resources/sql/schema.sql" />
       <jump line="170" column="9" filename="$USER_HOME$/code/java/vocs/src/main/resources/sql/schema.sql" />
       <jump line="183" column="9" filename="$USER_HOME$/code/java/vocs/src/main/resources/sql/schema.sql" />
@@ -1328,6 +1333,7 @@
       <jump line="275" column="25" filename="C:/ProgramData/Anaconda3/Lib/site-packages/easytrader/ht_clienttrader.py" />
       <jump line="145" column="25" filename="C:/ProgramData/Anaconda3/Lib/site-packages/easytrader/ht_clienttrader.py" />
       <jump line="170" column="29" filename="C:/ProgramData/Anaconda3/Lib/site-packages/easytrader/ht_clienttrader.py" />
+      <jump line="196" column="8" filename="F:/code/python/easytrader/easytrader/ht_clienttrader.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1350,8 +1356,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4Y2VwdF9uYW1lID0gZS5fX2NsYXNzX18uX19uYW1lX18KICAgICAgICAgICAgICAgIHNlbGYuX2xvZ19hbmRfbm90aWZ5KCJlcnJvciIsIGV4Y2VwdF9uYW1lICsgIjogIiArIHN0cihlKSkK</text>
+      <register name="&quot;" type="4">
+        <text>app = pywinauto.Application().start(</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
