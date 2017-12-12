@@ -1166,6 +1166,13 @@
         <mark key="." line="4" column="4" />
         <mark key="^" line="4" column="3" />
       </file>
+      <file name="D:/code/python/autostock/autostock.py" timestamp="1513086226238">
+        <mark key="'" line="204" column="42" />
+        <mark key="[" line="229" column="12" />
+        <mark key="]" line="229" column="12" />
+        <mark key="." line="229" column="12" />
+        <mark key="^" line="229" column="12" />
+      </file>
       <file name="$USER_HOME$/code/example/jwt-spring-security-demo/src/main/java/org/zerhusen/config/WebSecurityConfig.java" timestamp="1510217962231">
         <mark key="'" line="54" column="19" />
         <mark key="[" line="77" column="66" />
@@ -1253,8 +1260,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="170" column="9" filename="$USER_HOME$/code/java/vocs/src/main/resources/sql/schema.sql" />
-      <jump line="183" column="9" filename="$USER_HOME$/code/java/vocs/src/main/resources/sql/schema.sql" />
       <jump line="196" column="13" filename="$USER_HOME$/code/java/vocs/src/main/resources/sql/schema.sql" />
       <jump line="199" column="9" filename="$USER_HOME$/code/java/vocs/src/main/resources/sql/schema.sql" />
       <jump line="209" column="23" filename="$USER_HOME$/code/java/vocs/src/main/resources/sql/schema.sql" />
@@ -1353,6 +1358,8 @@
       <jump line="170" column="29" filename="C:/ProgramData/Anaconda3/Lib/site-packages/easytrader/ht_clienttrader.py" />
       <jump line="196" column="8" filename="F:/code/python/easytrader/easytrader/ht_clienttrader.py" />
       <jump line="0" column="0" filename="C:/ProgramData/Anaconda3/Lib/site-packages/PyPDF2/utils.py" />
+      <jump line="208" column="34" filename="D:/code/python/autostock/autostock.py" />
+      <jump line="204" column="42" filename="D:/code/python/autostock/autostock.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1375,8 +1382,9 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>latin-1</text>
+      <register name="&quot;" type="8">
+        <text>#
+#</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -1492,31 +1500,32 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGV4Y2VwdF9uYW1lID0gZS5fX2NsYXNzX18uX19uYW1lX18KICAgICAgICAgICAgICAgIHNlbGYuX2xvZ19hbmRfbm90aWZ5KCJlcnJvciIsIGV4Y2VwdF9uYW1lICsgIjogIiArIHN0cihlKSkK</text>
       </register>
       <register name="1" type="8">
+        <text>#
+#</text>
+      </register>
+      <register name="2" type="8">
         <text encoding="base64">IyAKIyA=</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuX2xvZ19hbmRfbm90aWZ5KCJlcnJvciIsICkK</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIHByaW50KHBhZ2VzKQo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">KSwgaW50KHJpZ2h0KSkKICAgIHJldHVybiBwYWdlcwo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIGlmIG5vdCBpc2luc3RhbmNlKHBhZ2VzLCBsaXN0KToKICAgICAgICBwcmludCgi0rPK/dOmzqrB0LHtIikKICAgICAgICBleGl0KDEpCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHBhZ2VzID0gZXZhbChzeXMuYXJndlsyXSkKICAgIGlmIG5vdCBpc2luc3RhbmNlKHBhZ2VzLCBsaXN0KToKICAgICAgICBwcmludCgi0rPK/dOmzqrB0LHtIikKICAgICAgICBleGl0KDEpCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">YXJndiAyLCDM4cihtcTSs8Pmo6zA/cjnWzEsMiwzXQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KHR5cGUobmV3X3BkZikpCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFBkZkZpbGVNZXJnZXIucGFnZXMK</text>
+        <text encoding="base64">ICAgIHByaW50KHR5cGUobmV3X3BkZikpCg==</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
