@@ -345,6 +345,11 @@
         <mark key="^" line="9" column="7" />
       </file>
       <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/model_test.go" timestamp="1512876241053" />
+      <file name="D:/code/python/autostock/httrade.py" timestamp="1513143686929">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="8" />
+        <mark key="." line="29" column="8" />
+      </file>
       <file name="$USER_HOME$/workdir/web/now-antd/postcss.config.js" timestamp="1492750243397">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
@@ -530,7 +535,7 @@
         <mark key="." line="3" column="3" />
         <mark key="^" line="3" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513043643473">
+      <file name="/Dummy.txt" timestamp="1513143700735">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1166,6 +1171,13 @@
         <mark key="." line="4" column="4" />
         <mark key="^" line="4" column="3" />
       </file>
+      <file name="D:/code/python/autostock/autostock.py" timestamp="1513143637360">
+        <mark key="'" line="241" column="41" />
+        <mark key="[" line="255" column="10" />
+        <mark key="]" line="255" column="10" />
+        <mark key="^" line="255" column="36" />
+        <mark key="." line="255" column="10" />
+      </file>
       <file name="$USER_HOME$/code/example/jwt-spring-security-demo/src/main/java/org/zerhusen/config/WebSecurityConfig.java" timestamp="1510217962231">
         <mark key="'" line="54" column="19" />
         <mark key="[" line="77" column="66" />
@@ -1253,8 +1265,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="170" column="9" filename="$USER_HOME$/code/java/vocs/src/main/resources/sql/schema.sql" />
-      <jump line="183" column="9" filename="$USER_HOME$/code/java/vocs/src/main/resources/sql/schema.sql" />
       <jump line="196" column="13" filename="$USER_HOME$/code/java/vocs/src/main/resources/sql/schema.sql" />
       <jump line="199" column="9" filename="$USER_HOME$/code/java/vocs/src/main/resources/sql/schema.sql" />
       <jump line="209" column="23" filename="$USER_HOME$/code/java/vocs/src/main/resources/sql/schema.sql" />
@@ -1353,6 +1363,8 @@
       <jump line="170" column="29" filename="C:/ProgramData/Anaconda3/Lib/site-packages/easytrader/ht_clienttrader.py" />
       <jump line="196" column="8" filename="F:/code/python/easytrader/easytrader/ht_clienttrader.py" />
       <jump line="0" column="0" filename="C:/ProgramData/Anaconda3/Lib/site-packages/PyPDF2/utils.py" />
+      <jump line="244" column="19" filename="D:/code/python/autostock/autostock.py" />
+      <jump line="241" column="41" filename="D:/code/python/autostock/autostock.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1375,8 +1387,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>latin-1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNlbGYudXNlci5zZWxsKGNvZGUsIHByaWNlLCBtb3VudCkK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -1483,57 +1495,56 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>latin-1</text>
+        <text>误</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfZ2V0X3BvcF9kaWFsb2dfdGl0bGVcPg==</text>
+        <text>tradeerror</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4Y2VwdF9uYW1lID0gZS5fX2NsYXNzX18uX19uYW1lX18KICAgICAgICAgICAgICAgIHNlbGYuX2xvZ19hbmRfbm90aWZ5KCJlcnJvciIsIGV4Y2VwdF9uYW1lICsgIjogIiArIHN0cihlKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgZXhjZXB0X25hbWUgPSBlLl9fY2xhc3NfXy5fX25hbWVfXwo=</text>
       </register>
-      <register name="1" type="8">
-        <text encoding="base64">IyAKIyA=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNlbGYudXNlci5zZWxsKGNvZGUsIHByaWNlLCBtb3VudCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuX2xvZ19hbmRfbm90aWZ5KCJlcnJvciIsICkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGltZS5zbGVlcCgyKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KHBhZ2VzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyC4+L3nw+a3tNOmyrG85Ao=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">KSwgaW50KHJpZ2h0KSkKICAgIHJldHVybiBwYWdlcwo=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBleGNlcHQgcHl3aW5hdXRvLkVsZW1lbnROb3RGb3VuZEVycm9yOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIG5vdCBpc2luc3RhbmNlKHBhZ2VzLCBsaXN0KToKICAgICAgICBwcmludCgi0rPK/dOmzqrB0LHtIikKICAgICAgICBleGl0KDEpCg==</text>
+        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBhZ2VzID0gZXZhbChzeXMuYXJndlsyXSkKICAgIGlmIG5vdCBpc2luc3RhbmNlKHBhZ2VzLCBsaXN0KToKICAgICAgICBwcmludCgi0rPK/dOmzqrB0LHtIikKICAgICAgICBleGl0KDEpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNlbGYudXNlci5idXkoY29kZSwgcHJpY2UsIG1vdW50KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YXJndiAyLCDM4cihtcTSs8Pmo6zA/cjnWzEsMiwzXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGltZS5zbGVlcCgyKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KHR5cGUobmV3X3BkZikpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyC4+L3nw+a3tNOmyrG85Ao=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFBkZkZpbGVNZXJnZXIucGFnZXMK</text>
+        <text encoding="base64">ICAgICAgICBleGNlcHQgcHl3aW5hdXRvLkVsZW1lbnROb3RGb3VuZEVycm9yOgo=</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfZ2V0X3BvcF9kaWFsb2dfdGl0bGVcPg==</last-search>
+      <last-search>tradeerror</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfZ2V0X3BvcF9kaWFsb2dfdGl0bGVcPg==</last-pattern>
+      <last-pattern>tradeerror</last-pattern>
       <last-replace>UNIQUE</last-replace>
       <last-substitute>statement</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>hibernate</entry>
         <entry>hiber</entry>
         <entry>druid</entry>
         <entry>root</entry>
@@ -1553,6 +1564,7 @@
         <entry>lom</entry>
         <entry>statement</entry>
         <entry encoding="base64">XDxfZ2V0X3BvcF9kaWFsb2dfdGl0bGVcPg==</entry>
+        <entry>tradeerror</entry>
       </history-search>
       <history-cmd>
         <entry>%s/v\['\w*'\]/v.\1/gc</entry>
