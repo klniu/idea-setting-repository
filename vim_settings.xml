@@ -2,7 +2,7 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks>
-      <mark key="M" line="56" column="22" filename="$USER_HOME$/sync/code/go/src/LawIndexer/models/model_test.go" />
+      <mark key="M" line="56" column="22" filename="$USER_HOME$/sync/code/go/src/LawIndexer/models/model_test.go" protocol="file" />
     </globalmarks>
     <filemarks>
       <file name="$USER_HOME$/workdir/code/law/src/main/java/sql/schema.sql" timestamp="1505715606617">
@@ -557,6 +557,12 @@
         <mark key="]" line="16" column="44" />
         <mark key="^" line="16" column="44" />
         <mark key="." line="16" column="44" />
+      </file>
+      <file name="D:/code/python/utils/office/merge_pdfs.py" timestamp="1513150472733">
+        <mark key="[" line="38" column="17" />
+        <mark key="]" line="38" column="20" />
+        <mark key="^" line="38" column="20" />
+        <mark key="." line="38" column="20" />
       </file>
       <file name="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/entity/SuperEntity.java" timestamp="1508750027154">
         <mark key="[" line="25" column="0" />
@@ -1387,8 +1393,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNlbGYudXNlci5zZWxsKGNvZGUsIHByaWNlLCBtb3VudCkK</text>
+      <register name="&quot;" type="4">
+        <text>'merge.pdf'</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -1495,13 +1501,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>误</text>
+        <text>'merge.pdf'</text>
       </register>
       <register name="/" type="4">
         <text>tradeerror</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgZXhjZXB0X25hbWUgPSBlLl9fY2xhc3NfXy5fX25hbWVfXwo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgi1LTOxLz+vNCyu8rHxL/CvCIpCiAgICAgICAgZXhpdCgxKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNlbGYudXNlci5zZWxsKGNvZGUsIHByaWNlLCBtb3VudCkK</text>
@@ -1541,7 +1547,7 @@
       <last-replace>UNIQUE</last-replace>
       <last-substitute>statement</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
