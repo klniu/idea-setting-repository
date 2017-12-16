@@ -345,6 +345,12 @@
         <mark key="^" line="9" column="7" />
       </file>
       <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/model_test.go" timestamp="1512876241053" />
+      <file name="D:/code/python/autostock/httrade.py" timestamp="1513388424628">
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="^" line="79" column="18" />
+        <mark key="." line="80" column="0" />
+      </file>
       <file name="$USER_HOME$/workdir/web/now-antd/postcss.config.js" timestamp="1492750243397">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
@@ -530,7 +536,7 @@
         <mark key="." line="3" column="3" />
         <mark key="^" line="3" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513340751320">
+      <file name="/Dummy.txt" timestamp="1513388724714">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1172,6 +1178,12 @@
         <mark key="." line="4" column="4" />
         <mark key="^" line="4" column="3" />
       </file>
+      <file name="D:/code/python/autostock/autostock.py" timestamp="1513388681629">
+        <mark key="[" line="246" column="69" />
+        <mark key="]" line="247" column="20" />
+        <mark key="." line="247" column="20" />
+        <mark key="^" line="247" column="20" />
+      </file>
       <file name="$USER_HOME$/code/example/jwt-spring-security-demo/src/main/java/org/zerhusen/config/WebSecurityConfig.java" timestamp="1510217962231">
         <mark key="'" line="54" column="19" />
         <mark key="[" line="77" column="66" />
@@ -1381,9 +1393,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="8">
-        <text>#
-#</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IGVhc3l0cmFkZXIuZXhjZXB0aW9ucy5UcmFkZUVycm9yIGFzIGU6CiAgICAgICAgICAgICAgICBleGNlcHRfbmFtZSA9IGUuX19jbGFzc19fLl9fbmFtZV9fCiAgICAgICAgICAgICAgICBzZWxmLl9sb2dfYW5kX25vdGlmeSgiZXJyb3IiLCBleGNlcHRfbmFtZSArICI6ICIgKyBzdHIoZSkpCiAgICAgICAgICAgICAgICBicmVhawo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -1490,41 +1501,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>latin-1</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfZ2V0X3BvcF9kaWFsb2dfdGl0bGVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4Y2VwdF9uYW1lID0gZS5fX2NsYXNzX18uX19uYW1lX18KICAgICAgICAgICAgICAgIHNlbGYuX2xvZ19hbmRfbm90aWZ5KCJlcnJvciIsIGV4Y2VwdF9uYW1lICsgIjogIiArIHN0cihlKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNlbGYudXNlci5iYWxhbmNlWye/ydPDvfC27iddCg==</text>
       </register>
-      <register name="1" type="8">
-        <text>#
-#</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IGVhc3l0cmFkZXIuZXhjZXB0aW9ucy5UcmFkZUVycm9yIGFzIGU6CiAgICAgICAgICAgICAgICBleGNlcHRfbmFtZSA9IGUuX19jbGFzc19fLl9fbmFtZV9fCiAgICAgICAgICAgICAgICBzZWxmLl9sb2dfYW5kX25vdGlmeSgiZXJyb3IiLCBleGNlcHRfbmFtZSArICI6ICIgKyBzdHIoZSkpCiAgICAgICAgICAgICAgICBicmVhawo=</text>
       </register>
-      <register name="2" type="8">
-        <text encoding="base64">IyAKIyA=</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuX2xvZ19hbmRfbm90aWZ5KCJlcnJvciIsICkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxmLnRyYWRlci5yZXN0YXJ0KCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KHBhZ2VzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICJweXdpbmF1dG8iIGluIHN0cih0eXBlKGUpKToK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">KSwgaW50KHJpZ2h0KSkKICAgIHJldHVybiBwYWdlcwo=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgyOe5+7/Nu6e2y7TtzvMocHl3aW5hdXRvINLss6Mpo6zW2Mb0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIG5vdCBpc2luc3RhbmNlKHBhZ2VzLCBsaXN0KToKICAgICAgICBwcmludCgi0rPK/dOmzqrB0LHtIikKICAgICAgICBleGl0KDEpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBhZ2VzID0gZXZhbChzeXMuYXJndlsyXSkKICAgIGlmIG5vdCBpc2luc3RhbmNlKHBhZ2VzLCBsaXN0KToKICAgICAgICBwcmludCgi0rPK/dOmzqrB0LHtIikKICAgICAgICBleGl0KDEpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YXJndiAyLCDM4cihtcTSs8Pmo6zA/cjnWzEsMiwzXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KHR5cGUobmV3X3BkZikpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNlbGYudXNlci5wb3NpdGlvbgo=</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
@@ -1579,9 +1589,9 @@
         <entry>%s/</entry>
         <entry>%s/UNIQUE KEY/UNIQUE/gc</entry>
         <entry>q</entry>
-        <entry>action NextTab</entry>
         <entry>wq</entry>
         <entry>action PreviousTab</entry>
+        <entry>action NextTab</entry>
         <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
