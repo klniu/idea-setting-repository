@@ -144,6 +144,12 @@
         <mark key="." line="1" column="20" />
         <mark key="^" line="1" column="20" />
       </file>
+      <file name="D:/code/python/autostock/trade.py" timestamp="1513390280455">
+        <mark key="[" line="36" column="15" />
+        <mark key="]" line="36" column="16" />
+        <mark key="." line="36" column="16" />
+        <mark key="^" line="36" column="16" />
+      </file>
       <file name="F:/code/python/autostock/autostock.py" timestamp="1512734492550">
         <mark key="[" line="229" column="12" />
         <mark key="]" line="229" column="12" />
@@ -345,11 +351,12 @@
         <mark key="^" line="9" column="7" />
       </file>
       <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/model_test.go" timestamp="1512876241053" />
-      <file name="D:/code/python/autostock/httrade.py" timestamp="1513388424628">
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="0" />
-        <mark key="^" line="79" column="18" />
-        <mark key="." line="80" column="0" />
+      <file name="D:/code/python/autostock/httrade.py" timestamp="1513389735048">
+        <mark key="'" line="34" column="30" />
+        <mark key="[" line="44" column="55" />
+        <mark key="]" line="44" column="65" />
+        <mark key="^" line="44" column="54" />
+        <mark key="." line="44" column="55" />
       </file>
       <file name="$USER_HOME$/workdir/web/now-antd/postcss.config.js" timestamp="1492750243397">
         <mark key="[" line="0" column="0" />
@@ -647,6 +654,11 @@
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/AppData/Local/Continuum/anaconda3/Lib/site-packages/easytrader/ht_clienttrader.py" timestamp="1513389710763">
+        <mark key="'" line="112" column="22" />
+        <mark key="[" line="181" column="29" />
+        <mark key="]" line="181" column="38" />
       </file>
       <file name="$USER_HOME$/workdir/code/law/src/main/java/com/klniu/law/service/LawService.java" timestamp="1506328586005">
         <mark key="[" line="8" column="23" />
@@ -1271,9 +1283,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="196" column="13" filename="$USER_HOME$/code/java/vocs/src/main/resources/sql/schema.sql" />
-      <jump line="199" column="9" filename="$USER_HOME$/code/java/vocs/src/main/resources/sql/schema.sql" />
-      <jump line="209" column="23" filename="$USER_HOME$/code/java/vocs/src/main/resources/sql/schema.sql" />
       <jump line="220" column="9" filename="$USER_HOME$/code/java/vocs/src/main/resources/sql/schema.sql" />
       <jump line="235" column="13" filename="$USER_HOME$/code/java/vocs/src/main/resources/sql/schema.sql" />
       <jump line="238" column="9" filename="$USER_HOME$/code/java/vocs/src/main/resources/sql/schema.sql" />
@@ -1371,6 +1380,9 @@
       <jump line="0" column="0" filename="C:/ProgramData/Anaconda3/Lib/site-packages/PyPDF2/utils.py" />
       <jump line="208" column="34" filename="D:/code/python/autostock/autostock.py" />
       <jump line="204" column="42" filename="D:/code/python/autostock/autostock.py" />
+      <jump line="32" column="8" filename="D:/code/python/autostock/httrade.py" />
+      <jump line="34" column="30" filename="D:/code/python/autostock/httrade.py" />
+      <jump line="112" column="22" filename="$USER_HOME$/AppData/Local/Continuum/anaconda3/Lib/site-packages/easytrader/ht_clienttrader.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1393,8 +1405,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IGVhc3l0cmFkZXIuZXhjZXB0aW9ucy5UcmFkZUVycm9yIGFzIGU6CiAgICAgICAgICAgICAgICBleGNlcHRfbmFtZSA9IGUuX19jbGFzc19fLl9fbmFtZV9fCiAgICAgICAgICAgICAgICBzZWxmLl9sb2dfYW5kX25vdGlmeSgiZXJyb3IiLCBleGNlcHRfbmFtZSArICI6ICIgKyBzdHIoZSkpCiAgICAgICAgICAgICAgICBicmVhawo=</text>
+      <register name="&quot;" type="4">
+        <text>&quot;&quot;</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -1501,13 +1513,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>&quot;&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfZ2V0X3BvcF9kaWFsb2dfdGl0bGVcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNlbGYudXNlci5iYWxhbmNlWye/ydPDvfC27iddCg==</text>
+      <register name="0" type="4">
+        <text>entrust_no</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IGVhc3l0cmFkZXIuZXhjZXB0aW9ucy5UcmFkZUVycm9yIGFzIGU6CiAgICAgICAgICAgICAgICBleGNlcHRfbmFtZSA9IGUuX19jbGFzc19fLl9fbmFtZV9fCiAgICAgICAgICAgICAgICBzZWxmLl9sb2dfYW5kX25vdGlmeSgiZXJyb3IiLCBleGNlcHRfbmFtZSArICI6ICIgKyBzdHIoZSkpCiAgICAgICAgICAgICAgICBicmVhawo=</text>
