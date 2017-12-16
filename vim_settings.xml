@@ -144,11 +144,11 @@
         <mark key="." line="1" column="20" />
         <mark key="^" line="1" column="20" />
       </file>
-      <file name="D:/code/python/autostock/trade.py" timestamp="1513390280455">
-        <mark key="[" line="36" column="15" />
-        <mark key="]" line="36" column="16" />
-        <mark key="." line="36" column="16" />
-        <mark key="^" line="36" column="16" />
+      <file name="D:/code/python/autostock/trade.py" timestamp="1513395876930">
+        <mark key="[" line="88" column="11" />
+        <mark key="]" line="88" column="13" />
+        <mark key="^" line="87" column="9" />
+        <mark key="." line="87" column="9" />
       </file>
       <file name="F:/code/python/autostock/autostock.py" timestamp="1512734492550">
         <mark key="[" line="229" column="12" />
@@ -338,6 +338,12 @@
         <mark key="." line="36" column="11" />
         <mark key="^" line="36" column="11" />
       </file>
+      <file name="D:/code/python/autostock/quotation.py" timestamp="1513395435718">
+        <mark key="[" line="21" column="20" />
+        <mark key="]" line="21" column="21" />
+        <mark key="^" line="21" column="21" />
+        <mark key="." line="21" column="21" />
+      </file>
       <file name="$USER_HOME$/sync/code/go/src/test/main.go" timestamp="1491299632176">
         <mark key="[" line="23" column="16" />
         <mark key="]" line="23" column="32" />
@@ -351,10 +357,10 @@
         <mark key="^" line="9" column="7" />
       </file>
       <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/model_test.go" timestamp="1512876241053" />
-      <file name="D:/code/python/autostock/httrade.py" timestamp="1513389735048">
+      <file name="D:/code/python/autostock/httrade.py" timestamp="1513395524612">
         <mark key="'" line="34" column="30" />
-        <mark key="[" line="44" column="55" />
-        <mark key="]" line="44" column="65" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="59" column="39" />
         <mark key="^" line="44" column="54" />
         <mark key="." line="44" column="55" />
       </file>
@@ -1406,7 +1412,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>&quot;&quot;</text>
+        <text>盈亏比</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -1513,43 +1519,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfZ2V0X3BvcF9kaWFsb2dfdGl0bGVcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>entrust_no</text>
+        <text>盈亏比</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IGVhc3l0cmFkZXIuZXhjZXB0aW9ucy5UcmFkZUVycm9yIGFzIGU6CiAgICAgICAgICAgICAgICBleGNlcHRfbmFtZSA9IGUuX19jbGFzc19fLl9fbmFtZV9fCiAgICAgICAgICAgICAgICBzZWxmLl9sb2dfYW5kX25vdGlmeSgiZXJyb3IiLCBleGNlcHRfbmFtZSArICI6ICIgKyBzdHIoZSkpCiAgICAgICAgICAgICAgICBicmVhawo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNvZGUgPSAnJwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBbeyfWpMivtPrC6yc6ICczMDAyNzAnLCAn1qTIr8P7s8YnOiAn1tDN/rXn19MnLCAnucnGsdPgtu4nOiAyMDAsICe/ydPD0+C27ic6IDIwMCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgJ7azveHK/cG/JzogMCwgJ7PJsb682yc6IDEyLjI3NSwgJ7Gjsb682yc6IDEyLjMxMjAwMDAwMDAwMDAwMSwgJ8rQvNsnOiAxMi4xMywKICAgICAgICAgICAgICAgICAgICAgICAgICAgJ9Ovv/exyCglKSc6IC0xLjQ4LCAn06+/9yc6IC0zNi40MywgJ8rQ1rUnOiAyNDI2LjAsICe9u9LXytCzoSc6ICfJ7tvao8EnLCAnucm2q9XKu6cnOiAyMzM1OTM0MzQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICfU2s2+yv3Bvyc6IDAsICdVbm5hbWVkOiAxNCc6ICcnfV0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxmLnRyYWRlci5yZXN0YXJ0KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IGVhc3l0cmFkZXIuZXhjZXB0aW9ucy5UcmFkZUVycm9yIGFzIGU6CiAgICAgICAgICAgICAgICBleGNlcHRfbmFtZSA9IGUuX19jbGFzc19fLl9fbmFtZV9fCiAgICAgICAgICAgICAgICBzZWxmLl9sb2dfYW5kX25vdGlmeSgiZXJyb3IiLCBleGNlcHRfbmFtZSArICI6ICIgKyBzdHIoZSkpCiAgICAgICAgICAgICAgICBicmVhawo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICJweXdpbmF1dG8iIGluIHN0cih0eXBlKGUpKToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgyOe5+7/Nu6e2y7TtzvMocHl3aW5hdXRvINLss6Mpo6zW2Mb0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxmLnRyYWRlci5yZXN0YXJ0KCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICJweXdpbmF1dG8iIGluIHN0cih0eXBlKGUpKToK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgyOe5+7/Nu6e2y7TtzvMocHl3aW5hdXRvINLss6Mpo6zW2Mb0Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNlbGYudXNlci5wb3NpdGlvbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text>action PreviousTab</text>
       </register>
     </registers>
     <search>
@@ -1602,9 +1608,9 @@
         <entry>%s/UNIQUE KEY/UNIQUE/gc</entry>
         <entry>q</entry>
         <entry>wq</entry>
-        <entry>action PreviousTab</entry>
         <entry>action NextTab</entry>
         <entry>action ReformatCode</entry>
+        <entry>action PreviousTab</entry>
       </history-cmd>
       <history-expr />
       <history-input />
