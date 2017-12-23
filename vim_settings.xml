@@ -553,7 +553,7 @@
         <mark key="." line="3" column="3" />
         <mark key="^" line="3" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513388724714">
+      <file name="/Dummy.txt" timestamp="1514012334717">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -636,11 +636,11 @@
         <mark key="." line="2" column="24" />
         <mark key="^" line="2" column="24" />
       </file>
-      <file name="D:/code/python/autostock/test_autostock.py" timestamp="1514010114107">
+      <file name="D:/code/python/autostock/test_autostock.py" timestamp="1514011639484">
         <mark key="'" line="9" column="33" />
-        <mark key="[" line="125" column="28" />
-        <mark key="]" line="125" column="38" />
-        <mark key="." line="125" column="38" />
+        <mark key="[" line="131" column="44" />
+        <mark key="]" line="131" column="45" />
+        <mark key="." line="131" column="45" />
         <mark key="^" line="125" column="38" />
       </file>
       <file name="$USER_HOME$/workdir/java/livesim/webpack.config.js" timestamp="1480928637533">
@@ -1191,6 +1191,13 @@
         <mark key="." line="7" column="56" />
         <mark key="^" line="7" column="56" />
       </file>
+      <file name="D:/code/python/autostock/.gitignore" timestamp="1514012306756">
+        <mark key="'" line="131" column="7" />
+        <mark key="[" line="214" column="0" />
+        <mark key="]" line="214" column="4" />
+        <mark key="^" line="214" column="4" />
+        <mark key="." line="214" column="4" />
+      </file>
       <file name="$USER_HOME$/sync/code/java/xiaoyi/src/main/java/com/klniu/xiaoyi/XFYuYin/XFAuth.java" timestamp="1484464160998">
         <mark key="[" line="2" column="34" />
         <mark key="]" line="3" column="0" />
@@ -1215,12 +1222,12 @@
         <mark key="." line="4" column="4" />
         <mark key="^" line="4" column="3" />
       </file>
-      <file name="D:/code/python/autostock/autostock.py" timestamp="1514010608628">
-        <mark key="'" line="189" column="53" />
-        <mark key="[" line="189" column="54" />
-        <mark key="]" line="189" column="53" />
-        <mark key="." line="189" column="53" />
-        <mark key="^" line="189" column="53" />
+      <file name="D:/code/python/autostock/autostock.py" timestamp="1514011925101">
+        <mark key="'" line="13" column="11" />
+        <mark key="[" line="236" column="12" />
+        <mark key="]" line="236" column="12" />
+        <mark key="." line="236" column="12" />
+        <mark key="^" line="236" column="13" />
       </file>
       <file name="$USER_HOME$/code/example/jwt-spring-security-demo/src/main/java/org/zerhusen/config/WebSecurityConfig.java" timestamp="1510217962231">
         <mark key="'" line="54" column="19" />
@@ -1309,13 +1316,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="329" column="9" filename="$USER_HOME$/code/java/vocs/src/main/resources/sql/schema.sql" />
-      <jump line="331" column="9" filename="$USER_HOME$/code/java/vocs/src/main/resources/sql/schema.sql" />
-      <jump line="342" column="25" filename="$USER_HOME$/code/java/vocs/src/main/resources/sql/schema.sql" />
-      <jump line="355" column="9" filename="$USER_HOME$/code/java/vocs/src/main/resources/sql/schema.sql" />
-      <jump line="357" column="9" filename="$USER_HOME$/code/java/vocs/src/main/resources/sql/schema.sql" />
-      <jump line="377" column="14" filename="$USER_HOME$/code/java/vocs/src/main/resources/sql/schema.sql" />
-      <jump line="7" column="21" filename="$USER_HOME$/code/java/vocs/src/main/resources/sql/schema.sql" />
       <jump line="10" column="3" filename="$USER_HOME$/code/laws/src/main/java/com/klniu/law/web/LawController.java" />
       <jump line="60" column="7" filename="$USER_HOME$/code/java/vocs/pom.xml" />
       <jump line="93" column="24" filename="$USER_HOME$/code/java/vocs/pom.xml" />
@@ -1409,6 +1409,13 @@
       <jump line="9" column="33" filename="D:/code/python/autostock/test_autostock.py" />
       <jump line="189" column="53" filename="D:/code/python/autostock/autostock.py" />
       <jump line="66" column="7" filename="D:/code/python/autostock/stock_order.py" />
+      <jump line="13" column="11" filename="D:/code/python/autostock/autostock.py" />
+      <jump line="22" column="3" filename="D:/code/python/autostock/.gitignore" />
+      <jump line="111" column="9" filename="D:/code/python/autostock/.gitignore" />
+      <jump line="197" column="8" filename="D:/code/python/autostock/.gitignore" />
+      <jump line="18" column="0" filename="D:/code/python/autostock/.gitignore" />
+      <jump line="214" column="0" filename="D:/code/python/autostock/.gitignore" />
+      <jump line="131" column="7" filename="D:/code/python/autostock/.gitignore" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1431,8 +1438,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChjb2RlLCBtb3VudCwgcHJpY2UsIDAsIDApCg==</text>
+      <register name="&quot;" type="4">
+        <text>添加股票交易助手api，使用此api作为默认</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -1539,61 +1546,57 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>添加股票交易助手api，使用此api作为默认</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfZ2V0X3BvcF9kaWFsb2dfdGl0bGVcPg==</text>
+        <text>lib</text>
       </register>
       <register name="0" type="4">
         <text>code, mount, price, 0, 0</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChjb2RlLCBtb3VudCwgcHJpY2UsIDAsIDApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bGliLwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y2xhc3MgUG9zaXRpb246CiAgICBkZWYgX19pbml0X18oc2VsZik6CiAgICAgICAgIyDWpMivtPrC6zMwMDI3MAogICAgICAgIHNlbGYuY29kZSA9ICcnCiAgICAgICAgIyDWpMivw/uzxic6ICfW0M3+tefX0ycKICAgICAgICBzZWxmLm5hbWUgPSAnJwogICAgICAgICMgucnGsdPgtu4nOiAyMDAKICAgICAgICBzZWxmLnN0b2NrID0gMAogICAgICAgICMgv8nTw9Pgtu4nOiAyMDAsCiAgICAgICAgc2VsZi5zdG9ja19hdmFpbGFibGUgPSAwCiAgICAgICAgIyAntrO94cr9wb8nOiAwCiAgICAgICAgc2VsZi5zdG9ja19mcmVlemUgPSAwCiAgICAgICAgIyAns8mxvrzbJzogMTIuMjc1CiAgICAgICAgc2VsZi5jb3N0ID0gMC4wCiAgICAgICAgIyCxo7G+vNs6IDEyLjMxCiAgICAgICAgc2VsZi5icmVha2V2ZW4gPSAwLjAKICAgICAgICAjICfTr7/3scgoJSknOiAtMS40OAogICAgICAgIHNlbGYuZ2Fpbl9wZXJjZW50ID0gMC4wCiAgICAgICAgIyAsICfTr7/3JzogLTM2LjQzCiAgICAgICAgc2VsZi5nYWluID0gMC4wCiAgICAgICAgIyAnvbvS18rQs6EnOiAnye7b2qPBJwogICAgICAgIHNlbGYuZXhjaGFuZ2VfdHlwZSA9ICJTWiIK</text>
+        <text encoding="base64">bGliLwo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnRyYWRlcgo=</text>
+      <register name="4" type="8">
+        <text>#
+#</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChjb2RlLCBtb3VudCwgcHJpY2UsIDAsIDApCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="8">
-        <text>#
-#
-#
-#
-#</text>
+      <register name="7" type="2">
+        <text encoding="base64">Y2xhc3MgUG9zaXRpb246CiAgICBkZWYgX19pbml0X18oc2VsZik6CiAgICAgICAgIyDWpMivtPrC6zMwMDI3MAogICAgICAgIHNlbGYuY29kZSA9ICcnCiAgICAgICAgIyDWpMivw/uzxic6ICfW0M3+tefX0ycKICAgICAgICBzZWxmLm5hbWUgPSAnJwogICAgICAgICMgucnGsdPgtu4nOiAyMDAKICAgICAgICBzZWxmLnN0b2NrID0gMAogICAgICAgICMgv8nTw9Pgtu4nOiAyMDAsCiAgICAgICAgc2VsZi5zdG9ja19hdmFpbGFibGUgPSAwCiAgICAgICAgIyAntrO94cr9wb8nOiAwCiAgICAgICAgc2VsZi5zdG9ja19mcmVlemUgPSAwCiAgICAgICAgIyAns8mxvrzbJzogMTIuMjc1CiAgICAgICAgc2VsZi5jb3N0ID0gMC4wCiAgICAgICAgIyCxo7G+vNs6IDEyLjMxCiAgICAgICAgc2VsZi5icmVha2V2ZW4gPSAwLjAKICAgICAgICAjICfTr7/3scgoJSknOiAtMS40OAogICAgICAgIHNlbGYuZ2Fpbl9wZXJjZW50ID0gMC4wCiAgICAgICAgIyAsICfTr7/3JzogLTM2LjQzCiAgICAgICAgc2VsZi5nYWluID0gMC4wCiAgICAgICAgIyAnvbvS18rQs6EnOiAnye7b2qPBJwogICAgICAgIHNlbGYuZXhjaGFuZ2VfdHlwZSA9ICJTWiIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LSB7cGxhdGZvcm06IGpkLCBpZDogIjEyMzA0IiwgbmFtZTogsK7U2rH5tKgsIHBpbjogMjQ5NDIwOTY5LTMwNjMyMCwgbW9uZXk6IDIwMDAwfQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnRyYWRlcgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChjb252ZXJ0cykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfZ2V0X3BvcF9kaWFsb2dfdGl0bGVcPg==</last-search>
+      <last-search>lib</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfZ2V0X3BvcF9kaWFsb2dfdGl0bGVcPg==</last-pattern>
+      <last-pattern>lib</last-pattern>
       <last-replace>UNIQUE</last-replace>
       <last-substitute>statement</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>hibernate</entry>
         <entry>hiber</entry>
         <entry>druid</entry>
         <entry>root</entry>
@@ -1613,6 +1616,7 @@
         <entry>lom</entry>
         <entry>statement</entry>
         <entry encoding="base64">XDxfZ2V0X3BvcF9kaWFsb2dfdGl0bGVcPg==</entry>
+        <entry>lib</entry>
       </history-search>
       <history-cmd>
         <entry>%s/v\['\w*'\]/v.\1/gc</entry>
@@ -1633,8 +1637,8 @@
         <entry>wq</entry>
         <entry>action PreviousTab</entry>
         <entry>action NextTab</entry>
-        <entry>action ReformatCode</entry>
         <entry>w</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
