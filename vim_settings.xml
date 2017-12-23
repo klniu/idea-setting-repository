@@ -228,11 +228,11 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="D:/code/python/autostock/app.yaml" timestamp="1514001947698">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="D:/code/python/autostock/app.yaml" timestamp="1514002814697">
+        <mark key="[" line="5" column="72" />
+        <mark key="]" line="5" column="74" />
+        <mark key="^" line="5" column="74" />
+        <mark key="." line="5" column="74" />
       </file>
       <file name="$USER_HOME$/sync/code/java/livesim/src/main/java/Tree.java" timestamp="1479187705017">
         <mark key="[" line="10" column="5" />
@@ -742,7 +742,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="D:/code/python/autostock/constants.py" timestamp="1514001978537">
+      <file name="D:/code/python/autostock/constants.py" timestamp="1514003039041">
         <mark key="[" line="4" column="18" />
         <mark key="]" line="4" column="19" />
         <mark key="^" line="5" column="1" />
@@ -868,11 +868,11 @@
         <mark key="^" line="7" column="3" />
         <mark key="." line="7" column="3" />
       </file>
-      <file name="D:/code/python/autostock/stock_order.py" timestamp="1514001224488">
-        <mark key="[" line="62" column="56" />
-        <mark key="]" line="62" column="57" />
-        <mark key="^" line="62" column="35" />
-        <mark key="." line="62" column="57" />
+      <file name="D:/code/python/autostock/stock_order.py" timestamp="1514003166752">
+        <mark key="[" line="32" column="33" />
+        <mark key="]" line="32" column="39" />
+        <mark key="^" line="32" column="39" />
+        <mark key="." line="32" column="39" />
       </file>
       <file name="$USER_HOME$/code/java/vocs/src/main/resources/mapper/LdarSettingMapper.xml" timestamp="1508667168610">
         <mark key="[" line="26" column="18" />
@@ -1212,12 +1212,12 @@
         <mark key="." line="4" column="4" />
         <mark key="^" line="4" column="3" />
       </file>
-      <file name="D:/code/python/autostock/autostock.py" timestamp="1514001937474">
-        <mark key="'" line="57" column="25" />
-        <mark key="[" line="57" column="26" />
-        <mark key="]" line="57" column="48" />
-        <mark key="." line="57" column="48" />
-        <mark key="^" line="57" column="48" />
+      <file name="D:/code/python/autostock/autostock.py" timestamp="1514003005722">
+        <mark key="'" line="233" column="16" />
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="91" column="12" />
+        <mark key="." line="91" column="12" />
+        <mark key="^" line="88" column="39" />
       </file>
       <file name="$USER_HOME$/code/example/jwt-spring-security-demo/src/main/java/org/zerhusen/config/WebSecurityConfig.java" timestamp="1510217962231">
         <mark key="'" line="54" column="19" />
@@ -1306,10 +1306,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="235" column="13" filename="$USER_HOME$/code/java/vocs/src/main/resources/sql/schema.sql" />
-      <jump line="238" column="9" filename="$USER_HOME$/code/java/vocs/src/main/resources/sql/schema.sql" />
-      <jump line="240" column="9" filename="$USER_HOME$/code/java/vocs/src/main/resources/sql/schema.sql" />
-      <jump line="253" column="3" filename="$USER_HOME$/code/java/vocs/src/main/resources/sql/schema.sql" />
       <jump line="265" column="9" filename="$USER_HOME$/code/java/vocs/src/main/resources/sql/schema.sql" />
       <jump line="268" column="9" filename="$USER_HOME$/code/java/vocs/src/main/resources/sql/schema.sql" />
       <jump line="270" column="9" filename="$USER_HOME$/code/java/vocs/src/main/resources/sql/schema.sql" />
@@ -1406,6 +1402,10 @@
       <jump line="34" column="30" filename="D:/code/python/autostock/httrade.py" />
       <jump line="112" column="22" filename="$USER_HOME$/AppData/Local/Continuum/anaconda3/Lib/site-packages/easytrader/ht_clienttrader.py" />
       <jump line="56" column="25" filename="D:/code/python/autostock/autostock.py" />
+      <jump line="212" column="31" filename="D:/code/python/autostock/autostock.py" />
+      <jump line="202" column="8" filename="D:/code/python/autostock/autostock.py" />
+      <jump line="233" column="16" filename="D:/code/python/autostock/autostock.py" />
+      <jump line="232" column="16" filename="D:/code/python/autostock/autostock.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1545,13 +1545,13 @@
         <text>GetPosInfo(code, 0, 0)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGltZS5zbGVlcCgyKQo=</text>
+        <text encoding="base64">LSB7cGxhdGZvcm06IGpkLCBpZDogIjEyMzA0IiwgbmFtZTogsK7U2rH5tKgsIHBpbjogMjQ5NDIwOTY5LTMwNjMyMCwgbW9uZXk6IDF9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi51c2VyLmJhbGFuY2UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGltZS5zbGVlcCgyKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBhYmMuYWJzdHJhY3RtZXRob2QK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi51c2VyLmJhbGFuY2UK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIEBhYmMuYWJzdHJhY3RtZXRob2QK</text>
@@ -1563,16 +1563,16 @@
         <text encoding="base64">ICAgIEBhYmMuYWJzdHJhY3RtZXRob2QK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGFiYwo=</text>
+        <text encoding="base64">ICAgIEBhYmMuYWJzdHJhY3RtZXRob2QK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBhYmMuYWJzdHJhY3RtZXRob2QK</text>
+        <text encoding="base64">aW1wb3J0IGFiYwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIEBhYmMuYWJzdHJhY3RtZXRob2QK</text>
       </register>
       <register name=":" type="4">
-        <text>action NextTab</text>
+        <text>action PreviousTab</text>
       </register>
     </registers>
     <search>
@@ -1626,8 +1626,8 @@
         <entry>q</entry>
         <entry>wq</entry>
         <entry>action ReformatCode</entry>
-        <entry>action PreviousTab</entry>
         <entry>action NextTab</entry>
+        <entry>action PreviousTab</entry>
       </history-cmd>
       <history-expr />
       <history-input />
