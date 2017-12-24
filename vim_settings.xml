@@ -954,11 +954,11 @@
         <mark key="^" line="21" column="54" />
         <mark key="." line="21" column="54" />
       </file>
-      <file name="F:/code/java/vocs/src/main/resources/sql/schema.sql" timestamp="1514029020486">
-        <mark key="[" line="151" column="21" />
-        <mark key="]" line="151" column="21" />
-        <mark key="." line="151" column="21" />
-        <mark key="^" line="82" column="38" />
+      <file name="F:/code/java/vocs/src/main/resources/sql/schema.sql" timestamp="1514077350536">
+        <mark key="[" line="371" column="17" />
+        <mark key="]" line="371" column="17" />
+        <mark key="." line="371" column="17" />
+        <mark key="^" line="284" column="20" />
       </file>
       <file name="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/web/UserController.java" timestamp="1509107730061">
         <mark key="[" line="38" column="15" />
@@ -1448,7 +1448,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Long factoryId,</text>
+        <text>G</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -1555,7 +1555,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Long factoryId,</text>
+        <text>G</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfZ2V0X3BvcF9kaWFsb2dfdGl0bGVcPg==</text>
@@ -1563,32 +1563,43 @@
       <register name="0" type="2">
         <text encoding="base64">ICBVTklRVUUgKGBmYWN0b3J5X2lkYCwgYG5vYCksCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CTxzZWxlY3QgaWQ9InNlbGVjdCIK</text>
+      <register name="1" type="8">
+        <text>BIG
+BIG
+BIG</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CTxzZWxlY3QgaWQ9InNlbGVjdExkYXJTZXR0aW5nIiByZXN1bHRNYXA9IkJhc2VSZXN1bHRNYXAiPgoKCTwvc2VsZWN0Pgo=</text>
+      <register name="2" type="8">
+        <text>BIG
+BIG
+BIG
+BIG</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBVTklRVUUgKGBmYWN0b3J5X2lkYCkK</text>
+      <register name="3" type="8">
+        <text>BIG
+BIG</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="8">
+        <text>BIG
+BIG</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="8">
+        <text>BIG
+BIG</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYwo=</text>
+      <register name="6" type="8">
+        <text>BIG
+BIG</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="8">
+        <text>BIG
+BIG</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjICfK0LzbJzogMTIuMTMsCg==</text>
+      <register name="8" type="8">
+        <text>BIG
+BIG</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICfU2s2+yv3Bvyc6IDAsICdVbm5hbWVkOiAxNCc6ICcnfV0K</text>
+        <text encoding="base64">CTxzZWxlY3QgaWQ9InNlbGVjdCIK</text>
       </register>
       <register name=":" type="4">
         <text>action PreviousTab</text>
