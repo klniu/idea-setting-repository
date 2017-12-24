@@ -557,7 +557,7 @@
         <mark key="." line="3" column="3" />
         <mark key="^" line="3" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513388724714">
+      <file name="/Dummy.txt" timestamp="1514115224617">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -872,12 +872,10 @@
         <mark key="^" line="7" column="3" />
         <mark key="." line="7" column="3" />
       </file>
-      <file name="D:/code/python/autostock/stock_order.py" timestamp="1514111172830">
-        <mark key="'" line="13" column="19" />
-        <mark key="[" line="13" column="30" />
-        <mark key="]" line="13" column="44" />
-        <mark key="." line="13" column="30" />
-        <mark key="^" line="13" column="29" />
+      <file name="D:/code/python/autostock/stock_order.py" timestamp="1514114565982">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/code/java/vocs/src/main/resources/mapper/LdarSettingMapper.xml" timestamp="1508667168610">
         <mark key="[" line="26" column="18" />
@@ -1187,10 +1185,11 @@
         <mark key="^" line="26" column="108" />
         <mark key="." line="26" column="108" />
       </file>
-      <file name="D:/OneDrive/softs/stocks/app.yaml" timestamp="1514111931997">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="D:/OneDrive/softs/stocks/app.yaml" timestamp="1514115028877">
+        <mark key="[" line="16" column="40" />
+        <mark key="]" line="16" column="40" />
+        <mark key="." line="16" column="40" />
+        <mark key="^" line="16" column="40" />
       </file>
       <file name="$USER_HOME$/code/java/vocs/src/main/resources/application.yml" timestamp="1508673522378">
         <mark key="[" line="5" column="0" />
@@ -1234,12 +1233,11 @@
         <mark key="." line="4" column="4" />
         <mark key="^" line="4" column="3" />
       </file>
-      <file name="D:/code/python/autostock/autostock.py" timestamp="1514112110758">
-        <mark key="'" line="44" column="21" />
-        <mark key="[" line="91" column="36" />
-        <mark key="]" line="91" column="46" />
-        <mark key="." line="91" column="46" />
-        <mark key="^" line="91" column="46" />
+      <file name="D:/code/python/autostock/autostock.py" timestamp="1514115168238">
+        <mark key="[" line="252" column="12" />
+        <mark key="]" line="252" column="12" />
+        <mark key="." line="252" column="12" />
+        <mark key="^" line="240" column="24" />
       </file>
       <file name="$USER_HOME$/code/example/jwt-spring-security-demo/src/main/java/org/zerhusen/config/WebSecurityConfig.java" timestamp="1510217962231">
         <mark key="'" line="54" column="19" />
@@ -1328,7 +1326,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="265" column="9" filename="$USER_HOME$/code/java/vocs/src/main/resources/sql/schema.sql" />
       <jump line="268" column="9" filename="$USER_HOME$/code/java/vocs/src/main/resources/sql/schema.sql" />
       <jump line="270" column="9" filename="$USER_HOME$/code/java/vocs/src/main/resources/sql/schema.sql" />
       <jump line="296" column="9" filename="$USER_HOME$/code/java/vocs/src/main/resources/sql/schema.sql" />
@@ -1428,6 +1425,7 @@
       <jump line="12" column="19" filename="D:/code/python/autostock/stock_order.py" />
       <jump line="239" column="0" filename="D:/code/python/autostock/autostock.py" />
       <jump line="44" column="21" filename="D:/code/python/autostock/autostock.py" />
+      <jump line="238" column="21" filename="D:/code/python/autostock/autostock.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1451,7 +1449,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">YWNjb3VudFsndHlwZSddIA==</text>
+        <text>#</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -1558,40 +1556,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YWNjb3VudFsndHlwZSddIA==</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZXhlOiBEOi90b29scy9TdG9ja09yZGVyL1N0b2NrT3JkZXIuZXhlCg==</text>
+      <register name="0" type="4">
+        <text>check_process(&quot;StockOrder.exe&quot;)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZXhlOiAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoMTExLCBzZWxmLmV4ZSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjINDo0qrWtNDQtcS/qsq8s8zQ8qOsscjI51N0b2NrT3JkZXIKICAgICAgICBzZWxmLmV4ZSA9ICIiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoMTExKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYudHJhZGVyLnJlc3RhcnQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3Muc3lzdGVtKHNlbGYuZXhlKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KDExMSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y2xhc3MgQnJva2VyKEVudW0pOgogICAgSHVhVGFpID0gMQogICAgUGluQW4gPSAyCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChjaGVja19wcm9jZXNzKCJTdG9ja09yZGVyLmV4ZSIpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">I2FjY291bnQ6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KDExMSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyAgdHlwZTogIlN0b2NrT3JkZXIiCg==</text>
+        <text encoding="base64">ZXhlOiAK</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
