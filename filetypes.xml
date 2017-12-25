@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="AdvancedTable.jsx" type="PLAIN_TEXT" />
       <mapping ext="so" type="PLAIN_TEXT" />
       <removed_mapping ext="so" type="UNKNOWN" />
@@ -14,7 +15,6 @@
       <mapping ext="tps" type="DBN-PSQL" />
       <mapping ext="trg" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
-      <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
   </component>
 </application>
