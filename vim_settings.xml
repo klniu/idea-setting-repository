@@ -17,11 +17,11 @@
         <mark key="^" line="14" column="4" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="D:/code/java/cnooc/src/main/kotlin/com/cnvoc/cnooc/web/tank.kt" timestamp="1514271741522">
-        <mark key="[" line="4" column="4" />
-        <mark key="]" line="4" column="3" />
-        <mark key="^" line="4" column="3" />
-        <mark key="." line="4" column="3" />
+      <file name="D:/code/java/cnooc/src/main/kotlin/com/cnvoc/cnooc/web/tank.kt" timestamp="1514272837199">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="8" column="6" />
+        <mark key="^" line="9" column="38" />
+        <mark key="." line="9" column="38" />
       </file>
       <file name="$USER_HOME$/workdir/code/now-antd-js/src/components/SideModal.css" timestamp="1499595566243">
         <mark key="[" line="34" column="0" />
@@ -626,6 +626,12 @@
         <mark key="]" line="4" column="3" />
         <mark key="^" line="4" column="3" />
         <mark key="." line="4" column="3" />
+      </file>
+      <file name="D:/code/java/cnooc/src/main/kotlin/com/cnvoc/cnooc/entity/manual/TankResult.kt" timestamp="1514273925066">
+        <mark key="[" line="29" column="20" />
+        <mark key="]" line="29" column="19" />
+        <mark key="." line="29" column="19" />
+        <mark key="^" line="29" column="19" />
       </file>
       <file name="$USER_HOME$/sync/code/go/src/zhvocs/conf/app.conf" timestamp="1479257088739">
         <mark key="[" line="11" column="35" />
@@ -1452,7 +1458,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>:</text>
+        <text />
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -1559,37 +1565,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfZ2V0X3BvcF9kaWFsb2dfdGl0bGVcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLm9yYWNsZTwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+b2pkYmM4PC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4xMi4yLjAuMTwvdmVyc2lvbj4KICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+      <register name="0" type="4">
+        <text>罐漆差的数量（↑）</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHNldAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tIG9yYWNsZSAtLT4KICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLm9yYWNsZTwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+b2pkYmM4PC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4xMi4yLjAuMTwvdmVyc2lvbj4KICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLm9yYWNsZTwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+b2pkYmM4PC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgICAgICAgICA8dmVyc2lvbj4xMi4yLjAuMTwvdmVyc2lvbj4KICAgICAgICAgICAgICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">LyoKCiAqLwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPnJ1bnRpbWUgPC9zY29wZT4K</text>
+        <text encoding="base64">ICAgIHZhciAK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLm9yYWNsZS5qZGJjPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5vamRiYzg8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjEyLjIuMC4xPC92ZXJzaW9uPgogICAgICAgICAgICA8c2NvcGU+dGVzdDwvc2NvcGU+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
+        <text encoding="base64">ICAgICAgICA8IS0tIG9yYWNsZSAtLT4KICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLm9yYWNsZTwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+b2pkYmM4PC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4xMi4yLjAuMTwvdmVyc2lvbj4KICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QFRlc3QK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLm9yYWNsZTwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+b2pkYmM4PC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgICAgICAgICA8dmVyc2lvbj4xMi4yLjAuMTwvdmVyc2lvbj4KICAgICAgICAgICAgICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZ1biBnZW5lcmF0ZUJ5VGFibGVzKCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPnJ1bnRpbWUgPC9zY29wZT4K</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -1648,8 +1654,8 @@
         <entry>%s/UNIQUE KEY/UNIQUE/gc</entry>
         <entry>q</entry>
         <entry>wq</entry>
-        <entry>action NextTab</entry>
         <entry>action PreviousTab</entry>
+        <entry>action NextTab</entry>
         <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
