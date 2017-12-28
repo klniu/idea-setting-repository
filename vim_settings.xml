@@ -245,6 +245,12 @@
         <mark key="^" line="70" column="25" />
         <mark key="." line="70" column="26" />
       </file>
+      <file name="D:/code/java/cnooc/src/main/kotlin/com/cnvoc/cnooc/mapper/VocsWeekdataMapper.kt" timestamp="1514439849819">
+        <mark key="[" line="14" column="29" />
+        <mark key="]" line="14" column="28" />
+        <mark key="^" line="14" column="28" />
+        <mark key="." line="14" column="28" />
+      </file>
       <file name="$USER_HOME$/code/python/autostock/jd.py" timestamp="1511439342505">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
@@ -396,7 +402,6 @@
         <mark key="." line="9" column="7" />
         <mark key="^" line="9" column="7" />
       </file>
-      <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/model_test.go" timestamp="1514182193018" />
       <file name="D:/code/python/autostock/httrade.py" timestamp="1513395524612">
         <mark key="'" line="34" column="30" />
         <mark key="[" line="56" column="0" />
@@ -700,12 +705,12 @@
         <mark key="^" line="20" column="12" />
         <mark key="." line="21" column="3" />
       </file>
-      <file name="D:/code/java/cnooc/src/main/kotlin/com/cnvoc/cnooc/service/impl/TankService.kt" timestamp="1514431995947">
+      <file name="D:/code/java/cnooc/src/main/kotlin/com/cnvoc/cnooc/service/impl/TankService.kt" timestamp="1514439728649">
         <mark key="'" line="35" column="64" />
-        <mark key="[" line="22" column="49" />
-        <mark key="]" line="22" column="49" />
-        <mark key="." line="22" column="49" />
-        <mark key="^" line="22" column="55" />
+        <mark key="[" line="30" column="39" />
+        <mark key="]" line="30" column="39" />
+        <mark key="." line="30" column="39" />
+        <mark key="^" line="43" column="7" />
       </file>
       <file name="$USER_HOME$/code/java/voc/src/test/java/com/klniu/voc/security/auth/AuthControllerTest.java" timestamp="1509247739320">
         <mark key="[" line="30" column="33" />
@@ -1553,7 +1558,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>::class</text>
+        <text>;</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -1660,7 +1665,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>::class</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>cache</text>
@@ -1672,30 +1677,30 @@
         <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
       </register>
-      <register name="4" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
+      </register>
       <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBnZXRJbm5lclRhbmtzKGZhY3RvcnlJZDogU3RyaW5nKTogTGlzdDxWb2NzT3V0c2lkZXRhbms+IHsKICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4KICAgIH0KCiAgICBvdmVycmlkZSBmdW4gZ2V0RXh0ZXJuYWxUYW5rcyhmYWN0b3J5SWQ6IFN0cmluZyk6IExpc3Q8Vm9jc1NpZGV0YW5rPiB7CiAgICAgICAgVE9ETygibm90IGltcGxlbWVudGVkIikgLy9UbyBjaGFuZ2UgYm9keSBvZiBjcmVhdGVkIGZ1bmN0aW9ucyB1c2UgRmlsZSB8IFNldHRpbmdzIHwgRmlsZSBUZW1wbGF0ZXMuCiAgICB9CgogICAgb3ZlcnJpZGUgZnVuIGdldEFsbEZpeGVkVGFua3NFbWlzc2lvbihmYWN0b3J5SWQ6IFN0cmluZyk6IERvdWJsZSB7CiAgICAgICAgVE9ETygibm90IGltcGxlbWVudGVkIikgLy9UbyBjaGFuZ2UgYm9keSBvZiBjcmVhdGVkIGZ1bmN0aW9ucyB1c2UgRmlsZSB8IFNldHRpbmdzIHwgRmlsZSBUZW1wbGF0ZXMuCiAgICB9CgogICAgb3ZlcnJpZGUgZnVuIGdldEFsbElubmVyVGFua3NFbWlzc2lvbihmYWN0b3J5SWQ6IFN0cmluZyk6IERvdWJsZSB7CiAgICAgICAgVE9ETygibm90IGltcGxlbWVudGVkIikgLy9UbyBjaGFuZ2UgYm9keSBvZiBjcmVhdGVkIGZ1bmN0aW9ucyB1c2UgRmlsZSB8IFNldHRpbmdzIHwgRmlsZSBUZW1wbGF0ZXMuCiAgICB9CgogICAgb3ZlcnJpZGUgZnVuIGdldEFsbEV4dGVybmFsVGFua3NFbWlzc2lvbihmYWN0b3J5SWQ6IFN0cmluZyk6IERvdWJsZSB7CiAgICAgICAgVE9ETygibm90IGltcGxlbWVudGVkIikgLy9UbyBjaGFuZ2UgYm9keSBvZiBjcmVhdGVkIGZ1bmN0aW9ucyB1c2UgRmlsZSB8IFNldHRpbmdzIHwgRmlsZSBUZW1wbGF0ZXMuCiAgICB9Cg==</text>
       </register>
-      <register name="6" type="8">
+      <register name="7" type="8">
         <text>All
 All
 All</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGZ1biBnZXRBbGxJbm5lclRhbmtzKCkK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGZ1biBnZXRBbGxGaXhlZFRhbmtzRW1pc3Npb24oZmFjdG9yeUlkOiBTdHJpbmcpOkRvdWJsZQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgcmVzdWx0ID0gQXJyYXlMaXN0PFZvY3NBdG1vc3BoZWljdGFuaz4oMCkK</text>
+        <text encoding="base64">ICAgIGZ1biBnZXRBbGxGaXhlZFRhbmtzRW1pc3Npb24oZmFjdG9yeUlkOiBTdHJpbmcpOkRvdWJsZQo=</text>
       </register>
       <register name=":" type="4">
         <text>action PreviousTab</text>
