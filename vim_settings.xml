@@ -517,10 +517,6 @@
         <mark key="^" line="7" column="33" />
         <mark key="." line="7" column="33" />
       </file>
-      <file name="D:/code/java/cnooc/src/main/resources/mapper/BuiltInOilsMapper.xml" timestamp="1514422593771">
-        <mark key="[" line="5" column="44" />
-        <mark key="]" line="5" column="57" />
-      </file>
       <file name="$USER_HOME$/workdir/web/vocs-react/src/less/theme.js" timestamp="1490930091137">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -754,6 +750,12 @@
       <file name="/fragment.java" timestamp="1514450594600">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/code/java/cnooc/src/main/kotlin/com/cnvoc/cnooc/entity/manual/Company.kt" timestamp="1514535073173">
+        <mark key="[" line="17" column="9" />
+        <mark key="]" line="17" column="14" />
+        <mark key="." line="17" column="14" />
+        <mark key="^" line="17" column="14" />
+      </file>
       <file name="$USER_HOME$/code/java/voc/src/test/resources/com/klniu/voc/security/web/clear.sql" timestamp="1510218413196">
         <mark key="[" line="2" column="16" />
         <mark key="]" line="2" column="24" />
@@ -875,10 +877,6 @@
         <mark key="]" line="4" column="30" />
         <mark key="." line="4" column="30" />
         <mark key="^" line="4" column="30" />
-      </file>
-      <file name="D:/code/java/mybatisplus-spring-boot/src/main/java/com/baomidou/springboot/config/MybatisPlusConfig.java" timestamp="1514364282776">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="45" />
       </file>
       <file name="$USER_HOME$/workdir/code/clear/src/main/resources/application.properties" timestamp="1500541221134">
         <mark key="[" line="0" column="0" />
@@ -1106,11 +1104,11 @@
         <mark key="^" line="21" column="54" />
         <mark key="." line="21" column="54" />
       </file>
-      <file name="D:/code/java/cnooc/src/main/kotlin/com/cnvoc/cnooc/web/SummaryController.kt" timestamp="1514529754683">
+      <file name="D:/code/java/cnooc/src/main/kotlin/com/cnvoc/cnooc/web/SummaryController.kt" timestamp="1514533965997">
         <mark key="'" line="12" column="19" />
-        <mark key="[" line="13" column="25" />
-        <mark key="]" line="13" column="24" />
-        <mark key="." line="13" column="24" />
+        <mark key="[" line="20" column="35" />
+        <mark key="]" line="20" column="35" />
+        <mark key="." line="20" column="35" />
         <mark key="^" line="13" column="24" />
       </file>
       <file name="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/web/UserController.java" timestamp="1509107730061">
@@ -1602,7 +1600,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>:</text>
+        <text>ldar</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -1709,40 +1707,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>ldar</text>
       </register>
       <register name="/" type="4">
         <text>LocalDate</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgZXcgPSBFbnRpdHlXcmFwcGVyPFZvY3NBdG1vc3BoZWljdGFuaz4oKQogICAgICAgIGV3LmVudGl0eSA9IFZvY3NBdG1vc3BoZWljdGFuaygpOwogICAgICAgIGV3LndoZXJlKCJGQUNUT1JZSUQgPSB7MH0iLCBmYWN0b3J5SWQpCiAgICAgICAgcmV0dXJuIHZvY3NBdG1vc3BoZWljdGFua01hcHBlci5zZWxlY3RMaXN0KGV3KQo=</text>
+        <text encoding="base64">ICAgICAgICAid2FzdGV3YXRlciIgdG8gdHJ1ZSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBXcml0ZSB0aGUgb3V0cHV0IHRvIGEgZmlsZQo=</text>
+        <text encoding="base64">ICAgICAgICAidGFuayIgdG8gZmFsc2UsCiAgICAgICAgImxkYXIiIHRvIGZhbHNlLAogICAgICAgICJsZGFyIiB0byBmYWxzZSwKICAgICAgICAibGRhciIgdG8gZmFsc2UsCiAgICAgICAgImxkYXIiIHRvIGZhbHNlLAogICAgICAgICJsZGFyIiB0byBmYWxzZSwKICAgICAgICAibGRhciIgdG8gZmFsc2UsCiAgICAgICAgImxkYXIiIHRvIGZhbHNlLAogICAgICAgICJsZGFyIiB0byBmYWxzZSwKICAgICAgICAibGRhciIgdG8gZmFsc2UsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgZmlsZU91dCA9IG5ldyBGaWxlT3V0cHV0U3RyZWFtKCJ3b3JrYm9vay54bHMiKTsKICAgICAgICB3Yi53cml0ZShmaWxlT3V0KTsKICAgICAgICBmaWxlT3V0LmNsb3NlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAidGFrIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhciBpc0ZhY3RvcnkgPSBmYWxzZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBXcml0ZSB0aGUgb3V0cHV0IHRvIGEgZmlsZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgZmlsZU91dCA9IG5ldyBGaWxlT3V0cHV0U3RyZWFtKCJ3b3JrYm9vay54bHMiKTsKICAgICAgICB3Yi53cml0ZShmaWxlT3V0KTsKICAgICAgICBmaWxlT3V0LmNsb3NlKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvL0lucHV0U3RyZWFtIGlucCA9IG5ldyBGaWxlSW5wdXRTdHJlYW0oIndvcmtib29rLnhsc3giKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZ1biBnZXRGaXhlZFRhbmtzQ291bnQoZmFjdG9yeUlkOiBTdHJpbmcpOiBJbnQKICAgIGZ1biBnZXRJbm5lclRhbmtzQ291bnQoZmFjdG9yeUlkOiBTdHJpbmcpOiBJbnQKICAgIGZ1biBnZXRFeHRlcm5hbFRhbmtzQ291bnQoZmFjdG9yeUlkOiBTdHJpbmcpOiBJbnQK</text>
+        <text encoding="base64">ICAgICAgICAvL0lucHV0U3RyZWFtIGlucCA9IG5ldyBGaWxlSW5wdXRTdHJlYW0oIndvcmtib29rLnhsc3giKTsK</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
