@@ -602,6 +602,12 @@
         <mark key="." line="7" column="20" />
         <mark key="^" line="7" column="20" />
       </file>
+      <file name="D:/code/java/voc/src/main/kotlin/com/cnvoc/voc/common/functions.kt" timestamp="1514629603868">
+        <mark key="[" line="6" column="34" />
+        <mark key="]" line="6" column="34" />
+        <mark key="^" line="4" column="55" />
+        <mark key="." line="6" column="34" />
+      </file>
       <file name="$USER_HOME$/sync/code/java/xiaoyi/src/main/java/META-INF/persistence.xml" timestamp="1485833444750">
         <mark key="[" line="7" column="28" />
         <mark key="]" line="7" column="60" />
@@ -620,11 +626,12 @@
         <mark key="." line="8" column="4" />
         <mark key="^" line="8" column="4" />
       </file>
-      <file name="D:/code/java/voc/build.gradle" timestamp="1514605484112">
+      <file name="D:/code/java/voc/build.gradle" timestamp="1514628176946">
         <mark key="'" line="12" column="0" />
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
+        <mark key="[" line="62" column="41" />
+        <mark key="]" line="64" column="10" />
+        <mark key="." line="64" column="10" />
+        <mark key="^" line="64" column="10" />
       </file>
       <file name="$USER_HOME$/workdir/code/law/src/main/java/com/klniu/law/dao/LawDao.java" timestamp="1505119298564">
         <mark key="[" line="3" column="0" />
@@ -721,12 +728,11 @@
         <mark key="^" line="16" column="44" />
         <mark key="." line="16" column="44" />
       </file>
-      <file name="D:/code/java/voc/src/main/kotlin/com/cnvoc/voc/web/InstitutionController.kt" timestamp="1514627263564">
-        <mark key="'" line="27" column="42" />
-        <mark key="[" line="58" column="85" />
-        <mark key="]" line="59" column="11" />
-        <mark key="." line="59" column="11" />
-        <mark key="^" line="59" column="11" />
+      <file name="D:/code/java/voc/src/main/kotlin/com/cnvoc/voc/web/InstitutionController.kt" timestamp="1514630326210">
+        <mark key="[" line="38" column="79" />
+        <mark key="]" line="38" column="79" />
+        <mark key="." line="38" column="79" />
+        <mark key="^" line="38" column="60" />
       </file>
       <file name="D:/code/python/utils/office/merge_pdfs.py" timestamp="1513152015114">
         <mark key="[" line="45" column="11" />
@@ -942,11 +948,11 @@
         <mark key="^" line="57" column="55" />
         <mark key="." line="57" column="55" />
       </file>
-      <file name="D:/code/java/voc/src/main/kotlin/com/cnvoc/voc/entity/enums/Result.kt" timestamp="1514627250267">
-        <mark key="[" line="6" column="36" />
-        <mark key="]" line="6" column="42" />
-        <mark key="^" line="6" column="42" />
-        <mark key="." line="6" column="42" />
+      <file name="D:/code/java/voc/src/main/kotlin/com/cnvoc/voc/entity/enums/Result.kt" timestamp="1514630296638">
+        <mark key="[" line="11" column="42" />
+        <mark key="]" line="11" column="44" />
+        <mark key="^" line="11" column="44" />
+        <mark key="." line="11" column="44" />
       </file>
       <file name="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/security/auth/AuthenticationRestController.java" timestamp="1511352861874">
         <mark key="'" line="78" column="33" />
@@ -1619,7 +1625,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="39" filename="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/security/auth/AuthController.java" />
       <jump line="65" column="19" filename="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/security/JwtAuthenticationTokenFilter.java" />
       <jump line="43" column="41" filename="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/security/WebSecurityConfig.java" />
       <jump line="67" column="10" filename="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/security/JwtAuthenticationTokenFilter.java" />
@@ -1719,6 +1724,7 @@
       <jump line="2" column="0" filename="D:/code/java/voc/src/main/kotlin/com/cnvoc/voc/config/MybatisPlusConfig.kt" />
       <jump line="25" column="42" filename="D:/code/java/voc/src/main/kotlin/com/cnvoc/voc/web/InstitutionController.kt" />
       <jump line="17" column="25" filename="D:/code/java/voc/src/main/kotlin/com/cnvoc/voc/service/impl/InstitutionServiceImpl.kt" />
+      <jump line="40" column="46" filename="D:/code/java/voc/src/main/kotlin/com/cnvoc/voc/web/InstitutionController.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1742,7 +1748,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>code</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -1849,40 +1855,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>code</text>
       </register>
       <register name="/" type="4">
         <text>junit</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEVSUk9SX1VQREFURV9EQVRBKDEwMDIsICK4/NDCyv2+3cqnsNwiLCBBbnkoKSksCg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsudmFsaWRhdGlvbi5CaW5kaW5nUmVzdWx0Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIAo=</text>
+        <text encoding="base64">ICAgIDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpSW5zdGl0dXRpb25TZXJ2aWNlLnNlbGVjdEJ5SWQoMSkK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpSW5zdGl0dXRpb25TZXJ2aWNlLnNlbGVjdEJ5SWQoMSkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">QE1hcHBlclNjYW4oImNvbS5jbnZvYy52b2MubWFwcGVyKiIpCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIFNVQ0NFU1MoMCwgIiIsIEFueSgpKSwKICAgIEVSUk9SX0lOU0VSVF9EQVRBKDEwMDEsICKy5cjryv2+3cqnsNwiLCBBbnkoKSksCiAgICBFUlJPUl9VUERBVEVfREFUQSgxMDAyLCAiuPzQwsr9vt3Kp7DcIiwgQW55KCkpLAogICAgRVJST1JfREVMRVRFX0RBVEEoMTAwMywgIsm+s/3K/b7dyqew3CIsIEFueSgpKSwKCiAgICBFUlJPUl9JTlZBTElEX0RBVEEoMjAwMSwgIs7e0KfK/b7dIiwgQW55KCkpLAoKICAgIEVSUk9SX0NBTk5PVF9ERUxFVEVfSU5TVElUVVRJT04oMzAwMSwgIsbkz8LI1NPQ1+nWr7vyuaSzp8r9vt2jrMfrz8jJvrP9IiwgQW55KCkpCgogICAgOwo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHZhbCBjb2RlID0gMAogICAgdmFsIG1zZyA9ICIiCiAgICB2YWwgZGF0YSA9IEFueSgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKGluc3RpdHV0aW9uKQogICAgICAgIHByaW50bG4oaUluc3RpdHV0aW9uU2VydmljZSkK</text>
+        <text encoding="base64">ICAgIHZhciBjb2RlID0gMAogICAgdmFyIG1zZyA9ICIiCiAgICB2YXIgZGF0YSA9IEFueSgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBvdWtpbmd0aW0K</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIG1zZzogU3RyaW5nCg==</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
