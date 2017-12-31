@@ -1395,11 +1395,10 @@
         <mark key="." line="57" column="55" />
         <mark key="^" line="57" column="55" />
       </file>
-      <file name="D:/code/java/voc/src/main/kotlin/com/cnvoc/voc/service/impl/FactoryServiceImpl.kt" timestamp="1514642512918">
-        <mark key="[" line="21" column="14" />
-        <mark key="]" line="22" column="16" />
-        <mark key="." line="22" column="16" />
-        <mark key="^" line="22" column="16" />
+      <file name="D:/code/java/voc/src/main/kotlin/com/cnvoc/voc/service/impl/FactoryServiceImpl.kt" timestamp="1514681882115">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/sync/code/go/src/ldar/direction_test.go" timestamp="1476252942723">
         <mark key="[" line="16" column="19" />
@@ -1767,7 +1766,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -1874,43 +1873,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text>SettingService</text>
       </register>
       <register name="/" type="4">
         <text>junit</text>
       </register>
-      <register name="0" type="4">
-        <text>IFactoryService</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIGxhdGVpbml0IHZhciBpTGRhclNldHRpbmdTZXJ2aWNlOklMZGFyU2V0dGluZ1NlcnZpY2UK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGNyZXRlCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">TGRhclNldHRpbmdTZXJ2aWNlCiAgICA=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="3" type="4">
+        <text encoding="base64">RmFjdG9yeVNlcnZpY2UKICAgIA==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpRmFjdG9yeVNlcnZpY2UuCg==</text>
+        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGNyZXRlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gUmVzdWx0LlNVQ0NFU1MK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgRVJST1JfSU5WQUxJRF9EQVRBX0NPREUgPSAyMDAxCg==</text>
+        <text encoding="base64">ICAgICAgICBpRmFjdG9yeVNlcnZpY2UuCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action NextTab</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
@@ -1963,9 +1962,9 @@
         <entry>wq</entry>
         <entry>action Forward</entry>
         <entry>tabnew application-dev.yaml</entry>
-        <entry>action ReformatCode</entry>
         <entry>action PreviousTab</entry>
         <entry>action NextTab</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
