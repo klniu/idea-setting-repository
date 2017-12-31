@@ -9,20 +9,12 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Copy">
-        <Item>
-          <IdeaActionID>$Copy</IdeaActionID>
-          <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
-          <Description>Copy</Description>
-          <Count>7</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Delete...">
         <Item>
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'Delete'</ShortCut>
           <Description>Delete...</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Drop">
@@ -73,28 +65,12 @@
           <Count>2</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Run">
-        <Item>
-          <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
-          <ShortCut>'Alt+4'</ShortCut>
-          <Description>Run</Description>
-          <Count>4</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Settings...">
         <Item>
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
           <Count>5</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'VocApplication'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'Ctrl+F2'</ShortCut>
-          <Description>Stop 'VocApplication'</Description>
-          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'voc [test]'">
@@ -115,6 +91,14 @@
       </Statistic>
     </option>
     <option name="suppressed">
+      <Statistic Action="Copy">
+        <Item>
+          <IdeaActionID>$Copy</IdeaActionID>
+          <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
+          <Description>Copy</Description>
+          <Count>8</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'voc [test]'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -127,6 +111,14 @@
         <Item>
           <IdeaActionID>ActivateGradleToolWindow</IdeaActionID>
           <Description>Gradle</Description>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run">
+        <Item>
+          <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
+          <ShortCut>'Alt+4'</ShortCut>
+          <Description>Run</Description>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'VocApplication'">
@@ -143,6 +135,14 @@
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'voc [test]'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'VocApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'VocApplication'</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Synchronize">
