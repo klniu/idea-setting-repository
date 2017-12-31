@@ -373,6 +373,9 @@
         <mark key="." line="2" column="63" />
         <mark key="^" line="2" column="63" />
       </file>
+      <file name="/a.sql" timestamp="1514732366814">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/sync/code/java/xiaoyi/src/main/resources/config.properties" timestamp="1485831519232">
         <mark key="[" line="12" column="11" />
         <mark key="]" line="12" column="19" />
@@ -460,7 +463,6 @@
         <mark key="." line="9" column="7" />
         <mark key="^" line="9" column="7" />
       </file>
-      <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/model_test.go" timestamp="1514699424242" />
       <file name="D:/code/java/voc/src/main/kotlin/com/cnvoc/voc/service/IFactoryService.kt" timestamp="1514700301207">
         <mark key="'" line="16" column="10" />
         <mark key="[" line="16" column="22" />
@@ -1061,11 +1063,11 @@
         <mark key="^" line="53" column="28" />
         <mark key="." line="53" column="28" />
       </file>
-      <file name="D:/code/java/voc/src/main/resources/application-dev.yaml" timestamp="1514730581723">
-        <mark key="[" line="6" column="9" />
-        <mark key="]" line="6" column="23" />
-        <mark key="." line="6" column="9" />
-        <mark key="^" line="6" column="19" />
+      <file name="D:/code/java/voc/src/main/resources/application-dev.yaml" timestamp="1514732624223">
+        <mark key="[" line="13" column="16" />
+        <mark key="]" line="13" column="19" />
+        <mark key="." line="13" column="19" />
+        <mark key="^" line="13" column="19" />
       </file>
       <file name="$USER_HOME$/sync/code/java/xiaoyi/src/test/java/com/klniu/xiaoyi/IndexFilesTest.java" timestamp="1484307733700">
         <mark key="[" line="53" column="21" />
@@ -1127,12 +1129,12 @@
         <mark key="." line="18" column="14" />
         <mark key="^" line="18" column="14" />
       </file>
-      <file name="D:/code/java/voc/src/main/resources/sql/schema.sql" timestamp="1514729300014">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="384" column="0" />
-        <mark key="]" line="384" column="0" />
-        <mark key="^" line="202" column="20" />
-        <mark key="." line="384" column="0" />
+      <file name="D:/code/java/voc/src/main/resources/sql/schema.sql" timestamp="1514733586908">
+        <mark key="'" line="5" column="10" />
+        <mark key="[" line="73" column="27" />
+        <mark key="]" line="73" column="27" />
+        <mark key="." line="73" column="27" />
+        <mark key="^" line="73" column="23" />
       </file>
       <file name="$USER_HOME$/code/java/law/src/main/resources/mapper/LawMapper.xml" timestamp="1507778383686">
         <mark key="[" line="19" column="0" />
@@ -1708,14 +1710,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="33" filename="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/security/auth/AuthenticationRestController.java" />
-      <jump line="70" column="36" filename="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/security/auth/AuthServiceImpl.java" />
-      <jump line="71" column="0" filename="$USER_HOME$/code/java/voc/src/test/java/com/klniu/voc/security/web/AuthenticationRestControllerTest.java" />
-      <jump line="157" column="0" filename="$USER_HOME$/code/java/voc/src/test/java/com/klniu/voc/security/web/AuthenticationRestControllerTest.java" />
-      <jump line="63" column="23" filename="$USER_HOME$/code/java/voc/src/test/java/com/klniu/voc/security/web/AuthenticationRestControllerTest.java" />
-      <jump line="64" column="35" filename="$USER_HOME$/code/java/voc/src/test/java/com/klniu/voc/security/web/AuthenticationRestControllerTest.java" />
-      <jump line="20" column="7" filename="$USER_HOME$/code/python/autostock/main.py" />
-      <jump line="31" column="0" filename="$USER_HOME$/code/python/autostock/main.py" />
       <jump line="18" column="0" filename="$USER_HOME$/code/python/autostock/main.py" />
       <jump line="25" column="29" filename="$USER_HOME$/code/python/autostock/test_functions.py" />
       <jump line="56" column="16" filename="$USER_HOME$/code/python/autostock/main.py" />
@@ -1807,7 +1801,15 @@
       <jump line="0" column="0" filename="D:/code/java/voc/src/test/resources/sql/test_data.sql" />
       <jump line="22" column="42" filename="D:/code/java/voc/src/test/kotlin/com/cnvoc/voc/service/impl/FactoryServiceImplTest.kt" />
       <jump line="205" column="20" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
+      <jump line="28" column="16" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
+      <jump line="166" column="33" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
+      <jump line="170" column="33" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
+      <jump line="71" column="22" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
+      <jump line="383" column="6" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
+      <jump line="58" column="13" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
+      <jump line="72" column="21" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
       <jump line="0" column="0" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
+      <jump line="5" column="10" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1831,7 +1833,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>jdbc:h2:mem:voc</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -1938,68 +1940,56 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>jdbc:h2:mem:voc</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>reader</text>
+        <text>float</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHVybDogamRiYzpoMjptZW06dGVzdDtNT0RFPU1ZU1FMO0RCX0NMT1NFX0RFTEFZPS0xCiAgICB1c2VybmFtZToga2xuaXUKICAgIHBhc3N3b3JkOiBrbG5pdQogICAgZHJpdmVyLWNsYXNzLW5hbWU6IG9yZy5oMi5Ecml2ZXIKICAgIHNjaGVtYTogY2xhc3NwYXRoOnNxbC9zY2hlbWEuc3FsCiAgICBkYXRhOiBjbGFzc3BhdGg6c3FsL3Rlc3RfZGF0YS5zcWwKICAgIHBsYXRmb3JtOiBoMgogICAgaW5pdGlhbGl6ZTogdHJ1ZQogICAgY29udGludWUtb24tZXJyb3I6IHRydWUK</text>
+        <text encoding="base64">ICBDT01NRU5UID0gJ73HyavIqM/ese0nOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QkVHSU4gVFIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Q09NTUlUOwo=</text>
+        <text encoding="base64">ICBDT01NRU5UID0gJ7mks6ex7Sc7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">U1RBUlQgVFJBTlNBQ1RJT047Cg==</text>
+        <text encoding="base64">ICBDT01NRU5UICfX6davse0nOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CWNvbXBpbGUgZ3JvdXA6ICdjb20uYWxpYmFiYScsIG5hbWU6ICdkcnVpZCcsIHZlcnNpb246ICcxLjEuNicK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="8">
-        <text>#
-#
-#
-#
-#
-#
-#
-#
-#
-#</text>
+      <register name="5" type="2">
+        <text encoding="base64">Q09NTUlUOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXJ1bnRpbWUoJ2NvbS5oMmRhdGFiYXNlOmgyJykK</text>
+        <text encoding="base64">U1RBUlQgVFJBTlNBQ1RJT047Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHNwcmluZy5oMi5jb25zb2xlLmVuYWJsZWQ9dHJ1ZQpzcHJpbmcuaDIuY29uc29sZS5wYXRoPS9oMi1jb25zb2xlCg==</text>
+        <text encoding="base64">ICAgIGluaXRpYWxpemU6IHRydWUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QEFjdGl2ZVByb2ZpbGVzKCJ0ZXN0IikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QEFjdGl2ZVByb2ZpbGVzKCJ0ZXN0IikK</text>
+        <text encoding="base64">Q09NTUlUOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action NextTab</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
-      <last-search>reader</last-search>
+      <last-search>float</last-search>
       <last-offset />
-      <last-pattern>reader</last-pattern>
+      <last-pattern>float</last-pattern>
       <last-replace>description</last-replace>
       <last-substitute>desc</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>base</entry>
-        <entry>page</entry>
-        <entry>\Date\</entry>
         <entry>Date</entry>
         <entry>mapper</entry>
         <entry>unique</entry>
@@ -2017,6 +2007,9 @@
         <entry>junit</entry>
         <entry>desc</entry>
         <entry>reader</entry>
+        <entry>enum</entry>
+        <entry>adfad</entry>
+        <entry>float</entry>
       </history-search>
       <history-cmd>
         <entry>%s/{ /{/gc</entry>
@@ -2033,12 +2026,12 @@
         <entry>action Forward</entry>
         <entry>tabnew application-dev.yaml</entry>
         <entry>%s/desc/description/gc</entry>
-        <entry>action ReformatCode</entry>
         <entry>action AceTargetAction</entry>
         <entry>action AceAction</entry>
         <entry>action PreviousTab</entry>
         <entry>action AceLineAction</entry>
         <entry>action NextTab</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
