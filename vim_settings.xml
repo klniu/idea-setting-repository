@@ -361,7 +361,7 @@
         <mark key="." line="2" column="63" />
         <mark key="^" line="2" column="63" />
       </file>
-      <file name="/a.sql" timestamp="1514695720748">
+      <file name="/a.sql" timestamp="1514698862650">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/sync/code/java/xiaoyi/src/main/resources/config.properties" timestamp="1485831519232">
@@ -575,6 +575,12 @@
         <mark key="]" line="73" column="17" />
         <mark key="^" line="73" column="17" />
         <mark key="." line="73" column="17" />
+      </file>
+      <file name="D:/code/java/voc/src/main/kotlin/com/cnvoc/voc/entity/Component.kt" timestamp="1514698813045">
+        <mark key="[" line="31" column="8" />
+        <mark key="]" line="31" column="8" />
+        <mark key="." line="31" column="8" />
+        <mark key="^" line="31" column="7" />
       </file>
       <file name="$USER_HOME$/workdir/web/vocs-react/src/less/theme.js" timestamp="1490930091137">
         <mark key="[" line="6" column="0" />
@@ -948,12 +954,12 @@
         <mark key="." line="35" column="28" />
         <mark key="^" line="35" column="28" />
       </file>
-      <file name="D:/code/java/voc/src/test/resources/sql/test_data.sql" timestamp="1514696666571">
+      <file name="D:/code/java/voc/src/test/resources/sql/test_data.sql" timestamp="1514699339104">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="17" column="19" />
-        <mark key="]" line="17" column="18" />
-        <mark key="^" line="17" column="18" />
-        <mark key="." line="17" column="18" />
+        <mark key="[" line="27" column="33" />
+        <mark key="]" line="27" column="32" />
+        <mark key="." line="27" column="32" />
+        <mark key="^" line="27" column="32" />
       </file>
       <file name="$USER_HOME$/workdir/code/voc-ui/src/constants/ActionTypes.js" timestamp="1500202940649">
         <mark key="[" line="3" column="0" />
@@ -1112,12 +1118,12 @@
         <mark key="." line="18" column="14" />
         <mark key="^" line="18" column="14" />
       </file>
-      <file name="D:/code/java/voc/src/main/resources/sql/schema.sql" timestamp="1514695583708">
+      <file name="D:/code/java/voc/src/main/resources/sql/schema.sql" timestamp="1514698797681">
         <mark key="'" line="20" column="3" />
-        <mark key="[" line="295" column="15" />
-        <mark key="]" line="295" column="21" />
-        <mark key="^" line="295" column="21" />
-        <mark key="." line="295" column="21" />
+        <mark key="[" line="265" column="3" />
+        <mark key="]" line="265" column="9" />
+        <mark key="^" line="265" column="9" />
+        <mark key="." line="265" column="9" />
       </file>
       <file name="$USER_HOME$/code/java/law/src/main/resources/mapper/LawMapper.xml" timestamp="1507778383686">
         <mark key="[" line="19" column="0" />
@@ -1811,8 +1817,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBsZGFyU2V0dGluZy4K</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -1919,40 +1925,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>LdarSetting</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>desc</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">SU5TRVJUIElOVE8gZmFjdG9yeSAoaWQsIGluc3RpdHV0aW9uX2lkLCBuYW1lLCBwcm92aW5jZSwgY2l0eSwgYWRkcmVzcywgdm9jX3ByaWNlLCBkZXNjcmlwdGlvbikKVkFMVUVTICgKICAxLCAzLCAiwbbTzbOnIiwgIszsvfIiLCAisfW6o9DCx/giLCAiwdm427mk0rXH+CIsIDEwLCBOVUxMKTsK</text>
+      <register name="0" type="4">
+        <text>SealType|%s;SealNo|%02d</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsZGFyU2V0dGluZy4K</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">SU5TRVJUIElOVE8gZmFjdG9yeSAoaWQsIGluc3RpdHV0aW9uX2lkLCBuYW1lLCBwcm92aW5jZSwgY2l0eSwgYWRkcmVzcywgdm9jX3ByaWNlLCBkZXNjcmlwdGlvbikKVkFMVUVTICgKICAxLCAzLCAiwbbTzbOnIiwgIszsvfIiLCAisfW6o9DCx/giLCAiwdm427mk0rXH+CIsIDEwLCBOVUxMKTsK</text>
+        <text encoding="base64">ICAgICAgICBsZGFyU2V0dGluZy4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">SU5TRVJUIElOVE8gaW5zdGl0dXRpb24gKHBhcmVudF9pZCwgbmFtZSwgYGRlc2NgKSBWQUxVRVMK</text>
+        <text encoding="base64">SU5TRVJUIElOVE8gZmFjdG9yeSAoaWQsIGluc3RpdHV0aW9uX2lkLCBuYW1lLCBwcm92aW5jZSwgY2l0eSwgYWRkcmVzcywgdm9jX3ByaWNlLCBkZXNjcmlwdGlvbikKVkFMVUVTICgKICAxLCAzLCAiwbbTzbOnIiwgIszsvfIiLCAisfW6o9DCx/giLCAiwdm427mk0rXH+CIsIDEwLCBOVUxMKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">KQo=</text>
+        <text encoding="base64">SU5TRVJUIElOVE8gaW5zdGl0dXRpb24gKHBhcmVudF9pZCwgbmFtZSwgYGRlc2NgKSBWQUxVRVMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">SU5TRVJUIElOVE8K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">SU5TRVJUIAo=</text>
+        <text encoding="base64">SU5TRVJUIElOVE8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QFJvbGxiYWNrCg==</text>
+        <text encoding="base64">SU5TRVJUIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QFRyYW5zYWN0aW9uYWwK</text>
+        <text encoding="base64">QFJvbGxiYWNrCg==</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
