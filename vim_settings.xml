@@ -445,6 +445,11 @@
         <mark key="." line="36" column="11" />
         <mark key="^" line="36" column="11" />
       </file>
+      <file name="D:/code/java/mpgenerator_kt/src/main/kotlin/voc.kt" timestamp="1514785082025">
+        <mark key="'" line="0" column="5" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="78" column="1" />
+      </file>
       <file name="D:/code/python/autostock/quotation.py" timestamp="1513395435718">
         <mark key="[" line="21" column="20" />
         <mark key="]" line="21" column="21" />
@@ -744,7 +749,7 @@
         <mark key="." line="3" column="3" />
         <mark key="^" line="3" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1514779344838">
+      <file name="/Dummy.txt" timestamp="1514785723123">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -886,6 +891,10 @@
         <mark key="]" line="26" column="48" />
         <mark key="." line="26" column="48" />
         <mark key="^" line="26" column="48" />
+      </file>
+      <file name="D:/code/java/mpgenerator_kt/build.gradle" timestamp="1514784991904">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="26" column="70" />
       </file>
       <file name="D:/code/java/mybatisplus-spring-boot/src/test/java/com/baomidou/springboot/test/generator/GeneratorServiceEntity.java" timestamp="1514364905641">
         <mark key="[" line="29" column="49" />
@@ -1118,6 +1127,13 @@
         <mark key="]" line="116" column="5" />
         <mark key="^" line="116" column="5" />
         <mark key="." line="116" column="5" />
+      </file>
+      <file name="D:/code/java/mpgenerator/src/main/java/VocsGenerator.java" timestamp="1514785682526">
+        <mark key="'" line="69" column="0" />
+        <mark key="[" line="6" column="19" />
+        <mark key="]" line="6" column="19" />
+        <mark key="^" line="6" column="19" />
+        <mark key="." line="6" column="19" />
       </file>
       <file name="$USER_HOME$/workdir/web/vocs-react/tsconfig.json" timestamp="1489480782599">
         <mark key="[" line="4" column="21" />
@@ -1460,10 +1476,10 @@
         <mark key="." line="12" column="19" />
         <mark key="^" line="7" column="19" />
       </file>
-      <file name="D:/code/java/mpgenerator/build.gradle" timestamp="1514777609100">
-        <mark key="[" line="26" column="4" />
-        <mark key="]" line="26" column="5" />
-        <mark key="." line="26" column="5" />
+      <file name="D:/code/java/mpgenerator/build.gradle" timestamp="1514784999782">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="D:/code/java/voc/src/main/resources/mapper/LdarSettingMapper.xml" timestamp="1514780363092">
         <mark key="'" line="5" column="63" />
@@ -1740,11 +1756,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="196" column="8" filename="F:/code/python/easytrader/easytrader/ht_clienttrader.py" />
-      <jump line="0" column="0" filename="C:/ProgramData/Anaconda3/Lib/site-packages/PyPDF2/utils.py" />
-      <jump line="208" column="34" filename="D:/code/python/autostock/autostock.py" />
-      <jump line="204" column="42" filename="D:/code/python/autostock/autostock.py" />
-      <jump line="32" column="8" filename="D:/code/python/autostock/httrade.py" />
       <jump line="34" column="30" filename="D:/code/python/autostock/httrade.py" />
       <jump line="112" column="22" filename="$USER_HOME$/AppData/Local/Continuum/anaconda3/Lib/site-packages/easytrader/ht_clienttrader.py" />
       <jump line="57" column="0" filename="D:/code/java/cnooc/src/main/kotlin/com/cnvoc/cnooc/common/MPGenerator.java" />
@@ -1840,6 +1851,11 @@
       <jump line="115" column="30" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
       <jump line="5" column="63" filename="D:/code/java/voc/src/main/resources/mapper/LdarSettingMapper.xml" />
       <jump line="29" column="42" filename="D:/code/java/voc/src/test/kotlin/com/cnvoc/voc/web/InstitutionControllerTest.kt" />
+      <jump line="13" column="55" filename="D:/code/java/mpgenerator_kt/src/main/kotlin/voc.kt" />
+      <jump line="0" column="5" filename="D:/code/java/mpgenerator_kt/src/main/kotlin/voc.kt" />
+      <jump line="4" column="0" filename="D:/code/java/mpgenerator/src/main/java/VocsGenerator.java" />
+      <jump line="28" column="38" filename="D:/code/java/mpgenerator/src/main/java/VocsGenerator.java" />
+      <jump line="72" column="0" filename="D:/code/java/mpgenerator/src/main/java/VocsGenerator.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1970,25 +1986,25 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>kotlin</text>
+        <text encoding="base64">dmFsIA==</text>
       </register>
       <register name="/" type="4">
-        <text>&quot;</text>
+        <text>$</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIC8vIHNwcmluZyBib290Cgljb21waWxlKCdvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q6c3ByaW5nLWJvb3Qtc3RhcnRlci1hY3R1YXRvcicpCgljb21waWxlKCdvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q6c3ByaW5nLWJvb3Qtc3RhcnRlci1jYWNoZScpCgljb21waWxlKCdvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q6c3ByaW5nLWJvb3Qtc3RhcnRlci13ZWInKQoJcnVudGltZSgnb3JnLnNwcmluZ2ZyYW1ld29yay5ib290OnNwcmluZy1ib290LWRldnRvb2xzJykKCS8vIHZhbGlkYXRpb24KCWNvbXBpbGUoIm9yZy5oaWJlcm5hdGU6aGliZXJuYXRlLXZhbGlkYXRvciIpCgoJLy8gbXliYXRpcwoJcnVudGltZSgnbXlzcWw6bXlzcWwtY29ubmVjdG9yLWphdmEnKQoJY29tcGlsZSBncm91cDogJ2NvbS5iYW9taWRvdScsIG5hbWU6ICdteWJhdGlzcGx1cy1zcHJpbmctYm9vdC1zdGFydGVyJywgdmVyc2lvbjogJzEuMC41JwoJY29tcGlsZSBncm91cDogJ2NvbS5iYW9taWRvdScsIG5hbWU6ICdteWJhdGlzLXBsdXMnLCB2ZXJzaW9uOiAnMi4xLjcnCgljb21waWxlKCJvcmcubXliYXRpczpteWJhdGlzLXR5cGVoYW5kbGVycy1qc3IzMTA6MS4wLjIiKQoJY29tcGlsZSBncm91cDogJ29yZy5teWJhdGlzLmNhY2hlcycsIG5hbWU6ICdteWJhdGlzLWVoY2FjaGUnLCB2ZXJzaW9uOiAnMS4xLjAnCgljb21waWxlIGdyb3VwOiAnb3JnLmFwYWNoZS52ZWxvY2l0eScsIG5hbWU6ICd2ZWxvY2l0eS1lbmdpbmUtY29yZScsIHZlcnNpb246ICcyLjAnCgoJLy8gZGF0YWJhc2UKCWNvbXBpbGUgJ2NvbS5hbGliYWJhOmRydWlkLXNwcmluZy1ib290LXN0YXJ0ZXI6MS4xLjYnCglydW50aW1lKCdjb20uaDJkYXRhYmFzZTpoMicpCgoJLy8gcG9pCgljb21waWxlIGdyb3VwOiAnb3JnLmFwYWNoZS5wb2knLCBuYW1lOiAncG9pJywgdmVyc2lvbjogJzMuMTcnCgljb21waWxlIGdyb3VwOiAnb3JnLmFwYWNoZS5wb2knLCBuYW1lOiAncG9pLW9veG1sJywgdmVyc2lvbjogJzMuMTcnCgoJLy8ganNvbgoJY29tcGlsZSAnY29tLmFsaWJhYmE6ZmFzdGpzb246MS4yLjQ0JwogICAgCgkvLyB0ZXN0Cgl0ZXN0Q29tcGlsZSgnb3JnLnNwcmluZ2ZyYW1ld29yay5ib290OnNwcmluZy1ib290LXN0YXJ0ZXItdGVzdCcpCg==</text>
+      <register name="0" type="4">
+        <text>excludeTables</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5MaXN0Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheUxpc3Q7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -1997,26 +2013,26 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CS8vIHRlc3QKCXRlc3RDb21waWxlKCdvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q6c3ByaW5nLWJvb3Qtc3RhcnRlci10ZXN0JykK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuc2V0S290bGluKHRydWUpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICBmdW4gZ2VuZXJhdGVCeVRhYmxlcygpIHsK</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
-      <last-search>&quot;</last-search>
+      <last-search>$</last-search>
       <last-offset />
-      <last-pattern>&quot;</last-pattern>
-      <last-replace>'</last-replace>
-      <last-substitute>&quot;</last-substitute>
+      <last-pattern>$</last-pattern>
+      <last-replace>;</last-replace>
+      <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -2038,11 +2054,10 @@
         <entry>adfad</entry>
         <entry>float</entry>
         <entry>DOUBLE</entry>
-        <entry>$</entry>
         <entry>&quot;</entry>
+        <entry>$</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/components-layout-demo-side/App/gc</entry>
         <entry>%s/Date/LocalDate/gc</entry>
         <entry>%s/</entry>
         <entry>%s/UNIQUE KEY/UNIQUE/gc</entry>
@@ -2061,6 +2076,7 @@
         <entry>tabnew test_data.sql</entry>
         <entry>action PreviousTab</entry>
         <entry>action NextTab</entry>
+        <entry encoding="base64">JzwsJz5zLyQvOy9nYw==</entry>
         <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
