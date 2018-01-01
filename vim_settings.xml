@@ -906,11 +906,11 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="D:/code/java/mpgenerator/src/main/kotlin/voc.kt" timestamp="1514776917941">
+      <file name="D:/code/java/mpgenerator/src/main/kotlin/voc.kt" timestamp="1514777678917">
         <mark key="[" line="29" column="24" />
-        <mark key="]" line="29" column="28" />
-        <mark key="^" line="29" column="28" />
-        <mark key="." line="29" column="28" />
+        <mark key="]" line="29" column="27" />
+        <mark key="^" line="29" column="27" />
+        <mark key="." line="29" column="27" />
       </file>
       <file name="D:/code/java/voc/src/test/kotlin/com/cnvoc/voc/service/impl/FactoryServiceImplTest.kt" timestamp="1514723998776">
         <mark key="'" line="22" column="42" />
@@ -1444,11 +1444,10 @@
         <mark key="^" line="9" column="35" />
         <mark key="." line="9" column="35" />
       </file>
-      <file name="D:/code/java/mpgenerator/build.gradle" timestamp="1514775417138">
-        <mark key="[" line="22" column="68" />
-        <mark key="]" line="22" column="73" />
-        <mark key="." line="22" column="73" />
-        <mark key="^" line="22" column="73" />
+      <file name="D:/code/java/mpgenerator/build.gradle" timestamp="1514777609100">
+        <mark key="[" line="26" column="4" />
+        <mark key="]" line="26" column="5" />
+        <mark key="." line="26" column="5" />
       </file>
       <file name="D:/code/java/voc/src/main/kotlin/com/cnvoc/voc/entity/Detection.kt" timestamp="1514599192993">
         <mark key="[" line="17" column="9" />
@@ -1839,7 +1838,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text>false</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -1946,7 +1945,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
@@ -1955,31 +1954,31 @@
         <text encoding="base64">ICAgICAgICBpZiAoIWlzQ29udHJvbGxlcikgdGMuc2V0Q29udHJvbGxlcihudWxsKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBtcGcuc2V0VGVtcGxhdGUodGMpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDI58nPyM66ztK7uPbEo7/pyOe5+8no1sMgv9UgT1IgTnVsbCC9q7K7yfqzybjDxKO/6aGjCg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAvLyBtcGcuc2V0VGVtcGxhdGUodGMpOwo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAvLyDI58nPyM66ztK7uPbEo7/pyOe5+8no1sMgv9UgT1IgTnVsbCC9q7K7yfqzybjDxKO/6aGjCg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBtcGcuc2V0VGVtcGxhdGUodGMpOwo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIWlzQ29udHJvbGxlcikgdGMuc2V0Q29udHJvbGxlcihudWxsKTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyDI58nPyM66ztK7uPbEo7/pyOe5+8no1sMgv9UgT1IgTnVsbCC9q7K7yfqzybjDxKO/6aGjCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB0Yy5zZXRFbnRpdHkoIi4uLiIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIWlzQ29udHJvbGxlcikgdGMuc2V0Q29udHJvbGxlcihudWxsKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyB0Yy5zZXRFbnRpdHkoIi4uLiIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIWlzRW50aXR5IC0+IHRjLnNldEVudGl0eShudWxsKQo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIWlzRW50aXR5IC0+IHRjLnNldEVudGl0eShudWxsKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
