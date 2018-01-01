@@ -451,6 +451,10 @@
         <mark key="^" line="21" column="21" />
         <mark key="." line="21" column="21" />
       </file>
+      <file name="D:/code/java/voc_kt/build.gradle" timestamp="1514784645210">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="68" column="67" />
+      </file>
       <file name="$USER_HOME$/sync/code/go/src/test/main.go" timestamp="1491299632176">
         <mark key="[" line="23" column="16" />
         <mark key="]" line="23" column="32" />
@@ -463,6 +467,7 @@
         <mark key="." line="9" column="7" />
         <mark key="^" line="9" column="7" />
       </file>
+      <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/model_test.go" timestamp="1514784519875" />
       <file name="D:/code/java/voc/src/main/kotlin/com/cnvoc/voc/service/IFactoryService.kt" timestamp="1514779396112">
         <mark key="'" line="21" column="10" />
         <mark key="]" line="4" column="3" />
@@ -671,12 +676,11 @@
         <mark key="." line="8" column="4" />
         <mark key="^" line="8" column="4" />
       </file>
-      <file name="D:/code/java/voc/build.gradle" timestamp="1514774837084">
+      <file name="D:/code/java/voc/build.gradle" timestamp="1514784773181">
         <mark key="'" line="12" column="0" />
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="54" column="85" />
-        <mark key="." line="58" column="0" />
-        <mark key="^" line="57" column="0" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/workdir/code/law/src/main/java/com/klniu/law/dao/LawDao.java" timestamp="1505119298564">
         <mark key="[" line="3" column="0" />
@@ -1858,8 +1862,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>kotlin</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -1971,35 +1975,35 @@
       <register name="/" type="4">
         <text>&quot;</text>
       </register>
-      <register name="0" type="4">
-        <text>LdarSettingMapper</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIC8vIHNwcmluZyBib290Cgljb21waWxlKCdvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q6c3ByaW5nLWJvb3Qtc3RhcnRlci1hY3R1YXRvcicpCgljb21waWxlKCdvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q6c3ByaW5nLWJvb3Qtc3RhcnRlci1jYWNoZScpCgljb21waWxlKCdvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q6c3ByaW5nLWJvb3Qtc3RhcnRlci13ZWInKQoJcnVudGltZSgnb3JnLnNwcmluZ2ZyYW1ld29yay5ib290OnNwcmluZy1ib290LWRldnRvb2xzJykKCS8vIHZhbGlkYXRpb24KCWNvbXBpbGUoIm9yZy5oaWJlcm5hdGU6aGliZXJuYXRlLXZhbGlkYXRvciIpCgoJLy8gbXliYXRpcwoJcnVudGltZSgnbXlzcWw6bXlzcWwtY29ubmVjdG9yLWphdmEnKQoJY29tcGlsZSBncm91cDogJ2NvbS5iYW9taWRvdScsIG5hbWU6ICdteWJhdGlzcGx1cy1zcHJpbmctYm9vdC1zdGFydGVyJywgdmVyc2lvbjogJzEuMC41JwoJY29tcGlsZSBncm91cDogJ2NvbS5iYW9taWRvdScsIG5hbWU6ICdteWJhdGlzLXBsdXMnLCB2ZXJzaW9uOiAnMi4xLjcnCgljb21waWxlKCJvcmcubXliYXRpczpteWJhdGlzLXR5cGVoYW5kbGVycy1qc3IzMTA6MS4wLjIiKQoJY29tcGlsZSBncm91cDogJ29yZy5teWJhdGlzLmNhY2hlcycsIG5hbWU6ICdteWJhdGlzLWVoY2FjaGUnLCB2ZXJzaW9uOiAnMS4xLjAnCgljb21waWxlIGdyb3VwOiAnb3JnLmFwYWNoZS52ZWxvY2l0eScsIG5hbWU6ICd2ZWxvY2l0eS1lbmdpbmUtY29yZScsIHZlcnNpb246ICcyLjAnCgoJLy8gZGF0YWJhc2UKCWNvbXBpbGUgJ2NvbS5hbGliYWJhOmRydWlkLXNwcmluZy1ib290LXN0YXJ0ZXI6MS4xLjYnCglydW50aW1lKCdjb20uaDJkYXRhYmFzZTpoMicpCgoJLy8gcG9pCgljb21waWxlIGdyb3VwOiAnb3JnLmFwYWNoZS5wb2knLCBuYW1lOiAncG9pJywgdmVyc2lvbjogJzMuMTcnCgljb21waWxlIGdyb3VwOiAnb3JnLmFwYWNoZS5wb2knLCBuYW1lOiAncG9pLW9veG1sJywgdmVyc2lvbjogJzMuMTcnCgoJLy8ganNvbgoJY29tcGlsZSAnY29tLmFsaWJhYmE6ZmFzdGpzb246MS4yLjQ0JwogICAgCgkvLyB0ZXN0Cgl0ZXN0Q29tcGlsZSgnb3JnLnNwcmluZ2ZyYW1ld29yay5ib290OnNwcmluZy1ib290LXN0YXJ0ZXItdGVzdCcpCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgICAKICAgIA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgbGRhclNldHRpbmcgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsZGFyU2V0dGluZy5mYWN0b3J5SWQgPSBmYWN0b3J5SWQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZ1biAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBnZXRWYWx1ZSgpOlNlcmlhbGl6YWJsZSA9IHZhbHVlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBnZXREZXNjKCk6U3RyaW5nID0gZGVzYwo=</text>
+        <text encoding="base64">CS8vIHRlc3QKCXRlc3RDb21waWxlKCdvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q6c3ByaW5nLWJvb3Qtc3RhcnRlci10ZXN0JykK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
