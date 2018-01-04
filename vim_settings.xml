@@ -178,10 +178,10 @@
         <mark key="^" line="21" column="40" />
         <mark key="." line="21" column="55" />
       </file>
-      <file name="F:/code/python/autostock/autostock.py" timestamp="1515041175729">
-        <mark key="[" line="224" column="25" />
-        <mark key="]" line="224" column="25" />
-        <mark key="." line="224" column="25" />
+      <file name="F:/code/python/autostock/autostock.py" timestamp="1515044390023">
+        <mark key="[" line="187" column="25" />
+        <mark key="]" line="187" column="25" />
+        <mark key="." line="187" column="25" />
         <mark key="^" line="224" column="25" />
       </file>
       <file name="$USER_HOME$/workdir/code/voc-ui/.gitignore" timestamp="1500627700006">
@@ -1097,6 +1097,12 @@
         <mark key="^" line="7" column="44" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="F:/code/python/autostock/test_autostock.py" timestamp="1515044522685">
+        <mark key="[" line="112" column="66" />
+        <mark key="]" line="112" column="69" />
+        <mark key="^" line="112" column="69" />
+        <mark key="." line="112" column="69" />
+      </file>
       <file name="$USER_HOME$/sync/code/c#/LawViewer/LawViewer/ResourceMan.cs" timestamp="1492351157410">
         <mark key="[" line="9" column="50" />
         <mark key="]" line="9" column="53" />
@@ -1523,7 +1529,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>sell_position</text>
+        <text>buy</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -1630,13 +1636,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>sell_position</text>
+        <text>buy</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfZ2V0X3BvcF9kaWFsb2dfdGl0bGVcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyC8xsvjwvLI67zbuPGjrNLUt8DC8rK7yc+jrNbBydmxyNKqwvK1xMG/tuDSu8rWCiAgICAgICAgICAgIGhhbmQgPSBtb3VudCAvLyAxMDAKICAgICAgICAgICAgZm9yIGkgaW4gcmFuZ2UoMSwgNik6CiAgICAgICAgICAgICAgICBoYW5kIC09IHF1b1tjb2RlXVsnYXNrJWRfdm9sdW1lJy5mb3JtYXQoaSldCiAgICAgICAgICAgICAgICBpZiBoYW5kIDw9IDA6CiAgICAgICAgICAgICAgICAgICAgcHJpY2UgPSBxdW9bY29kZV1bJ2FzayVkJy5mb3JtYXQoaSldCiAgICAgICAgICAgICAgICAgICAgYnJlYWsK</text>
+      <register name="0" type="4">
+        <text>, 'bid1_volumn': 41</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
