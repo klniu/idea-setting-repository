@@ -23,6 +23,9 @@
         <mark key="." line="11" column="49" />
         <mark key="^" line="11" column="49" />
       </file>
+      <file name="/start_script.py" timestamp="1515047695572">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/code/java/voc/src/main/kotlin/com/cnvoc/voc/service/IInstitutionService.kt" timestamp="1514606750321">
         <mark key="'" line="13" column="17" />
         <mark key="[" line="13" column="53" />
@@ -1190,7 +1193,7 @@
         <mark key="^" line="10" column="21" />
         <mark key="." line="10" column="21" />
       </file>
-      <file name="/Python Console" timestamp="1513340813395">
+      <file name="/Python Console" timestamp="1515047771317">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workdir/web/react-test/src/App.tsx" timestamp="1492489933856">
@@ -1817,11 +1820,11 @@
         <mark key="." line="4" column="4" />
         <mark key="^" line="4" column="3" />
       </file>
-      <file name="D:/code/python/autostock/autostock.py" timestamp="1513388681629">
-        <mark key="[" line="246" column="69" />
-        <mark key="]" line="247" column="20" />
-        <mark key="." line="247" column="20" />
-        <mark key="^" line="247" column="20" />
+      <file name="D:/code/python/autostock/autostock.py" timestamp="1515048091864">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="216" column="0" />
+        <mark key="]" line="216" column="0" />
+        <mark key="." line="216" column="0" />
       </file>
       <file name="F:/code/java/vocs/src/main/java/com/klniu/voc/service/ILdarSettingService.java" timestamp="1514088234291">
         <mark key="'" line="13" column="24" />
@@ -1924,7 +1927,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="64" filename="D:/code/java/cnooc/src/main/kotlin/com/cnvoc/cnooc/service/impl/TankService.kt" />
       <jump line="14" column="21" filename="D:/code/java/cnooc/src/main/kotlin/com/cnvoc/cnooc/mapper/VocsWeekdataMapper.kt" />
       <jump line="6" column="17" filename="D:/code/java/cnooc/src/main/kotlin/com/cnvoc/cnooc/service/ITankService.kt" />
       <jump line="39" column="23" filename="D:/code/java/cnooc/src/test/kotlin/com/cnvoc/cnooc/service/impl/TankServiceTest.kt" />
@@ -2024,6 +2026,7 @@
       <jump line="28" column="0" filename="F:/code/java/mpgenerator/src/main/java/VocsGenerator.java" />
       <jump line="2" column="0" filename="F:/code/java/mpgenerator/src/main/java/Generator.java" />
       <jump line="32" column="21" filename="F:/code/java/mpgenerator/src/main/java/HbCnoocGenerator.java" />
+      <jump line="11" column="0" filename="D:/code/python/autostock/autostock.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2046,8 +2049,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>sell</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChxdW8pCg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2163,36 +2166,31 @@
         <text encoding="base64">ICAgIHByb3RlY3RlZCBEYlR5cGUgZGF0YWJhc2VUeXBlID0gRGJUeXBlLk1ZU1FMOwogICAgcHJvdGVjdGVkIFN0cmluZyBkcml2ZXJOYW1lID0gImNvbS5teXNxbC5qZGJjLkRyaXZlciI7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChxdW8pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5iYW9taWRvdS5teWJhdGlzcGx1cy5nZW5lcmF0b3IuY29uZmlnLnJ1bGVzLkRiVHlwZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5iYW9taWRvdS5teWJhdGlzcGx1cy5nZW5lcmF0b3IuY29uZmlnLnJ1bGVzLkRiVHlwZTsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgQ29uZmlnIGNvbmYgPSBuZXcgQ29uZmlnKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgQ29uZmlnIGNvbmYgPSBuZXcgQ29uZmlnKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25mLm91dHB1dERpciA9ICJEOi9jb2RlL2phdmEvdm9jL3NyYy9tYWluL2phdmEiOwogICAgICAgIGNvbmYudXNlciA9ICJrbG5pdSI7CiAgICAgICAgY29uZi5wYXNzID0gImtsbml1IjsKICAgICAgICBjb25mLnVybCA9ICJqZGJjOm15c3FsOi8vMTI3LjAuMC4xOjMzMDYvdm9jP2NoYXJhY3RlckVuY29kaW5nPXV0ZjgiOwogICAgICAgIGNvbmYucGFja2FnZU5hbWUgPSAiY29tLmNudm9jLnZvYyI7IC8vILD8w/uzxgogICAgICAgIGNvbmYuaW5jbHVkZVRhYmxlcyA9IHsibGRhcl9zZXR0aW5nIiwgImxkYXJfc3RhdGVfc2V0dGluZyJ9Owo=</text>
+        <text encoding="base64">ICAgIHsK</text>
       </register>
-      <register name="9" type="8">
-        <text>protected String 
-protected String 
-protected String 
-protected String 
-protected String 
-protected String[</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBjb25mLm91dHB1dERpciA9ICJEOi9jb2RlL2phdmEvdm9jL3NyYy9tYWluL2phdmEiOwogICAgICAgIGNvbmYudXNlciA9ICJrbG5pdSI7CiAgICAgICAgY29uZi5wYXNzID0gImtsbml1IjsKICAgICAgICBjb25mLnVybCA9ICJqZGJjOm15c3FsOi8vMTI3LjAuMC4xOjMzMDYvdm9jP2NoYXJhY3RlckVuY29kaW5nPXV0ZjgiOwogICAgICAgIGNvbmYucGFja2FnZU5hbWUgPSAiY29tLmNudm9jLnZvYyI7IC8vILD8w/uzxgogICAgICAgIGNvbmYuaW5jbHVkZVRhYmxlcyA9IHsibGRhcl9zZXR0aW5nIiwgImxkYXJfc3RhdGVfc2V0dGluZyJ9Owo=</text>
       </register>
       <register name=":" type="4">
         <text>action PreviousTab</text>
