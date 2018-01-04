@@ -473,11 +473,11 @@
         <mark key="." line="36" column="11" />
         <mark key="^" line="36" column="11" />
       </file>
-      <file name="F:/code/java/mpgenerator/src/main/java/MysqlGenerator.java" timestamp="1514969356213">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="4" column="57" />
-        <mark key="." line="6" column="29" />
-        <mark key="^" line="6" column="29" />
+      <file name="F:/code/java/mpgenerator/src/main/java/MysqlGenerator.java" timestamp="1515029832356">
+        <mark key="[" line="7" column="7" />
+        <mark key="]" line="7" column="6" />
+        <mark key="." line="7" column="6" />
+        <mark key="^" line="7" column="6" />
       </file>
       <file name="D:/code/python/autostock/quotation.py" timestamp="1513395435718">
         <mark key="[" line="21" column="20" />
@@ -517,12 +517,12 @@
         <mark key="^" line="0" column="19" />
         <mark key="." line="0" column="19" />
       </file>
-      <file name="F:/code/java/mpgenerator/src/main/java/VocsGenerator.java" timestamp="1514969283013">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="12" column="31" />
-        <mark key="]" line="12" column="30" />
-        <mark key="." line="12" column="30" />
-        <mark key="^" line="12" column="30" />
+      <file name="F:/code/java/mpgenerator/src/main/java/VocsGenerator.java" timestamp="1515030422818">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="8" column="39" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="D:/code/java/cnooc/src/test/kotlin/com/cnvoc/cnooc/generator/MPGenerator.kt" timestamp="1514431063398">
         <mark key="'" line="43" column="24" />
@@ -865,10 +865,10 @@
         <mark key="^" line="19" column="31" />
         <mark key="." line="5" column="25" />
       </file>
-      <file name="F:/code/java/mpgenerator/src/main/java/Config.java" timestamp="1514969018944">
-        <mark key="[" line="22" column="4" />
-        <mark key="]" line="22" column="9" />
-        <mark key="." line="22" column="9" />
+      <file name="F:/code/java/mpgenerator/src/main/java/Config.java" timestamp="1515030336416">
+        <mark key="[" line="7" column="25" />
+        <mark key="]" line="7" column="25" />
+        <mark key="." line="7" column="25" />
         <mark key="^" line="22" column="9" />
       </file>
       <file name="$USER_HOME$/workdir/code/law/src/main/java/com/klniu/law/mapper/LawDao.java" timestamp="1505119389855">
@@ -951,10 +951,10 @@
         <mark key="." line="3" column="32" />
         <mark key="^" line="3" column="32" />
       </file>
-      <file name="F:/code/java/mpgenerator/src/main/java/HbCnoocGenerator.java" timestamp="1514884626587">
-        <mark key="[" line="9" column="52" />
-        <mark key="]" line="9" column="52" />
-        <mark key="." line="9" column="52" />
+      <file name="F:/code/java/mpgenerator/src/main/java/HbCnoocGenerator.java" timestamp="1515030325299">
+        <mark key="[" line="9" column="30" />
+        <mark key="]" line="9" column="30" />
+        <mark key="." line="9" column="30" />
         <mark key="^" line="9" column="52" />
       </file>
       <file name="$USER_HOME$/sync/code/c#/LawViewer/LawViewer/FullListView.cs" timestamp="1492329087272">
@@ -1103,12 +1103,12 @@
         <mark key="." line="12" column="46" />
         <mark key="^" line="12" column="46" />
       </file>
-      <file name="F:/code/java/mpgenerator/src/main/java/Generator.java" timestamp="1514969369784">
-        <mark key="'" line="16" column="0" />
-        <mark key="[" line="11" column="21" />
-        <mark key="]" line="11" column="20" />
-        <mark key="." line="11" column="20" />
-        <mark key="^" line="11" column="20" />
+      <file name="F:/code/java/mpgenerator/src/main/java/Generator.java" timestamp="1515030282879">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="17" column="4" />
+        <mark key="]" line="17" column="9" />
+        <mark key="." line="17" column="9" />
+        <mark key="^" line="17" column="9" />
       </file>
       <file name="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/security/auth/AuthenticationRestController.java" timestamp="1511352861874">
         <mark key="'" line="78" column="33" />
@@ -2040,8 +2040,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ZGF0YWJhc2VUeXBlIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2148,7 +2148,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZGF0YWJhc2VUeXBlIA==</text>
+        <text>jdbc:mysql://127.0.0.1:3306/voc?characterEncoding=utf8</text>
       </register>
       <register name="/" type="4">
         <text>enum</text>
@@ -2160,49 +2160,36 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlci5nZW5lcmF0ZSgpOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCB2b2lkIGdlbmVyYXRlKCkgewo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5iYW9taWRvdS5teWJhdGlzcGx1cy5nZW5lcmF0b3IuY29uZmlnLnJ1bGVzLkRiVHlwZTsK</text>
       </register>
-      <register name="7" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgQ29uZmlnIGNvbmYgPSBuZXcgQ29uZmlnKCk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHsK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCBTdHJpbmcgYXV0aG9yID0gIkh1Z2ggKGh1Z2hnYW8wMUBnbWFpbC5jb20pIjsKICAgIHByb3RlY3RlZCBTdHJpbmcgb3V0cHV0RGlyID0gIiI7CiAgICBwcm90ZWN0ZWQgU3RyaW5nIHVzZXIgPSAiIjsKICAgIHByb3RlY3RlZCBTdHJpbmcgcGFzcyA9ICIiOwogICAgcHJvdGVjdGVkIFN0cmluZyB1cmwgPSAiamRiYzpteXNxbDovLzEyNy4wLjAuMTozMzA2L3ZvYz9jaGFyYWN0ZXJFbmNvZGluZz11dGY4IjsKICAgIHByb3RlY3RlZCBTdHJpbmcgcGFja2FnZU5hbWUgPSAiIjsgLy8gsPzD+7PGCgogICAgcHJvdGVjdGVkIFN0cmluZ1tdIGluY2x1ZGVUYWJsZXMgPSBudWxsOwogICAgcHJvdGVjdGVkIFN0cmluZ1tdIGV4Y2x1ZGVUYWJsZXMgPSBudWxsOwogICAgcHJvdGVjdGVkIFN0cmluZyBzdXBlckVudGl0eSA9IG51bGw7IC8vIMq1zOW4uMDgCiAgICBwcm90ZWN0ZWQgU3RyaW5nIHN1cGVyRW50aXR5Q29sdW1ucyA9IG51bGw7IC8vIMq1zOW4uMDguau5stfWts4KICAgIHByb3RlY3RlZCBTdHJpbmcgc3VwZXJNYXBwZXIgPSBudWxsOyAvLyDKtczluLjA4AogICAgcHJvdGVjdGVkIERiVHlwZSBkYXRhYmFzZVR5cGUgPSBEYlR5cGUuTVlTUUw7CiAgICBwcm90ZWN0ZWQgU3RyaW5nIGRyaXZlck5hbWUgPSAiY29tLm15c3FsLmpkYmMuRHJpdmVyIjsKICAgIHByb3RlY3RlZCBCb29sZWFuIGlzRW50aXR5ID0gdHJ1ZTsKICAgIHByb3RlY3RlZCBCb29sZWFuIGlzTWFwcGVyID0gdHJ1ZTsKICAgIHByb3RlY3RlZCBCb29sZWFuIGlzWG1sID0gdHJ1ZTsKICAgIHByb3RlY3RlZCBCb29sZWFuIGlzU2VydmljZSA9IHRydWU7CiAgICBwcm90ZWN0ZWQgQm9vbGVhbiBpc1NlcnZpY2VJbXBsID0gdHJ1ZTsKICAgIHByb3RlY3RlZCBCb29sZWFuIGlzQ29udHJvbGxlciA9IHRydWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25mLm91dHB1dERpciA9ICJEOi9jb2RlL2phdmEvdm9jL3NyYy9tYWluL2phdmEiOwogICAgICAgIGNvbmYudXNlciA9ICJrbG5pdSI7CiAgICAgICAgY29uZi5wYXNzID0gImtsbml1IjsKICAgICAgICBjb25mLnVybCA9ICJqZGJjOm15c3FsOi8vMTI3LjAuMC4xOjMzMDYvdm9jP2NoYXJhY3RlckVuY29kaW5nPXV0ZjgiOwogICAgICAgIGNvbmYucGFja2FnZU5hbWUgPSAiY29tLmNudm9jLnZvYyI7IC8vILD8w/uzxgogICAgICAgIGNvbmYuaW5jbHVkZVRhYmxlcyA9IHsibGRhcl9zZXR0aW5nIiwgImxkYXJfc3RhdGVfc2V0dGluZyJ9Owo=</text>
       </register>
       <register name="9" type="8">
-        <text>protected
-protected
-protected
-protected
-protected
-protected
-protected
-protected
-protected
-protected
-protected
-protected
-protected
-protected
-protected
-protected
-protected
-protected
-protected</text>
+        <text>protected String 
+protected String 
+protected String 
+protected String 
+protected String 
+protected String[</text>
       </register>
       <register name=":" type="4">
-        <text>action NextTab</text>
+        <text>action PreviousTab</text>
       </register>
     </registers>
     <search>
@@ -2256,8 +2243,8 @@ protected</text>
         <entry>wq</entry>
         <entry>%s/LocalDate/YearMonth/gc</entry>
         <entry>action ReformatCode</entry>
-        <entry>action PreviousTab</entry>
         <entry>action NextTab</entry>
+        <entry>action PreviousTab</entry>
       </history-cmd>
       <history-expr />
       <history-input />
