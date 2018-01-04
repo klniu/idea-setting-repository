@@ -804,7 +804,7 @@
         <mark key="." line="65" column="13" />
         <mark key="^" line="65" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1514811473495">
+      <file name="/Dummy.txt" timestamp="1515072143694">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -920,6 +920,13 @@
         <mark key="]" line="2" column="24" />
         <mark key="." line="2" column="24" />
         <mark key="^" line="2" column="24" />
+      </file>
+      <file name="D:/code/python/autostock/test_autostock.py" timestamp="1515072131688">
+        <mark key="'" line="45" column="23" />
+        <mark key="[" line="168" column="95" />
+        <mark key="]" line="168" column="95" />
+        <mark key="." line="168" column="95" />
+        <mark key="^" line="114" column="20" />
       </file>
       <file name="$USER_HOME$/workdir/java/livesim/webpack.config.js" timestamp="1480928637533">
         <mark key="[" line="3" column="32" />
@@ -1798,11 +1805,11 @@
         <mark key="." line="4" column="4" />
         <mark key="^" line="4" column="3" />
       </file>
-      <file name="D:/code/python/autostock/autostock.py" timestamp="1515070653197">
-        <mark key="[" line="219" column="38" />
-        <mark key="]" line="219" column="39" />
-        <mark key="." line="219" column="39" />
-        <mark key="^" line="219" column="39" />
+      <file name="D:/code/python/autostock/autostock.py" timestamp="1515071750220">
+        <mark key="[" line="220" column="0" />
+        <mark key="]" line="220" column="48" />
+        <mark key="." line="220" column="0" />
+        <mark key="^" line="187" column="22" />
       </file>
       <file name="F:/code/java/vocs/src/main/java/com/klniu/voc/service/ILdarSettingService.java" timestamp="1514088234291">
         <mark key="'" line="13" column="24" />
@@ -1905,7 +1912,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="64" filename="D:/code/java/cnooc/src/main/kotlin/com/cnvoc/cnooc/service/impl/TankService.kt" />
       <jump line="14" column="21" filename="D:/code/java/cnooc/src/main/kotlin/com/cnvoc/cnooc/mapper/VocsWeekdataMapper.kt" />
       <jump line="6" column="17" filename="D:/code/java/cnooc/src/main/kotlin/com/cnvoc/cnooc/service/ITankService.kt" />
       <jump line="39" column="23" filename="D:/code/java/cnooc/src/test/kotlin/com/cnvoc/cnooc/service/impl/TankServiceTest.kt" />
@@ -2005,6 +2011,7 @@
       <jump line="28" column="0" filename="F:/code/java/mpgenerator/src/main/java/VocsGenerator.java" />
       <jump line="2" column="0" filename="F:/code/java/mpgenerator/src/main/java/Generator.java" />
       <jump line="32" column="21" filename="F:/code/java/mpgenerator/src/main/java/HbCnoocGenerator.java" />
+      <jump line="44" column="23" filename="D:/code/python/autostock/test_autostock.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2028,7 +2035,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>d</text>
+        <text>2</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2135,57 +2142,56 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
-        <text>enum</text>
+        <text>volumn</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCBTdHJpbmcgcGFja2FnZU5hbWUgPSAiIjsgLy8gsPzD+7PGCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnN0b2NrLnF1by5yZWFsID0gbW9jay5Nb2NrKHJldHVybl92YWx1ZT17JzMwMDQxMyc6IHsnYmlkMSc6IDI1LjIzLCAnYmlkMV92b2x1bWUnOiAyMywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnYmlkMic6IDI1LjIyLCAnYmlkMl92b2x1bWUnOiAyLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdiaWQzJzogMjUuMjEsICdiaWQzX3ZvbHVtZSc6IDMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2JpZDQnOiAyNS4yMCwgJ2JpZDRfdm9sdW1lJzogMywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnYmlkNSc6IDI1LjE5LCAnYmlkNV92b2x1bWUnOiAyMywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9fSkKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKCgyNS4xOSwgNDAwMCksIHNlbGYuc3RvY2suX2dldF9zZWxsX2luZm8oY29uKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBvdXRwdXREaXIgPSAiRDovY29kZS9qYXZhL2Nub29jL3NyYy9tYWluL2phdmEiOwogICAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgU3RyaW5nIGF1dGhvciA9ICJIdWdoIChodWdoZ2FvMDFAZ21haWwuY29tKSI7CiAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgdXNlciA9ICJqbmpwIjsKICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBwYXNzID0gImpuanAiOwogICAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgU3RyaW5nIHVybCA9ICJqZGJjOm15c3FsOi8vMTI3LjAuMC4xOjMzMDYvam5qcD9jaGFyYWN0ZXJFbmNvZGluZz11dGY4IjsKICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBwYWNrYWdlTmFtZSA9ICJjb20uY252b2MuY25vb2MiOyAvLyCw/MP7s8YKICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZ1tdIGluY2x1ZGVUYWJsZXMgPSB7ImxkYXJfc2V0dGluZyIsICJsZGFyX3N0YXRlX3NldHRpbmcifTsKICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZ1tdIGV4Y2x1ZGVUYWJsZXMgPSBudWxsOwogICAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgU3RyaW5nIHN1cGVyRW50aXR5ID0gbnVsbDsgLy8gyrXM5bi4wOAKICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBzdXBlckVudGl0eUNvbHVtbnMgPSBudWxsOyAvLyDKtczluLjA4LmrubLX1rbOCiAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgc3VwZXJNYXBwZXIgPSBudWxsOyAvLyDKtczluLjA4AogICAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgRGJUeXBlIGRhdGFiYXNlVHlwZSA9IERiVHlwZS5NWVNRTDsKICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBkcml2ZXJOYW1lID0gImNvbS5teXNxbC5qZGJjLkRyaXZlciI7CiAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgdGFibGVOYW1lcyA9IG51bGw7CiAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBCb29sZWFuIGlzRW50aXR5ID0gdHJ1ZTsKICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIEJvb2xlYW4gaXNNYXBwZXIgPSB0cnVlOwogICAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgQm9vbGVhbiBpc1htbCA9IHRydWU7CiAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBCb29sZWFuIGlzU2VydmljZSA9IHRydWU7CiAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBCb29sZWFuIGlzU2VydmljZUltcGwgPSB0cnVlOwogICAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgQm9vbGVhbiBpc0NvbnRyb2xsZXIgPSB0cnVlOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb24gPSBjb252ZXJ0LkNvbnZlcnQoUGxhdGZvcm0uSkQsIGRhdGEpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmdlbmVyYXRlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdzdG9ja05hbWUnOiAnv+zA1rm6JywgJ3R5cGUnOiAnc2FsZScsICd0aW1lJzogJzIwMTctMTEtMjQgMDk6MzU6MjknfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCBTdHJpbmdbXSBleGNsdWRlVGFibGVzID0gbnVsbDsKICAgIHByb3RlY3RlZCBTdHJpbmcgc3VwZXJFbnRpdHkgPSBudWxsOyAvLyDKtczluLjA4AogICAgcHJvdGVjdGVkIFN0cmluZyBzdXBlckVudGl0eUNvbHVtbnMgPSBudWxsOyAvLyDKtczluLjA4LmrubLX1rbOCiAgICBwcm90ZWN0ZWQgU3RyaW5nIHN1cGVyTWFwcGVyID0gbnVsbDsgLy8gyrXM5bi4wOAKICAgIHByb3RlY3RlZCBEYlR5cGUgZGF0YWJhc2VUeXBlID0gRGJUeXBlLk1ZU1FMOwogICAgcHJvdGVjdGVkIFN0cmluZyBkcml2ZXJOYW1lID0gImNvbS5teXNxbC5qZGJjLkRyaXZlciI7CiAgICBwcm90ZWN0ZWQgU3RyaW5nIHRhYmxlTmFtZXMgPSBudWxsOwogICAgcHJvdGVjdGVkIEJvb2xlYW4gaXNFbnRpdHkgPSB0cnVlOwogICAgcHJvdGVjdGVkIEJvb2xlYW4gaXNNYXBwZXIgPSB0cnVlOwogICAgcHJvdGVjdGVkIEJvb2xlYW4gaXNYbWwgPSB0cnVlOwogICAgcHJvdGVjdGVkIEJvb2xlYW4gaXNTZXJ2aWNlID0gdHJ1ZTsKICAgIHByb3RlY3RlZCBCb29sZWFuIGlzU2VydmljZUltcGwgPSB0cnVlOwogICAgcHJvdGVjdGVkIEJvb2xlYW4gaXNDb250cm9sbGVyID0gdHJ1ZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdzdG9ja0NvZGUnOiAnU1ozMDA0MTMnLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCBTdHJpbmcgdXJsID0gImpkYmM6bXlzcWw6Ly8xMjcuMC4wLjE6MzMwNi92b2M/Y2hhcmFjdGVyRW5jb2Rpbmc9dXRmOCI7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkYXRhID0geydkZWFsJzogJzI2Ljk2JywgJ3Bvc0FmdGVyJzogJzIuOTklJywgJ3Bvc0JlZm9yZSc6ICcyMi4yMiUnLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCBTdHJpbmcgdXJsID0gImpkYmM6bXlzcWw6Ly8xMjcuMC4wLjE6MzMwNi92b2M/Y2hhcmFjdGVyRW5jb2Rpbmc9dXRmOCI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaWNlID0gcXVvW2NvZGVdWydiaWR7fScuZm9ybWF0KGkpXQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCBTdHJpbmcgb3V0cHV0RGlyID0gIiI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaWNlID0gcXVvW2NvZGVdWydhc2t7fScuZm9ybWF0KGkpXSArIDAuMDEK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCBTdHJpbmcgYXV0aG9yID0gIkh1Z2ggKGh1Z2hnYW8wMUBnbWFpbC5jb20pIjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaWNlID0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCBTdHJpbmcgdGFibGVOYW1lcyA9IG51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmljZSA9IHF1b1tjb2RlXVsnYXNre30nLmZvcm1hdChpKV0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCBTdHJpbmcgZHJpdmVyTmFtZSA9ICJjb20ubXlzcWwuamRiYy5Ecml2ZXIiOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgyOe5+zW1tba8sru5u6Os1Nm809K7tbWjrL7N1eLR+cHLCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action PreviousTab</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
-      <last-search>enum</last-search>
+      <last-search>volumn</last-search>
       <last-offset />
-      <last-pattern>enum</last-pattern>
-      <last-replace>;</last-replace>
-      <last-substitute>$</last-substitute>
+      <last-pattern>volumn</last-pattern>
+      <last-replace>volume</last-replace>
+      <last-substitute>volumn</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>root</entry>
         <entry>base</entry>
         <entry>page</entry>
         <entry>\Date\</entry>
@@ -2205,9 +2211,9 @@
         <entry>mysql</entry>
         <entry>cache</entry>
         <entry>LocalDate</entry>
+        <entry>volumn</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/v\['\(\w*\)'\]/v.\1/gc</entry>
         <entry>%s/、/-/gc</entry>
         <entry>%s/...itemOptions,//gc</entry>
         <entry>%s/{ //gc</entry>
@@ -2224,9 +2230,10 @@
         <entry>q</entry>
         <entry>wq</entry>
         <entry>%s/LocalDate/YearMonth/gc</entry>
-        <entry>action ReformatCode</entry>
-        <entry>action NextTab</entry>
+        <entry>%s/volumn/volume/gc</entry>
         <entry>action PreviousTab</entry>
+        <entry>action NextTab</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
