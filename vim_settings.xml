@@ -42,12 +42,6 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="34" column="24" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cb6e028b-04c0-427c-be30-b4d266fe8774/console.sql" timestamp="1514516804362">
-        <mark key="[" line="42" column="28" />
-        <mark key="]" line="42" column="28" />
-        <mark key="." line="42" column="28" />
-        <mark key="^" line="43" column="31" />
-      </file>
       <file name="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/entity/enums/RoleName.java" timestamp="1510214079592">
         <mark key="[" line="7" column="21" />
         <mark key="]" line="7" column="30" />
@@ -913,11 +907,6 @@
         <mark key="^" line="20" column="12" />
         <mark key="." line="21" column="3" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/24c166a7-39ae-4296-89a4-301c8c5171a0/console.sql" timestamp="1514780147206">
-        <mark key="[" line="0" column="563" />
-        <mark key="]" line="0" column="564" />
-        <mark key="." line="0" column="564" />
-      </file>
       <file name="F:/code/java/voc/src/main/resources/sql/schema.sql" timestamp="1515034231375">
         <mark key="[" line="7" column="63" />
         <mark key="]" line="7" column="63" />
@@ -945,11 +934,11 @@
         <mark key="." line="2" column="24" />
         <mark key="^" line="2" column="24" />
       </file>
-      <file name="D:/code/python/autostock/test_autostock.py" timestamp="1513340241894">
-        <mark key="[" line="90" column="81" />
-        <mark key="]" line="91" column="13" />
-        <mark key="^" line="91" column="13" />
-        <mark key="." line="91" column="13" />
+      <file name="D:/code/python/autostock/test_autostock.py" timestamp="1515044848040">
+        <mark key="[" line="81" column="66" />
+        <mark key="]" line="81" column="69" />
+        <mark key="^" line="81" column="69" />
+        <mark key="." line="81" column="69" />
       </file>
       <file name="$USER_HOME$/workdir/java/livesim/webpack.config.js" timestamp="1480928637533">
         <mark key="[" line="3" column="32" />
@@ -1266,6 +1255,11 @@
         <mark key="]" line="19" column="0" />
         <mark key="^" line="12" column="52" />
         <mark key="." line="19" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/24c166a7-39ae-4296-89a4-301c8c5171a0/console.sql" timestamp="1514780147206">
+        <mark key="[" line="0" column="563" />
+        <mark key="]" line="0" column="564" />
+        <mark key="." line="0" column="564" />
       </file>
       <file name="$USER_HOME$/workdir/web/react-components/README.md" timestamp="1492679533458">
         <mark key="[" line="1" column="2" />
@@ -1805,6 +1799,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cb6e028b-04c0-427c-be30-b4d266fe8774/console.sql" timestamp="1514516804362">
+        <mark key="[" line="42" column="28" />
+        <mark key="]" line="42" column="28" />
+        <mark key="." line="42" column="28" />
+        <mark key="^" line="43" column="31" />
+      </file>
       <file name="$USER_HOME$/sync/code/java/xiaoyi/gradle.properties" timestamp="1484386985579">
         <mark key="[" line="1" column="24" />
         <mark key="]" line="1" column="30" />
@@ -2046,8 +2046,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>sell</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2154,7 +2154,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>jdbc:mysql://127.0.0.1:3306/voc?characterEncoding=utf8</text>
+        <text>sell</text>
       </register>
       <register name="/" type="4">
         <text>enum</text>
