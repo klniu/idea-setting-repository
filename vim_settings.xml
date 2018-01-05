@@ -73,11 +73,12 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="42" column="30" />
       </file>
-      <file name="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/FactoryServiceImplTest.java" timestamp="1515122841788">
-        <mark key="[" line="30" column="4" />
-        <mark key="]" line="30" column="4" />
-        <mark key="." line="30" column="4" />
-        <mark key="^" line="49" column="4" />
+      <file name="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/FactoryServiceImplTest.java" timestamp="1515130504676">
+        <mark key="'" line="1" column="1" />
+        <mark key="[" line="53" column="1" />
+        <mark key="]" line="54" column="1" />
+        <mark key="." line="54" column="1" />
+        <mark key="^" line="54" column="1" />
       </file>
       <file name="$USER_HOME$/workdir/servlet/src/HelloWord.java" timestamp="1478157412736">
         <mark key="[" line="0" column="0" />
@@ -1257,12 +1258,12 @@
         <mark key="." line="192" column="46" />
         <mark key="^" line="192" column="50" />
       </file>
-      <file name="D:/code/java/voc/src/test/java/com/cnvoc/voc/web/LdarSettingControllerTest.java" timestamp="1515122758747">
-        <mark key="'" line="38" column="44" />
-        <mark key="[" line="33" column="4" />
-        <mark key="]" line="33" column="4" />
-        <mark key="^" line="14" column="4" />
-        <mark key="." line="33" column="4" />
+      <file name="D:/code/java/voc/src/test/java/com/cnvoc/voc/web/LdarSettingControllerTest.java" timestamp="1515130546567">
+        <mark key="'" line="2" column="1" />
+        <mark key="[" line="42" column="1" />
+        <mark key="]" line="43" column="1" />
+        <mark key="^" line="43" column="1" />
+        <mark key="." line="43" column="1" />
       </file>
       <file name="$USER_HOME$/code/java/law/src/main/resources/mapper/LawMapper.xml" timestamp="1507778383686">
         <mark key="[" line="19" column="0" />
@@ -1927,8 +1928,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="21" filename="D:/code/java/cnooc/src/main/kotlin/com/cnvoc/cnooc/mapper/VocsWeekdataMapper.kt" />
-      <jump line="6" column="17" filename="D:/code/java/cnooc/src/main/kotlin/com/cnvoc/cnooc/service/ITankService.kt" />
       <jump line="39" column="23" filename="D:/code/java/cnooc/src/test/kotlin/com/cnvoc/cnooc/service/impl/TankServiceTest.kt" />
       <jump line="17" column="90" filename="D:/code/java/cnooc/src/main/kotlin/com/cnvoc/cnooc/mapper/VocsWeekdataMapper.kt" />
       <jump line="5" column="24" filename="D:/code/java/cnooc/src/main/kotlin/com/cnvoc/cnooc/mapper/VocsWeekdataMapper.kt" />
@@ -2027,6 +2026,8 @@
       <jump line="2" column="0" filename="F:/code/java/mpgenerator/src/main/java/Generator.java" />
       <jump line="32" column="21" filename="F:/code/java/mpgenerator/src/main/java/HbCnoocGenerator.java" />
       <jump line="11" column="0" filename="D:/code/python/autostock/autostock.py" />
+      <jump line="1" column="1" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/FactoryServiceImplTest.java" />
+      <jump line="2" column="1" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/web/LdarSettingControllerTest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2049,26 +2050,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="8">
-        <text>//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">QFNwcmluZ0Jvb3RUZXN0Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2183,7 +2166,10 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByb3RlY3RlZCBEYlR5cGUgZGF0YWJhc2VUeXBlID0gRGJUeXBlLk1ZU1FMOwogICAgcHJvdGVjdGVkIFN0cmluZyBkcml2ZXJOYW1lID0gImNvbS5teXNxbC5qZGJjLkRyaXZlciI7Cg==</text>
       </register>
-      <register name="1" type="8">
+      <register name="1" type="2">
+        <text encoding="base64">QFNwcmluZ0Jvb3RUZXN0Cg==</text>
+      </register>
+      <register name="2" type="8">
         <text>//
 //
 //
@@ -2204,29 +2190,26 @@
 //
 //</text>
       </register>
-      <register name="2" type="8">
+      <register name="3" type="8">
         <text encoding="base64">Ly8gCi8vIAovLyAKLy8gCi8vIAovLyAKLy8gCi8vIA==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBwcmludChxdW8pCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5iYW9taWRvdS5teWJhdGlzcGx1cy5nZW5lcmF0b3IuY29uZmlnLnJ1bGVzLkRiVHlwZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5iYW9taWRvdS5teWJhdGlzcGx1cy5nZW5lcmF0b3IuY29uZmlnLnJ1bGVzLkRiVHlwZTsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgQ29uZmlnIGNvbmYgPSBuZXcgQ29uZmlnKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgQ29uZmlnIGNvbmYgPSBuZXcgQ29uZmlnKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
