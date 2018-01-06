@@ -169,14 +169,6 @@
           <Count>2</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Run 'InstitutionControllerTest'">
-        <Item>
-          <IdeaActionID>Run</IdeaActionID>
-          <ShortCut>'Shift+F10'</ShortCut>
-          <Description>Run 'InstitutionControllerTest'</Description>
-          <Count>8</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Run 'InstitutionControllerTest.add'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -295,6 +287,14 @@
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
           <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'InstitutionControllerTest'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'InstitutionControllerTest'</Description>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'VocApplication'">
