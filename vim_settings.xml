@@ -1177,10 +1177,11 @@
         <mark key="." line="19" column="55" />
         <mark key="^" line="19" column="55" />
       </file>
-      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/entity/LdarStateSetting.java" timestamp="1514800490902">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/entity/LdarStateSetting.java" timestamp="1515294653030">
+        <mark key="[" line="164" column="0" />
+        <mark key="]" line="165" column="28" />
+        <mark key="." line="164" column="0" />
+        <mark key="^" line="150" column="26" />
       </file>
       <file name="$USER_HOME$/sync/code/go/src/minger/server/main.go" timestamp="1489576060949">
         <mark key="[" line="4" column="10" />
@@ -2071,7 +2072,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CUBOb3ROdWxsCglAU2l6ZShtaW4gPSAxLCBtYXggPSAxNSkK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2184,7 +2185,7 @@
         <text>new Object()</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBOb3ROdWxsCiAgICBAU2l6ZShtaW49MiwgbWF4ID0gMjU1KQo=</text>
+        <text encoding="base64">CUBOb3ROdWxsCglAU2l6ZShtaW4gPSAxLCBtYXggPSAxNSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -2214,7 +2215,7 @@
         <text encoding="base64">ICAgIEBNYXgoMTIwKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action PreviousTab</text>
+        <text>action NextTab</text>
       </register>
     </registers>
     <search>
@@ -2268,8 +2269,8 @@
         <entry>action AceAction</entry>
         <entry>action ReformatCode</entry>
         <entry>q</entry>
-        <entry>action NextTab</entry>
         <entry>action PreviousTab</entry>
+        <entry>action NextTab</entry>
       </history-cmd>
       <history-expr />
       <history-input />
