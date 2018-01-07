@@ -14,7 +14,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>7</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Convert Java File to Kotlin File">
@@ -209,6 +209,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'FunctionTest.addIdValidMsgToBindingResul...'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'FunctionTest.addIdValidMsgToBindingResul...'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'FunctionTest.validMsgHandler'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -223,6 +231,14 @@
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'InstitutionControllerTest.add'</Description>
           <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'InstitutionControllerTest.addForValid'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'InstitutionControllerTest.addForValid'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'InstitutionControllerTest.updateForValid'">
@@ -326,7 +342,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>26</Count>
+          <Count>27</Count>
         </Item>
       </Statistic>
     </option>
