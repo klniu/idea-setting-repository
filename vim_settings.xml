@@ -737,6 +737,12 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="17" column="4" />
       </file>
+      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/entity/enums/LdarInstallType.java" timestamp="1515482158150">
+        <mark key="[" line="8" column="4" />
+        <mark key="]" line="8" column="11" />
+        <mark key="." line="8" column="11" />
+        <mark key="^" line="8" column="11" />
+      </file>
       <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/entity/Institution.java" timestamp="1515288055980">
         <mark key="[" line="31" column="29" />
         <mark key="]" line="32" column="11" />
@@ -1017,7 +1023,7 @@
         <mark key="." line="30" column="34" />
         <mark key="^" line="30" column="33" />
       </file>
-      <file name="/fragment.java" timestamp="1515477847332">
+      <file name="/fragment.java" timestamp="1515482140503">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/code/java/cnooc/src/main/kotlin/com/cnvoc/cnooc/entity/manual/Company.kt" timestamp="1514536589459">
@@ -2057,11 +2063,11 @@
         <mark key="." line="6" column="31" />
         <mark key="^" line="6" column="31" />
       </file>
-      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/entity/Install.java" timestamp="1515481263901">
-        <mark key="[" line="36" column="12" />
-        <mark key="]" line="36" column="11" />
-        <mark key="^" line="36" column="11" />
-        <mark key="." line="36" column="11" />
+      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/entity/Install.java" timestamp="1515482120725">
+        <mark key="[" line="51" column="24" />
+        <mark key="]" line="52" column="3" />
+        <mark key="." line="52" column="3" />
+        <mark key="^" line="52" column="3" />
       </file>
     </filemarks>
     <jumps>
@@ -2188,7 +2194,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>ldar_standard</text>
+        <text>Factory</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2295,40 +2301,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ldar_standard</text>
+        <text>Factory</text>
       </register>
       <register name="/" type="4">
         <text>UNIQUE</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">IENPTU1FTlQgJ+W7uumAoOaXpeacnyc=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIEBOb3ROdWxsCiAgICBAU2l6ZShtaW4gPSAxLCBtYXggPSA1MCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBQcm9qZWN0LmluaXQoKTsK</text>
+        <text encoding="base64">ICAgIEBSYW5nZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDliJ3lp4vljJblt6XnqIsK</text>
+        <text encoding="base64">QEVxdWFsc0FuZEhhc2hDb2RlKGNhbGRkbFN1cGVyID0gdHJ1ZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBQcm9qZWN0LmluaXQoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkgIFNwcmluZ0FwcGxpY2F0aW9uLnJ1bihBcHBsaWNhdGlvbi5jbGFzcywgYXJncyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyDliJ3lp4vljJblt6XnqIsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHRlc3Q7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBWYWx1ZSgiJHtwcm9qZWN0LmRpcn0iKQo=</text>
+        <text encoding="base64">CQkgIFNwcmluZ0FwcGxpY2F0aW9uLnJ1bihBcHBsaWNhdGlvbi5jbGFzcywgYXJncyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CSAgICAvLyDliJ3lp4vljJblt6XnqIsKICAgICAgICBQcm9qZWN0LmluaXQoKTsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHRlc3Q7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QENvbmZpZ3VyYXRpb25Qcm9wZXJ0aWVzCg==</text>
+        <text encoding="base64">ICAgIEBWYWx1ZSgiJHtwcm9qZWN0LmRpcn0iKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CSAgICAvLyDliJ3lp4vljJblt6XnqIsKICAgICAgICBQcm9qZWN0LmluaXQoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>action NextTab</text>
