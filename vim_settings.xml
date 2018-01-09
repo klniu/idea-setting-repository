@@ -1764,11 +1764,11 @@
         <mark key="^" line="67" column="28" />
         <mark key="." line="67" column="28" />
       </file>
-      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/VocApplication.java" timestamp="1514792151742">
-        <mark key="[" line="6" column="22" />
-        <mark key="]" line="7" column="27" />
-        <mark key="^" line="7" column="27" />
-        <mark key="." line="7" column="27" />
+      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/VocApplication.java" timestamp="1515472647779">
+        <mark key="[" line="24" column="9" />
+        <mark key="]" line="25" column="7" />
+        <mark key="." line="25" column="7" />
+        <mark key="^" line="25" column="7" />
       </file>
       <file name="$USER_HOME$/sync/code/go/src/ldar/direction_test.go" timestamp="1476252942723">
         <mark key="[" line="16" column="19" />
@@ -2175,8 +2175,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>目录，用于存放工程的文件</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2283,7 +2283,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>目录，用于存放工程的文件</text>
+        <text>Paths.get(dir)</text>
       </register>
       <register name="/" type="4">
         <text>bui</text>
@@ -2292,34 +2292,34 @@
         <text encoding="base64">ICBVTklRVUUgS0VZIChgdW5pdF9pZGAsIGBuYW1lYCksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyDlt6XnqIvnm67lvZXvvIznlKjkuo7lrZjmlL7lt6XnqIvnmoTmlofku7YK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBHZXR0ZXIK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsZGFyU3RhbmRhcmQuc2V0aXMK</text>
+        <text encoding="base64">IyDlt6XnqIvnm67lvZXvvIznlKjkuo7lrZjmlL7lt6XnqIvnmoTmlofku7YK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsZGFyU3RhbmRhcmQuc2V0Tm8oMyk7Cg==</text>
+        <text encoding="base64">ICAgIEBHZXR0ZXIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsZGFyU3RhbmRhcmQuc2V0Q29kZSgiR0xEWTEwMDAwIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBsZGFyU3RhbmRhcmQuc2V0aXMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hbmRSZXR1cm4oKTsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDlupTor6XmnIk06KGM6ZSZ6K+v5o+Q56S6CiAgICAgICAgUmVzdWx0IHJlc3VsdCA9IEpTT04ucGFyc2VPYmplY3QobXZjUmVzdWx0LmdldFJlc3BvbnNlKCkuZ2V0Q29udGVudEFzU3RyaW5nKCksIFJlc3VsdC5jbGFzcyk7CiAgICAgICAgYXNzZXJ0RXF1YWxzKDQsIHJlc3VsdC5nZXRNc2coKS5zcGxpdCgiXG4iKS5sZW5ndGgpOwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsZGFyU3RhbmRhcmQuc2V0RGVzY3JpcHRpb24oIiIpOwo=</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBsZGFyU3RhbmRhcmQuc2V0Tm8oMyk7Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBsZGFyU3RhbmRhcmQuc2V0Q29kZSgiR0xEWTEwMDAwIik7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hbmRSZXR1cm4oKTsK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAvLyDlupTor6XmnIk06KGM6ZSZ6K+v5o+Q56S6CiAgICAgICAgUmVzdWx0IHJlc3VsdCA9IEpTT04ucGFyc2VPYmplY3QobXZjUmVzdWx0LmdldFJlc3BvbnNlKCkuZ2V0Q29udGVudEFzU3RyaW5nKCksIFJlc3VsdC5jbGFzcyk7CiAgICAgICAgYXNzZXJ0RXF1YWxzKDQsIHJlc3VsdC5nZXRNc2coKS5zcGxpdCgiXG4iKS5sZW5ndGgpOwo=</text>
+      </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text>action NextTab</text>
       </register>
     </registers>
     <search>
@@ -2372,9 +2372,9 @@
         <entry encoding="base64">JzwsJz5zLyQvKw==</entry>
         <entry>%s/Unit/LdarStandard/gc</entry>
         <entry>%s/unit/ldarStandard/gc</entry>
-        <entry>action NextTab</entry>
-        <entry>action PreviousTab</entry>
         <entry>action ReformatCode</entry>
+        <entry>action PreviousTab</entry>
+        <entry>action NextTab</entry>
       </history-cmd>
       <history-expr />
       <history-input />
