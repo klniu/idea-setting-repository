@@ -1774,10 +1774,11 @@
         <mark key="^" line="67" column="28" />
         <mark key="." line="67" column="28" />
       </file>
-      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/VocApplication.java" timestamp="1515484755486">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
+      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/VocApplication.java" timestamp="1515485733962">
+        <mark key="[" line="34" column="22" />
+        <mark key="]" line="34" column="40" />
+        <mark key="." line="34" column="40" />
+        <mark key="^" line="34" column="40" />
       </file>
       <file name="$USER_HOME$/sync/code/go/src/ldar/direction_test.go" timestamp="1476252942723">
         <mark key="[" line="16" column="19" />
@@ -2201,8 +2202,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBmYXN0SnNvbkNvbmZpZy5zZXREYQo=</text>
+      <register name="&quot;" type="4">
+        <text>// 正常转换 null 值</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2309,7 +2310,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>_UTF8</text>
+        <text>// 正常转换 null 值</text>
       </register>
       <register name="/" type="4">
         <text>UNIQUE</text>
@@ -2318,31 +2319,31 @@
         <text encoding="base64">ICAgIEBOb3ROdWxsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmYXN0SnNvbkNvbmZpZy5zZXREYQo=</text>
+        <text encoding="base64">ICAgICAgICBmYXN0SnNvbkNvbmZpZy5zZXRTZXJpYWxpemVyRmVhdHVyZXMoKTsgLy8g5L2/55SodG9TdHJpbmfmnaXojrflj5ZFbnVt5YC8Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmYXN0SnNvbkNvbmZpZy5zZXQK</text>
+        <text encoding="base64">ICAgICAgICBmYXN0SnNvbkNvbmZpZy5zZXREYQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmYXN0SnNvbkNvbmZpZy5zZXRTZXJpYWxpemVyRmVhdHVyZXMoU2VyaWFsaXplckZlYXR1cmUuUHJldHR5Rm9ybWF0KTsK</text>
+        <text encoding="base64">ICAgICAgICBmYXN0SnNvbkNvbmZpZy5zZXQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmYXN0SnNvbkNvbmZpZy5zZXRDaGFyc2V0KElPVXRpbHMuVVRGOCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBmYXN0SnNvbkNvbmZpZy5zZXRTZXJpYWxpemVyRmVhdHVyZXMoU2VyaWFsaXplckZlYXR1cmUuUHJldHR5Rm9ybWF0KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBmYXN0SnNvbkNvbmZpZy5zZXRDaGFyc2V0KElPVXRpbHMuVVRGOCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">5L2c6ICF77ya5Lu76YeN6ICM6YGT5YWDCumTvuaOpe+8mmh0dHBzOi8vd3d3LmppYW5zaHUuY29tL3AvOGFiNTBiYmQyOGQ5CuS+hua6kO+8mueugOS5pgrokZfkvZzmnYPlvZLkvZzogIXmiYDmnInjgILllYbkuJrovazovb3or7fogZTns7vkvZzogIXojrflvpfmjojmnYPvvIzpnZ7llYbkuJrovazovb3or7fms6jmmI7lh7rlpITjgIIK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBSYW5nZQo=</text>
+        <text encoding="base64">5L2c6ICF77ya5Lu76YeN6ICM6YGT5YWDCumTvuaOpe+8mmh0dHBzOi8vd3d3LmppYW5zaHUuY29tL3AvOGFiNTBiYmQyOGQ5CuS+hua6kO+8mueugOS5pgrokZfkvZzmnYPlvZLkvZzogIXmiYDmnInjgILllYbkuJrovazovb3or7fogZTns7vkvZzogIXojrflvpfmjojmnYPvvIzpnZ7llYbkuJrovazovb3or7fms6jmmI7lh7rlpITjgIIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QEVxdWFsc0FuZEhhc2hDb2RlKGNhbGRkbFN1cGVyID0gdHJ1ZSkK</text>
+        <text encoding="base64">ICAgIEBSYW5nZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBQcm9qZWN0LmluaXQoKTsK</text>
+        <text encoding="base64">QEVxdWFsc0FuZEhhc2hDb2RlKGNhbGRkbFN1cGVyID0gdHJ1ZSkK</text>
       </register>
       <register name=":" type="4">
         <text>action NextTab</text>
