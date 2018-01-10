@@ -249,6 +249,22 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'InstallControllerTest.getById'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'InstallControllerTest.getById'</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'InstallControllerTest.getByUnitId'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'InstallControllerTest.getByUnitId'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'InstitutionControllerTest.add'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -361,6 +377,22 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'InstallControllerTest.getById'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'InstallControllerTest.getById'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'InstallControllerTest.getByUnitId'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'InstallControllerTest.getByUnitId'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'InstitutionControllerTest'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -382,7 +414,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'voc [test]'</Description>
-          <Count>7</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Terminal">
