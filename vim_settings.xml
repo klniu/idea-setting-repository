@@ -525,11 +525,11 @@
         <mark key="^" line="9" column="7" />
       </file>
       <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/model_test.go" timestamp="1515549513638" />
-      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/entity/enums/SealType.java" timestamp="1515645742908">
-        <mark key="[" line="17" column="14" />
-        <mark key="]" line="17" column="15" />
-        <mark key="." line="17" column="15" />
-        <mark key="^" line="19" column="15" />
+      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/entity/enums/SealType.java" timestamp="1515649098851">
+        <mark key="[" line="13" column="4" />
+        <mark key="]" line="13" column="17" />
+        <mark key="." line="13" column="17" />
+        <mark key="^" line="13" column="17" />
       </file>
       <file name="D:/code/java/cnooc/.gitignore" timestamp="1514510581429">
         <mark key="[" line="26" column="0" />
@@ -996,7 +996,7 @@
         <mark key="." line="30" column="34" />
         <mark key="^" line="30" column="33" />
       </file>
-      <file name="/fragment.java" timestamp="1515645293825">
+      <file name="/fragment.java" timestamp="1515649016341">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/code/java/cnooc/src/main/kotlin/com/cnvoc/cnooc/entity/manual/Company.kt" timestamp="1514536589459">
@@ -1312,12 +1312,12 @@
         <mark key="." line="18" column="14" />
         <mark key="^" line="18" column="14" />
       </file>
-      <file name="D:/code/java/voc/src/main/resources/sql/schema.sql" timestamp="1515646132171">
-        <mark key="'" line="94" column="6" />
-        <mark key="[" line="144" column="3" />
-        <mark key="]" line="159" column="18" />
-        <mark key="." line="311" column="43" />
-        <mark key="^" line="311" column="43" />
+      <file name="D:/code/java/voc/src/main/resources/sql/schema.sql" timestamp="1515648702211">
+        <mark key="'" line="354" column="25" />
+        <mark key="[" line="332" column="28" />
+        <mark key="]" line="332" column="27" />
+        <mark key="." line="332" column="27" />
+        <mark key="^" line="332" column="27" />
       </file>
       <file name="D:/code/java/voc/src/test/java/com/cnvoc/voc/web/LdarSettingControllerTest.java" timestamp="1515326756758">
         <mark key="'" line="51" column="45" />
@@ -1999,17 +1999,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="1" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/FactoryServiceImplTest.java" />
-      <jump line="2" column="1" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/web/LdarSettingControllerTest.java" />
-      <jump line="37" column="22" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/web/InstitutionController.java" />
-      <jump line="0" column="4" filename="D:/code/java/voc/src/main/resources/application-dev.yaml" />
-      <jump line="32" column="24" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/common/Result.java" />
-      <jump line="53" column="0" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/FactoryServiceImplTest.java" />
-      <jump line="56" column="51" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/web/InstitutionController.java" />
-      <jump line="45" column="85" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/web/InstitutionControllerTest.java" />
-      <jump line="104" column="35" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/web/InstitutionController.java" />
-      <jump line="40" column="30" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/web/InstitutionControllerTest.java" />
-      <jump line="17" column="15" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/IFactoryService.java" />
       <jump line="79" column="38" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/web/InstitutionController.java" />
       <jump line="55" column="41" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/FactoryServiceImplTest.java" />
       <jump line="64" column="3" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/FactoryServiceImplTest.java" />
@@ -2080,10 +2069,8 @@
       <jump line="269" column="2" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
       <jump line="303" column="2" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
       <jump line="331" column="2" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
-      <jump line="332" column="2" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
       <jump line="364" column="2" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
       <jump line="392" column="2" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
-      <jump line="409" column="2" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
       <jump line="3" column="42" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
       <jump line="262" column="43" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
       <jump line="19" column="21" filename="D:/code/java/voc/src/test/resources/sql/init.sql" />
@@ -2099,6 +2086,19 @@
       <jump line="80" column="19" filename="D:/code/java/voc/src/test/resources/sql/init.sql" />
       <jump line="23" column="9" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/entity/enums/Direction.java" />
       <jump line="94" column="6" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
+      <jump line="241" column="18" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
+      <jump line="0" column="0" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
+      <jump line="242" column="20" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
+      <jump line="332" column="27" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
+      <jump line="356" column="25" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
+      <jump line="383" column="25" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
+      <jump line="385" column="25" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
+      <jump line="409" column="17" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
+      <jump line="411" column="17" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
+      <jump line="278" column="17" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
+      <jump line="323" column="25" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
+      <jump line="325" column="25" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
+      <jump line="354" column="25" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2121,8 +2121,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFRvcCg5LCAi6aG26YOoIiksCiAgICBCb3R0b20oMTAsICLlupXpg6giKSwKICAgIEFib3ZlKDExLCAi5LiK6YOoIiksCiAgICBCZWxvdygxMiwgIuS4i+mDqCIpLAogICAgVG9wRWFzdCgxMywgIumhtuS4nCIpLAogICAgVG9wV2VzdCgxNCwgIumhtuilvyIpLAogICAgVG9wU291dGgoMTUsICLpobbljZciKSwKICAgIFRvcE5vcnRoKDE2LCAi6aG25YyXIik7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>PRV</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2229,7 +2229,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>搅拌器</text>
+        <text>PRV</text>
       </register>
       <register name="/" type="4">
         <text>bigint</text>
@@ -2265,7 +2265,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL18vL2dj</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
@@ -2317,10 +2317,10 @@
         <entry>q</entry>
         <entry>%s/standard/install/gc</entry>
         <entry>action PreviousTab</entry>
-        <entry>action ReformatCode</entry>
         <entry>action NextTab</entry>
         <entry encoding="base64">JzwsJz5zL25hbWVgLy9nYw==</entry>
         <entry encoding="base64">JzwsJz5zL18vL2dj</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
