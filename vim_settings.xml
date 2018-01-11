@@ -1318,12 +1318,11 @@
         <mark key="." line="18" column="14" />
         <mark key="^" line="18" column="14" />
       </file>
-      <file name="D:/code/java/voc/src/main/resources/sql/schema.sql" timestamp="1515654975979">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="315" column="30" />
-        <mark key="]" line="315" column="30" />
-        <mark key="." line="315" column="30" />
-        <mark key="^" line="315" column="30" />
+      <file name="D:/code/java/voc/src/main/resources/sql/schema.sql" timestamp="1515657588693">
+        <mark key="'" line="362" column="2" />
+        <mark key="[" line="277" column="0" />
+        <mark key="]" line="320" column="17" />
+        <mark key="." line="311" column="0" />
       </file>
       <file name="D:/code/java/voc/src/test/java/com/cnvoc/voc/web/LdarSettingControllerTest.java" timestamp="1515326756758">
         <mark key="'" line="51" column="45" />
@@ -2016,8 +2015,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="41" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/FactoryServiceImplTest.java" />
-      <jump line="64" column="3" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/FactoryServiceImplTest.java" />
       <jump line="48" column="41" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/FactoryServiceImplTest.java" />
       <jump line="70" column="46" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/web/InstitutionController.java" />
       <jump line="63" column="54" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/web/InstitutionControllerTest.java" />
@@ -2116,6 +2113,8 @@
       <jump line="354" column="25" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
       <jump line="277" column="0" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
       <jump line="0" column="0" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
+      <jump line="297" column="24" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
+      <jump line="362" column="2" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2138,8 +2137,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Q1JFQVRFIFRBQkxFIElGIE5PVCBFWElTVFMgYGNvbXBvbmVudGAgKAogIGBpZGAgICAgICAgICAgIEJJR0lOVCBQUklNQVJZIEtFWSBBVVRPX0lOQ1JFTUVOVCwKICBgZmFjdG9yeV9pZGAgICBJTlQgICAgICAgICBOT1QgTlVMTCwKICBgdW5pdF9pZGAgICAgICBJTlQgICAgICAgICBOT1QgTlVMTCwKICBgaW5zdGFsbF9pZGAgICBJTlQgICAgICAgICBOT1QgTlVMTCwKICBgdW5pdF9ub2AgICAgICBJTlQgICAgICAgICBOT1QgTlVMTCwKICBgaW5zdGFsbF9ub2AgICBJTlQgICAgICAgICBOT1QgTlVMTCwKICBgdW5pdF9jb2RlYCAgICBWQVJDSEFSKDEwKSBOT1QgTlVMTCwKICBgaW5zdGFsbF9jb2RlYCBWQVJDSEFSKDEwKSBOT1QgTlVMTCwKICBgZGF0ZWAgICAgICAgICBEQVRFIENPTU1FTlQgJ+aKleS6p+aXpeacnycsCiAgYGFyZWFgICAgICAgICAgVkFSQ0hBUig1MCkgQ09NTUVOVCAn5Yy65Z+fJywKICBgZmxvb3JgICAgICAgICBUSU5ZSU5UICAgICBOT1QgTlVMTAogIENPTU1FTlQgJ+alvOWxgicsCiAgYHBpZF9ub2AgICAgICAgVkFSQ0hBUig1MCksCiAgYHBob3RvX25hbWVgICAgVkFSQ0hBUig1MCksCiAgYG5vYCAgICAgICAgICAgSU5URUdFUiAgICAgTk9UIE5VTEwsCiAgYHRhZ19ub2AgICAgICAgSU5URUdFUiAgICAgTk9UIE5VTEwsCiAgYHRhZ2AgICAgICAgICAgVkFSQ0hBUig1MCkgTk9UIE5VTEwsCiAgYGRldmljZWAgICAgICAgVkFSQ0hBUig1MCksCiAgYGxvY2F0b3JgICAgICAgVkFSQ0hBUig1MCksCiAgYGRpcmVjdGlvbmAgICAgVElOWUlOVCwKICBgZGlzdGFuY2VgICAgICBGTE9BVCwKICBgaGVpZ2h0YCAgICAgICBGTE9BVCwKICBGT1JFSUdOIEtFWSAoYHVuaXRfaWRgKSBSRUZFUkVOQ0VTIGB1bml0YCAoYGlkYCkKICAgIE9OIFVQREFURSBDQVNDQURFLAogIEZPUkVJR04gS0VZIChgaW5zdGFsbF9pZGApIFJFRkVSRU5DRVMgYGluc3RhbGxgIChgaWRgKQogICAgT04gREVMRVRFIENBU0NBREUKICAgIE9OIFVQREFURSBDQVNDQURFLAogIEZPUkVJR04gS0VZIChgZmFjdG9yeV9pZGApIFJFRkVSRU5DRVMgYGZhY3RvcnlgIChgaWRgKQogICAgT04gVVBEQVRFIENBU0NBREUsCiAgRk9SRUlHTiBLRVkgKGB1bml0X25vYCkgUkVGRVJFTkNFUyBgdW5pdGAgKGBub2ApCiAgICBPTiBVUERBVEUgQ0FTQ0FERSwKICBGT1JFSUdOIEtFWSAoYGluc3RhbGxfbm9gKSBSRUZFUkVOQ0VTIGBpbnN0YWxsYCAoYG5vYCkKICAgIE9OIFVQREFURSBDQVNDQURFLAogIEZPUkVJR04gS0VZIChgdW5pdF9jb2RlYCkgUkVGRVJFTkNFUyBgdW5pdGAgKGBjb2RlYCkKICAgIE9OIFVQREFURSBDQVNDQURFLAogIEZPUkVJR04gS0VZIChgaW5zdGFsbF9jb2RlYCkgUkVGRVJFTkNFUyBgaW5zdGFsbGAgKGBjb2RlYCkKICAgIE9OIFVQREFURSBDQVNDQURFLAogIFVOSVFVRSAoYGZhY3RvcnlfaWRgLCBgdGFnYCksCiAgS0VZIChgZmFjdG9yeV9pZGAsIGB1bml0X2lkYCksCiAgS0VZIChgZmFjdG9yeV9pZGAsIGBpbnN0YWxsX2lkYCksCiAgS0VZIChgZmFjdG9yeV9pZGAsIGBpZGApCikKICBDT01NRU5UID0gJ+e7hOS7tuihqCc7Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2246,57 +2245,56 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>R</text>
       </register>
       <register name="/" type="4">
-        <text>bigint</text>
+        <text>INTEGER</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CUBOb3ROdWxsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBLRVkgKGBmYWN0b3J5X2lkYCwgYHVuaXRfaWRgKSwKICBLRVkgKGBmYWN0b3J5X2lkYCwgYGluc3RhbGxfaWRgKSwKICBLRVkgKGBmYWN0b3J5X2lkYCwgYGlkYCkK</text>
+        <text encoding="base64">ICBGT1JFSUdOIEtFWSAoYHVuaXRfY29kZWApIFJFRkVSRU5DRVMgYHVuaXRgIChgY29kZWApCiAgICBPTiBVUERBVEUgQ0FTQ0FERSwKICBGT1JFSUdOIEtFWSAoYGluc3RhbGxfY29kZWApIFJFRkVSRU5DRVMgYGluc3RhbGxgIChgY29kZWApCiAgICBPTiBVUERBVEUgQ0FTQ0FERSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CUBTCg==</text>
+        <text encoding="base64">ICBGT1JFSUdOIEtFWSAoYHVuaXRfbm9gKSBSRUZFUkVOQ0VTIGB1bml0YCAoYG5vYCkKICAgIE9OIFVQREFURSBDQVNDQURFLAogIEZPUkVJR04gS0VZIChgaW5zdGFsbF9ub2ApIFJFRkVSRU5DRVMgYGluc3RhbGxgIChgbm9gKQogICAgT04gVVBEQVRFIENBU0NBREUsCiAgRk9SRUlHTiBLRVkgKGB1bml0X2NvZGVgKSBSRUZFUkVOQ0VTIGB1bml0YCAoYGNvZGVgKQogICAgT04gVVBEQVRFIENBU0NBREUsCiAgRk9SRUlHTiBLRVkgKGBpbnN0YWxsX2NvZGVgKSBSRUZFUkVOQ0VTIGBpbnN0YWxsYCAoYGNvZGVgKQogICAgT04gVVBEQVRFIENBU0NBREUsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CUBOb3ROdWxsCg==</text>
+        <text encoding="base64">ICBGT1JFSUdOIEtFWSAoYHVuaXRfbm9gKSBSRUZFUkVOQ0VTIGB1bml0YCAoYG5vYCkKICAgIE9OIFVQREFURSBDQVNDQURFLAogIEZPUkVJR04gS0VZIChgaW5zdGFsbF9ub2ApIFJFRkVSRU5DRVMgYGluc3RhbGxgIChgbm9gKQogICAgT04gVVBEQVRFIENBU0NBREUsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBGT1JFSUdOIEtFWSAoYHVuaXRfbm9gKSBSRUZFUkVOQ0VTIGB1bml0YCAoYG5vYCkKICAgIE9OIFVQREFURSBDQVNDQURFLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBGT1JFSUdOIEtFWSAoYGluc3RhbGxfbm9gKSBSRUZFUkVOQ0VTIGBpbnN0YWxsYCAoYG5vYCkKICAgIE9OIFVQREFURSBDQVNDQURFLAogIEZPUkVJR04gS0VZIChgdW5pdF9jb2RlYCkgUkVGRVJFTkNFUyBgdW5pdGAgKGBjb2RlYCkKICAgIE9OIFVQREFURSBDQVNDQURFLAogIEZPUkVJR04gS0VZIChgaW5zdGFsbF9jb2RlYCkgUkVGRVJFTkNFUyBgaW5zdGFsbGAgKGBjb2RlYCkKICAgIE9OIFVQREFURSBDQVNDQURFLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CUBOb3ROdWxsCg==</text>
+        <text encoding="base64">ICBGT1JFSUdOIEtFWSAoYHVuaXRfbm9gKSBSRUZFUkVOQ0VTIGB1bml0YCAoYG5vYCkKICAgIE9OIFVQREFURSBDQVNDQURFLAogIEZPUkVJR04gS0VZIChgaW5zdGFsbF9ub2ApIFJFRkVSRU5DRVMgYGluc3RhbGxgIChgbm9gKQogICAgT04gVVBEQVRFIENBU0NBREUsCiAgRk9SRUlHTiBLRVkgKGB1bml0X2NvZGVgKSBSRUZFUkVOQ0VTIGB1bml0YCAoYGNvZGVgKQogICAgT04gVVBEQVRFIENBU0NBREUsCiAgRk9SRUlHTiBLRVkgKGBpbnN0YWxsX2NvZGVgKSBSRUZFUkVOQ0VTIGBpbnN0YWxsYCAoYGNvZGVgKQogICAgT04gVVBEQVRFIENBU0NBREUsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QEVxdWFsc0FuZEhhc2hDb2RlKGNhbGxTdXBlciA9IHRydWUpCg==</text>
+        <text encoding="base64">ICBGT1JFSUdOIEtFWSAoYGluc3RhbGxfbm9gKSBSRUZFUkVOQ0VTIGBpbnN0YWxsYCAoYG5vYCkKICAgIE9OIFVQREFURSBDQVNDQURFLAogIEZPUkVJR04gS0VZIChgdW5pdF9jb2RlYCkgUkVGRVJFTkNFUyBgdW5pdGAgKGBjb2RlYCkKICAgIE9OIFVQREFURSBDQVNDQURFLAogIEZPUkVJR04gS0VZIChgaW5zdGFsbF9jb2RlYCkgUkVGRVJFTkNFUyBgaW5zdGFsbGAgKGBjb2RlYCkKICAgIE9OIFVQREFURSBDQVNDQURFLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIE90aGVycygxPDw5LCAi5YW25LuWIik7Cg==</text>
+        <text encoding="base64">ICBGT1JFSUdOIEtFWSAoYHVuaXRfbm9gKSBSRUZFUkVOQ0VTIGB1bml0YCAoYG5vYCkKICAgIE9OIFVQREFURSBDQVNDQURFLAogIEZPUkVJR04gS0VZIChgaW5zdGFsbF9ub2ApIFJFRkVSRU5DRVMgYGluc3RhbGxgIChgbm9gKQogICAgT04gVVBEQVRFIENBU0NBREUsCiAgRk9SRUlHTiBLRVkgKGB1bml0X2NvZGVgKSBSRUZFUkVOQ0VTIGB1bml0YCAoYGNvZGVgKQogICAgT04gVVBEQVRFIENBU0NBREUsCiAgRk9SRUlHTiBLRVkgKGBpbnN0YWxsX2NvZGVgKSBSRUZFUkVOQ0VTIGBpbnN0YWxsYCAoYGNvZGVgKQogICAgT04gVVBEQVRFIENBU0NBREUsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEFnaXRhdG9yKDE8PDgsICLmkIXmi4zlmagiKSwK</text>
+        <text encoding="base64">ICBGT1JFSUdOIEtFWSAoYGZhY3RvcnlfaWRgKSBSRUZFUkVOQ0VTIGBmYWN0b3J5YCAoYGlkYCkKICAgIE9OIFVQREFURSBDQVNDQURFLAogIEZPUkVJR04gS0VZIChgdW5pdF9ub2ApIFJFRkVSRU5DRVMgYHVuaXRgIChgbm9gKQogICAgT04gVVBEQVRFIENBU0NBREUsCiAgRk9SRUlHTiBLRVkgKGBpbnN0YWxsX25vYCkgUkVGRVJFTkNFUyBgaW5zdGFsbGAgKGBub2ApCiAgICBPTiBVUERBVEUgQ0FTQ0FERSwKICBGT1JFSUdOIEtFWSAoYHVuaXRfY29kZWApIFJFRkVSRU5DRVMgYHVuaXRgIChgY29kZWApCiAgICBPTiBVUERBVEUgQ0FTQ0FERSwKICBGT1JFSUdOIEtFWSAoYGluc3RhbGxfY29kZWApIFJFRkVSRU5DRVMgYGluc3RhbGxgIChgY29kZWApCiAgICBPTiBVUERBVEUgQ0FTQ0FERSwK</text>
       </register>
       <register name=":" type="4">
-        <text>action NextTab</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
-      <last-search>bigint</last-search>
+      <last-search>INTEGER</last-search>
       <last-offset />
-      <last-pattern>bigint</last-pattern>
-      <last-replace />
-      <last-substitute>_</last-substitute>
+      <last-pattern>INTEGER</last-pattern>
+      <last-replace>INT</last-replace>
+      <last-substitute>INTEGER</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>LocalDate</entry>
         <entry>asdfasdf</entry>
         <entry>new Object()</entry>
         <entry>Institution</entry>
@@ -2316,9 +2314,9 @@
         <entry>_</entry>
         <entry>biginit</entry>
         <entry>bigint</entry>
+        <entry>INTEGER</entry>
       </history-search>
       <history-cmd>
-        <entry>wq</entry>
         <entry>%s/LocalDate/YearMonth/gc</entry>
         <entry>%s/new Object()/null/gc</entry>
         <entry>action AceAction</entry>
@@ -2335,9 +2333,10 @@
         <entry>%s/standard/install/gc</entry>
         <entry encoding="base64">JzwsJz5zL25hbWVgLy9nYw==</entry>
         <entry encoding="base64">JzwsJz5zL18vL2dj</entry>
-        <entry>action ReformatCode</entry>
         <entry>action PreviousTab</entry>
         <entry>action NextTab</entry>
+        <entry>%s/INTEGER/INT/gc</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
