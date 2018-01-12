@@ -885,7 +885,7 @@
         <mark key="." line="65" column="13" />
         <mark key="^" line="65" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515650919988">
+      <file name="/Dummy.txt" timestamp="1515664333227">
         <mark key="'" line="0" column="19" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -1108,11 +1108,10 @@
         <mark key="^" line="2" column="60" />
         <mark key="." line="2" column="9" />
       </file>
-      <file name="D:/code/java/voc/src/main/resources/application.yaml" timestamp="1515661783167">
-        <mark key="[" line="17" column="15" />
-        <mark key="]" line="17" column="14" />
-        <mark key="." line="17" column="14" />
-        <mark key="^" line="17" column="14" />
+      <file name="D:/code/java/voc/src/main/resources/application.yaml" timestamp="1515664442137">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/sync/code/go/src/LawIndexer/views/index.tpl" timestamp="1491390763591">
         <mark key="[" line="83" column="17" />
@@ -2151,8 +2150,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>generic</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgbWF4c2llOgo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2268,31 +2267,31 @@
         <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgSUxkYXJTZXR0aW5nU2VydmljZSBpTGRhclNldHRpbmdTZXJ2aWNlOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgbWF4c2llOgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBFbnRpdHlXcmFwcGVyPExkYXJTZXR0aW5nPigpLndoZXJlKCJmYWN0b3J5X2lkPXswfSIsIGNvbXBvbmVudC5nZXRJZCgpKSk7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBMZGFyU2V0dGluZyBsZGFyU2V0dGluZyA9IGlMZGFyU2V0dGluZ1NlcnZpY2Uuc2VsZWN0T25lKAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTGRhclNldHRpbmcgbGRhclNldHRpbmc7CiAgICBwcml2YXRlIExkYXJTdGF0ZVNldHRpbmcgbGRhclN0YXRlU2V0dGluZzsKCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBFbnRpdHlXcmFwcGVyPExkYXJTZXR0aW5nPigpLndoZXJlKCJmYWN0b3J5X2lkPXswfSIsIGNvbXBvbmVudC5nZXRJZCgpKSk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBMZGFyU2V0dGluZyBsZGFyU2V0dGluZyA9IGlMZGFyU2V0dGluZ1NlcnZpY2Uuc2VsZWN0T25lKAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgTGRhclNldHRpbmcgbGRhclNldHRpbmc7CiAgICBwcml2YXRlIExkYXJTdGF0ZVNldHRpbmcgbGRhclN0YXRlU2V0dGluZzsKCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDnlJ/miJDnm67lvZUKICAgICAgICB0cnkgewogICAgICAgICAgICAvLyDpmLLmraLnm7jlkIznm67lvZUKICAgICAgICAgICAgIHN5bmNocm9uaXplZCh0aGlzKSB7CiAgICAgICAgICAgICAgICAgLy8gMTDkvY3nm67lvZXlkI3np7AKICAgICAgICAgICAgICAgICBTdHJpbmcgZm9sZGVyOwogICAgICAgICAgICAgICAgIGRvIHsKICAgICAgICAgICAgICAgICAgICAgZm9sZGVyID0gUmFuZG9tU3RyaW5nVXRpbHMucmFuZG9tQWxwaGFudW1lcmljKDEwKTsKICAgICAgICAgICAgICAgICB9IHdoaWxlIChGaWxlcy5leGlzdHMoUHJvamVjdC5nZXRDb21wb25lbnRQYXRoKCkucmVzb2x2ZShmb2xkZXIpKSk7CiAgICAgICAgICAgICAgICAgRmlsZXMuY3JlYXRlRGlyZWN0b3J5KFByb2plY3QuZ2V0Q29tcG9uZW50UGF0aCgpLnJlc29sdmUoZm9sZGVyKSk7CiAgICAgICAgICAgICB9CiAgICAgICAgfSBjYXRjaCAoSU9FeGNlcHRpb24gZSkgewogICAgICAgICAgICByZXR1cm4gbmV3IFJlc3VsdChSZXN1bHQuRVJST1JfQ1JFQVRFX0ZJTEUsICLml6Dms5XliJvlu7roo4Xnva7nm67lvZUiKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
