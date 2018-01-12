@@ -147,11 +147,11 @@
         <mark key="." line="120" column="20" />
         <mark key="^" line="47" column="31" />
       </file>
-      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/LdarSettingServiceImpl.java" timestamp="1515797775731">
-        <mark key="[" line="37" column="64" />
-        <mark key="]" line="37" column="64" />
-        <mark key="." line="37" column="64" />
-        <mark key="^" line="37" column="64" />
+      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/LdarSettingServiceImpl.java" timestamp="1515799956007">
+        <mark key="[" line="33" column="13" />
+        <mark key="]" line="34" column="37" />
+        <mark key="." line="34" column="37" />
+        <mark key="^" line="34" column="37" />
       </file>
       <file name="$USER_HOME$/sync/code/java/livesim/DESIGN.md" timestamp="1479355574389">
         <mark key="[" line="11" column="16" />
@@ -1724,12 +1724,12 @@
         <mark key="." line="18" column="3" />
         <mark key="^" line="18" column="3" />
       </file>
-      <file name="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/LdarSettingServiceImplTest.java" timestamp="1515799652238">
-        <mark key="'" line="33" column="20" />
-        <mark key="[" line="28" column="15" />
-        <mark key="]" line="28" column="14" />
-        <mark key="^" line="28" column="14" />
-        <mark key="." line="28" column="14" />
+      <file name="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/LdarSettingServiceImplTest.java" timestamp="1515799914643">
+        <mark key="'" line="34" column="20" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="7" />
+        <mark key="^" line="35" column="7" />
+        <mark key="." line="35" column="7" />
       </file>
       <file name="C:/ProgramData/Anaconda3/Lib/site-packages/easytrader/ht_clienttrader.py" timestamp="1512733007919">
         <mark key="'" line="170" column="29" />
@@ -2312,7 +2312,7 @@
         <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHVwZGF0ZUJ5SWQxKCkgewo=</text>
       </register>
       <register name=":" type="4">
-        <text>action NextTab</text>
+        <text>action Forward</text>
       </register>
     </registers>
     <search>
@@ -2348,7 +2348,6 @@
         <entry>factory</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/institution/unit/gc</entry>
         <entry encoding="base64">JzwsJz5zLyQvXG4i</entry>
         <entry encoding="base64">JzwsJz5zLyQvXFxuIg==</entry>
         <entry encoding="base64">JzwsJz5zLyQvKw==</entry>
@@ -2368,6 +2367,7 @@
         <entry>action EditorUp</entry>
         <entry>action PreviousTab</entry>
         <entry>action NextTab</entry>
+        <entry>action Forward</entry>
       </history-cmd>
       <history-expr />
       <history-input />
