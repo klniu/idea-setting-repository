@@ -907,7 +907,7 @@
         <mark key="." line="65" column="13" />
         <mark key="^" line="65" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515811055365">
+      <file name="/Dummy.txt" timestamp="1515813254423">
         <mark key="'" line="0" column="19" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -2338,7 +2338,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5hbmRFeHBlY3QoanNvblBhdGgoIiQuZGF0YS5mYWN0b3J5SWQiKS52YWx1ZSgxKSkK</text>
       </register>
       <register name=":" type="4">
-        <text>action Back</text>
+        <text>action PreviousTab</text>
       </register>
     </registers>
     <search>
@@ -2392,8 +2392,8 @@
         <entry>q</entry>
         <entry>action Forward</entry>
         <entry>action ReformatCode</entry>
-        <entry>action PreviousTab</entry>
         <entry>action Back</entry>
+        <entry>action PreviousTab</entry>
       </history-cmd>
       <history-expr />
       <history-input />
