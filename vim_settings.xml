@@ -73,6 +73,12 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="42" column="30" />
       </file>
+      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/ComponentServiceImpl.java" timestamp="1516100629001">
+        <mark key="[" line="87" column="78" />
+        <mark key="]" line="87" column="81" />
+        <mark key="." line="87" column="81" />
+        <mark key="^" line="87" column="81" />
+      </file>
       <file name="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/FactoryServiceImplTest.java" timestamp="1515401946890">
         <mark key="'" line="51" column="41" />
         <mark key="[" line="61" column="114" />
@@ -680,12 +686,6 @@
         <mark key="]" line="73" column="17" />
         <mark key="^" line="73" column="17" />
         <mark key="." line="73" column="17" />
-      </file>
-      <file name="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/InstallServiceImplTest.java" timestamp="1515549976920">
-        <mark key="'" line="30" column="18" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
       </file>
       <file name="D:/code/java/voc/src/main/kotlin/com/cnvoc/voc/entity/Component.kt" timestamp="1514698813045">
         <mark key="[" line="31" column="8" />
@@ -1618,11 +1618,10 @@
         <mark key="." line="1" column="23" />
         <mark key="^" line="1" column="23" />
       </file>
-      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/common/Function.java" timestamp="1515303017404">
-        <mark key="[" line="30" column="61" />
-        <mark key="]" line="30" column="61" />
-        <mark key="^" line="30" column="59" />
-        <mark key="." line="30" column="61" />
+      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/common/Function.java" timestamp="1516100600130">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/sync/code/go/src/ldar/direction.go" timestamp="1476252890962">
         <mark key="[" line="15" column="34" />
@@ -2114,8 +2113,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>d</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2222,7 +2221,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>a1fsadfas</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>standard</text>
@@ -2231,31 +2230,31 @@
         <text>3a1fsadfas</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gaHR0cHM6Ly9tdm5yZXBvc2l0b3J5LmNvbS9hcnRpZmFjdC9vcmcuYXBhY2hlLmNvbW1vbnMvY29tbW9ucy1sYW5nMwo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICog5qC55o2uZm9ybWF0dGVy55Sf5oiQdGFn77yM5bqU5qC55o2u55u45bqU55qECiAgICAgKiBAcGFyYW0gY29tcG9uZW50CiAgICAgKiBAdGhyb3dzIElsbGVnYWxBcmd1bWVudEV4Y2VwdGlvbgogICAgICovCiAgICBwdWJsaWMgc3RhdGljIHZvaWQgZ2VuZXJhdGVUYWcoQ29tcG9uZW50IGNvbXBvbmVudCkgdGhyb3dzIElsbGVnYWxBcmd1bWVudEV4Y2VwdGlvbiB7CgogICAgfQoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCAKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgLy8gfQo=</text>
+        <text encoding="base64">Ly8gaHR0cHM6Ly9tdm5yZXBvc2l0b3J5LmNvbS9hcnRpZmFjdC9vcmcuYXBhY2hlLmNvbW1vbnMvY29tbW9ucy1sYW5nMwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgLy8gICAgIHJldHVybiBTdHJpbmcudmFsdWVPZih2YWx1ZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgLy8gcHVibGljIFN0cmluZyB0b1N0cmluZygpewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgLy8gQE92ZXJyaWRlCg==</text>
+        <text encoding="base64">ICAgLy8gfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgLy8gICAgIHJldHVybiBTdHJpbmcudmFsdWVPZih2YWx1ZSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action NextTab</text>
@@ -2268,7 +2267,7 @@
       <last-replace>install</last-replace>
       <last-substitute>standard</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
