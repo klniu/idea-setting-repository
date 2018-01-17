@@ -1465,10 +1465,11 @@
         <mark key="^" line="34" column="30" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/ComponentServiceImplTest.java" timestamp="1516103505385">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
+      <file name="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/ComponentServiceImplTest.java" timestamp="1516181523448">
+        <mark key="[" line="38" column="23" />
+        <mark key="]" line="38" column="22" />
+        <mark key="." line="38" column="22" />
+        <mark key="^" line="38" column="22" />
       </file>
       <file name="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/security/JwtUserFactory.java" timestamp="1510714592519">
         <mark key="'" line="18" column="35" />
@@ -1924,10 +1925,10 @@
         <mark key="." line="12" column="4" />
         <mark key="^" line="12" column="4" />
       </file>
-      <file name="D:/code/java/voc/src/test/resources/sql/init.sql" timestamp="1516180187899">
+      <file name="D:/code/java/voc/src/test/resources/sql/init.sql" timestamp="1516181470219">
         <mark key="'" line="80" column="19" />
-        <mark key="[" line="109" column="75" />
-        <mark key="]" line="109" column="76" />
+        <mark key="[" line="90" column="69" />
+        <mark key="]" line="90" column="92" />
         <mark key="." line="109" column="76" />
         <mark key="^" line="109" column="74" />
       </file>
@@ -2122,8 +2123,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAoMSwgMSwgMSwgMSwgJzIwMDQtMDEtMDEnLCAn5Yy65Z+fMScsIDEsICdwaWTlm74xJywgJ0lNQUdFXzAwMScsIDEwLCAxLCAnMDEwMTAwMDAxMC0xTUgxRjAxLUUtMTAxJywKICAgJ0UtMTAxJywgJ0UtMTAxJywgMSwgMS4xLCAxLjIpLAogICgyLCAxLCAxLCAxLCAnMjAwNC0wMS0wMScsICfljLrln58xJywgMSwgJ3BpZOWbvjEnLCAnSU1BR0VfMDAyJywgMjAsIDIsICcwMTAxMDAwMDIwLTFNSDFGMDEtRS0xMDEnLAogICAnRS0xMDEnLCAnRS0xMDEnLCAxLCAxLjEsIDEuMiksCiAgKDMsIDEsIDEsIDEsICcyMDA0LTAxLTAxJywgJ+WMuuWfnzInLCAyLCAncGlk5Zu+MScsICdJTUFHRV8wMDMnLCAzMCwgMiwgJzAxMDEwMDAwMzAtMU1IMUYwMS1FLTEwMScsCiAgICdFLTEwMScsICdFLTEwMScsIDEsIDEuMSwgMS4yKSwKICAoNCwgMSwgMSwgMSwgJzIwMDQtMDEtMDEnLCAn5Yy65Z+fMicsIDIsICdwaWTlm74xJywgJ0lNQUdFXzAwNCcsIDQwLCAyLCAnMDEwMTAwMDA0MC0xTUgxRjAxLUUtMTAxJywKICAgJ0UtMTAxJywgJ0UtMTAxJywgMSwgMS4xLCAxLjIpLAogICg1LCAxLCAxLCAxLCAnMjAwNC0wMS0wMScsICfljLrln58zJywgOTksICdwaWTlm74xJywgJ0lNQUdFXzAwNScsIDUwLCAyLCAnMDEwMTAwMDA1MC0xTUgxRjAxLUUtMTAxJywKICAgJ0UtMTAxJywgJ0UtMTAxJywgMSwgMS4xLCAxLjIpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>No</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2230,13 +2231,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.in(&quot;id&quot;, ids)</text>
+        <text>No</text>
       </register>
       <register name="/" type="4">
         <text>standard</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAoMSwgMSwgMSwgMSwgJzIwMDQtMDEtMDEnLCAn5Yy65Z+fMScsIDEsICdwaWTlm74xJywgJ0lNQUdFXzAwMScsIDEwLCAxLCAnMDEwMTAwMDAxMC0xTUgxRjAxLUUtMTAxJywKICAgJ0UtMTAxJywgJ0UtMTAxJywgMSwgMS4xLCAxLjIpLAogICgyLCAxLCAxLCAxLCAnMjAwNC0wMS0wMScsICfljLrln58xJywgMSwgJ3BpZOWbvjEnLCAnSU1BR0VfMDAyJywgMjAsIDIsICcwMTAxMDAwMDIwLTFNSDFGMDEtRS0xMDEnLAogICAnRS0xMDEnLCAnRS0xMDEnLCAxLCAxLjEsIDEuMiksCiAgKDMsIDEsIDEsIDEsICcyMDA0LTAxLTAxJywgJ+WMuuWfnzInLCAyLCAncGlk5Zu+MScsICdJTUFHRV8wMDMnLCAzMCwgMiwgJzAxMDEwMDAwMzAtMU1IMUYwMS1FLTEwMScsCiAgICdFLTEwMScsICdFLTEwMScsIDEsIDEuMSwgMS4yKSwKICAoNCwgMSwgMSwgMSwgJzIwMDQtMDEtMDEnLCAn5Yy65Z+fMicsIDIsICdwaWTlm74xJywgJ0lNQUdFXzAwNCcsIDQwLCAyLCAnMDEwMTAwMDA0MC0xTUgxRjAxLUUtMTAxJywKICAgJ0UtMTAxJywgJ0UtMTAxJywgMSwgMS4xLCAxLjIpLAogICg1LCAxLCAxLCAxLCAnMjAwNC0wMS0wMScsICfljLrln58zJywgOTksICdwaWTlm74xJywgJ0lNQUdFXzAwNScsIDUwLCAyLCAnMDEwMTAwMDA1MC0xTUgxRjAxLUUtMTAxJywKICAgJ0UtMTAxJywgJ0UtMTAxJywgMSwgMS4xLCAxLjIpOwo=</text>
+      <register name="0" type="4">
+        <text>0101000010-1MH1F01-E-101</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBlbHNlIHJldHVybiBSZXN1bHQuRVJST1JfRkFJTEVEOwo=</text>
@@ -2266,7 +2267,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -2317,11 +2318,11 @@
         <entry>%s/unit/ldarStandard/gc</entry>
         <entry>%s/LdarStandard/Install</entry>
         <entry>%s/ldarStandard/install</entry>
-        <entry>q</entry>
         <entry>%s/standard/install/gc</entry>
-        <entry>action NextTab</entry>
-        <entry>action PreviousTab</entry>
         <entry>action ReformatCode</entry>
+        <entry>action PreviousTab</entry>
+        <entry>action NextTab</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
