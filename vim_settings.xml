@@ -1924,12 +1924,12 @@
         <mark key="." line="12" column="4" />
         <mark key="^" line="12" column="4" />
       </file>
-      <file name="D:/code/java/voc/src/test/resources/sql/init.sql" timestamp="1515549955387">
+      <file name="D:/code/java/voc/src/test/resources/sql/init.sql" timestamp="1516180187899">
         <mark key="'" line="80" column="19" />
-        <mark key="[" line="83" column="54" />
-        <mark key="]" line="83" column="63" />
-        <mark key="." line="83" column="55" />
-        <mark key="^" line="83" column="72" />
+        <mark key="[" line="109" column="75" />
+        <mark key="]" line="109" column="76" />
+        <mark key="." line="109" column="76" />
+        <mark key="^" line="109" column="74" />
       </file>
       <file name="$USER_HOME$/workdir/react-components/src/styles/user.css" timestamp="1491717147991">
         <mark key="[" line="6" column="1" />
@@ -2122,8 +2122,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>.in(&quot;id&quot;, ids)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAoMSwgMSwgMSwgMSwgJzIwMDQtMDEtMDEnLCAn5Yy65Z+fMScsIDEsICdwaWTlm74xJywgJ0lNQUdFXzAwMScsIDEwLCAxLCAnMDEwMTAwMDAxMC0xTUgxRjAxLUUtMTAxJywKICAgJ0UtMTAxJywgJ0UtMTAxJywgMSwgMS4xLCAxLjIpLAogICgyLCAxLCAxLCAxLCAnMjAwNC0wMS0wMScsICfljLrln58xJywgMSwgJ3BpZOWbvjEnLCAnSU1BR0VfMDAyJywgMjAsIDIsICcwMTAxMDAwMDIwLTFNSDFGMDEtRS0xMDEnLAogICAnRS0xMDEnLCAnRS0xMDEnLCAxLCAxLjEsIDEuMiksCiAgKDMsIDEsIDEsIDEsICcyMDA0LTAxLTAxJywgJ+WMuuWfnzInLCAyLCAncGlk5Zu+MScsICdJTUFHRV8wMDMnLCAzMCwgMiwgJzAxMDEwMDAwMzAtMU1IMUYwMS1FLTEwMScsCiAgICdFLTEwMScsICdFLTEwMScsIDEsIDEuMSwgMS4yKSwKICAoNCwgMSwgMSwgMSwgJzIwMDQtMDEtMDEnLCAn5Yy65Z+fMicsIDIsICdwaWTlm74xJywgJ0lNQUdFXzAwNCcsIDQwLCAyLCAnMDEwMTAwMDA0MC0xTUgxRjAxLUUtMTAxJywKICAgJ0UtMTAxJywgJ0UtMTAxJywgMSwgMS4xLCAxLjIpLAogICg1LCAxLCAxLCAxLCAnMjAwNC0wMS0wMScsICfljLrln58zJywgOTksICdwaWTlm74xJywgJ0lNQUdFXzAwNScsIDUwLCAyLCAnMDEwMTAwMDA1MC0xTUgxRjAxLUUtMTAxJywKICAgJ0UtMTAxJywgJ0UtMTAxJywgMSwgMS4xLCAxLjIpOwo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2236,7 +2236,7 @@
         <text>standard</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PEluc3RhbGw+IGluc3RhbGxzID0gaUluc3RhbGxTZXJ2aWNlLmdldEJ5VW5pdElkKDMpOwoKICAgICAgICBhc3NlcnRFcXVhbHMoMiwgaW5zdGFsbHMuc2l6ZSgpKTsKICAgICAgICBhc3NlcnRFcXVhbHMoIuayueawlOeUn+S6p+ijhee9rjEiLCBpbnN0YWxscy5nZXQoMCkuZ2V0TmFtZSgpKTsKCiAgICAgICAgLy8gY2FjaGUKICAgICAgICBhc3NlcnRTYW1lKGluc3RhbGxzLCBpSW5zdGFsbFNlcnZpY2UuZ2V0QnlVbml0SWQoMykpOwo=</text>
+        <text encoding="base64">ICAoMSwgMSwgMSwgMSwgJzIwMDQtMDEtMDEnLCAn5Yy65Z+fMScsIDEsICdwaWTlm74xJywgJ0lNQUdFXzAwMScsIDEwLCAxLCAnMDEwMTAwMDAxMC0xTUgxRjAxLUUtMTAxJywKICAgJ0UtMTAxJywgJ0UtMTAxJywgMSwgMS4xLCAxLjIpLAogICgyLCAxLCAxLCAxLCAnMjAwNC0wMS0wMScsICfljLrln58xJywgMSwgJ3BpZOWbvjEnLCAnSU1BR0VfMDAyJywgMjAsIDIsICcwMTAxMDAwMDIwLTFNSDFGMDEtRS0xMDEnLAogICAnRS0xMDEnLCAnRS0xMDEnLCAxLCAxLjEsIDEuMiksCiAgKDMsIDEsIDEsIDEsICcyMDA0LTAxLTAxJywgJ+WMuuWfnzInLCAyLCAncGlk5Zu+MScsICdJTUFHRV8wMDMnLCAzMCwgMiwgJzAxMDEwMDAwMzAtMU1IMUYwMS1FLTEwMScsCiAgICdFLTEwMScsICdFLTEwMScsIDEsIDEuMSwgMS4yKSwKICAoNCwgMSwgMSwgMSwgJzIwMDQtMDEtMDEnLCAn5Yy65Z+fMicsIDIsICdwaWTlm74xJywgJ0lNQUdFXzAwNCcsIDQwLCAyLCAnMDEwMTAwMDA0MC0xTUgxRjAxLUUtMTAxJywKICAgJ0UtMTAxJywgJ0UtMTAxJywgMSwgMS4xLCAxLjIpLAogICg1LCAxLCAxLCAxLCAnMjAwNC0wMS0wMScsICfljLrln58zJywgOTksICdwaWTlm74xJywgJ0lNQUdFXzAwNScsIDUwLCAyLCAnMDEwMTAwMDA1MC0xTUgxRjAxLUUtMTAxJywKICAgJ0UtMTAxJywgJ0UtMTAxJywgMSwgMS4xLCAxLjIpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBlbHNlIHJldHVybiBSZXN1bHQuRVJST1JfRkFJTEVEOwo=</text>
@@ -2266,7 +2266,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action PreviousTab</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
@@ -2320,8 +2320,8 @@
         <entry>q</entry>
         <entry>%s/standard/install/gc</entry>
         <entry>action NextTab</entry>
-        <entry>action ReformatCode</entry>
         <entry>action PreviousTab</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
