@@ -687,10 +687,10 @@
         <mark key="^" line="73" column="17" />
         <mark key="." line="73" column="17" />
       </file>
-      <file name="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/InstallServiceImplTest.java" timestamp="1516181584710">
-        <mark key="'" line="146" column="25" />
-        <mark key="[" line="134" column="0" />
-        <mark key="]" line="156" column="60" />
+      <file name="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/InstallServiceImplTest.java" timestamp="1516184735339">
+        <mark key="'" line="146" column="0" />
+        <mark key="[" line="189" column="0" />
+        <mark key="]" line="198" column="66" />
       </file>
       <file name="D:/code/java/voc/src/main/kotlin/com/cnvoc/voc/entity/Component.kt" timestamp="1514698813045">
         <mark key="[" line="31" column="8" />
@@ -1472,11 +1472,12 @@
         <mark key="^" line="34" column="30" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/ComponentServiceImplTest.java" timestamp="1516182257627">
-        <mark key="[" line="50" column="34" />
-        <mark key="]" line="50" column="45" />
-        <mark key="^" line="50" column="45" />
-        <mark key="." line="50" column="45" />
+      <file name="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/ComponentServiceImplTest.java" timestamp="1516184841258">
+        <mark key="'" line="30" column="42" />
+        <mark key="[" line="83" column="35" />
+        <mark key="]" line="83" column="34" />
+        <mark key="." line="83" column="34" />
+        <mark key="^" line="83" column="34" />
       </file>
       <file name="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/security/JwtUserFactory.java" timestamp="1510714592519">
         <mark key="'" line="18" column="35" />
@@ -1933,12 +1934,12 @@
         <mark key="." line="12" column="4" />
         <mark key="^" line="12" column="4" />
       </file>
-      <file name="D:/code/java/voc/src/test/resources/sql/init.sql" timestamp="1516161567579">
+      <file name="D:/code/java/voc/src/test/resources/sql/init.sql" timestamp="1516185102510">
         <mark key="'" line="82" column="19" />
-        <mark key="[" line="99" column="15" />
-        <mark key="]" line="99" column="16" />
-        <mark key="." line="99" column="16" />
-        <mark key="^" line="96" column="37" />
+        <mark key="[" line="128" column="13" />
+        <mark key="]" line="128" column="14" />
+        <mark key="." line="128" column="14" />
+        <mark key="^" line="126" column="3" />
       </file>
       <file name="$USER_HOME$/workdir/react-components/src/styles/user.css" timestamp="1491717147991">
         <mark key="[" line="6" column="1" />
@@ -2009,7 +2010,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="0" filename="D:/code/python/autostock/autostock.py" />
       <jump line="1" column="1" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/FactoryServiceImplTest.java" />
       <jump line="2" column="1" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/web/LdarSettingControllerTest.java" />
       <jump line="37" column="22" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/web/InstitutionController.java" />
@@ -2108,7 +2108,8 @@
       <jump line="30" column="18" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/InstallServiceImplTest.java" />
       <jump line="254" column="4" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
       <jump line="80" column="19" filename="D:/code/java/voc/src/test/resources/sql/init.sql" />
-      <jump line="146" column="25" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/InstallServiceImplTest.java" />
+      <jump line="29" column="42" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/ComponentServiceImplTest.java" />
+      <jump line="146" column="0" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/InstallServiceImplTest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2131,8 +2132,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2239,43 +2240,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>UnitId</text>
       </register>
       <register name="/" type="4">
         <text>standard</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGNvbXBvbmVudC5nZXRJZCgpLCBuZXcgR3JlYXRlclRoYW48PihMb25nLnZhbHVlT2YoMSkpKTsK</text>
+        <text encoding="base64">ICAoMSwgMSwgMSwgMSwgJzIwMDQtMDEtMDEnLCAn5Yy65Z+fMScsIDEsICdwaWTlm74xJywgJ0lNQUdFXzAwMScsIDEwLCAxLCAnMDEwMTAwMDAxMC0xTUgxRjAxLUUtMTAxJywKICAgJ0UtMTAxJywgJ0UtMTAxJywgMSwgMS4xLCAxLjIpLAogICgyLCAxLCAxLCAxLCAnMjAwNC0wMS0wMScsICfljLrln58xJywgMSwgJ3BpZOWbvjEnLCAnSU1BR0VfMDAyJywgMjAsIDIsICcwMTAxMDAwMDIwLTFNSDFGMDEtRS0xMDEnLAogICAnRS0xMDEnLCAnRS0xMDEnLCAxLCAxLjEsIDEuMiksCiAgKDMsIDEsIDEsIDEsICcyMDA0LTAxLTAxJywgJ+WMuuWfnzInLCAyLCAncGlk5Zu+MScsICdJTUFHRV8wMDMnLCAzMCwgMywgJzAxMDEwMDAwMzAtMU1IMUYwMS1FLTEwMScsCiAgICdFLTEwMScsICdFLTEwMScsIDEsIDEuMSwgMS4yKSwKICAoNCwgMSwgMSwgMSwgJzIwMDQtMDEtMDEnLCAn5Yy65Z+fMicsIDIsICdwaWTlm74xJywgJ0lNQUdFXzAwNCcsIDQwLCA0LCAnMDEwMTAwMDA0MC0xTUgxRjAxLUUtMTAxJywKICAgJ0UtMTAxJywgJ0UtMTAxJywgMSwgMS4xLCAxLjIpLAogICg1LCAxLCAxLCAxLCAnMjAwNC0wMS0wMScsICfljLrln58zJywgOTksICdwaWTlm74xJywgJ0lNQUdFXzAwNScsIDUwLCA1LCAnMDEwMTAwMDA1MC0xTUgxRjAxLUUtMTAxJywKICAgJ0UtMTAxJywgJ0UtMTAxJywgMSwgMS4xLCAxLjIpLAogICg2LCAxLCAxLCAyLCAnMjAwNC0wMS0wMScsICfljLrln58xJywgMSwgJ3BpZOWbvjEnLCAnSU1BR0VfMDAxJywgMTAsIDYsICcwMTAyMDAwMDEwLTFNSDFGMDEtRS0xMDEnLAogICAnRS0xMDEnLCAnRS0xMDEnLCAxLCAxLjEsIDEuMiksCiAgKDcsIDEsIDEsIDIsICcyMDA0LTAxLTAxJywgJ+WMuuWfnzEnLCAxLCAncGlk5Zu+MScsICdJTUFHRV8wMDInLCAyMCwgNywgJzAxMDIwMDAwMjAtMU1IMUYwMS1FLTEwMScsCiAgICdFLTEwMScsICdFLTEwMScsIDEsIDEuMSwgMS4yKSwKICAoOCwgMSwgMSwgMiwgJzIwMDQtMDEtMDEnLCAn5Yy65Z+fMicsIDIsICdwaWTlm74xJywgJ0lNQUdFXzAwMycsIDMwLCA4LCAnMDEwMjAwMDAzMC0xTUgxRjAxLUUtMTAxJywKICAgJ0UtMTAxJywgJ0UtMTAxJywgMSwgMS4xLCAxLjIpLAogICg5LCAxLCAxLCAyLCAnMjAwNC0wMS0wMScsICfljLrln58yJywgMiwgJ3BpZOWbvjEnLCAnSU1BR0VfMDA0JywgNDAsIDksICcwMTAyMDAwMDQwLTFNSDFGMDEtRS0xMDEnLAogICAnRS0xMDEnLCAnRS0xMDEnLCAxLCAxLjEsIDEuMiksCiAgKDEwLCAxLCAxLCAyLCAnMjAwNC0wMS0wMScsICfljLrln58zJywgOTksICdwaWTlm74xJywgJ0lNQUdFXzAwNScsIDUwLCAxMCwgJzAxMDIwMDAwNTAtMU1IMUYwMS1FLTEwMScsCiAgICdFLTEwMScsICdFLTEwMScsIDEsIDEuMSwgMS4yKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGNvbXBvbmVudC5nZXRJZCgpLCBuZXcgR3JlYXRlclRoYW48PihMb25nLnZhbHVlT2YoMSkpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoIua1i+ivleijhee9rjEiLCBpbnN0YWxsLmdldE5hbWUoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDmtYvor5Xnm67lvZUKICAgICAgICBQYXRoIGluc3RhbGxQYXRoID0gUHJvamVjdC5nZXRJbnN0YWxsUGF0aCgpOwogICAgICAgIGFzc2VydFRydWUoRmlsZXMuZXhpc3RzKGluc3RhbGxQYXRoLnJlc29sdmUoaW5zdGFsbC5nZXRGb2xkZXIoKSkpKTsK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnROb3RTYW1lKGluc3RhbGxCYWNrLCBpSW5zdGFsbFNlcnZpY2UuZ2V0QnlVbml0SWQoMSkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpbnN0YWxsLnNldEZhY3RvcnlJZCgxKTsKICAgICAgICBpbnN0YWxsLnNldFVuaXRJZCgxKTsKICAgICAgICBpbnN0YWxsLnNldE5hbWUoIua1i+ivleijhee9rjEiKTsKICAgICAgICBpbnN0YWxsLnNldE5vKDMpOwogICAgICAgIGluc3RhbGwuc2V0Q29kZSgiQ1NaWjEiKTsKICAgICAgICBpbnN0YWxsLnNldFR5cGUoTGRhckluc3RhbGxUeXBlLlJlZmluZXJ5KTsKICAgICAgICBpbnN0YWxsLnNldENvbnN0cnVjdERhdGUoRGF0ZVV0aWxzLnBhcnNlRGF0ZSgiMjAxNC0wMS0wMSIsICAieXl5eS1NTS1kZCIpKTsKICAgICAgICBpbnN0YWxsLnNldFN0YW5kYXJkSWQoMSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBJbnN0YWxsIGluc3RhbGxCYWNrID0gaUluc3RhbGxTZXJ2aWNlLmdldEJ5SWQoMSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICBuZXdDb21wb25lbgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PENvbXBvbmVudD4K</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KC5nZXRJZCgpLCBuZXcgR3JlYXRlclRoYW48PihMb25nLnZhbHVlT2YoMSkpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuY2FjaGUuYW5ub3RhdGlvbi5DYWNoZUNvbmZpZzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChwYWRTdHIgPT0gbnVsbCkgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action PreviousTab</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
@@ -2327,10 +2328,10 @@
         <entry>%s/LdarStandard/Install</entry>
         <entry>%s/ldarStandard/install</entry>
         <entry>%s/standard/install/gc</entry>
-        <entry>action ReformatCode</entry>
-        <entry>action NextTab</entry>
         <entry>q</entry>
         <entry>action PreviousTab</entry>
+        <entry>action NextTab</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
