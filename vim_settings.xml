@@ -73,11 +73,11 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="42" column="30" />
       </file>
-      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/ComponentServiceImpl.java" timestamp="1516103623573">
-        <mark key="[" line="37" column="13" />
-        <mark key="]" line="37" column="25" />
-        <mark key="." line="37" column="25" />
-        <mark key="^" line="37" column="25" />
+      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/ComponentServiceImpl.java" timestamp="1516156083284">
+        <mark key="[" line="143" column="50" />
+        <mark key="]" line="143" column="66" />
+        <mark key="." line="143" column="66" />
+        <mark key="^" line="143" column="66" />
       </file>
       <file name="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/FactoryServiceImplTest.java" timestamp="1515401946890">
         <mark key="'" line="51" column="41" />
@@ -1633,11 +1633,11 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/web/ComponentController.java" timestamp="1516103610945">
-        <mark key="[" line="68" column="19" />
-        <mark key="]" line="68" column="25" />
+      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/web/ComponentController.java" timestamp="1516155988868">
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="0" />
         <mark key="^" line="68" column="25" />
-        <mark key="." line="68" column="25" />
+        <mark key="." line="76" column="0" />
       </file>
       <file name="$USER_HOME$/sync/code/go/src/ldar/direction.go" timestamp="1476252890962">
         <mark key="[" line="15" column="34" />
@@ -2130,7 +2130,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>.in(&quot;id&quot;, ids)</text>
+        <text>key = &quot;#component.factoryId&quot;</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2237,40 +2237,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.in(&quot;id&quot;, ids)</text>
+        <text>key = &quot;#component.factoryId&quot;</text>
       </register>
       <register name="/" type="4">
         <text>standard</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PEluc3RhbGw+IGluc3RhbGxzID0gaUluc3RhbGxTZXJ2aWNlLmdldEJ5VW5pdElkKDMpOwoKICAgICAgICBhc3NlcnRFcXVhbHMoMiwgaW5zdGFsbHMuc2l6ZSgpKTsKICAgICAgICBhc3NlcnRFcXVhbHMoIuayueawlOeUn+S6p+ijhee9rjEiLCBpbnN0YWxscy5nZXQoMCkuZ2V0TmFtZSgpKTsKCiAgICAgICAgLy8gY2FjaGUKICAgICAgICBhc3NlcnRTYW1lKGluc3RhbGxzLCBpSW5zdGFsbFNlcnZpY2UuZ2V0QnlVbml0SWQoMykpOwo=</text>
+        <text encoding="base64">ICAgIEBDYWNoZUV2aWN0KHZhbHVlID0gImFsbENvbXBvbmVudHNJbkZhY3RvcnkiLCBrZXkgPSAiI2NvbXBvbmVudC5mYWN0b3J5SWQiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlIHJldHVybiBSZXN1bHQuRVJST1JfRkFJTEVEOwo=</text>
+        <text encoding="base64">QENhY2hlQ29uZmlnKGNhY2hlTmFtZXMgPSAiY29tcG9uZW50IikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2UgcmV0dXJuIFJlc3VsdC5FUlJPUl9GQUlMRUQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyDkuI3og73liKDpmaTlhoXnva7nmoQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5ldyBSZXN1bHQoY29tcG9uZW50KTsK</text>
+        <text encoding="base64">ICAgICAgICBlbHNlIHJldHVybiBSZXN1bHQuRVJST1JfRkFJTEVEOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PENvbXBvbmVudD4gY29tcG9uZW50cyA9IDsK</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2UgcmV0dXJuIFJlc3VsdC5FUlJPUl9GQUlMRUQ7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBFbnRpdHlXcmFwcGVyPENvbXBvbmVudD4oKS53aGVyZSgiZmFjdG9yeV9pZD17MH0iLCBmYWN0b3J5SWQpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5ldyBSZXN1bHQoY29tcG9uZW50KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PEluc3RhbGw+IGluc3RhbGxzID0gaUluc3RhbGxTZXJ2aWNlLmdldEJ5VW5pdElkKDMpOwoKICAgICAgICBhc3NlcnRFcXVhbHMoMiwgaW5zdGFsbHMuc2l6ZSgpKTsKICAgICAgICBhc3NlcnRFcXVhbHMoIuayueawlOeUn+S6p+ijhee9rjEiLCBpbnN0YWxscy5nZXQoMCkuZ2V0TmFtZSgpKTsKCiAgICAgICAgLy8gY2FjaGUKICAgICAgICBhc3NlcnRTYW1lKGluc3RhbGxzLCBpSW5zdGFsbFNlcnZpY2UuZ2V0QnlVbml0SWQoMykpOwo=</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PENvbXBvbmVudD4gY29tcG9uZW50cyA9IDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBDYWNoZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBFbnRpdHlXcmFwcGVyPENvbXBvbmVudD4oKS53aGVyZSgiZmFjdG9yeV9pZD17MH0iLCBmYWN0b3J5SWQpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgSUluc3RhbGxTZXJ2aWNlIGlJbnN0YWxsU2VydmljZTsKCg==</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PEluc3RhbGw+IGluc3RhbGxzID0gaUluc3RhbGxTZXJ2aWNlLmdldEJ5VW5pdElkKDMpOwoKICAgICAgICBhc3NlcnRFcXVhbHMoMiwgaW5zdGFsbHMuc2l6ZSgpKTsKICAgICAgICBhc3NlcnRFcXVhbHMoIuayueawlOeUn+S6p+ijhee9rjEiLCBpbnN0YWxscy5nZXQoMCkuZ2V0TmFtZSgpKTsKCiAgICAgICAgLy8gY2FjaGUKICAgICAgICBhc3NlcnRTYW1lKGluc3RhbGxzLCBpSW5zdGFsbFNlcnZpY2UuZ2V0QnlVbml0SWQoMykpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBDYWNoZQo=</text>
       </register>
       <register name=":" type="4">
         <text>action PreviousTab</text>
