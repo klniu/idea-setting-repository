@@ -77,7 +77,7 @@
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
-        <mark key="^" line="142" column="66" />
+        <mark key="^" line="146" column="66" />
       </file>
       <file name="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/FactoryServiceImplTest.java" timestamp="1515401946890">
         <mark key="'" line="51" column="41" />
@@ -1317,12 +1317,12 @@
         <mark key="." line="18" column="14" />
         <mark key="^" line="18" column="14" />
       </file>
-      <file name="D:/code/java/voc/src/main/resources/sql/schema.sql" timestamp="1515549945508">
+      <file name="D:/code/java/voc/src/main/resources/sql/schema.sql" timestamp="1516236039411">
         <mark key="'" line="254" column="4" />
-        <mark key="[" line="262" column="46" />
-        <mark key="]" line="262" column="46" />
-        <mark key="." line="262" column="46" />
-        <mark key="^" line="261" column="24" />
+        <mark key="[" line="306" column="25" />
+        <mark key="]" line="306" column="34" />
+        <mark key="." line="306" column="34" />
+        <mark key="^" line="306" column="34" />
       </file>
       <file name="D:/code/java/voc/src/test/java/com/cnvoc/voc/web/LdarSettingControllerTest.java" timestamp="1515326756758">
         <mark key="'" line="51" column="45" />
@@ -1471,12 +1471,6 @@
         <mark key="]" line="42" column="0" />
         <mark key="^" line="34" column="30" />
         <mark key="." line="42" column="0" />
-      </file>
-      <file name="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/ComponentServiceImplTest.java" timestamp="1516158790361">
-        <mark key="[" line="30" column="39" />
-        <mark key="]" line="30" column="40" />
-        <mark key="." line="30" column="39" />
-        <mark key="^" line="30" column="36" />
       </file>
       <file name="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/security/JwtUserFactory.java" timestamp="1510714592519">
         <mark key="'" line="18" column="35" />
@@ -1934,11 +1928,9 @@
         <mark key="^" line="12" column="4" />
       </file>
       <file name="D:/code/java/voc/src/test/resources/sql/init.sql" timestamp="1516161567579">
-        <mark key="'" line="82" column="19" />
-        <mark key="[" line="99" column="15" />
-        <mark key="]" line="99" column="16" />
-        <mark key="^" line="96" column="37" />
-        <mark key="." line="99" column="16" />
+        <mark key="[" line="19" column="15" />
+        <mark key="]" line="19" column="16" />
+        <mark key="." line="19" column="16" />
       </file>
       <file name="$USER_HOME$/workdir/react-components/src/styles/user.css" timestamp="1491717147991">
         <mark key="[" line="6" column="1" />
@@ -2132,7 +2124,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>tag_no</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2239,13 +2231,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>tag_no</text>
       </register>
       <register name="/" type="4">
         <text>standard</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAoMiwgMSwgMSwgMSwgJzIwMDQtMDEtMDEnLCAn5Yy65Z+fMScsIDEsICdwaWTlm74xJywgJ0lNQUdFXzAwMicsIDIwLCAyLCAnMDEwMTAwMDAyMC0xTUgxRjAxLUUtMTAxJywgJ0UtMTAxJywgJ0UtMTAxJywKICAgMSwgMS4xLCAxLjIpLAo=</text>
+        <text encoding="base64">ICBVTklRVUUgKGBpbnN0YWxsX2lkYCwgYHRhZ19ub2ApLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAK</text>
