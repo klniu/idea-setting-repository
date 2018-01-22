@@ -2001,12 +2001,12 @@
         <mark key="." line="12" column="4" />
         <mark key="^" line="12" column="4" />
       </file>
-      <file name="D:/code/java/voc/src/test/resources/sql/init.sql" timestamp="1516603393520">
-        <mark key="'" line="136" column="86" />
-        <mark key="[" line="4" column="85" />
-        <mark key="]" line="4" column="84" />
-        <mark key="^" line="4" column="84" />
-        <mark key="." line="4" column="84" />
+      <file name="D:/code/java/voc/src/test/resources/sql/init.sql" timestamp="1516605830387">
+        <mark key="'" line="142" column="86" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="11" column="10" />
+        <mark key="^" line="11" column="10" />
+        <mark key="." line="11" column="10" />
       </file>
       <file name="$USER_HOME$/workdir/react-components/src/styles/user.css" timestamp="1491717147991">
         <mark key="[" line="6" column="1" />
@@ -2207,7 +2207,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Web</text>
+        <text encoding="base64">RkFMU0UgLCA=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2314,13 +2314,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Web</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>media</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">QFRyYW5zYWN0aW9uYWwocHJvcGFnYXRpb24gPSBQcm9wYWdhdGlvbi5ORVNURUQsIGlzb2xhdGlvbiA9IElzb2xhdGlvbi5ERUZBVUxULCByb2xsYmFja0ZvciA9IEV4Y2VwdGlvbi5jbGFzcykK</text>
+      <register name="0" type="4">
+        <text encoding="base64">RkFMU0UgLCA=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBgc2FsdGAgICAgICAgICAgICAgVkFSQ0hBUigxMCkgTk9UIE5VTEwsCg==</text>
@@ -2350,7 +2350,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action NextTab</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
@@ -2402,10 +2402,10 @@
         <entry>%s/Component/Seal/gc</entry>
         <entry>%s/component/seal/gc</entry>
         <entry>%s/joint/connector/gc</entry>
-        <entry>action ReformatCode</entry>
         <entry>q</entry>
         <entry>action PreviousTab</entry>
         <entry>action NextTab</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
