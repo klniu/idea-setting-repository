@@ -539,6 +539,7 @@
         <mark key="." line="9" column="7" />
         <mark key="^" line="9" column="7" />
       </file>
+      <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/model_test.go" timestamp="1516583278777" />
       <file name="D:/code/java/cnooc/.gitignore" timestamp="1514510581429">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
@@ -694,13 +695,6 @@
         <mark key="]" line="73" column="17" />
         <mark key="^" line="73" column="17" />
         <mark key="." line="73" column="17" />
-      </file>
-      <file name="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/InstallServiceImplTest.java" timestamp="1516267590944">
-        <mark key="'" line="148" column="0" />
-        <mark key="[" line="35" column="14" />
-        <mark key="]" line="36" column="8" />
-        <mark key="." line="36" column="8" />
-        <mark key="^" line="36" column="8" />
       </file>
       <file name="D:/code/java/voc/src/main/kotlin/com/cnvoc/voc/entity/Component.kt" timestamp="1514698813045">
         <mark key="[" line="31" column="8" />
@@ -1341,12 +1335,12 @@
         <mark key="." line="18" column="14" />
         <mark key="^" line="18" column="14" />
       </file>
-      <file name="D:/code/java/voc/src/main/resources/sql/schema.sql" timestamp="1516261379543">
-        <mark key="'" line="91" column="11" />
-        <mark key="[" line="326" column="10" />
-        <mark key="]" line="326" column="12" />
-        <mark key="^" line="326" column="12" />
-        <mark key="." line="326" column="12" />
+      <file name="D:/code/java/voc/src/main/resources/sql/schema.sql" timestamp="1516584059411">
+        <mark key="'" line="92" column="11" />
+        <mark key="[" line="18" column="46" />
+        <mark key="]" line="18" column="66" />
+        <mark key="^" line="18" column="66" />
+        <mark key="." line="18" column="66" />
       </file>
       <file name="D:/code/java/voc/src/test/java/com/cnvoc/voc/web/LdarSettingControllerTest.java" timestamp="1515326756758">
         <mark key="'" line="51" column="45" />
@@ -2001,12 +1995,12 @@
         <mark key="." line="12" column="4" />
         <mark key="^" line="12" column="4" />
       </file>
-      <file name="D:/code/java/voc/src/test/resources/sql/init.sql" timestamp="1516265920280">
-        <mark key="'" line="131" column="86" />
-        <mark key="[" line="143" column="90" />
-        <mark key="]" line="143" column="91" />
-        <mark key="." line="143" column="91" />
-        <mark key="^" line="144" column="6" />
+      <file name="D:/code/java/voc/src/test/resources/sql/init.sql" timestamp="1516583988285">
+        <mark key="'" line="134" column="86" />
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="2" column="15" />
+        <mark key="." line="2" column="15" />
+        <mark key="^" line="2" column="15" />
       </file>
       <file name="$USER_HOME$/workdir/react-components/src/styles/user.css" timestamp="1491717147991">
         <mark key="[" line="6" column="1" />
@@ -2206,8 +2200,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbmFsCg==</text>
+      <register name="&quot;" type="4">
+        <text>;</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2314,7 +2308,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>(propagation = Propagation.NESTED, isolation = Isolation.DEFAULT, rollbackFor = Exception.class)</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>media</text>
@@ -2363,7 +2357,7 @@
       <last-replace>connector</last-replace>
       <last-substitute>joint</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
