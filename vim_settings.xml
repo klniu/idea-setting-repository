@@ -525,11 +525,11 @@
         <mark key="." line="49" column="0" />
         <mark key="^" line="13" column="0" />
       </file>
-      <file name="D:/code/java/voc/src/test/java/com/cnvoc/voc/web/ComponentControllerTest.java" timestamp="1517224613147">
-        <mark key="[" line="127" column="37" />
-        <mark key="]" line="127" column="59" />
-        <mark key="." line="127" column="59" />
-        <mark key="^" line="127" column="59" />
+      <file name="D:/code/java/voc/src/test/java/com/cnvoc/voc/web/ComponentControllerTest.java" timestamp="1517226083734">
+        <mark key="[" line="127" column="108" />
+        <mark key="]" line="127" column="108" />
+        <mark key="." line="127" column="108" />
+        <mark key="^" line="127" column="108" />
       </file>
       <file name="D:/code/java/voc/src/main/kotlin/com/cnvoc/voc/common/generator/MPGenerator.kt" timestamp="1514597367355">
         <mark key="[" line="28" column="33" />
@@ -767,7 +767,7 @@
         <mark key="." line="65" column="13" />
         <mark key="^" line="65" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517147002910">
+      <file name="/Dummy.txt" timestamp="1517226249088">
         <mark key="'" line="0" column="19" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
@@ -1293,6 +1293,11 @@
         <mark key="^" line="34" column="30" />
         <mark key="." line="42" column="0" />
       </file>
+      <file name="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/ComponentServiceImplTest.java" timestamp="1517225951221">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="171" column="18" />
+        <mark key="]" line="171" column="72" />
+      </file>
       <file name="F:/code/java/vocs/src/main/resources/sql/schema.sql" timestamp="1514077350536">
         <mark key="[" line="371" column="17" />
         <mark key="]" line="371" column="17" />
@@ -1419,11 +1424,12 @@
         <mark key="." line="1" column="23" />
         <mark key="^" line="1" column="23" />
       </file>
-      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/web/ComponentController.java" timestamp="1517145961823">
-        <mark key="[" line="48" column="43" />
-        <mark key="]" line="48" column="71" />
-        <mark key="." line="48" column="71" />
-        <mark key="^" line="48" column="71" />
+      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/web/ComponentController.java" timestamp="1517225848378">
+        <mark key="'" line="48" column="33" />
+        <mark key="[" line="80" column="5" />
+        <mark key="]" line="81" column="3" />
+        <mark key="^" line="81" column="3" />
+        <mark key="." line="81" column="3" />
       </file>
       <file name="$USER_HOME$/sync/code/go/src/ldar/direction.go" timestamp="1476252890962">
         <mark key="[" line="15" column="34" />
@@ -1741,8 +1747,8 @@
         <mark key="^" line="1" column="152" />
         <mark key="." line="1" column="152" />
       </file>
-      <file name="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/SealServiceImplTest.java" timestamp="1517140537179">
-        <mark key="'" line="67" column="24" />
+      <file name="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/SealServiceImplTest.java" timestamp="1517225892182">
+        <mark key="'" line="244" column="33" />
         <mark key="[" line="244" column="33" />
         <mark key="]" line="244" column="34" />
         <mark key="^" line="244" column="30" />
@@ -1768,9 +1774,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="23" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/LdarStandardServiceImplTest.java" />
-      <jump line="408" column="0" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
-      <jump line="74" column="8" filename="D:/code/java/voc/src/test/resources/sql/init.sql" />
       <jump line="263" column="47" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
       <jump line="12" column="23" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/common/Project.java" />
       <jump line="38" column="0" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/common/Project.java" />
@@ -1868,6 +1871,9 @@
       <jump line="37" column="26" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/InstallServiceImplTest.java" />
       <jump line="42" column="26" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/InstallServiceImpl.java" />
       <jump line="184" column="40" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/InstallServiceImplTest.java" />
+      <jump line="48" column="33" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/web/ComponentController.java" />
+      <jump line="244" column="33" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/SealServiceImplTest.java" />
+      <jump line="0" column="0" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/ComponentServiceImplTest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1891,7 +1897,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>upload</text>
+        <text>;</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -1998,47 +2004,47 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>upload</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>Void</text>
       </register>
       <register name="0" type="4">
-        <text>.header(&quot;Origin&quot;, &quot;*&quot;).header(&quot;Access-Control-Request-Headers&quot;, &quot;*&quot;)</text>
+        <text>this.getClass().getResource(&quot;/docs/upload_photos.zip&quot;);</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5maWxlKGZpcnN0RmlsZSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5maWxlKGZpcnN0RmlsZSkK</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIC8vIDMuMS4xIFNpbmdsZSBmaWxlIHVwbG9hZAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIC8vQFJlc3BvbnNlQm9keQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIC8vIElmIG5vdCBAUmVzdENvbnRyb2xsZXIsIHVuY29tbWVudCB0aGlzCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5maWxlKGZpcnN0RmlsZSkpCg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBtb2NrTXZjLnBlcmZvcm0oZmlsZVVwbG9hZCgiL3VwbG9hZCIpLmhlYWRlcigiT3JpZ2luIiwgIioiKQo=</text>
       </register>
-      <register name="3" type="8">
+      <register name="7" type="8">
         <text>Path()
 Path()
 Path()</text>
       </register>
-      <register name="4" type="8">
+      <register name="8" type="8">
         <text>forceMkdir
 forceMkdir
 forceMkdir</text>
       </register>
-      <register name="5" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBGaWxlVXRpbHMuZGVsZXRlRGlyZWN0b3J5KFByb2plY3QuZ2V0SW5zdGFsbEJhY2t1cFBhdGgoKS50b0ZpbGUoKSk7Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBGaWxlVXRpbHMuZm9yY2VNa2RpcihQcm9qZWN0LmdldEluc3RhbGxQYXRoKCkucmVzb2x2ZSgiYWJjZGVmZ2hpaiIpLnRvRmlsZSgpKTsKICAgICAgICBGaWxlVXRpbHMuZm9yY2VNa2RpcihQcm9qZWN0LmdldEluc3RhbGxQYXRoKCkucmVzb2x2ZSgiamloZ2ZlZGNiYSIpLnRvRmlsZSgpKTsKICAgICAgICBGaWxlVXRpbHMuZm9yY2VNa2RpcihQcm9qZWN0LmdldEluc3RhbGxQYXRoKCkucmVzb2x2ZSgiMmExZnNhZGZhcyIpLnRvRmlsZSgpKTsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGxvZy5lcnJvcigi5Yig6Zmk6KOF572u5pe25Yig6Zmk55uu5b2VIisgaW5zdGFsbOWksei0pe+8miIpOwogICAgICAgIH0K</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cK</text>
-      </register>
       <register name=":" type="4">
-        <text>action NextTab</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
@@ -2091,9 +2097,9 @@ forceMkdir</text>
         <entry>%s/joint/connector/gc</entry>
         <entry>%s/Void//gc</entry>
         <entry>q</entry>
-        <entry>action ReformatCode</entry>
-        <entry>action PreviousTab</entry>
         <entry>action NextTab</entry>
+        <entry>action PreviousTab</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
