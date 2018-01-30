@@ -388,12 +388,12 @@
         <mark key="^" line="29" column="46" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/shiro/JWTFilter.java" timestamp="1517282630002">
-        <mark key="'" line="88" column="0" />
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="88" column="0" />
-        <mark key="^" line="82" column="0" />
-        <mark key="." line="88" column="0" />
+      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/shiro/JWTFilter.java" timestamp="1517285378237">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="94" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="F:/code/java/mpgenerator/src/main/java/MysqlGenerator.java" timestamp="1515029832356">
         <mark key="[" line="7" column="7" />
@@ -727,11 +727,11 @@
         <mark key="." line="65" column="13" />
         <mark key="^" line="65" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516875168332">
+      <file name="/Dummy.txt" timestamp="1517285807751">
         <mark key="'" line="0" column="19" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="11" />
-        <mark key="." line="0" column="11" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/java/law/pom.xml" timestamp="1507787272217">
         <mark key="[" line="117" column="29" />
@@ -1643,9 +1643,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="27" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/web/LdarStateSettingControllerTest.java" />
-      <jump line="39" column="18" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/web/LdarStandardController.java" />
-      <jump line="82" column="8" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/web/LdarStandardController.java" />
       <jump line="50" column="8" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/web/LdarStandardController.java" />
       <jump line="31" column="3" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/web/FactoryController.java" />
       <jump line="25" column="7" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/LdarStandardServiceImplTest.java" />
@@ -1743,6 +1740,9 @@
       <jump line="111" column="17" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/shiro/JWTFilter.java" />
       <jump line="89" column="1" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/shiro/JWTFilter.java" />
       <jump line="88" column="0" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/shiro/JWTFilter.java" />
+      <jump line="87" column="2" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/shiro/JWTFilter.java" />
+      <jump line="166" column="0" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/shiro/JWTFilter.java" />
+      <jump line="25" column="0" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/shiro/JWTFilter.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1765,86 +1765,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="8">
-        <text>//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//</text>
+      <register name="&quot;" type="4">
+        <text>fix the bug not response 401 when unauthority</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -1951,7 +1873,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>fix the bug not response 401 when unauthority</text>
       </register>
       <register name="/" type="4">
         <text>jwtutil</text>
@@ -1959,7 +1881,16 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAvLyDlhYHorrjnlKjmiLfljL/lkI3orr/pl64vbG9naW4o55m75b2V5o6l5Y+jKQogICAgICAgIGZpbHRlckNoYWluRGVmaW5pdGlvbk1hcC5wdXQoIi9sb2dpbiIsICJhbm9uIik7Cg==</text>
       </register>
-      <register name="1" type="8">
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmF4LnNlcnZsZXQuaHR0cC5Db29raWU7Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5hbGliYWJhLmZhc3Rqc29uLkpTT05PYmplY3Q7CmltcG9ydCBjb20uZmFzdGVyeG1sLmphY2tzb24uZGF0YWJpbmQuT2JqZWN0TWFwcGVyOwoKaW1wb3J0IG9yZy5hcGFjaGUuY29tbW9ucy5sYW5nMy5TdHJpbmdVdGlsczsKaW1wb3J0IG9yZy5hcGFjaGUuc2hpcm8uYXV0aGMuQXV0aGVudGljYXRpb25FeGNlcHRpb247CmltcG9ydCBvcmcuYXBhY2hlLnNoaXJvLmF1dGhjLkF1dGhlbnRpY2F0aW9uVG9rZW47CmltcG9ydCBvcmcuYXBhY2hlLnNoaXJvLnN1YmplY3QuU3ViamVjdDsKaW1wb3J0IG9yZy5hcGFjaGUuc2hpcm8ud2ViLmZpbHRlci5hdXRoYy5BdXRoZW50aWNhdGluZ0ZpbHRlcjsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Ly8gcHVibGljIGNsYXNzIEpXVEZpbHRlciBleHRlbmRzIEF1dGhlbnRpY2F0aW5nRmlsdGVyIHsKLy8KLy8gICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBUT0tFTiA9ICJBdXRob3JpemF0aW9uIjsKLy8KLy8gICAgIEBPdmVycmlkZQovLyAgICAgcHJvdGVjdGVkIEF1dGhlbnRpY2F0aW9uVG9rZW4gY3JlYXRlVG9rZW4oU2VydmxldFJlcXVlc3QgcmVxdWVzdCwgU2VydmxldFJlc3BvbnNlIHJlc3BvbnNlKSB0aHJvd3MgRXhjZXB0aW9uIHsKLy8gICAgICAgICBIdHRwU2VydmxldFJlcXVlc3QgaHR0cFJlcXVlc3QgPSAoSHR0cFNlcnZsZXRSZXF1ZXN0KSByZXF1ZXN0OwovLyAgICAgICAgIC8vIOWFiOS7jkhlYWRlcumHjOmdouiOt+WPlgovLyAgICAgICAgIFN0cmluZyB0b2tlbiA9IGh0dHBSZXF1ZXN0LmdldEhlYWRlcihUT0tFTik7Ci8vICAgICAgICAgaWYoU3RyaW5nVXRpbHMuaXNFbXB0eSh0b2tlbikpewovLyAgICAgICAgICAgICAvLyDojrflj5bkuI3liLDlho3ku45QYXJhbWV0ZXLkuK3mi78KLy8gICAgICAgICAgICAgdG9rZW4gPSBodHRwUmVxdWVzdC5nZXRQYXJhbWV0ZXIoVE9LRU4pOwovLyAgICAgICAgICAgICAvLyDov5jmmK/ojrflj5bkuI3liLDlho3ku45Db29raWXkuK3mi78KLy8gICAgICAgICAgICAgaWYoU3RyaW5nVXRpbHMuaXNFbXB0eSh0b2tlbikpewovLyAgICAgICAgICAgICAgICAgQ29va2llW10gY29va2llcyA9IGh0dHBSZXF1ZXN0LmdldENvb2tpZXMoKTsKLy8gICAgICAgICAgICAgICAgIGlmKGNvb2tpZXMgIT0gbnVsbCl7Ci8vICAgICAgICAgICAgICAgICAgICAgZm9yIChDb29raWUgY29va2llIDogY29va2llcykgewovLyAgICAgICAgICAgICAgICAgICAgICAgICBpZihUT0tFTi5lcXVhbHMoY29va2llLmdldE5hbWUoKSkpewovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdG9rZW4gPSBjb29raWUuZ2V0VmFsdWUoKTsKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrOwovLyAgICAgICAgICAgICAgICAgICAgICAgICB9Ci8vICAgICAgICAgICAgICAgICAgICAgfQovLyAgICAgICAgICAgICAgICAgfQovLyAgICAgICAgICAgICB9Ci8vICAgICAgICAgfQovLyAgICAgICAgIHJldHVybiBuZXcgSldUVG9rZW4odG9rZW4pOwovLyAgICAgfQovLwovLyAgICAgQE92ZXJyaWRlCi8vICAgICBwcm90ZWN0ZWQgYm9vbGVhbiBpc0FjY2Vzc0FsbG93ZWQoU2VydmxldFJlcXVlc3QgcmVxdWVzdCwgU2VydmxldFJlc3BvbnNlIHJlc3BvbnNlLCBPYmplY3QgbWFwcGVkVmFsdWUpIHsKLy8gICAgICAgICByZXR1cm4gZmFsc2U7Ci8vICAgICB9Ci8vCi8vICAgICBAT3ZlcnJpZGUKLy8gICAgIHByb3RlY3RlZCBib29sZWFuIG9uQWNjZXNzRGVuaWVkKFNlcnZsZXRSZXF1ZXN0IHJlcXVlc3QsIFNlcnZsZXRSZXNwb25zZSByZXNwb25zZSkgdGhyb3dzIEV4Y2VwdGlvbiB7Ci8vICAgICAgICAgcmV0dXJuIGV4ZWN1dGVMb2dpbihyZXF1ZXN0LCByZXNwb25zZSk7Ci8vICAgICB9Ci8vCi8vICAgICBAT3ZlcnJpZGUKLy8gICAgIHByb3RlY3RlZCBib29sZWFuIG9uTG9naW5TdWNjZXNzKEF1dGhlbnRpY2F0aW9uVG9rZW4gdG9rZW4sIFN1YmplY3Qgc3ViamVjdCwgU2VydmxldFJlcXVlc3QgcmVxdWVzdCwKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFNlcnZsZXRSZXNwb25zZSByZXNwb25zZSkgdGhyb3dzIEV4Y2VwdGlvbiB7Ci8vICAgICAgICAgcmV0dXJuIHRydWU7Ci8vICAgICB9Ci8vCi8vICAgICBAT3ZlcnJpZGUKLy8gICAgIHByb3RlY3RlZCBib29sZWFuIG9uTG9naW5GYWlsdXJlKEF1dGhlbnRpY2F0aW9uVG9rZW4gdG9rZW4sIEF1dGhlbnRpY2F0aW9uRXhjZXB0aW9uIGFlLCBTZXJ2bGV0UmVxdWVzdCByZXF1ZXN0LAovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgU2VydmxldFJlc3BvbnNlIHJlc3BvbnNlKSB7Ci8vICAgICAgICAgSHR0cFNlcnZsZXRSZXNwb25zZSBzZXJ2bGV0UmVzcG9uc2UgPSAoSHR0cFNlcnZsZXRSZXNwb25zZSkgcmVzcG9uc2U7Ci8vICAgICAgICAgSlNPTk9iamVjdCBqc29uT2JqZWN0ID0gbmV3IEpTT05PYmplY3QoKTsKLy8gICAgICAgICBqc29uT2JqZWN0LnB1dCgiY29kZSIsIEh0dHBTZXJ2bGV0UmVzcG9uc2UuU0NfVU5BVVRIT1JJWkVEKTsKLy8gICAgICAgICBqc29uT2JqZWN0LnB1dCgibXNnIiwi55m75b2V5aSx6LSl77yM5peg5p2D6K6/6ZeuIik7Ci8vICAgICAgICAganNvbk9iamVjdC5wdXQoImRhdGEiLCBudWxsKTsKLy8gICAgICAgICB0cnkgewovLyAgICAgICAgICAgICBzZXJ2bGV0UmVzcG9uc2Uuc2V0Q2hhcmFjdGVyRW5jb2RpbmcoIlVURi04Iik7Ci8vICAgICAgICAgICAgIHNlcnZsZXRSZXNwb25zZS5zZXRDb250ZW50VHlwZSgiYXBwbGljYXRpb24vanNvbjtjaGFyc2V0PVVURi04Iik7Ci8vICAgICAgICAgICAgIHNlcnZsZXRSZXNwb25zZS5zZXRIZWFkZXIoIkFjY2Vzcy1Db250cm9sLUFsbG93LU9yaWdpbiIsIioiKTsKLy8gICAgICAgICAgICAgT2JqZWN0TWFwcGVyIG9iamVjdE1hcHBlciA9IG5ldyBPYmplY3RNYXBwZXIoKTsKLy8gICAgICAgICAgICByZXNwb25zZS5nZXRXcml0ZXIoKS53cml0ZShvYmplY3RNYXBwZXIud3JpdGVWYWx1ZUFzU3RyaW5nKGpzb25PYmplY3QpKTsKLy8gICAgICAgIH0gY2F0Y2ggKElPRXhjZXB0aW9uIGUpIHsKLy8gICAgICAgIH0KLy8gICAgICAgIHJldHVybiBmYWxzZTsKLy8gICAgfQovL30K</text>
+      </register>
+      <register name="4" type="8">
         <text>//
 //
 //
@@ -2040,29 +1971,20 @@
 //
 //</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDorr/pl640MDHlkow0MDTpobXpnaLkuI3pgJrov4fmiJHku6znmoRGaWx0ZXIKICAgICAgICBmaWx0ZXJDaGFpbkRlZmluaXRpb25NYXAucHV0KCIvNDAxIiwgImFub24iKTsKICAgICAgICBmaWx0ZXJDaGFpbkRlZmluaXRpb25NYXAucHV0KCIvNDA0IiwgImFub24iKTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDlhYHorrjnlKjmiLfljL/lkI3orr/pl64vbG9naW4o55m75b2V5o6l5Y+jKQogICAgICAgIGZpbHRlckNoYWluRGVmaW5pdGlvbk1hcC5wdXQoIi9sb2dpbiIsICJhbm9uIik7Cg==</text>
-      </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDmi6bmiKrlmagKICAgICAgICBNYXA8U3RyaW5nLCBTdHJpbmc+IGZpbHRlckNoYWluRGVmaW5pdGlvbk1hcCA9IG5ldyBMaW5rZWRIYXNoTWFwPD4oKTsKCiAgICAgICAgLy8g5YW25LuW55qECiAgICAgICAgZmlsdGVyQ2hhaW5EZWZpbml0aW9uTWFwLnB1dCgiLyoqIiwgImp3dCIpOwoKICAgICAgICAvLyDorr/pl640MDHlkow0MDTpobXpnaLkuI3pgJrov4fmiJHku6znmoRGaWx0ZXIKICAgICAgICBmaWx0ZXJDaGFpbkRlZmluaXRpb25NYXAucHV0KCIvNDAxIiwgImFub24iKTsKICAgICAgICBmaWx0ZXJDaGFpbkRlZmluaXRpb25NYXAucHV0KCIvNDA0IiwgImFub24iKTsKCiAgICAgICAgc2hpcm9GaWx0ZXJGYWN0b3J5QmVhbi5zZXRGaWx0ZXJDaGFpbkRlZmluaXRpb25NYXAoZmlsdGVyQ2hhaW5EZWZpbml0aW9uTWFwKTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyDorr/pl640MDHlkow0MDTpobXpnaLkuI3pgJrov4fmiJHku6znmoRGaWx0ZXIKICAgICAgICBmaWx0ZXJDaGFpbkRlZmluaXRpb25NYXAucHV0KCIvNDAxIiwgImFub24iKTsKICAgICAgICBmaWx0ZXJDaGFpbkRlZmluaXRpb25NYXAucHV0KCIvNDA0IiwgImFub24iKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzaGlyb0ZpbHRlckZhY3RvcnlCZWFuLnNldFVuYXV0aG9yaXplZFVybCgiLzQwMSIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyDlhYHorrjnlKjmiLfljL/lkI3orr/pl64vbG9naW4o55m75b2V5o6l5Y+jKQogICAgICAgIGZpbHRlckNoYWluRGVmaW5pdGlvbk1hcC5wdXQoIi9sb2dpbiIsICJhbm9uIik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5idWlsZCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC50b2tlbih0b2tlbikK</text>
+        <text encoding="base64">ICAgICAgICAvLyDmi6bmiKrlmagKICAgICAgICBNYXA8U3RyaW5nLCBTdHJpbmc+IGZpbHRlckNoYWluRGVmaW5pdGlvbk1hcCA9IG5ldyBMaW5rZWRIYXNoTWFwPD4oKTsKCiAgICAgICAgLy8g5YW25LuW55qECiAgICAgICAgZmlsdGVyQ2hhaW5EZWZpbml0aW9uTWFwLnB1dCgiLyoqIiwgImp3dCIpOwoKICAgICAgICAvLyDorr/pl640MDHlkow0MDTpobXpnaLkuI3pgJrov4fmiJHku6znmoRGaWx0ZXIKICAgICAgICBmaWx0ZXJDaGFpbkRlZmluaXRpb25NYXAucHV0KCIvNDAxIiwgImFub24iKTsKICAgICAgICBmaWx0ZXJDaGFpbkRlZmluaXRpb25NYXAucHV0KCIvNDA0IiwgImFub24iKTsKCiAgICAgICAgc2hpcm9GaWx0ZXJGYWN0b3J5QmVhbi5zZXRGaWx0ZXJDaGFpbkRlZmluaXRpb25NYXAoZmlsdGVyQ2hhaW5EZWZpbml0aW9uTWFwKTsK</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
