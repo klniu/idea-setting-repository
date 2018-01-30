@@ -191,12 +191,12 @@
         <mark key="." line="59" column="4" />
         <mark key="^" line="59" column="4" />
       </file>
-      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/config/ShiroConfig.java" timestamp="1517275353272">
+      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/config/ShiroConfig.java" timestamp="1517279739793">
         <mark key="'" line="31" column="48" />
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="52" />
-        <mark key="." line="55" column="29" />
-        <mark key="^" line="55" column="29" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+        <mark key="^" line="54" column="29" />
       </file>
       <file name="$USER_HOME$/sync/code/java/xiaoyi/src/main/java/com/klniu/xiaoyi/WebChatSocketPutter.java" timestamp="1486034777184">
         <mark key="[" line="91" column="41" />
@@ -384,12 +384,12 @@
         <mark key="^" line="29" column="46" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/shiro/JWTFilter.java" timestamp="1517276737793">
-        <mark key="'" line="24" column="0" />
-        <mark key="[" line="69" column="23" />
-        <mark key="]" line="69" column="22" />
-        <mark key="^" line="69" column="22" />
-        <mark key="." line="69" column="22" />
+      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/shiro/JWTFilter.java" timestamp="1517281348182">
+        <mark key="'" line="97" column="48" />
+        <mark key="[" line="76" column="35" />
+        <mark key="]" line="76" column="35" />
+        <mark key="^" line="76" column="34" />
+        <mark key="." line="76" column="35" />
       </file>
       <file name="F:/code/java/mpgenerator/src/main/java/MysqlGenerator.java" timestamp="1515029832356">
         <mark key="[" line="7" column="7" />
@@ -1636,11 +1636,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="19" filename="/Dummy.txt" />
-      <jump line="19" column="17" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/web/LdarStateSettingController.java" />
-      <jump line="35" column="8" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/web/LdarStateSettingController.java" />
-      <jump line="25" column="4" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/web/LdarStateSettingController.java" />
-      <jump line="33" column="21" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/web/LdarStateSettingControllerTest.java" />
       <jump line="56" column="8" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/web/LdarStateSettingControllerTest.java" />
       <jump line="40" column="27" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/web/LdarStateSettingControllerTest.java" />
       <jump line="41" column="27" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/web/LdarStateSettingControllerTest.java" />
@@ -1736,6 +1731,11 @@
       <jump line="32" column="48" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/config/ShiroConfig.java" />
       <jump line="60" column="23" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/shiro/MyRealm.java" />
       <jump line="28" column="25" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/shiro/JWTUtil.java" />
+      <jump line="54" column="22" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/shiro/JWTFilter.java" />
+      <jump line="16" column="0" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/shiro/JWTFilter.java" />
+      <jump line="5" column="0" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/shiro/JWTFilter.java" />
+      <jump line="89" column="0" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/shiro/JWTFilter.java" />
+      <jump line="94" column="48" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/shiro/JWTFilter.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1758,8 +1758,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBmaWx0ZXJDaGFpbkRlZmluaXRpb25NYXAucHV0KCIvNDAxIiwgImFub24iKTsK</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -1866,58 +1866,56 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>SUCCESS</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwcmVIYW5kbGVcPg==</text>
+        <text>jwtutil</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIEBQb3N0TWFwcGluZygiL2xvZ2luIikKICAgIHB1YmxpYyBSZXN1bHQgbG9naW4oQFJlcXVlc3RQYXJhbSgidXNlcm5hbWUiKSBTdHJpbmcgdXNlcm5hbWUsCiAgICAgICAgICAgICAgICAgICAgICAgIEBSZXF1ZXN0UGFyYW0oInBhc3N3b3JkIikgU3RyaW5nIHBhc3N3b3JkKSB7CiAgICAgICAgVXNlciB1c2VyID0gaVVzZXJTZXJ2aWNlLmdldEJ5VXNlck5hbWUodXNlcm5hbWUpOwogICAgICAgIGlmICh1c2VyICE9IG51bGwgJiYgQkNyeXB0LmNoZWNrcHcocGFzc3dvcmQsIHVzZXIuZ2V0UGFzc3dvcmQoKSkpIHsKICAgICAgICAgICAgU3RyaW5nIHRva2VuID0gSldUVXRpbC5zaWduKHVzZXJuYW1lLCB1c2VyLmdldFBhc3N3b3JkKCkpOwogICAgICAgICAgICAvLyBwYWTnlKjmiLcKICAgICAgICAgICAgaWYgKHVzZXIuZ2V0VXNlclR5cGUoKSA9PSBVc2VyVHlwZS5QYWQpIHsKICAgICAgICAgICAgICAgIFN0cmluZyBzaGEyNTZoZXggPSBEaWdlc3RVdGlscy5zaGEyNTZIZXgodXNlci5nZXRTZWNyZXRLZXkoKSsKICAgICAgICAgICAgICAgICAgICAgICAgRGF0ZUZvcm1hdFV0aWxzLmZvcm1hdChuZXcgRGF0ZSgpLCAieXl5eS1NTS1kZCBISDptbSIpKTsKICAgICAgICAgICAgICAgIEhhc2hNYXA8U3RyaW5nLCBTdHJpbmc+IHJlc3VsdCA9IG5ldyBIYXNoTWFwPD4oKTsKICAgICAgICAgICAgICAgIHJlc3VsdC5wdXQoInRva2VuIiwgdG9rZW4pOwogICAgICAgICAgICAgICAgcmVzdWx0LnB1dCgiaWRlbnRpZmljYXRpb24iLCBzaGEyNTZoZXgpOwogICAgICAgICAgICAgICAgcmV0dXJuIG5ldyBSZXN1bHQoMCwgIueZu+mZhuaIkOWKnyIsIHJlc3VsdCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICByZXR1cm4gbmV3IFJlc3VsdDw+KDAsICLnmbvpmYbmiJDlip8iLCB0b2tlbik7CiAgICAgICAgICAgIH0KICAgICAgICB9IGVsc2UgewogICAgICAgICAgICB0aHJvdyBuZXcgVW5hdXRob3JpemVkRXhjZXB0aW9uKCk7CiAgICAgICAgfQogICAgfQo=</text>
+      <register name="0" type="4">
+        <text>Authorization</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5idWlsZCgpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFVuYXV0aG9yaXplZEV4Y2VwdGlvbigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC50b2tlbih0b2tlbikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuc2hpcm8ud2ViLnNlcnZsZXQuQ29va2llOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBzaGlyb0ZpbHRlckZhY3RvcnlCZWFuLnNldFVuYXV0aG9yaXplZFVybCgiLzQwMSIpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBuZXcgUmVzdWx0PD4oMCwgIueZu+mZhuaIkOWKnyIsIHRva2VuKTsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFVuYXV0aG9yaXplZEV4Y2VwdGlvbigpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBuZXcgUmVzdWx0KDAsICLnmbvpmYbmiJDlip8iLCByZXN1bHQpOwo=</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3VsdC5wdXQoImlkZW50aWZpY2F0aW9uIiwgc2hhMjU2aGV4KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3VsdC5wdXQoInRva2VuIiwgdG9rZW4pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBuZXcgUmVzdWx0PD4oMCwgIueZu+mZhuaIkOWKnyIsIHRva2VuKTsK</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwcmVIYW5kbGVcPg==</last-search>
+      <last-search>jwtutil</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwcmVIYW5kbGVcPg==</last-pattern>
+      <last-pattern>jwtutil</last-pattern>
       <last-replace>connector</last-replace>
       <last-substitute>joint</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>asdfasdf</entry>
-        <entry>new Object()</entry>
         <entry>Institution</entry>
         <entry>institution</entry>
         <entry>adsfas</entry>
@@ -1936,6 +1934,8 @@
         <entry>joint</entry>
         <entry>media</entry>
         <entry encoding="base64">XDxwcmVIYW5kbGVcPg==</entry>
+        <entry encoding="base64">XDxpc0FjY2Vzc0FsbG93ZWRcPg==</entry>
+        <entry>jwtutil</entry>
       </history-search>
       <history-cmd>
         <entry>%s/new Object()/null/gc</entry>
