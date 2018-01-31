@@ -656,11 +656,11 @@
         <mark key="^" line="5" column="44" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="D:/code/web/voc-web/src/common/router.js" timestamp="1517364586630">
+      <file name="D:/code/web/voc-web/src/common/router.js" timestamp="1517367996859">
         <mark key="[" line="76" column="21" />
-        <mark key="]" line="76" column="20" />
-        <mark key="^" line="76" column="20" />
-        <mark key="." line="76" column="20" />
+        <mark key="]" line="76" column="38" />
+        <mark key="^" line="76" column="38" />
+        <mark key="." line="76" column="38" />
       </file>
       <file name="$USER_HOME$/sync/code/go/src/minger/client/main.go" timestamp="1489576077309">
         <mark key="[" line="8" column="9" />
@@ -685,6 +685,9 @@
         <mark key="]" line="9" column="4" />
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="D:/code/web/voc-web/src/models/login.js" timestamp="1517368500186">
+        <mark key="'" line="21" column="19" />
       </file>
       <file name="$USER_HOME$/code/java/mpgenerator/src/main/resources/Mybatis-Plus.properties" timestamp="1508761285175">
         <mark key="[" line="29" column="24" />
@@ -1650,8 +1653,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="8" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/web/LdarStandardController.java" />
-      <jump line="31" column="3" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/web/FactoryController.java" />
       <jump line="25" column="7" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/LdarStandardServiceImplTest.java" />
       <jump line="230" column="15" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
       <jump line="19" column="22" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/LdarStandardServiceImplTest.java" />
@@ -1750,6 +1751,8 @@
       <jump line="87" column="2" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/shiro/JWTFilter.java" />
       <jump line="166" column="0" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/shiro/JWTFilter.java" />
       <jump line="25" column="0" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/shiro/JWTFilter.java" />
+      <jump line="14" column="37" filename="D:/code/web/voc-web/src/models/login.js" />
+      <jump line="21" column="19" filename="D:/code/web/voc-web/src/models/login.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
