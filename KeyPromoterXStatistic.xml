@@ -22,7 +22,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>28</Count>
+          <Count>30</Count>
         </Item>
       </Statistic>
       <Statistic Action="Convert Java File to Kotlin File">
@@ -70,7 +70,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'ComponentControllerTest.uploadFromPad'</Description>
-          <Count>3</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'ComponentServiceImplTest'">
@@ -198,7 +198,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'Delete'</ShortCut>
           <Description>Delete...</Description>
-          <Count>33</Count>
+          <Count>37</Count>
         </Item>
       </Statistic>
       <Statistic Action="Drop">
@@ -231,6 +231,14 @@
           <ShortCut>'Ctrl+Shift+F'</ShortCut>
           <Description>Find in Path...</Description>
           <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Find...">
+        <Item>
+          <IdeaActionID>Find</IdeaActionID>
+          <ShortCut>'Ctrl+F' or 'Alt+F3'</ShortCut>
+          <Description>Find...</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -286,7 +294,7 @@
           <IdeaActionID>Vcs.Push</IdeaActionID>
           <ShortCut>'Ctrl+Shift+K'</ShortCut>
           <Description>Push...</Description>
-          <Count>3</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remove Module">
@@ -310,7 +318,7 @@
           <IdeaActionID>ReplaceInPath</IdeaActionID>
           <ShortCut>'Ctrl+Shift+R'</ShortCut>
           <Description>Replace in Path...</Description>
-          <Count>10</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Replace...">
@@ -318,7 +326,7 @@
           <IdeaActionID>Replace</IdeaActionID>
           <ShortCut>'Ctrl+R'</ShortCut>
           <Description>Replace...</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'FunctionTest.validMsgHandler'">
@@ -334,7 +342,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'VocApplication'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -350,6 +358,14 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Application'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'ComponentControllerTest.getByFactoryId'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'ComponentControllerTest.getByFactoryId'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -726,7 +742,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'voc [test]'</Description>
-          <Count>23</Count>
+          <Count>24</Count>
         </Item>
       </Statistic>
       <Statistic Action="Terminal">
@@ -742,7 +758,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>66</Count>
+          <Count>69</Count>
         </Item>
       </Statistic>
     </option>
