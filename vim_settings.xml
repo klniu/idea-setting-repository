@@ -776,7 +776,7 @@
         <mark key="." line="65" column="13" />
         <mark key="^" line="65" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517391167649">
+      <file name="/Dummy.txt" timestamp="1517452573275">
         <mark key="'" line="0" column="19" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -1073,8 +1073,10 @@
         <mark key="^" line="39" column="69" />
         <mark key="." line="50" column="0" />
       </file>
-      <file name="D:/code/web/ant-design-pro/src/components/Login/index.js" timestamp="1517447354387">
+      <file name="D:/code/web/ant-design-pro/src/components/Login/index.js" timestamp="1517453402680">
         <mark key="'" line="19" column="4" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="14" />
       </file>
       <file name="$USER_HOME$/sync/code/go/src/minger/server/main.go" timestamp="1489576060949">
         <mark key="[" line="4" column="10" />
@@ -1208,11 +1210,11 @@
         <mark key="." line="9" column="28" />
         <mark key="^" line="9" column="35" />
       </file>
-      <file name="D:/code/web/voc-web/src/components/Login/index.js" timestamp="1517447028632">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
-        <mark key="^" line="48" column="18" />
+      <file name="D:/code/web/voc-web/src/components/Login/index.js" timestamp="1517453793142">
+        <mark key="[" line="55" column="19" />
+        <mark key="]" line="55" column="20" />
+        <mark key="." line="55" column="20" />
+        <mark key="^" line="55" column="13" />
       </file>
       <file name="$USER_HOME$/workdir/vocs-react/src/entry/test.ts" timestamp="1489232689652">
         <mark key="[" line="5" column="45" />
@@ -1448,10 +1450,10 @@
         <mark key="^" line="3" column="10" />
         <mark key="." line="3" column="10" />
       </file>
-      <file name="D:/code/web/voc-web/src/components/Login/LoginItem.js" timestamp="1517449356298">
+      <file name="D:/code/web/voc-web/src/components/Login/LoginItem.js" timestamp="1517452571116">
         <mark key="'" line="20" column="28" />
-        <mark key="[" line="20" column="31" />
-        <mark key="]" line="20" column="31" />
+        <mark key="[" line="20" column="25" />
+        <mark key="]" line="20" column="36" />
         <mark key="." line="20" column="31" />
         <mark key="^" line="20" column="31" />
       </file>
@@ -1794,8 +1796,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="0" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/common/Project.java" />
-      <jump line="260" column="30" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
       <jump line="267" column="2" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
       <jump line="268" column="2" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
       <jump line="269" column="2" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
@@ -1894,6 +1894,8 @@
       <jump line="19" column="4" filename="D:/code/web/ant-design-pro/src/components/Login/index.js" />
       <jump line="17" column="28" filename="D:/code/web/voc-web/src/components/Login/LoginItem.js" />
       <jump line="14" column="8" filename="D:/code/web/ant-design-pro/src/components/Login/LoginItem.js" />
+      <jump line="47" column="39" filename="D:/code/web/voc-web/src/components/Login/index.js" />
+      <jump line="46" column="10" filename="D:/code/web/voc-web/src/components/Login/index.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1916,8 +1918,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>...</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2024,7 +2026,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LCBCdXR0b24sIFJvdywgQ29sIA==</text>
+        <text>...</text>
       </register>
       <register name="/" type="4">
         <text>count</text>
@@ -2033,31 +2035,31 @@
         <text encoding="base64">ICAnUE9TVCAvKC4qKSc6ICdodHRwOi8vMTI3LjAuMC4xOjkwOTAvJywK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGFjdGl2ZUZpbGVkcyA9IGFjdGl2ZVt0eXBlXTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Owo=</text>
+        <text encoding="base64">ICAgICAgICBhY3RpdmUgPSB0aGlzLnN0YXRlOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvdW50OiAwLAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnN0YXRlID0gewo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodHlwZSA9PT0gJ0NhcHRjaGEnKSB7CiAgICAgICAgICByZXR1cm4gKAogICAgICAgICAgICA8Rm9ybUl0ZW0+CiAgICAgICAgICAgICAgPFJvdyBndXR0ZXI9ezh9PgogICAgICAgICAgICAgICAgPENvbCBzcGFuPXsxNn0+CiAgICAgICAgICAgICAgICAgIHtnZXRGaWVsZERlY29yYXRvcihuYW1lLCBvcHRpb25zKSgKICAgICAgICAgICAgICAgICAgICA8V3JhcHBlZENvbXBvbmVudCB7Li4uZGVmYXVsdFByb3BzfSB7Li4ub3RoZXJQcm9wc30gLz4KICAgICAgICAgICAgICAgICAgKX0KICAgICAgICAgICAgICAgIDwvQ29sPgogICAgICAgICAgICAgIDwvUm93PgogICAgICAgICAgICA8L0Zvcm1JdGVtPgogICAgICAgICAgKTsKICAgICAgICB9Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG9taXQgZnJvbSAnb21pdC5qcyc7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHt0eXBlfSA9IHRoaXMuc3RhdGU7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgIGFjdGl2ZSA9IFthY3RpdmVJdGVtXTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoYWN0aXZlKSB7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IGFjdGl2ZUZpbGVkcyA9IGFjdGl2ZVt0eXBlXTsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgdGFiVXRpbDogewogICAgICAgIGFkZFRhYjogKGlkKSA9PiB7CiAgICAgICAgICB0aGlzLnNldFN0YXRlKHsKICAgICAgICAgICAgdGFiczogWy4uLnRoaXMuc3RhdGUudGFicywgaWRdLAogICAgICAgICAgfSk7CiAgICAgICAgfSwKICAgICAgICByZW1vdmVUYWI6IChpZCkgPT4gewogICAgICAgICAgdGhpcy5zZXRTdGF0ZSh7CiAgICAgICAgICAgIHRhYnM6IHRoaXMuc3RhdGUudGFicy5maWx0ZXIoY3VycmVudElkID0+IGN1cnJlbnRJZCAhPT0gaWQpLAogICAgICAgICAgfSk7CiAgICAgICAgfSwKICAgICAgfSwK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
