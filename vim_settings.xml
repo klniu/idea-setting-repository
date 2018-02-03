@@ -874,12 +874,11 @@
         <mark key="^" line="16" column="44" />
         <mark key="." line="16" column="44" />
       </file>
-      <file name="D:/code/web/voc-web/src/services/api.js" timestamp="1517647666905">
+      <file name="D:/code/web/voc-web/src/services/api.js" timestamp="1517651581794">
         <mark key="'" line="68" column="13" />
-        <mark key="[" line="68" column="19" />
-        <mark key="]" line="68" column="19" />
-        <mark key="." line="68" column="19" />
-        <mark key="^" line="68" column="22" />
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
       </file>
       <file name="D:/code/python/utils/office/merge_pdfs.py" timestamp="1513152015114">
         <mark key="[" line="45" column="11" />
@@ -2018,8 +2017,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgb3JpZ2luOiAiIiwK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2126,7 +2125,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>res</text>
@@ -2135,31 +2134,31 @@
         <text>multipart/form-data</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHYpCg==</text>
+        <text encoding="base64">ICAgICAgb3JpZ2luOiAiIiwK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHYpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgdHlwZSB9ID0gdGhpcy5zdGF0ZTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHYpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHR5cGUsCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgdHlwZSB9ID0gdGhpcy5zdGF0ZTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwYQo=</text>
+        <text encoding="base64">ICAgICAgICAgIHR5cGUsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhwYXJhbXMpCg==</text>
+        <text encoding="base64">ICBwYQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhuZXdkZE9wdGlvbnMpCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhwYXJhbXMpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhuZXdkZE9wdGlvbnMpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0eXBlOiAnYWNjb3VudCcsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>action PreviousTab</text>
