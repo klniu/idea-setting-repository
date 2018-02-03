@@ -409,10 +409,10 @@
         <mark key="." line="1" column="19" />
         <mark key="^" line="1" column="19" />
       </file>
-      <file name="D:/code/web/voc-web/src/routes/User/Login.js" timestamp="1517632208819">
+      <file name="D:/code/web/voc-web/src/routes/User/Login.js" timestamp="1517635924855">
         <mark key="'" line="26" column="33" />
         <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="18" />
+        <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/sync/code/go/src/ldar/monitorstate_test.go" timestamp="1476255374926">
@@ -793,8 +793,8 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="D:/code/web/voc-web/src/models/login.js" timestamp="1517631566156">
-        <mark key="'" line="15" column="42" />
+      <file name="D:/code/web/voc-web/src/models/login.js" timestamp="1517636381466">
+        <mark key="'" line="15" column="41" />
         <mark key="[" line="53" column="27" />
         <mark key="]" line="54" column="24" />
         <mark key="." line="54" column="24" />
@@ -874,12 +874,12 @@
         <mark key="^" line="16" column="44" />
         <mark key="." line="16" column="44" />
       </file>
-      <file name="D:/code/web/voc-web/src/services/api.js" timestamp="1517634403506">
+      <file name="D:/code/web/voc-web/src/services/api.js" timestamp="1517636354067">
         <mark key="'" line="68" column="13" />
-        <mark key="[" line="73" column="23" />
-        <mark key="]" line="73" column="42" />
-        <mark key="." line="73" column="23" />
-        <mark key="^" line="72" column="7" />
+        <mark key="[" line="68" column="19" />
+        <mark key="]" line="68" column="22" />
+        <mark key="." line="68" column="22" />
+        <mark key="^" line="68" column="22" />
       </file>
       <file name="D:/code/python/utils/office/merge_pdfs.py" timestamp="1513152015114">
         <mark key="[" line="45" column="11" />
@@ -923,12 +923,12 @@
         <mark key="." line="4" column="20" />
         <mark key="^" line="4" column="21" />
       </file>
-      <file name="D:/code/web/voc-web/.roadhogrc.mock.js" timestamp="1517634583263">
+      <file name="D:/code/web/voc-web/.roadhogrc.mock.js" timestamp="1517636404496">
         <mark key="'" line="138" column="13" />
-        <mark key="[" line="139" column="14" />
-        <mark key="]" line="139" column="38" />
-        <mark key="." line="139" column="38" />
-        <mark key="^" line="139" column="38" />
+        <mark key="[" line="135" column="44" />
+        <mark key="]" line="135" column="43" />
+        <mark key="." line="135" column="43" />
+        <mark key="^" line="135" column="43" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/untitled/src/Test.java" timestamp="1472951202493">
         <mark key="[" line="4" column="23" />
@@ -1896,7 +1896,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="417" column="2" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
       <jump line="0" column="0" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
       <jump line="91" column="11" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
       <jump line="43" column="27" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/entity/LdarStateSetting.java" />
@@ -1996,6 +1995,7 @@
       <jump line="69" column="13" filename="D:/code/web/voc-web/src/services/api.js" />
       <jump line="79" column="5" filename="D:/code/web/voc-web/src/common/router.js" />
       <jump line="25" column="33" filename="D:/code/web/voc-web/src/routes/User/Login.js" />
+      <jump line="15" column="41" filename="D:/code/web/voc-web/src/models/login.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2019,7 +2019,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>start:no-proxy</text>
+        <text>/',</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2126,7 +2126,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>application/x-www-form-urlencoded; charset=utf-8</text>
+        <text>/',</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
@@ -2138,28 +2138,28 @@
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHYpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgdHlwZSB9ID0gdGhpcy5zdGF0ZTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHYpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHR5cGUsCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgdHlwZSB9ID0gdGhpcy5zdGF0ZTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwYQo=</text>
+        <text encoding="base64">ICAgICAgICAgIHR5cGUsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhwYXJhbXMpCg==</text>
+        <text encoding="base64">ICBwYQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhuZXdkZE9wdGlvbnMpCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhwYXJhbXMpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhuZXdkZE9wdGlvbnMpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0eXBlOiAnYWNjb3VudCcsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgJ0NvbnRlbnQtVHlwZSc6ICdtdWx0aXBhcnQvZm9ybS1kYXRhJwo=</text>
+        <text encoding="base64">ICAgICAgICB0eXBlOiAnYWNjb3VudCcsCg==</text>
       </register>
       <register name=":" type="4">
         <text>action PreviousTab</text>
