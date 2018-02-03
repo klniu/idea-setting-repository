@@ -874,11 +874,12 @@
         <mark key="^" line="16" column="44" />
         <mark key="." line="16" column="44" />
       </file>
-      <file name="D:/code/web/voc-web/src/services/api.js" timestamp="1517651581794">
+      <file name="D:/code/web/voc-web/src/services/api.js" timestamp="1517653388702">
         <mark key="'" line="68" column="13" />
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="." line="72" column="0" />
+        <mark key="[" line="73" column="6" />
+        <mark key="]" line="73" column="7" />
+        <mark key="." line="73" column="7" />
+        <mark key="^" line="73" column="7" />
       </file>
       <file name="D:/code/python/utils/office/merge_pdfs.py" timestamp="1513152015114">
         <mark key="[" line="45" column="11" />
@@ -1700,11 +1701,12 @@
         <mark key="." line="121" column="75" />
         <mark key="^" line="121" column="75" />
       </file>
-      <file name="D:/code/web/voc-web/src/utils/request.js" timestamp="1517634401715">
-        <mark key="'" line="71" column="12" />
-        <mark key="[" line="62" column="62" />
-        <mark key="]" line="62" column="80" />
-        <mark key="." line="70" column="0" />
+      <file name="D:/code/web/voc-web/src/utils/request.js" timestamp="1517653712396">
+        <mark key="'" line="60" column="32" />
+        <mark key="[" line="63" column="37" />
+        <mark key="]" line="63" column="52" />
+        <mark key="." line="63" column="52" />
+        <mark key="^" line="63" column="52" />
       </file>
       <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/entity/Component.java" timestamp="1516244976148">
         <mark key="[" line="82" column="25" />
@@ -1823,7 +1825,8 @@
         <mark key="." line="12" column="4" />
         <mark key="^" line="12" column="4" />
       </file>
-      <file name="D:/code/web/voc-web/package.json" timestamp="1517634636871">
+      <file name="D:/code/web/voc-web/package.json" timestamp="1517653650954">
+        <mark key="'" line="8" column="5" />
         <mark key="[" line="8" column="5" />
         <mark key="]" line="8" column="18" />
       </file>
@@ -1895,10 +1898,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="123" column="0" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/common/Function.java" />
-      <jump line="151" column="0" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/common/Function.java" />
-      <jump line="166" column="74" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/common/Function.java" />
-      <jump line="38" column="52" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/ComponentServiceImpl.java" />
       <jump line="52" column="4" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/SealServiceImplTest.java" />
       <jump line="92" column="27" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/SealServiceImplTest.java" />
       <jump line="113" column="8" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/SealServiceImplTest.java" />
@@ -1976,7 +1975,6 @@
       <jump line="14" column="42" filename="D:/code/web/voc-web/src/models/login.js" />
       <jump line="70" column="1" filename="D:/code/web/voc-web/src/services/api.js" />
       <jump line="1" column="32" filename="D:/code/web/voc-web/src/services/api.js" />
-      <jump line="59" column="12" filename="D:/code/web/voc-web/src/utils/request.js" />
       <jump line="0" column="0" filename="D:/code/web/voc-web/mock/api.js" />
       <jump line="246" column="5" filename="D:/code/web/voc-web/mock/api.js" />
       <jump line="7" column="11" filename="D:/code/web/voc-web/src/services/user.js" />
@@ -1995,6 +1993,11 @@
       <jump line="36" column="7" filename="D:/code/web/voc-web/.roadhogrc.mock.js" />
       <jump line="41" column="7" filename="D:/code/web/voc-web/.roadhogrc.mock.js" />
       <jump line="46" column="7" filename="D:/code/web/voc-web/.roadhogrc.mock.js" />
+      <jump line="68" column="13" filename="D:/code/web/voc-web/src/services/api.js" />
+      <jump line="71" column="12" filename="D:/code/web/voc-web/src/utils/request.js" />
+      <jump line="0" column="7" filename="D:/code/web/voc-web/src/utils/request.js" />
+      <jump line="8" column="5" filename="D:/code/web/voc-web/package.json" />
+      <jump line="59" column="32" filename="D:/code/web/voc-web/src/utils/request.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2017,8 +2020,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgb3JpZ2luOiAiIiwK</text>
+      <register name="&quot;" type="4">
+        <text>}</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2125,49 +2128,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
-        <text>res</text>
+        <text>qs</text>
       </register>
-      <register name="0" type="4">
-        <text>multipart/form-data</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cobmV3T3B0aW9ucy5ib2R5KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgb3JpZ2luOiAiIiwK</text>
+        <text encoding="base64">dmFyIHFzID0gcmVxdWlyZSgncXMnKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHYpCg==</text>
+        <text encoding="base64">ICAgICAgb3JpZ2luOiAiIiwK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHYpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgdHlwZSB9ID0gdGhpcy5zdGF0ZTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHYpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHR5cGUsCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgdHlwZSB9ID0gdGhpcy5zdGF0ZTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwYQo=</text>
+        <text encoding="base64">ICAgICAgICAgIHR5cGUsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhwYXJhbXMpCg==</text>
+        <text encoding="base64">ICBwYQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhuZXdkZE9wdGlvbnMpCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhwYXJhbXMpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhuZXdkZE9wdGlvbnMpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action PreviousTab</text>
+        <text>action NextTab</text>
       </register>
     </registers>
     <search>
-      <last-search>res</last-search>
+      <last-search>qs</last-search>
       <last-offset />
-      <last-pattern>res</last-pattern>
+      <last-pattern>qs</last-pattern>
       <last-replace>connector</last-replace>
       <last-substitute>joint</last-substitute>
       <last-dir>1</last-dir>
@@ -2175,7 +2178,6 @@
     </search>
     <history>
       <history-search>
-        <entry>bui</entry>
         <entry>adfasf</entry>
         <entry>UNIQUE</entry>
         <entry>LdarStandard</entry>
@@ -2195,6 +2197,7 @@
         <entry encoding="base64">XDxzdWJtaXR0aW5nXD4=</entry>
         <entry>console</entry>
         <entry>res</entry>
+        <entry>qs</entry>
       </history-search>
       <history-cmd>
         <entry>action AceAction</entry>
@@ -2215,8 +2218,8 @@
         <entry>q</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUHJldmlvdXNUYWI=</entry>
         <entry>action ReformatCode</entry>
-        <entry>action NextTab</entry>
         <entry>action PreviousTab</entry>
+        <entry>action NextTab</entry>
       </history-cmd>
       <history-expr />
       <history-input />
