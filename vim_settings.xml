@@ -874,11 +874,12 @@
         <mark key="^" line="16" column="44" />
         <mark key="." line="16" column="44" />
       </file>
-      <file name="D:/code/web/voc-web/src/services/api.js" timestamp="1517631667398">
+      <file name="D:/code/web/voc-web/src/services/api.js" timestamp="1517634403506">
         <mark key="'" line="68" column="13" />
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="." line="68" column="0" />
+        <mark key="[" line="73" column="23" />
+        <mark key="]" line="73" column="42" />
+        <mark key="." line="73" column="23" />
+        <mark key="^" line="72" column="7" />
       </file>
       <file name="D:/code/python/utils/office/merge_pdfs.py" timestamp="1513152015114">
         <mark key="[" line="45" column="11" />
@@ -922,12 +923,12 @@
         <mark key="." line="4" column="20" />
         <mark key="^" line="4" column="21" />
       </file>
-      <file name="D:/code/web/voc-web/.roadhogrc.mock.js" timestamp="1517632571899">
+      <file name="D:/code/web/voc-web/.roadhogrc.mock.js" timestamp="1517634583263">
         <mark key="'" line="138" column="13" />
-        <mark key="[" line="135" column="40" />
-        <mark key="]" line="135" column="40" />
-        <mark key="." line="135" column="40" />
-        <mark key="^" line="135" column="6" />
+        <mark key="[" line="139" column="14" />
+        <mark key="]" line="139" column="38" />
+        <mark key="." line="139" column="38" />
+        <mark key="^" line="139" column="38" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/untitled/src/Test.java" timestamp="1472951202493">
         <mark key="[" line="4" column="23" />
@@ -1700,10 +1701,10 @@
         <mark key="." line="121" column="75" />
         <mark key="^" line="121" column="75" />
       </file>
-      <file name="D:/code/web/voc-web/src/utils/request.js" timestamp="1517631539466">
+      <file name="D:/code/web/voc-web/src/utils/request.js" timestamp="1517634401715">
         <mark key="'" line="71" column="12" />
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
+        <mark key="[" line="62" column="62" />
+        <mark key="]" line="62" column="80" />
         <mark key="." line="70" column="0" />
       </file>
       <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/entity/Component.java" timestamp="1516244976148">
@@ -1822,6 +1823,10 @@
         <mark key="]" line="12" column="4" />
         <mark key="." line="12" column="4" />
         <mark key="^" line="12" column="4" />
+      </file>
+      <file name="D:/code/web/voc-web/package.json" timestamp="1517634636871">
+        <mark key="[" line="8" column="5" />
+        <mark key="]" line="8" column="18" />
       </file>
       <file name="$USER_HOME$/workdir/react-components/src/styles/user.css" timestamp="1491717147991">
         <mark key="[" line="6" column="1" />
@@ -2014,7 +2019,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>login</text>
+        <text>start:no-proxy</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2121,13 +2126,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>login</text>
+        <text>application/x-www-form-urlencoded; charset=utf-8</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHYpCg==</text>
+      <register name="0" type="4">
+        <text>multipart/form-data</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHYpCg==</text>
@@ -2157,7 +2162,7 @@
         <text encoding="base64">ICAgICAgJ0NvbnRlbnQtVHlwZSc6ICdtdWx0aXBhcnQvZm9ybS1kYXRhJwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text>action PreviousTab</text>
       </register>
     </registers>
     <search>
@@ -2210,9 +2215,9 @@
         <entry>%s/joint/connector/gc</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUHJldmlvdXNUYWI=</entry>
+        <entry>action ReformatCode</entry>
         <entry>action NextTab</entry>
         <entry>action PreviousTab</entry>
-        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
