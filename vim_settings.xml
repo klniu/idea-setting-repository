@@ -727,6 +727,13 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="D:/code/web/voc-web/src/models/login.js" timestamp="1517818554233">
+        <mark key="'" line="28" column="24" />
+        <mark key="[" line="20" column="9" />
+        <mark key="]" line="21" column="25" />
+        <mark key="." line="21" column="25" />
+        <mark key="^" line="21" column="25" />
+      </file>
       <file name="$USER_HOME$/code/java/mpgenerator/src/main/resources/Mybatis-Plus.properties" timestamp="1508761285175">
         <mark key="[" line="29" column="24" />
         <mark key="]" line="29" column="24" />
@@ -902,6 +909,9 @@
         <mark key="." line="30" column="34" />
         <mark key="^" line="30" column="33" />
       </file>
+      <file name="D:/code/web/voc-web/node_modules/history/createHashHistory.js" timestamp="1517817193650">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="D:/code/java/cnooc/src/main/kotlin/com/cnvoc/cnooc/entity/manual/Company.kt" timestamp="1514536589459">
         <mark key="[" line="19" column="22" />
         <mark key="]" line="19" column="22" />
@@ -968,6 +978,9 @@
         <mark key="]" line="13" column="58" />
         <mark key="^" line="13" column="58" />
         <mark key="." line="13" column="58" />
+      </file>
+      <file name="D:/code/web/voc-web/src/index.js" timestamp="1517817214033">
+        <mark key="'" line="33" column="22" />
       </file>
       <file name="$USER_HOME$/code/java/vocs/src/main/java/com/klniu/voc/web/LdarSettingController.java" timestamp="1508653638324">
         <mark key="[" line="16" column="11" />
@@ -1390,6 +1403,13 @@
         <mark key="." line="26" column="57" />
         <mark key="^" line="26" column="57" />
       </file>
+      <file name="D:/code/web/voc-web/src/utils/utils.js" timestamp="1517818069639">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="14" column="40" />
+        <mark key="]" line="14" column="40" />
+        <mark key="^" line="14" column="32" />
+        <mark key="." line="14" column="40" />
+      </file>
       <file name="D:/code/java/voc/src/main/resources/sql/init.sql" timestamp="1517369168338">
         <mark key="[" line="9" column="7" />
         <mark key="]" line="9" column="16" />
@@ -1608,12 +1628,12 @@
         <mark key="." line="121" column="75" />
         <mark key="^" line="121" column="75" />
       </file>
-      <file name="D:/code/web/voc-web/src/utils/request.js" timestamp="1517815742059">
+      <file name="D:/code/web/voc-web/src/utils/request.js" timestamp="1517817642624">
         <mark key="'" line="0" column="10" />
-        <mark key="[" line="60" column="74" />
-        <mark key="]" line="60" column="94" />
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
         <mark key="^" line="70" column="2" />
-        <mark key="." line="58" column="0" />
+        <mark key="." line="72" column="0" />
       </file>
       <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/entity/Component.java" timestamp="1516244976148">
         <mark key="[" line="82" column="25" />
@@ -1802,11 +1822,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="392" column="2" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
-      <jump line="409" column="2" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
-      <jump line="3" column="42" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
-      <jump line="262" column="43" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
-      <jump line="17" column="5" filename="D:/code/java/voc/src/test/resources/sql/init.sql" />
       <jump line="0" column="0" filename="D:/code/java/voc/src/test/resources/sql/init.sql" />
       <jump line="42" column="12" filename="D:/code/java/voc/build.gradle" />
       <jump line="20" column="24" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/InstallServiceImplTest.java" />
@@ -1902,6 +1917,11 @@
       <jump line="92" column="10" filename="D:/code/web/voc-web/src/utils/request.js" />
       <jump line="0" column="10" filename="D:/code/web/voc-web/src/utils/request.js" />
       <jump line="1" column="31" filename="D:/code/web/voc-web/node_modules/dva/fetch.js" />
+      <jump line="15" column="19" filename="D:/code/web/voc-web/src/index.js" />
+      <jump line="0" column="0" filename="D:/code/web/voc-web/node_modules/history/createHashHistory.js" />
+      <jump line="33" column="22" filename="D:/code/web/voc-web/src/index.js" />
+      <jump line="0" column="0" filename="D:/code/web/voc-web/src/utils/utils.js" />
+      <jump line="26" column="24" filename="D:/code/web/voc-web/src/models/login.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1924,8 +1944,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAnUE9TVCAvYXBpL2xvZ2luJzogJ2h0dHA6Ly9sb2NhbGhvc3Q6OTA5MC8nCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">LCA=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2032,43 +2052,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">LCA=</text>
       </register>
       <register name="/" type="4">
         <text>header</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAvLyAgIH0gZWxzZSBpZiAobmV3T3B0aW9ucy5oZWFkZXJzWyJDb250ZW50LVR5cGUiXS5zdGFydHNXaXRoKCdhcHBsaWNhdGlvbi94LXd3dy1mb3JtLXVybGVuY29kZWQnKSkgewogIC8vICAgICBjb25zb2xlLmxvZyhuZXdPcHRpb25zLmJvZHkpCiAgLy8gICAgIC8vY29uc3QgZm9ybUJvZHkgPSBPYmplY3Qua2V5cyhuZXdPcHRpb25zLmJvZHkpLm1hcChrZXkgPT4gZW5jb2RlVVJJQ29tcG9uZW50KGtleSkgKyAnPScgKwogIC8vICAgICAvLyAgZW5jb2RlVVJJQ29tcG9uZW50KG5ld09wdGlvbnMuYm9keVtrZXldKSkuam9pbignJicpOwogIC8vICAgICBuZXdPcHRpb25zLmJvZHkgPSBxcy5zdHJpbmdpZnkobmV3T3B0aW9ucy5ib2R5KTsKICAvLyAgICAgY29uc29sZS5sb2cobmV3T3B0aW9ucy5ib2R5KQo=</text>
+        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIGdldFRva2VuKHRva2VuKSB7CiAgd2luZG93LmxvY2FsU3RvcmFnZS5zZXRJdGVtKCJ0b2tlbiIsIHRva2VuKTsKfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAnUE9TVCAvYXBpL2xvZ2luJzogJ2h0dHA6Ly9sb2NhbGhvc3Q6OTA5MC8nCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvLyDH68fzbG9naW4K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAnUE9TVCAvKC4qKSc6ICdodHRwOi8vbG9jYWxob3N0OjkwOTAvJwo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIC8vIGlmIChuZXdPcHRpb25zLm1ldGhvZCA9PT0gJ1BPU1QnIHx8IG5ld09wdGlvbnMubWV0aG9kID09PSAnUFVUJykgewogICAgLy8gICBuZXdPcHRpb25zLmhlYWRlcnMgPSB7CiAgICAvLyAgICAgQWNjZXB0OiAnYXBwbGljYXRpb24vanNvbicsCiAgICAvLyAgICAgJ0NvbnRlbnQtVHlwZSc6ICdhcHBsaWNhdGlvbi9qc29uOyBjaGFyc2V0PXV0Zi04JywKICAgIC8vICAgICAuLi5uZXdPcHRpb25zLmhlYWRlcnMsCiAgICAvLyAgIH07CiAgICAvLyAgIC8vIMjnufvKx3Bvc3Qgam9zbqOs16q7u2pzb24KICAgIC8vICAgaWYgKG5ld09wdGlvbnMuaGVhZGVyc1siQ29udGVudC1UeXBlIl0uc3RhcnRzV2l0aCgnYXBwbGljYXRpb24vanNvbicpKSB7CiAgICAvLyAgICAgbmV3T3B0aW9ucy5ib2R5ID0gSlNPTi5zdHJpbmdpZnkobmV3T3B0aW9ucy5ib2R5KTsKICAgIC8vICAgfSBlbHNlIGlmIChuZXdPcHRpb25zLmhlYWRlcnNbIkNvbnRlbnQtVHlwZSJdLnN0YXJ0c1dpdGgoJ2FwcGxpY2F0aW9uL3gtd3d3LWZvcm0tdXJsZW5jb2RlZCcpKSB7CiAgICAvLyAgICAgY29uc29sZS5sb2cobmV3T3B0aW9ucy5ib2R5KQogICAgLy8gICAgIC8vY29uc3QgZm9ybUJvZHkgPSBPYmplY3Qua2V5cyhuZXdPcHRpb25zLmJvZHkpLm1hcChrZXkgPT4gZW5jb2RlVVJJQ29tcG9uZW50KGtleSkgKyAnPScgKwogICAgLy8gICAgIC8vICBlbmNvZGVVUklDb21wb25lbnQobmV3T3B0aW9ucy5ib2R5W2tleV0pKS5qb2luKCcmJyk7CiAgICAvLyAgICAgbmV3T3B0aW9ucy5ib2R5ID0gcXMuc3RyaW5naWZ5KG5ld09wdGlvbnMuYm9keSk7CiAgICAvLyAgICAgY29uc29sZS5sb2cobmV3T3B0aW9ucy5ib2R5KQogICAgLy8gICB9IGVsc2UgaWYgKG5ld09wdGlvbnMuaGVhZGVyc1siQ29udGVudC1UeXBlIl0uc3RhcnRzV2l0aCgnbXVsdGlwYXJ0L2Zvcm0tZGF0YScpKSB7CiAgICAvLyAgICAgbGV0IGZvcm1EYXRhID0gbmV3IEZvcm1EYXRhKCk7CiAgICAvLyAgICAgT2JqZWN0LmtleXMobmV3T3B0aW9ucy5ib2R5KS5tYXAoa2V5ID0+IGZvcm1EYXRhLmFwcGVuZChrZXksIG5ld09wdGlvbnMuYm9keVtrZXldKSk7CiAgICAvLyAgICAgbmV3T3B0aW9ucy5ib2R5ID0gZm9ybURhdGE7CiAgICAvLyAgICAgLy8gyb6z/c23wODQzaOs0OjSqsjDZmV0Y2jX1Ly6vva2qAogICAgLy8gICAgIGRlbGV0ZSBuZXdPcHRpb25zLmhlYWRlcnNbIkNvbnRlbnQtVHlwZSJdOwogICAgLy8gICB9CiAgICAvLyB9Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAnUE9TVCAvYXBpL2xvZ2luJzogJ2h0dHA6Ly9sb2NhbGhvc3Q6OTA5MC8nCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAnUE9TVCAvKC4qKSc6ICdodHRwOi8vbG9jYWxob3N0OjkwOTAvJwo=</text>
+        <text encoding="base64">ICAvLyDH68fzbG9naW4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAnQ29udGVudC1UeXBlJzogJ211bHRpcGFydC9mb3JtLWRhdGEnLAo=</text>
+        <text encoding="base64">ICAnUE9TVCAvKC4qKSc6ICdodHRwOi8vbG9jYWxob3N0OjkwOTAvJwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLy8gIGVuY29kZVVSSUNvbXBvbmVudChuZXdPcHRpb25zLmJvZHlba2V5XSkpLmpvaW4oJyYnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLy9jb25zdCBmb3JtQm9keSA9IE9iamVjdC5rZXlzKG5ld09wdGlvbnMuYm9keSkubWFwKGtleSA9PiBlbmNvZGVVUklDb21wb25lbnQoa2V5KSArICc9JyArCg==</text>
+        <text encoding="base64">ICAnUE9TVCAvKC4qKSc6ICdodHRwOi8vbG9jYWxob3N0OjkwOTAvJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cobmV3T3B0aW9ucy5ib2R5KQo=</text>
+        <text encoding="base64">ICAgICAgICAnQ29udGVudC1UeXBlJzogJ211bHRpcGFydC9mb3JtLWRhdGEnLAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action NextTab</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
@@ -2121,9 +2141,9 @@
         <entry>%s/joint/connector/gc</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gTmV4dFRhYg==</entry>
-        <entry>action ReformatCode</entry>
         <entry>action PreviousTab</entry>
         <entry>action NextTab</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
