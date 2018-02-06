@@ -41,12 +41,6 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="34" column="24" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cb6e028b-04c0-427c-be30-b4d266fe8774/console.sql" timestamp="1514516804362">
-        <mark key="[" line="42" column="28" />
-        <mark key="]" line="42" column="28" />
-        <mark key="." line="42" column="28" />
-        <mark key="^" line="43" column="31" />
-      </file>
       <file name="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/entity/enums/RoleName.java" timestamp="1510214079592">
         <mark key="[" line="7" column="21" />
         <mark key="]" line="7" column="30" />
@@ -161,6 +155,12 @@
         <mark key="]" line="7" column="26" />
         <mark key="^" line="7" column="26" />
         <mark key="." line="7" column="26" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.java" timestamp="1515290836374">
+        <mark key="[" line="7" column="30" />
+        <mark key="]" line="7" column="38" />
+        <mark key="^" line="7" column="38" />
+        <mark key="." line="7" column="38" />
       </file>
       <file name="$USER_HOME$/workdir/code/law/src/main/java/com/klniu/law/mapper/LawMapper.java" timestamp="1505464195865">
         <mark key="[" line="2" column="32" />
@@ -380,17 +380,17 @@
         <mark key="^" line="10" column="19" />
         <mark key="." line="10" column="19" />
       </file>
+      <file name="D:/code/web/voc-ui/src/app/app.component.css" timestamp="1517906609747">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/workdir/code/law/src/main/resources/sql/clear.sql" timestamp="1506475844836">
         <mark key="[" line="1" column="12" />
         <mark key="]" line="1" column="19" />
         <mark key="." line="1" column="19" />
         <mark key="^" line="1" column="19" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.java" timestamp="1515290836374">
-        <mark key="[" line="7" column="30" />
-        <mark key="]" line="7" column="38" />
-        <mark key="^" line="7" column="38" />
-        <mark key="." line="7" column="38" />
       </file>
       <file name="$USER_HOME$/sync/code/go/src/ldar/monitorstate_test.go" timestamp="1476255374926">
         <mark key="[" line="16" column="40" />
@@ -544,6 +544,11 @@
         <mark key="]" line="28" column="32" />
         <mark key="." line="28" column="32" />
         <mark key="^" line="28" column="32" />
+      </file>
+      <file name="D:/code/web/voc-ui/src/app/app.component.ts" timestamp="1517906599143">
+        <mark key="[" line="8" column="11" />
+        <mark key="]" line="8" column="11" />
+        <mark key="." line="8" column="11" />
       </file>
       <file name="$USER_HOME$/workdir/code/voc-ui/src/components/settings/FactorySetting.jsx" timestamp="1500618980587">
         <mark key="[" line="22" column="80" />
@@ -818,6 +823,12 @@
         <mark key="]" line="25" column="0" />
         <mark key="^" line="2" column="0" />
         <mark key="." line="25" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cb6e028b-04c0-427c-be30-b4d266fe8774/console.sql" timestamp="1514516804362">
+        <mark key="[" line="42" column="28" />
+        <mark key="]" line="42" column="28" />
+        <mark key="." line="42" column="28" />
+        <mark key="^" line="43" column="31" />
       </file>
       <file name="D:/code/java/voc/src/test/java/com/cnvoc/voc/web/FactoryControllerTest.java" timestamp="1517404197411">
         <mark key="[" line="118" column="76" />
@@ -1899,7 +1910,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>'</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2006,7 +2017,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>header</text>
