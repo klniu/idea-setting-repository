@@ -1315,12 +1315,12 @@
         <mark key="." line="38" column="35" />
         <mark key="^" line="38" column="35" />
       </file>
-      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/shiro/JwtAuthenticationFilter.java" timestamp="1517649706908">
+      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/shiro/JwtAuthenticationFilter.java" timestamp="1517883312863">
         <mark key="'" line="45" column="26" />
-        <mark key="[" line="73" column="33" />
-        <mark key="]" line="73" column="33" />
-        <mark key="." line="73" column="33" />
-        <mark key="^" line="73" column="31" />
+        <mark key="[" line="91" column="4" />
+        <mark key="]" line="72" column="4" />
+        <mark key="." line="72" column="4" />
+        <mark key="^" line="72" column="4" />
       </file>
       <file name="$USER_HOME$/workdir/code/voc-ui/package.json" timestamp="1498812431957">
         <mark key="[" line="1" column="11" />
@@ -1522,11 +1522,11 @@
         <mark key="^" line="67" column="28" />
         <mark key="." line="67" column="28" />
       </file>
-      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/VocApplication.java" timestamp="1515489873511">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="^" line="37" column="53" />
-        <mark key="." line="36" column="0" />
+      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/VocApplication.java" timestamp="1517882869438">
+        <mark key="[" line="68" column="42" />
+        <mark key="]" line="68" column="42" />
+        <mark key="^" line="68" column="42" />
+        <mark key="." line="68" column="42" />
       </file>
       <file name="$USER_HOME$/sync/code/go/src/ldar/direction_test.go" timestamp="1476252942723">
         <mark key="[" line="16" column="19" />
@@ -1898,8 +1898,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlZ2lzdHJ5LmFkZE1hcHBpbmcoIi9hcGkvKiIpLmFsbG93ZWRPcmlnaW5zKCJodHRwOi8vbG9jYWxob3N0OjgwMDAiKTsK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2006,19 +2006,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>login</text>
       </register>
       <register name="/" type="4">
         <text>header</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmaWx0ZXJDaGFpbkRlZmluaXRpb25NYXAucHV0KCIvNDA0IiwgImFub24iKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlZ2lzdHJ5LmFkZE1hcHBpbmcoIi9hcGkvKiIpLmFsbG93ZWRPcmlnaW5zKCJodHRwOi8vbG9jYWxob3N0OjgwMDAiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBSZXF1ZXN0TWFwcGluZyh2YWx1ZSA9ICIvYXBpL2xvZ2luIiwgbWV0aG9kID0gUmVxdWVzdE1ldGhvZC5QT1NULCBjb25zdW1lcyA9IHsiYXBwbGljYXRpb24veC13d3ctZm9ybS11cmxlbmNvZGVkIn0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlZ2lzdHJ5LmFkZE1hcHBpbmcoIi9hcGkvKiIpLmFsbG93ZWRPcmlnaW5zKCJodHRwOi8vbG9jYWxob3N0OjgwMDAiKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBSZXF1ZXN0TWFwcGluZyh2YWx1ZSA9ICIvYXBpL2xvZ2luIiwgbWV0aG9kID0gUmVxdWVzdE1ldGhvZC5QT1NULCBjb25zdW1lcyA9IHsiYXBwbGljYXRpb24veC13d3ctZm9ybS11cmxlbmNvZGVkIn0pCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -2027,19 +2027,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb250ZXh0UGF0aDogL2FwaS8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c2VydmVyOgo=</text>
+        <text encoding="base64">ICBjb250ZXh0UGF0aDogL2FwaS8K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBkYXRhOgogICAgcmVzdDoKICAgICAgYmFzZS1wYXRoOiAvYXBpCg==</text>
+        <text encoding="base64">c2VydmVyOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIEhvbWVDb250cm9sbGVyIHsKfQo=</text>
+        <text encoding="base64">ICBkYXRhOgogICAgcmVzdDoKICAgICAgYmFzZS1wYXRoOiAvYXBpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIEhvbWVDb250cm9sbGVyIHsKfQo=</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
