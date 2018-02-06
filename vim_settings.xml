@@ -126,6 +126,9 @@
         <mark key="." line="120" column="20" />
         <mark key="^" line="47" column="31" />
       </file>
+      <file name="D:/code/web/voc-web/src/layouts/BasicLayout.js" timestamp="1517898094113">
+        <mark key="'" line="181" column="21" />
+      </file>
       <file name="$USER_HOME$/sync/code/java/livesim/DESIGN.md" timestamp="1479355574389">
         <mark key="[" line="11" column="16" />
         <mark key="]" line="13" column="19" />
@@ -994,8 +997,8 @@
         <mark key="^" line="13" column="58" />
         <mark key="." line="13" column="58" />
       </file>
-      <file name="D:/code/web/voc-web/src/index.js" timestamp="1517817214033">
-        <mark key="'" line="33" column="22" />
+      <file name="D:/code/web/voc-web/src/index.js" timestamp="1517897202276">
+        <mark key="'" line="31" column="5" />
       </file>
       <file name="$USER_HOME$/code/java/vocs/src/main/java/com/klniu/voc/web/LdarSettingController.java" timestamp="1508653638324">
         <mark key="[" line="16" column="11" />
@@ -1069,7 +1072,7 @@
         <mark key="." line="24" column="61" />
         <mark key="^" line="24" column="61" />
       </file>
-      <file name="D:/code/web/voc-web/src/components/Authorized/Authorized.js" timestamp="1517820315628">
+      <file name="D:/code/web/voc-web/src/components/Authorized/Authorized.js" timestamp="1517897892400">
         <mark key="'" line="7" column="24" />
       </file>
       <file name="D:/code/java/voc/src/main/kotlin/com/cnvoc/voc/entity/enums/Result.kt" timestamp="1514637675697">
@@ -1731,8 +1734,8 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
-      <file name="D:/code/web/voc-web/src/utils/Authorized.js" timestamp="1517820282218">
-        <mark key="'" line="7" column="28" />
+      <file name="D:/code/web/voc-web/src/utils/Authorized.js" timestamp="1517897861346">
+        <mark key="'" line="3" column="24" />
       </file>
       <file name="$USER_HOME$/sync/code/java/livesim/src/main/Tree.java" timestamp="1478853333202">
         <mark key="[" line="0" column="0" />
@@ -1849,14 +1852,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="146" column="0" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/InstallServiceImplTest.java" />
-      <jump line="29" column="13" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/UnitServiceImplTest.java" />
-      <jump line="82" column="34" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/ComponentServiceImplTest.java" />
-      <jump line="128" column="28" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/ComponentServiceImpl.java" />
-      <jump line="59" column="64" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/ComponentServiceImpl.java" />
-      <jump line="38" column="25" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/ComponentServiceImplTest.java" />
-      <jump line="117" column="42" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/ComponentServiceImpl.java" />
-      <jump line="319" column="25" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
       <jump line="180" column="15" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
       <jump line="429" column="12" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
       <jump line="39" column="31" filename="D:/code/java/voc/src/test/resources/sql/init.sql" />
@@ -1944,11 +1939,19 @@
       <jump line="16" column="38" filename="D:/code/web/voc-web/src/models/login.js" />
       <jump line="26" column="27" filename="D:/code/web/voc-web/src/models/login.js" />
       <jump line="25" column="15" filename="D:/code/web/voc-web/src/models/login.js" />
-      <jump line="7" column="28" filename="D:/code/web/voc-web/src/utils/Authorized.js" />
-      <jump line="7" column="24" filename="D:/code/web/voc-web/src/components/Authorized/Authorized.js" />
       <jump line="11" column="42" filename="D:/code/web/voc-web/src/models/institution.js" />
       <jump line="52" column="14" filename="D:/code/web/voc-web/src/routes/Institution/Institution.js" />
       <jump line="12" column="0" filename="D:/code/web/voc-web/src/routes/Institution/Institution.js" />
+      <jump line="31" column="5" filename="D:/code/web/voc-web/src/index.js" />
+      <jump line="186" column="19" filename="D:/code/web/voc-web/src/layouts/BasicLayout.js" />
+      <jump line="188" column="30" filename="D:/code/web/voc-web/src/layouts/BasicLayout.js" />
+      <jump line="19" column="32" filename="D:/code/web/voc-web/src/layouts/BasicLayout.js" />
+      <jump line="7" column="36" filename="D:/code/web/voc-web/src/utils/Authorized.js" />
+      <jump line="3" column="24" filename="D:/code/web/voc-web/src/utils/Authorized.js" />
+      <jump line="7" column="24" filename="D:/code/web/voc-web/src/components/Authorized/Authorized.js" />
+      <jump line="179" column="12" filename="D:/code/web/voc-web/src/layouts/BasicLayout.js" />
+      <jump line="201" column="17" filename="D:/code/web/voc-web/src/layouts/BasicLayout.js" />
+      <jump line="181" column="21" filename="D:/code/web/voc-web/src/layouts/BasicLayout.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
