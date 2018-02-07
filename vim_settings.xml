@@ -970,11 +970,16 @@
         <mark key="." line="16" column="41" />
         <mark key="^" line="16" column="41" />
       </file>
-      <file name="D:/code/web/voc-ui/src/app/hero.service.ts" timestamp="1517987074279">
-        <mark key="[" line="13" column="11" />
-        <mark key="]" line="13" column="20" />
-        <mark key="^" line="13" column="20" />
-        <mark key="." line="13" column="20" />
+      <file name="D:/code/web/voc-ui/src/app/hero.service.ts" timestamp="1517987963392">
+        <mark key="[" line="14" column="4" />
+        <mark key="]" line="14" column="59" />
+        <mark key="^" line="14" column="3" />
+        <mark key="." line="14" column="4" />
+      </file>
+      <file name="D:/code/web/voc-ui/src/app/messages/messages.component.ts" timestamp="1517988019255">
+        <mark key="[" line="10" column="14" />
+        <mark key="]" line="10" column="51" />
+        <mark key="." line="10" column="14" />
       </file>
       <file name="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/service/impl/RoleServiceImpl.java" timestamp="1510217488031">
         <mark key="[" line="26" column="15" />
@@ -1431,11 +1436,24 @@
         <mark key="^" line="13" column="0" />
         <mark key="." line="8" column="20" />
       </file>
+      <file name="D:/code/web/voc-ui/src/app/message.service.ts" timestamp="1517987880768">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="5" column="1" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="F:/code/java/vocs/src/main/resources/mapper/LdarSettingMapper.xml" timestamp="1514072837332">
         <mark key="[" line="26" column="56" />
         <mark key="]" line="26" column="57" />
         <mark key="." line="26" column="57" />
         <mark key="^" line="26" column="57" />
+      </file>
+      <file name="D:/code/web/voc-ui/src/app/messages/messages.component.html" timestamp="1517988052439">
+        <mark key="'" line="5" column="5" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="D:/code/java/voc/src/main/resources/sql/init.sql" timestamp="1517369168338">
         <mark key="[" line="9" column="7" />
@@ -1553,10 +1571,10 @@
         <mark key="^" line="7" column="19" />
       </file>
       <file name="D:/code/web/voc-ui/src/app/app.module.ts" timestamp="1517986866641">
-        <mark key="[" line="21" column="26" />
-        <mark key="]" line="21" column="26" />
-        <mark key="^" line="21" column="1" />
-        <mark key="." line="21" column="26" />
+        <mark key="[" line="10" column="26" />
+        <mark key="]" line="10" column="26" />
+        <mark key="^" line="10" column="1" />
+        <mark key="." line="10" column="26" />
       </file>
       <file name="D:/code/java/voc/src/main/resources/mapper/LdarSettingMapper.xml" timestamp="1514800054504">
         <mark key="[" line="2" column="59" />
@@ -1739,11 +1757,11 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
-      <file name="D:/code/web/voc-ui/src/app/app.component.html" timestamp="1517982014967">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="25" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="2" column="0" />
+      <file name="D:/code/web/voc-ui/src/app/app.component.html" timestamp="1517987826089">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="29" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/sync/code/java/livesim/src/main/Tree.java" timestamp="1478853333202">
         <mark key="[" line="0" column="0" />
@@ -1855,8 +1873,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="392" column="2" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
-      <jump line="409" column="2" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
       <jump line="3" column="42" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
       <jump line="262" column="43" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
       <jump line="17" column="5" filename="D:/code/java/voc/src/test/resources/sql/init.sql" />
@@ -1955,6 +1971,8 @@
       <jump line="1" column="6" filename="D:/code/web/voc-ui/src/app/app.component.html" />
       <jump line="0" column="0" filename="D:/code/web/voc-ui/src/app/heroes/heroes.component.html" />
       <jump line="0" column="0" filename="D:/code/web/voc-ui/src/app/hero-detail/hero-detail.component.html" />
+      <jump line="0" column="0" filename="D:/code/web/voc-ui/src/app/messages/messages.component.html" />
+      <jump line="8" column="5" filename="D:/code/web/voc-ui/src/app/messages/messages.component.html" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1978,7 +1996,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRoaXMuaGVyb2VzID0gdGhpcy5oZXJvU2VydmljZS5nZXRIZXJvZXMoKTsK</text>
+        <text encoding="base64">PHA+CiAgbWVzc2FnZXMgd29ya3MhCjwvcD4K</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2094,31 +2112,31 @@
         <text encoding="base64">ICAgICAgICBmaWx0ZXJDaGFpbkRlZmluaXRpb25NYXAucHV0KCIvNDA0IiwgImFub24iKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRoaXMuaGVyb2VzID0gdGhpcy5oZXJvU2VydmljZS5nZXRIZXJvZXMoKTsK</text>
+        <text encoding="base64">PHA+CiAgbWVzc2FnZXMgd29ya3MhCjwvcD4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHtvYnNlcnZhYmxlVG9CZUZufSBmcm9tICdyeGpzL3Rlc3RpbmcvVGVzdFNjaGVkdWxlcic7Cg==</text>
+        <text encoding="base64">ICBjb25zdHJ1Y3RvcigpIHsgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHtIRVJPRVN9IGZyb20gJy4uL21vY2staGVyb2VzJzsK</text>
+        <text encoding="base64">ICAgIHRoaXMuaGVyb2VzID0gdGhpcy5oZXJvU2VydmljZS5nZXRIZXJvZXMoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwcm92aWRlcnM6IFtdLAo=</text>
+        <text encoding="base64">aW1wb3J0IHtvYnNlcnZhYmxlVG9CZUZufSBmcm9tICdyeGpzL3Rlc3RpbmcvVGVzdFNjaGVkdWxlcic7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PC9wPgo=</text>
+        <text encoding="base64">aW1wb3J0IHtIRVJPRVN9IGZyb20gJy4uL21vY2staGVyb2VzJzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBoZXJvLWRldGFpbCB3b3JrcyEK</text>
+        <text encoding="base64">ICBwcm92aWRlcnM6IFtdLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PHA+Cg==</text>
+        <text encoding="base64">PC9wPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PGRpdiAqbmdJZj0ic2VsZWN0ZWRIZXJvIj4KICA8aDI+e3sgc2VsZWN0ZWRIZXJvLm5hbWUgfCB1cHBlcmNhc2UgfX0gRGV0YWlsczwvaDI+CiAgPGRpdj48c3Bhbj5pZDogPC9zcGFuPnt7c2VsZWN0ZWRIZXJvLmlkfX08L2Rpdj4KICA8bGFiZWw+bmFtZToKICAgIDxpbnB1dCBbKG5nTW9kZWwpXT0ic2VsZWN0ZWRIZXJvLm5hbWUiIHBsYWNlaG9sZGVyPSJuYW1lIj4KICA8L2xhYmVsPgo8L2Rpdj4K</text>
+        <text encoding="base64">ICBoZXJvLWRldGFpbCB3b3JrcyEK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBzZWxlY3RlZEhlcm86IEhlcm87Cg==</text>
+        <text encoding="base64">PHA+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
