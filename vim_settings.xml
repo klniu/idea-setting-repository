@@ -752,12 +752,10 @@
         <mark key="." line="10" column="2" />
         <mark key="^" line="10" column="1" />
       </file>
-      <file name="D:/code/java/voc/build.gradle" timestamp="1518077059196">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="72" column="62" />
-        <mark key="]" line="72" column="62" />
-        <mark key="." line="72" column="62" />
-        <mark key="^" line="72" column="62" />
+      <file name="D:/code/java/voc/build.gradle" timestamp="1518079419963">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/workdir/code/law/src/main/java/com/klniu/law/dao/LawDao.java" timestamp="1505119298564">
         <mark key="[" line="3" column="0" />
@@ -1898,7 +1896,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="24" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/InstallServiceImplTest.java" />
       <jump line="35" column="8" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/InstallServiceImplTest.java" />
       <jump line="255" column="19" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
       <jump line="83" column="54" filename="D:/code/java/voc/src/test/resources/sql/init.sql" />
@@ -1998,6 +1995,7 @@
       <jump line="100" column="57" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/web/ComponentController.java" />
       <jump line="72" column="0" filename="D:/code/java/voc/build.gradle" />
       <jump line="0" column="0" filename="D:/code/java/voc/build.gradle" />
+      <jump line="71" column="7" filename="D:/code/java/voc/build.gradle" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2021,7 +2019,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CWlkICdqYXZhJwoJaWQgJ25lYnVsYS5vcHRpb25hbC1iYXNlJyB2ZXJzaW9uICczLjIuMCcK</text>
+        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnbWF2ZW4nCg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2137,31 +2135,31 @@
         <text encoding="base64">ICAgICAgICBmaWx0ZXJDaGFpbkRlZmluaXRpb25NYXAucHV0KCIvNDA0IiwgImFub24iKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWlkICdqYXZhJwoJaWQgJ25lYnVsYS5vcHRpb25hbC1iYXNlJyB2ZXJzaW9uICczLjIuMCcK</text>
+        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnbWF2ZW4nCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyDkuIrkvKDlkozkuIvovb3mlofku7blpKflsI/pmZDliLYKbXVsdGlwYXJ0OgogIG1heC1maWxlLXNpemU6IDIwNDhNQgogIG1heC1yZXF1ZXN0LXNpemU6IDIwNDhNQgo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PGJ1dHRvbiAoY2xpY2spPSJnb0JhY2soKSI+Z28gYmFjazwvYnV0dG9uPgo=</text>
+        <text encoding="base64">CWlkICdjb20uYmFvbWlkb3UubXliYXRpc3BsdXMucGx1Z2lucy5QYWdpbmF0aW9uSW50ZXJjZXB0b3InCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICA8YnV0dG9uIChjbGljayk9ImdvQmFjaygpIj5nbyBiYWNrPC9idXR0b24+Cg==</text>
+        <text encoding="base64">cGx1Z2lucyB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cGx1Z2lucyB7CglpZCAnY29tLmJhb21pZG91Lm15YmF0aXNwbHVzLnBsdWdpbnMuUGFnaW5hdGlvbkludGVyY2VwdG9yJwp9Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB9Owo=</text>
+        <text encoding="base64">cGx1Z2lucyB7CiAgICBpZCAnY29tLmJhb21pZG91Lm15YmF0aXNwbHVzLnBsdWdpbnMuUGFnaW5hdGlvbkludGVyY2VwdG9yJwp9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG5hbWU6ICdXaW5kc3Rvcm0nCg==</text>
+        <text encoding="base64">CWlkICdqYXZhJwoJaWQgJ25lYnVsYS5vcHRpb25hbC1iYXNlJyB2ZXJzaW9uICczLjIuMCcK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlkOiAxLAo=</text>
+        <text encoding="base64">IyDkuIrkvKDlkozkuIvovb3mlofku7blpKflsI/pmZDliLYKbXVsdGlwYXJ0OgogIG1heC1maWxlLXNpemU6IDIwNDhNQgogIG1heC1yZXF1ZXN0LXNpemU6IDIwNDhNQgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBoZXJvOiBIZXJvID0gewo=</text>
+        <text encoding="base64">PGJ1dHRvbiAoY2xpY2spPSJnb0JhY2soKSI+Z28gYmFjazwvYnV0dG9uPgo=</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
