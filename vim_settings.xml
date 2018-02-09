@@ -423,6 +423,13 @@
         <mark key="^" line="29" column="46" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="D:/code/java/voc/pom-default.xml" timestamp="1518137023381">
+        <mark key="'" line="179" column="3" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+        <mark key="^" line="129" column="3" />
+      </file>
       <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/shiro/JWTFilter.java" timestamp="1517388376147">
         <mark key="'" line="20" column="0" />
         <mark key="[" line="84" column="8" />
@@ -752,6 +759,11 @@
         <mark key="." line="10" column="2" />
         <mark key="^" line="10" column="1" />
       </file>
+      <file name="D:/code/java/voc/build.gradle" timestamp="1518136372634">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
       <file name="$USER_HOME$/workdir/code/law/src/main/java/com/klniu/law/dao/LawDao.java" timestamp="1505119298564">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -1023,6 +1035,11 @@
         <mark key="]" line="41" column="20" />
         <mark key="^" line="41" column="20" />
         <mark key="." line="41" column="20" />
+      </file>
+      <file name="D:/code/java/voc/build/poms/pom-default.xml" timestamp="1518136438026">
+        <mark key="[" line="0" column="15" />
+        <mark key="]" line="0" column="16" />
+        <mark key="." line="0" column="16" />
       </file>
       <file name="D:/code/java/mpgenerator/src/main/kotlin/voc.kt" timestamp="1514782652155">
         <mark key="[" line="13" column="55" />
@@ -1891,12 +1908,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="8" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/InstallServiceImplTest.java" />
-      <jump line="255" column="19" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
-      <jump line="83" column="54" filename="D:/code/java/voc/src/test/resources/sql/init.sql" />
-      <jump line="30" column="18" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/InstallServiceImplTest.java" />
-      <jump line="254" column="4" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
-      <jump line="80" column="19" filename="D:/code/java/voc/src/test/resources/sql/init.sql" />
       <jump line="29" column="42" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/ComponentServiceImplTest.java" />
       <jump line="146" column="0" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/InstallServiceImplTest.java" />
       <jump line="29" column="13" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/UnitServiceImplTest.java" />
@@ -1991,6 +2002,12 @@
       <jump line="72" column="0" filename="D:/code/java/voc/build.gradle" />
       <jump line="0" column="0" filename="D:/code/java/voc/build.gradle" />
       <jump line="71" column="7" filename="D:/code/java/voc/build.gradle" />
+      <jump line="300" column="15" filename="D:/code/java/voc/pom-default.xml" />
+      <jump line="293" column="13" filename="D:/code/java/voc/pom-default.xml" />
+      <jump line="0" column="0" filename="D:/code/java/voc/pom-default.xml" />
+      <jump line="299" column="0" filename="D:/code/java/voc/pom-default.xml" />
+      <jump line="79" column="1" filename="D:/code/java/voc/pom-default.xml" />
+      <jump line="179" column="3" filename="D:/code/java/voc/pom-default.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2014,7 +2031,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnbWF2ZW4nCg==</text>
+        <text encoding="base64">ICAgIDwvZGVwZW5kZW5jaWVzPgo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2121,40 +2138,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>GBK</text>
+        <text>Boot</text>
       </register>
       <register name="/" type="4">
         <text>header</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmaWx0ZXJDaGFpbkRlZmluaXRpb25NYXAucHV0KCIvNDA0IiwgImFub24iKTsK</text>
+        <text encoding="base64">ICA8ZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnbWF2ZW4nCg==</text>
+        <text encoding="base64">ICAgIDwvZGVwZW5kZW5jaWVzPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIDxleGNsdXNpb25zPgogICAgICA8ZXhjbHVzaW9uPgogICAgICAgIDxhcnRpZmFjdElkPmNvbW1vbnMtbG9nZ2luZzwvYXJ0aWZhY3RJZD4KICAgICAgICA8Z3JvdXBJZD5jb21tb25zLWxvZ2dpbmc8L2dyb3VwSWQ+CiAgICAgIDwvZXhjbHVzaW9uPgogICAgPC9leGNsdXNpb25zPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWlkICdjb20uYmFvbWlkb3UubXliYXRpc3BsdXMucGx1Z2lucy5QYWdpbmF0aW9uSW50ZXJjZXB0b3InCg==</text>
+        <text encoding="base64">ICAgIDxleGNsdXNpb25zPgogICAgICA8ZXhjbHVzaW9uPgogICAgICAgIDxhcnRpZmFjdElkPmNvbW1vbnMtbG9nZ2luZzwvYXJ0aWZhY3RJZD4KICAgICAgICA8Z3JvdXBJZD5jb21tb25zLWxvZ2dpbmc8L2dyb3VwSWQ+CiAgICAgIDwvZXhjbHVzaW9uPgogICAgPC9leGNsdXNpb25zPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cGx1Z2lucyB7Cg==</text>
+        <text encoding="base64">ICAgIDxleGNsdXNpb25zPgogICAgICA8ZXhjbHVzaW9uPgogICAgICAgIDxhcnRpZmFjdElkPmNvbW1vbnMtbG9nZ2luZzwvYXJ0aWZhY3RJZD4KICAgICAgICA8Z3JvdXBJZD5jb21tb25zLWxvZ2dpbmc8L2dyb3VwSWQ+CiAgICAgIDwvZXhjbHVzaW9uPgogICAgPC9leGNsdXNpb25zPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cGx1Z2lucyB7CglpZCAnY29tLmJhb21pZG91Lm15YmF0aXNwbHVzLnBsdWdpbnMuUGFnaW5hdGlvbkludGVyY2VwdG9yJwp9Cgo=</text>
+        <text encoding="base64">ICAgIDxleGNsdXNpb25zPgogICAgICA8ZXhjbHVzaW9uPgogICAgICAgIDxhcnRpZmFjdElkPmNvbW1vbnMtbG9nZ2luZzwvYXJ0aWZhY3RJZD4KICAgICAgICA8Z3JvdXBJZD5jb21tb25zLWxvZ2dpbmc8L2dyb3VwSWQ+CiAgICAgIDwvZXhjbHVzaW9uPgogICAgPC9leGNsdXNpb25zPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cGx1Z2lucyB7CiAgICBpZCAnY29tLmJhb21pZG91Lm15YmF0aXNwbHVzLnBsdWdpbnMuUGFnaW5hdGlvbkludGVyY2VwdG9yJwp9Cg==</text>
+        <text encoding="base64">ICAgIDxleGNsdXNpb25zPgogICAgICA8ZXhjbHVzaW9uPgogICAgICAgIDxhcnRpZmFjdElkPmNvbW1vbnMtbG9nZ2luZzwvYXJ0aWZhY3RJZD4KICAgICAgICA8Z3JvdXBJZD5jb21tb25zLWxvZ2dpbmc8L2dyb3VwSWQ+CiAgICAgIDwvZXhjbHVzaW9uPgogICAgPC9leGNsdXNpb25zPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CWlkICdqYXZhJwoJaWQgJ25lYnVsYS5vcHRpb25hbC1iYXNlJyB2ZXJzaW9uICczLjIuMCcK</text>
+        <text encoding="base64">ICAgIDxleGNsdXNpb25zPgogICAgICA8ZXhjbHVzaW9uPgogICAgICAgIDxhcnRpZmFjdElkPmNvbW1vbnMtbG9nZ2luZzwvYXJ0aWZhY3RJZD4KICAgICAgICA8Z3JvdXBJZD5jb21tb25zLWxvZ2dpbmc8L2dyb3VwSWQ+CiAgICAgIDwvZXhjbHVzaW9uPgogICAgPC9leGNsdXNpb25zPgogIDwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyDkuIrkvKDlkozkuIvovb3mlofku7blpKflsI/pmZDliLYKbXVsdGlwYXJ0OgogIG1heC1maWxlLXNpemU6IDIwNDhNQgogIG1heC1yZXF1ZXN0LXNpemU6IDIwNDhNQgo=</text>
+        <text encoding="base64">ICAgIDxleGNsdXNpb25zPgogICAgICA8ZXhjbHVzaW9uPgogICAgICAgIDxhcnRpZmFjdElkPmNvbW1vbnMtbG9nZ2luZzwvYXJ0aWZhY3RJZD4KICAgICAgICA8Z3JvdXBJZD5jb21tb25zLWxvZ2dpbmc8L2dyb3VwSWQ+CiAgICAgIDwvZXhjbHVzaW9uPgogICAgPC9leGNsdXNpb25zPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PGJ1dHRvbiAoY2xpY2spPSJnb0JhY2soKSI+Z28gYmFjazwvYnV0dG9uPgo=</text>
+        <text encoding="base64">ICAgIDxleGNsdXNpb25zPgogICAgICA8ZXhjbHVzaW9uPgogICAgICAgIDxhcnRpZmFjdElkPmNvbW1vbnMtbG9nZ2luZzwvYXJ0aWZhY3RJZD4KICAgICAgICA8Z3JvdXBJZD5jb21tb25zLWxvZ2dpbmc8L2dyb3VwSWQ+CiAgICAgIDwvZXhjbHVzaW9uPgogICAgPC9leGNsdXNpb25zPgo=</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
