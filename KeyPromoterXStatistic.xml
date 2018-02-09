@@ -174,7 +174,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'UserControllerTest.login'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'VocApplication'">
@@ -207,6 +207,14 @@
           <ShortCut>'Delete'</ShortCut>
           <Description>Drop</Description>
           <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Duplicate">
+        <Item>
+          <IdeaActionID>DatabaseView.CopyAction</IdeaActionID>
+          <ShortCut>'Ctrl+D'</ShortCut>
+          <Description>Duplicate</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Exclude">
@@ -287,6 +295,14 @@
           <ShortCut>'Ctrl+Alt+Shift+S'</ShortCut>
           <Description>Project Structure...</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Properties">
+        <Item>
+          <IdeaActionID>DatabaseView.PropertiesAction</IdeaActionID>
+          <ShortCut>'Shift+Enter'</ShortCut>
+          <Description>Properties</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Push...">
@@ -550,7 +566,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'UserControllerTest.login'</Description>
-          <Count>12</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'UserServiceImplTest.getByUserName'">
@@ -742,7 +758,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'voc [test]'</Description>
-          <Count>24</Count>
+          <Count>25</Count>
         </Item>
       </Statistic>
       <Statistic Action="Terminal">
