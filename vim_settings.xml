@@ -59,11 +59,12 @@
         <mark key="^" line="12" column="39" />
         <mark key="." line="14" column="37" />
       </file>
-      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/ComponentServiceImpl.java" timestamp="1518150359293">
+      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/ComponentServiceImpl.java" timestamp="1518159231693">
         <mark key="'" line="79" column="0" />
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="93" column="81" />
-        <mark key="." line="92" column="0" />
+        <mark key="[" line="224" column="89" />
+        <mark key="]" line="224" column="97" />
+        <mark key="." line="224" column="97" />
+        <mark key="^" line="224" column="97" />
       </file>
       <file name="D:/code/web/voc-ui/src/app/heroes/heroes.component.css" timestamp="1517985679769">
         <mark key="[" line="0" column="0" />
@@ -854,7 +855,7 @@
         <mark key="." line="65" column="13" />
         <mark key="^" line="65" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518150145778">
+      <file name="/Dummy.txt" timestamp="1518159324944">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/java/law/pom.xml" timestamp="1507787272217">
@@ -1428,12 +1429,12 @@
         <mark key="^" line="34" column="30" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/ComponentServiceImplTest.java" timestamp="1518156650994">
-        <mark key="'" line="194" column="10" />
-        <mark key="[" line="205" column="0" />
-        <mark key="]" line="205" column="0" />
-        <mark key="." line="205" column="0" />
-        <mark key="^" line="214" column="29" />
+      <file name="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/ComponentServiceImplTest.java" timestamp="1518158848845">
+        <mark key="'" line="196" column="37" />
+        <mark key="[" line="206" column="0" />
+        <mark key="]" line="206" column="46" />
+        <mark key="." line="206" column="0" />
+        <mark key="^" line="197" column="43" />
       </file>
       <file name="F:/code/java/vocs/src/main/resources/sql/schema.sql" timestamp="1514077350536">
         <mark key="[" line="371" column="17" />
@@ -1964,7 +1965,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="151" column="0" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/common/Function.java" />
       <jump line="166" column="74" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/common/Function.java" />
       <jump line="38" column="52" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/ComponentServiceImpl.java" />
       <jump line="52" column="4" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/SealServiceImplTest.java" />
@@ -2064,6 +2064,7 @@
       <jump line="78" column="0" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/ComponentServiceImpl.java" />
       <jump line="194" column="10" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/ComponentServiceImplTest.java" />
       <jump line="31" column="34" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.baomidou/mybatis-plus-support/2.1.8/9f4f661e368346980569c150d4839474c7cffa47/mybatis-plus-support-2.1.8-sources.jar!/com/baomidou/mybatisplus/plugins/Page.java" />
+      <jump line="197" column="37" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/ComponentServiceImplTest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2086,8 +2087,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoMiwgY29tcG9uZW50czEuZ2V0TGltaXQoKSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Y2hlY2tXYXJlaG91c2Ug</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2194,43 +2195,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">Y2hlY2tXYXJlaG91c2Ug</text>
       </register>
       <register name="/" type="4">
         <text>compiler</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRTYW1lKGNvbXBvbmVudHMsIGlDb21wb25lbnRTZXJ2aWNlLnNlbGVjdENvbXBvbmVudFBhZ2UobmV3IFBhZ2U8PigwLCAyKSwgMSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoMiwgY29tcG9uZW50cy5nZXRTaXplKCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoMiwgY29tcG9uZW50czEuZ2V0TGltaXQoKSk7Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoMiwgY29tcG9uZW50cy5nZXRMaW1pdCgpKTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoMTAsIGNvbXBvbmVudHMuZ2V0VG90YWwoKSk7Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoMCwgY29tcG9uZW50cy5nZXRPZmZzZXQoKSk7Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoMiwgY29tcG9uZW50czEuZ2V0T2Zmc2V0KCkpOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoMiwgY29tcG9uZW50czEuZ2V0TGltaXQoKSk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoMiwgY29tcG9uZW50cy5nZXRMaW1pdCgpKTsK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoMTAsIGNvbXBvbmVudHMuZ2V0VG90YWwoKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CS8vIHR5cGUgSlNSMzEwCgljb21waWxlKCJvcmcubXliYXRpczpteWJhdGlzLXR5cGVoYW5kbGVycy1qc3IzMTA6MS4wLjIiKQo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoMCwgY29tcG9uZW50cy5nZXRPZmZzZXQoKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBDYWNoaW5nKGV2aWN0ID0ge0BDYWNoZUV2aWN0KHZhbHVlID0gImFsbENvbXBvbmVudHNJbkZhY3RvcnkiLCBhbGxFbnRyaWVzID0gdHJ1ZSksCiAgICAgICAgICAgIEBDYWNoZUV2aWN0KHZhbHVlID0gImNvbXBvbmVudHNJbkZhY3RvcnlCeVBhZ2UiLCBhbGxFbnRyaWVzID0gdHJ1ZSl9KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CS8vIHR5cGUgSlNSMzEwCgljb21waWxlKCJvcmcubXliYXRpczpteWJhdGlzLXR5cGVoYW5kbGVycy1qc3IzMTA6MS4wLjIiKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBDYWNoZUV2aWN0KHZhbHVlID0gImFsbENvbXBvbmVudHNJbkZhY3RvcnkiLCBrZXkgPSAiI2NvbXBvbmVudC5mYWN0b3J5SWQiKQo=</text>
+        <text encoding="base64">ICAgIEBDYWNoaW5nKGV2aWN0ID0ge0BDYWNoZUV2aWN0KHZhbHVlID0gImFsbENvbXBvbmVudHNJbkZhY3RvcnkiLCBhbGxFbnRyaWVzID0gdHJ1ZSksCiAgICAgICAgICAgIEBDYWNoZUV2aWN0KHZhbHVlID0gImNvbXBvbmVudHNJbkZhY3RvcnlCeVBhZ2UiLCBhbGxFbnRyaWVzID0gdHJ1ZSl9KQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text>action PreviousTab</text>
       </register>
     </registers>
     <search>
@@ -2283,9 +2284,9 @@
         <entry>%s/joint/connector/gc</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gTmV4dFRhYg==</entry>
+        <entry>action ReformatCode</entry>
         <entry>action NextTab</entry>
         <entry>action PreviousTab</entry>
-        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
