@@ -860,7 +860,7 @@
         <mark key="." line="65" column="13" />
         <mark key="^" line="65" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518164237492">
+      <file name="/Dummy.txt" timestamp="1518169495983">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/java/law/pom.xml" timestamp="1507787272217">
@@ -1271,12 +1271,12 @@
         <mark key="." line="18" column="14" />
         <mark key="^" line="18" column="14" />
       </file>
-      <file name="D:/code/java/voc/src/main/resources/sql/schema.sql" timestamp="1518168149345">
-        <mark key="'" line="35" column="24" />
-        <mark key="[" line="34" column="41" />
-        <mark key="]" line="34" column="54" />
-        <mark key="^" line="34" column="54" />
-        <mark key="." line="34" column="54" />
+      <file name="D:/code/java/voc/src/main/resources/sql/schema.sql" timestamp="1518169472514">
+        <mark key="'" line="357" column="31" />
+        <mark key="[" line="278" column="30" />
+        <mark key="]" line="278" column="39" />
+        <mark key="^" line="278" column="39" />
+        <mark key="." line="278" column="39" />
       </file>
       <file name="$USER_HOME$/code/java/law/src/main/resources/mapper/LawMapper.xml" timestamp="1507778383686">
         <mark key="[" line="19" column="0" />
@@ -1915,11 +1915,11 @@
         <mark key="." line="12" column="4" />
         <mark key="^" line="12" column="4" />
       </file>
-      <file name="D:/code/java/voc/src/test/resources/sql/init.sql" timestamp="1518168162826">
-        <mark key="'" line="44" column="0" />
-        <mark key="[" line="19" column="70" />
-        <mark key="]" line="19" column="70" />
-        <mark key="." line="19" column="70" />
+      <file name="D:/code/java/voc/src/test/resources/sql/init.sql" timestamp="1518168538585">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="38" column="54" />
+        <mark key="]" line="38" column="55" />
+        <mark key="." line="38" column="55" />
         <mark key="^" line="15" column="94" />
       </file>
       <file name="$USER_HOME$/workdir/react-components/src/styles/user.css" timestamp="1491717147991">
@@ -1990,10 +1990,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="48" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/config/ShiroConfig.java" />
-      <jump line="60" column="23" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/shiro/MyRealm.java" />
-      <jump line="28" column="25" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/shiro/JWTUtil.java" />
-      <jump line="54" column="22" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/shiro/JWTFilter.java" />
       <jump line="16" column="0" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/shiro/JWTFilter.java" />
       <jump line="5" column="0" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/shiro/JWTFilter.java" />
       <jump line="94" column="48" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/shiro/JWTFilter.java" />
@@ -2086,10 +2082,14 @@
       <jump line="118" column="0" filename="D:/code/java/voc/src/test/resources/sql/init.sql" />
       <jump line="20" column="0" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
       <jump line="143" column="32" filename="D:/code/java/voc/src/test/resources/sql/init.sql" />
-      <jump line="0" column="0" filename="D:/code/java/voc/src/test/resources/sql/init.sql" />
       <jump line="34" column="0" filename="D:/code/java/voc/src/test/resources/sql/init.sql" />
       <jump line="451" column="0" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
       <jump line="35" column="24" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
+      <jump line="72" column="55" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
+      <jump line="39" column="5" filename="D:/code/java/voc/src/test/resources/sql/init.sql" />
+      <jump line="0" column="0" filename="D:/code/java/voc/src/test/resources/sql/init.sql" />
+      <jump line="303" column="14" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
+      <jump line="354" column="31" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2113,7 +2113,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>, '2018-01-22 15:21:22', '2018-01-22 15:21:22'</text>
+        <text encoding="base64">IERFRkFVTFQgJyc=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2220,13 +2220,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, '2018-01-22 15:21:22', '2018-01-22 15:21:22'</text>
+        <text encoding="base64">IERFRkFVTFQgJyc=</text>
       </register>
       <register name="/" type="4">
         <text>insti</text>
       </register>
-      <register name="0" type="4">
-        <text>, '2018-01-22 15:21:22'</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBGT1JFSUdOIEtFWSAodXNlcl9pZCkgUkVGRVJFTkNFUyBgdXNlcmAgKGBpZGApCiAgICBPTiBERUxFVEUgQ0FTQ0FERQogICAgT04gVVBEQVRFIENBU0NBREUK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -2256,7 +2256,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action PreviousTab</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
@@ -2309,9 +2309,9 @@
         <entry>%s/joint/connector/gc</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gTmV4dFRhYg==</entry>
-        <entry>action ReformatCode</entry>
         <entry>action NextTab</entry>
         <entry>action PreviousTab</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
