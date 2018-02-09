@@ -23,12 +23,6 @@
         <mark key="." line="11" column="49" />
         <mark key="^" line="11" column="49" />
       </file>
-      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/web/UserController.java" timestamp="1517655621388">
-        <mark key="[" line="43" column="24" />
-        <mark key="]" line="43" column="32" />
-        <mark key="." line="43" column="32" />
-        <mark key="^" line="43" column="32" />
-      </file>
       <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/config/MybatisPlusConfig.java" timestamp="1514792130841">
         <mark key="[" line="10" column="13" />
         <mark key="]" line="10" column="33" />
@@ -983,10 +977,10 @@
         <mark key="." line="2" column="9" />
       </file>
       <file name="D:/code/java/voc/src/main/resources/application.yaml" timestamp="1517652783435">
-        <mark key="[" line="23" column="71" />
-        <mark key="]" line="23" column="71" />
-        <mark key="." line="23" column="71" />
-        <mark key="^" line="23" column="65" />
+        <mark key="[" line="20" column="71" />
+        <mark key="]" line="20" column="71" />
+        <mark key="." line="20" column="71" />
+        <mark key="^" line="20" column="65" />
       </file>
       <file name="$USER_HOME$/sync/code/go/src/LawIndexer/views/index.tpl" timestamp="1491390763591">
         <mark key="[" line="83" column="17" />
@@ -1708,6 +1702,11 @@
         <mark key="." line="12" column="4" />
         <mark key="^" line="12" column="4" />
       </file>
+      <file name="D:/code/java/voc/src/test/resources/sql/init.sql" timestamp="1518172037616">
+        <mark key="[" line="9" column="47" />
+        <mark key="]" line="9" column="47" />
+        <mark key="." line="9" column="47" />
+      </file>
       <file name="$USER_HOME$/workdir/react-components/src/styles/user.css" timestamp="1491717147991">
         <mark key="[" line="6" column="1" />
         <mark key="]" line="6" column="1" />
@@ -1899,7 +1898,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>, ''</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2006,7 +2005,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>, ''</text>
       </register>
       <register name="/" type="4">
         <text>header</text>
@@ -2014,11 +2013,11 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBmaWx0ZXJDaGFpbkRlZmluaXRpb25NYXAucHV0KCIvNDA0IiwgImFub24iKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIEBSZXF1ZXN0TWFwcGluZyh2YWx1ZSA9ICIvYXBpL2xvZ2luIiwgbWV0aG9kID0gUmVxdWVzdE1ldGhvZC5QT1NULCBjb25zdW1lcyA9IHsiYXBwbGljYXRpb24veC13d3ctZm9ybS11cmxlbmNvZGVkIn0pCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">LCAn6IqC6IO9546v5L+d5YiG5YWs5Y+4JyksCiAgKDUsIDIsICfnqbrlo7Plhazlj7gnLCAn5aSp5rSlJywgJ+Wkqea0pScsICflpKnlqIHlt6XkuJrlm60nLCAwLCBGQUxTRSwgJ+epuuWjs+WFrOWPuCcpLAogICg2LCAzLCAn54K85rK55Y6CJywgJ+Wkqea0pScsICfmu6jmtbfmlrDljLonLCAn5Li05riv5bel5Lia5Yy6JywgMTAsIFRSVUUsICcnKSwKICAoNywgNCwgJ+WMluW3peWOgicsICflpKnmtKUnLCAn5ruo5rW35paw5Yy6JywgJ+S4tOa4r+W3peS4muWMuicsIDIwLCBUUlVFLCAnJyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBSZXF1ZXN0TWFwcGluZyh2YWx1ZSA9ICIvYXBpL2xvZ2luIiwgbWV0aG9kID0gUmVxdWVzdE1ldGhvZC5QT1NULCBjb25zdW1lcyA9IHsiYXBwbGljYXRpb24veC13d3ctZm9ybS11cmxlbmNvZGVkIn0pCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -2027,19 +2026,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb250ZXh0UGF0aDogL2FwaS8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c2VydmVyOgo=</text>
+        <text encoding="base64">ICBjb250ZXh0UGF0aDogL2FwaS8K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBkYXRhOgogICAgcmVzdDoKICAgICAgYmFzZS1wYXRoOiAvYXBpCg==</text>
+        <text encoding="base64">c2VydmVyOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIEhvbWVDb250cm9sbGVyIHsKfQo=</text>
+        <text encoding="base64">ICBkYXRhOgogICAgcmVzdDoKICAgICAgYmFzZS1wYXRoOiAvYXBpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIEhvbWVDb250cm9sbGVyIHsKfQo=</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
