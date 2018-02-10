@@ -89,6 +89,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'ComponentServiceImplTest.uploadPhotoFrom...'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'ComponentServiceImplTest.uploadPhotoFrom...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'FactoryControllerTest.addForValid'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -406,7 +414,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'ComponentServiceImplTest'</Description>
-          <Count>11</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ComponentServiceImplTest.add'">
@@ -415,6 +423,14 @@
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'ComponentServiceImplTest.add'</Description>
           <Count>9</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'ComponentServiceImplTest.uploadPhotoFrom...'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'ComponentServiceImplTest.uploadPhotoFrom...'</Description>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'DatabaseExportDBUnit'">
@@ -814,6 +830,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'FactoryControllerTest.addForValid'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'FactoryControllerTest.update'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'FactoryControllerTest.update'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
