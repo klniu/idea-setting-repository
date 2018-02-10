@@ -864,6 +864,9 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="21" column="8" />
       </file>
+      <file name="/dummy.sql" timestamp="1518222976126">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workdir/lawindexer-ui/src/entry/home.tsx.ts" timestamp="1491699886675">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="3" column="3" />
@@ -1299,12 +1302,12 @@
         <mark key="." line="18" column="14" />
         <mark key="^" line="18" column="14" />
       </file>
-      <file name="D:/code/java/voc/src/main/resources/sql/schema.sql" timestamp="1518219730130">
-        <mark key="'" line="1" column="2" />
-        <mark key="[" line="457" column="0" />
-        <mark key="]" line="457" column="2" />
+      <file name="D:/code/java/voc/src/main/resources/sql/schema.sql" timestamp="1518222894418">
+        <mark key="'" line="457" column="2" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
         <mark key="^" line="457" column="2" />
-        <mark key="." line="457" column="2" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/code/java/law/src/main/resources/mapper/LawMapper.xml" timestamp="1507778383686">
         <mark key="[" line="19" column="0" />
@@ -2022,7 +2025,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="134" column="17" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/web/ComponentControllerTest.java" />
       <jump line="135" column="17" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/web/ComponentControllerTest.java" />
       <jump line="136" column="17" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/web/ComponentControllerTest.java" />
       <jump line="85" column="44" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/web/SealController.java" />
@@ -2122,6 +2124,7 @@
       <jump line="18" column="12" filename="D:/code/java/voc/build.gradle" />
       <jump line="1" column="2" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
       <jump line="66" column="68" filename="D:/code/java/voc/build.gradle" />
+      <jump line="457" column="2" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2144,8 +2147,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2252,7 +2255,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>png</text>
