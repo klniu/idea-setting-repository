@@ -700,12 +700,12 @@
         <mark key="." line="7" column="33" />
         <mark key="^" line="7" column="33" />
       </file>
-      <file name="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/UserServiceImplTest.java" timestamp="1518337153179">
-        <mark key="'" line="105" column="53" />
-        <mark key="[" line="103" column="0" />
-        <mark key="]" line="105" column="77" />
-        <mark key="." line="134" column="7" />
-        <mark key="^" line="134" column="7" />
+      <file name="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/UserServiceImplTest.java" timestamp="1518340500877">
+        <mark key="'" line="113" column="0" />
+        <mark key="[" line="132" column="0" />
+        <mark key="]" line="132" column="105" />
+        <mark key="." line="132" column="0" />
+        <mark key="^" line="131" column="22" />
       </file>
       <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/entity/Institution.java" timestamp="1515288055980">
         <mark key="[" line="31" column="29" />
@@ -868,7 +868,7 @@
         <mark key="." line="65" column="13" />
         <mark key="^" line="65" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518169495983">
+      <file name="/Dummy.txt" timestamp="1518340615171">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/java/law/pom.xml" timestamp="1507787272217">
@@ -1987,7 +1987,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/web/HomeController.java" />
       <jump line="101" column="0" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/web/ComponentController.java" />
       <jump line="1" column="6" filename="D:/code/web/voc-ui/src/app/app.component.html" />
       <jump line="0" column="0" filename="D:/code/web/voc-ui/src/app/heroes/heroes.component.html" />
@@ -2087,6 +2086,7 @@
       <jump line="105" column="16" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.shiro/shiro-core/1.4.0/fa55fb228087dbb9026ce97d8e2f6d968b77a9d7/shiro-core-1.4.0-sources.jar!/org/apache/shiro/subject/Subject.java" />
       <jump line="97" column="40" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/UserServiceImpl.java" />
       <jump line="66" column="38" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/shiro/MyRealm.java" />
+      <jump line="118" column="0" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/UserServiceImplTest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2110,7 +2110,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkb1JldHVybihBcnJheXMuYXNMaXN0KEZpcnN0RmFjdG9yeUlkKSkud2hlbihpRmFjdG9yeVNlcnZpY2UpLmdldENoaWxkcmVuSWRzQnlJZChGaXJzdEZhY3RvcnlJZCk7Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2217,40 +2217,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>admin</text>
       </register>
       <register name="/" type="4">
         <text>insti</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTaW1wbGVQcmluY2lwYWxDb2xsZWN0aW9uIHNpbXBsZVByaW5jaXBhbENvbGxlY3Rpb24gPSBuZXcgU2ltcGxlUHJpbmNpcGFsQ29sbGVjdGlvbigpOwogICAgICAgIHNpbXBsZVByaW5jaXBhbENvbGxlY3Rpb24uYWRkKCJleUowZVhBaU9pSktWMVFpTENKaGJHY2lPaUpJVXpJMU5pSjkuZXlKbVlXTjBiM0o1U1dRaU9qRXNJbVY0Y0NJNk1UVXhPRGt6TlRJMk9Td2lkWE5sY201aGJXVWlPaUpoWkcxcGJpSjkuN05SY0dxVVZIcnJnaE9hUXFBWmpRUk4xLWlGLXlneXRTdUllR3dXTncxTSIsICJteV9yZWFsbSIpOwogICAgICAgIGRvUmV0dXJuKHNpbXBsZVByaW5jaXBhbENvbGxlY3Rpb24pLndoZW4obW9ja1N1YmplY3QpLmdldFByaW5jaXBhbHMoKTsK</text>
+        <text encoding="base64">ICAgICAgICBkb1JldHVybihBcnJheXMuYXNMaXN0KEZpcnN0RmFjdG9yeUlkKSkud2hlbihpRmFjdG9yeVNlcnZpY2UpLmdldENoaWxkcmVuSWRzQnlJZChGaXJzdEZhY3RvcnlJZCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aGVuKGlVc2VyU2VydmljZS5nZXRVc2VybmFtZUJ5VG9rZW4oKSkudGhlblJldHVybigia2xuaXUiKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTZWN1cml0eVV0aWxzLnNldFNlY3VyaXR5TWFuYWdlcihtb2NrKG9yZy5hcGFjaGUuc2hpcm8ubWd0LlNlY3VyaXR5TWFuYWdlci5jbGFzcykpOwogICAgICAgIFN1YmplY3QgbW9ja1N1YmplY3QgPSBNb2NraXRvLm1vY2soU3ViamVjdC5jbGFzcyk7CiAgICAgICAgU3ViamVjdFRocmVhZFN0YXRlIHRocmVhZFN0YXRlID0gbmV3IFN1YmplY3RUaHJlYWRTdGF0ZShtb2NrU3ViamVjdCk7CiAgICAgICAgdGhyZWFkU3RhdGUuYmluZCgpOwogICAgICAgIHdoZW4obW9ja1N1YmplY3QuZ2V0UHJpbmNpcGFscygpKS50aGVuUmV0dXJuKG5ldyBTaW1wbGVQcmluY2lwYWxDb2xsZWN0aW9uKCkpOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLzIuIEJpbmQgdGhlIHN1YmplY3QgdG8gdGhlIGN1cnJlbnQgdGhyZWFkOgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAvLyBkb05vdGhpbmcoKS53aGVuKG1vY2tTdWJqZWN0LmdldFByaW5jaXBhbHMoKSk7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKGlGYWN0b3J5U2VydmljZS5nZXRDaGlsZHJlbklkc0J5SWQoYW55KCkpKS50aGVuUmV0dXJuKEFycmF5cy5hc0xpc3QoRmlyc3RGYWN0b3J5SWQpKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtb2NrU3ViamVjdC4K</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBTZWN1cml0eVV0aWxzLnNldFNlY3VyaXR5TWFuYWdlcihtb2NrKG9yZy5hcGFjaGUuc2hpcm8ubWd0LlNlY3VyaXR5TWFuYWdlci5jbGFzcykpOwogICAgICAgIFN1YmplY3QgbW9ja1N1YmplY3QgPSBNb2NraXRvLm1vY2soU3ViamVjdC5jbGFzcyk7CiAgICAgICAgU3ViamVjdFRocmVhZFN0YXRlIHRocmVhZFN0YXRlID0gbmV3IFN1YmplY3RUaHJlYWRTdGF0ZShtb2NrU3ViamVjdCk7CiAgICAgICAgdGhyZWFkU3RhdGUuYmluZCgpOwogICAgICAgIHdoZW4obW9ja1N1YmplY3QuZ2V0UHJpbmNpcGFscygpKS50aGVuUmV0dXJuKG5ldyBTaW1wbGVQcmluY2lwYWxDb2xsZWN0aW9uKCkpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAvLzIuIEJpbmQgdGhlIHN1YmplY3QgdG8gdGhlIGN1cnJlbnQgdGhyZWFkOgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAvLyAvLyBkb05vdGhpbmcoKS53aGVuKG1vY2tTdWJqZWN0LmdldFByaW5jaXBhbHMoKSk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB3aGVuKGlGYWN0b3J5U2VydmljZS5nZXRDaGlsZHJlbklkc0J5SWQoYW55KCkpKS50aGVuUmV0dXJuKEFycmF5cy5hc0xpc3QoRmlyc3RGYWN0b3J5SWQpKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBtb2NrU3ViamVjdC4K</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRTdWJqZWN0KHN1YmplY3RVbmRlclRlc3QpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLzIuIEJpbmQgdGhlIHN1YmplY3QgdG8gdGhlIGN1cnJlbnQgdGhyZWFkOgo=</text>
+        <text encoding="base64">ICAgICAgICBzZXRTdWJqZWN0KHN1YmplY3RVbmRlclRlc3QpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
