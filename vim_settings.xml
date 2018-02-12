@@ -1361,12 +1361,12 @@
         <mark key="." line="18" column="14" />
         <mark key="^" line="18" column="14" />
       </file>
-      <file name="D:/code/java/voc/src/main/resources/sql/schema.sql" timestamp="1518430848534">
+      <file name="D:/code/java/voc/src/main/resources/sql/schema.sql" timestamp="1518431603252">
         <mark key="'" line="407" column="10" />
-        <mark key="[" line="474" column="0" />
-        <mark key="]" line="480" column="25" />
-        <mark key="^" line="613" column="9" />
-        <mark key="." line="407" column="10" />
+        <mark key="[" line="481" column="23" />
+        <mark key="]" line="481" column="22" />
+        <mark key="^" line="481" column="22" />
+        <mark key="." line="481" column="22" />
       </file>
       <file name="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/DetectionServiceImplTest.java" timestamp="1518413019209">
         <mark key="'" line="59" column="0" />
@@ -2260,7 +2260,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICBPVVQgYF9pZGAgICAgICAgICAgIEJJR0lOVCwKICBPVVQgYF9lcnJvcl9jb2RlYCAgIFRJTllJTlQsCiAgT1VUIGBfdW5pdF9pZGAgICAgICBJTlQsCiAgT1VUIGBfaW5zdGFsbF9pZGAgICBJTlQsCiAgT1VUIGBfc2VhbF9pZGAgICAgICBJTlQsCiAgT1VUIGBfc3RhbmRhcmRgICAgICBJTlQsCiAgT1VUIGBfbGVha2luZ2AgICAgICBCT09M</text>
+        <text>,</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2367,13 +2367,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>NULL</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>media</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAoMSwgNiwgMSwgMSwgMSwgJzIwMTctMDUtMDEgMDg6MDA6MDAnLCAtMiwgMC4zLCA1MDAsIEZBTFNFLCAnVFZBMjAyMEMnLCAnMTU0OTIyMycsICflronlhajnjq/kv53liIblhazlj7gnLAogICAn5bCP5LqO77yM5bCP5bygJyksCg==</text>
+        <text encoding="base64">ICBPVVQgYF9zZWFsX3R5cGVgIElOVCwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
@@ -2456,9 +2456,9 @@
         <entry>%s/joint/connector/gc</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gTmV4dFRhYg==</entry>
         <entry>q</entry>
-        <entry>action ReformatCode</entry>
         <entry>action PreviousTab</entry>
         <entry>action NextTab</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
