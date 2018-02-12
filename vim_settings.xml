@@ -1314,12 +1314,12 @@
         <mark key="." line="18" column="14" />
         <mark key="^" line="18" column="14" />
       </file>
-      <file name="D:/code/java/voc/src/main/resources/sql/schema.sql" timestamp="1518420679685">
-        <mark key="'" line="381" column="2" />
-        <mark key="[" line="478" column="0" />
-        <mark key="]" line="478" column="0" />
-        <mark key="^" line="477" column="0" />
-        <mark key="." line="478" column="0" />
+      <file name="D:/code/java/voc/src/main/resources/sql/schema.sql" timestamp="1518426135751">
+        <mark key="'" line="347" column="23" />
+        <mark key="[" line="528" column="9" />
+        <mark key="]" line="528" column="9" />
+        <mark key="." line="528" column="9" />
+        <mark key="^" line="528" column="9" />
       </file>
       <file name="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/DetectionServiceImplTest.java" timestamp="1518413019209">
         <mark key="'" line="59" column="0" />
@@ -1972,9 +1972,10 @@
         <mark key="." line="12" column="4" />
         <mark key="^" line="12" column="4" />
       </file>
-      <file name="D:/code/java/voc/src/test/resources/sql/init.sql" timestamp="1518413994966">
-        <mark key="[" line="114" column="0" />
-        <mark key="]" line="116" column="44" />
+      <file name="D:/code/java/voc/src/test/resources/sql/init.sql" timestamp="1518423235280">
+        <mark key="'" line="115" column="0" />
+        <mark key="[" line="196" column="0" />
+        <mark key="]" line="197" column="5" />
         <mark key="^" line="9" column="48" />
         <mark key="." line="9" column="48" />
       </file>
@@ -2073,8 +2074,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="218" column="49" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/ComponentServiceImpl.java" />
-      <jump line="221" column="51" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/ComponentServiceImpl.java" />
       <jump line="78" column="0" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/ComponentServiceImpl.java" />
       <jump line="194" column="10" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/ComponentServiceImplTest.java" />
       <jump line="31" column="34" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.baomidou/mybatis-plus-support/2.1.8/9f4f661e368346980569c150d4839474c7cffa47/mybatis-plus-support-2.1.8-sources.jar!/com/baomidou/mybatisplus/plugins/Page.java" />
@@ -2173,6 +2172,8 @@
       <jump line="292" column="13" filename="D:/code/go/ldar/sql.go" />
       <jump line="373" column="8" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
       <jump line="381" column="2" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
+      <jump line="115" column="0" filename="D:/code/java/voc/src/test/resources/sql/init.sql" />
+      <jump line="347" column="23" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2195,8 +2196,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2303,44 +2304,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>media</text>
       </register>
-      <register name="0" type="8">
-        <text encoding="base64">YGlkYCAgICAgICAgICAgQklHSU5UIFBSSU1BUlkgS0UKYGZhY3RvcnlfaWRgICAgSU5UICAgICAgICAgIE5PVCAKYHVuaXRfaWRgICAgICBJTlQgICAgICAgICBOT1QgTlUKYGluc3RhbGxfaWRgICBJTlQgICAgICAgICBOT1QgTlUKYHNlYWxfaWRgICAgICAgQklHSU5UICAgICAgIE5PVCAKYHRpbWVgICAgICAgICAgREFURVRJTUUgICAgIE5PVCAKYHZhbHVlYCAgICAgICAgUkVBTCAgICAgICAgIE5PVCAKYGJhY2tnb3VuZGAgICAgUkVBTCAgICAgICAgIE5PVCAKYHN0YW5kYXJkYCAgICAgSU5UICAgICAgICAgIE5PVCAKYGxlYWtpbmdgICAgQk9PTCAgICAgICAgIE5PVCBOVUwKYGRldmljZV9tb2RlbGAgVkFSQ0hBUig1MCkgIE5PVCAKYGRldmljZV9ub2AgICAgVkFSQ0hBUig1MCkgIE5PVCAKYGNvbXBhbnlgICAgICAgVkFSQ0hBUigxMDApIE5PVCAKYHBlcnNvbnNgICAgICAgVkFSQ0hBUigxMDApIE5PVCA=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgU0VUIGBfZXJyb3JfY29kZWAgPSAxOwogICAgICBMRUFWRSBwcm9jOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgTEVBVkUgcHJvYzsK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="8">
-        <text>OUT
-OUT</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBJTiBgc3RhbmRhcmRgICAgICBJTlQgICAgLCAK</text>
+        <text encoding="base64">ICAgICAgU0VUIGBfZXJyb3JfY29kZWAgPSAxOwogICAgICBMRUFWRSBwcm9jOwo=</text>
       </register>
-      <register name="6" type="8">
-        <text>NOT
-NOT
-NOT
-NOT</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="7" type="8">
-        <text encoding="base64">ICBOT1QKTk9UIE5VCk5PVCBOVQogIE5PVAogIE5PVAogIE5PVAogIE5PVAogIE5PVApPVCBOVUw=</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="8">
-        <text encoding="base64">IAogCiAKIAogCiAKIAogCiA=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICBFTkQgJCQK</text>
       </register>
-      <register name="9" type="8">
-        <text encoding="base64">IAogCiAKIAogCiAKIAogCk4=</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
@@ -2396,8 +2393,8 @@ NOT</text>
         <entry>%s/joint/connector/gc</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gTmV4dFRhYg==</entry>
         <entry>q</entry>
-        <entry>action NextTab</entry>
         <entry>action PreviousTab</entry>
+        <entry>action NextTab</entry>
         <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
