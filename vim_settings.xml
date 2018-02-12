@@ -888,7 +888,7 @@
         <mark key="." line="65" column="13" />
         <mark key="^" line="65" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518426577194">
+      <file name="/Dummy.txt" timestamp="1518475285092">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/java/law/pom.xml" timestamp="1507787272217">
@@ -1212,10 +1212,10 @@
         <mark key="^" line="39" column="69" />
         <mark key="." line="50" column="0" />
       </file>
-      <file name="D:/code/java/voc/src/main/resources/mapper/DetectionMapper.xml" timestamp="1518472805089">
-        <mark key="[" line="4" column="8" />
-        <mark key="]" line="4" column="8" />
-        <mark key="." line="4" column="8" />
+      <file name="D:/code/java/voc/src/main/resources/mapper/DetectionMapper.xml" timestamp="1518475300775">
+        <mark key="[" line="16" column="8" />
+        <mark key="]" line="16" column="8" />
+        <mark key="." line="16" column="8" />
         <mark key="^" line="4" column="8" />
       </file>
       <file name="$USER_HOME$/sync/code/go/src/minger/server/main.go" timestamp="1489576060949">
@@ -1314,12 +1314,12 @@
         <mark key="." line="18" column="14" />
         <mark key="^" line="18" column="14" />
       </file>
-      <file name="D:/code/java/voc/src/main/resources/sql/schema.sql" timestamp="1518474175259">
-        <mark key="'" line="404" column="12" />
-        <mark key="[" line="412" column="11" />
-        <mark key="]" line="412" column="9" />
-        <mark key="." line="412" column="9" />
-        <mark key="^" line="412" column="9" />
+      <file name="D:/code/java/voc/src/main/resources/sql/schema.sql" timestamp="1518476084490">
+        <mark key="'" line="527" column="20" />
+        <mark key="[" line="439" column="0" />
+        <mark key="]" line="439" column="0" />
+        <mark key="^" line="437" column="46" />
+        <mark key="." line="439" column="0" />
       </file>
       <file name="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/DetectionServiceImplTest.java" timestamp="1518413019209">
         <mark key="'" line="59" column="0" />
@@ -1387,11 +1387,6 @@
         <mark key="]" line="29" column="26" />
         <mark key="." line="29" column="26" />
         <mark key="^" line="27" column="48" />
-      </file>
-      <file name="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/LdarRuleServiceImplTest.java" timestamp="1518415544476">
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="0" />
-        <mark key="." line="91" column="0" />
       </file>
       <file name="$USER_HOME$/code/java/vocs/src/main/resources/mapper/LdarSettingMapper.xml" timestamp="1508667168610">
         <mark key="[" line="26" column="18" />
@@ -1576,6 +1571,12 @@
         <mark key="]" line="8" column="20" />
         <mark key="^" line="13" column="0" />
         <mark key="." line="8" column="20" />
+      </file>
+      <file name="D:/code/java/voc/src/main/resources/mapper/LdarRuleMapper.xml" timestamp="1518475251705">
+        <mark key="[" line="7" column="12" />
+        <mark key="]" line="7" column="12" />
+        <mark key="." line="7" column="12" />
+        <mark key="^" line="7" column="11" />
       </file>
       <file name="D:/code/web/voc-ui/src/app/message.service.ts" timestamp="1517987880768">
         <mark key="[" line="14" column="0" />
@@ -2070,7 +2071,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="34" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.baomidou/mybatis-plus-support/2.1.8/9f4f661e368346980569c150d4839474c7cffa47/mybatis-plus-support-2.1.8-sources.jar!/com/baomidou/mybatisplus/plugins/Page.java" />
       <jump line="197" column="37" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/ComponentServiceImplTest.java" />
       <jump line="22" column="26" filename="D:/code/go/ldar/import.go" />
       <jump line="318" column="11" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" />
@@ -2170,6 +2170,7 @@
       <jump line="347" column="23" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
       <jump line="203" column="30" filename="D:/code/java/voc/src/test/resources/sql/init.sql" />
       <jump line="394" column="12" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
+      <jump line="526" column="20" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2192,8 +2193,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBLRVkgKGBmYWN0b3J5X2lkYCwgYHNlYWxfaWRgKSwK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2300,58 +2301,56 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>factory</text>
       </register>
       <register name="/" type="4">
-        <text>media</text>
+        <text>inner</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBGT1JFSUdOIEtFWSAoYGZhY3RvcnlfaWRgKSBSRUZFUkVOQ0VTIGBmYWN0b3J5YCAoYGlkYCkKICAgIE9OIERFTEVURSBDQVNDQURFCiAgICBPTiBVUERBVEUgQ0FTQ0FERSwK</text>
+        <text encoding="base64">ICBGT1JFSUdOIEtFWSAoYGluc3RhbGxfaWRgKSBSRUZFUkVOQ0VTIGBpbnN0YWxsYCAoYGlkYCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAtLSAK</text>
+        <text encoding="base64">ICBLRVkgKGBmYWN0b3J5X2lkYCwgYHNlYWxfaWRgKSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBgZGVsYXlfY291bnRgIElOVCBOT1QgTlVMTCBERUZBVUxUIDAsCg==</text>
+        <text encoding="base64">ICBLRVkgKGBmYWN0b3J5X2lkYCwgYHNlYWxfaWRgKSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBgYAo=</text>
+        <text encoding="base64">ICBDT01NRU5UICfova7mrKHlubTku73vvIzkuI7kuIvpnaLnrKzlh6DmrKHlhbHlkIznu4TmiJDlpoIyMDE4MDHnmoTova7mrKEnLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBPVVQgYF9pZGAgICAgICAgICAgIEJJR0lOVCwK</text>
+        <text encoding="base64">ICBgeWVhcmAgICAgICAgU01BTExJTlQgTk9UIE5VTEwK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="5" type="8">
+        <text encoding="base64">TEVGVCAKTEVGVCAKTEVGVCA=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgTEVBVkUgcHJvYzsK</text>
+        <text encoding="base64">ICAtLSAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBgZGVsYXlfY291bnRgIElOVCBOT1QgTlVMTCBERUZBVUxUIDAsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBgYAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgU0VUIGBfZXJyb3JfY29kZWAgPSAxOwogICAgICBMRUFWRSBwcm9jOwo=</text>
+        <text encoding="base64">ICBPVVQgYF9pZGAgICAgICAgICAgIEJJR0lOVCwK</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
-      <last-search>media</last-search>
+      <last-search>inner</last-search>
       <last-offset />
-      <last-pattern>media</last-pattern>
+      <last-pattern>inner</last-pattern>
       <last-replace>connector</last-replace>
       <last-substitute>insti</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>$</entry>
-        <entry>Unit</entry>
         <entry>unit</entry>
         <entry>built</entry>
         <entry>bui</entry>
@@ -2370,6 +2369,8 @@
         <entry>institution</entry>
         <entry>insti</entry>
         <entry>media</entry>
+        <entry>left</entry>
+        <entry>inner</entry>
       </history-search>
       <history-cmd>
         <entry>action AceAction</entry>
