@@ -888,7 +888,7 @@
         <mark key="." line="65" column="13" />
         <mark key="^" line="65" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518417984572">
+      <file name="/Dummy.txt" timestamp="1518419808808">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/java/law/pom.xml" timestamp="1507787272217">
@@ -1314,12 +1314,12 @@
         <mark key="." line="18" column="14" />
         <mark key="^" line="18" column="14" />
       </file>
-      <file name="D:/code/java/voc/src/main/resources/sql/schema.sql" timestamp="1518405416233">
-        <mark key="'" line="350" column="3" />
-        <mark key="[" line="259" column="3" />
-        <mark key="]" line="259" column="9" />
-        <mark key="." line="259" column="9" />
-        <mark key="^" line="259" column="9" />
+      <file name="D:/code/java/voc/src/main/resources/sql/schema.sql" timestamp="1518420679685">
+        <mark key="'" line="381" column="2" />
+        <mark key="[" line="478" column="0" />
+        <mark key="]" line="478" column="0" />
+        <mark key="^" line="477" column="0" />
+        <mark key="." line="478" column="0" />
       </file>
       <file name="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/DetectionServiceImplTest.java" timestamp="1518413019209">
         <mark key="'" line="59" column="0" />
@@ -2073,7 +2073,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="114" column="72" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/common/Function.java" />
       <jump line="218" column="49" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/ComponentServiceImpl.java" />
       <jump line="221" column="51" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/ComponentServiceImpl.java" />
       <jump line="78" column="0" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/ComponentServiceImpl.java" />
@@ -2165,7 +2164,6 @@
       <jump line="60" column="0" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/DetectionServiceImplTest.java" />
       <jump line="455" column="38" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
       <jump line="259" column="9" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
-      <jump line="373" column="8" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
       <jump line="350" column="3" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
       <jump line="40" column="57" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/LdarRuleServiceImpl.java" />
       <jump line="62" column="0" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/ComponentServiceImpl.java" />
@@ -2173,6 +2171,8 @@
       <jump line="81" column="4" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/LdarRuleServiceImpl.java" />
       <jump line="26" column="18" filename="D:/code/go/ldar/import.go" />
       <jump line="292" column="13" filename="D:/code/go/ldar/sql.go" />
+      <jump line="373" column="8" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
+      <jump line="381" column="2" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2196,7 +2196,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2303,40 +2303,44 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>HasChildrenException</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>media</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIC8vIOWIoOmZpOaVsOaNruaXtuacieWtkOaVsOaNrgogICAgLy8gQFJlc3BvbnNlU3RhdHVzKEh0dHBTdGF0dXMuVU5QUk9DRVNTQUJMRV9FTlRJVFkpCiAgICBAUmVzcG9uc2VTdGF0dXMoSHR0cFN0YXR1cy5PSykKICAgIEBFeGNlcHRpb25IYW5kbGVyKEhhc0NoaWxkcmVuRXhjZXB0aW9uLmNsYXNzKQogICAgcHVibGljIFJlc3VsdCBoYW5kbGVIYXNDaGlsZHJlbihIYXNDaGlsZHJlbkV4Y2VwdGlvbiBlKSB7CiAgICAgICAgcmV0dXJuIG5ldyBSZXN1bHQ8PigzMDAxLCBlLmdldE1lc3NhZ2UoKSwgRW1wdHkpOwogICAgfQo=</text>
+      <register name="0" type="8">
+        <text encoding="base64">YGlkYCAgICAgICAgICAgQklHSU5UIFBSSU1BUlkgS0UKYGZhY3RvcnlfaWRgICAgSU5UICAgICAgICAgIE5PVCAKYHVuaXRfaWRgICAgICBJTlQgICAgICAgICBOT1QgTlUKYGluc3RhbGxfaWRgICBJTlQgICAgICAgICBOT1QgTlUKYHNlYWxfaWRgICAgICAgQklHSU5UICAgICAgIE5PVCAKYHRpbWVgICAgICAgICAgREFURVRJTUUgICAgIE5PVCAKYHZhbHVlYCAgICAgICAgUkVBTCAgICAgICAgIE5PVCAKYGJhY2tnb3VuZGAgICAgUkVBTCAgICAgICAgIE5PVCAKYHN0YW5kYXJkYCAgICAgSU5UICAgICAgICAgIE5PVCAKYGxlYWtpbmdgICAgQk9PTCAgICAgICAgIE5PVCBOVUwKYGRldmljZV9tb2RlbGAgVkFSQ0hBUig1MCkgIE5PVCAKYGRldmljZV9ub2AgICAgVkFSQ0hBUig1MCkgIE5PVCAKYGNvbXBhbnlgICAgICAgVkFSQ0hBUigxMDApIE5PVCAKYHBlcnNvbnNgICAgICAgVkFSQ0hBUigxMDApIE5PVCA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuc3RlcmVvdHlwZS5TZXJ2aWNlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpQ29tcG9uZW50U2VydmljZS5pbgo=</text>
+      <register name="4" type="8">
+        <text>OUT
+OUT</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpQ29tcG9uZW50U2VydmljZS5pbgo=</text>
+        <text encoding="base64">ICBJTiBgc3RhbmRhcmRgICAgICBJTlQgICAgLCAK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZXRlY3Rpb25NYXBwZXIuCg==</text>
+      <register name="6" type="8">
+        <text>NOT
+NOT
+NOT
+NOT</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZXRlY3Rpb25NYXBwZXIuCg==</text>
+      <register name="7" type="8">
+        <text encoding="base64">ICBOT1QKTk9UIE5VCk5PVCBOVQogIE5PVAogIE5PVAogIE5PVAogIE5PVAogIE5PVApPVCBOVUw=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+      <register name="8" type="8">
+        <text encoding="base64">IAogCiAKIAogCiAKIAogCiA=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIERldGVjdGlvbiBhZGQoRGV0ZWN0aW9uIGRldGVjdGlvbik7Cg==</text>
+      <register name="9" type="8">
+        <text encoding="base64">IAogCiAKIAogCiAKIAogCk4=</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
