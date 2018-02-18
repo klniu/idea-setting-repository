@@ -387,6 +387,13 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="D:/code/web/voc-web/src/app/routes/passport/login/login.component.html" timestamp="1518915217081">
+        <mark key="'" line="37" column="39" />
+        <mark key="[" line="20" column="75" />
+        <mark key="]" line="20" column="76" />
+        <mark key="." line="20" column="76" />
+        <mark key="^" line="20" column="76" />
+      </file>
       <file name="D:/code/java/hbcnooc/src/main/java/com/klniu/hbcnooc/common/MpMysqlGenerator.java" timestamp="1513735322282">
         <mark key="[" line="19" column="56" />
         <mark key="]" line="19" column="62" />
@@ -599,6 +606,13 @@
         <mark key="]" line="10" column="57" />
         <mark key="^" line="10" column="57" />
         <mark key="." line="10" column="57" />
+      </file>
+      <file name="D:/code/web/voc-web/src/app/routes/passport/login/login.component.ts" timestamp="1518915414928">
+        <mark key="'" line="0" column="9" />
+        <mark key="[" line="47" column="8" />
+        <mark key="]" line="47" column="8" />
+        <mark key="^" line="47" column="8" />
+        <mark key="." line="47" column="8" />
       </file>
       <file name="D:/code/java/voc/src/test/java/com/cnvoc/voc/web/BaseTest.java" timestamp="1517403604315">
         <mark key="'" line="28" column="33" />
@@ -1428,14 +1442,6 @@
         <mark key="." line="18" column="14" />
         <mark key="^" line="18" column="14" />
       </file>
-      <file name="D:/code/java/voc/src/main/resources/sql/schema.sql" timestamp="1518527514357">
-        <mark key="'" line="571" column="0" />
-        <mark key="[" line="456" column="26" />
-        <mark key="]" line="456" column="28" />
-        <mark key="." line="456" column="28" />
-        <mark key="^" line="456" column="28" />
-        <mark key="o" line="486" column="16" />
-      </file>
       <file name="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/DetectionServiceImplTest.java" timestamp="1518523811581">
         <mark key="'" line="107" column="0" />
         <mark key="[" line="136" column="78" />
@@ -2224,14 +2230,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="28" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/UserServiceImplTest.java" />
-      <jump line="25" column="77" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/shiro/JWTUtil.java" />
-      <jump line="97" column="8" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/UserServiceImplTest.java" />
-      <jump line="117" column="0" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/UserServiceImplTest.java" />
-      <jump line="75" column="6" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/shiro/JWTUtil.java" />
-      <jump line="112" column="22" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/UserServiceImplTest.java" />
-      <jump line="25" column="1" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/config/ShiroConfig.java" />
-      <jump line="0" column="0" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/UserServiceImplTest.java" />
       <jump line="100" column="35" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/UserServiceImplTest.java" />
       <jump line="36" column="13" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.shiro/shiro-core/1.4.0/fa55fb228087dbb9026ce97d8e2f6d968b77a9d7/shiro-core-1.4.0-sources.jar!/org/apache/shiro/subject/SimplePrincipalCollection.java" />
       <jump line="45" column="43" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/UserServiceImplTest.java" />
@@ -2324,6 +2322,14 @@
       <jump line="123" column="23" filename="D:/code/web/voc-web/node_modules/@delon/theme/services/menu/menu.service.js" />
       <jump line="74" column="5" filename="D:/code/web/voc-web/node_modules/@delon/theme/services/menu/menu.service.d.ts" />
       <jump line="34" column="26" filename="D:/code/web/voc-web/node_modules/@delon/theme/services/menu/menu.service.js" />
+      <jump line="92" column="24" filename="D:/code/web/voc-web/src/app/routes/passport/login/login.component.ts" />
+      <jump line="29" column="59" filename="D:/code/web/voc-web/src/app/routes/passport/login/login.component.ts" />
+      <jump line="49" column="4" filename="D:/code/web/voc-web/src/app/routes/passport/login/login.component.ts" />
+      <jump line="85" column="47" filename="D:/code/web/voc-web/src/app/routes/passport/login/login.component.ts" />
+      <jump line="26" column="33" filename="D:/code/web/voc-web/src/app/routes/passport/login/login.component.ts" />
+      <jump line="0" column="9" filename="D:/code/web/voc-web/src/app/routes/passport/login/login.component.ts" />
+      <jump line="25" column="35" filename="D:/code/web/voc-web/src/app/routes/passport/login/login.component.html" />
+      <jump line="37" column="39" filename="D:/code/web/voc-web/src/app/routes/passport/login/login.component.html" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2346,8 +2352,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>Async</text>
+      <register name="&quot;" type="8">
+        <text encoding="base64">Ly8gCi8vIA==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2454,61 +2460,56 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Async</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>icon</text>
+        <text>msg</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBOelRyZWVNb2R1bGUsCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIDxkaXYgbnotY29sIFtuek1kXT0iMTIiPjxhcHAtdHJlZS1hbnRkLWRlbW8tZHJhZ2dhYmxlPjwvYXBwLXRyZWUtYW50ZC1kZW1vLWRyYWdnYWJsZT48L2Rpdj4KICAgIDxkaXYgbnotY29sIFtuek1kXT0iMTIiPjxhcHAtdHJlZS1hbnRkLWRlbW8tc2VhcmNoYWJsZT48L2FwcC10cmVlLWFudGQtZGVtby1zZWFyY2hhYmxlPjwvZGl2PgogICAgPGRpdiBuei1jb2wgW256TWRdPSIxMiI+PGFwcC10cmVlLWFudGQtZGVtby1saW5lPjwvYXBwLXRyZWUtYW50ZC1kZW1vLWxpbmU+PC9kaXY+Cg==</text>
+      <register name="1" type="8">
+        <text encoding="base64">Ly8gCi8vIA==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxkaXYgbnotY29sIFtuek1kXT0iMTIiPjxhcHAtdHJlZS1hbnRkLWRlbW8tYmFzaWM+PC9hcHAtdHJlZS1hbnRkLWRlbW8tYmFzaWM+PC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PHByby1oZWFkZXIgW3RpdGxlXT0iJ1BhZ2UgTmFtZSciPjwvcHJvLWhlYWRlcj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHRoaXMudHlwZSA9PT0gMCkgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJjaGlsZHJlbiI6IFt7CiAgICAgICAgICAgICAgICAgICAgInRleHQiOiAi0sex7cXMVjEiLAogICAgICAgICAgICAgICAgICAgICJsaW5rIjogIi9kYXNoYm9hcmQvdjEiLAogICAgICAgICAgICAgICAgICAgICJ0cmFuc2xhdGUiOiAiZGFzaGJvYXJkX3YxIgogICAgICAgICAgICAgICAgfSwgewogICAgICAgICAgICAgICAgICAgICJ0ZXh0IjogIrfWzvbSsyIsCiAgICAgICAgICAgICAgICAgICAgImxpbmsiOiAiL2Rhc2hib2FyZC9hbmFseXNpcyIsCiAgICAgICAgICAgICAgICAgICAgInRyYW5zbGF0ZSI6ICJkYXNoYm9hcmRfYW5hbHlzaXMiCiAgICAgICAgICAgICAgICB9LCB7CiAgICAgICAgICAgICAgICAgICAgInRleHQiOiAiTW9uaXRvciIsCiAgICAgICAgICAgICAgICAgICAgImxpbmsiOiAiL2Rhc2hib2FyZC9tb25pdG9yIiwKICAgICAgICAgICAgICAgICAgICAidHJhbnNsYXRlIjogImRhc2hib2FyZF9tb25pdG9yIgogICAgICAgICAgICAgICAgfSwgewogICAgICAgICAgICAgICAgICAgICJ0ZXh0IjogIldvcmtwbGFjZSIsCiAgICAgICAgICAgICAgICAgICAgImxpbmsiOiAiL2Rhc2hib2FyZC93b3JrcGxhY2UiLAogICAgICAgICAgICAgICAgICAgICJ0cmFuc2xhdGUiOiAiZGFzaGJvYXJkX3dvcmtwbGFjZSIKICAgICAgICAgICAgICAgIH1dCiAgICAgICAgICAgIH0sIHsKICAgICAgICAgICAgICAgICJ0ZXh0IjogIr/svd2yy7WlIiwKICAgICAgICAgICAgICAgICJ0cmFuc2xhdGUiOiAic2hvcnRjdXQiLAogICAgICAgICAgICAgICAgImljb24iOiAiaWNvbi1yb2NrZXQiLAogICAgICAgICAgICAgICAgInNob3J0Y3V0X3Jvb3QiOiB0cnVlLAogICAgICAgICAgICAgICAgImNoaWxkcmVuIjogW10KICAgICAgICAgICAgfSwgewogICAgICAgICAgICAgICAgInRleHQiOiAi0KGyv7z+IiwKICAgICAgICAgICAgICAgICJ0cmFuc2xhdGUiOiAid2lkZ2V0cyIsCiAgICAgICAgICAgICAgICAibGluayI6ICIvd2lkZ2V0cyIsCiAgICAgICAgICAgICAgICAiaWNvbiI6ICJpY29uLWdyaWQiLAogICAgICAgICAgICAgICAgImJhZGdlIjogMgo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIC8vIGVuZHJlZ2lvbgo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeyBwYXRoOiAnYmFzZScsIHJlZGlyZWN0VG86ICdkYXNoYm9hcmQvdjEnLCBwYXRoTWF0Y2g6ICdmdWxsJyB9LAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIC8vIHJlZ2lvbjogZ2V0IGNhcHRjaGEK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImNoaWxkcmVuIjogW3sKICAgICAgICAgICAgICAgICJ0ZXh0IjogItLHse3FzFYxIiwKICAgICAgICAgICAgICAgICJsaW5rIjogIi9kYXNoYm9hcmQvdjEiLAogICAgICAgICAgICAgICAgInRyYW5zbGF0ZSI6ICJkYXNoYm9hcmRfdjEiCiAgICAgICAgICAgIH0sIHsKICAgICAgICAgICAgICAgICJ0ZXh0IjogIrfWzvbSsyIsCiAgICAgICAgICAgICAgICAibGluayI6ICIvZGFzaGJvYXJkL2FuYWx5c2lzIiwKICAgICAgICAgICAgICAgICJ0cmFuc2xhdGUiOiAiZGFzaGJvYXJkX2FuYWx5c2lzIgogICAgICAgICAgICB9LCB7CiAgICAgICAgICAgICAgICAidGV4dCI6ICJNb25pdG9yIiwKICAgICAgICAgICAgICAgICJsaW5rIjogIi9kYXNoYm9hcmQvbW9uaXRvciIsCiAgICAgICAgICAgICAgICAidHJhbnNsYXRlIjogImRhc2hib2FyZF9tb25pdG9yIgogICAgICAgICAgICB9LCB7CiAgICAgICAgICAgICAgICAidGV4dCI6ICJXb3JrcGxhY2UiLAogICAgICAgICAgICAgICAgImxpbmsiOiAiL2Rhc2hib2FyZC93b3JrcGxhY2UiLAogICAgICAgICAgICAgICAgInRyYW5zbGF0ZSI6ICJkYXNoYm9hcmRfd29ya3BsYWNlIgogICAgICAgICAgICB9XQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
-      <last-search>icon</last-search>
+      <last-search>msg</last-search>
       <last-offset />
-      <last-pattern>icon</last-pattern>
+      <last-pattern>msg</last-pattern>
       <last-replace>connector</last-replace>
       <last-substitute>insti</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>adfasf</entry>
-        <entry>UNIQUE</entry>
-        <entry>LdarStandard</entry>
-        <entry>ldarStandard</entry>
-        <entry>standard</entry>
         <entry>Component</entry>
         <entry>component</entry>
         <entry>joint</entry>
@@ -2524,6 +2525,11 @@
         <entry>backgound</entry>
         <entry>lang</entry>
         <entry>icon</entry>
+        <entry encoding="base64">XDxjb3VudFw+</entry>
+        <entry encoding="base64">XDxpbnRlcnZhbFw+</entry>
+        <entry encoding="base64">XDxzZXR0aW5nc1NlcnZpY2VcPg==</entry>
+        <entry>service</entry>
+        <entry>msg</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Institution/Unit/gc</entry>
