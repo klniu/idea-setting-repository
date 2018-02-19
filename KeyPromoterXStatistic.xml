@@ -22,7 +22,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>48</Count>
+          <Count>49</Count>
         </Item>
       </Statistic>
       <Statistic Action="Convert Java File to Kotlin File">
@@ -191,6 +191,14 @@
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'UserControllerTest.login'</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'UserControllerTest.switchFactory'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'UserControllerTest.switchFactory'</Description>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'UserServiceImplTest'">
@@ -729,6 +737,14 @@
           <Count>14</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'UserControllerTest.switchFactory'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'UserControllerTest.switchFactory'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'UserServiceImplTest'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -977,6 +993,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'UserControllerTest.switchFactory'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'UserControllerTest.switchFactory'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'voc [test]'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1006,7 +1030,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>97</Count>
+          <Count>98</Count>
         </Item>
       </Statistic>
     </option>
