@@ -180,12 +180,12 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
-      <file name="D:/code/web/voc-web/src/app/routes/base/factory/factory-tree.component.ts" timestamp="1519036158883">
+      <file name="D:/code/web/voc-web/src/app/routes/base/factory/factory-tree.component.ts" timestamp="1519041769730">
         <mark key="'" line="45" column="35" />
-        <mark key="[" line="7" column="48" />
-        <mark key="]" line="7" column="49" />
-        <mark key="." line="7" column="49" />
-        <mark key="^" line="7" column="49" />
+        <mark key="[" line="50" column="38" />
+        <mark key="]" line="50" column="45" />
+        <mark key="." line="50" column="45" />
+        <mark key="^" line="50" column="45" />
       </file>
       <file name="D:/code/web/voc-web/src/app/routes/forms/validation/validation.component.html" timestamp="1519000855191">
         <mark key="'" line="125" column="116" />
@@ -669,11 +669,11 @@
         <mark key="^" line="58" column="19" />
         <mark key="." line="59" column="31" />
       </file>
-      <file name="D:/code/web/voc-web/src/app/app.service.ts" timestamp="1519036112558">
-        <mark key="[" line="16" column="38" />
-        <mark key="]" line="16" column="38" />
-        <mark key="." line="16" column="38" />
-        <mark key="^" line="16" column="28" />
+      <file name="D:/code/web/voc-web/src/app/app.service.ts" timestamp="1519041653905">
+        <mark key="[" line="15" column="8" />
+        <mark key="]" line="15" column="14" />
+        <mark key="." line="15" column="14" />
+        <mark key="^" line="15" column="14" />
       </file>
       <file name="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/AbstractShiroTest.java" timestamp="1518335445239">
         <mark key="'" line="76" column="0" />
@@ -1158,11 +1158,11 @@
         <mark key="." line="2" column="24" />
         <mark key="^" line="2" column="24" />
       </file>
-      <file name="D:/code/web/voc-web/src/app/routes/base/factory/factory.service.ts" timestamp="1519034380836">
-        <mark key="[" line="32" column="14" />
-        <mark key="]" line="32" column="15" />
-        <mark key="." line="32" column="15" />
-        <mark key="^" line="32" column="14" />
+      <file name="D:/code/web/voc-web/src/app/routes/base/factory/factory.service.ts" timestamp="1519041145387">
+        <mark key="[" line="25" column="51" />
+        <mark key="]" line="25" column="78" />
+        <mark key="." line="25" column="78" />
+        <mark key="^" line="25" column="78" />
       </file>
       <file name="D:/code/python/autostock/test_autostock.py" timestamp="1515044848040">
         <mark key="[" line="81" column="66" />
@@ -2400,7 +2400,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>ITokenService</text>
+        <text>factory</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2507,7 +2507,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ITokenService</text>
+        <text>factory</text>
       </register>
       <register name="/" type="4">
         <text>casca</text>
@@ -2516,31 +2516,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIEBJbmplY3QoREFfU0VSVklDRV9UT0tFTikgcHJpdmF0ZSB0b2tlblNlcnZpY2U6IElUb2tlblNlcnZpY2UsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmYWN0b3J5ID0gcmVzLmRhdGE7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpcy5odHRwQ2xpZW50LmdldCgnL2FwaS9sZGFyL3N0YW5kYXJkL2ZhY3RvcnkvJyArIGZhY3RvcnlJZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGdldFN0YW5kYXJkcyhmYWN0b3J5SWQ6IG51bWJlcik6IE9ic2VydmFibGU8U2VydmVyUmVzcG9uc2U+IHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gZmFjdG9yeTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIWZhY3RvcnkpIHJldHVybjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuZmFjdG9yaWVzID0gcmVzLmRhdGEubWFwKGZhY3RvcnkgPT4gewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZmFjdG9yeS5pZCkgewogICAgICAgICAgICByZXR1cm4gdGhpcy5odHRwQ2xpZW50LmdlCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmYWMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmYWN0b3J5Wydpc0V4cGFuZGVkJ10gPSBmYWN0b3J5Lmhhc0NoaWxkcmVuOyAvLyC2pby2bm9kZcjnufvT0NfTuaSzp9axvdPVub+qCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuZm9ybSA9IHRoaXMuZmIuZ3JvdXAoewogICAgICAgICAgICAgICAgICAgIG5hbWU6IFtmYWN0b3J5ICYmIGZhY3RvcnkubmFtZSwgVmFsaWRhdG9ycy5jb21wb3NlKFtWYWxpZGF0b3JzLnJlcXVpcmVkLCBWYWxpZGF0b3JzLm1pbkxlbmd0aCgyKV0pXSwKICAgICAgICAgICAgICAgICAgICAvLyBwYXJlbnRJZDogZmFjdG9yeSAmJiBmYWN0b3J5LnBhcmVudElkLAogICAgICAgICAgICAgICAgICAgIHByb3ZpbmNlOiBbZmFjdG9yeSAmJiBmYWN0b3J5LnByb3ZpbmNlLCBbVmFsaWRhdG9ycy5yZXF1aXJlZF1dLAogICAgICAgICAgICAgICAgICAgIGNpdHk6IFtmYWN0b3J5ICYmIGZhY3RvcnkuY2l0eSwgW1ZhbGlkYXRvcnMucmVxdWlyZWRdXSwKICAgICAgICAgICAgICAgICAgICBhZGRyZXNzOiBmYWN0b3J5ICYmIGZhY3RvcnkuYWRkcmVzcywKICAgICAgICAgICAgICAgICAgICBzdGFuZGFyZElkOiBbZmFjdG9yeSAmJiBmYWN0b3J5LnN0YW5kYXJkSWQudG9TdHJpbmcoKSwgW1ZhbGlkYXRvcnMucmVxdWlyZWRdXSwKICAgICAgICAgICAgICAgICAgICB2b2NQcmljZTogW2ZhY3RvcnkgJiYgZmFjdG9yeS52b2NQcmljZSwgW1ZhbGlkYXRvcnMucmVxdWlyZWQsIFZhbGlkYXRvcnMubWluKDAuMSldXSwKICAgICAgICAgICAgICAgICAgICBkZXNjcmlwdGlvbjogZmFjdG9yeSAmJiBmYWN0b3J5LmRlc2NyaXB0aW9uCiAgICAgICAgICAgICAgICB9KTsK</text>
+        <text encoding="base64">aW1wb3J0IHtTZXJ2ZXJSZXNwb25zZX0gZnJvbSAnLi4vLi4vY29tbW9uL3NlcnZlci1yZXNwb25zZSc7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
@@ -2553,7 +2553,7 @@
       <last-replace>connector</last-replace>
       <last-substitute>insti</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
