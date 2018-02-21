@@ -1319,11 +1319,11 @@
         <mark key="^" line="89" column="39" />
         <mark key="." line="89" column="45" />
       </file>
-      <file name="D:/code/web/voc-web/src/app/routes/ldar/standard/standard.service.ts" timestamp="1519174437397">
-        <mark key="[" line="30" column="80" />
-        <mark key="]" line="30" column="80" />
-        <mark key="^" line="30" column="80" />
-        <mark key="." line="30" column="80" />
+      <file name="D:/code/web/voc-web/src/app/routes/ldar/standard/standard.service.ts" timestamp="1519179474291">
+        <mark key="[" line="30" column="59" />
+        <mark key="]" line="30" column="68" />
+        <mark key="^" line="30" column="68" />
+        <mark key="." line="30" column="68" />
       </file>
       <file name="D:/code/java/voc/src/main/resources/mapper/DetectionMapper.xml" timestamp="1518521529305">
         <mark key="'" line="16" column="12" />
@@ -2365,8 +2365,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5sb2FkaW5nID0gZmFsc2U7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>factory</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2473,7 +2473,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, {headers: headers}</text>
+        <text>factory</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
