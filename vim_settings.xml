@@ -72,12 +72,12 @@
         <mark key="^" line="47" column="0" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/FactoryServiceImplTest.java" timestamp="1518393949172">
+      <file name="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/FactoryServiceImplTest.java" timestamp="1519358735936">
         <mark key="'" line="182" column="98" />
-        <mark key="[" line="138" column="30" />
-        <mark key="]" line="138" column="30" />
-        <mark key="." line="138" column="30" />
-        <mark key="^" line="138" column="30" />
+        <mark key="[" line="114" column="1" />
+        <mark key="]" line="114" column="0" />
+        <mark key="." line="114" column="0" />
+        <mark key="^" line="114" column="0" />
       </file>
       <file name="$USER_HOME$/workdir/servlet/src/HelloWord.java" timestamp="1478157412736">
         <mark key="[" line="0" column="0" />
@@ -1382,11 +1382,6 @@
         <mark key="." line="29" column="26" />
         <mark key="^" line="27" column="48" />
       </file>
-      <file name="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/LdarRuleServiceImplTest.java" timestamp="1518415544476">
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="0" />
-        <mark key="." line="91" column="0" />
-      </file>
       <file name="$USER_HOME$/code/java/vocs/src/main/resources/mapper/LdarSettingMapper.xml" timestamp="1508667168610">
         <mark key="[" line="26" column="18" />
         <mark key="]" line="26" column="17" />
@@ -1966,12 +1961,12 @@
         <mark key="." line="12" column="4" />
         <mark key="^" line="12" column="4" />
       </file>
-      <file name="D:/code/java/voc/src/test/resources/sql/init.sql" timestamp="1519355329284">
-        <mark key="'" line="115" column="0" />
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="75" column="84" />
-        <mark key="^" line="9" column="48" />
-        <mark key="." line="9" column="48" />
+      <file name="D:/code/java/voc/src/test/resources/sql/init.sql" timestamp="1519358991856">
+        <mark key="'" line="51" column="28" />
+        <mark key="[" line="54" column="47" />
+        <mark key="]" line="54" column="47" />
+        <mark key="^" line="53" column="23" />
+        <mark key="." line="54" column="47" />
       </file>
       <file name="$USER_HOME$/workdir/react-components/src/styles/user.css" timestamp="1491717147991">
         <mark key="[" line="6" column="1" />
@@ -2064,7 +2059,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="194" column="10" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/ComponentServiceImplTest.java" />
       <jump line="31" column="34" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.baomidou/mybatis-plus-support/2.1.8/9f4f661e368346980569c150d4839474c7cffa47/mybatis-plus-support-2.1.8-sources.jar!/com/baomidou/mybatisplus/plugins/Page.java" />
       <jump line="197" column="37" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/ComponentServiceImplTest.java" />
       <jump line="22" column="26" filename="D:/code/go/ldar/import.go" />
@@ -2164,6 +2158,7 @@
       <jump line="115" column="0" filename="D:/code/java/voc/src/test/resources/sql/init.sql" />
       <jump line="347" column="23" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
       <jump line="550" column="0" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
+      <jump line="51" column="28" filename="D:/code/java/voc/src/test/resources/sql/init.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2186,8 +2181,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBicmVhazsK</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2294,7 +2289,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>media</text>
