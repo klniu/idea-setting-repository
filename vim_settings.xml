@@ -613,6 +613,11 @@
         <mark key="^" line="8" column="21" />
         <mark key="." line="8" column="21" />
       </file>
+      <file name="D:/code/web/voc-ui/src/app/routes/base/setting/step6.component.ts" timestamp="1519372383124">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="D:/code/java/voc/src/test/resources/dbunit/factories.xml" timestamp="1518224496767">
         <mark key="[" line="0" column="38" />
         <mark key="]" line="1" column="0" />
@@ -1465,14 +1470,6 @@
         <mark key="]" line="18" column="14" />
         <mark key="." line="18" column="14" />
         <mark key="^" line="18" column="14" />
-      </file>
-      <file name="D:/code/java/voc/src/main/resources/sql/schema.sql" timestamp="1518527514357">
-        <mark key="'" line="571" column="0" />
-        <mark key="[" line="456" column="26" />
-        <mark key="]" line="456" column="28" />
-        <mark key="." line="456" column="28" />
-        <mark key="^" line="456" column="28" />
-        <mark key="o" line="486" column="16" />
       </file>
       <file name="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/DetectionServiceImplTest.java" timestamp="1518523811581">
         <mark key="'" line="107" column="0" />
@@ -2372,8 +2369,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>西</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBVbml0Tm8sIEluc3RhbGxObywgVW5pdENvZGUsIEluc3RhbGxDb2RlLAogICAgICAgIFBob3RvTm8sIERpc3RhbmNlLCBIZWlnaHQsIERpcmVjdGlvbiwgRmxvb3IsIExvY2F0b3IsCiAgICAgICAgU2VhbFR5cGUsIFNlYWxObywgU2VydmljZSwgQWNjZXNzaWJpbGl0eSwKICAgICAgICBTdHJpbmcK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2480,7 +2477,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>西</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text>asdfas</text>
@@ -2489,31 +2486,31 @@
         <text encoding="base64">ICAgICAgICA8YXBwLXNldHRpbmctc3RlcDItNSAqbmdJZj0iaXRlbS5zdGVwPT0zIiBbc3RhdGVUeXBlXT0iJ7/JtO/Q1CciIFtkYXRhXT0iYWNjZXNzaWJpbGl0aWVzIj48L2FwcC1zZXR0aW5nLXN0ZXAyLTU+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8YXBwLXNldHRpbmctc3RlcDItNSAqbmdJZj0iaXRlbS5zdGVwPT00IiBbc3RhdGVUeXBlXT0iJ7/JtO/Q1CciIFtkYXRhXT0iYWNjZXNzaWJpbGl0aWVzIj48L2FwcC1zZXR0aW5nLXN0ZXAyLTU+Cg==</text>
+        <text encoding="base64">ICAgICAgICBVbml0Tm8sIEluc3RhbGxObywgVW5pdENvZGUsIEluc3RhbGxDb2RlLAogICAgICAgIFBob3RvTm8sIERpc3RhbmNlLCBIZWlnaHQsIERpcmVjdGlvbiwgRmxvb3IsIExvY2F0b3IsCiAgICAgICAgU2VhbFR5cGUsIFNlYWxObywgU2VydmljZSwgQWNjZXNzaWJpbGl0eSwKICAgICAgICBTdHJpbmcK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBbJ7OjueYnLCAnRycsICdnZW5lcmFsQ29kZScsICdnZW5lcmFsTmFtZSddLAogICAgICAgIFsnxNHT2rzssuInLCAnRCcsICdkaWZmaWN1bHRDb2RlJywgJ2RpZmZpY3VsdE5hbWUnXSwKICAgICAgICBbJ8/V09q87LLiJywgJ1UnLCAndW5zYWZlQ29kZScsICd1bnNhZmVOYW1lJ10sCiAgICAgICAgWyexo87CsaPA5CcsICdQJywgJ3Byb3RlY3RDb2RlJywgJ3Byb3RlY3ROYW1lJ10sCg==</text>
+        <text encoding="base64">ICAgIEBJbnB1dCgpIGRhdGE6IFtbc3RyaW5nLCBzdHJpbmcsIHN0cmluZywgc3RyaW5nXV07Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBJbnB1dCgpIHN0YXRlVHlwZTogJ8Pct+K148Dg0M0nfCe96dbK17TMrCd8J7/JtO/Q1Cd8J7e9zrsnOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyDI57n709BwYXJlCg==</text>
+        <text encoding="base64">ICAgIHN0eWxlczogWycudGl0bGUge2ZvbnQtd2VpZ2h0OiBib2xkfSddCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8YXBwLXNldHRpbmctc3RlcDItNSAqbmdJZj0iaXRlbS5zdGVwPT00IiBbc3RhdGVUeXBlXT0iJ7/JtO/Q1CciIFtkYXRhXT0iYWNjZXNzaWJpbGl0aWVzIj48L2FwcC1zZXR0aW5nLXN0ZXAyLTU+Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIH0K</text>
+        <text encoding="base64">ICAgICAgICBbJ7OjueYnLCAnRycsICdnZW5lcmFsQ29kZScsICdnZW5lcmFsTmFtZSddLAogICAgICAgIFsnxNHT2rzssuInLCAnRCcsICdkaWZmaWN1bHRDb2RlJywgJ2RpZmZpY3VsdE5hbWUnXSwKICAgICAgICBbJ8/V09q87LLiJywgJ1UnLCAndW5zYWZlQ29kZScsICd1bnNhZmVOYW1lJ10sCiAgICAgICAgWyexo87CsaPA5CcsICdQJywgJ3Byb3RlY3RDb2RlJywgJ3Byb3RlY3ROYW1lJ10sCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vICAgICByZXR1cm4gdGhpcy5mb3JtLmNvbnRyb2xzLnN0YW5kYXJkSWQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
