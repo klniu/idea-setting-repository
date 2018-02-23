@@ -1996,9 +1996,9 @@
         <mark key="." line="214" column="5" />
         <mark key="^" line="214" column="5" />
       </file>
-      <file name="D:/code/python/utils/code/duplicate_code_generator.py" timestamp="1519289278034">
-        <mark key="[" line="28" column="17" />
-        <mark key="]" line="29" column="3" />
+      <file name="D:/code/python/utils/code/duplicate_code_generator.py" timestamp="1519347990954">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="23" column="4" />
         <mark key="." line="29" column="3" />
         <mark key="^" line="29" column="3" />
       </file>
@@ -2290,8 +2290,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>门</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHNlYWxUeXBlcyA9IFsKICAgICAgICBbIrenw8UiLCAiViIsICJ2YWx2ZUNvZGUiLCAidmFsdmVOYW1lIl0sCiAgICAgICAgWyK3qMC8IiwgIkYiLCAiZmxhbmdlQ29kZSIsICJmbGFuZ2VOYW1lIl0sCiAgICAgICAgWyLBrL3TvP4iLCAiSiIsICJjb25uZWN0b3JDb2RlIiwgImNvbm5lY3Rvck5hbWUiXSwKICAgICAgICBbIrHDIiwgIlAiLCAicHVtcENvZGUiLCAicHVtcE5hbWUiXSwKICAgICAgICBbItG5y/W7+iIsICJDIiwgImNvbXByZXNzb3JDb2RlIiwgImNvbXByZXNzb3JOYW1lIl0sCiAgICAgICAgWyK9wbDoxvciLCAiQSIsICJhZ2l0YXRvckNvZGUiLCAiYWdpdGF0b3JOYW1lIl0sCiAgICAgICAgWyKwssirt6ciLCAiUiIsICJwcnZDb2RlIiwgInBydk5hbWUiXSwKICAgICAgICBbIsih0fnBrL3Tz7XNsyIsICJTIiwgInNhbXBsZUNvZGUiLCAic2FtcGxlTmFtZSJdLAogICAgICAgIFsiv6q/2renu/K/qr/audzP3yIsICJFIiwgIm9wZW5FbmRlZENvZGUiLCAib3BlbkVuZGVkTmFtZSJdLAogICAgICAgIFsixuTL+yIsICJPIiwgIm90aGVyQ29kZSIsICJvdGhlck5hbWUiXQogICAgXQogICAgc2VydmljZXMgPSBbCiAgICAgICAgWyLG+MzlIiwgIkciLCAiZ2FzQ29kZSIsICJnYXNOYW1lIl0sCiAgICAgICAgWyLH4dbK0roiLCAiTCIsICJsaWdodExpcXVpZENvZGUiLCAibGlnaHRMaXF1aWROYW1lIl0sCiAgICAgICAgWyLW2NbK0roiLCAiSCIsICJoZWF2eUxpcXVpZENvZGUiLCAiaGVhdnlMaXF1aWROYW1lIl0sCiAgICBdCiAgICBhY2Nlc3NpYmlsaXR5ID0gWwogICAgICAgIFsis6O55iIsICJHIiwgImdlbmVyYWxDb2RlIiwgImdlbmVyYWxOYW1lIl0sCiAgICAgICAgWyLE0dPavOyy4iIsICJEIiwgImRpZmZpY3VsdENvZGUiLCAiZGlmZmljdWx0TmFtZSJdLAogICAgICAgIFsiz9XT2rzssuIiLCAiVSIsICJ1bnNhZmVDb2RlIiwgInVuc2FmZU5hbWUiXSwKICAgICAgICBbIrGjzsKxo8DkIiwgIlAiLCAicHJvdGVjdENvZGUiLCAicHJvdGVjdE5hbWUiXSwKICAgIF0K</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2446,7 +2446,7 @@ flangeCode</text>
       <last-replace>{3}</last-replace>
       <last-substitute>valveName</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
