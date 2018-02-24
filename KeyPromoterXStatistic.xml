@@ -281,6 +281,14 @@
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Generate...">
+        <Item>
+          <IdeaActionID>Generate</IdeaActionID>
+          <ShortCut>'Alt+Insert'</ShortCut>
+          <Description>Generate...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Hide All Windows">
         <Item>
           <IdeaActionID>HideAllWindows</IdeaActionID>
@@ -310,7 +318,7 @@
           <IdeaActionID>$Paste</IdeaActionID>
           <ShortCut>'Ctrl+V' or 'Shift+Insert'</ShortCut>
           <Description>Paste</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
@@ -830,7 +838,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>11</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Diff">
@@ -839,6 +847,14 @@
           <ShortCut>'Ctrl+D'</ShortCut>
           <Description>Show Diff</Description>
           <Count>13</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Show Local Changes as UML">
+        <Item>
+          <IdeaActionID>UML.ShowChanges</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+D'</ShortCut>
+          <Description>Show Local Changes as UML</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Application'">
@@ -1014,6 +1030,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'UserControllerTest.switchFactory'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'jeesite [org.apache.tomcat.maven:tomcat7-maven-plugin:2.2:run]'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'jeesite [org.apache.tomcat.maven:tomcat7-maven-plugin:2.2:run]'</Description>
           <Count>2</Count>
         </Item>
       </Statistic>
