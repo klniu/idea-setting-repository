@@ -475,7 +475,6 @@
         <mark key="." line="9" column="7" />
         <mark key="^" line="9" column="7" />
       </file>
-      <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/model_test.go" timestamp="1519260456804" />
       <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/entity/enums/SealType.java" timestamp="1518409372772">
         <mark key="[" line="11" column="15" />
         <mark key="]" line="11" column="14" />
@@ -749,6 +748,13 @@
         <mark key="]" line="4" column="31" />
         <mark key="." line="4" column="31" />
         <mark key="^" line="4" column="31" />
+      </file>
+      <file name="D:/code/java/jeesite/src/main/java/com/thinkgem/jeesite/modules/sys/web/LoginController.java" timestamp="1519523220496">
+        <mark key="'" line="62" column="14" />
+        <mark key="[" line="39" column="14" />
+        <mark key="]" line="39" column="13" />
+        <mark key="." line="39" column="13" />
+        <mark key="^" line="39" column="13" />
       </file>
       <file name="$USER_HOME$/workdir/web/lawindexer-ui/package.json" timestamp="1492679618246">
         <mark key="[" line="7" column="11" />
@@ -2092,7 +2098,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="0" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
       <jump line="143" column="32" filename="D:/code/java/voc/src/test/resources/sql/init.sql" />
       <jump line="34" column="0" filename="D:/code/java/voc/src/test/resources/sql/init.sql" />
       <jump line="451" column="0" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
@@ -2192,6 +2197,7 @@
       <jump line="908" column="32" filename="D:/code/java/jeesite/pom.xml" />
       <jump line="41" column="26" filename="D:/code/java/jeesite/pom.xml" />
       <jump line="40" column="22" filename="D:/code/java/jeesite/src/main/java/com/thinkgem/jeesite/modules/sys/entity/User.java" />
+      <jump line="62" column="14" filename="D:/code/java/jeesite/src/main/java/com/thinkgem/jeesite/modules/sys/web/LoginController.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2214,8 +2220,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8YXNzb2NpYXRpb24gcHJvcGVydHk9Im9mZmljZSIgamF2YVR5cGU9Ik9mZmljZSI+CiAgICAgICAgICAgIDxpZCBwcm9wZXJ0eT0iaWQiIGNvbHVtbj0ib2ZmaWNlLmlkIiAvPgogICAgICAgICAgICA8aWQgcHJvcGVydHk9Im5hbWUiIGNvbHVtbj0ib2ZmaWNlLm5hbWUiIC8+CiAgICAgICAgPC9hc3NvY2lhdGlvbj4K</text>
+      <register name="&quot;" type="4">
+        <text>L</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2322,7 +2328,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>123456</text>
+        <text>L</text>
       </register>
       <register name="/" type="4">
         <text>getUsert</text>
