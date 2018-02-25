@@ -1514,6 +1514,9 @@
         <mark key="^" line="34" column="30" />
         <mark key="." line="42" column="0" />
       </file>
+      <file name="D:/code/java/jeesite/src/main/java/com/thinkgem/jeesite/modules/sys/entity/User.java" timestamp="1519521017418">
+        <mark key="'" line="40" column="22" />
+      </file>
       <file name="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/ComponentServiceImplTest.java" timestamp="1519367430153">
         <mark key="'" line="145" column="26" />
         <mark key="[" line="62" column="26" />
@@ -2089,7 +2092,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="118" column="0" filename="D:/code/java/voc/src/test/resources/sql/init.sql" />
       <jump line="20" column="0" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
       <jump line="143" column="32" filename="D:/code/java/voc/src/test/resources/sql/init.sql" />
       <jump line="34" column="0" filename="D:/code/java/voc/src/test/resources/sql/init.sql" />
@@ -2189,6 +2191,7 @@
       <jump line="907" column="40" filename="D:/code/java/jeesite/pom.xml" />
       <jump line="908" column="32" filename="D:/code/java/jeesite/pom.xml" />
       <jump line="41" column="26" filename="D:/code/java/jeesite/pom.xml" />
+      <jump line="40" column="22" filename="D:/code/java/jeesite/src/main/java/com/thinkgem/jeesite/modules/sys/entity/User.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2322,7 +2325,7 @@
         <text>123456</text>
       </register>
       <register name="/" type="4">
-        <text>poi</text>
+        <text>getUsert</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">SU5TRVJUIElOVE8gbGRhcl9zdGF0ZV9zZXR0aW5nIChpZCwgZmFjdG9yeV9pZCwgdmFsdmVfY29kZSwgZmxhbmdlX2NvZGUsIGNvbm5lY3Rvcl9jb2RlLCBwdW1wX2NvZGUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY29tcHJlc3Nvcl9jb2RlLCBhZ2l0YXRvcl9jb2RlLCBwcnZfY29kZSwgc2FtcGxlX2NvZGUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgb3Blbl9lbmRlZF9jb2RlLCBvdGhlcl9jb2RlLCBnYXNfY29kZSwgbGlnaHRfbGlxdWlkX2NvZGUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaGVhdnlfbGlxdWlkX2NvZGUsIGdlbmVyYWxfY29kZSwgZGlmZmljdWx0X2NvZGUsIHVuc2FmZV9jb2RlLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHByb3RlY3RfY29kZSwgZWFzdF9jb2RlLCB3ZXN0X2NvZGUsIHNvdXRoX2NvZGUsIG5vcnRoX2NvZGUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc291dGhlYXN0X2NvZGUsIHNvdXRod2VzdF9jb2RlLCBub3J0aGVhc3RfY29kZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBub3J0aHdlc3RfY29kZSwgdG9wX2NvZGUsIGJvdHRvbV9jb2RlLCBhYm92ZV9jb2RlLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJlbG93X2NvZGUsIHRvcF9lYXN0X2NvZGUsIHRvcF93ZXN0X2NvZGUsIHRvcF9zb3V0aF9jb2RlLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRvcF9ub3J0aF9jb2RlLCB2YWx2ZV9uYW1lLCBmbGFuZ2VfbmFtZSwgY29ubmVjdG9yX25hbWUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHVtcF9uYW1lLCBjb21wcmVzc29yX25hbWUsIGFnaXRhdG9yX25hbWUsIHBydl9uYW1lLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNhbXBsZV9uYW1lLCBvcGVuX2VuZGVkX25hbWUsIG90aGVyX25hbWUsIGdhc19uYW1lLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxpZ2h0X2xpcXVpZF9uYW1lLCBoZWF2eV9saXF1aWRfbmFtZSwgZ2VuZXJhbF9uYW1lLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRpZmZpY3VsdF9uYW1lLCB1bnNhZmVfbmFtZSwgcHJvdGVjdF9uYW1lLCBlYXN0X25hbWUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgd2VzdF9uYW1lLCBzb3V0aF9uYW1lLCBub3J0aF9uYW1lLCBzb3V0aGVhc3RfbmFtZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzb3V0aHdlc3RfbmFtZSwgbm9ydGhlYXN0X25hbWUsIG5vcnRod2VzdF9uYW1lLCB0b3BfbmFtZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBib3R0b21fbmFtZSwgYWJvdmVfbmFtZSwgYmVsb3dfbmFtZSwgdG9wX2Vhc3RfbmFtZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0b3Bfd2VzdF9uYW1lLCB0b3Bfc291dGhfbmFtZSwgdG9wX25vcnRoX25hbWUpIFZBTFVFUwo=</text>
@@ -2377,17 +2380,16 @@
       </register>
     </registers>
     <search>
-      <last-search>poi</last-search>
+      <last-search>getUsert</last-search>
       <last-offset />
-      <last-pattern>poi</last-pattern>
+      <last-pattern>getUsert</last-pattern>
       <last-replace>connector</last-replace>
       <last-substitute>insti</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>unit</entry>
         <entry>built</entry>
         <entry>bui</entry>
         <entry>adfasf</entry>
@@ -2407,6 +2409,7 @@
         <entry>media</entry>
         <entry>oo</entry>
         <entry>poi</entry>
+        <entry>getUsert</entry>
       </history-search>
       <history-cmd>
         <entry>action AceAction</entry>
