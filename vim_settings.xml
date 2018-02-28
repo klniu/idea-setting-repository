@@ -752,6 +752,13 @@
         <mark key="." line="36" column="61" />
         <mark key="^" line="36" column="61" />
       </file>
+      <file name="D:/code/web/voc-ui/src/app/routes/base/setting/step6.component.html" timestamp="1519796652375">
+        <mark key="'" line="40" column="41" />
+        <mark key="[" line="46" column="80" />
+        <mark key="]" line="46" column="80" />
+        <mark key="^" line="46" column="41" />
+        <mark key="." line="46" column="80" />
+      </file>
       <file name="$USER_HOME$/workdir/code/law/src/main/resources/application-production.properties" timestamp="1505465445408">
         <mark key="[" line="4" column="27" />
         <mark key="]" line="4" column="31" />
@@ -2122,8 +2129,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="354" column="31" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
-      <jump line="79" column="23" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" />
       <jump line="28" column="13" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/UserServiceImplTest.java" />
       <jump line="99" column="0" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/UserServiceImpl.java" />
       <jump line="41" column="43" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/UserServiceImpl.java" />
@@ -2222,6 +2227,8 @@
       <jump line="268" column="4" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/entity/LdarStateSetting.java" />
       <jump line="393" column="40" filename="D:/code/web/voc-ui/src/app/routes/forms/standard/standard.component.html" />
       <jump line="42" column="0" filename="D:/code/web/voc-ui/src/app/app.module.ts" />
+      <jump line="49" column="14" filename="D:/code/web/voc-ui/src/app/routes/base/setting/step6.component.html" />
+      <jump line="40" column="41" filename="D:/code/web/voc-ui/src/app/routes/base/setting/step6.component.html" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2244,8 +2251,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICBzY2hlbWE6IFNGU2NoZW1hID0gewogICAgICAgIHByb3BlcnRpZXM6IHsKICAgICAgICAgICAgVW5pdE5vOiB7CiAgICAgICAgICAgICAgICB0eXBlOiAnbnVtYmVyJywKICAgICAgICAgICAgICAgIHRpdGxlOiAnudzA7bWl1KrQ8rrFJywKICAgICAgICAgICAgICAgIG1pbjogJzEnLAogICAgICAgICAgICAgICAgZGVzY3JpcHRpb246ICfKudPDudzA7bWl1KrK/dfW0PK6xdf3zqqx4MLrtcTSu7K/t9ajrNTatMvWuLaoxuTL+dW8zrvK/aOssrvX47XEu+HS1Mew1sMwsrnG6ycKICAgICAgICAgICAgfSwKICAgICAgICB9CiAgICB9OwoK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Y29udHJvbCA=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2352,49 +2359,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>email</text>
+        <text encoding="base64">Y29udHJvbCA=</text>
       </register>
       <register name="/" type="4">
-        <text>Column sizing</text>
+        <text encoding="base64">XDxmaWVsZHNldFw+</text>
       </register>
       <register name="0" type="4">
-        <text>使用管理单元数字序号作为编码的一部分，在此指定其所占位数，不足的会以前置0补齐</text>
+        <text encoding="base64">IG56LWZvcm0tY29udHJvbCBuei1jb2wgW256U21dPSIxNyI=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICBzY2hlbWE6IFNGU2NoZW1hID0gewogICAgICAgIHByb3BlcnRpZXM6IHsKICAgICAgICAgICAgVW5pdE5vOiB7CiAgICAgICAgICAgICAgICB0eXBlOiAnbnVtYmVyJywKICAgICAgICAgICAgICAgIHRpdGxlOiAnudzA7bWl1KrQ8rrFJywKICAgICAgICAgICAgICAgIG1pbjogJzEnLAogICAgICAgICAgICAgICAgZGVzY3JpcHRpb246ICfKudPDudzA7bWl1KrK/dfW0PK6xdf3zqqx4MLrtcTSu7K/t9ajrNTatMvWuLaoxuTL+dW8zrvK/aOssrvX47XEu+HS1Mew1sMwsrnG6ycKICAgICAgICAgICAgfSwKICAgICAgICB9CiAgICB9OwoK</text>
+        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1heExlbmd0aDogMjAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmFtZTogewogICAgICAgICAgICAgICAgdHlwZTogJ3N0cmluZycsCiAgICAgICAgICAgICAgICB0aXRsZTogJ9DVw/snLAogICAgICAgICAgICAgICAgbWluTGVuZ3RoOiAzCiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvbmctdGVtcGxhdGU+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBOelNjaGVtYUZvcm1Nb2R1bGUuZm9yUm9vdCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxuZy10ZW1wbGF0ZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxuei10b29sdGlwIFtuelRpdGxlXT0iZmllbGRbJ3RpcCddIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aSBuei10b29sdGlwIGNsYXNzPSJhbnRpY29uIGFudGljb24tcXVlc3Rpb24tY2lyY2xlLW8iPjwvaT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvbnotdG9vbHRpcD4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgSUxkYXJTZXR0aW5nU2VydmljZSBpTGRhclNldHRpbmdTZXJ2aWNlOwo=</text>
+        <text encoding="base64">ICAgICBzY2hlbWE6IFNGU2NoZW1hID0gewogICAgICAgIHByb3BlcnRpZXM6IHsKICAgICAgICAgICAgVW5pdE5vOiB7CiAgICAgICAgICAgICAgICB0eXBlOiAnbnVtYmVyJywKICAgICAgICAgICAgICAgIHRpdGxlOiAnudzA7bWl1KrQ8rrFJywKICAgICAgICAgICAgICAgIG1pbjogJzEnLAogICAgICAgICAgICAgICAgZGVzY3JpcHRpb246ICfKudPDudzA7bWl1KrK/dfW0PK6xdf3zqqx4MLrtcTSu7K/t9ajrNTatMvWuLaoxuTL+dW8zrvK/aOssrvX47XEu+HS1Mew1sMwsrnG6ycKICAgICAgICAgICAgfSwKICAgICAgICB9CiAgICB9OwoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5jbnZvYy52b2Muc2VydmljZS5JTGRhclNldHRpbmdTZXJ2aWNlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1heExlbmd0aDogMjAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5jbnZvYy52b2MuZW50aXR5LkxkYXJTZXR0aW5nT2xkOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmFtZTogewogICAgICAgICAgICAgICAgdHlwZTogJ3N0cmluZycsCiAgICAgICAgICAgICAgICB0aXRsZTogJ9DVw/snLAogICAgICAgICAgICAgICAgbWluTGVuZ3RoOiAzCiAgICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
-      <last-search>Column sizing</last-search>
+      <last-search encoding="base64">XDxmaWVsZHNldFw+</last-search>
       <last-offset />
-      <last-pattern>Column sizing</last-pattern>
+      <last-pattern encoding="base64">XDxmaWVsZHNldFw+</last-pattern>
       <last-replace>connector</last-replace>
       <last-substitute>insti</last-substitute>
       <last-dir>1</last-dir>
@@ -2402,7 +2409,6 @@
     </search>
     <history>
       <history-search>
-        <entry>bui</entry>
         <entry>adfasf</entry>
         <entry>UNIQUE</entry>
         <entry>LdarStandard</entry>
@@ -2422,6 +2428,7 @@
         <entry>poi</entry>
         <entry>getUsert</entry>
         <entry>Column sizing</entry>
+        <entry encoding="base64">XDxmaWVsZHNldFw+</entry>
       </history-search>
       <history-cmd>
         <entry>action AceAction</entry>
