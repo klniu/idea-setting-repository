@@ -565,11 +565,10 @@
         <mark key="^" line="8" column="21" />
         <mark key="." line="8" column="21" />
       </file>
-      <file name="D:/code/web/voc-ui/src/app/routes/base/setting/step6.component.ts" timestamp="1519780901086">
-        <mark key="[" line="56" column="22" />
-        <mark key="]" line="56" column="22" />
-        <mark key="^" line="56" column="18" />
-        <mark key="." line="56" column="22" />
+      <file name="D:/code/web/voc-ui/src/app/routes/base/setting/step6.component.ts" timestamp="1519783246493">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.shiro/shiro-core/1.4.0/fa55fb228087dbb9026ce97d8e2f6d968b77a9d7/shiro-core-1.4.0-sources.jar!/org/apache/shiro/subject/Subject.java" timestamp="1518336001689">
         <mark key="'" line="105" column="16" />
@@ -838,6 +837,11 @@
         <mark key="." line="17" column="38" />
         <mark key="^" line="16" column="53" />
       </file>
+      <file name="D:/code/web/voc-ui/src/app/shared/shared.module.ts" timestamp="1519782781754">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+      </file>
       <file name="D:/code/java/cnooc/src/main/kotlin/com/cnvoc/cnooc/CnoocApplication.kt" timestamp="1514597758911">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="37" />
@@ -960,11 +964,6 @@
         <mark key="]" line="78" column="22" />
         <mark key="." line="78" column="22" />
         <mark key="^" line="78" column="22" />
-      </file>
-      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/entity/LdarSettingOld.java" timestamp="1519647632496">
-        <mark key="]" line="33" column="23" />
-        <mark key="^" line="33" column="23" />
-        <mark key="." line="33" column="23" />
       </file>
       <file name="$USER_HOME$/sync/code/java/livesim/build.gradle" timestamp="1479443435078">
         <mark key="[" line="5" column="24" />
@@ -1770,11 +1769,11 @@
         <mark key="." line="12" column="19" />
         <mark key="^" line="7" column="19" />
       </file>
-      <file name="D:/code/web/voc-ui/src/app/app.module.ts" timestamp="1519780491377">
-        <mark key="[" line="42" column="8" />
-        <mark key="]" line="42" column="37" />
-        <mark key="^" line="42" column="7" />
-        <mark key="." line="42" column="8" />
+      <file name="D:/code/web/voc-ui/src/app/app.module.ts" timestamp="1519782785494">
+        <mark key="'" line="42" column="0" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="D:/code/java/voc/src/main/resources/mapper/LdarSettingMapper.xml" timestamp="1514800054504">
         <mark key="[" line="2" column="59" />
@@ -2123,7 +2122,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="303" column="14" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
       <jump line="354" column="31" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
       <jump line="79" column="23" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" />
       <jump line="28" column="13" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/UserServiceImplTest.java" />
@@ -2223,6 +2221,7 @@
       <jump line="25" column="13" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/entity/LdarStateSetting.java" />
       <jump line="268" column="4" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/entity/LdarStateSetting.java" />
       <jump line="393" column="40" filename="D:/code/web/voc-ui/src/app/routes/forms/standard/standard.component.html" />
+      <jump line="42" column="0" filename="D:/code/web/voc-ui/src/app/app.module.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2245,8 +2244,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>email</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICBzY2hlbWE6IFNGU2NoZW1hID0gewogICAgICAgIHByb3BlcnRpZXM6IHsKICAgICAgICAgICAgVW5pdE5vOiB7CiAgICAgICAgICAgICAgICB0eXBlOiAnbnVtYmVyJywKICAgICAgICAgICAgICAgIHRpdGxlOiAnudzA7bWl1KrQ8rrFJywKICAgICAgICAgICAgICAgIG1pbjogJzEnLAogICAgICAgICAgICAgICAgZGVzY3JpcHRpb246ICfKudPDudzA7bWl1KrK/dfW0PK6xdf3zqqx4MLrtcTSu7K/t9ajrNTatMvWuLaoxuTL+dW8zrvK/aOssrvX47XEu+HS1Mew1sMwsrnG6ycKICAgICAgICAgICAgfSwKICAgICAgICB9CiAgICB9OwoK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2359,34 +2358,34 @@
         <text>Column sizing</text>
       </register>
       <register name="0" type="4">
-        <text>'String|L-;PhotoNo|%06d;String|-;SealType|%s;SealNo|%02d'</text>
+        <text>使用管理单元数字序号作为编码的一部分，在此指定其所占位数，不足的会以前置0补齐</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+        <text encoding="base64">ICAgICBzY2hlbWE6IFNGU2NoZW1hID0gewogICAgICAgIHByb3BlcnRpZXM6IHsKICAgICAgICAgICAgVW5pdE5vOiB7CiAgICAgICAgICAgICAgICB0eXBlOiAnbnVtYmVyJywKICAgICAgICAgICAgICAgIHRpdGxlOiAnudzA7bWl1KrQ8rrFJywKICAgICAgICAgICAgICAgIG1pbjogJzEnLAogICAgICAgICAgICAgICAgZGVzY3JpcHRpb246ICfKudPDudzA7bWl1KrK/dfW0PK6xdf3zqqx4MLrtcTSu7K/t9ajrNTatMvWuLaoxuTL+dW8zrvK/aOssrvX47XEu+HS1Mew1sMwsrnG6ycKICAgICAgICAgICAgfSwKICAgICAgICB9CiAgICB9OwoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgSUxkYXJTZXR0aW5nU2VydmljZSBpTGRhclNldHRpbmdTZXJ2aWNlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1heExlbmd0aDogMjAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5jbnZvYy52b2Muc2VydmljZS5JTGRhclNldHRpbmdTZXJ2aWNlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmFtZTogewogICAgICAgICAgICAgICAgdHlwZTogJ3N0cmluZycsCiAgICAgICAgICAgICAgICB0aXRsZTogJ9DVw/snLAogICAgICAgICAgICAgICAgbWluTGVuZ3RoOiAzCiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5jbnZvYy52b2MuZW50aXR5LkxkYXJTZXR0aW5nT2xkOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmYWN0b3J5QW5kU2V0dGluZy5zZXRMZGFyU2V0dGluZ09sZChuZXcgTGRhclNldHRpbmdPbGQoKSk7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuanVuaXQuQXNzZXJ0LmFzc2VydEZhbHNlOwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBOelNjaGVtYUZvcm1Nb2R1bGUuZm9yUm9vdCgpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgSUxkYXJTZXR0aW5nU2VydmljZSBpTGRhclNldHRpbmdTZXJ2aWNlOwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsZGFyU2V0dGluZ01hcHBlci5zZWxlY3RPbmUobGRhclNldHRpbmdPbGQpOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5jbnZvYy52b2Muc2VydmljZS5JTGRhclNldHRpbmdTZXJ2aWNlOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsZGFyU2V0dGluZ09sZC5zZXRVbml0Tm9MZW5ndGgoMyk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5jbnZvYy52b2MuZW50aXR5LkxkYXJTZXR0aW5nT2xkOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
