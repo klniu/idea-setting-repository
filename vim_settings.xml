@@ -2020,10 +2020,10 @@
         <mark key="." line="12" column="4" />
         <mark key="^" line="12" column="4" />
       </file>
-      <file name="D:/code/java/voc/src/test/resources/sql/init.sql" timestamp="1519648695259">
+      <file name="D:/code/java/voc/src/test/resources/sql/init.sql" timestamp="1519912534102">
         <mark key="'" line="51" column="28" />
-        <mark key="[" line="59" column="17" />
-        <mark key="]" line="59" column="17" />
+        <mark key="[" line="50" column="67" />
+        <mark key="]" line="50" column="71" />
         <mark key="^" line="44" column="0" />
         <mark key="." line="59" column="17" />
       </file>
@@ -2240,8 +2240,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBUYWdGb3JtYXR0ZXIoU3RyaW5nIGZvcm1hdHRlcikgdGhyb3dzIElsbGVnYWxBcmd1bWVudEV4Y2VwdGlvbiB7CiAgICAgICAgaWYgKGZvcm1hdHRlciA9PSBudWxsIHx8IGZvcm1hdHRlci5sZW5ndGgoKSA9PSAwKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBJbGxlZ2FsQXJndW1lbnRFeGNlcHRpb24oIlRhZ+agvOW8j+mUmeivryIpOwogICAgICAgIH0KICAgICAgICBmb3JtYXR0ZXJzID0gbmV3IEFycmF5TGlzdDw+KCk7CiAgICAgICAgU3RyaW5nW10gZmllbGRzID0gZm9ybWF0dGVyLnNwbGl0KCI7Iik7CiAgICAgICAgZm9yIChTdHJpbmcgZmllbGQgOiBmaWVsZHMpIHsKICAgICAgICAgICAgU3RyaW5nW10gaXRlbXMgPSBmaWVsZC5zcGxpdCgiXFx8IiwgMik7CiAgICAgICAgICAgIGlmIChpdGVtcy5sZW5ndGggIT0gMikgdGhyb3cgbmV3IElsbGVnYWxBcmd1bWVudEV4Y2VwdGlvbigiVGFn5qC85byP6ZSZ6K+vIik7CiAgICAgICAgICAgIGZvcm1hdHRlcnMuYWRkKG5ldyBJbW11dGFibGVQYWlyPD4oVGFnRm9ybWF0RmllbGQudmFsdWVPZihpdGVtc1swXSksIGl0ZW1zWzFdKSk7CiAgICAgICAgfQogICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>|%.0f</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2353,8 +2353,8 @@
       <register name="/" type="4">
         <text>getUsert</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBUYWdGb3JtYXR0ZXIoU3RyaW5nIGZvcm1hdHRlcikgdGhyb3dzIElsbGVnYWxBcmd1bWVudEV4Y2VwdGlvbiB7CiAgICAgICAgaWYgKGZvcm1hdHRlciA9PSBudWxsIHx8IGZvcm1hdHRlci5sZW5ndGgoKSA9PSAwKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBJbGxlZ2FsQXJndW1lbnRFeGNlcHRpb24oIlRhZ+agvOW8j+mUmeivryIpOwogICAgICAgIH0KICAgICAgICBmb3JtYXR0ZXJzID0gbmV3IEFycmF5TGlzdDw+KCk7CiAgICAgICAgU3RyaW5nW10gZmllbGRzID0gZm9ybWF0dGVyLnNwbGl0KCI7Iik7CiAgICAgICAgZm9yIChTdHJpbmcgZmllbGQgOiBmaWVsZHMpIHsKICAgICAgICAgICAgU3RyaW5nW10gaXRlbXMgPSBmaWVsZC5zcGxpdCgiXFx8IiwgMik7CiAgICAgICAgICAgIGlmIChpdGVtcy5sZW5ndGggIT0gMikgdGhyb3cgbmV3IElsbGVnYWxBcmd1bWVudEV4Y2VwdGlvbigiVGFn5qC85byP6ZSZ6K+vIik7CiAgICAgICAgICAgIGZvcm1hdHRlcnMuYWRkKG5ldyBJbW11dGFibGVQYWlyPD4oVGFnRm9ybWF0RmllbGQudmFsdWVPZihpdGVtc1swXSksIGl0ZW1zWzFdKSk7CiAgICAgICAgfQogICAgfQo=</text>
+      <register name="0" type="4">
+        <text>|%.0f</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
