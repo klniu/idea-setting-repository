@@ -484,7 +484,6 @@
         <mark key="." line="9" column="7" />
         <mark key="^" line="9" column="7" />
       </file>
-      <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/model_test.go" timestamp="1519541558473" />
       <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/entity/enums/SealType.java" timestamp="1518409372772">
         <mark key="[" line="11" column="15" />
         <mark key="]" line="11" column="14" />
@@ -674,8 +673,8 @@
         <mark key="." line="31" column="8" />
         <mark key="^" line="31" column="7" />
       </file>
-      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" timestamp="1519648103628">
-        <mark key="'" line="61" column="23" />
+      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" timestamp="1519911780910">
+        <mark key="'" line="85" column="35" />
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
@@ -1175,9 +1174,9 @@
         <mark key="." line="3" column="12" />
         <mark key="^" line="3" column="12" />
       </file>
-      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/common/TagFormatter.java" timestamp="1516187947221">
-        <mark key="[" line="26" column="43" />
-        <mark key="]" line="26" column="43" />
+      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/common/TagFormatter.java" timestamp="1519911869155">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="30" column="4" />
         <mark key="^" line="26" column="43" />
         <mark key="." line="26" column="43" />
       </file>
@@ -2119,7 +2118,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="D:/code/java/voc/src/test/resources/sql/init.sql" />
       <jump line="303" column="14" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
       <jump line="354" column="31" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
       <jump line="79" column="23" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" />
@@ -2219,6 +2217,7 @@
       <jump line="0" column="0" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
       <jump line="25" column="13" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/entity/LdarStateSetting.java" />
       <jump line="268" column="4" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/entity/LdarStateSetting.java" />
+      <jump line="85" column="35" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2241,8 +2240,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>state_</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBUYWdGb3JtYXR0ZXIoU3RyaW5nIGZvcm1hdHRlcikgdGhyb3dzIElsbGVnYWxBcmd1bWVudEV4Y2VwdGlvbiB7CiAgICAgICAgaWYgKGZvcm1hdHRlciA9PSBudWxsIHx8IGZvcm1hdHRlci5sZW5ndGgoKSA9PSAwKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBJbGxlZ2FsQXJndW1lbnRFeGNlcHRpb24oIlRhZ+agvOW8j+mUmeivryIpOwogICAgICAgIH0KICAgICAgICBmb3JtYXR0ZXJzID0gbmV3IEFycmF5TGlzdDw+KCk7CiAgICAgICAgU3RyaW5nW10gZmllbGRzID0gZm9ybWF0dGVyLnNwbGl0KCI7Iik7CiAgICAgICAgZm9yIChTdHJpbmcgZmllbGQgOiBmaWVsZHMpIHsKICAgICAgICAgICAgU3RyaW5nW10gaXRlbXMgPSBmaWVsZC5zcGxpdCgiXFx8IiwgMik7CiAgICAgICAgICAgIGlmIChpdGVtcy5sZW5ndGggIT0gMikgdGhyb3cgbmV3IElsbGVnYWxBcmd1bWVudEV4Y2VwdGlvbigiVGFn5qC85byP6ZSZ6K+vIik7CiAgICAgICAgICAgIGZvcm1hdHRlcnMuYWRkKG5ldyBJbW11dGFibGVQYWlyPD4oVGFnRm9ybWF0RmllbGQudmFsdWVPZihpdGVtc1swXSksIGl0ZW1zWzFdKSk7CiAgICAgICAgfQogICAgfQo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2354,8 +2353,8 @@
       <register name="/" type="4">
         <text>getUsert</text>
       </register>
-      <register name="0" type="4">
-        <text>'String|L-;PhotoNo|%06d;String|-;SealType|%s;SealNo|%02d'</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBUYWdGb3JtYXR0ZXIoU3RyaW5nIGZvcm1hdHRlcikgdGhyb3dzIElsbGVnYWxBcmd1bWVudEV4Y2VwdGlvbiB7CiAgICAgICAgaWYgKGZvcm1hdHRlciA9PSBudWxsIHx8IGZvcm1hdHRlci5sZW5ndGgoKSA9PSAwKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBJbGxlZ2FsQXJndW1lbnRFeGNlcHRpb24oIlRhZ+agvOW8j+mUmeivryIpOwogICAgICAgIH0KICAgICAgICBmb3JtYXR0ZXJzID0gbmV3IEFycmF5TGlzdDw+KCk7CiAgICAgICAgU3RyaW5nW10gZmllbGRzID0gZm9ybWF0dGVyLnNwbGl0KCI7Iik7CiAgICAgICAgZm9yIChTdHJpbmcgZmllbGQgOiBmaWVsZHMpIHsKICAgICAgICAgICAgU3RyaW5nW10gaXRlbXMgPSBmaWVsZC5zcGxpdCgiXFx8IiwgMik7CiAgICAgICAgICAgIGlmIChpdGVtcy5sZW5ndGggIT0gMikgdGhyb3cgbmV3IElsbGVnYWxBcmd1bWVudEV4Y2VwdGlvbigiVGFn5qC85byP6ZSZ6K+vIik7CiAgICAgICAgICAgIGZvcm1hdHRlcnMuYWRkKG5ldyBJbW11dGFibGVQYWlyPD4oVGFnRm9ybWF0RmllbGQudmFsdWVPZihpdGVtc1swXSksIGl0ZW1zWzFdKSk7CiAgICAgICAgfQogICAgfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
