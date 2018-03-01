@@ -556,6 +556,9 @@
         <mark key="^" line="12" column="2" />
         <mark key="." line="12" column="2" />
       </file>
+      <file name="D:/code/web/voc-web/src/app/routes/base/setting/step1.component.ts" timestamp="1519913551765">
+        <mark key="'" line="35" column="0" />
+      </file>
       <file name="$USER_HOME$/sync/code/go/src/ldar/emissionMethod.go" timestamp="1490080917057">
         <mark key="[" line="216" column="44" />
         <mark key="]" line="216" column="44" />
@@ -778,12 +781,12 @@
         <mark key="^" line="40" column="72" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="D:/code/web/voc-web/src/app/routes/base/setting/step6.component.ts" timestamp="1519907274619">
-        <mark key="'" line="181" column="12" />
-        <mark key="[" line="172" column="9" />
-        <mark key="]" line="173" column="30" />
-        <mark key="^" line="173" column="30" />
-        <mark key="." line="173" column="30" />
+      <file name="D:/code/web/voc-web/src/app/routes/base/setting/step6.component.ts" timestamp="1519915375182">
+        <mark key="'" line="171" column="44" />
+        <mark key="[" line="108" column="96" />
+        <mark key="]" line="109" column="22" />
+        <mark key="." line="109" column="22" />
+        <mark key="^" line="109" column="22" />
       </file>
       <file name="D:/code/java/voc/src/main/resources/application-test.yaml" timestamp="1516608957988">
         <mark key="[" line="11" column="0" />
@@ -905,7 +908,7 @@
         <mark key="." line="65" column="13" />
         <mark key="^" line="65" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519739027943">
+      <file name="/Dummy.txt" timestamp="1519915552467">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/java/law/pom.xml" timestamp="1507787272217">
@@ -1305,11 +1308,11 @@
         <mark key="." line="5" column="39" />
         <mark key="^" line="5" column="39" />
       </file>
-      <file name="D:/code/web/voc-web/src/app/routes/base/setting/step6.component.html" timestamp="1519907938401">
-        <mark key="[" line="11" column="57" />
-        <mark key="]" line="11" column="57" />
-        <mark key="." line="11" column="57" />
-        <mark key="^" line="11" column="56" />
+      <file name="D:/code/web/voc-web/src/app/routes/base/setting/step6.component.html" timestamp="1519914024848">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
+        <mark key="^" line="62" column="50" />
       </file>
       <file name="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/mapper/RoleMapper.java" timestamp="1508842365893">
         <mark key="[" line="16" column="44" />
@@ -1353,9 +1356,9 @@
         <mark key="." line="18" column="14" />
         <mark key="^" line="18" column="14" />
       </file>
-      <file name="D:/code/web/voc-web/src/app/routes/base/setting/step1.component.html" timestamp="1519737910996">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="27" column="22" />
+      <file name="D:/code/web/voc-web/src/app/routes/base/setting/step1.component.html" timestamp="1519913481283">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="15" column="30" />
       </file>
       <file name="D:/code/java/voc/src/main/resources/sql/schema.sql" timestamp="1519648686017">
         <mark key="'" line="0" column="0" />
@@ -2108,9 +2111,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="11" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/UserServiceImplTest.java" />
-      <jump line="77" column="28" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/UserServiceImplTest.java" />
-      <jump line="25" column="77" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/shiro/JWTUtil.java" />
       <jump line="97" column="8" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/UserServiceImplTest.java" />
       <jump line="117" column="0" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/UserServiceImplTest.java" />
       <jump line="75" column="6" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/shiro/JWTUtil.java" />
@@ -2208,6 +2208,9 @@
       <jump line="2" column="32" filename="D:/code/web/voc-web/src/app/routes/base/setting/step6.component.html" />
       <jump line="70" column="25" filename="D:/code/web/voc-web/src/app/routes/base/setting/step6.component.html" />
       <jump line="9" column="59" filename="D:/code/web/voc-web/src/app/routes/base/setting/step6.component.html" />
+      <jump line="162" column="98" filename="D:/code/web/voc-web/src/app/routes/base/setting/step6.component.ts" />
+      <jump line="35" column="0" filename="D:/code/web/voc-web/src/app/routes/base/setting/step1.component.ts" />
+      <jump line="163" column="44" filename="D:/code/web/voc-web/src/app/routes/base/setting/step6.component.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2230,8 +2233,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2338,57 +2341,56 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>key</text>
       </register>
       <register name="/" type="4">
-        <text>Plain Text</text>
+        <text>console</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhcHAtc2V0dGluZy1zdGVwNiBbbnotZm9ybV0gewogICAgICAgICAgICBoZWlnaHQ6IDUwMHB4OwogICAgICAgICAgICBvdmVyZmxvdy15OiBhdXRvOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGlzLnN1YnNjcmliZVZhbHVlQ2hhbmdlKGl0ZW0ua2V5KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhcHAtc2V0dGluZy1zdGVwNiBbbnotYWxlcnRdIHsKICAgICAgICAgICAgaGVpZ2h0OiA1MDBweDsKICAgICAgICAgICAgb3ZlcmZsb3cteTogYXV0bzsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMudmFsdWVDaGFuZ2VTdWJzY3JbaXRlbS5rZXldLnVuc3Vic2NyaWJlKCk7CiAgICAgICAgICAgICAgICBpZiAoaXRlbS5rZXkgPT09ICdVbml0Q29kZScgfHwgaXRlbS5rZXkgPT09ICdJbnN0YWxsQ29kZScpIHsKICAgICAgICAgICAgICAgICAgICB0aGlzLnZhbHVlQ2hhbmdlU3Vic2NyW2l0ZW0ua2V5ICsgJ1BhZGRpbmcnXS51bnN1YnNjcmliZSgpOwogICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGJyLz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGlzLnZhbHVlQ2hhbmdlU3Vic2NyW2l0ZW0ua2V5ICsgJ1BhZGRpbmcnXSA9IHRoaXMuZm9ybS5nZXQoaXRlbS5rZXkgKyAnUGFkZGluZycpLnZhbHVlQ2hhbmdlcy5zdWJzY3JpYmUoKCkgPT4gewogICAgICAgICAgICAgICAgICAgICAgICBpZiAodGhpcy5mb3JtLnZhbGlkKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aGlzLmdlbmVyYXRlRXhhbXBsZSgpOwogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8bnotYWxlcnQgW256VHlwZV09IidzdWNjZXNzJyIgW256TWVzc2FnZV09IifX6bz+seDC68q+wP0nIgogICAgICAgICAgICAgICAgICBbbnpEZXNjcmlwdGlvbl09Int7ZXhhbXBsZTF9fSI+CiAgICAgICAgPC9uei1hbGVydD4K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IG56LXJvdyBbbnpUeXBlXT0iJ2ZsZXgnIiBbbnpKdXN0aWZ5XT0iJ2NlbnRlciciIFtuekFsaWduXT0iJ21pZGRsZSciPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gtqnUxLHttaWx5LuvsqK9q3Vuc3Vic2NyaWJlzO2807W9wdCx7bmy0saz/QogICAgICAgICAgICB0aGlzLnZhbHVlQ2hhbmdlU3Vic2NyW2l0ZW0ua2V5XSA9IHRoaXMuZm9ybS5nZXQoaXRlbS5rZXkpLnZhbHVlQ2hhbmdlcy5zdWJzY3JpYmUoKCkgPT4gewogICAgICAgICAgICAgICAgaWYgKHRoaXMuZm9ybS52YWxpZCkgewogICAgICAgICAgICAgICAgICAgIHRoaXMuZ2VuZXJhdGVFeGFtcGxlKCk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBuei1jb2wgW256U3Bhbl09IjI0Ij4KICAgICAgICAgICAgICAgIDxkaXYgbnotcm93PgogICAgICAgICAgICAgICAgICAgIDxiPtfpvP6x4MLryr7A/TGjunt7ZXhhbXBsZTF9fTwvYj4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgPGRpdiBuei1yb3c+CiAgICAgICAgICAgICAgICAgICAgPGI+1+m8/rHgwuvKvsD9MqO6e3tleGFtcGxlMn19PC9iPgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBuei1jb2wgW256U3Bhbl09IjQiPgogICAgICAgICAgICAgICAgPGJ1dHRvbiBuei1idXR0b24gW256VHlwZV09IidwcmltYXJ5JyIgKGNsaWNrKT0iZ2VuZXJhdGVFeGFtcGxlKCkiIG56U2l6ZT0ibGFyZ2UiPs/Uyr7KvsD9PC9idXR0b24+CiAgICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuZm9ybS5nZXQoaXRlbS5rZXkpLnZhbHVlQ2hhbmdlcy4oKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAodGhpcy5mb3JtLmdldCgnSW5zdGFsbENvZGVQYWRkaW5nJykpIHsKICAgICAgICAgICAgICAgICAgICAgICAgcGFkZGluZyA9IHRoaXMuZm9ybS5nZXQoJ0luc3RhbGxDb2RlUGFkZGluZycpLnZhbHVlOwogICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmZvcm0udmFsdWVDaGFuZ2VzLnN1YnNjcmliZSgoKSA9PiB7CiAgICAgICAgICAgIGlmICh0aGlzLmZvcm0udmFsaWQpIHsKICAgICAgICAgICAgICAgIHRoaXMuZ2VuZXJhdGVFeGFtcGxlKCk7CiAgICAgICAgICAgIH0KICAgICAgICB9KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gbnotZm9ybS10ZXh0bnotY29sIFtuelNtXT0iNCI+PC9zcGFuPgo=</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
-      <last-search>Plain Text</last-search>
+      <last-search>console</last-search>
       <last-offset />
-      <last-pattern>Plain Text</last-pattern>
+      <last-pattern>console</last-pattern>
       <last-replace>connector</last-replace>
       <last-substitute>insti</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>adfasf</entry>
         <entry>UNIQUE</entry>
         <entry>LdarStandard</entry>
         <entry>ldarStandard</entry>
@@ -2408,6 +2410,7 @@
         <entry>getUsert</entry>
         <entry>ngif</entry>
         <entry>Plain Text</entry>
+        <entry>console</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Institution/Unit/gc</entry>
@@ -2426,8 +2429,8 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gTmV4dFRhYg==</entry>
         <entry>vsplit</entry>
         <entry encoding="base64">JzwsJz5J</entry>
-        <entry>action NextTab</entry>
         <entry>q</entry>
+        <entry>action NextTab</entry>
         <entry>action PreviousTab</entry>
         <entry>action ReformatCode</entry>
       </history-cmd>
