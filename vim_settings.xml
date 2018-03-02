@@ -568,10 +568,6 @@
         <mark key="^" line="8" column="21" />
         <mark key="." line="8" column="21" />
       </file>
-      <file name="D:/code/web/voc-ui/src/app/routes/base/setting/step6.component.ts" timestamp="1519889989243">
-        <mark key="[" line="82" column="8" />
-        <mark key="]" line="82" column="28" />
-      </file>
       <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/entity/LdarRule.java" timestamp="1518405432560">
         <mark key="[" line="46" column="20" />
         <mark key="]" line="46" column="26" />
@@ -2346,7 +2342,7 @@
         <text>(</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxleHRzXD4=</text>
+        <text>54</text>
       </register>
       <register name="0" type="4">
         <text>oj(tmp_dir, new_filename+ext)</text>
@@ -2383,17 +2379,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxleHRzXD4=</last-search>
+      <last-search>54</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxleHRzXD4=</last-pattern>
+      <last-pattern>54</last-pattern>
       <last-replace>connector</last-replace>
       <last-substitute>insti</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>UNIQUE</entry>
         <entry>LdarStandard</entry>
         <entry>ldarStandard</entry>
         <entry>standard</entry>
@@ -2413,6 +2408,7 @@
         <entry>ngif</entry>
         <entry>Plain Text</entry>
         <entry encoding="base64">XDxleHRzXD4=</entry>
+        <entry>54</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Institution/Unit/gc</entry>
