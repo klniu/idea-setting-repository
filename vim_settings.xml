@@ -568,12 +568,12 @@
         <mark key="^" line="8" column="21" />
         <mark key="." line="8" column="21" />
       </file>
-      <file name="D:/code/web/voc-ui/src/app/routes/base/setting/step6.component.ts" timestamp="1519973604760">
-        <mark key="'" line="141" column="43" />
-        <mark key="[" line="141" column="111" />
-        <mark key="]" line="141" column="111" />
-        <mark key="." line="141" column="111" />
-        <mark key="^" line="141" column="69" />
+      <file name="D:/code/web/voc-ui/src/app/routes/base/setting/step6.component.ts" timestamp="1519977576715">
+        <mark key="'" line="159" column="8" />
+        <mark key="[" line="79" column="44" />
+        <mark key="]" line="79" column="44" />
+        <mark key="^" line="79" column="44" />
+        <mark key="." line="79" column="44" />
       </file>
       <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/entity/LdarRule.java" timestamp="1518405432560">
         <mark key="[" line="46" column="20" />
@@ -624,6 +624,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
         <mark key="^" line="3" column="58" />
+      </file>
+      <file name="D:/code/web/voc-ui/src/app/routes/base/setting/setting.component.ts" timestamp="1519976012571">
+        <mark key="[" line="52" column="10" />
+        <mark key="]" line="52" column="10" />
+        <mark key="." line="52" column="10" />
       </file>
       <file name="$USER_HOME$/workdir/code/voc-ui/src/components/settings/FactorySetting.jsx" timestamp="1500618980587">
         <mark key="[" line="22" column="80" />
@@ -2135,9 +2140,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="112" column="22" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/UserServiceImplTest.java" />
-      <jump line="25" column="1" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/config/ShiroConfig.java" />
-      <jump line="0" column="0" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/UserServiceImplTest.java" />
       <jump line="100" column="35" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/UserServiceImplTest.java" />
       <jump line="36" column="13" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.shiro/shiro-core/1.4.0/fa55fb228087dbb9026ce97d8e2f6d968b77a9d7/shiro-core-1.4.0-sources.jar!/org/apache/shiro/subject/SimplePrincipalCollection.java" />
       <jump line="45" column="43" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/UserServiceImplTest.java" />
@@ -2235,6 +2237,9 @@
       <jump line="276" column="24" filename="D:/code/web/voc-ui/src/app/routes/base/setting/step6.component.ts" />
       <jump line="2" column="14" filename="D:/code/web/voc-ui/src/app/routes/common/validators.ts" />
       <jump line="141" column="43" filename="D:/code/web/voc-ui/src/app/routes/base/setting/step6.component.ts" />
+      <jump line="335" column="67" filename="D:/code/web/voc-ui/src/app/routes/base/setting/step6.component.ts" />
+      <jump line="155" column="16" filename="D:/code/web/voc-ui/src/app/routes/base/setting/step6.component.ts" />
+      <jump line="158" column="8" filename="D:/code/web/voc-ui/src/app/routes/base/setting/step6.component.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2257,8 +2262,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">LCA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLmdlbmVyYXRlRXhhbXBsZSgpOwo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2365,57 +2370,56 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LCA=</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>54</text>
+        <text>item.</text>
       </register>
-      <register name="0" type="4">
-        <text>control: FormControl</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLmdlbmVyYXRlRXhhbXBsZSgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmdlbmVyYXRlRXhhbXBsZSgpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmdlbmVyYXRlRXhhbXBsZSgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gKGNvbnRyb2w6IEFic3RyYWN0Q29udHJvbCk6IHsgW2tleTogc3RyaW5nXTogYW55IH0gPT4gewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuZm9ybS5yZW1vdmVDb250cm9sKGl0ZW0ua2V5KTsKICAgICAgICAgICAgICAgIHRoaXMuZmllbGRDb250cm9scyA9IHRoaXMuZmllbGRDb250cm9scy5maWx0ZXIoZmllbGQgPT4gZmllbGQua2V5ICE9PSBpdGVtLmtleSk7CiAgICAgICAgICAgICAgICAvLyDSxrP9tqnUxAogICAgICAgICAgICAgICAgaWYgKHRoaXMudmFsdWVDaGFuZ2VTdWJzY3JbaXRlbS5rZXldKSB7CiAgICAgICAgICAgICAgICAgICAgdGhpcy52YWx1ZUNoYW5nZVN1YnNjcltpdGVtLmtleV0udW5zdWJzY3JpYmUoKTsKICAgICAgICAgICAgICAgICAgICBpZiAoaXRlbS5rZXkgPT09ICdVbml0Q29kZScgfHwgaXRlbS5rZXkgPT09ICdJbnN0YWxsQ29kZScpIHsKICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy52YWx1ZUNoYW5nZVN1YnNjcltpdGVtLmtleSArICdQYWRkaW5nJ10udW5zdWJzY3JpYmUoKTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8qKiBBIGhlcm8ncyBuYW1lIGNhbid0IG1hdGNoIHRoZSBnaXZlbiByZWd1bGFyIGV4cHJlc3Npb24gKi8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8qKiBBIGhlcm8ncyBuYW1lIGNhbid0IG1hdGNoIHRoZSBnaXZlbiByZWd1bGFyIGV4cHJlc3Npb24gKi8KICAgIGZvcmJpZGRlbkNoYXJWYWxpZGF0b3IoKTogVmFsaWRhdG9yRm4gewogICAgICAgIHJldHVybiAoY29udHJvbDogQWJzdHJhY3RDb250cm9sKTogeyBba2V5OiBzdHJpbmddOiBhbnkgfSA9PiB7CiAgICAgICAgICAgIGNvbnN0IGZvcmJpZGRlbiA9IGNvbnRyb2wudmFsdWUuaW5jbHVkZXMoJ3wnKSB8fCBjb250cm9sLnZhbHVlLmluY2x1ZGVzKCc7Jyk7CiAgICAgICAgICAgIHJldHVybiBmb3JiaWRkZW4gPyB7J2ZvcmJpZGRlbkNoYXInOiB7dmFsdWU6IGNvbnRyb2wudmFsdWV9fSA6IG51bGw7CiAgICAgICAgfTsKICAgIH0KCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gIS9eW2EtekEtWl0rJC9pLnRlc3QoY29udHJvbC52YWx1ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5hZGRDb250cm9sKHtrZXk6IGl0ZW0ua2V5LCB0aXRsZTogaXRlbS50aXRsZSwgdGlwOiBpdGVtLnRpcH0pOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmdlbmVyYXRlRXhhbXBsZSgpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text encoding="base64">JzwsJz5zL2l0ZW0uLy9nYw==</text>
       </register>
     </registers>
     <search>
-      <last-search>54</last-search>
+      <last-search>item.</last-search>
       <last-offset />
-      <last-pattern>54</last-pattern>
-      <last-replace>connector</last-replace>
-      <last-substitute>insti</last-substitute>
+      <last-pattern>item.</last-pattern>
+      <last-replace />
+      <last-substitute>item.</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>LdarStandard</entry>
         <entry>ldarStandard</entry>
         <entry>standard</entry>
         <entry>Component</entry>
@@ -2435,9 +2439,9 @@
         <entry>Plain Text</entry>
         <entry encoding="base64">XDxleHRzXD4=</entry>
         <entry>54</entry>
+        <entry>item.</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/Institution/Unit/gc</entry>
         <entry>%s/institution/unit/gc</entry>
         <entry encoding="base64">JzwsJz5zLyQvXG4i</entry>
         <entry encoding="base64">JzwsJz5zLyQvXFxuIg==</entry>
@@ -2457,6 +2461,7 @@
         <entry>action NextTab</entry>
         <entry>action PreviousTab</entry>
         <entry>action ReformatCode</entry>
+        <entry encoding="base64">JzwsJz5zL2l0ZW0uLy9nYw==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
