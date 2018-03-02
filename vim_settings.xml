@@ -41,6 +41,12 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="34" column="24" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cb6e028b-04c0-427c-be30-b4d266fe8774/console.sql" timestamp="1514516804362">
+        <mark key="[" line="42" column="28" />
+        <mark key="]" line="42" column="28" />
+        <mark key="." line="42" column="28" />
+        <mark key="^" line="43" column="31" />
+      </file>
       <file name="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/entity/enums/RoleName.java" timestamp="1510214079592">
         <mark key="[" line="7" column="21" />
         <mark key="]" line="7" column="30" />
@@ -426,6 +432,12 @@
         <mark key="." line="1" column="19" />
         <mark key="^" line="1" column="19" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.java" timestamp="1515290836374">
+        <mark key="[" line="7" column="30" />
+        <mark key="]" line="7" column="38" />
+        <mark key="^" line="7" column="38" />
+        <mark key="." line="7" column="38" />
+      </file>
       <file name="$USER_HOME$/sync/code/go/src/ldar/monitorstate_test.go" timestamp="1476255374926">
         <mark key="[" line="16" column="40" />
         <mark key="]" line="16" column="40" />
@@ -611,12 +623,6 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
         <mark key="^" line="3" column="58" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.java" timestamp="1515290836374">
-        <mark key="[" line="7" column="30" />
-        <mark key="]" line="7" column="38" />
-        <mark key="^" line="7" column="38" />
-        <mark key="." line="7" column="38" />
       </file>
       <file name="$USER_HOME$/workdir/code/voc-ui/src/components/settings/FactorySetting.jsx" timestamp="1500618980587">
         <mark key="[" line="22" column="80" />
@@ -1164,9 +1170,9 @@
         <mark key="." line="3" column="12" />
         <mark key="^" line="3" column="12" />
       </file>
-      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/common/TagFormatter.java" timestamp="1516187947221">
-        <mark key="[" line="26" column="43" />
-        <mark key="]" line="26" column="43" />
+      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/common/TagFormatter.java" timestamp="1519971073048">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="29" column="8" />
         <mark key="^" line="26" column="43" />
         <mark key="." line="26" column="43" />
       </file>
@@ -1966,12 +1972,6 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cb6e028b-04c0-427c-be30-b4d266fe8774/console.sql" timestamp="1514516804362">
-        <mark key="[" line="42" column="28" />
-        <mark key="]" line="42" column="28" />
-        <mark key="." line="42" column="28" />
-        <mark key="^" line="43" column="31" />
-      </file>
       <file name="$USER_HOME$/sync/code/java/xiaoyi/gradle.properties" timestamp="1484386985579">
         <mark key="[" line="1" column="24" />
         <mark key="]" line="1" column="30" />
@@ -2232,7 +2232,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBvcy5ybWRpcih0bXBfZGlyKQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZm9ybWF0dGVyID09IG51bGwgfHwgZm9ybWF0dGVyLmxlbmd0aCgpID09IDApIHsKICAgICAgICAgICAgdGhyb3cgbmV3IElsbGVnYWxBcmd1bWVudEV4Y2VwdGlvbigiVGFn5qC85byP6ZSZ6K+vIik7CiAgICAgICAgfQogICAgICAgIGZvcm1hdHRlcnMgPSBuZXcgQXJyYXlMaXN0PD4oKTsKICAgICAgICBTdHJpbmdbXSBmaWVsZHMgPSBmb3JtYXR0ZXIuc3BsaXQoIjsiKTsKICAgICAgICBmb3IgKFN0cmluZyBmaWVsZCA6IGZpZWxkcykgewogICAgICAgICAgICBTdHJpbmdbXSBpdGVtcyA9IGZpZWxkLnNwbGl0KCJcXHwiLCAyKTsKICAgICAgICAgICAgaWYgKGl0ZW1zLmxlbmd0aCAhPSAyKSB0aHJvdyBuZXcgSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uKCJUYWfmoLzlvI/plJnor68iKTsKICAgICAgICAgICAgZm9ybWF0dGVycy5hZGQobmV3IEltbXV0YWJsZVBhaXI8PihUYWdGb3JtYXRGaWVsZC52YWx1ZU9mKGl0ZW1zWzBdKSwgaXRlbXNbMV0pKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2360,16 +2360,16 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbGVfcGF0aCA9IG9qKHRtcF9kaXIsIG5ld19maWxlbmFtZStleHQpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgyOe5+9a4tqi1xLTy06G6zdfUtq+x4LrFo6zEx8O00OjSqr2rzsS8/tbYw/zD+6OszqrBy7K7xsa7tdS0zsS8/qOs0OjSqr2rzsS8/ri01sa1vbHwtcS12Le9Cg==</text>
+        <text encoding="base64">ICAgICMg77+977+977+91rjvv73vv73vv73EtO+/vdOh77+977+977+91Lbvv73vv73vv73Fo++/ve+/ve+/vcO077+977+90qrvv73vv73vv73EvO+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/vc6q77+9y7Lvv73vv73Gu++/vdS077+9xLzvv73vv73vv73vv73vv73Squ+/ve+/ve+/vcS877+977+977+977+9xrXvv73vv73vv73Etdi377+9Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIGFyZ3Mub3V0cHV0IGFuZCBhcmdzLnByaW50OgogICAgICAgIHByaW50KCLO3reozazKsda4tqi08tOhus3K5LP2tb3WuLaozsS8/rzQIikKICAgICAgICBleGl0KDEpCgo=</text>
+        <text encoding="base64">ICAgIGlmIGFyZ3Mub3V0cHV0IGFuZCBhcmdzLnByaW50OgogICAgICAgIHByaW50KCLvv73et++/vc2syrHWuO+/ve+/ve+/ve+/vdOh77+977+977+977+977+977+977+91rjvv73vv73vv73EvO+/ve+/ve+/vSIpCiAgICAgICAgZXhpdCgxKQoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy1uJywgJy0tYXV0b19udW0nLCBkZXN0PSdhdXRvX251bScsIGFjdGlvbj0nc3RvcmVfdHJ1ZScsIGhlbHA9J8q508PX1LavseC6xScpCg==</text>
+        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy1uJywgJy0tYXV0b19udW0nLCBkZXN0PSdhdXRvX251bScsIGFjdGlvbj0nc3RvcmVfdHJ1ZScsIGhlbHA9J8q577+977+977+91Lbvv73vv73vv73vv70nKQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIHByaW50KGFyZ3MpCg==</text>
@@ -2385,7 +2385,7 @@
       <last-replace>connector</last-replace>
       <last-substitute>insti</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
