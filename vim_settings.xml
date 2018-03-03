@@ -1871,6 +1871,12 @@
         <mark key="^" line="19" column="13" />
         <mark key="." line="40" column="0" />
       </file>
+      <file name="D:/code/web/voc-web/src/app/routes/base/ldarsetting/setting.service.ts" timestamp="1520068542518">
+        <mark key="'" line="13" column="79" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="D:/code/java/voc/src/main/kotlin/com/cnvoc/voc/service/impl/FactoryServiceImpl.kt" timestamp="1514683050475">
         <mark key="[" line="66" column="55" />
         <mark key="]" line="67" column="28" />
@@ -2008,6 +2014,12 @@
         <mark key="]" line="10" column="16" />
         <mark key="." line="10" column="16" />
         <mark key="^" line="10" column="24" />
+      </file>
+      <file name="D:/code/web/voc-web/src/app/routes/base/ldarsetting/setting.component.html" timestamp="1520068994975">
+        <mark key="[" line="21" column="53" />
+        <mark key="]" line="21" column="54" />
+        <mark key="." line="21" column="54" />
+        <mark key="^" line="1" column="36" />
       </file>
       <file name="$USER_HOME$/workdir/web/now-antd/src/App.css" timestamp="1495525973230">
         <mark key="[" line="3" column="12" />
@@ -2214,7 +2226,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="4" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/DetectionServiceImpl.java" />
       <jump line="84" column="0" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/DetectionServiceImpl.java" />
       <jump line="34" column="13" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/entity/Component.java" />
       <jump line="48" column="37" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/DetectionServiceImplTest.java" />
@@ -2314,6 +2325,7 @@
       <jump line="9" column="84" filename="D:/code/web/voc-web/src/app/routes/base/factory/factory.component.html" />
       <jump line="52" column="20" filename="D:/code/web/voc-web/src/app/routes/base/factory/factory.component.html" />
       <jump line="50" column="52" filename="D:/code/web/voc-web/src/app/routes/base/factory/factory.component.html" />
+      <jump line="14" column="79" filename="D:/code/web/voc-web/src/app/routes/base/ldarsetting/setting.service.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2336,8 +2348,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>activeNodes[0]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICA8YXBwLXNldHRpbmctc3RlcDEgKm5nSWY9Iml0ZW0uc3RlcD09MCI+PC9hcHAtc2V0dGluZy1zdGVwMT4K</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2444,7 +2456,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>activeNodes[0]</text>
+        <text>：</text>
       </register>
       <register name="/" type="4">
         <text>activa</text>
@@ -2453,31 +2465,31 @@
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiZGVhY3RpdmF0ZSIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiYWN0aXZhdGUiKTsK</text>
+        <text encoding="base64">ICAgICAgICA8YXBwLXNldHRpbmctc3RlcDEgKm5nSWY9Iml0ZW0uc3RlcD09MCI+PC9hcHAtc2V0dGluZy1zdGVwMT4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiZGVhY3RpdmF0ZSIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPG56LXN0ZXAgbnpUaXRsZT0iuaSzp9DFz6IiPjwvbnotc3RlcD4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmZvcm1GYWN0b3J5ID0gZXYubm9kZS5kYXRhOwogICAgICAgIGlmICghdGhpcy5mb3JtRmFjdG9yeS5wYXJlbnRJZCkgewogICAgICAgICAgICB0aGlzLmZvcm1GYWN0b3J5UGFyZW50TmFtZSA9ICfO3ic7CiAgICAgICAgICAgIHJldHVybjsKICAgICAgICB9CiAgICAgICAgY29uc3QgcGFyZW50Tm9kZSA9IGV2LnRyZWVNb2RlbC5nZXROb2RlQnlJZCh0aGlzLmZvcm1GYWN0b3J5LnBhcmVudElkKTsKICAgICAgICB0aGlzLmZvcm1GYWN0b3J5UGFyZW50TmFtZSA9IHBhcmVudE5vZGUgPyBwYXJlbnROb2RlLmRhdGEubmFtZSA6ICfO3sioz96y6b+0JzsKCg==</text>
+        <text encoding="base64">aW1wb3J0IHtGYWN0b3J5U2VydmljZX0gZnJvbSAnLi4vZmFjdG9yeS9mYWN0b3J5LnNlcnZpY2UnOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRyZWVNb2RlbAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBwYXJlbnRJZCA9IDsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBhY3RpdmF0ZWRGYWN0b3J5ID0gCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGFjdGl2YXRlZEZhY3Rvcnk6IGFueTsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpcy5mYWN0b3J5SWQgPyB0aGlzLmZhY3RvcnlTZXJ2aWNlLmdldEZhY3RvcnlCeUlkKHRoaXMuZmFjdG9yeUlkKSA6IG51bGw7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGdldFNlcnZlckZhY3RvcnkoKTogT2JzZXJ2YWJsZTxTZXJ2ZXJSZXNwb25zZT4gewo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGZhY3Rvcnk6IGFueTsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRoaXMudHJlZUNtcC5nZXQK</text>
+        <text encoding="base64">ICAgIHNhdmVkRmFjdG9yeTogYW55Owo=</text>
       </register>
       <register name=":" type="4">
         <text>action PreviousTab</text>
