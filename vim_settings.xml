@@ -537,11 +537,12 @@
         <mark key="]" line="19" column="30" />
         <mark key="." line="19" column="30" />
       </file>
-      <file name="D:/code/web/voc-web/src/app/routes/base/base.module.ts" timestamp="1520073443911">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="16" column="116" />
-        <mark key="." line="8" column="0" />
+      <file name="D:/code/web/voc-web/src/app/routes/base/base.module.ts" timestamp="1520075262927">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="14" column="116" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/workdir/code/law/src/main/java/util/MyMapper.java" timestamp="1505463926546">
         <mark key="[" line="0" column="27" />
@@ -1244,6 +1245,12 @@
         <mark key="^" line="26" column="43" />
         <mark key="." line="26" column="43" />
       </file>
+      <file name="D:/code/web/voc-web/src/app/routes/ldar/standard/standard.component.html" timestamp="1520075196359">
+        <mark key="[" line="100" column="57" />
+        <mark key="]" line="101" column="21" />
+        <mark key="^" line="101" column="21" />
+        <mark key="." line="101" column="21" />
+      </file>
       <file name="$USER_HOME$/sync/code/go/src/spiders/main.go" timestamp="1490272887895">
         <mark key="[" line="11" column="21" />
         <mark key="]" line="11" column="23" />
@@ -1443,10 +1450,11 @@
         <mark key="^" line="122" column="38" />
         <mark key="." line="122" column="38" />
       </file>
-      <file name="D:/code/web/voc-web/src/app/routes/ldar/ldar.module.ts" timestamp="1520073427076">
-        <mark key="[" line="18" column="78" />
-        <mark key="]" line="19" column="117" />
-        <mark key="." line="18" column="78" />
+      <file name="D:/code/web/voc-web/src/app/routes/ldar/ldar.module.ts" timestamp="1520075257815">
+        <mark key="[" line="17" column="25" />
+        <mark key="]" line="17" column="25" />
+        <mark key="." line="17" column="25" />
+        <mark key="^" line="17" column="25" />
       </file>
       <file name="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/DetectionServiceImplTest.java" timestamp="1518413019209">
         <mark key="'" line="59" column="0" />
@@ -2255,7 +2263,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="455" column="38" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
       <jump line="259" column="9" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
       <jump line="350" column="3" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
       <jump line="40" column="57" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/LdarRuleServiceImpl.java" />
@@ -2355,6 +2362,7 @@
       <jump line="77" column="64" filename="D:/code/web/voc-web/src/app/routes/base/ldarsetting/tag-formatter.component.html" />
       <jump line="50" column="11" filename="D:/code/web/voc-web/src/app/routes/base/ldarsetting/setting.service.ts" />
       <jump line="12" column="16" filename="D:/code/web/voc-web/src/app/routes/base/ldarsetting/finished.component.ts" />
+      <jump line="14" column="0" filename="D:/code/web/voc-web/src/app/routes/base/base.module.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2377,8 +2385,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHtOelRyYW5zZmVyTW9kdWxlfSBmcm9tICduZy16b3Jyby1hbnRkJzsK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2494,32 +2502,31 @@
         <text encoding="base64">ICAgICAgICA8YXBwLXNldHRpbmctc3RlcDItNSAqbmdJZj0iaXRlbS5zdGVwPT0zIiBbc3RhdGVUeXBlXT0iJ7e9zrsnIiBbZGF0YV09ImRpcmVjdGlvbnMiPjwvYXBwLXNldHRpbmctc3RlcDItNT4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0sIHsKICAgICAgICAgICAgICAgICAgICAidGV4dCI6ICJMREFSyejWwyIsCiAgICAgICAgICAgICAgICAgICAgImxpbmsiOiAiL2xkYXIvc2V0dGluZyIsCiAgICAgICAgICAgICAgICAgICAgImljb24iOiAiaWNvbi1zZXR0aW5ncyIK</text>
+        <text encoding="base64">aW1wb3J0IHtOelRyYW5zZmVyTW9kdWxlfSBmcm9tICduZy16b3Jyby1hbnRkJzsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHtwYXRoOiAnc2V0dGluZycsIGNvbXBvbmVudDogU2V0dGluZ0NvbXBvbmVudH0sCg==</text>
+        <text encoding="base64">ICAgICAgICBOelRyYW5zZmVyTW9kdWxlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHtTZXR0aW5nRmluaXNoZWRDb21wb25lbnR9IGZyb20gJy4uL2xkYXIvbGRhcnNldHRpbmcvZmluaXNoZWQuY29tcG9uZW50JzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0sIHsKICAgICAgICAgICAgICAgICAgICAidGV4dCI6ICJMREFSyejWwyIsCiAgICAgICAgICAgICAgICAgICAgImxpbmsiOiAiL2xkYXIvc2V0dGluZyIsCiAgICAgICAgICAgICAgICAgICAgImljb24iOiAiaWNvbi1zZXR0aW5ncyIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHtTZXR0aW5nUGhvdG9OdW1iZXJDb21wb25lbnR9IGZyb20gJy4uL2xkYXIvbGRhcnNldHRpbmcvcGhvdG8tbnVtYmVyLmNvbXBvbmVudCc7Cg==</text>
+        <text encoding="base64">ICAgIHtwYXRoOiAnc2V0dGluZycsIGNvbXBvbmVudDogU2V0dGluZ0NvbXBvbmVudH0sCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHtTZXR0aW5nVGFnRm9ybWF0dGVyQ29tcG9uZW50fSBmcm9tICcuLi9sZGFyL2xkYXJzZXR0aW5nL3RhZy1mb3JtYXR0ZXIuY29tcG9uZW50JzsK</text>
+        <text encoding="base64">aW1wb3J0IHtTZXR0aW5nRmluaXNoZWRDb21wb25lbnR9IGZyb20gJy4uL2xkYXIvbGRhcnNldHRpbmcvZmluaXNoZWQuY29tcG9uZW50JzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHtTZXR0aW5nU3RlcDJUbzVDb21wb25lbnR9IGZyb20gJy4uL2xkYXIvbGRhcnNldHRpbmcvc3RlcDItNS5jb21wb25lbnQnOwo=</text>
+        <text encoding="base64">aW1wb3J0IHtTZXR0aW5nUGhvdG9OdW1iZXJDb21wb25lbnR9IGZyb20gJy4uL2xkYXIvbGRhcnNldHRpbmcvcGhvdG8tbnVtYmVyLmNvbXBvbmVudCc7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHtTZXR0aW5nQ29tcG9uZW50fSBmcm9tICcuLi9sZGFyL2xkYXJzZXR0aW5nL3NldHRpbmcuY29tcG9uZW50JzsK</text>
+        <text encoding="base64">aW1wb3J0IHtTZXR0aW5nVGFnRm9ybWF0dGVyQ29tcG9uZW50fSBmcm9tICcuLi9sZGFyL2xkYXJzZXR0aW5nL3RhZy1mb3JtYXR0ZXIuY29tcG9uZW50JzsK</text>
       </register>
-      <register name="8" type="4">
-        <text>, SettingComponent,
-        SettingStep2To5Component, SettingTagFormatterComponent, SettingPhotoNumberComponent, SettingFinishedComponent</text>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IHtTZXR0aW5nU3RlcDJUbzVDb21wb25lbnR9IGZyb20gJy4uL2xkYXIvbGRhcnNldHRpbmcvc3RlcDItNS5jb21wb25lbnQnOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWFyZ2luOiAwIGF1dG87Cg==</text>
+        <text encoding="base64">aW1wb3J0IHtTZXR0aW5nQ29tcG9uZW50fSBmcm9tICcuLi9sZGFyL2xkYXJzZXR0aW5nL3NldHRpbmcuY29tcG9uZW50JzsK</text>
       </register>
       <register name=":" type="4">
         <text>action PreviousTab</text>
