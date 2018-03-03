@@ -521,6 +521,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'FactoryControllerTest.updateFactoryAndSe...'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'FactoryControllerTest.updateFactoryAndSe...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'FactoryServiceImplTest'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -567,6 +575,14 @@
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'FactoryServiceImplTest.getParentsIdsById'</Description>
           <Count>12</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'FactoryServiceImplTest.update'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'FactoryServiceImplTest.update'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'FunctionTest.addIdValidMsgToBindingResul...'">
@@ -969,6 +985,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'FactoryServiceImplTest.update'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'FactoryServiceImplTest.update'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'FunctionTest.validMsgHandler'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1118,7 +1142,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>127</Count>
+          <Count>128</Count>
         </Item>
       </Statistic>
     </option>
