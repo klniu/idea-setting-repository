@@ -88,11 +88,11 @@
         <mark key="^" line="27" column="30" />
         <mark key="." line="27" column="30" />
       </file>
-      <file name="D:/code/web/voc-web/src/app/routes/base/factory/factory.component.html" timestamp="1520053023175">
-        <mark key="[" line="10" column="60" />
-        <mark key="]" line="10" column="60" />
-        <mark key="^" line="10" column="60" />
-        <mark key="." line="10" column="60" />
+      <file name="D:/code/web/voc-web/src/app/routes/base/factory/factory.component.html" timestamp="1520056234814">
+        <mark key="[" line="22" column="42" />
+        <mark key="]" line="22" column="42" />
+        <mark key="^" line="22" column="42" />
+        <mark key="." line="22" column="42" />
       </file>
       <file name="$USER_HOME$/code/java/vocs/src/main/resources/application-production.yml" timestamp="1508673743650">
         <mark key="[" line="6" column="10" />
@@ -1784,10 +1784,11 @@
         <mark key="^" line="15" column="51" />
         <mark key="." line="15" column="51" />
       </file>
-      <file name="D:/code/web/voc-web/src/app/routes/base/factory/factory-form.component.ts" timestamp="1520051026344">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="D:/code/web/voc-web/src/app/routes/base/factory/factory-form.component.ts" timestamp="1520055562849">
+        <mark key="[" line="82" column="8" />
+        <mark key="]" line="82" column="10" />
+        <mark key="." line="82" column="10" />
+        <mark key="^" line="82" column="10" />
       </file>
       <file name="$USER_HOME$/sync/code/java/mdtools/src/main/main.java" timestamp="1481085419505">
         <mark key="[" line="2" column="13" />
@@ -1931,6 +1932,12 @@
         <mark key="]" line="46" column="88" />
         <mark key="^" line="46" column="88" />
         <mark key="." line="46" column="88" />
+      </file>
+      <file name="D:/code/web/voc-web/src/app/routes/base/factory/factory.component.ts" timestamp="1520056279202">
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="36" />
+        <mark key="." line="68" column="0" />
+        <mark key="^" line="62" column="35" />
       </file>
       <file name="$USER_HOME$/sync/code/go/src/mingerserver/robotserver/messages_test.go" timestamp="1489576860302">
         <mark key="[" line="0" column="13" />
@@ -2308,8 +2315,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLnNldE1vZGFsVmlzaWJsZShmYWxzZSk7Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2416,43 +2423,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>Footer</text>
       </register>
       <register name="/" type="4">
         <text>7</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPG56LWNhcmQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnNldE1vZGFsVmlzaWJsZShmYWxzZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpIGNsYXNzPSIgYW50aWNvbiBhbnRpY29uLWNsb3VkLWRvd25sb2FkIj48L2k+Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpIGNsYXNzPSJhbnRpY29uIGFudGljb24tcGx1cy1jaXJjbGUtbyI+PC9pPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwPrbUu7C/8rXExNrI3TwvcD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwPrbUu7C/8rXExNrI3TwvcD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwPrbUu7C/8rXExNrI3TwvcD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwPrbUu7C/8rXExNrI3TwvcD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwPrbUu7C/8rXExNrI3TwvcD4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpIGNsYXNzPSIgYW50aWNvbiAiPjwvaT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxidXR0b24gbnotYnV0dG9uIFtuelR5cGVdPSIncHJpbWFyeSciIFtuelNpemVdPSInbGFyZ2UnIiAoY2xpY2spPSJoYW5kbGVPaygkZXZlbnQpIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBbbnpMb2FkaW5nXT0iaXNDb25maXJtTG9hZGluZyI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgzOEgvbsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvYnV0dG9uPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBuei1yb3cgW256VHlwZV09IidmbGV4JyIgW256SnVzdGlmeV09IidlbmQnIiBjbGFzcz0ibWIwIj4KICAgICAgICAgICAgICAgIDxkaXYgbnotY29sIFtuelNwYW5dPSI2Ij4KICAgICAgICAgICAgICAgICAgICA8YnV0dG9uIG56LWJ1dHRvbiBbbnpUeXBlXT0iJ3ByaW1hcnknIiAoY2xpY2spPSJhZGRGYWN0b3J5KCkiPsztvNO5pLOnPC9idXR0b24+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDxkaXYgbnotY29sIFtuelNwYW5dPSI2IiBbbnpPZmZzZXRdPSIxIj4KICAgICAgICAgICAgICAgICAgICA8YnV0dG9uIG56LWJ1dHRvbiBbbnpUeXBlXT0iJ3ByaW1hcnknIiAoY2xpY2spPSJhZGRDaGlsZEZhY3RvcnkoKSI+zO2809fTuaSzpzwvYnV0dG9uPgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8bnotdHJlZSBbbnpOb2Rlc109ImZhY3RvcmllcyIKICAgICAgICAgICAgICAgICAgICAgW256Q2hlY2thYmxlXT0iZmFsc2UiCiAgICAgICAgICAgICAgICAgICAgIFtuek9wdGlvbnNdPSJvcHRpb25zIgogICAgICAgICAgICAgICAgICAgICAobnpJbml0aWFsaXplZCk9ImFjdGl2ZUZpcnN0Tm9kZSgkZXZlbnQpIgogICAgICAgICAgICAgICAgICAgICAobnpBY3RpdmF0ZSk9ImFjdGl2ZUZhY3RvcnkoJGV2ZW50KSIKICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgPG5nLXRlbXBsYXRlICNuelRpdGxlIGxldC1ub2RlPgogICAgICAgICAgICAgICAgICAgIDxpIFtuZ0NsYXNzXT0ibm9kZS5oYXNDaGlsZHJlbiA/ICdpY29uLW9yZ2FuaXphdGlvbic6ICdpY29uLWNoZW1pc3RyeSciPjwvaT4ge3tub2RlLmRpc3BsYXlGaWVsZH19CiAgICAgICAgICAgICAgICA8L25nLXRlbXBsYXRlPgogICAgICAgICAgICA8L256LXRyZWU+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC9idXR0b24+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPG5nLXRlbXBsYXRlICNib2R5PgogICAgICAgIDxwPkNhcmQgY29udGVudDwvcD4KICAgICAgICA8cD5DYXJkIGNvbnRlbnQ8L3A+CiAgICAgICAgPHA+Q2FyZCBjb250ZW50PC9wPgogICAgICA8L25nLXRlbXBsYXRlPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpIGNsYXNzPSJhbnRpY29uIGFudGljb24tbWludXMtc3F1YXJlLW8iPjwvaT4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vINC5wqmx6te8Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGJ1dHRvbiBuei1idXR0b24+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC9idXR0b24+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICB0aGlzLmh0dHBDbGllbnQucG9zdCgnL2FwaS9mYWN0b3J5Jywge2ZhY3Rvcnk6IHRoaXMuc2F2ZWRGYWN0b3J5LCBsZGFyU2V0dGluZzogdGhpcy5zYXZlZExkYXJTZXR0aW5nfSkuc3Vic2NyaWJlKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpIGNsYXNzPSJhbnRpY29uIGFudGljb24tcGx1cy1zcXVhcmUtbyI+PC9pPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodGhpcy5mYWN0b3J5SWQgPT0gbnVsbCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGJ1dHRvbiBuei1idXR0b24+Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text>action PreviousTab</text>
       </register>
     </registers>
     <search>
@@ -2503,11 +2510,11 @@
         <entry>vsplit</entry>
         <entry encoding="base64">JzwsJz5J</entry>
         <entry>q</entry>
-        <entry>action PreviousTab</entry>
-        <entry>action NextTab</entry>
         <entry>%s/17/10/gc</entry>
         <entry>%s/7/8/gc</entry>
         <entry>action ReformatCode</entry>
+        <entry>action NextTab</entry>
+        <entry>action PreviousTab</entry>
       </history-cmd>
       <history-expr />
       <history-input />
