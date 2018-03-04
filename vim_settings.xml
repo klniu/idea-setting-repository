@@ -166,12 +166,12 @@
         <mark key="." line="12" column="43" />
         <mark key="^" line="12" column="42" />
       </file>
-      <file name="D:/code/web/voc-web/src/app/routes/ldar/standard/rule-form.component.ts" timestamp="1520148006260">
-        <mark key="'" line="141" column="71" />
-        <mark key="[" line="116" column="8" />
-        <mark key="]" line="116" column="8" />
-        <mark key="^" line="116" column="8" />
-        <mark key="." line="116" column="8" />
+      <file name="D:/code/web/voc-web/src/app/routes/ldar/standard/rule-form.component.ts" timestamp="1520157990659">
+        <mark key="'" line="138" column="71" />
+        <mark key="[" line="110" column="0" />
+        <mark key="]" line="110" column="1" />
+        <mark key="^" line="110" column="1" />
+        <mark key="." line="110" column="1" />
       </file>
       <file name="D:/code/java/cnooc/src/main/resources/application.yaml" timestamp="1514450710877">
         <mark key="[" line="20" column="46" />
@@ -445,6 +445,12 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
         <mark key="^" line="90" column="35" />
+      </file>
+      <file name="D:/code/web/voc-web/src/app/routes/ldar/standard/rule-form.component.html" timestamp="1520158019400">
+        <mark key="[" line="3" column="33" />
+        <mark key="]" line="3" column="33" />
+        <mark key="^" line="2" column="24" />
+        <mark key="." line="3" column="33" />
       </file>
       <file name="$USER_HOME$/workdir/react-components/tsconfig.json" timestamp="1491707732675">
         <mark key="[" line="14" column="24" />
@@ -1907,11 +1913,11 @@
         <mark key="." line="18" column="14" />
         <mark key="^" line="18" column="14" />
       </file>
-      <file name="D:/code/web/voc-web/src/app/routes/common/api.service.ts" timestamp="1520156475361">
-        <mark key="[" line="44" column="56" />
-        <mark key="]" line="44" column="56" />
-        <mark key="." line="44" column="56" />
-        <mark key="^" line="44" column="56" />
+      <file name="D:/code/web/voc-web/src/app/routes/common/api.service.ts" timestamp="1520157525443">
+        <mark key="[" line="45" column="59" />
+        <mark key="]" line="45" column="59" />
+        <mark key="." line="45" column="59" />
+        <mark key="^" line="45" column="53" />
       </file>
       <file name="D:/code/web/voc-web/src/app/routes/base/setting/step1.component.html" timestamp="1520046652925">
         <mark key="'" line="0" column="0" />
@@ -2492,7 +2498,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>this.cacheService.get(url)</text>
+        <text>[model]=&quot;model&quot;</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2599,7 +2605,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, {mode: 'none'}</text>
+        <text>[model]=&quot;model&quot;</text>
       </register>
       <register name="/" type="4">
         <text>ref</text>
@@ -2608,31 +2614,31 @@
         <text>this.cacheService.get(url)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3NlYWxUeXBlJzogewogICAgICAgICAgICAgICAgJ3R5cGUnOiAnc3RyaW5nJywKICAgICAgICAgICAgICAgICd0aXRsZSc6ICfD3LfitePA4NDNJywKICAgICAgICAgICAgICAgICd3aWRnZXQnOiB7CiAgICAgICAgICAgICAgICAgICAgJ2lkJzogJ3NlbGVjdCcsCiAgICAgICAgICAgICAgICAgICAgJ2RhdGEnOiBbXQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9LAogICAgICAgICAgICAnc2VydmljZSc6IHsKICAgICAgICAgICAgICAgICd0eXBlJzogJ3N0cmluZycsCiAgICAgICAgICAgICAgICAndGl0bGUnOiAnvenWysDg0M0nLAogICAgICAgICAgICAgICAgJ3dpZGdldCc6IHsKICAgICAgICAgICAgICAgICAgICAnaWQnOiAnc2VsZWN0JywKICAgICAgICAgICAgICAgICAgICAnZGF0YSc6IFtdCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0sCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpcy5jYWNoZVNlcnZpY2UuZ2V0KHVybCwge21vZGU6ICdub25lJ30pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2xkYXJzZXR0aW5nJywgcmVzLmRhdGEpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgKQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLmFwaS5nZXRTZXJ2ZXJMZGFyU2V0dGluZygpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLmFwaS5nZXRUb3BGYWN0b3J5KCkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRoaXMuY2FjaGUuZ2V0KCdodHRwczovL3JhbmRvbXVzZXIubWUvYXBpLz9yZXN1bHRzPTMnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHtEZWxvbkNhY2hlTW9kdWxlfSBmcm9tICdAZGVsb24vY2FjaGUnOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB1cmwgPSAnL2FwaS9sZGFyL3NldHRpbmcvZmFjdG9yeS8nICsgdGhpcy5mYWN0b3J5Owo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpcy5jYWNoZVNlcnZpY2UuZ2V0KHVybCwge21vZGU6ICdub25lJ30pOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLmNhY2hlU2VydmljZS5nZXQodXJsKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHtTZXR0aW5nU2VydmljZX0gZnJvbSAnLi9sZGFyc2V0dGluZy9zZXR0aW5nLnNlcnZpY2UnOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
