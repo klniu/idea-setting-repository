@@ -166,12 +166,12 @@
         <mark key="." line="12" column="43" />
         <mark key="^" line="12" column="42" />
       </file>
-      <file name="D:/code/web/voc-web/src/app/routes/ldar/standard/rule-form.component.ts" timestamp="1520157990659">
-        <mark key="'" line="138" column="71" />
-        <mark key="[" line="110" column="0" />
-        <mark key="]" line="110" column="1" />
-        <mark key="^" line="110" column="1" />
-        <mark key="." line="110" column="1" />
+      <file name="D:/code/web/voc-web/src/app/routes/ldar/standard/rule-form.component.ts" timestamp="1520160763703">
+        <mark key="'" line="114" column="29" />
+        <mark key="[" line="68" column="72" />
+        <mark key="]" line="68" column="72" />
+        <mark key="." line="68" column="72" />
+        <mark key="^" line="68" column="81" />
       </file>
       <file name="D:/code/java/cnooc/src/main/resources/application.yaml" timestamp="1514450710877">
         <mark key="[" line="20" column="46" />
@@ -446,11 +446,10 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="90" column="35" />
       </file>
-      <file name="D:/code/web/voc-web/src/app/routes/ldar/standard/rule-form.component.html" timestamp="1520158019400">
-        <mark key="[" line="3" column="33" />
-        <mark key="]" line="3" column="33" />
-        <mark key="^" line="2" column="24" />
-        <mark key="." line="3" column="33" />
+      <file name="D:/code/web/voc-web/src/app/routes/ldar/standard/rule-form.component.html" timestamp="1520159092702">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/workdir/react-components/tsconfig.json" timestamp="1491707732675">
         <mark key="[" line="14" column="24" />
@@ -2375,9 +2374,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="268" column="4" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/entity/LdarStateSetting.java" />
-      <jump line="0" column="0" filename="D:/code/web/voc-web/src/app/routes/forms/standard/standard.component.html" />
-      <jump line="26" column="42" filename="D:/code/web/voc-web/src/app/routes/base/setting/step6.component.ts" />
       <jump line="23" column="67" filename="D:/code/web/voc-web/src/app/routes/base/setting/step6.component.html" />
       <jump line="9" column="29" filename="D:/code/web/voc-web/src/app/routes/base/setting/step6.component.html" />
       <jump line="110" column="84" filename="D:/code/web/voc-web/src/app/routes/base/setting/step6.component.ts" />
@@ -2475,6 +2471,9 @@
       <jump line="156" column="40" filename="D:/code/web/voc-web/node_modules/@delon/cache/src/cache.service.js" />
       <jump line="165" column="84" filename="D:/code/web/voc-web/node_modules/@delon/cache/src/cache.service.js" />
       <jump line="85" column="41" filename="D:/code/web/voc-web/node_modules/@delon/cache/src/cache.service.js" />
+      <jump line="33" column="16" filename="D:/code/web/voc-web/src/app/routes/ldar/standard/rule-form.component.ts" />
+      <jump line="111" column="29" filename="D:/code/web/voc-web/src/app/routes/ldar/standard/rule-form.component.ts" />
+      <jump line="123" column="29" filename="D:/code/web/voc-web/src/app/routes/ldar/standard/rule-form.component.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2498,7 +2497,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>[model]=&quot;model&quot;</text>
+        <text>, 'ogiFreq'</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2605,40 +2604,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>[model]=&quot;model&quot;</text>
+        <text>, 'ogiFreq'</text>
       </register>
       <register name="/" type="4">
         <text>ref</text>
       </register>
-      <register name="0" type="4">
-        <text>this.cacheService.get(url)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcXVhbnRGcmVxOiB7CiAgICAgICAgICAgICAgICAndHlwZSc6ICdudW1iZXInLAogICAgICAgICAgICAgICAgJ3RpdGxlJzogJ7aowb+87LLixrXCyqOozOyjqScsCiAgICAgICAgICAgICAgICB3aWRnZXQ6IHsKICAgICAgICAgICAgICAgICAgICBpZDogJ251bWJlcicsCiAgICAgICAgICAgICAgICAgICAgbWluOiAxLAogICAgICAgICAgICAgICAgICAgIG1heDogMTAwMAogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3NlYWxUeXBlJzogewogICAgICAgICAgICAgICAgJ3R5cGUnOiAnc3RyaW5nJywKICAgICAgICAgICAgICAgICd0aXRsZSc6ICfD3LfitePA4NDNJywKICAgICAgICAgICAgICAgICd3aWRnZXQnOiB7CiAgICAgICAgICAgICAgICAgICAgJ2lkJzogJ3NlbGVjdCcsCiAgICAgICAgICAgICAgICAgICAgJ2RhdGEnOiBbXQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9LAogICAgICAgICAgICAnc2VydmljZSc6IHsKICAgICAgICAgICAgICAgICd0eXBlJzogJ3N0cmluZycsCiAgICAgICAgICAgICAgICAndGl0bGUnOiAnvenWysDg0M0nLAogICAgICAgICAgICAgICAgJ3dpZGdldCc6IHsKICAgICAgICAgICAgICAgICAgICAnaWQnOiAnc2VsZWN0JywKICAgICAgICAgICAgICAgICAgICAnZGF0YSc6IFtdCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2VtYWlsJzogewogICAgICAgICAgICAgICAgJ3R5cGUnOiAnc3RyaW5nJywKICAgICAgICAgICAgICAgICd0aXRsZSc6ICfTys/kJywKICAgICAgICAgICAgICAgICdmb3JtYXQnOiAnZW1haWwnLAogICAgICAgICAgICAgICAgJ3BsYWNlaG9sZGVyJzogJ8fryuTI69PKz+SjrNfutuAyMLj219a3+ycsCiAgICAgICAgICAgICAgICAnbWF4TGVuZ3RoJzogMjAsCiAgICAgICAgICAgICAgICAnZGVidWcnOiB0cnVlCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgICduYW1lJzogewogICAgICAgICAgICAgICAgJ3R5cGUnOiAnc3RyaW5nJywKICAgICAgICAgICAgICAgICd0aXRsZSc6ICfQ1cP7JywKICAgICAgICAgICAgICAgICdwbGFjZWhvbGRlcic6ICfH68rkyOvQ1cP7JywKICAgICAgICAgICAgICAgICdkZXNjcmlwdGlvbic6ICex2NDrtPPQtL+qzbfH0jO49tfW0tTJzycsCiAgICAgICAgICAgICAgICAnbWluTGVuZ3RoJzogMywKICAgICAgICAgICAgICAgICdkZWJ1Zyc6IHRydWUKICAgICAgICAgICAgfSwKICAgICAgICAgICAgJ3JlbWFyayc6IHsKICAgICAgICAgICAgICAgICd0eXBlJzogJ3N0cmluZycsCiAgICAgICAgICAgICAgICAndGl0bGUnOiAnw+jK9icKICAgICAgICAgICAgfSwKICAgICAgICAgICAgJ3Byb2R1Y3RzJzogewogICAgICAgICAgICAgICAgJ3R5cGUnOiAnYXJyYXknLAogICAgICAgICAgICAgICAgJ3RpdGxlJzogJ7L6xrfH5bWlJywKICAgICAgICAgICAgICAgICdtYXhJdGVtcyc6IDIsCiAgICAgICAgICAgICAgICAnaXRlbXMnOiB7CiAgICAgICAgICAgICAgICAgICAgJ3R5cGUnOiAnb2JqZWN0JywKICAgICAgICAgICAgICAgICAgICAncHJvcGVydGllcyc6IHsKICAgICAgICAgICAgICAgICAgICAgICAgJ3BuJzogewogICAgICAgICAgICAgICAgICAgICAgICAgICAgJ3RpdGxlJzogJ7L6xrfD+7PGJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICd0eXBlJzogJ3N0cmluZycKICAgICAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICAgICAgJ251bSc6IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICd0aXRsZSc6ICe8/sr9JywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICd0eXBlJzogJ251bWJlcicsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAnbWluaW11bSc6IDEsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAnbWF4aW11bSc6IDEwMDAKICAgICAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICAgICAgJ3ByaWNlJzogewogICAgICAgICAgICAgICAgICAgICAgICAgICAgJ3RpdGxlJzogJ73wtu4nLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgJ3R5cGUnOiAnbnVtYmVyJwogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICAncmVxdWlyZWQnOiBbJ3BuJywgJ251bScsICdwcmljZSddCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2xkYXJzZXR0aW5nJywgcmVzLmRhdGEpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHdpZGdldDogewogICAgICAgICAgICAgICAgICAgIGlkOiAnbnVtYmVyJywKICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLmFwaS5nZXRTZXJ2ZXJMZGFyU2V0dGluZygpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1heAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLmFwaS5nZXRUb3BGYWN0b3J5KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtaW46IDEsCiAgICAgICAgICAgICAgICAgICAgbWF4OiAxMDAwMDAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2FnZSc6IHsKICAgICAgICAgICAgICAgICd0eXBlJzogJ251bWJlcicsCiAgICAgICAgICAgICAgICAndGl0bGUnOiAnxOrB5CcKICAgICAgICAgICAgfSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc2VydmljZXMgPSBbXTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpcy5jYWNoZVNlcnZpY2UuZ2V0KHVybCwge21vZGU6ICdub25lJ30pOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc2VhbFR5cGVzID0gW107Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgKQo=</text>
+        <text encoding="base64">ICAgIHNjaGVtYSA9IHt9Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgeyd2YWx1ZSc6ICdqYWNrJywgJ2xhYmVsJzogJ0phY2snfSwKICAgICAgICAgICAgICAgICAgICAgICAgeyd2YWx1ZSc6ICdsdWN5JywgJ2xhYmVsJzogJ0x1Y3knfSwKICAgICAgICAgICAgICAgICAgICAgICAgeyd2YWx1ZSc6ICd0b20nLCAnbGFiZWwnOiAnVG9tJywgJ2Rpc2FibGVkJzogdHJ1ZX0KICAgICAgICAgICAgICAgICAgICBdCg==</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
