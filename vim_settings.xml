@@ -1907,12 +1907,11 @@
         <mark key="." line="18" column="14" />
         <mark key="^" line="18" column="14" />
       </file>
-      <file name="D:/code/web/voc-web/src/app/routes/common/api.service.ts" timestamp="1520148729969">
-        <mark key="'" line="39" column="34" />
-        <mark key="[" line="39" column="90" />
-        <mark key="]" line="39" column="93" />
-        <mark key="." line="39" column="93" />
-        <mark key="^" line="39" column="93" />
+      <file name="D:/code/web/voc-web/src/app/routes/common/api.service.ts" timestamp="1520156475361">
+        <mark key="[" line="44" column="56" />
+        <mark key="]" line="44" column="56" />
+        <mark key="." line="44" column="56" />
+        <mark key="^" line="44" column="56" />
       </file>
       <file name="D:/code/web/voc-web/src/app/routes/base/setting/step1.component.html" timestamp="1520046652925">
         <mark key="'" line="0" column="0" />
@@ -2492,8 +2491,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zdHJ1Y3Rvcihwcml2YXRlIGNhY2hlOiBDYWNoZVNlcnZpY2UpIHsKICB9CgogIG5nT25Jbml0KCkgewogICAgY29uc29sZS5sb2codGhpcy5jYWNoZS5nZXQodGhpcy51cmwpKTsKICAgIHRoaXMuY2FjaGUuZ2V0KHRoaXMudXJsKS5zdWJzY3JpYmUoZGF0YSA9PiB7CiAgICAgIGNvbnNvbGUubG9nKGRhdGEpOwogICAgfSk7CiAgICBjb25zb2xlLmxvZyh0aGlzLmNhY2hlLmdldCh0aGlzLnVybCkpOwogIH0K</text>
+      <register name="&quot;" type="4">
+        <text>this.cacheService.get(url)</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2600,40 +2599,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>, {mode: 'none'}</text>
       </register>
       <register name="/" type="4">
         <text>ref</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBjb25zdHJ1Y3Rvcihwcml2YXRlIGNhY2hlOiBDYWNoZVNlcnZpY2UpIHsKICB9CgogIG5nT25Jbml0KCkgewogICAgY29uc29sZS5sb2codGhpcy5jYWNoZS5nZXQodGhpcy51cmwpKTsKICAgIHRoaXMuY2FjaGUuZ2V0KHRoaXMudXJsKS5zdWJzY3JpYmUoZGF0YSA9PiB7CiAgICAgIGNvbnNvbGUubG9nKGRhdGEpOwogICAgfSk7CiAgICBjb25zb2xlLmxvZyh0aGlzLmNhY2hlLmdldCh0aGlzLnVybCkpOwogIH0K</text>
+      <register name="0" type="4">
+        <text>this.cacheService.get(url)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpcy5jYWNoZVNlcnZpY2UuZ2V0KHVybCwge21vZGU6ICdub25lJ30pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXMuY2FjaGUuZ2V0KCdodHRwczovL3JhbmRvbXVzZXIubWUvYXBpLz9yZXN1bHRzPTMnKTsK</text>
+        <text encoding="base64">ICAgICAgKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHtEZWxvbkNhY2hlTW9kdWxlfSBmcm9tICdAZGVsb24vY2FjaGUnOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB1cmwgPSAnL2FwaS9sZGFyL3NldHRpbmcvZmFjdG9yeS8nICsgdGhpcy5mYWN0b3J5Owo=</text>
+        <text encoding="base64">ICAgIHRoaXMuY2FjaGUuZ2V0KCdodHRwczovL3JhbmRvbXVzZXIubWUvYXBpLz9yZXN1bHRzPTMnKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLmNhY2hlU2VydmljZS5nZXQodXJsKSk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHtEZWxvbkNhY2hlTW9kdWxlfSBmcm9tICdAZGVsb24vY2FjaGUnOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHtTZXR0aW5nU2VydmljZX0gZnJvbSAnLi9sZGFyc2V0dGluZy9zZXR0aW5nLnNlcnZpY2UnOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCB1cmwgPSAnL2FwaS9sZGFyL3NldHRpbmcvZmFjdG9yeS8nICsgdGhpcy5mYWN0b3J5Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHtGYWN0b3J5U2VydmljZX0gZnJvbSAnLi9mYWN0b3J5L2ZhY3Rvcnkuc2VydmljZSc7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLmNhY2hlU2VydmljZS5nZXQodXJsKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByb3ZpZGVyczogW0ZhY3RvcnlTZXJ2aWNlXQo=</text>
+        <text encoding="base64">aW1wb3J0IHtTZXR0aW5nU2VydmljZX0gZnJvbSAnLi9sZGFyc2V0dGluZy9zZXR0aW5nLnNlcnZpY2UnOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
