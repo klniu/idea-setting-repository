@@ -2362,12 +2362,12 @@
       <file name="D:/code/web/voc-web/node_modules/@delon/cache/src/cache.service.d.ts" timestamp="1520147272697">
         <mark key="'" line="5" column="28" />
       </file>
-      <file name="D:/code/python/utils/office/exportpdf.py" timestamp="1520323404343">
-        <mark key="'" line="13" column="21" />
-        <mark key="[" line="91" column="84" />
-        <mark key="]" line="91" column="85" />
-        <mark key="." line="91" column="85" />
-        <mark key="^" line="91" column="85" />
+      <file name="D:/code/python/utils/office/exportpdf.py" timestamp="1520327388864">
+        <mark key="'" line="108" column="56" />
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="." line="84" column="0" />
+        <mark key="^" line="84" column="7" />
       </file>
       <file name="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/service/IPermissionService.java" timestamp="1510207881557">
         <mark key="[" line="16" column="35" />
@@ -2383,8 +2383,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="117" column="43" filename="D:/code/web/voc-web/src/app/routes/base/setting/step6.component.ts" />
-      <jump line="134" column="0" filename="D:/code/web/voc-web/src/app/routes/base/setting/step6.component.ts" />
       <jump line="42" column="15" filename="D:/code/python/utils/office/exportpdf.py" />
       <jump line="41" column="4" filename="D:/code/python/utils/office/exportpdf.py" />
       <jump line="29" column="4" filename="D:/code/python/utils/office/exportpdf.py" />
@@ -2483,6 +2481,8 @@
       <jump line="35" column="15" filename="D:/code/web/nz-schema-form/package.json" />
       <jump line="56" column="7" filename="D:/code/web/nz-schema-form/package.json" />
       <jump line="66" column="14" filename="D:/code/web/nz-schema-form/package.json" />
+      <jump line="96" column="34" filename="D:/code/python/utils/office/exportpdf.py" />
+      <jump line="109" column="56" filename="D:/code/python/utils/office/exportpdf.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2505,8 +2505,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>pdf</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2613,40 +2613,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>pdf</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
         <text>schema</text>
       </register>
-      <register name="0" type="4">
-        <text>ActivePrinter='Adobe PDF'</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYXZkb2MgPSB3aW4zMmNvbS5jbGllbnQuZHluYW1pYy5EaXNwYXRjaCgiQWNyb0V4Y2guQVZEb2MiKQogICAgICAgICAgICBpZiBub3QgYXZkb2MuT3BlbihmaWxlX3BhdGgsICJkb2MycGRmIik6CiAgICAgICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCJ1bmFibGUgdG8gb3BlbiAlcyIgJSBmaWxlX3BhdGgpCiAgICAgICAgICAgIHBkZG9jID0gYXZkb2MuR2V0UEREb2MoKQogICAgICAgICAgICBpZiBub3QgcGRkb2MuU2F2ZSgxLCBkZXNfcGF0aCk6CiAgICAgICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCJ1bmFibGUgdG8gc2F2ZSAlcyIgJSBkZXNfcGF0aCkKCiAgICAgICAgICAgIGlmIG5vdCBwZGRvYy5DbG9zZSgpOgogICAgICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcigidW5hYmxlIHRvIGNsb3NlICVzIiAlIGRlc19wYXRoKQoKICAgICAgICAgICAgZGVsIHBkZG9jCgogICAgICAgICAgICBpZiBub3QgYXZkb2MuQ2xvc2UoVHJ1ZSk6CiAgICAgICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCJ1bmFibGUgdG8gY2xvc2UgJXMiICUgZGVzX3BhdGgpCiAgICAgICAgICAgIGRlbCBhdmRvYwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBuZXdfZmlsZW5hbWUgPSBvcy5wYXRoLnNwbGl0ZXh0KGRlc19wYXRoKVswXQo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="8">
-        <text>'</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGRlZiAK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB3YiA9IHNlbGYueGwuV29ya2Jvb2tzLk9wZW4oZmlsZV9wYXRoKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBkb2MuQ2xvc2UoRmFsc2UpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2VtYWlsJzogewogICAgICAgICAgICAgICAgJ3R5cGUnOiAnc3RyaW5nJywKICAgICAgICAgICAgICAgICd0aXRsZSc6ICfTys/kJywKICAgICAgICAgICAgICAgICdmb3JtYXQnOiAnZW1haWwnLAogICAgICAgICAgICAgICAgJ3BsYWNlaG9sZGVyJzogJ8fryuTI69PKz+SjrNfutuAyMLj219a3+ycsCiAgICAgICAgICAgICAgICAnbWF4TGVuZ3RoJzogMjAsCiAgICAgICAgICAgICAgICAnZGVidWcnOiB0cnVlCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgICduYW1lJzogewogICAgICAgICAgICAgICAgJ3R5cGUnOiAnc3RyaW5nJywKICAgICAgICAgICAgICAgICd0aXRsZSc6ICfQ1cP7JywKICAgICAgICAgICAgICAgICdwbGFjZWhvbGRlcic6ICfH68rkyOvQ1cP7JywKICAgICAgICAgICAgICAgICdkZXNjcmlwdGlvbic6ICex2NDrtPPQtL+qzbfH0jO49tfW0tTJzycsCiAgICAgICAgICAgICAgICAnbWluTGVuZ3RoJzogMywKICAgICAgICAgICAgICAgICdkZWJ1Zyc6IHRydWUKICAgICAgICAgICAgfSwKICAgICAgICAgICAgJ3JlbWFyayc6IHsKICAgICAgICAgICAgICAgICd0eXBlJzogJ3N0cmluZycsCiAgICAgICAgICAgICAgICAndGl0bGUnOiAnw+jK9icKICAgICAgICAgICAgfSwKICAgICAgICAgICAgJ3Byb2R1Y3RzJzogewogICAgICAgICAgICAgICAgJ3R5cGUnOiAnYXJyYXknLAogICAgICAgICAgICAgICAgJ3RpdGxlJzogJ7L6xrfH5bWlJywKICAgICAgICAgICAgICAgICdtYXhJdGVtcyc6IDIsCiAgICAgICAgICAgICAgICAnaXRlbXMnOiB7CiAgICAgICAgICAgICAgICAgICAgJ3R5cGUnOiAnb2JqZWN0JywKICAgICAgICAgICAgICAgICAgICAncHJvcGVydGllcyc6IHsKICAgICAgICAgICAgICAgICAgICAgICAgJ3BuJzogewogICAgICAgICAgICAgICAgICAgICAgICAgICAgJ3RpdGxlJzogJ7L6xrfD+7PGJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICd0eXBlJzogJ3N0cmluZycKICAgICAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICAgICAgJ251bSc6IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICd0aXRsZSc6ICe8/sr9JywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICd0eXBlJzogJ251bWJlcicsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAnbWluaW11bSc6IDEsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAnbWF4aW11bSc6IDEwMDAKICAgICAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICAgICAgJ3ByaWNlJzogewogICAgICAgICAgICAgICAgICAgICAgICAgICAgJ3RpdGxlJzogJ73wtu4nLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgJ3R5cGUnOiAnbnVtYmVyJwogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICAncmVxdWlyZWQnOiBbJ3BuJywgJ251bScsICdwcmljZSddCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAjIGRvYyA9IHNlbGYuZG9jLkRvY3VtZW50cy5PcGVuKGZpbGVfcGF0aCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdpZGdldDogewogICAgICAgICAgICAgICAgICAgIGlkOiAnbnVtYmVyJywKICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBwcmludChkaXN0KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1heAo=</text>
+        <text encoding="base64">ICAgICAgICBkaXN0ID0gd2luMzJjb20uY2xpZW50LkRpc3BhdGNoKCdQZGZEaXN0aWxsZXIuUGRmRGlzdGlsbGVyJykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtaW46IDEsCiAgICAgICAgICAgICAgICAgICAgbWF4OiAxMDAwMDAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2FnZSc6IHsKICAgICAgICAgICAgICAgICd0eXBlJzogJ251bWJlcicsCiAgICAgICAgICAgICAgICAndGl0bGUnOiAnxOrB5CcKICAgICAgICAgICAgfSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
