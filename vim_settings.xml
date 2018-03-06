@@ -322,6 +322,7 @@
         <mark key="." line="23" column="32" />
         <mark key="^" line="23" column="32" />
       </file>
+      <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/model_test.go" timestamp="1520297367954" />
       <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/entity/enums/SealType.java" timestamp="1518409372772">
         <mark key="[" line="11" column="15" />
         <mark key="]" line="11" column="14" />
@@ -480,6 +481,9 @@
         <mark key="]" line="3" column="0" />
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="D:/code/web/nz-schema-form/package.json" timestamp="1520297858607">
+        <mark key="'" line="66" column="14" />
       </file>
       <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/exception/UnknownAccountException.java" timestamp="1516865504388">
         <mark key="[" line="7" column="11" />
@@ -2374,9 +2378,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="67" filename="D:/code/web/voc-web/src/app/routes/base/setting/step6.component.html" />
-      <jump line="9" column="29" filename="D:/code/web/voc-web/src/app/routes/base/setting/step6.component.html" />
-      <jump line="110" column="84" filename="D:/code/web/voc-web/src/app/routes/base/setting/step6.component.ts" />
       <jump line="117" column="43" filename="D:/code/web/voc-web/src/app/routes/base/setting/step6.component.ts" />
       <jump line="134" column="0" filename="D:/code/web/voc-web/src/app/routes/base/setting/step6.component.ts" />
       <jump line="42" column="15" filename="D:/code/python/utils/office/exportpdf.py" />
@@ -2474,6 +2475,9 @@
       <jump line="33" column="16" filename="D:/code/web/voc-web/src/app/routes/ldar/standard/rule-form.component.ts" />
       <jump line="111" column="29" filename="D:/code/web/voc-web/src/app/routes/ldar/standard/rule-form.component.ts" />
       <jump line="123" column="29" filename="D:/code/web/voc-web/src/app/routes/ldar/standard/rule-form.component.ts" />
+      <jump line="35" column="15" filename="D:/code/web/nz-schema-form/package.json" />
+      <jump line="56" column="7" filename="D:/code/web/nz-schema-form/package.json" />
+      <jump line="66" column="14" filename="D:/code/web/nz-schema-form/package.json" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2607,7 +2611,7 @@
         <text>, 'ogiFreq'</text>
       </register>
       <register name="/" type="4">
-        <text>ref</text>
+        <text>schema</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcXVhbnRGcmVxOiB7CiAgICAgICAgICAgICAgICAndHlwZSc6ICdudW1iZXInLAogICAgICAgICAgICAgICAgJ3RpdGxlJzogJ7aowb+87LLixrXCyqOozOyjqScsCiAgICAgICAgICAgICAgICB3aWRnZXQ6IHsKICAgICAgICAgICAgICAgICAgICBpZDogJ251bWJlcicsCiAgICAgICAgICAgICAgICAgICAgbWluOiAxLAogICAgICAgICAgICAgICAgICAgIG1heDogMTAwMAogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9LAo=</text>
@@ -2644,9 +2648,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ref</last-search>
+      <last-search>schema</last-search>
       <last-offset />
-      <last-pattern>ref</last-pattern>
+      <last-pattern>schema</last-pattern>
       <last-replace>8</last-replace>
       <last-substitute>7</last-substitute>
       <last-dir>1</last-dir>
@@ -2654,7 +2658,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Plain Text</entry>
         <entry encoding="base64">XDxleHRzXD4=</entry>
         <entry encoding="base64">XDxzdGF0ZVR5cGVcPg==</entry>
         <entry>beijin</entry>
@@ -2674,6 +2677,7 @@
         <entry>reset</entry>
         <entry encoding="base64">XDxvcHRpb25zXD4=</entry>
         <entry>ref</entry>
+        <entry>schema</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyQvXFxuIg==</entry>
