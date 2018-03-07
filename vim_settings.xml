@@ -455,6 +455,10 @@
         <mark key="^" line="7" column="33" />
         <mark key="." line="7" column="33" />
       </file>
+      <file name="D:/code/web/voc-ui/src/app/routes/tables/full/full.component.ts" timestamp="1520400274079">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="20" />
+      </file>
       <file name="D:/code/java/voc/src/main/kotlin/com/cnvoc/voc/entity/Component.kt" timestamp="1514698813045">
         <mark key="[" line="31" column="8" />
         <mark key="]" line="31" column="8" />
@@ -754,8 +758,12 @@
         <mark key="^" line="8" column="23" />
         <mark key="." line="8" column="23" />
       </file>
-      <file name="D:/code/web/voc-ui/src/app/routes/ldar/component/component.component.html" timestamp="1520389572277">
-        <mark key="'" line="105" column="0" />
+      <file name="D:/code/web/voc-ui/src/app/routes/ldar/component/component.component.html" timestamp="1520400397932">
+        <mark key="'" line="108" column="0" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="20" column="11" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/code/java/vocs/src/main/java/com/klniu/voc/web/LdarSettingController.java" timestamp="1508653638324">
         <mark key="[" line="16" column="11" />
@@ -1503,8 +1511,12 @@
         <mark key="." line="9" column="7" />
         <mark key="^" line="9" column="7" />
       </file>
-      <file name="D:/code/web/voc-ui/src/app/routes/ldar/component/component.component.ts" timestamp="1520389699714">
-        <mark key="'" line="40" column="8" />
+      <file name="D:/code/web/voc-ui/src/app/routes/ldar/component/component.component.ts" timestamp="1520400278009">
+        <mark key="'" line="45" column="8" />
+        <mark key="[" line="12" column="30" />
+        <mark key="]" line="13" column="3" />
+        <mark key="." line="13" column="3" />
+        <mark key="^" line="13" column="3" />
       </file>
       <file name="D:/code/web/voc-ui/src/app/routes/ldar/component/seal-form.component.ts" timestamp="1520389543235">
         <mark key="'" line="0" column="0" />
@@ -1805,6 +1817,10 @@
         <mark key="]" line="19" column="22" />
         <mark key="." line="19" column="22" />
         <mark key="^" line="17" column="14" />
+      </file>
+      <file name="D:/code/web/voc-ui/src/app/routes/tables/full/full.component.html" timestamp="1520400329855">
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="100" column="43" />
       </file>
       <file name="D:/code/python/autostock/test_autostock.py" timestamp="1515044848040">
         <mark key="[" line="81" column="66" />
@@ -2533,9 +2549,9 @@
       <jump line="119" column="8" filename="D:/code/web/voc-ui/src/app/routes/ldar/component/component.service.ts" />
       <jump line="62" column="8" filename="D:/code/web/voc-ui/src/app/routes/ldar/component/component.service.ts" />
       <jump line="65" column="4" filename="D:/code/web/voc-ui/src/app/routes/ldar/component/component-form.component.ts" />
-      <jump line="40" column="8" filename="D:/code/web/voc-ui/src/app/routes/ldar/component/component.component.ts" />
       <jump line="36" column="15" filename="D:/code/web/voc-ui/src/app/routes/ldar/component/component.service.ts" />
       <jump line="30" column="66" filename="D:/code/web/voc-ui/src/app/routes/ldar/component/component.service.ts" />
+      <jump line="40" column="8" filename="D:/code/web/voc-ui/src/app/routes/ldar/component/component.component.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2558,8 +2574,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>All</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIFtuelRvdGFsXT0ic2VydmljZS5jb21wb25lbnRMaXN0Lmxlbmd0aCIK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2672,37 +2688,37 @@
         <text>unit</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBjb21wb25lbnQgPSB0aGlzLmNvbXBvbmVudExpc3QuZmluZChzID0+IHMuaWQgPT09IHVuaXRJZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFtuelNob3dTaXplQ2hhbmdlcl09InRydWUiCiAgICAgICAgICAgICAgICBbbnpMb2FkaW5nXT0ibG9hZGluZyIKICAgICAgICAgICAgICAgIFtuelRvdGFsXT0idG90YWwiCiAgICAgICAgICAgICAgICBbKG56UGFnZUluZGV4KV09InBpIgogICAgICAgICAgICAgICAgKG56UGFnZUluZGV4Q2hhbmdlKT0ibG9hZCgpIgogICAgICAgICAgICAgICAgWyhuelBhZ2VTaXplKV09InBzIgogICAgICAgICAgICAgICAgKG56UGFnZVNpemVDaGFuZ2UpPSJsb2FkKCkiPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIFtuelRvdGFsXT0ic2VydmljZS5jb21wb25lbnRMaXN0Lmxlbmd0aCIK</text>
       </register>
-      <register name="2" type="8">
-        <text encoding="base64">e3ZhbHVlOiAKe3ZhbHVlOiAKe3ZhbHVlOiAKe3ZhbHVlOiA=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gT2JzZXJ2YWJsZS5vZih0aGlzLmNhY2hlU2VydmljZS5nZXROb25lKHVybCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIChuelBhZ2VJbmRleENoYW5nZSk9ImxvYWQoKSIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIFtuekxvYWRpbmddPSJsb2FkaW5nIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodGhpcy5jYWNoZVNlcnZpY2UuZ2V0KHVybCkgaW5zdGFuY2VvZiBPYnNlcnZhYmxlKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIFtueklzUGFnaW5hdGlvbl09ImZhbHNlIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBAVE9ETyBjYWNoZXNlcnZpY2XT0GJ1Zywg09C7urTmyrG3tbvYtcTKx29iamVjdKOs1N3KsbSmwO2jrLrzxtq4/LjECg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBAVE9ETyBjYWNoZXNlcnZpY2XT0GJ1Zywg09C7urTmyrG3tbvYtcTKx29iamVjdKOs1N3KsbSmwO2jrLrzxtq4/LjECg==</text>
+      <register name="7" type="8">
+        <text encoding="base64">e3ZhbHVlOiAKe3ZhbHVlOiAKe3ZhbHVlOiAKe3ZhbHVlOiA=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gT2JzZXJ2YWJsZS5vZih0aGlzLmNhY2hlU2VydmljZS5nZXROb25lKHVybCkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s/unit/component/gc</text>
+        <text>action PreviousTab</text>
       </register>
     </registers>
     <search>
@@ -2752,12 +2768,12 @@
         <entry>%s/17/10/gc</entry>
         <entry>%s/7/8/gc</entry>
         <entry>q</entry>
-        <entry>action PreviousTab</entry>
-        <entry>action NextTab</entry>
         <entry>action ReformatCode</entry>
         <entry>w</entry>
         <entry>%s/Unit/Component/gc</entry>
         <entry>%s/unit/component/gc</entry>
+        <entry>action NextTab</entry>
+        <entry>action PreviousTab</entry>
       </history-cmd>
       <history-expr />
       <history-input />
