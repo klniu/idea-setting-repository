@@ -1230,8 +1230,8 @@
         <mark key="^" line="13" column="12" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="D:/code/java/voc/src/test/resources/sql/init.sql" timestamp="1519648695259">
-        <mark key="'" line="51" column="28" />
+      <file name="D:/code/java/voc/src/test/resources/sql/init.sql" timestamp="1520483558076">
+        <mark key="'" line="148" column="52" />
         <mark key="[" line="59" column="17" />
         <mark key="]" line="59" column="17" />
         <mark key="^" line="44" column="0" />
@@ -2233,6 +2233,12 @@
         <mark key="]" line="24" column="45" />
         <mark key="." line="24" column="45" />
       </file>
+      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/entity/enums/Direction.java" timestamp="1520483366312">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="23" column="23" />
+        <mark key="^" line="7" column="12" />
+        <mark key="." line="7" column="12" />
+      </file>
       <file name="$USER_HOME$/sync/code/java/xiaoyi/src/main/java/com/klniu/xiaoyi/SoundChecker.java" timestamp="1484915756834">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="9" column="35" />
@@ -2496,7 +2502,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="13" filename="D:/code/web/voc-web/src/app/routes/base/factory/factory.component.ts" />
       <jump line="110" column="7" filename="D:/code/web/voc-web/src/app/routes/base/factory/factory.component.ts" />
       <jump line="111" column="15" filename="D:/code/web/voc-web/src/app/routes/base/factory/factory.component.ts" />
       <jump line="9" column="84" filename="D:/code/web/voc-web/src/app/routes/base/factory/factory.component.html" />
@@ -2596,6 +2601,7 @@
       <jump line="199" column="20" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/InstallServiceImplTest.java" />
       <jump line="24" column="0" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/InstallServiceImplTest.java" />
       <jump line="84" column="0" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/web/InstallControllerTest.java" />
+      <jump line="148" column="52" filename="D:/code/java/voc/src/test/resources/sql/init.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2619,7 +2625,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBQYXN0Cg==</text>
+        <text encoding="base64">ICAgIEVhc3QoMSwgIuS4nCIpLAogICAgV2VzdCgyLCAi6KW/IiksCiAgICBTb3V0aCgzLCAi5Y2XIiksCiAgICBOb3J0aCg0LCAi5YyXIiksCiAgICBTb3V0aGVhc3QoNSwgIuS4nOWNlyIpLAogICAgU291dGh3ZXN0KDYsICLopb/ljZciKSwKICAgIE5vcnRoZWFzdCg3LCAi5Lic5YyXIiksCiAgICBOb3J0aHdlc3QoOCwgIuilv+WMlyIpLAogICAgVG9wKDksICLpobbpg6giKSwKICAgIEJvdHRvbSgxMCwgIuW6lemDqCIpLAogICAgQWJvdmUoMTEsICLkuIrpg6giKSwKICAgIEJlbG93KDEyLCAi5LiL6YOoIiksCiAgICBUb3BFYXN0KDEzLCAi6aG25LicIiksCiAgICBUb3BXZXN0KDE0LCAi6aG26KW/IiksCiAgICBUb3BTb3V0aCgxNSwgIumhtuWNlyIpLAogICAgVG9wTm9ydGgoMTYsICLpobbljJciKTsK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2732,7 +2738,7 @@
         <text encoding="base64">XDxmYWN0b3J5SWRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBQYXN0CiAgICBASlNPTkZpZWxkKGZvcm1hdD0ieXl5eS1NTS1kZCIpCg==</text>
+        <text encoding="base64">ICAgIEVhc3QoMSwgIuS4nCIpLAogICAgV2VzdCgyLCAi6KW/IiksCiAgICBTb3V0aCgzLCAi5Y2XIiksCiAgICBOb3J0aCg0LCAi5YyXIiksCiAgICBTb3V0aGVhc3QoNSwgIuS4nOWNlyIpLAogICAgU291dGh3ZXN0KDYsICLopb/ljZciKSwKICAgIE5vcnRoZWFzdCg3LCAi5Lic5YyXIiksCiAgICBOb3J0aHdlc3QoOCwgIuilv+WMlyIpLAogICAgVG9wKDksICLpobbpg6giKSwKICAgIEJvdHRvbSgxMCwgIuW6lemDqCIpLAogICAgQWJvdmUoMTEsICLkuIrpg6giKSwKICAgIEJlbG93KDEyLCAi5LiL6YOoIiksCiAgICBUb3BFYXN0KDEzLCAi6aG25LicIiksCiAgICBUb3BXZXN0KDE0LCAi6aG26KW/IiksCiAgICBUb3BTb3V0aCgxNSwgIumhtuWNlyIpLAogICAgVG9wTm9ydGgoMTYsICLpobbljJciKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIEBQYXN0Cg==</text>
