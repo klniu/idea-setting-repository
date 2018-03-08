@@ -1293,9 +1293,9 @@
         <mark key="." line="6" column="31" />
         <mark key="^" line="6" column="31" />
       </file>
-      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/entity/Install.java" timestamp="1515483541640">
-        <mark key="[" line="72" column="4" />
-        <mark key="]" line="72" column="26" />
+      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/entity/Install.java" timestamp="1520477453820">
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="70" column="34" />
         <mark key="." line="72" column="26" />
         <mark key="^" line="72" column="26" />
       </file>
@@ -2342,12 +2342,12 @@
         <mark key="." line="121" column="75" />
         <mark key="^" line="121" column="75" />
       </file>
-      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/entity/Component.java" timestamp="1519367350512">
+      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/entity/Component.java" timestamp="1520477462261">
         <mark key="'" line="34" column="13" />
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="." line="72" column="0" />
-        <mark key="^" line="81" column="30" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="^" line="82" column="30" />
+        <mark key="." line="56" column="0" />
       </file>
       <file name="$USER_HOME$/workdir/code/clear/build.gradle" timestamp="1500536437307">
         <mark key="[" line="59" column="0" />
@@ -2618,8 +2618,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>e</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEBQYXN0Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2732,37 +2732,37 @@
         <text encoding="base64">XDxmYWN0b3J5SWRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKGlJbnN0YWxsU2VydmljZS5nZXRCeUlkKGFueSgpKSkudGhlblJldHVybihpbnN0YWxsKTsKICAgICAgICBtb2NrTXZjLnBlcmZvcm0oZ2V0KCIvYXBpL2luc3RhbGwvMSIpLmhlYWRlcnMoaGVhZGVycykpCiAgICAgICAgICAgICAgICAuYW5kRXhwZWN0KHN0YXR1cygpLmlzT2soKSkKICAgICAgICAgICAgICAgIC5hbmRFeHBlY3QoY29udGVudCgpLmNvbnRlbnRUeXBlKE1lZGlhVHlwZS5BUFBMSUNBVElPTl9KU09OX1VURjgpKQogICAgICAgICAgICAgICAgLmFuZEV4cGVjdChjb250ZW50KCkuanNvbigieydjb2RlJzogMCwgJ21zZyc6ICcnLCAnZGF0YSc6IHsnaWQnOiAxLCAiICsKICAgICAgICAgICAgICAgICAgICAgICAgIidmYWN0b3J5SWQnOiAxLCAnc3RhbmRhcmRJZCc6IDEsICd1bml0SWQnOiAxLCAnbmFtZSc6ICfmtYvor5Xoo4Xnva4xJywgJ25vJzogMywiICsKICAgICAgICAgICAgICAgICAgICAgICAgIidjb2RlJzogJ0NTWloxJywgJ3R5cGUnOiAnUmVmaW5lcnknLCAnY29uc3RydWN0RGF0ZSc6ICcyMDE0LTAxLTAxJywiICsKICAgICAgICAgICAgICAgICAgICAgICAgIidkZXNjcmlwdGlvbic6IG51bGx9fSIpKTsK</text>
+        <text encoding="base64">ICAgIEBQYXN0CiAgICBASlNPTkZpZWxkKGZvcm1hdD0ieXl5eS1NTS1kZCIpCg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIEBQYXN0Cg==</text>
+      </register>
+      <register name="2" type="4">
         <text>{'code': 0, 'msg': '', 'data': {'id': 1, &quot; +
                         &quot;'factoryId': 1, 'standardId': 1, 'unitId': 1, 'name': '测试装置1', 'no': 3,&quot; +
                         &quot;'code': 'CSZZ1', 'type': 'Refinery', 'constructDate': '2014-01-01',&quot; +
                         &quot;'description': null}}</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoMiwgY2FzLmdldCgxKS52YWx1ZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoIueuoeeQhuWNleWFgzEiLCBjYXMuZ2V0KDApLmxhYmVsKTsK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoMiwgY2FzLmdldCgxKS52YWx1ZSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoLCBjYXMuc2l6ZSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoIueuoeeQhuWNleWFgzEiLCBjYXMuZ2V0KDApLmxhYmVsKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoLCBjYXMuc2l6ZSgpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnROb3RTYW1lKGluc3RhbGxCYWNrLCBpSW5zdGFsbFNlcnZpY2UuZ2V0QnlVbml0SWQoMSkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnROb3RTYW1lKGluc3RhbGxzLCBpSW5zdGFsbFNlcnZpY2UuZ2V0QnlVbml0SWQoMSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnROb3RTYW1lKGluc3RhbGxCYWNrLCBpSW5zdGFsbFNlcnZpY2UuZ2V0QnlVbml0SWQoMSkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjYWNoZQo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnROb3RTYW1lKGluc3RhbGxzLCBpSW5zdGFsbFNlcnZpY2UuZ2V0QnlVbml0SWQoMSkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
