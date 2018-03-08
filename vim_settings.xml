@@ -634,12 +634,12 @@
         <mark key="." line="8" column="29" />
         <mark key="^" line="8" column="27" />
       </file>
-      <file name="D:/code/java/voc/src/test/java/com/cnvoc/voc/web/InstallControllerTest.java" timestamp="1520472462355">
-        <mark key="'" line="84" column="0" />
-        <mark key="[" line="149" column="0" />
-        <mark key="]" line="156" column="50" />
-        <mark key="." line="149" column="0" />
-        <mark key="^" line="144" column="76" />
+      <file name="D:/code/java/voc/src/test/java/com/cnvoc/voc/web/InstallControllerTest.java" timestamp="1520473457399">
+        <mark key="'" line="76" column="0" />
+        <mark key="[" line="145" column="78" />
+        <mark key="]" line="146" column="24" />
+        <mark key="." line="146" column="24" />
+        <mark key="^" line="146" column="24" />
       </file>
       <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/exception/UnauthorizedException.java" timestamp="1516865482387">
         <mark key="[" line="3" column="0" />
@@ -654,7 +654,7 @@
         <mark key="^" line="53" column="12" />
         <mark key="." line="53" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520412757138">
+      <file name="/Dummy.txt" timestamp="1520473488174">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="27" />
         <mark key="." line="0" column="0" />
@@ -1073,11 +1073,11 @@
         <mark key="^" line="37" column="20" />
         <mark key="." line="37" column="20" />
       </file>
-      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/web/InstallController.java" timestamp="1520472435838">
-        <mark key="[" line="66" column="74" />
-        <mark key="]" line="66" column="74" />
-        <mark key="^" line="66" column="74" />
-        <mark key="." line="66" column="74" />
+      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/web/InstallController.java" timestamp="1520473229270">
+        <mark key="[" line="64" column="22" />
+        <mark key="]" line="64" column="33" />
+        <mark key="^" line="64" column="33" />
+        <mark key="." line="64" column="33" />
       </file>
       <file name="$USER_HOME$/workdir/code/clear/src/main/java/com/cnvoc/clear/facility/FixTankPaint.java" timestamp="1500693021562">
         <mark key="[" line="14" column="8" />
@@ -2626,8 +2626,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKGlJbnN0YWxsU2VydmljZS5nZXRCeUlkKGFueSgpKSkudGhlblJldHVybihpbnN0YWxsKTsKICAgICAgICBtb2NrTXZjLnBlcmZvcm0oZ2V0KCIvYXBpL2luc3RhbGwvMSIpLmhlYWRlcnMoaGVhZGVycykpCiAgICAgICAgICAgICAgICAuYW5kRXhwZWN0KHN0YXR1cygpLmlzT2soKSkKICAgICAgICAgICAgICAgIC5hbmRFeHBlY3QoY29udGVudCgpLmNvbnRlbnRUeXBlKE1lZGlhVHlwZS5BUFBMSUNBVElPTl9KU09OX1VURjgpKQogICAgICAgICAgICAgICAgLmFuZEV4cGVjdChjb250ZW50KCkuanNvbigieydjb2RlJzogMCwgJ21zZyc6ICcnLCAnZGF0YSc6IHsnaWQnOiAxLCAiICsKICAgICAgICAgICAgICAgICAgICAgICAgIidmYWN0b3J5SWQnOiAxLCAnc3RhbmRhcmRJZCc6IDEsICd1bml0SWQnOiAxLCAnbmFtZSc6ICfmtYvor5Xoo4Xnva4xJywgJ25vJzogMywiICsKICAgICAgICAgICAgICAgICAgICAgICAgIidjb2RlJzogJ0NTWloxJywgJ3R5cGUnOiAnUmVmaW5lcnknLCAnY29uc3RydWN0RGF0ZSc6ICcyMDE0LTAxLTAxJywiICsKICAgICAgICAgICAgICAgICAgICAgICAgIidkZXNjcmlwdGlvbic6IG51bGx9fSIpKTsK</text>
+      <register name="&quot;" type="4">
+        <text>{'code':0,'data':[{'children':null,'isLeaf':true,'label':'管理单元1','value':'1'}],'msg':''}</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2734,7 +2734,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>label</text>
+        <text>{'code':0,'data':[{'children':null,'isLeaf':true,'label':'管理单元1','value':'1'}],'msg':''}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmYWN0b3J5SWRcPg==</text>
@@ -2742,35 +2742,38 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB3aGVuKGlJbnN0YWxsU2VydmljZS5nZXRCeUlkKGFueSgpKSkudGhlblJldHVybihpbnN0YWxsKTsKICAgICAgICBtb2NrTXZjLnBlcmZvcm0oZ2V0KCIvYXBpL2luc3RhbGwvMSIpLmhlYWRlcnMoaGVhZGVycykpCiAgICAgICAgICAgICAgICAuYW5kRXhwZWN0KHN0YXR1cygpLmlzT2soKSkKICAgICAgICAgICAgICAgIC5hbmRFeHBlY3QoY29udGVudCgpLmNvbnRlbnRUeXBlKE1lZGlhVHlwZS5BUFBMSUNBVElPTl9KU09OX1VURjgpKQogICAgICAgICAgICAgICAgLmFuZEV4cGVjdChjb250ZW50KCkuanNvbigieydjb2RlJzogMCwgJ21zZyc6ICcnLCAnZGF0YSc6IHsnaWQnOiAxLCAiICsKICAgICAgICAgICAgICAgICAgICAgICAgIidmYWN0b3J5SWQnOiAxLCAnc3RhbmRhcmRJZCc6IDEsICd1bml0SWQnOiAxLCAnbmFtZSc6ICfmtYvor5Xoo4Xnva4xJywgJ25vJzogMywiICsKICAgICAgICAgICAgICAgICAgICAgICAgIidjb2RlJzogJ0NTWloxJywgJ3R5cGUnOiAnUmVmaW5lcnknLCAnY29uc3RydWN0RGF0ZSc6ICcyMDE0LTAxLTAxJywiICsKICAgICAgICAgICAgICAgICAgICAgICAgIidkZXNjcmlwdGlvbic6IG51bGx9fSIpKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>{'code': 0, 'msg': '', 'data': {'id': 1, &quot; +
+                        &quot;'factoryId': 1, 'standardId': 1, 'unitId': 1, 'name': '测试装置1', 'no': 3,&quot; +
+                        &quot;'code': 'CSZZ1', 'type': 'Refinery', 'constructDate': '2014-01-01',&quot; +
+                        &quot;'description': null}}</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoMiwgY2FzLmdldCgxKS52YWx1ZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoIueuoeeQhuWNleWFgzEiLCBjYXMuZ2V0KDApLmxhYmVsKTsK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoMiwgY2FzLmdldCgxKS52YWx1ZSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoLCBjYXMuc2l6ZSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoIueuoeeQhuWNleWFgzEiLCBjYXMuZ2V0KDApLmxhYmVsKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoLCBjYXMuc2l6ZSgpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnROb3RTYW1lKGluc3RhbGxCYWNrLCBpSW5zdGFsbFNlcnZpY2UuZ2V0QnlVbml0SWQoMSkpOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnROb3RTYW1lKGluc3RhbGxzLCBpSW5zdGFsbFNlcnZpY2UuZ2V0QnlVbml0SWQoMSkpOwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjYWNoZQo=</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnROb3RTYW1lKGluc3RhbGxCYWNrLCBpSW5zdGFsbFNlcnZpY2UuZ2V0QnlVbml0SWQoMSkpOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnROb3RTYW1lKGluc3RhbGxzLCBpSW5zdGFsbFNlcnZpY2UuZ2V0QnlVbml0SWQoMSkpOwo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBjYWNoZQo=</text>
+      </register>
       <register name=":" type="4">
-        <text>action PreviousTab</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
@@ -2823,9 +2826,9 @@
         <entry>%s/Unit/Component/gc</entry>
         <entry>%s/unit/component/gc</entry>
         <entry encoding="base64">JzwsJz5zL2NvbXBvbmVudC9zZWFsL2dj</entry>
-        <entry>action ReformatCode</entry>
         <entry>action NextTab</entry>
         <entry>action PreviousTab</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
