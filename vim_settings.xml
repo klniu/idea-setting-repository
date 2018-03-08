@@ -365,12 +365,12 @@
         <mark key="^" line="0" column="19" />
         <mark key="." line="0" column="19" />
       </file>
-      <file name="D:/code/web/voc-ui/src/app/routes/ldar/component/component-form.component.ts" timestamp="1520474952860">
-        <mark key="'" line="71" column="4" />
-        <mark key="[" line="28" column="46" />
-        <mark key="]" line="29" column="37" />
-        <mark key="." line="29" column="37" />
-        <mark key="^" line="29" column="37" />
+      <file name="D:/code/web/voc-ui/src/app/routes/ldar/component/component-form.component.ts" timestamp="1520491356406">
+        <mark key="'" line="68" column="4" />
+        <mark key="[" line="28" column="41" />
+        <mark key="]" line="28" column="45" />
+        <mark key="." line="28" column="45" />
+        <mark key="^" line="28" column="45" />
       </file>
       <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/entity/FactoryAndSetting.java" timestamp="1519647977009">
         <mark key="[" line="12" column="0" />
@@ -2629,7 +2629,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ZGlyZWN0aW9uTWFwcyA=</text>
+        <text>置</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2736,7 +2736,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZGlyZWN0aW9uTWFwcyA=</text>
+        <text>置</text>
       </register>
       <register name="/" type="4">
         <text>ldarSetting</text>
@@ -2745,9 +2745,12 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuZGlyZWN0aW9ucyA9IGdldERpcmVjdGlvbk9wdGlvbnMoc2V0dGluZyk7Cg==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHdpZGdldDogewogICAgICAgICAgICAgICAgICAgIGlkOiAnbnVtYmVyJywKICAgICAgICAgICAgICAgIH0K</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICB7dmFsdWU6ICdOb3J0aCcsIGxhYmVsOiBsZGFyU2V0dGluZy5ub3J0aE5hbWV9LAogICAgICAgIHt2YWx1ZTogJ1NvdXRoZWFzdCcsIGxhYmVsOiBsZGFyU2V0dGluZy5zb3V0aGVhc3ROYW1lfSwKICAgICAgICB7dmFsdWU6ICdTb3V0aHdlc3QnLCBsYWJlbDogbGRhclNldHRpbmcuc291dGh3ZXN0TmFtZX0sCiAgICAgICAge3ZhbHVlOiAnTm9ydGhlYXN0JywgbGFiZWw6IGxkYXJTZXR0aW5nLm5vcnRoZWFzdE5hbWV9LAogICAgICAgIHt2YWx1ZTogJ05vcnRod2VzdCcsIGxhYmVsOiBsZGFyU2V0dGluZy5ub3J0aHdlc3ROYW1lfSwKICAgICAgICB7dmFsdWU6ICdUb3AnLCBsYWJlbDogbGRhclNldHRpbmcudG9wTmFtZX0sCiAgICAgICAge3ZhbHVlOiAnQm90dG9tJywgbGFiZWw6IGxkYXJTZXR0aW5nLmJvdHRvbU5hbWV9LAogICAgICAgIHt2YWx1ZTogJ0Fib3ZlJywgbGFiZWw6IGxkYXJTZXR0aW5nLmFib3ZlTmFtZX0sCiAgICAgICAge3ZhbHVlOiAnQmVsb3cnLCBsYWJlbDogbGRhclNldHRpbmcuYmVsb3dOYW1lfSwKICAgICAgICB7dmFsdWU6ICdUb3BFYXN0JywgbGFiZWw6IGxkYXJTZXR0aW5nLnRvcEVhc3ROYW1lfSwKICAgICAgICB7dmFsdWU6ICdUb3BXZXN0JywgbGFiZWw6IGxkYXJTZXR0aW5nLnRvcFdlc3ROYW1lfSwKICAgICAgICB7dmFsdWU6ICdUb3BTb3V0aCcsIGxhYmVsOiBsZGFyU2V0dGluZy50b3BTb3V0aE5hbWV9LAogICAgICAgIHt2YWx1ZTogJ1RvcE5vcnRoJywgbGFiZWw6IGxkYXJTZXR0aW5nLlRvcE5vcnRoTmFtZX0K</text>
       </register>
-      <register name="2" type="8">
+      <register name="3" type="8">
         <text>ervice
 ervice
 ervice
@@ -2755,26 +2758,23 @@ ervice
 ervice
 ervice</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codGhpcy5zZWFsVHlwZU1hcHMpOwo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBnZXRTZXJ2aWNlT3B0aW9ucyhzZXR0aW5nKTsK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBnZXRTZWFsVHlwZU9wdGlvbnMoc2V0dGluZyk7Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAnRWFzdCcKICAgICAgICAnV2VzdCcKICAgICAgICAnU291dGgnCiAgICAgICAgJ05vcnRoJwogICAgICAgICdTb3V0aGVhc3QnCiAgICAgICAgJ1NvdXRod2VzdCcKICAgICAgICAnTm9ydGhlYXN0JwogICAgICAgICdOb3J0aHdlc3QnCiAgICAgICAgJ1RvcCcKICAgICAgICAnQm90dG9tJwogICAgICAgICdBYm92ZScKICAgICAgICAnQmVsb3cnCiAgICAgICAgJ1RvcEVhc3QnCiAgICAgICAgJ1RvcFdlc3QnCiAgICAgICAgJ1RvcFNvdXRoJwogICAgICAgICdUb3BOb3J0aCcK</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAKICAgICAgICBFYXN0KDEsICK2qwpXZXN0KDIsICLO9wpTb3V0aCgzLCAiCk5vcnRoKDQsICIKU291dGhlYXN0KApTb3V0aHdlc3QoCk5vcnRoZWFzdCgKTm9ydGh3ZXN0KApUb3AoOSwgIralsr8KQm90dG9tKDEwLApBYm92ZSgxMSwgCkJlbG93KDEyLCAKVG9wRWFzdCgxMwpUb3BXZXN0KDE0ClRvcFNvdXRoKDEKVG9wTm9ydGgoMQo=</text>
-      </register>
-      <register name="9" type="8">
-        <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIA==</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
