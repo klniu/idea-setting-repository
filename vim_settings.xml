@@ -650,7 +650,7 @@
         <mark key="^" line="53" column="12" />
         <mark key="." line="53" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520476837135">
+      <file name="/Dummy.txt" timestamp="1520488157442">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="27" />
         <mark key="." line="0" column="0" />
@@ -2233,9 +2233,9 @@
         <mark key="]" line="24" column="45" />
         <mark key="." line="24" column="45" />
       </file>
-      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/entity/enums/Direction.java" timestamp="1520483366312">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="23" column="23" />
+      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/entity/enums/Direction.java" timestamp="1520488446367">
+        <mark key="[" line="8" column="4" />
+        <mark key="]" line="23" column="13" />
         <mark key="^" line="7" column="12" />
         <mark key="." line="7" column="12" />
       </file>
@@ -2624,8 +2624,23 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEVhc3QoMSwgIuS4nCIpLAogICAgV2VzdCgyLCAi6KW/IiksCiAgICBTb3V0aCgzLCAi5Y2XIiksCiAgICBOb3J0aCg0LCAi5YyXIiksCiAgICBTb3V0aGVhc3QoNSwgIuS4nOWNlyIpLAogICAgU291dGh3ZXN0KDYsICLopb/ljZciKSwKICAgIE5vcnRoZWFzdCg3LCAi5Lic5YyXIiksCiAgICBOb3J0aHdlc3QoOCwgIuilv+WMlyIpLAogICAgVG9wKDksICLpobbpg6giKSwKICAgIEJvdHRvbSgxMCwgIuW6lemDqCIpLAogICAgQWJvdmUoMTEsICLkuIrpg6giKSwKICAgIEJlbG93KDEyLCAi5LiL6YOoIiksCiAgICBUb3BFYXN0KDEzLCAi6aG25LicIiksCiAgICBUb3BXZXN0KDE0LCAi6aG26KW/IiksCiAgICBUb3BTb3V0aCgxNSwgIumhtuWNlyIpLAogICAgVG9wTm9ydGgoMTYsICLpobbljJciKTsK</text>
+      <register name="&quot;" type="8">
+        <text>East(1, &quot;东
+West(2, &quot;西
+South(3, &quot;
+North(4, &quot;
+Southeast(
+Southwest(
+Northeast(
+Northwest(
+Top(9, &quot;顶部
+Bottom(10,
+Above(11, 
+Below(12, 
+TopEast(13
+TopWest(14
+TopSouth(1
+TopNorth(1</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2737,8 +2752,23 @@
       <register name="/" type="4">
         <text encoding="base64">XDxmYWN0b3J5SWRcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIEVhc3QoMSwgIuS4nCIpLAogICAgV2VzdCgyLCAi6KW/IiksCiAgICBTb3V0aCgzLCAi5Y2XIiksCiAgICBOb3J0aCg0LCAi5YyXIiksCiAgICBTb3V0aGVhc3QoNSwgIuS4nOWNlyIpLAogICAgU291dGh3ZXN0KDYsICLopb/ljZciKSwKICAgIE5vcnRoZWFzdCg3LCAi5Lic5YyXIiksCiAgICBOb3J0aHdlc3QoOCwgIuilv+WMlyIpLAogICAgVG9wKDksICLpobbpg6giKSwKICAgIEJvdHRvbSgxMCwgIuW6lemDqCIpLAogICAgQWJvdmUoMTEsICLkuIrpg6giKSwKICAgIEJlbG93KDEyLCAi5LiL6YOoIiksCiAgICBUb3BFYXN0KDEzLCAi6aG25LicIiksCiAgICBUb3BXZXN0KDE0LCAi6aG26KW/IiksCiAgICBUb3BTb3V0aCgxNSwgIumhtuWNlyIpLAogICAgVG9wTm9ydGgoMTYsICLpobbljJciKTsK</text>
+      <register name="0" type="8">
+        <text>East(1, &quot;东&quot;)
+West(2, &quot;西&quot;)
+South(3, &quot;南&quot;
+North(4, &quot;北&quot;
+Southeast(5,
+Southwest(6,
+Northeast(7,
+Northwest(8,
+Top(9, &quot;顶部&quot;)
+Bottom(10, &quot;
+Above(11, &quot;上
+Below(12, &quot;下
+TopEast(13, 
+TopWest(14, 
+TopSouth(15,
+TopNorth(16,</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIEBQYXN0Cg==</text>
