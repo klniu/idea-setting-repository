@@ -53,12 +53,12 @@
         <mark key="^" line="12" column="39" />
         <mark key="." line="14" column="37" />
       </file>
-      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/ComponentServiceImpl.java" timestamp="1520580723393">
+      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/ComponentServiceImpl.java" timestamp="1520583086861">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="158" column="19" />
-        <mark key="]" line="158" column="19" />
-        <mark key="." line="158" column="19" />
-        <mark key="^" line="158" column="12" />
+        <mark key="[" line="163" column="0" />
+        <mark key="]" line="165" column="28" />
+        <mark key="." line="165" column="28" />
+        <mark key="^" line="165" column="28" />
       </file>
       <file name="D:/code/web/voc-ui/src/app/heroes/heroes.component.css" timestamp="1517985679769">
         <mark key="[" line="0" column="0" />
@@ -326,6 +326,12 @@
         <mark key="]" line="30" column="0" />
         <mark key="^" line="28" column="30" />
         <mark key="." line="30" column="0" />
+      </file>
+      <file name="D:/code/web/voc-ui/src/app/routes/ldar/ldarsetting/setting.service.ts" timestamp="1520487112158">
+        <mark key="'" line="46" column="33" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/shiro/JWTFilter.java" timestamp="1517388376147">
         <mark key="'" line="20" column="0" />
@@ -1735,6 +1741,12 @@
         <mark key="." line="10" column="2" />
         <mark key="^" line="10" column="1" />
       </file>
+      <file name="D:/code/java/voc/build.gradle" timestamp="1520582524591">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
+      </file>
       <file name="D:/code/web/voc-web/src/app/app.module.ts" timestamp="1520151671972">
         <mark key="'" line="41" column="9" />
         <mark key="[" line="42" column="0" />
@@ -2151,12 +2163,12 @@
         <mark key="." line="21" column="21" />
         <mark key="^" line="21" column="21" />
       </file>
-      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/IComponentService.java" timestamp="1520575463329">
-        <mark key="'" line="30" column="19" />
-        <mark key="[" line="29" column="40" />
-        <mark key="]" line="29" column="58" />
-        <mark key="^" line="29" column="58" />
-        <mark key="." line="29" column="58" />
+      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/IComponentService.java" timestamp="1520583058388">
+        <mark key="'" line="31" column="19" />
+        <mark key="[" line="30" column="44" />
+        <mark key="]" line="30" column="44" />
+        <mark key="^" line="30" column="44" />
+        <mark key="." line="30" column="44" />
       </file>
       <file name="$USER_HOME$/sync/code/java/mdtools/src/com/klniu/model/Mol.java" timestamp="1481523576356">
         <mark key="[" line="4" column="4" />
@@ -2237,6 +2249,12 @@
         <mark key="]" line="26" column="57" />
         <mark key="." line="26" column="57" />
         <mark key="^" line="26" column="57" />
+      </file>
+      <file name="D:/code/web/voc-ui/src/app/routes/common/constants.ts" timestamp="1520487017799">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="8" column="57" />
+        <mark key="]" line="8" column="57" />
+        <mark key="." line="8" column="57" />
       </file>
       <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/ILdarRuleService.java" timestamp="1518403135951">
         <mark key="[" line="21" column="88" />
@@ -2533,7 +2551,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="7" filename="D:/code/web/nz-schema-form/package.json" />
       <jump line="66" column="14" filename="D:/code/web/nz-schema-form/package.json" />
       <jump line="96" column="34" filename="D:/code/python/utils/office/exportpdf.py" />
       <jump line="109" column="56" filename="D:/code/python/utils/office/exportpdf.py" />
@@ -2633,6 +2650,7 @@
       <jump line="70" column="0" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/ComponentServiceImplTest.java" />
       <jump line="246" column="43" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/ComponentServiceImplTest.java" />
       <jump line="163" column="44" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/ComponentServiceImplTest.java" />
+      <jump line="0" column="0" filename="D:/code/java/voc/build.gradle" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2655,8 +2673,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ImRhdGE6aW1hZ2UvanBlZztiYXNlNjQsICIgKyA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2771,38 +2789,38 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhc3NlcnRUcnVlKEZpbGVzLmV4aXN0cyhQcm9qZWN0LmdldEluc3RhbGxTdmdQYXRoKCJhYmNkZWZnaGlqIikucmVzb2x2ZSgiSU1BR0VfMDAxLnN2ZyIpKSk7CiAgICAgICAgYXNzZXJ0VHJ1ZShGaWxlcy5leGlzdHMoUHJvamVjdC5nZXRJbnN0YWxsSlBHUGF0aCgiYWJjZGVmZ2hpaiIpLnJlc29sdmUoIklNQUdFXzAwMS5qcGciKSkpOwogICAgICAgIGFzc2VydFRydWUoRmlsZXMuZXhpc3RzKFByb2plY3QuZ2V0SW5zdGFsbFN2Z1BhdGgoImppaGdmZWRjYmEiKS5yZXNvbHZlKCJJTUFHRV8wMDEuc3ZnIikpKTsKICAgICAgICBhc3NlcnRUcnVlKEZpbGVzLmV4aXN0cyhQcm9qZWN0LmdldEluc3RhbGxKUEdQYXRoKCJqaWhnZmVkY2JhIikucmVzb2x2ZSgiSU1BR0VfMDAxLmpwZyIpKSk7Cg==</text>
       </register>
-      <register name="1" type="8">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="8">
         <text>Files.exists
 Files.exists
 Files.exists</text>
       </register>
-      <register name="2" type="8">
+      <register name="3" type="8">
         <text>assertTrue(
 assertTrue(
 assertTrue(
 assertTrue(</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBGaWxlVXRpbHMuZm9yY2VEZWxldGUoKTsK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>Project.getInstallJPGPath(&quot;abcdefghij&quot;)
                 .resolve(&quot;IMAGE_002&quot;).toFile()</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAvLyDliJvlu7rlm77niYcKICAgICAgICBVUkwgdXJsID0gdGhpcy5nZXRDbGFzcygpLmdldFJlc291cmNlKCIvZG9jcy9waG90by5qcGciKTsKICAgICAgICBGaWxlVXRpbHMuY29weUZpbGUobmV3IEZpbGUodXJsLnRvVVJJKCkpLCBQcm9qZWN0LmdldEluc3RhbGxKUEdQYXRoKCJhYmNkZWZnaGlqIikKICAgICAgICAgICAgICAgIC5yZXNvbHZlKCJJTUFHRV8wMDIiKS50b0ZpbGUoKSk7Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBGaWxlVXRpbHMuZm9yY2VNa2RpcihQcm9qZWN0LmdldEluc3RhbGxQYXRoKCkucmVzb2x2ZSgiMmExZnNhZGZhcyIpLnRvRmlsZSgpKTsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBGaWxlVXRpbHMuZm9yY2VNa2RpcihQcm9qZWN0LmdldEluc3RhbGxQYXRoKCkucmVzb2x2ZSgiamloZ2ZlZGNiYSIpLnRvRmlsZSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICBGaWxlVXRpbHMuZm9yY2VNa2RpcihQcm9qZWN0LmdldEluc3RhbGxQYXRoKCkucmVzb2x2ZSgiMmExZnNhZGZhcyIpLnRvRmlsZSgpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>action PreviousTab</text>
