@@ -35,6 +35,12 @@
         <mark key="^" line="83" column="25" />
         <mark key="." line="83" column="25" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cb6e028b-04c0-427c-be30-b4d266fe8774/console.sql" timestamp="1514516804362">
+        <mark key="[" line="42" column="28" />
+        <mark key="]" line="42" column="28" />
+        <mark key="." line="42" column="28" />
+        <mark key="^" line="43" column="31" />
+      </file>
       <file name="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/entity/enums/RoleName.java" timestamp="1510214079592">
         <mark key="[" line="7" column="21" />
         <mark key="]" line="7" column="30" />
@@ -124,12 +130,6 @@
         <mark key="]" line="52" column="12" />
         <mark key="^" line="52" column="12" />
         <mark key="." line="52" column="12" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.java" timestamp="1515290836374">
-        <mark key="[" line="7" column="30" />
-        <mark key="]" line="7" column="38" />
-        <mark key="^" line="7" column="38" />
-        <mark key="." line="7" column="38" />
       </file>
       <file name="D:/code/python/autostock/trade.py" timestamp="1513396631635">
         <mark key="[" line="52" column="15" />
@@ -1519,6 +1519,12 @@
         <mark key="^" line="98" column="34" />
         <mark key="." line="98" column="34" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.java" timestamp="1515290836374">
+        <mark key="[" line="7" column="30" />
+        <mark key="]" line="7" column="38" />
+        <mark key="^" line="7" column="38" />
+        <mark key="." line="7" column="38" />
+      </file>
       <file name="D:/code/python/autostock/quotation.py" timestamp="1513395435718">
         <mark key="[" line="21" column="20" />
         <mark key="]" line="21" column="21" />
@@ -1798,12 +1804,6 @@
         <mark key="]" line="78" column="22" />
         <mark key="." line="78" column="22" />
         <mark key="^" line="78" column="22" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cb6e028b-04c0-427c-be30-b4d266fe8774/console.sql" timestamp="1514516804362">
-        <mark key="[" line="42" column="28" />
-        <mark key="]" line="42" column="28" />
-        <mark key="." line="42" column="28" />
-        <mark key="^" line="43" column="31" />
       </file>
       <file name="$USER_HOME$/sync/code/java/livesim/build.gradle" timestamp="1479443435078">
         <mark key="[" line="5" column="24" />
@@ -2351,12 +2351,12 @@
         <mark key="." line="121" column="75" />
         <mark key="^" line="121" column="75" />
       </file>
-      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/entity/Component.java" timestamp="1519367350512">
+      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/entity/Component.java" timestamp="1520555387196">
         <mark key="'" line="34" column="13" />
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="." line="72" column="0" />
-        <mark key="^" line="81" column="30" />
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="46" />
+        <mark key="." line="70" column="0" />
+        <mark key="^" line="82" column="30" />
       </file>
       <file name="$USER_HOME$/workdir/code/clear/build.gradle" timestamp="1500536437307">
         <mark key="[" line="59" column="0" />
@@ -2627,8 +2627,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">YW55IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEBUYWJsZUZpZWxkKGNvbmRpdGlvbiA9IFNxbENvbmRpdGlvbi5MSUtFKQo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2741,7 +2741,7 @@
         <text encoding="base64">XDxsb2FkU3RhbmRhcmRzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBbCiAgICAgICAge3ZhbHVlOiAnMTAyNCcsIGxhYmVsOiBsZGFyU2V0dGluZy5nYXNOYW1lfSwKICAgICAgICB7dmFsdWU6ICcyMDQ4JywgbGFiZWw6IGxkYXJTZXR0aW5nLmxpZ2h0TGlxdWlkTmFtZX0sCiAgICAgICAge3ZhbHVlOiAnNDA5NicsIGxhYmVsOiBsZGFyU2V0dGluZy5oZWF2eUxpcXVpZE5hbWV9CiAgICBdOwo=</text>
+        <text encoding="base64">ICAgIEBUYWJsZUZpZWxkKGNvbmRpdGlvbiA9IFNxbENvbmRpdGlvbi5MSUtFKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZXhwb3J0IGludGVyZmFjZSBTZXJ2ZXJSZXNwb25zZSB7CiAgICBjb2RlOiBudW1iZXI7CiAgICBtc2c6IHN0cmluZzsKICAgIGRhdGE6IGFueTsKfQoKZXhwb3J0IGludGVyZmFjZSBQYWdpbmF0aW9uRGF0YSB7CiAgICBjdXJyZW50OiBudW1iZXI7CiAgICBzaXplOiBudW1iZXI7CiAgICB0b3RhbDogbnVtYmVyOwogICAgcGFnZXM6IG51bWJlcjsKICAgIHJlY29yZHM6IGFueVtdOwp9Cg==</text>
