@@ -1551,11 +1551,11 @@
         <mark key="." line="9" column="7" />
         <mark key="^" line="9" column="7" />
       </file>
-      <file name="D:/code/web/voc-ui/src/app/routes/ldar/component/component.component.ts" timestamp="1520575926090">
-        <mark key="[" line="34" column="12" />
-        <mark key="]" line="34" column="11" />
-        <mark key="." line="34" column="11" />
-        <mark key="^" line="34" column="11" />
+      <file name="D:/code/web/voc-ui/src/app/routes/ldar/component/component.component.ts" timestamp="1520578684927">
+        <mark key="[" line="37" column="4" />
+        <mark key="]" line="37" column="16" />
+        <mark key="." line="37" column="16" />
+        <mark key="^" line="37" column="16" />
       </file>
       <file name="D:/code/web/voc-ui/src/app/routes/ldar/component/seal-form.component.ts" timestamp="1520497937622">
         <mark key="'" line="22" column="24" />
@@ -2786,7 +2786,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGFsbG93Q2xlYXI6IHRydWUK</text>
       </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text>action PreviousTab</text>
       </register>
     </registers>
     <search>
@@ -2839,9 +2839,9 @@
         <entry encoding="base64">JzwsJz5zL2NvbXBvbmVudC9zZWFsL2dj</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz5zL2xkYXJTZXR0aW5nL3NldHRpbmcvZ2M=</entry>
-        <entry>action PreviousTab</entry>
-        <entry>action NextTab</entry>
         <entry>action ReformatCode</entry>
+        <entry>action NextTab</entry>
+        <entry>action PreviousTab</entry>
       </history-cmd>
       <history-expr />
       <history-input />
