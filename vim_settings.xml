@@ -351,6 +351,7 @@
         <mark key="." line="23" column="32" />
         <mark key="^" line="23" column="32" />
       </file>
+      <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/model_test.go" timestamp="1520555032590" />
       <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/entity/enums/SealType.java" timestamp="1518409372772">
         <mark key="[" line="11" column="15" />
         <mark key="]" line="11" column="14" />
@@ -1539,11 +1540,11 @@
         <mark key="." line="9" column="7" />
         <mark key="^" line="9" column="7" />
       </file>
-      <file name="D:/code/web/voc-ui/src/app/routes/ldar/component/component.component.ts" timestamp="1520500694970">
-        <mark key="[" line="99" column="0" />
-        <mark key="]" line="99" column="0" />
-        <mark key="^" line="46" column="54" />
-        <mark key="." line="99" column="0" />
+      <file name="D:/code/web/voc-ui/src/app/routes/ldar/component/component.component.ts" timestamp="1520555980871">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="78" column="14" />
+        <mark key="^" line="97" column="41" />
+        <mark key="." line="70" column="0" />
       </file>
       <file name="D:/code/web/voc-ui/src/app/routes/ldar/component/seal-form.component.ts" timestamp="1520497937622">
         <mark key="'" line="22" column="24" />
@@ -2508,7 +2509,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="32" filename="D:/code/web/voc-web/src/app/routes/ldar/ldarsetting/step2-5.component.ts" />
       <jump line="57" column="32" filename="D:/code/web/voc-web/src/app/routes/ldar/ldarsetting/tag-formatter.component.ts" />
       <jump line="20" column="17" filename="D:/code/web/voc-web/src/app/routes/ldar/standard/standard.component.ts" />
       <jump line="127" column="4" filename="D:/code/web/voc-web/src/app/routes/ldar/standard/standard.component.ts" />
@@ -2563,7 +2563,6 @@
       <jump line="38" column="28" filename="D:/code/web/voc-ui/src/app/routes/ldar/component/component.service.ts" />
       <jump line="82" column="47" filename="D:/code/web/voc-ui/src/app/routes/ldar/unit/unit.component.html" />
       <jump line="12" column="4" filename="D:/code/web/voc-ui/src/app/routes/ldar/unit/unit.service.ts" />
-      <jump line="62" column="26" filename="D:/code/web/voc-ui/src/app/routes/ldar/component/component.component.ts" />
       <jump line="22" column="27" filename="D:/code/web/voc-ui/src/app/routes/ldar/component/component.service.ts" />
       <jump line="79" column="69" filename="D:/code/web/voc-ui/src/app/routes/ldar/component/component.component.html" />
       <jump line="72" column="29" filename="D:/code/web/voc-ui/src/app/routes/ldar/component/component.component.ts" />
@@ -2608,6 +2607,8 @@
       <jump line="188" column="31" filename="D:/code/web/voc-ui/src/app/routes/ldar/component/component.component.ts" />
       <jump line="143" column="25" filename="D:/code/web/voc-ui/src/app/routes/ldar/component/component.component.ts" />
       <jump line="73" column="14" filename="D:/code/web/voc-ui/src/app/routes/ldar/component/component.component.ts" />
+      <jump line="62" column="29" filename="D:/code/web/voc-ui/src/app/routes/ldar/component/component.component.ts" />
+      <jump line="53" column="31" filename="D:/code/web/voc-ui/src/app/routes/ldar/component/component.component.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2631,7 +2632,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaGVpZ2h0OiB7CiAgICAgICAgICAgICAgICAndHlwZSc6ICdudW1iZXInLAogICAgICAgICAgICAgICAgJ3RpdGxlJzogJ7jftsgnLAogICAgICAgICAgICAgICAgJ3dpZGdldCc6IHsKICAgICAgICAgICAgICAgICAgICAnaWQnOiAnbnVtYmVyJywKICAgICAgICAgICAgICAgICAgICBtaW46IDAsCiAgICAgICAgICAgICAgICAgICAgbWF4OiA5CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmxvb3I6IHsKICAgICAgICAgICAgICAgIHR5cGU6ICdudW1iZXInLAogICAgICAgICAgICAgICAgdGl0bGU6ICfCpbLjJywKICAgICAgICAgICAgICAgIHdpZGdldDogewogICAgICAgICAgICAgICAgICAgIGlkOiAnbnVtYmVyJywKICAgICAgICAgICAgICAgICAgICBtaXg6IDEsCiAgICAgICAgICAgICAgICAgICAgbWF4OiA5OSwKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSwK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2738,7 +2739,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>提交</text>
+        <text>center</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21wb25lbnRDb25kaXRpb25zXD4=</text>
@@ -2747,31 +2748,31 @@
         <text encoding="base64">ICAgICAgICAgICAgdGhpcy5jb21wb25lbnRDb25kaXRpb25zID0gewogICAgICAgICAgICAgICAgLi4uZm9ybS52YWx1ZSwKICAgICAgICAgICAgfTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaGVpZ2h0OiB7CiAgICAgICAgICAgICAgICAndHlwZSc6ICdudW1iZXInLAogICAgICAgICAgICAgICAgJ3RpdGxlJzogJ7jftsgnLAogICAgICAgICAgICAgICAgJ3dpZGdldCc6IHsKICAgICAgICAgICAgICAgICAgICAnaWQnOiAnbnVtYmVyJywKICAgICAgICAgICAgICAgICAgICBtaW46IDAsCiAgICAgICAgICAgICAgICAgICAgbWF4OiA5CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmxvb3I6IHsKICAgICAgICAgICAgICAgIHR5cGU6ICdudW1iZXInLAogICAgICAgICAgICAgICAgdGl0bGU6ICfCpbLjJywKICAgICAgICAgICAgICAgIHdpZGdldDogewogICAgICAgICAgICAgICAgICAgIGlkOiAnbnVtYmVyJywKICAgICAgICAgICAgICAgICAgICBtaXg6IDEsCiAgICAgICAgICAgICAgICAgICAgbWF4OiA5OSwKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGlzdGFuY2U6IHsKICAgICAgICAgICAgICAgICd0eXBlJzogJ251bWJlcicsCiAgICAgICAgICAgICAgICAndGl0bGUnOiAnvuDA6ycsCiAgICAgICAgICAgICAgICAnd2lkZ2V0JzogewogICAgICAgICAgICAgICAgICAgICdpZCc6ICdudW1iZXInLAogICAgICAgICAgICAgICAgICAgIG1pbjogMCwKICAgICAgICAgICAgICAgICAgICBtYXg6IDkKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmxvb3I6IHsKICAgICAgICAgICAgICAgIHR5cGU6ICdudW1iZXInLAogICAgICAgICAgICAgICAgdGl0bGU6ICfCpbLjJywKICAgICAgICAgICAgICAgIHdpZGdldDogewogICAgICAgICAgICAgICAgICAgIGlkOiAnbnVtYmVyJywKICAgICAgICAgICAgICAgICAgICBtaXg6IDEsCiAgICAgICAgICAgICAgICAgICAgbWF4OiA5OSwKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzcGFuX2xhYmVsX2ZpeGVkOiAxMDAsCiAgICAgICAgZ3JpZDogewogICAgICAgICAgICBzcGFuOiA2CiAgICAgICAgfSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNpemU6ICdsYXJnZScsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaGVpZ2h0OiB7CiAgICAgICAgICAgICAgICAndHlwZSc6ICdudW1iZXInLAogICAgICAgICAgICAgICAgJ3RpdGxlJzogJ7jftsgnLAogICAgICAgICAgICAgICAgJ3dpZGdldCc6IHsKICAgICAgICAgICAgICAgICAgICAnaWQnOiAnbnVtYmVyJywKICAgICAgICAgICAgICAgICAgICBtaW46IDAsCiAgICAgICAgICAgICAgICAgICAgbWF4OiA5CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNpemU6ICdkZWZhdWx0JywK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGlzdGFuY2U6IHsKICAgICAgICAgICAgICAgICd0eXBlJzogJ251bWJlcicsCiAgICAgICAgICAgICAgICAndGl0bGUnOiAnvuDA6ycsCiAgICAgICAgICAgICAgICAnd2lkZ2V0JzogewogICAgICAgICAgICAgICAgICAgICdpZCc6ICdudW1iZXInLAogICAgICAgICAgICAgICAgICAgIG1pbjogMCwKICAgICAgICAgICAgICAgICAgICBtYXg6IDkKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ3JpZDogeyBzcGFuOiAyNCB9LAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmxvb3I6IHsKICAgICAgICAgICAgICAgIHR5cGU6ICdudW1iZXInLAogICAgICAgICAgICAgICAgdGl0bGU6ICfCpbLjJywKICAgICAgICAgICAgICAgIHdpZGdldDogewogICAgICAgICAgICAgICAgICAgIGlkOiAnbnVtYmVyJywKICAgICAgICAgICAgICAgICAgICBtaXg6IDEsCiAgICAgICAgICAgICAgICAgICAgbWF4OiA5OQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzaXplOiAxMDAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNob3dEZXNjcmlwdGlvbjogdHJ1ZSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlc2NyaXB0aW9uOiAn1+m8/r+qyrzKudPDtcTI1cbao6y9q7G7tbHX99C5wqnBv7zGy+O1xNfu1OfI1cbaJywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGlyZWN0aW9uOiB7CiAgICAgICAgICAgICAgICAndHlwZSc6ICdzdHJpbmcnLAogICAgICAgICAgICAgICAgJ3RpdGxlJzogJ7e9zrsnLAogICAgICAgICAgICAgICAgJ3dpZGdldCc6IHsKICAgICAgICAgICAgICAgICAgICAnaWQnOiAnc2VsZWN0JywKICAgICAgICAgICAgICAgICAgICAnZGF0YSc6IHRoaXMuc2VydmljZS5kaXJlY3Rpb25zCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0sCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNob3dEZXNjcmlwdGlvbjogdHJ1ZSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaGVpZ2h0OiB7CiAgICAgICAgICAgICAgICAndHlwZSc6ICdudW1iZXInLAogICAgICAgICAgICAgICAgJ3RpdGxlJzogJ7jftsgnLAogICAgICAgICAgICAgICAgJ3dpZGdldCc6IHsKICAgICAgICAgICAgICAgICAgICAnaWQnOiAnbnVtYmVyJywKICAgICAgICAgICAgICAgICAgICBtaW46IDAsCiAgICAgICAgICAgICAgICAgICAgbWF4OiA5CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0sCg==</text>
       </register>
       <register name=":" type="4">
         <text>action NextTab</text>
@@ -2784,7 +2785,7 @@
       <last-replace>setting</last-replace>
       <last-substitute>ldarSetting</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
