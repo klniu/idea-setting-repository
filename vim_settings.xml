@@ -53,11 +53,11 @@
         <mark key="^" line="12" column="39" />
         <mark key="." line="14" column="37" />
       </file>
-      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/ComponentServiceImpl.java" timestamp="1520575466231">
+      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/ComponentServiceImpl.java" timestamp="1520578828368">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="152" column="65" />
-        <mark key="]" line="152" column="65" />
-        <mark key="." line="152" column="65" />
+        <mark key="[" line="131" column="51" />
+        <mark key="]" line="131" column="51" />
+        <mark key="." line="131" column="51" />
         <mark key="^" line="223" column="40" />
       </file>
       <file name="D:/code/web/voc-ui/src/app/heroes/heroes.component.css" timestamp="1517985679769">
@@ -655,7 +655,7 @@
         <mark key="^" line="53" column="12" />
         <mark key="." line="53" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520575706457">
+      <file name="/Dummy.txt" timestamp="1520579008644">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="27" />
         <mark key="." line="0" column="0" />
@@ -2182,8 +2182,8 @@
         <mark key="^" line="34" column="30" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/ComponentServiceImplTest.java" timestamp="1520575851820">
-        <mark key="'" line="246" column="43" />
+      <file name="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/ComponentServiceImplTest.java" timestamp="1520578798301">
+        <mark key="'" line="163" column="44" />
         <mark key="[" line="196" column="104" />
         <mark key="]" line="196" column="104" />
         <mark key="." line="196" column="104" />
@@ -2533,7 +2533,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="15" filename="D:/code/web/nz-schema-form/package.json" />
       <jump line="56" column="7" filename="D:/code/web/nz-schema-form/package.json" />
       <jump line="66" column="14" filename="D:/code/web/nz-schema-form/package.json" />
       <jump line="96" column="34" filename="D:/code/python/utils/office/exportpdf.py" />
@@ -2633,6 +2632,7 @@
       <jump line="245" column="0" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/ComponentServiceImplTest.java" />
       <jump line="70" column="0" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/ComponentServiceImplTest.java" />
       <jump line="246" column="43" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/ComponentServiceImplTest.java" />
+      <jump line="163" column="44" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/ComponentServiceImplTest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2656,7 +2656,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>+</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2763,7 +2763,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>+</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21wb25lbnRDb25kaXRpb25zXD4=</text>
