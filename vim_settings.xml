@@ -35,6 +35,12 @@
         <mark key="^" line="83" column="25" />
         <mark key="." line="83" column="25" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cb6e028b-04c0-427c-be30-b4d266fe8774/console.sql" timestamp="1514516804362">
+        <mark key="[" line="42" column="28" />
+        <mark key="]" line="42" column="28" />
+        <mark key="." line="42" column="28" />
+        <mark key="^" line="43" column="31" />
+      </file>
       <file name="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/entity/enums/RoleName.java" timestamp="1510214079592">
         <mark key="[" line="7" column="21" />
         <mark key="]" line="7" column="30" />
@@ -47,12 +53,12 @@
         <mark key="^" line="12" column="39" />
         <mark key="." line="14" column="37" />
       </file>
-      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/ComponentServiceImpl.java" timestamp="1519648241806">
+      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/ComponentServiceImpl.java" timestamp="1520659354139">
         <mark key="'" line="55" column="0" />
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
-        <mark key="^" line="55" column="80" />
+        <mark key="[" line="188" column="32" />
+        <mark key="]" line="188" column="39" />
+        <mark key="." line="188" column="62" />
+        <mark key="^" line="188" column="62" />
       </file>
       <file name="D:/code/web/voc-ui/src/app/heroes/heroes.component.css" timestamp="1517985679769">
         <mark key="[" line="0" column="0" />
@@ -124,12 +130,6 @@
         <mark key="]" line="52" column="12" />
         <mark key="^" line="52" column="12" />
         <mark key="." line="52" column="12" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.java" timestamp="1515290836374">
-        <mark key="[" line="7" column="30" />
-        <mark key="]" line="7" column="38" />
-        <mark key="^" line="7" column="38" />
-        <mark key="." line="7" column="38" />
       </file>
       <file name="D:/code/python/autostock/trade.py" timestamp="1513396631635">
         <mark key="[" line="52" column="15" />
@@ -1240,6 +1240,12 @@
         <mark key="^" line="13" column="12" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/common/Project.java" timestamp="1520659102438">
+        <mark key="[" line="61" column="64" />
+        <mark key="]" line="61" column="70" />
+        <mark key="^" line="61" column="70" />
+        <mark key="." line="61" column="70" />
+      </file>
       <file name="D:/code/java/voc/src/test/resources/sql/init.sql" timestamp="1519648695259">
         <mark key="'" line="51" column="28" />
         <mark key="[" line="59" column="17" />
@@ -1540,6 +1546,12 @@
         <mark key="^" line="98" column="34" />
         <mark key="." line="98" column="34" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.java" timestamp="1515290836374">
+        <mark key="[" line="7" column="30" />
+        <mark key="]" line="7" column="38" />
+        <mark key="^" line="7" column="38" />
+        <mark key="." line="7" column="38" />
+      </file>
       <file name="D:/code/python/autostock/quotation.py" timestamp="1513395435718">
         <mark key="[" line="21" column="20" />
         <mark key="]" line="21" column="21" />
@@ -1614,7 +1626,7 @@
         <mark key="^" line="46" column="19" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/entity/LdarRule.java" timestamp="1518405432560">
+      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/entity/LdarRule.java" timestamp="1520658947789">
         <mark key="[" line="46" column="20" />
         <mark key="]" line="46" column="26" />
         <mark key="." line="46" column="26" />
@@ -1821,12 +1833,6 @@
         <mark key="]" line="78" column="22" />
         <mark key="." line="78" column="22" />
         <mark key="^" line="78" column="22" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cb6e028b-04c0-427c-be30-b4d266fe8774/console.sql" timestamp="1514516804362">
-        <mark key="[" line="42" column="28" />
-        <mark key="]" line="42" column="28" />
-        <mark key="." line="42" column="28" />
-        <mark key="^" line="43" column="31" />
       </file>
       <file name="$USER_HOME$/sync/code/java/livesim/build.gradle" timestamp="1479443435078">
         <mark key="[" line="5" column="24" />
@@ -2650,7 +2656,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>编写</text>
+        <text>Document</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2757,7 +2763,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>编写</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text>de</text>
@@ -2803,7 +2809,7 @@
       <last-replace>setting</last-replace>
       <last-substitute>ldarSetting</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
