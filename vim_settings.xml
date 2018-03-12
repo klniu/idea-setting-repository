@@ -641,7 +641,7 @@
         <mark key="^" line="53" column="12" />
         <mark key="." line="53" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520582076136">
+      <file name="/Dummy.txt" timestamp="1520834055729">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -766,6 +766,11 @@
         <mark key="]" line="8" column="23" />
         <mark key="^" line="8" column="23" />
         <mark key="." line="8" column="23" />
+      </file>
+      <file name="D:/code/web/voc-ui/src/app/routes/forms/standard/standard.component.html" timestamp="1520834736710">
+        <mark key="'" line="197" column="40" />
+        <mark key="[" line="302" column="28" />
+        <mark key="]" line="302" column="58" />
       </file>
       <file name="$USER_HOME$/code/java/vocs/src/main/java/com/klniu/voc/web/LdarSettingController.java" timestamp="1508653638324">
         <mark key="[" line="16" column="11" />
@@ -2100,6 +2105,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="D:/code/web/voc-ui/src/app/routes/ldar/tools/tools.component.html" timestamp="1520835224376">
+        <mark key="[" line="21" column="57" />
+        <mark key="]" line="21" column="58" />
+        <mark key="." line="21" column="57" />
+        <mark key="^" line="21" column="43" />
+      </file>
       <file name="D:/code/java/voc/src/test/java/com/cnvoc/voc/common/TagFormatterTest.java" timestamp="1516188105891">
         <mark key="[" line="29" column="25" />
         <mark key="]" line="29" column="26" />
@@ -2368,6 +2379,12 @@
         <mark key="." line="72" column="0" />
         <mark key="^" line="81" column="30" />
       </file>
+      <file name="D:/code/web/voc-ui/src/app/routes/ldar/tools/tools.component.ts" timestamp="1520835173774">
+        <mark key="[" line="33" column="57" />
+        <mark key="]" line="33" column="58" />
+        <mark key="." line="33" column="58" />
+        <mark key="^" line="33" column="58" />
+      </file>
       <file name="$USER_HOME$/workdir/code/clear/build.gradle" timestamp="1500536437307">
         <mark key="[" line="59" column="0" />
         <mark key="]" line="59" column="0" />
@@ -2512,9 +2529,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="D:/code/web/voc-ui/src/app/routes/ldar/component/component.component.ts" />
-      <jump line="10" column="9" filename="D:/code/web/voc-ui/src/app/routes/ldar/component/component.service.ts" />
-      <jump line="0" column="0" filename="D:/code/web/voc-ui/src/app/routes/ldar/component/component-form.component.html" />
       <jump line="55" column="28" filename="D:/code/web/voc-ui/src/app/routes/ldar/component/component.component.html" />
       <jump line="106" column="15" filename="D:/code/web/voc-ui/src/app/routes/ldar/component/component.component.html" />
       <jump line="105" column="0" filename="D:/code/web/voc-ui/src/app/routes/ldar/component/component.component.html" />
@@ -2612,6 +2626,9 @@
       <jump line="3" column="14" filename="D:/code/web/voc-ui/src/app/routes/ldar/component/component.component.less" />
       <jump line="251" column="57" filename="D:/code/web/voc-ui/src/app/routes/ldar/component/component.component.ts" />
       <jump line="9" column="44" filename="D:/code/web/voc-ui/src/app/routes/ldar/component/component.component.ts" />
+      <jump line="289" column="35" filename="D:/code/web/voc-ui/src/app/routes/forms/standard/standard.component.html" />
+      <jump line="15" column="26" filename="D:/code/web/voc-ui/src/app/routes/ldar/tools/tools.component.html" />
+      <jump line="197" column="40" filename="D:/code/web/voc-ui/src/app/routes/forms/standard/standard.component.html" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2635,7 +2652,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>编写</text>
+        <text>}</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2742,58 +2759,56 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>编写</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
-        <text>de</text>
+        <text>casca</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuaXNQaG90b0xvYWRpbmcgPSBmYWxzZTsK</text>
+      <register name="0" type="4">
+        <text>(nzChange)=&quot;changeCity($event)&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuaXNQaG90b0xvYWRpbmcgPSBmYWxzZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuaXNQaG90b0xvYWRpbmcgPSBmYWxzZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZGl2IG56LWZvcm0taXRlbSBuei1yb3cgY2xhc3M9Im1iMCI+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5pc1Bob3RvTG9hZGluZyA9IGZhbHNlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvZmllbGRzZXQ+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5pc1Bob3RvTG9hZGluZyA9IGZhbHNlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxmaWVsZHNldD4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5pc1Bob3RvTG9hZGluZyA9IGZhbHNlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgbnotZm9ybS1pdGVtIG56LXJvdyBjbGFzcz0ibWIwIj4KICAgICAgICAgICAgICAgICAgICA8ZGl2IG56LWZvcm0tY29udHJvbCBuei1jb2wgW256U3Bhbl09IicxOSciIFtuek9mZnNldF09IicxMiciPgogICAgICAgICAgICAgICAgICAgICAgICA8YnV0dG9uIG56LWJ1dHRvbiBjbGFzcz0ibXItc20iIFtkaXNhYmxlZF09IiFleHBvcnRQREZGb3JtLnZhbGlkIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRvd24tZmlsZSBbaHR0cC1kYXRhXT0iZGF0YSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBodHRwLXVybD0iJy9hcGkvY29tcG9uZW50L2V4cG9ydFBERi8nK3t7ZXhwb3J0UERGRm9ybS5pbnN0YWxsSWQgJiYgZXhwb3J0UERGRm9ybS5pbnN0YWxsSWRbMV19fSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmaWxlLW5hbWU9InBob3Rvcy5wZGYiPrW8s/YKICAgICAgICAgICAgICAgICAgICAgICAgPC9idXR0b24+CiAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuaXNQaG90b0xvYWRpbmcgPSBmYWxzZTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2lkdGg6IDY1MHB4Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuaXNQaG90b0xvYWRpbmcgPSBmYWxzZTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAucGhvdG8tbW9kYWwgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5pc1Bob3RvTG9hZGluZyA9IGZhbHNlOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAuYW50LXN0ZXBzIHsKICAgICAgICAgICAgbWF4LXdpZHRoOiA5NTBweDsKICAgICAgICAgICAgbWFyZ2luOiAyMHB4IGF1dG87CiAgICAgICAgfQoKICAgICAgICBbbnotZm9ybV0gewogICAgICAgICAgICBtYXJnaW46IDIwcHggYXV0bzsKICAgICAgICB9CgogICAgICAgIGFwcC1zZXR0aW5nLXN0ZXAxIFtuei1mb3JtXSB7CiAgICAgICAgICAgIG1heC13aWR0aDogNTYwcHg7CiAgICAgICAgfQoKICAgICAgICBhcHAtc2V0dGluZy1zdGVwMi01IHsKICAgICAgICAgICAgbWFyZ2luOiAyMHB4IGF1dG87CiAgICAgICAgICAgIGRpc3BsYXk6IGJsb2NrOwogICAgICAgICAgICB3aWR0aDogODAlOwogICAgICAgICAgICBtYXgtd2lkdGg6IDc2MHB4OwogICAgICAgIH0KCiAgICAgICAgYXBwLXNldHRpbmctc3RlcDItNSBbbnotZm9ybV0gewogICAgICAgICAgICB0ZXh0LWFsaWduOiBjZW50ZXI7CiAgICAgICAgfQoKICAgICAgICBhcHAtc2V0dGluZy10YWctZm9ybWF0dGVyIC5idXR0b25zIHsKICAgICAgICAgICAgbWFyZ2luOiAyMHB4IGF1dG87CiAgICAgICAgfQoKICAgICAgICBhcHAtc2V0dGluZy10YWctZm9ybWF0dGVyIFtuei1mb3JtXSB7CiAgICAgICAgICAgIG1hcmdpbi10b3A6IDIwcHg7CiAgICAgICAgICAgIGhlaWdodDogNDM4cHg7CiAgICAgICAgICAgIG92ZXJmbG93LXk6IGF1dG87CiAgICAgICAgfQoKICAgICAgICBhcHAtc2V0dGluZy1maW5pc2ggewogICAgICAgICAgICB0ZXh0LWFsaWduOiBjZW50ZXI7CiAgICAgICAgfQoKICAgICAgICAuZXh0cmEgewogICAgICAgICAgICB0ZXh0LWFsaWduOiBsZWZ0OwogICAgICAgICAgICBiYWNrZ3JvdW5kOiAjZmFmYWZhOwogICAgICAgICAgICBwYWRkaW5nOiAyNHB4IDQwcHg7CiAgICAgICAgICAgIGJvcmRlci1yYWRpdXM6IDJweDsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5pc1Bob3RvTG9hZGluZyA9IGZhbHNlOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text>action PreviousTab</text>
       </register>
     </registers>
     <search>
-      <last-search>de</last-search>
+      <last-search>casca</last-search>
       <last-offset />
-      <last-pattern>de</last-pattern>
+      <last-pattern>casca</last-pattern>
       <last-replace>setting</last-replace>
       <last-substitute>ldarSetting</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>factory</entry>
-        <entry>cache</entry>
         <entry encoding="base64">XDxhcHBTZXJ2aWNlXD4=</entry>
         <entry>reset</entry>
         <entry encoding="base64">XDxvcHRpb25zXD4=</entry>
@@ -2812,6 +2827,8 @@
         <entry encoding="base64">XDxjb21wb25lbnRDb25kaXRpb25zXD4=</entry>
         <entry>full</entry>
         <entry>de</entry>
+        <entry>fieldset</entry>
+        <entry>casca</entry>
       </history-search>
       <history-cmd>
         <entry>%s/LdarStandard/Install</entry>
@@ -2831,9 +2848,9 @@
         <entry encoding="base64">JzwsJz5zL2NvbXBvbmVudC9zZWFsL2dj</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz5zL2xkYXJTZXR0aW5nL3NldHRpbmcvZ2M=</entry>
-        <entry>action PreviousTab</entry>
-        <entry>action NextTab</entry>
         <entry>action ReformatCode</entry>
+        <entry>action NextTab</entry>
+        <entry>action PreviousTab</entry>
       </history-cmd>
       <history-expr />
       <history-input />
