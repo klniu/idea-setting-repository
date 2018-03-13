@@ -35,6 +35,12 @@
         <mark key="^" line="83" column="25" />
         <mark key="." line="83" column="25" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cb6e028b-04c0-427c-be30-b4d266fe8774/console.sql" timestamp="1514516804362">
+        <mark key="[" line="42" column="28" />
+        <mark key="]" line="42" column="28" />
+        <mark key="." line="42" column="28" />
+        <mark key="^" line="43" column="31" />
+      </file>
       <file name="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/entity/enums/RoleName.java" timestamp="1510214079592">
         <mark key="[" line="7" column="21" />
         <mark key="]" line="7" column="30" />
@@ -124,12 +130,6 @@
         <mark key="]" line="52" column="12" />
         <mark key="^" line="52" column="12" />
         <mark key="." line="52" column="12" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.java" timestamp="1515290836374">
-        <mark key="[" line="7" column="30" />
-        <mark key="]" line="7" column="38" />
-        <mark key="^" line="7" column="38" />
-        <mark key="." line="7" column="38" />
       </file>
       <file name="D:/code/python/autostock/trade.py" timestamp="1513396631635">
         <mark key="[" line="52" column="15" />
@@ -1611,6 +1611,12 @@
         <mark key="^" line="98" column="34" />
         <mark key="." line="98" column="34" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.java" timestamp="1515290836374">
+        <mark key="[" line="7" column="30" />
+        <mark key="]" line="7" column="38" />
+        <mark key="^" line="7" column="38" />
+        <mark key="." line="7" column="38" />
+      </file>
       <file name="D:/code/python/autostock/quotation.py" timestamp="1513395435718">
         <mark key="[" line="21" column="20" />
         <mark key="]" line="21" column="21" />
@@ -1915,12 +1921,6 @@
         <mark key="." line="78" column="22" />
         <mark key="^" line="78" column="22" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cb6e028b-04c0-427c-be30-b4d266fe8774/console.sql" timestamp="1514516804362">
-        <mark key="[" line="42" column="28" />
-        <mark key="]" line="42" column="28" />
-        <mark key="." line="42" column="28" />
-        <mark key="^" line="43" column="31" />
-      </file>
       <file name="$USER_HOME$/sync/code/java/livesim/build.gradle" timestamp="1479443435078">
         <mark key="[" line="5" column="24" />
         <mark key="]" line="5" column="25" />
@@ -2180,12 +2180,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="D:/code/java/voc/src/main/resources/sql/schema.sql" timestamp="1519648686017">
+      <file name="D:/code/java/voc/src/main/resources/sql/schema.sql" timestamp="1520923195941">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="122" column="32" />
-        <mark key="]" line="122" column="38" />
-        <mark key="^" line="122" column="38" />
-        <mark key="." line="122" column="38" />
+        <mark key="[" line="394" column="12" />
+        <mark key="]" line="394" column="16" />
+        <mark key="^" line="394" column="16" />
+        <mark key="." line="394" column="16" />
       </file>
       <file name="$USER_HOME$/code/java/law/src/main/resources/mapper/LawMapper.xml" timestamp="1507778383686">
         <mark key="[" line="19" column="0" />
@@ -2792,8 +2792,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLnBpKTsK</text>
+      <register name="&quot;" type="4">
+        <text>finished</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2900,7 +2900,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>isSelectAllPages?'':</text>
+        <text>finished</text>
       </register>
       <register name="/" type="4">
         <text>total</text>
@@ -2912,7 +2912,7 @@
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLnBpKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxidXR0b24gbnotYnV0dG9uICpuZ0lmPSJzZWxlY3RlZFJvd3MubGVuZ3RoID4gMCIgc3R5bGU9Im1hcmdpbi1sZWZ0OiAxMHB4OyIgW256U2l6ZV09IidsYXJnZSciCiAgICAgICAgICAgICAgICAgICAgICAgIChjbGljayk9ImhhbmRsZVNlbGVjdEFsbFBhZ2VzKCkiPgogICAgICAgICAgICAgICAgICAgIDxpIGNsYXNzPSJhbnRpY29uIGFudGljb24tc2VsZWN0Ij48L2k+PHNwYW4+e3tpc1NlbGVjdEFsbFBhZ2VzPyfIoc/7v+fSs8ir0aEnOie/59KzyKvRoSd9fTwvc3Bhbj4KICAgICAgICAgICAgICAgIDwvYnV0dG9uPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxidXR0b24gbnotYnV0dG9uICpuZ0lmPSJzZWxlY3RlZFJvd3MubGVuZ3RoID4gMCIgc3R5bGU9Im1hcmdpbi1sZWZ0OiAxMHB4OyIgW256U2l6ZV09IidsYXJnZSciCiAgICAgICAgICAgICAgICAgICAgICAgIChjbGljayk9ImhhbmRsZVNlbGVjdEFsbFBhZ2VzKCkiPgogICAgICAgICAgICAgICAgICAgIDxpIGNsYXNzPSJhbnRpY29uIGFudGljb24tc2VsZWN0Ij48L2k+PHNwYW4+e3tpc1NlbGVjdEFsbFBhZ2VzPyfIoe+/ve+/ve+/ve+/vdKzyKvRoSc6J++/ve+/vdKzyKvRoSd9fTwvc3Bhbj4KICAgICAgICAgICAgICAgIDwvYnV0dG9uPgo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBpZiAodGhpcy5pc1NlbGVjdEFsbFBhZ2VzKSB7CiAgICAgICAgICAgIHRoaXMuX2NoZWNrQWxsKCk7CiAgICAgICAgfSBlbHNlIHsKCiAgICAgICAgfQo=</text>
@@ -2946,7 +2946,7 @@
       <last-replace>setting</last-replace>
       <last-substitute>de</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
