@@ -357,7 +357,6 @@
         <mark key="." line="23" column="32" />
         <mark key="^" line="23" column="32" />
       </file>
-      <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/model_test.go" timestamp="1520763195461" />
       <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/entity/enums/SealType.java" timestamp="1518409372772">
         <mark key="[" line="11" column="15" />
         <mark key="]" line="11" column="14" />
@@ -382,6 +381,10 @@
         <mark key="]" line="12" column="0" />
         <mark key="^" line="10" column="9" />
         <mark key="." line="12" column="0" />
+      </file>
+      <file name="D:/code/web/voc-ui/src/app/routes/base/factory/factory-form.component.html" timestamp="1520904905786">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="10" column="48" />
       </file>
       <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/entity/Factory.java" timestamp="1518393317158">
         <mark key="[" line="53" column="30" />
@@ -788,10 +791,10 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="D:/code/web/voc-ui/src/app/routes/ldar/component/component.component.html" timestamp="1520844126672">
-        <mark key="'" line="77" column="49" />
-        <mark key="[" line="76" column="40" />
-        <mark key="]" line="76" column="58" />
+      <file name="D:/code/web/voc-ui/src/app/routes/ldar/component/component.component.html" timestamp="1520904553848">
+        <mark key="'" line="243" column="35" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="44" column="31" />
         <mark key="^" line="76" column="58" />
         <mark key="." line="76" column="58" />
       </file>
@@ -2234,12 +2237,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="D:/code/web/voc-ui/src/app/routes/ldar/tools/tools.component.html" timestamp="1520840744615">
-        <mark key="'" line="22" column="35" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="22" column="67" />
+      <file name="D:/code/web/voc-ui/src/app/routes/ldar/tools/tools.component.html" timestamp="1520907459220">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="53" column="17" />
+        <mark key="]" line="53" column="25" />
+        <mark key="^" line="53" column="25" />
+        <mark key="." line="53" column="25" />
       </file>
       <file name="D:/code/java/voc/src/test/java/com/cnvoc/voc/common/TagFormatterTest.java" timestamp="1516188105891">
         <mark key="[" line="29" column="25" />
@@ -2662,6 +2665,12 @@
         <mark key="." line="16" column="24" />
         <mark key="^" line="16" column="24" />
       </file>
+      <file name="D:/code/web/voc-ui/src/app/routes/ldar/ldarsetting/step2-5.component.html" timestamp="1520905870453">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="70" column="5" />
+        <mark key="." line="64" column="15" />
+        <mark key="^" line="64" column="15" />
+      </file>
       <file name="$USER_HOME$/sync/code/go/src/zhvocs/packall.sh" timestamp="1490082363947">
         <mark key="[" line="1" column="146" />
         <mark key="]" line="1" column="152" />
@@ -2670,9 +2679,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="126" column="29" filename="D:/code/web/voc-ui/src/app/routes/ldar/component/component-form.component.ts" />
-      <jump line="19" column="41" filename="D:/code/web/voc-ui/src/app/routes/common/api.service.ts" />
-      <jump line="40" column="30" filename="D:/code/web/voc-ui/src/app/routes/ldar/unit/unit.component.ts" />
       <jump line="83" column="0" filename="D:/code/web/voc-ui/src/app/routes/ldar/component/component.service.ts" />
       <jump line="29" column="4" filename="D:/code/web/voc-ui/src/app/routes/ldar/component/component.service.ts" />
       <jump line="91" column="59" filename="D:/code/web/voc-ui/src/app/routes/ldar/component/component.component.html" />
@@ -2770,6 +2776,9 @@
       <jump line="203" column="94" filename="D:/code/web/voc-ui/src/app/routes/ldar/component/component.component.html" />
       <jump line="16" column="0" filename="D:/code/web/voc-ui/src/app/routes/ldar/component/component.component.ts" />
       <jump line="76" column="49" filename="D:/code/web/voc-ui/src/app/routes/ldar/component/component.component.html" />
+      <jump line="4" column="0" filename="D:/code/web/voc-ui/src/app/routes/ldar/tools/tools.component.html" />
+      <jump line="38" column="0" filename="D:/code/web/voc-ui/src/app/routes/ldar/component/component.component.html" />
+      <jump line="243" column="35" filename="D:/code/web/voc-ui/src/app/routes/ldar/component/component.component.html" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2792,8 +2801,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLnBpKTsK</text>
+      <register name="&quot;" type="4">
+        <text>新生成组件及密封点编码</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2900,49 +2909,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>isSelectAllPages?'':</text>
+        <text>新生成组件及密封点编码</text>
       </register>
       <register name="/" type="4">
-        <text>total</text>
+        <text>tip</text>
       </register>
-      <register name="0" type="4">
-        <text>'已选择 '+ total + ' 个'</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIDxuei1jYXJkPgogICAgICAgIDxuZy10ZW1wbGF0ZSAjdGl0bGU+CiAgICAgICAgICAgIDxoMz7W2NDCyfqzydfpvP68sMPct+K147Hgwus8L2gzPgogICAgICAgIDwvbmctdGVtcGxhdGU+CiAgICAgICAgPG5nLXRlbXBsYXRlICNib2R5PgogICAgICAgICAgICA8ZGl2IG56LWZvcm0taXRlbSBuei1yb3cgY2xhc3M9Im1iMCI+CiAgICAgICAgICAgICAgICA8bnotcG9wY29uZmlybSBbbnpUaXRsZV09IifV4srH0ruyvc6jz9W1xLLZ1/ejrMT6yLfIz9LRvq2y6b+0uf3LtcP3sqLIt8jP1tjQwsn6s8k/JyIgW256T2tUZXh0XT0iJ8i3tqgnIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgW256Q2FuY2VsVGV4dF09IifIoc/7JyIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIChuek9uQ29uZmlybSk9ImRlbGV0ZUNvbXBvbmVudHMoKSI+CiAgICAgICAgICAgICAgICAgICAgPGJ1dHRvbiBzdHlsZT0ibWFyZ2luLXJpZ2h0OiAxMHB4OyIgbnotcG9wY29uZmlybSBuei1idXR0b24gW256VHlwZV09IidkYW5nZXInIiBbbnpTaXplXT0iJ2xhcmdlJyI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxpIGNsYXNzPSJhbnRpY29uIGFudGljb24tc2FmZXR5Ij48L2k+PHNwYW4+1tjQwsn6s8kKICAgICAgICAgICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgPC9idXR0b24+CiAgICAgICAgICAgICAgICA8L256LXBvcGNvbmZpcm0+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8ZGl2IGNsYXNzPSJib3JkZXItdG9wLTEgbXQtbGcgcHgtbGcgdGV4dC1ncmV5LWRhcmsiPgogICAgICAgICAgICAgICAgPHAgY2xhc3M9Im1iLXNtIj60y7LZ1/e9q7j5vt1MREFSyejWw9bY0MLJ+rPJ1+m8/ryww9y34rXjtcRUYWejrNLytMu74dTss8nS0b6tz8LU2LXEzby1tdPrz7XNs8TaseDC67K7ttTTpqOsx+vIt8jP0OjSqta00NC0y7LZ1/ejrLKi1NrJ+rPJzeqxz7rz1tjQws/C1NjNvLW1oaM8L3A+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvbmctdGVtcGxhdGU+CiAgICA8L256LWNhcmQ+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLnBpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxuei10b29sdGlwIFtuelRpdGxlXT0iJyI+CiAgICAgICAgICAgICAgICAgICAgPGkgbnotdG9vbHRpcCBjbGFzcz0iYW50aWNvbiBhbnRpY29uLXF1ZXN0aW9uLWNpcmNsZS1vIj48L2k+CiAgICAgICAgICAgICAgICA8L256LXRvb2x0aXA+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxidXR0b24gbnotYnV0dG9uICpuZ0lmPSJzZWxlY3RlZFJvd3MubGVuZ3RoID4gMCIgc3R5bGU9Im1hcmdpbi1sZWZ0OiAxMHB4OyIgW256U2l6ZV09IidsYXJnZSciCiAgICAgICAgICAgICAgICAgICAgICAgIChjbGljayk9ImhhbmRsZVNlbGVjdEFsbFBhZ2VzKCkiPgogICAgICAgICAgICAgICAgICAgIDxpIGNsYXNzPSJhbnRpY29uIGFudGljb24tc2VsZWN0Ij48L2k+PHNwYW4+e3tpc1NlbGVjdEFsbFBhZ2VzPyfIoc/7v+fSs8ir0aEnOie/59KzyKvRoSd9fTwvc3Bhbj4KICAgICAgICAgICAgICAgIDwvYnV0dG9uPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxoMyBjbGFzcz0iaDMgbXktbWQiPsu1w/c8L2gzPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodGhpcy5pc1NlbGVjdEFsbFBhZ2VzKSB7CiAgICAgICAgICAgIHRoaXMuX2NoZWNrQWxsKCk7CiAgICAgICAgfSBlbHNlIHsKCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPG56LWRpdmlkZXI+PC9uei1kaXZpZGVyPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5fYWxsQ2hlY2tlZCA9IHRydWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPG56LWRpdmlkZXI+PC9uei1kaXZpZGVyPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5fYWxsQ2hlY2tlZCA9IHRydWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGgyPtfpvP7NvLW1tbyz9jwvaDI+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLl9jaGVja0FsbCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGgyPtbY0MLJ+rPJ1+m8/ryww9y34rXjseDC6zwvaDI+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBDYXJkIHRpdGxlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGgyPtfpvP7NvLW1tbyz9jwvaDI+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodGhpcy5pc1NlbGVjdEFsbFBhZ2VzKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxwPtb30qrTw9PavefD5rXEz9TKvqOstbzI67HtuPG1yNKyu+G9q7jD1tDOxMP7s8bX986qz+DTpsDg0M2x6sq2PC9wPgo=</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
-      <last-search>total</last-search>
+      <last-search>tip</last-search>
       <last-offset />
-      <last-pattern>total</last-pattern>
+      <last-pattern>tip</last-pattern>
       <last-replace>setting</last-replace>
       <last-substitute>de</last-substitute>
       <last-dir>1</last-dir>
@@ -2950,7 +2959,6 @@
     </search>
     <history>
       <history-search>
-        <entry>unit</entry>
         <entry encoding="base64">XDxsb2FkQ29tcG9uZW50c1w+</entry>
         <entry>component</entry>
         <entry>asdfasdf</entry>
@@ -2970,6 +2978,7 @@
         <entry>body</entry>
         <entry encoding="base64">XDx0b3RhbFw+</entry>
         <entry>total</entry>
+        <entry>tip</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ldarStandard/install</entry>
@@ -2986,11 +2995,11 @@
         <entry>%s/Unit/Component/gc</entry>
         <entry>%s/unit/component/gc</entry>
         <entry encoding="base64">JzwsJz5zL2NvbXBvbmVudC9zZWFsL2dj</entry>
-        <entry>q</entry>
         <entry encoding="base64">JzwsJz5zL2xkYXJTZXR0aW5nL3NldHRpbmcvZ2M=</entry>
+        <entry>e down-file.directive.ts</entry>
+        <entry>q</entry>
         <entry>action NextTab</entry>
         <entry>action PreviousTab</entry>
-        <entry>e down-file.directive.ts</entry>
         <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
