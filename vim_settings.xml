@@ -2180,12 +2180,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="D:/code/java/voc/src/main/resources/sql/schema.sql" timestamp="1520923195941">
+      <file name="D:/code/java/voc/src/main/resources/sql/schema.sql" timestamp="1520925784845">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="394" column="12" />
-        <mark key="]" line="394" column="16" />
-        <mark key="^" line="394" column="16" />
-        <mark key="." line="394" column="16" />
+        <mark key="[" line="394" column="21" />
+        <mark key="]" line="394" column="21" />
+        <mark key="^" line="394" column="21" />
+        <mark key="." line="394" column="21" />
       </file>
       <file name="$USER_HOME$/code/java/law/src/main/resources/mapper/LawMapper.xml" timestamp="1507778383686">
         <mark key="[" line="19" column="0" />
@@ -2793,7 +2793,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>finished</text>
+        <text>delay_count</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2900,13 +2900,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>finished</text>
+        <text>delay_count</text>
       </register>
       <register name="/" type="4">
         <text>total</text>
       </register>
-      <register name="0" type="4">
-        <text>'已选择 '+ total + ' 个'</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBgZGVsYXlfY291bnRgICAgICAgIElOVCAgICAgICBOT1QgTlVMTCBERUZBVUxUIDAgQ09NTUVOVCAn5bu26L+f57u05L+u5pWw6YePJywK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLnBpKTsK</text>
