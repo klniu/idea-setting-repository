@@ -53,6 +53,10 @@
         <mark key="^" line="12" column="39" />
         <mark key="." line="14" column="37" />
       </file>
+      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/ComponentServiceImpl.java" timestamp="1521028179205">
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="114" column="4" />
+      </file>
       <file name="D:/code/web/voc-ui/src/app/heroes/heroes.component.css" timestamp="1517985679769">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="47" column="0" />
@@ -741,11 +745,11 @@
         <mark key="^" line="18" column="1" />
         <mark key="." line="18" column="2" />
       </file>
-      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/IDetectionService.java" timestamp="1518417071813">
-        <mark key="[" line="21" column="30" />
-        <mark key="]" line="21" column="40" />
-        <mark key="." line="21" column="40" />
-        <mark key="^" line="21" column="40" />
+      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/IDetectionService.java" timestamp="1521028343821">
+        <mark key="[" line="26" column="85" />
+        <mark key="]" line="28" column="41" />
+        <mark key="." line="28" column="41" />
+        <mark key="^" line="28" column="41" />
       </file>
       <file name="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/service/impl/RoleServiceImpl.java" timestamp="1510217488031">
         <mark key="[" line="26" column="15" />
@@ -1268,6 +1272,13 @@
         <mark key="]" line="229" column="17" />
         <mark key="^" line="190" column="0" />
         <mark key="." line="229" column="17" />
+      </file>
+      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/DetectionServiceImpl.java" timestamp="1521028719020">
+        <mark key="'" line="41" column="20" />
+        <mark key="[" line="81" column="53" />
+        <mark key="]" line="81" column="57" />
+        <mark key="." line="81" column="57" />
+        <mark key="^" line="81" column="57" />
       </file>
       <file name="$USER_HOME$/workdir/code/now-antd-js/src/App.css" timestamp="1499414625520">
         <mark key="[" line="18" column="1" />
@@ -2071,6 +2082,11 @@
         <mark key="^" line="25" column="20" />
         <mark key="." line="25" column="20" />
       </file>
+      <file name="D:/code/java/voc/src/main/resources/mapper/DetectionMapper.xml" timestamp="1521028804705">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
       <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/entity/LdarStateSetting.java" timestamp="1519648432050">
         <mark key="'" line="268" column="4" />
         <mark key="[" line="30" column="18" />
@@ -2644,8 +2660,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="D:/code/web/voc-web/src/app/routes/ldar/component/component.component.ts" />
-      <jump line="85" column="15" filename="D:/code/web/voc-web/src/app/routes/ldar/standard/standard.component.html" />
       <jump line="0" column="0" filename="D:/code/web/voc-web/src/app/routes/ldar/standard/standard.component.html" />
       <jump line="0" column="0" filename="D:/code/web/voc-web/src/app/routes/ldar/component/component.component.html" />
       <jump line="18" column="28" filename="D:/code/web/voc-web/src/app/routes/ldar/component/component.component.html" />
@@ -2744,6 +2758,8 @@
       <jump line="396" column="2" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
       <jump line="4" column="29" filename="D:/code/java/mpgenerator/src/main/java/mpgenerator/VocsGenerator.java" />
       <jump line="11" column="13" filename="D:/code/java/mpgenerator/src/main/java/mpgenerator/Generator.java" />
+      <jump line="81" column="40" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/DetectionServiceImpl.java" />
+      <jump line="41" column="20" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/DetectionServiceImpl.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2767,7 +2783,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBKT0lOICJ2b2MiLmxkYXJfdHVybiB0IE9OIHQuaWQgPSBkZXRlY3Rpb24udHVybl9pZAo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2874,40 +2890,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>//</text>
+        <text>Page</text>
       </register>
       <register name="/" type="4">
         <text>over</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICBET1VCTEUgTk9UIE5VTEwgREVGQVVMVCAwLA==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIGlmIChiZWdpbiAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICBjb21wb25lbnRFbnRpdHlXcmFwcGVyLmdlKCJ0aW1lIiwgYmVnaW4pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBKT0lOICJ2b2MiLmxkYXJfdHVybiB0IE9OIHQuaWQgPSBkZXRlY3Rpb24udHVybl9pZAo=</text>
       </register>
-      <register name="2" type="8">
-        <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAog</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFBhZ2U8RGV0ZWN0aW9uPiBzZWxlY3RQYWdlQnlGYWN0b3J5SWQoUGFnZTxEZXRlY3Rpb24+IHBhZ2UsIEludGVnZXIgZmFjdG9yeUlkLiApOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBgY29ycmVsYXRpb25fZW1pc3Npb25gCg==</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIFBhZ2U8RGV0ZWN0aW9uPiBzZWxlY3RQYWdlQnlGYWN0b3J5SWQoUGFnZTxEZXRlY3Rpb24+IHBhZ2UsIEludGVnZXIgZmFjdG9yeUlkKSB7CiAgICAgICAgLy8g5Zug5Li66KaB6IGU57uTc2VhbCzmiYDku6VmYWN0b3J5X2lk5YmN6KaB5Yqg6ZmQ5a6aCiAgICAgICAgcmV0dXJuIHBhZ2Uuc2V0UmVjb3JkcyhkZXRlY3Rpb25NYXBwZXIuc2VsZWN0TGlzdChwYWdlLCBuZXcgRW50aXR5V3JhcHBlcjxEZXRlY3Rpb24+KCkuZXEoImRldGVjdGlvbi5mYWN0b3J5X2lkIiwgZmFjdG9yeUlkKSkpOwogICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKGlMZGFyVHVyblNlcnZpY2UuZGVsZXRlQnlJZChhbnkoKSkpLnRoZW5SZXR1cm4odHJ1ZSk7Cg==</text>
+        <text encoding="base64">ICAgIEBDYWNoZUV2aWN0KHZhbHVlID0gImRldGVjdGlvbnNJbkZhY3RvcnlCeVBhZ2UiLCBhbGxFbnRyaWVzID0gdHJ1ZSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbmFsCg==</text>
+        <text encoding="base64">ICAgIEBDYWNoZUV2aWN0KHZhbHVlID0gImRldGVjdGlvbnNJbkZhY3RvcnlCeVBhZ2UiLCBhbGxFbnRyaWVzID0gdHJ1ZSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCBkZWxldGUoKSB7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIEBDYWNoZUV2aWN0KHZhbHVlID0gImRldGVjdGlvbnNJbkZhY3RvcnlCeVBhZ2UiLCBhbGxFbnRyaWVzID0gdHJ1ZSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIEBDYWNoZWFibGUodmFsdWUgPSAiZGV0ZWN0aW9uc0luRmFjdG9yeUJ5UGFnZSIsIGtleSA9ICJ7ICNwYWdlLmN1cnJlbnQsICNwYWdlLnNpemUsICNmYWN0b3J5SWR9IikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
@@ -2962,9 +2978,9 @@
         <entry>q</entry>
         <entry encoding="base64">JzwsJz5zL0NvbXBvbmVudC9MZGFyVHVybi9nYw==</entry>
         <entry encoding="base64">JzwsJz5zL2NvbXBvbmVudC90dXJuL2dj</entry>
-        <entry>action PreviousTab</entry>
-        <entry>action NextTab</entry>
         <entry>%s/TEXT/VARCHAR(255)/gc</entry>
+        <entry>action NextTab</entry>
+        <entry>action PreviousTab</entry>
         <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
