@@ -667,7 +667,7 @@
         <mark key="^" line="53" column="12" />
         <mark key="." line="53" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521017920855">
+      <file name="/Dummy.txt" timestamp="1521104894311">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -2589,11 +2589,11 @@
         <mark key="." line="72" column="0" />
         <mark key="^" line="81" column="30" />
       </file>
-      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/entity/enums/CorrelationFactor.java" timestamp="1521103726387">
+      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/entity/enums/CorrelationFactor.java" timestamp="1521104884798">
         <mark key="'" line="4" column="4" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+        <mark key="[" line="61" column="140" />
+        <mark key="]" line="61" column="141" />
+        <mark key="." line="61" column="141" />
         <mark key="^" line="4" column="19" />
       </file>
       <file name="D:/code/web/voc-ui/src/app/routes/ldar/tools/tools.component.ts" timestamp="1520842011269">
@@ -3014,7 +3014,7 @@ Gas</text>
         <text encoding="base64">ICAgIFJlZmluZXJ5U2FtcGxlTGlnaHRMaXF1aWRdID0gci5jb3JyZWxhdGlvbkZhY3RvcnNbT3BlbkVuZGVkTGlnaHRMaXF1aWRdCg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL09wZW5FbmRlZEdhcy9QdW1wTGlnaHRMaXF1aWQvZ2M=</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
@@ -3060,7 +3060,6 @@ Gas</text>
         <entry>%s/0.00025/0.0375, 0.00006/gc</entry>
         <entry>%s/0.00186/0.113, 0.0000810/gc</entry>
         <entry>%s/0.00183/0.113, 0.0000810/gc</entry>
-        <entry>action ReformatCode</entry>
         <entry encoding="base64">JzwsJz4vMC4wMjY4L1JlZmluZXJ5T3RoZXJzR2FzLnZhbHVlL2dj</entry>
         <entry encoding="base64">JzwsJz4vMC4wMjY4L1JlZmluZXJ5T3RoZXJzR2FzLnZhbHVl</entry>
         <entry encoding="base64">JzwsJz4vMFwuMDI2OC9SZWZpbmVyeU90aGVyc0dhcy52YWx1ZQ==</entry>
@@ -3070,6 +3069,7 @@ Gas</text>
         <entry encoding="base64">JzwsJz5zLzAuMTEzLCAwLjAwMDA4MTAvU09DTUlGbGFuZ2VHYXMuZ3JlYXRlcjEwMDAwLCBTT0NNSUZsYW5nZUdhcy5sZXNzMTAwMDAvZ2M=</entry>
         <entry encoding="base64">JzwsJz5zL1JlZmluZXJ5L1NPQ01JL2dj</entry>
         <entry encoding="base64">JzwsJz5zL09wZW5FbmRlZEdhcy9QdW1wTGlnaHRMaXF1aWQvZ2M=</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
