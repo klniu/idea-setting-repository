@@ -22,7 +22,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>70</Count>
+          <Count>72</Count>
         </Item>
       </Statistic>
       <Statistic Action="Convert Java File to Kotlin File">
@@ -545,6 +545,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'EmissionMethodServiceTest.emission'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'EmissionMethodServiceTest.emission'</Description>
+          <Count>12</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'FactoryControllerTest.addForValid'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -670,6 +678,14 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'InstallServiceImplTest.deleteByIds'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'InstallServiceImplTest.getType'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'InstallServiceImplTest.getType'</Description>
           <Count>3</Count>
         </Item>
       </Statistic>
@@ -1198,7 +1214,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>156</Count>
+          <Count>158</Count>
         </Item>
       </Statistic>
     </option>
