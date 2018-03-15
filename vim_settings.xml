@@ -1982,7 +1982,7 @@
         <mark key="." line="30" column="34" />
         <mark key="^" line="30" column="33" />
       </file>
-      <file name="/fragment.java" timestamp="1521076107424">
+      <file name="/fragment.java" timestamp="1521087595402">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/code/java/cnooc/src/main/kotlin/com/cnvoc/cnooc/entity/manual/Company.kt" timestamp="1514536589459">
@@ -2312,11 +2312,11 @@
         <mark key="^" line="267" column="29" />
         <mark key="." line="267" column="29" />
       </file>
-      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/IEmissionMethodService.java" timestamp="1521084412402">
-        <mark key="[" line="8" column="56" />
-        <mark key="]" line="8" column="16" />
-        <mark key="^" line="8" column="16" />
-        <mark key="." line="8" column="16" />
+      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/IEmissionMethodService.java" timestamp="1521087586407">
+        <mark key="[" line="9" column="4" />
+        <mark key="]" line="9" column="12" />
+        <mark key="^" line="9" column="12" />
+        <mark key="." line="9" column="12" />
       </file>
       <file name="F:/code/java/vocs/src/main/resources/sql/schema.sql" timestamp="1514077350536">
         <mark key="[" line="371" column="17" />
@@ -2348,6 +2348,13 @@
         <mark key="]" line="4" column="27" />
         <mark key="^" line="4" column="18" />
         <mark key="." line="4" column="27" />
+      </file>
+      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/EmissionMethodServiceImpl.java" timestamp="1521088881724">
+        <mark key="'" line="58" column="33" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+        <mark key="^" line="56" column="7" />
       </file>
       <file name="$USER_HOME$/workdir/web/vocs-react/src/__test__/functions_test.ts" timestamp="1494914206302">
         <mark key="[" line="8" column="48" />
@@ -2694,7 +2701,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="229" column="66" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/ComponentServiceImpl.java" />
       <jump line="202" column="4" filename="D:/code/web/voc-web/src/app/routes/ldar/component/component.component.html" />
       <jump line="0" column="0" filename="D:/code/web/voc-web/src/app/routes/ldar/component/component.component.ts" />
       <jump line="85" column="15" filename="D:/code/web/voc-web/src/app/routes/ldar/standard/standard.component.html" />
@@ -2794,6 +2800,7 @@
       <jump line="0" column="0" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/web/LdarTurnControllerTest.java" />
       <jump line="137" column="6" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/web/LdarTurnControllerTest.java" />
       <jump line="52" column="28" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/LdarRuleServiceImpl.java" />
+      <jump line="52" column="33" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/EmissionMethodServiceImpl.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2816,8 +2823,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>screen</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2924,40 +2931,70 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>screen</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>put</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRvdWJsZSBzY3JlZW4oU2VhbFR5cGUgdHlwZSwgIFNlcnZpY2Ugc2VydmljZSk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uY252b2Mudm9jLmVudGl0eS5lbnVtcy5TZWFsVHlwZS5QcmVzc3VyZVJlbGllZjsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgOwo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmF2ZXJhZ2VGYXRvcnMucHV0KFZhbHZlLmdldFZhbHVlKCl8R2FzLmdldFZhbHVlKCksIDAuMDI2OCk7CiAgICAgICAgdGhpcy5hdmVyYWdlRmF0b3JzLnB1dChWYWx2ZS5nZXRWYWx1ZSgpfExpZ2h0TGlxdWlkLmdldFZhbHVlKCldID0gMC4wMTA5OwogICAgICAgIHRoaXMuYXZlcmFnZUZhdG9ycy5wdXQoVmFsdmV8SGVhdnlMaXF1aWRdID0gMC4wMDAyMzsKICAgICAgICB0aGlzLmF2ZXJhZ2VGYXRvcnMucHV0KFB1bXB8TGlnaHRMaXF1aWRdID0gMC4xMTQKICAgICAgICB0aGlzLmF2ZXJhZ2VGYXRvcnMucHV0KFB1bXB8SGVhdnlMaXF1aWRdID0gMC4wMjEKICAgICAgICB0aGlzLmF2ZXJhZ2VGYXRvcnMucHV0KEFnaXRhdG9yfExpZ2h0TGlxdWlkXSA9IDAuMTE0CiAgICAgICAgLy8gaWdub3JlZCBieSDjgIrnn7PljJbooYzkuJogVk9DcyDmsaHmn5PmupDmjpLmn6Xlt6XkvZzmjIfljZco5Y+R5biDKeOAiwogICAgICAgIC8vIHRoaXMuYXZlcmFnZUZhdG9yc1tBZ2l0YXRvcnxIZWF2eUxpcXVpZF0gPSAwLjExNAogICAgICAgIHRoaXMuYXZlcmFnZUZhdG9yc1tDb21wcmVzc29yfEdhc10gPSAwLjYzNgogICAgICAgIHRoaXMuYXZlcmFnZUZhdG9yc1tQUlZ8R2FzXSA9IDAuMTYKICAgICAgICB0aGlzLmF2ZXJhZ2VGYXRvcnNbRmxhbmdlfEdhc10gPSAwLjAwMDI1CiAgICAgICAgdGhpcy5hdmVyYWdlRmF0b3JzW0ZsYW5nZXxMaWdodExpcXVpZF0gPSAwLjAwMDI1CiAgICAgICAgdGhpcy5hdmVyYWdlRmF0b3JzW0ZsYW5nZXxIZWF2eUxpcXVpZF0gPSAwLjAwMDI1CiAgICAgICAgdGhpcy5hdmVyYWdlRmF0b3JzW0pvaW50fEdhc10gPSAwLjAwMDI1CiAgICAgICAgdGhpcy5hdmVyYWdlRmF0b3JzW0pvaW50fExpZ2h0TGlxdWlkXSA9IDAuMDAwMjUKICAgICAgICB0aGlzLmF2ZXJhZ2VGYXRvcnNbSm9pbnR8SGVhdnlMaXF1aWRdID0gMC4wMDAyNQogICAgICAgIHRoaXMuYXZlcmFnZUZhdG9yc1tPcGVuRW5kZWR8R2FzXSA9IDAuMDAyMwogICAgICAgIHRoaXMuYXZlcmFnZUZhdG9yc1tPcGVuRW5kZWR8TGlnaHRMaXF1aWRdID0gMC4wMDIzCiAgICAgICAgdGhpcy5hdmVyYWdlRmF0b3JzW09wZW5FbmRlZHxIZWF2eUxpcXVpZF0gPSAwLjAwMjMKICAgICAgICB0aGlzLmF2ZXJhZ2VGYXRvcnNbU2FtcGxlfEdhc10gPSAwLjAxNTAKICAgICAgICB0aGlzLmF2ZXJhZ2VGYXRvcnNbU2FtcGxlfExpZ2h0TGlxdWlkXSA9IDAuMDE1MAogICAgICAgIHRoaXMuYXZlcmFnZUZhdG9yc1tTYW1wbGV8SGVhdnlMaXF1aWRdID0gMC4wMTUwCiAgICAgICAgdGhpcy5hdmVyYWdlRmF0b3JzW1ZhbHZlfEdhc10gPSAwLjAyNjgKICAgICAgICAvLyBzb3VyY2UgZnJvbSBnYXMgdmFsdmUKICAgICAgICB0aGlzLmF2ZXJhZ2VGYXRvcnNbT3RoZXJ8R2FzXSA9IDAuMDI2OAogICAgICAgIHRoaXMuYXZlcmFnZUZhdG9yc1tPdGhlcnxMaWdodExpcXVpZF0gPSAwLjAyNjgKICAgICAgICB0aGlzLmF2ZXJhZ2VGYXRvcnNbT3RoZXJ8SGVhdnlMaXF1aWRdID0gMC4wMjY4Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIExkYXJSdWxlIGZpbmRNYXRjaGVkUnVsZQo=</text>
+      <register name="4" type="8">
+        <text>[
+[
+[
+[
+[</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKGlMZGFyVHVyblNlcnZpY2UuZGVsZXRlQnlJZChhbnkoKSkpLnRoZW5SZXR1cm4odHJ1ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLyBzb3VyY2UgZnJvbSBnYXMgdmFsdmUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbmFsCg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLyBpZ25vcmVkIGJ5IOOAiuefs+WMluihjOS4miBWT0NzIOaxoeafk+a6kOaOkuafpeW3peS9nOaMh+WNlyjlj5HluIMp44CLCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCBkZWxldGUoKSB7CiAgICB9Cg==</text>
+      <register name="7" type="8">
+        <text>r
+r
+r
+r
+r
+r
+/
+/
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+/
+r
+r
+r</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTWFwPEludGVnZXIsIERvdWJsZT4gYXZlcmFnZUZhdG9yczsK</text>
       </register>
       <register name=":" type="4">
         <text>action NextTab</text>
