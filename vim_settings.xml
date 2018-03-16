@@ -2204,12 +2204,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="D:/code/java/voc/src/main/resources/sql/schema.sql" timestamp="1521119164974">
+      <file name="D:/code/java/voc/src/main/resources/sql/schema.sql" timestamp="1521242685699">
         <mark key="'" line="210" column="6" />
-        <mark key="[" line="454" column="3" />
-        <mark key="]" line="454" column="3" />
-        <mark key="." line="454" column="3" />
-        <mark key="^" line="454" column="2" />
+        <mark key="[" line="416" column="2" />
+        <mark key="]" line="416" column="2" />
+        <mark key="." line="416" column="2" />
+        <mark key="^" line="416" column="2" />
       </file>
       <file name="$USER_HOME$/code/java/law/src/main/resources/mapper/LawMapper.xml" timestamp="1507778383686">
         <mark key="[" line="19" column="0" />
@@ -2982,7 +2982,7 @@
         <text encoding="base64">ICBLRVkgKGBmYWN0b3J5X2lkYCwgYGFjY2Vzc2liaWxpdHlgKSwK</text>
       </register>
       <register name=":" type="4">
-        <text>action PreviousTab</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
@@ -3036,8 +3036,8 @@
         <entry encoding="base64">JzwsJz5zL1NPdGhlcnNHLnZhbHVlLzAuMDA1OTcvZ2M=</entry>
         <entry>action NextTab</entry>
         <entry encoding="base64">JzwsJz5zL09wZW5FbmRlZC9PdGhlcnMvZ2M=</entry>
-        <entry>action ReformatCode</entry>
         <entry>action PreviousTab</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
