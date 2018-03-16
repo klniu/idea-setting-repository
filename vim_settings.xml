@@ -664,7 +664,7 @@
         <mark key="^" line="53" column="12" />
         <mark key="." line="53" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521192883830">
+      <file name="/Dummy.txt" timestamp="1521196222670">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1688,12 +1688,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="D:/code/web/voc-ui/src/app/routes/ldar/detection/detection.component.html" timestamp="1521188956631">
-        <mark key="'" line="159" column="54" />
-        <mark key="[" line="157" column="0" />
-        <mark key="]" line="157" column="0" />
-        <mark key="." line="157" column="0" />
-        <mark key="^" line="152" column="66" />
+      <file name="D:/code/web/voc-ui/src/app/routes/ldar/detection/detection.component.html" timestamp="1521196204883">
+        <mark key="'" line="143" column="68" />
+        <mark key="[" line="143" column="61" />
+        <mark key="]" line="143" column="67" />
+        <mark key="." line="143" column="67" />
+        <mark key="^" line="143" column="67" />
       </file>
       <file name="$USER_HOME$/sync/code/java/xiaoyi/build.gradle" timestamp="1483964103333">
         <mark key="[" line="13" column="27" />
@@ -2705,7 +2705,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="214" column="37" filename="D:/code/web/voc-web/src/app/routes/forms/standard/standard.component.html" />
       <jump line="39" column="24" filename="D:/code/web/voc-ui/src/app/routes/ldar/tools/tools.component.ts" />
       <jump line="16" column="41" filename="D:/code/web/voc-ui/node_modules/ng-zorro-antd/src/message/nz-message.service.d.ts" />
       <jump line="276" column="30" filename="D:/code/web/voc-ui/src/app/routes/ldar/component/component.component.ts" />
@@ -2805,6 +2804,7 @@
       <jump line="13" column="29" filename="D:/code/web/voc-ui/src/app/routes/ldar/detection/detection-form.component.ts" />
       <jump line="141" column="8" filename="D:/code/web/voc-ui/src/app/routes/ldar/detection/detection-form.component.ts" />
       <jump line="10" column="0" filename="D:/code/web/voc-ui/src/app/routes/ldar/detection/detection-form.component.ts" />
+      <jump line="143" column="68" filename="D:/code/web/voc-ui/src/app/routes/ldar/detection/detection.component.html" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2828,7 +2828,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>sealType</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2935,40 +2935,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>sealType</text>
       </register>
       <register name="/" type="4">
         <text>component</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29tcGFueTogewogICAgICAgICAgICAgICAgJ3R5cGUnOiAnc3RyaW5nJywKICAgICAgICAgICAgICAgICd0aXRsZSc6ICe87LLiuavLvicsCiAgICAgICAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHRkIG56LXRkPnt7c2VydmljZS5zZWFsVHlwZU1hcHNbZGF0YS5zZWFsVHlwZSsnJ119fTwvdGQ+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHVuaXRJZCwgaW5zdGFsbElkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPG56LXRhYmxlLXNvcnQgWyhuelZhbHVlKV09InNvcnRNYXAudGFnIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgaW5zdGFsbElkID0gZm9ybS52YWx1ZS5pbnN0YWxsSWRbMV07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKG56VmFsdWVDaGFuZ2UpPSJzb3J0KCd0YWcnLCRldmVudCkiPjwvbnotdGFibGUtc29ydD4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgdW5pdElkID0gZm9ybS52YWx1ZS5pbnN0YWxsSWRbMF07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPG56LXRhYmxlLXNvcnQgWyhuelZhbHVlKV09InNvcnRNYXAudGFnIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAobnpWYWx1ZUNoYW5nZSk9InNvcnQoJ3RhZycsJGV2ZW50KSI+PC9uei10YWJsZS1zb3J0Pgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gt9a94mNhc2NhZGVyveG5+wo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGQgbnotdGQ+e3tkYXRhLn19PC90ZD4KICAgICAgICAgICAgICAgICAgICA8dGQgbnotdGQ+e3tkYXRhLmRldmljZX19PC90ZD4KICAgICAgICAgICAgICAgICAgICA8dGQgbnotdGQ+e3tzZXJ2aWNlLmRpcmVjdGlvbk1hcHNbZGF0YS5kaXJlY3Rpb25dfX08L3RkPgogICAgICAgICAgICAgICAgICAgIDx0ZCBuei10ZD57e2RhdGEuZGlzdGFuY2V9fTwvdGQ+CiAgICAgICAgICAgICAgICAgICAgPHRkIG56LXRkPnt7ZGF0YS5oZWlnaHR9fTwvdGQ+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG5nT25Jbml0KCk6IHZvaWQgewogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHRkIG56LXRkPnt7ZGF0YS5kZXZpY2VNb2RlbH19PC90ZD4KICAgICAgICAgICAgICAgICAgICAgICAgPHRkIG56LXRkPnt7ZGF0YS5kZXZpY2VOb319PC90ZD4KICAgICAgICAgICAgICAgICAgICAgICAgPHRkIG56LXRkPnt7ZGF0YS5jb21wYW55fX08L3RkPgogICAgICAgICAgICAgICAgICAgICAgICA8dGQgbnotdGQ+e3tkYXRhLnBlcnNvbnN9fTwvdGQ+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vICdidXR0b24nOiB7CiAgICAvLyAgICAgJ2l0ZW1zJzogWwogICAgLy8gICAgICAgICB7CiAgICAvLyAgICAgICAgICAgICAnbGFiZWwnOiAnzOG9uycsCiAgICAvLyAgICAgICAgICAgICAnaWQnOiAnc3VibWl0JywKICAgIC8vICAgICAgICAgICAgICdzdWJtaXQnOiB0cnVlLAogICAgLy8gICAgICAgICB9LAogICAgLy8gICAgICAgICB7CiAgICAvLyAgICAgICAgICAgICAnbGFiZWwnOiAnyKHP+ycsCiAgICAvLyAgICAgICAgICAgICAnaWQnOiAnY2FuY2VsJwogICAgLy8gICAgICAgICB9CiAgICAvLyAgICAgICAgIF0KICAgIC8vIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0aCBuei10aD48c3Bhbj687LLi0sfG9zwvc3Bhbj48L3RoPgogICAgICAgICAgICAgICAgPHRoIG56LXRoPjxzcGFuPrzssuK5q8u+PC9zcGFuPjwvdGg+CiAgICAgICAgICAgICAgICA8dGggbnotdGg+PHNwYW4+t73Ouzwvc3Bhbj48L3RoPgogICAgICAgICAgICAgICAgPHRoIG56LXRoPjxzcGFuPr7gwOs8L3NwYW4+PC90aD4KICAgICAgICAgICAgICAgIDx0aCBuei10aD48c3Bhbj6437bIPC9zcGFuPjwvdGg+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGlyZWN0aW9uOiB7CiAgICAgICAgICAgICAgICAndHlwZSc6ICdzdHJpbmcnLAogICAgICAgICAgICAgICAgJ3RpdGxlJzogJ7e9zrsnLAogICAgICAgICAgICAgICAgJ3dpZGdldCc6IHsKICAgICAgICAgICAgICAgICAgICAnaWQnOiAnc2VsZWN0JywKICAgICAgICAgICAgICAgICAgICAnZGF0YSc6IHRoaXMuc2VydmljZS5kaXJlY3Rpb25zCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0sCiAgICAgICAgICAgIGRpc3RhbmNlOiB7CiAgICAgICAgICAgICAgICAndHlwZSc6ICdudW1iZXInLAogICAgICAgICAgICAgICAgJ3RpdGxlJzogJ77gwOsnLAogICAgICAgICAgICAgICAgJ3dpZGdldCc6IHsKICAgICAgICAgICAgICAgICAgICAnaWQnOiAnbnVtYmVyJywKICAgICAgICAgICAgICAgICAgICBtaW46IDAsCiAgICAgICAgICAgICAgICAgICAgbWF4OiA5CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0sCiAgICAgICAgICAgIGhlaWdodDogewogICAgICAgICAgICAgICAgJ3R5cGUnOiAnbnVtYmVyJywKICAgICAgICAgICAgICAgICd0aXRsZSc6ICe437bIJywKICAgICAgICAgICAgICAgICd3aWRnZXQnOiB7CiAgICAgICAgICAgICAgICAgICAgJ2lkJzogJ251bWJlcicsCiAgICAgICAgICAgICAgICAgICAgbWluOiAwLAogICAgICAgICAgICAgICAgICAgIG1heDogOQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9LAogICAgICAgICAgICBkZXNjcmlwdGlvbjogewogICAgICAgICAgICAgICAgJ3R5cGUnOiAnc3RyaW5nJywKICAgICAgICAgICAgICAgICd0aXRsZSc6ICexuNeiJywKICAgICAgICAgICAgfSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGggbnotdGg+PHNwYW4+0sfG99DNusU8L3NwYW4+PC90aD4KICAgICAgICAgICAgICAgICAgICA8dGggbnotdGg+PHNwYW4+0sfG97HgusU8L3NwYW4+PC90aD4KICAgICAgICAgICAgICAgICAgICA8dGggbnotdGg+PHNwYW4+vOyy4rmry748L3NwYW4+PC90aD4KICAgICAgICAgICAgICAgICAgICA8dGggbnotdGg+PHNwYW4+vOyy4sjLPC9zcGFuPjwvdGg+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGlkTm86IHsKICAgICAgICAgICAgICAgICd0eXBlJzogJ3N0cmluZycsCiAgICAgICAgICAgICAgICAndGl0bGUnOiAnUElEzby6xScsCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgIGZsb29yOiB7CiAgICAgICAgICAgICAgICB0eXBlOiAnbnVtYmVyJywKICAgICAgICAgICAgICAgIHRpdGxlOiAnwqWy4ycsCiAgICAgICAgICAgICAgICB3aWRnZXQ6IHsKICAgICAgICAgICAgICAgICAgICBpZDogJ251bWJlcicsCiAgICAgICAgICAgICAgICAgICAgbWl4OiAxLAogICAgICAgICAgICAgICAgICAgIG1heDogOTkKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHVuaXRJZCwgaW5zdGFsbElkCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlc2NyaXB0aW9uOiAn1+m8/r+qyrzKudPDtcTI1cbao6y9q7G7tbHX99C5wqnBv7zGy+O1xNfu1OfI1cbaJywKICAgICAgICAgICAgICAgIHNob3dEZXNjcmlwdGlvbjogdHJ1ZSwKICAgICAgICAgICAgICAgIHdpZGdldDogewogICAgICAgICAgICAgICAgICAgIGlkOiAnZGF0ZScsCiAgICAgICAgICAgICAgICAgICAgZm9ybWF0OiAnWVlZWS1NTS1ERCcKICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgaW5zdGFsbElkID0gZm9ybS52YWx1ZS5pbnN0YWxsSWRbMV07Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/component/detection/gc</text>
