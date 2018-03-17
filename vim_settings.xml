@@ -960,11 +960,12 @@
         <mark key="^" line="77" column="4" />
         <mark key="." line="77" column="4" />
       </file>
-      <file name="D:/code/web/voc-web/src/app/routes/ldar/detection/detection-form.component.ts" timestamp="1521243533916">
-        <mark key="[" line="90" column="28" />
-        <mark key="]" line="90" column="28" />
-        <mark key="." line="90" column="28" />
-        <mark key="^" line="90" column="28" />
+      <file name="D:/code/web/voc-web/src/app/routes/ldar/detection/detection-form.component.ts" timestamp="1521245201771">
+        <mark key="'" line="26" column="27" />
+        <mark key="[" line="26" column="27" />
+        <mark key="]" line="26" column="27" />
+        <mark key="." line="26" column="27" />
+        <mark key="^" line="26" column="27" />
       </file>
       <file name="$USER_HOME$/workdir/lawindexer-ui/src/entry/home.tsx" timestamp="1491699934298">
         <mark key="[" line="6" column="19" />
@@ -1944,6 +1945,12 @@
         <mark key="^" line="17" column="20" />
         <mark key="." line="17" column="20" />
       </file>
+      <file name="D:/code/web/voc-web/src/app/routes/ldar/turn/turn-form.component.ts" timestamp="1521245109932">
+        <mark key="[" line="58" column="56" />
+        <mark key="]" line="58" column="57" />
+        <mark key="." line="58" column="57" />
+        <mark key="^" line="58" column="57" />
+      </file>
       <file name="D:/code/java/voc_kt/src/main/kotlin/com/cnvoc/voc/common/functions.kt" timestamp="1514786743630">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -2216,11 +2223,11 @@
         <mark key="." line="18" column="14" />
         <mark key="^" line="18" column="14" />
       </file>
-      <file name="D:/code/web/voc-web/src/app/routes/common/api.service.ts" timestamp="1520761261705">
-        <mark key="[" line="178" column="24" />
-        <mark key="]" line="178" column="24" />
-        <mark key="." line="178" column="24" />
-        <mark key="^" line="178" column="24" />
+      <file name="D:/code/web/voc-web/src/app/routes/common/api.service.ts" timestamp="1521244534332">
+        <mark key="[" line="187" column="60" />
+        <mark key="]" line="187" column="64" />
+        <mark key="." line="187" column="64" />
+        <mark key="^" line="187" column="64" />
       </file>
       <file name="D:/code/web/voc-web/src/app/routes/base/setting/step1.component.html" timestamp="1520046652925">
         <mark key="'" line="0" column="0" />
@@ -2746,9 +2753,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="430" column="74" filename="D:/code/web/voc-web/src/app/routes/forms/standard/standard.component.html" />
-      <jump line="443" column="74" filename="D:/code/web/voc-web/src/app/routes/forms/standard/standard.component.html" />
-      <jump line="446" column="74" filename="D:/code/web/voc-web/src/app/routes/forms/standard/standard.component.html" />
       <jump line="449" column="74" filename="D:/code/web/voc-web/src/app/routes/forms/standard/standard.component.html" />
       <jump line="452" column="74" filename="D:/code/web/voc-web/src/app/routes/forms/standard/standard.component.html" />
       <jump line="211" column="31" filename="D:/code/web/voc-web/src/app/routes/forms/standard/standard.component.html" />
@@ -2846,6 +2850,9 @@
       <jump line="210" column="6" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
       <jump line="96" column="53" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/DetectionServiceImpl.java" />
       <jump line="49" column="36" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/LdarRuleServiceImpl.java" />
+      <jump line="35" column="34" filename="D:/code/web/voc-web/src/app/routes/ldar/detection/detection-form.component.ts" />
+      <jump line="92" column="41" filename="D:/code/web/voc-web/src/app/routes/ldar/detection/detection-form.component.ts" />
+      <jump line="26" column="27" filename="D:/code/web/voc-web/src/app/routes/ldar/detection/detection-form.component.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2868,8 +2875,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5zY2hlbWEucAo=</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2976,7 +2983,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>司</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>install</text>
@@ -2985,31 +2992,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGdyaWQ6IHsKICAgICAgICAgICAgICAgICAgICBzcGFuOiAxMQogICAgICAgICAgICAgICAgfSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5zY2hlbWEucAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRpc2FibGVkOiBmYWxzZSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGdyaWQ6IHsKICAgICAgICAgICAgICAgICAgICBzcGFuOiAxMgogICAgICAgICAgICAgICAgfSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coMTExKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGdyaWQ6IHsKICAgICAgICAgICAgICAgICAgICBzcGFuOiAxMgogICAgICAgICAgICAgICAgfSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5zY2hlbWEucHJvcGVydGllcy50dXJuLmRpc2FibGVkID0gdHJ1ZTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFsbG93Q2xlYXI6IHRydWUsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRpc2FibGVkOiB0cnVlLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNwYW5fY29udHJvbDogMiwK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLm1vZGVsLmlkKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLm1vZGVsKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFsbG93Q2xlYXI6IHRydWUsCg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnNmLnJlZnJlc2hTY2hlbWEoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhbGxvd0NsZWFyOiB0cnVlLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5zY2hlbWEucAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNwYW5fY29udHJvbDogOCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGdyaWQ6IHsKICAgICAgICAgICAgICAgICAgICBzcGFuOiAxMgogICAgICAgICAgICAgICAgfSwK</text>
       </register>
       <register name=":" type="4">
         <text>action NextTab</text>
