@@ -1206,8 +1206,8 @@
         <mark key="^" line="46" column="12" />
         <mark key="." line="46" column="12" />
       </file>
-      <file name="D:/code/web/voc-web/src/app/routes/ldar/component/component.component.ts" timestamp="1521256819931">
-        <mark key="'" line="29" column="4" />
+      <file name="D:/code/web/voc-web/src/app/routes/ldar/component/component.component.ts" timestamp="1521260474947">
+        <mark key="'" line="17" column="4" />
         <mark key="[" line="144" column="0" />
         <mark key="]" line="144" column="0" />
         <mark key="^" line="230" column="46" />
@@ -1596,12 +1596,12 @@
         <mark key="." line="9" column="60" />
         <mark key="^" line="9" column="70" />
       </file>
-      <file name="D:/code/web/voc-web/src/app/routes/ldar/detection/detection.component.ts" timestamp="1521259322955">
-        <mark key="'" line="187" column="28" />
-        <mark key="[" line="148" column="55" />
-        <mark key="]" line="148" column="67" />
-        <mark key="." line="148" column="67" />
-        <mark key="^" line="148" column="67" />
+      <file name="D:/code/web/voc-web/src/app/routes/ldar/detection/detection.component.ts" timestamp="1521261102984">
+        <mark key="'" line="191" column="28" />
+        <mark key="[" line="159" column="81" />
+        <mark key="]" line="159" column="82" />
+        <mark key="." line="159" column="82" />
+        <mark key="^" line="159" column="62" />
       </file>
       <file name="D:/code/web/voc-web/src/app/routes/ldar/component/component.service.ts" timestamp="1520759923462">
         <mark key="'" line="43" column="4" />
@@ -2768,10 +2768,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="41" filename="D:/code/web/voc-ui/node_modules/ng-zorro-antd/src/message/nz-message.service.d.ts" />
-      <jump line="276" column="30" filename="D:/code/web/voc-ui/src/app/routes/ldar/component/component.component.ts" />
-      <jump line="42" column="89" filename="D:/code/web/voc-ui/src/app/routes/ldar/component/component.component.html" />
-      <jump line="42" column="28" filename="D:/code/web/voc-ui/src/app/routes/ldar/component/component.component.ts" />
       <jump line="198" column="27" filename="D:/code/web/voc-ui/src/app/routes/ldar/component/component.component.ts" />
       <jump line="64" column="85" filename="D:/code/web/voc-ui/src/app/routes/ldar/component/component.component.html" />
       <jump line="72" column="55" filename="D:/code/web/voc-ui/src/app/routes/ldar/component/component.component.html" />
@@ -2868,6 +2864,10 @@
       <jump line="15" column="27" filename="D:/code/web/voc-web/src/app/routes/ldar/detection/detection.service.ts" />
       <jump line="0" column="0" filename="D:/code/web/voc-web/src/app/routes/ldar/detection/detection.component.ts" />
       <jump line="179" column="28" filename="D:/code/web/voc-web/src/app/routes/ldar/detection/detection.component.ts" />
+      <jump line="127" column="21" filename="D:/code/web/voc-web/src/app/routes/ldar/component/component.component.ts" />
+      <jump line="132" column="21" filename="D:/code/web/voc-web/src/app/routes/ldar/component/component.component.ts" />
+      <jump line="172" column="25" filename="D:/code/web/voc-web/src/app/routes/ldar/component/component.component.ts" />
+      <jump line="17" column="4" filename="D:/code/web/voc-web/src/app/routes/ldar/component/component.component.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2891,7 +2891,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>getDate</text>
+        <text>left</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2998,57 +2998,56 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>getDate</text>
+        <text>left</text>
       </register>
       <register name="/" type="4">
-        <text>install</text>
+        <text encoding="base64">XDxjb21wb25lbnRDb25kaXRpb25zXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>.slice(0,10)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGlzLnZhbHVlUmFuZ2U9IHsuLi50aGlzLnZhbHVlUmFuZ2UsIGxlZnQ6IGZvcm0udmFsdWUudmFsdWUxfTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhpcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGlzLnZhbHVlUmFuZ2UucmlnaHQgPSBmb3JtLnZhbHVlLnZhbHVlMjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZm9yCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYXJhbXNbJ2RvdWJsZVJhbmdlJ10ucmlnaHQgPSBmb3JtLnZhbHVlLnZhbHVlMjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhpcwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYXJhbXNbJ3RpbWVSYW5nZSddID0gZm9ybS52YWx1ZS50aW1lUmFuZ2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZm9yCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgcGFyYW1zID0ge307Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYXJhbXNbJ2RvdWJsZVJhbmdlJ10ucmlnaHQgPSBmb3JtLnZhbHVlLnZhbHVlMjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYXJhbXNbaW5zdGFsbElkXSA9IGluc3RhbGxJZDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYXJhbXNbJ3RpbWVSYW5nZSddID0gZm9ybS52YWx1ZS50aW1lUmFuZ2U7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYXJhbXNbdW5pdElkXSA9IHVuaXRJZDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgcGFyYW1zID0ge307Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLi4ucGFyYW1zCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYXJhbXNbaW5zdGFsbElkXSA9IGluc3RhbGxJZDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5kZXRlY3Rpb25Db25kaXRpb25zID0gewogICAgICAgICAgICAgICAgLi4uZm9ybS52YWx1ZSwKICAgICAgICAgICAgICAgIC4uLnBhcmFtcwogICAgICAgICAgICB9Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYXJhbXNbdW5pdElkXSA9IHVuaXRJZDsK</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
-      <last-search>install</last-search>
+      <last-search encoding="base64">XDxjb21wb25lbnRDb25kaXRpb25zXD4=</last-search>
       <last-offset />
-      <last-pattern>install</last-pattern>
+      <last-pattern encoding="base64">XDxjb21wb25lbnRDb25kaXRpb25zXD4=</last-pattern>
       <last-replace>Others</last-replace>
       <last-substitute>OpenEnded</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Component</entry>
         <entry>component</entry>
         <entry>adfasd</entry>
         <entry>put</entry>
@@ -3068,6 +3067,7 @@
         <entry>SOthersG.value</entry>
         <entry>OpenEnded</entry>
         <entry>install</entry>
+        <entry encoding="base64">XDxjb21wb25lbnRDb25kaXRpb25zXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>e down-file.directive.ts</entry>
