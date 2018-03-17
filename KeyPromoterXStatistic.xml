@@ -6,7 +6,7 @@
           <IdeaActionID>ChangesView.AddUnversioned.From.Dialog</IdeaActionID>
           <ShortCut>'Ctrl+Alt+A'</ShortCut>
           <Description>Add to VCS</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Back">
@@ -22,7 +22,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>76</Count>
+          <Count>79</Count>
         </Item>
       </Statistic>
       <Statistic Action="Convert Java File to Kotlin File">
@@ -286,7 +286,7 @@
           <IdeaActionID>ActivateFindToolWindow</IdeaActionID>
           <ShortCut>'Alt+3'</ShortCut>
           <Description>Find</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find Usages">
@@ -801,6 +801,22 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'RepairServiceImplTest'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'RepairServiceImplTest'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'RepairServiceImplTest.selectPage'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'RepairServiceImplTest.selectPage'</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'Run'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -926,7 +942,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'VocsGenerator'</Description>
-          <Count>7</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'WebApplication'">
@@ -982,7 +998,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'Ctrl+D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>19</Count>
+          <Count>20</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Local Changes as UML">
@@ -1230,7 +1246,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>167</Count>
+          <Count>171</Count>
         </Item>
       </Statistic>
     </option>
