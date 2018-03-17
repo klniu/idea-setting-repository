@@ -342,7 +342,7 @@
           <IdeaActionID>Jdbc.OpenConsole.Any</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Jump to Console...</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
@@ -551,6 +551,14 @@
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'DetectionServiceImplTest.selectPage'</Description>
           <Count>26</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'DetectionServiceImplTest.selectToBeRepai...'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'DetectionServiceImplTest.selectToBeRepai...'</Description>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'DetectionServiceImplTest.update'">
