@@ -785,11 +785,10 @@
         <mark key="." line="28" column="41" />
         <mark key="^" line="28" column="41" />
       </file>
-      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/EmissionServiceImpl.java" timestamp="1521433184028">
-        <mark key="[" line="172" column="1" />
-        <mark key="]" line="172" column="0" />
-        <mark key="." line="172" column="0" />
-        <mark key="^" line="172" column="0" />
+      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/EmissionServiceImpl.java" timestamp="1521434738996">
+        <mark key="[" line="169" column="0" />
+        <mark key="]" line="169" column="0" />
+        <mark key="." line="169" column="0" />
       </file>
       <file name="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/service/impl/RoleServiceImpl.java" timestamp="1510217488031">
         <mark key="[" line="26" column="15" />
@@ -2736,7 +2735,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="430" column="74" filename="D:/code/web/voc-web/src/app/routes/forms/standard/standard.component.html" />
       <jump line="443" column="74" filename="D:/code/web/voc-web/src/app/routes/forms/standard/standard.component.html" />
       <jump line="446" column="74" filename="D:/code/web/voc-web/src/app/routes/forms/standard/standard.component.html" />
       <jump line="449" column="74" filename="D:/code/web/voc-web/src/app/routes/forms/standard/standard.component.html" />
@@ -2836,6 +2834,7 @@
       <jump line="210" column="6" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
       <jump line="96" column="53" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/DetectionServiceImpl.java" />
       <jump line="49" column="36" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/LdarRuleServiceImpl.java" />
+      <jump line="184" column="6" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/EmissionServiceImpl.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2859,7 +2858,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBkYXRlICAgIOWvhuWwgeeCueiwg+eUqOaXpeacnwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGwK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2966,40 +2965,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>mTh1</text>
       </register>
       <register name="/" type="4">
         <text>install</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3VsdC5nZXQodHlwZSkucHV0KHNlcnZpY2UsIDAuMCk7Cg==</text>
+      <register name="0" type="4">
+        <text>new CalcRactors(results.get(type).get(service), entry.getKey(), entry.getValue(), begin, end)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBkYXRlICAgIOWvhuWwgeeCueiwg+eUqOaXpeacnwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdC5qb2luKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjYWxjUmFjdG9ycyhlbnRyeS5nZXRWYWx1ZSgpLCBiZWdpbiwgZW5kKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aHJlYWRzLmFkZChjYWxjKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3VsdHMucHV0KHR5cGUsIG5ldyBIYXNoTWFwPD4oKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3VsdC5nZXQodHlwZSkucHV0KHNlcnZpY2UsIG5ldyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjYWxjLmpvaW4oKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxMaXN0PFJhY3Rvcj4+IHJhY3RvcnNMaXN0ID0gOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwdXQoZW50cnkuZ2V0S2V5KCksIGNhbGNSYWN0b3JzKGVudHJ5LmdldFZhbHVlKCksIGJlZ2luLCBlbmQpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBDYWxjUmFjdG9ycyBjYWxjID0gbmV3IENhbGNSYWN0b3JzKHJlc3VsdHMuZ2V0KHR5cGUpLmdldChzZXJ2aWNlKSwgZW50cnkuZ2V0S2V5KCksIGVudHJ5LmdldFZhbHVlKCksIGJlZ2luLCBlbmQpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUmFjdG9yIGxhc3RSYWN0b3IgPSByYWN0b3JzLmdldChpLTEpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVzdWx0Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciAoTGlzdDxSPjoKICAgICAgICAgICAgICAgICAgICAgKSB7CiAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlYWxIaXN0b3J5TWFwcGVyCg==</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
