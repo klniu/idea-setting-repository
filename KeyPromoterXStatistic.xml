@@ -134,7 +134,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'EmissionServiceImplTest.calcSealHistorie...'</Description>
-          <Count>9</Count>
+          <Count>29</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'EmissionServiceImplTest.getSealHistoryBy...'">
@@ -310,7 +310,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'Alt+F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>25</Count>
+          <Count>26</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find in Path...">
@@ -614,7 +614,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'EmissionServiceImplTest.calcSealHistorie...'</Description>
-          <Count>25</Count>
+          <Count>64</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'EmissionServiceImplTest.getSealHistoryBy...'">
@@ -1142,7 +1142,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'EmissionServiceImplTest.calcSealHistories'</Description>
-          <Count>1</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'EmissionServiceImplTest.calcSealHistoriesPerformance'">
@@ -1335,6 +1335,14 @@
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
           <Count>187</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="View Breakpoints...">
+        <Item>
+          <IdeaActionID>ViewBreakpoints</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F8'</ShortCut>
+          <Description>View Breakpoints...</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
     </option>
