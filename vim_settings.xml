@@ -708,7 +708,7 @@
         <mark key="." line="10" column="73" />
         <mark key="^" line="10" column="73" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521468572195">
+      <file name="/Dummy.txt" timestamp="1521520171451">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1714,10 +1714,10 @@
         <mark key="^" line="98" column="34" />
         <mark key="." line="98" column="34" />
       </file>
-      <file name="D:/code/go/src/ldar/emission.go" timestamp="1521516272499">
-        <mark key="'" line="152" column="5" />
-        <mark key="[" line="152" column="5" />
-        <mark key="]" line="152" column="27" />
+      <file name="D:/code/go/src/ldar/emission.go" timestamp="1521519800160">
+        <mark key="'" line="28" column="151" />
+        <mark key="[" line="28" column="151" />
+        <mark key="]" line="28" column="204" />
         <mark key="^" line="315" column="9" />
         <mark key="." line="315" column="9" />
       </file>
@@ -2136,12 +2136,12 @@
         <mark key="^" line="37" column="51" />
         <mark key="." line="31" column="53" />
       </file>
-      <file name="D:/code/go/src/ldar/emission_test.go" timestamp="1521516260689">
-        <mark key="'" line="897" column="0" />
-        <mark key="[" line="897" column="0" />
-        <mark key="]" line="897" column="0" />
-        <mark key="." line="897" column="0" />
-        <mark key="^" line="897" column="0" />
+      <file name="D:/code/go/src/ldar/emission_test.go" timestamp="1521520684666">
+        <mark key="'" line="805" column="0" />
+        <mark key="[" line="931" column="25" />
+        <mark key="]" line="931" column="25" />
+        <mark key="." line="931" column="25" />
+        <mark key="^" line="931" column="25" />
       </file>
       <file name="$USER_HOME$/sync/code/go/src/LawIndexer/views/index.tpl" timestamp="1491390763591">
         <mark key="[" line="83" column="17" />
@@ -2186,9 +2186,9 @@
         <mark key="." line="12" column="46" />
         <mark key="^" line="12" column="46" />
       </file>
-      <file name="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/EmissionServiceImplTest.java" timestamp="1521369958643">
-        <mark key="[" line="43" column="30" />
-        <mark key="]" line="43" column="35" />
+      <file name="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/EmissionServiceImplTest.java" timestamp="1521519095641">
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="43" />
         <mark key="." line="43" column="35" />
         <mark key="^" line="43" column="35" />
       </file>
@@ -2869,9 +2869,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="21" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.baomidou/mybatis-plus-support/2.1.9/682c1590ff3a755ec24ce37ccab84d36b241f15f/mybatis-plus-support-2.1.9-sources.jar!/com/baomidou/mybatisplus/service/impl/ServiceImpl.java" />
-      <jump line="390" column="8" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
-      <jump line="534" column="18" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
       <jump line="240" column="16" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
       <jump line="257" column="16" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
       <jump line="276" column="18" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
@@ -2969,6 +2966,9 @@
       <jump line="152" column="5" filename="D:/code/go/src/ldar/emission.go" />
       <jump line="138" column="43" filename="D:/code/go/src/ldar/component.go" />
       <jump line="0" column="0" filename="D:/code/go/src/ldar/Godeps/Godeps.json" />
+      <jump line="59" column="4" filename="D:/code/go/src/ldar/emission.go" />
+      <jump line="804" column="0" filename="D:/code/go/src/ldar/emission_test.go" />
+      <jump line="28" column="151" filename="D:/code/go/src/ldar/emission.go" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2992,7 +2992,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>a6164532b0c0956a7bb1af2bcfdc5ba7ce167657</text>
+        <text>0</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -3099,49 +3099,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>EmissionsForUnLDAR</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>xlsx</text>
+        <text>print</text>
       </register>
       <register name="0" type="4">
-        <text>emissionForRactorsOfTag</text>
+        <text>averageResult, screenResult, correlationResult float64</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWRiYyA6PSBjb25zdHJ1Y3REQihbXXN0cmluZ3sicnVsZXMiLCAiZGVmcyIsICJ1bml0cyIsICJpbnN0YWxscyIsICJjb21zIn0pCgkvLyBHZXQgdGVzdCBiYXNpYyBkYXRhCglpbnN0YWxscyA6PSBnZW5JbnN0YWxscygpCglzZWFscyA6PSBnZW5TZWFscygpCglzZWFsc1swXS5Nb25pdG9yU3RhdGUgPSBEaWZmaWN1bHQKCXNlYWxzWzBdLk1vbml0b3JEZXNjID0gIuWkn+S4jeedgCIKCXNlYWxzWzFdLk1vbml0b3JTdGF0ZSA9IERpZmZpY3VsdAoJc2VhbHNbMV0uTW9uaXRvckRlc2MgPSAi5aSf5LiN552AIgoJc2VhbHNbMV0uU3RvcHBlZCA9IGZhbHNlCglzZWFsc1syXS5Nb25pdG9yU3RhdGUgPSBVbnNhZmUKCXNlYWxzWzJdLk1vbml0b3JEZXNjID0gIuWkn+S4jeedgCIKCXNlYWxzWzRdLk1vbml0b3JTdGF0ZSA9IERpZmZpY3VsdAoJc2VhbHNbNF0uTW9uaXRvckRlc2MgPSAi5aSf5LiN552AIgoJc2VhbHNbMTFdLk1vbml0b3JTdGF0ZSA9IFVuc2FmZQoJc2VhbHNbMTFdLk1vbml0b3JEZXNjID0gIuWkn+S4jeedgCIKCXNlYWxzWzExXS5TdG9wcGVkID0gZmFsc2UKCWMuQXNzZXJ0KGRiYy5JbnNlcnQoc2VhbHMpLCBJc05pbCkKCglmb3IgaSA6PSByYW5nZSBpbnN0YWxscyB7CgkJaW5zdGFsbHNbaV0uSUQgPSBpICsgMQoJfQoKCWNudCwgZW1pc3Npb25zLCBlcnIgOj0gZGJjLkVtaXNzaW9uc0ZvclVuTERBUih0aW1lLlVuaXgoMCwgMCksIHRpbWUuVW5peCg4NjQwMCwgMCksIGluc3RhbGxzWzBdLCBNZXJnZVNlYWxUeXBlcyhBbGxTZWFsVHlwZXMoKSksIE1lcmdlTWVkaWFTdGF0ZXMoQWxsTWVkaWFTdGF0ZXMoKSksICIiKQoJYy5Bc3NlcnQoZXJyLCBJc05pbCkKCWMuQXNzZXJ0KGNudCwgRXF1YWxzLCA3KQoJYy5Bc3NlcnQoZm10LlNwcmludGYoIiUuNWYiLCBlbWlzc2lvbnMpLCBFcXVhbHMsIGZtdC5TcHJpbnRmKCIlLjVmIiwgMC44NDY3MikpCg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4oIuWFsSIgKyBjb3VudCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIGVtaXNzaW9uRm9yUmFjdG9yc09mVGFnKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVtaXNzaW9uLgo=</text>
+        <text encoding="base64">ICAgICAgICBjbnQrKwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaW5zdGFsbFVBRW1pc3Npb25zLnB1dChoaS5nZXRJbnN0YWxsSWQoKSwgaW5zdGFsbFVBRW1pc3Npb25zLmdldChoaS5nZXRJbnN0YWxsSWQoKSkrdW5sZGFyRW1pc3Npb24pOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZgo=</text>
+        <text encoding="base64">CSAgICByYWN0b3JNYXBbaV0gPSAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxlbmd0aCA9IGxhc3QuU3ViKGJlZ2luKS5Ib3VycygpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlmb3IgKGxvbmcgaSA9IDE7IGkgPD0gNTAwMDAwOyBpKyspIHsK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsZW5ndGggPSBlbmQuU3ViKGxhc3QuQWRkKGhhbGYpKS5Ib3VycygpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
-      <last-search>xlsx</last-search>
+      <last-search>print</last-search>
       <last-offset />
-      <last-pattern>xlsx</last-pattern>
+      <last-pattern>print</last-pattern>
       <last-replace>result+=calc.apply</last-replace>
       <last-substitute>calc.accept</last-substitute>
       <last-dir>1</last-dir>
@@ -3149,9 +3149,6 @@
     </search>
     <history>
       <history-search>
-        <entry>SOCMI</entry>
-        <entry>LightLiquid</entry>
-        <entry>HeavyLiquid</entry>
         <entry>Gas</entry>
         <entry>Refinery</entry>
         <entry>ROthersG.value</entry>
@@ -3169,6 +3166,9 @@
         <entry>calc.accept</entry>
         <entry encoding="base64">XDxlbWlzc2lvbkZvclJhY3RvcnNPZlRhZ1w+</entry>
         <entry>xlsx</entry>
+        <entry encoding="base64">XDxyYWN0b3JzXD4=</entry>
+        <entry>println</entry>
+        <entry>print</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0NvbXBvbmVudC9MZGFyVHVybi9nYw==</entry>
