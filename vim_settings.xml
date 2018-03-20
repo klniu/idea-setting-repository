@@ -705,7 +705,7 @@
         <mark key="." line="10" column="73" />
         <mark key="^" line="10" column="73" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521468572195">
+      <file name="/Dummy.txt" timestamp="1521558639836">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -826,8 +826,8 @@
         <mark key="." line="28" column="41" />
         <mark key="^" line="28" column="41" />
       </file>
-      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/EmissionServiceImpl.java" timestamp="1521557222452">
-        <mark key="'" line="487" column="37" />
+      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/EmissionServiceImpl.java" timestamp="1521558683909">
+        <mark key="'" line="148" column="34" />
         <mark key="[" line="167" column="0" />
         <mark key="]" line="167" column="0" />
         <mark key="^" line="166" column="19" />
@@ -2136,10 +2136,10 @@
         <mark key="^" line="37" column="51" />
         <mark key="." line="31" column="53" />
       </file>
-      <file name="D:/code/go/src/ldar/emission_test.go" timestamp="1521556906674">
+      <file name="D:/code/go/src/ldar/emission_test.go" timestamp="1521558352075">
         <mark key="'" line="87" column="45" />
-        <mark key="[" line="394" column="28" />
-        <mark key="]" line="394" column="34" />
+        <mark key="[" line="436" column="28" />
+        <mark key="]" line="436" column="34" />
         <mark key="^" line="158" column="28" />
         <mark key="." line="158" column="28" />
       </file>
@@ -2186,12 +2186,12 @@
         <mark key="." line="12" column="46" />
         <mark key="^" line="12" column="46" />
       </file>
-      <file name="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/EmissionServiceImplTest.java" timestamp="1521557341303">
+      <file name="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/EmissionServiceImplTest.java" timestamp="1521558670221">
         <mark key="'" line="127" column="14" />
-        <mark key="[" line="274" column="97" />
-        <mark key="]" line="274" column="98" />
-        <mark key="." line="274" column="98" />
-        <mark key="^" line="273" column="97" />
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="." line="73" column="0" />
+        <mark key="^" line="287" column="26" />
       </file>
       <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/entity/Detection.java" timestamp="1521357599785">
         <mark key="[" line="83" column="0" />
@@ -2853,7 +2853,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="4" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/entity/enums/AverageFactor.java" />
       <jump line="11" column="21" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/entity/enums/AverageFactor.java" />
       <jump line="14" column="5" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/entity/enums/ScreenFactor.java" />
       <jump line="15" column="4" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/entity/enums/ScreenFactor.java" />
@@ -2953,6 +2952,7 @@
       <jump line="135" column="38" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/EmissionServiceImpl.java" />
       <jump line="127" column="14" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/EmissionServiceImplTest.java" />
       <jump line="487" column="37" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/EmissionServiceImpl.java" />
+      <jump line="148" column="34" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/EmissionServiceImpl.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2976,7 +2976,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTZWFsSGlzdG9yeSBzMzIgPSBzMS5jbG9uZSgpLnNldERldGVjdGlvbklkKDMyTCkuc2V0VGltZShkYXRlKDMsIDYsIDksIDAsIDApKS5zZXRWYWx1ZSgxODAwLjApOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gKGVuZC5nZXRUaW1lKCkgLSBiZWdpbi5nZXRUaW1lKCkpIC8gKDEwMDAgKiA2MCAqIDYwKTsK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -3083,40 +3083,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>现</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbWlzc2lvbnNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTZWFsSGlzdG9yeSBzMzIgPSBzMS5jbG9uZSgpLnNldERldGVjdGlvbklkKDMyTCkuc2V0VGltZShkYXRlKDMsIDYsIDksIDAsIDApKS5zZXRWYWx1ZSgxODAwLjApOwo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoMS43MDc4MCwgZW1pc3Npb24uYlJlcGFpcmVkLCAxZS01KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gKGVuZC5nZXRUaW1lKCkgLSBiZWdpbi5nZXRUaW1lKCkpIC8gKDEwMDAgKiA2MCAqIDYwKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAobGFzdFNlYWxJZCAhPSBzZWFsSWQpIHsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZG91YmxlIGhvdXJzKERhdGUgYmVnaW4sIERhdGUgZW5kKSB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoMS43ODAzNiwgZW1pc3Npb24uYVJlcGFpcmVkLCAxZS01KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChsYXN0U2VhbElkICE9IHNlYWxJZCkgewogICAgICAgICAgICAgICAgICAgIGVtaXNzaW9uLmFDb3VudCArPSAxOyAgLy8g5Y+v6L6+5bey5qOA5rWLCiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBjYWxjU2VhbEhpc3Rvcmllc1BlcmZvcm1hbmNlKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChsYXN0U2VhbElkICE9IHNlYWxJZCkgewogICAgICAgICAgICAgICAgICAgIGVtaXNzaW9uLmFDb3VudCArPSAxOyAgLy8g5Y+v6L6+5bey5qOA5rWLCiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoMS43NDMyOCwgZW1pc3Npb24uYVJlcGFpcmVkLCAxZS01KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVtaXNzaW9uLmFDb3VudCArPSAxOyAgLy8g5Y+v6L6+5bey5qOA5rWLCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAobGFzdFNlYWxJZCAhPSBzZWFsSWQpIHsK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVtaXNzaW9uLmFDb3VudCArPSAxOyAgLy8g5Y+v6L6+5bey5qOA5rWLCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChsYXN0U2VhbElkICE9IHNlYWxJZCkgewogICAgICAgICAgICAgICAgICAgIGVtaXNzaW9uLmFDb3VudCArPSAxOyAgLy8g5Y+v6L6+5bey5qOA5rWLCiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
