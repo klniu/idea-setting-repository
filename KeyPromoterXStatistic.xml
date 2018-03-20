@@ -601,6 +601,14 @@
           <Count>12</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'EmissionServiceImplTest.calcSealHistorie...'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'EmissionServiceImplTest.calcSealHistorie...'</Description>
+          <Count>18</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'EmissionServiceImplTest.getSealHistoryBy...'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -1119,6 +1127,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'DetectionServiceImplTest.add'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'EmissionServiceImplTest.calcSealHistoriesPerformance'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'EmissionServiceImplTest.calcSealHistoriesPerformance'</Description>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'FactoryControllerTest.addForValid'">
