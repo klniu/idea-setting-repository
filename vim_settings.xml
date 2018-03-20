@@ -699,6 +699,9 @@
         <mark key="^" line="53" column="12" />
         <mark key="." line="53" column="12" />
       </file>
+      <file name="D:/code/go/src/ldar/component.go" timestamp="1521516300828">
+        <mark key="'" line="138" column="43" />
+      </file>
       <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/IEmissionService.java" timestamp="1521360763753">
         <mark key="[" line="10" column="73" />
         <mark key="]" line="10" column="73" />
@@ -829,6 +832,7 @@
       <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/EmissionServiceImpl.java" timestamp="1521466185305">
         <mark key="[" line="223" column="0" />
         <mark key="]" line="223" column="0" />
+        <mark key="^" line="285" column="34" />
         <mark key="." line="223" column="0" />
       </file>
       <file name="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/service/impl/RoleServiceImpl.java" timestamp="1510217488031">
@@ -1000,6 +1004,10 @@
         <mark key="]" line="74" column="33" />
         <mark key="^" line="74" column="33" />
         <mark key="." line="74" column="33" />
+      </file>
+      <file name="D:/code/go/ldar/Godeps/Readme" timestamp="1521513595704">
+        <mark key="[" line="4" column="4" />
+        <mark key="]" line="4" column="33" />
       </file>
       <file name="$USER_HOME$/workdir/lawindexer-ui/src/entry/home.tsx" timestamp="1491699934298">
         <mark key="[" line="6" column="19" />
@@ -1254,12 +1262,6 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
         <mark key="^" line="108" column="89" />
-      </file>
-      <file name="D:/code/java/voc/src/main/resources/mapper/RepairMapper.xml" timestamp="1521359975042">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
       </file>
       <file name="D:/code/web/voc-ui/src/app/routes/ldar/ldar-routing.module.ts" timestamp="1520475265228">
         <mark key="[" line="11" column="35" />
@@ -1712,10 +1714,10 @@
         <mark key="^" line="98" column="34" />
         <mark key="." line="98" column="34" />
       </file>
-      <file name="D:/code/go/src/ldar/emission.go" timestamp="1521381001679">
-        <mark key="'" line="324" column="24" />
-        <mark key="[" line="315" column="10" />
-        <mark key="]" line="315" column="9" />
+      <file name="D:/code/go/src/ldar/emission.go" timestamp="1521516272499">
+        <mark key="'" line="152" column="5" />
+        <mark key="[" line="152" column="5" />
+        <mark key="]" line="152" column="27" />
         <mark key="^" line="315" column="9" />
         <mark key="." line="315" column="9" />
       </file>
@@ -2134,6 +2136,13 @@
         <mark key="^" line="37" column="51" />
         <mark key="." line="31" column="53" />
       </file>
+      <file name="D:/code/go/src/ldar/emission_test.go" timestamp="1521516260689">
+        <mark key="'" line="897" column="0" />
+        <mark key="[" line="897" column="0" />
+        <mark key="]" line="897" column="0" />
+        <mark key="." line="897" column="0" />
+        <mark key="^" line="897" column="0" />
+      </file>
       <file name="$USER_HOME$/sync/code/go/src/LawIndexer/views/index.tpl" timestamp="1491390763591">
         <mark key="[" line="83" column="17" />
         <mark key="]" line="83" column="21" />
@@ -2180,14 +2189,20 @@
       <file name="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/EmissionServiceImplTest.java" timestamp="1521369958643">
         <mark key="[" line="43" column="30" />
         <mark key="]" line="43" column="35" />
-        <mark key="^" line="43" column="35" />
         <mark key="." line="43" column="35" />
+        <mark key="^" line="43" column="35" />
       </file>
       <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/entity/Detection.java" timestamp="1521357599785">
         <mark key="[" line="83" column="0" />
         <mark key="]" line="83" column="30" />
         <mark key="^" line="51" column="13" />
         <mark key="." line="83" column="0" />
+      </file>
+      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/entity/assists/EmissionByType.java" timestamp="1521508882192">
+        <mark key="[" line="15" column="90" />
+        <mark key="]" line="15" column="89" />
+        <mark key="^" line="15" column="89" />
+        <mark key="." line="15" column="89" />
       </file>
       <file name="D:/code/web/voc-web/src/app/routes/ldar/toberepaired/toberepaired.component.html" timestamp="1521290128406">
         <mark key="[" line="105" column="0" />
@@ -2373,12 +2388,6 @@
         <mark key="." line="29" column="26" />
         <mark key="^" line="27" column="48" />
       </file>
-      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/mapper/EmissionMapper.java" timestamp="1521359998179">
-        <mark key="'" line="19" column="30" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-      </file>
       <file name="$USER_HOME$/code/laws/pom.xml" timestamp="1508651450222">
         <mark key="[" line="59" column="0" />
         <mark key="]" line="105" column="20" />
@@ -2540,6 +2549,17 @@
         <mark key="]" line="10" column="57" />
         <mark key="." line="10" column="57" />
         <mark key="^" line="10" column="57" />
+      </file>
+      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/EmissionMethodService.java" timestamp="1521372590848">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="^" line="59" column="14" />
+        <mark key="." line="61" column="0" />
+      </file>
+      <file name="D:/code/go/src/ldar/Godeps/Godeps.json" timestamp="1521516460357">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="95" column="20" />
+        <mark key="]" line="95" column="59" />
       </file>
       <file name="$USER_HOME$/code/java/law/src/main/java/com/klniu/law/domain/manual/LawLevel.java" timestamp="1507788909178">
         <mark key="[" line="2" column="22" />
@@ -2849,10 +2869,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="15" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/ILdarTurnService.java" />
-      <jump line="68" column="28" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/LdarTurnServiceImpl.java" />
-      <jump line="106" column="13" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.baomidou/mybatis-plus-support/2.1.9/682c1590ff3a755ec24ce37ccab84d36b241f15f/mybatis-plus-support-2.1.9-sources.jar!/com/baomidou/mybatisplus/mapper/BaseMapper.java" />
-      <jump line="280" column="28" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.baomidou/mybatis-plus-support/2.1.9/682c1590ff3a755ec24ce37ccab84d36b241f15f/mybatis-plus-support-2.1.9-sources.jar!/com/baomidou/mybatisplus/service/impl/ServiceImpl.java" />
       <jump line="53" column="21" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.baomidou/mybatis-plus-support/2.1.9/682c1590ff3a755ec24ce37ccab84d36b241f15f/mybatis-plus-support-2.1.9-sources.jar!/com/baomidou/mybatisplus/service/impl/ServiceImpl.java" />
       <jump line="390" column="8" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
       <jump line="534" column="18" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
@@ -2949,6 +2965,10 @@
       <jump line="324" column="24" filename="D:/code/go/src/ldar/emission.go" />
       <jump line="92" column="54" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/EmissionServiceImpl.java" />
       <jump line="109" column="17" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/EmissionServiceImpl.java" />
+      <jump line="897" column="0" filename="D:/code/go/src/ldar/emission_test.go" />
+      <jump line="152" column="5" filename="D:/code/go/src/ldar/emission.go" />
+      <jump line="138" column="43" filename="D:/code/go/src/ldar/component.go" />
+      <jump line="0" column="0" filename="D:/code/go/src/ldar/Godeps/Godeps.json" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2971,8 +2991,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>a6164532b0c0956a7bb1af2bcfdc5ba7ce167657</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -3079,58 +3099,56 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>不</text>
+        <text>EmissionsForUnLDAR</text>
       </register>
       <register name="/" type="4">
-        <text>calc.accept</text>
+        <text>xlsx</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAodHlwZSA9PSBTZWFsVHlwZS5GbGFuZ2UgfHwgdHlwZSA9PSBTZWFsVHlwZS5Db25uZWN0b3IpIHsKICAgICAgICAgICAgICAgICAgICAgICAgaW5zdGFsbFVBRW1pc3Npb25zLnB1dChoaS5nZXRJbnN0YWxsSWQoKSwgaW5zdGFsbFVBRW1pc3Npb25zLmdldChoaS5nZXRJbnN0YWxsSWQoKSkrdW5sZGFyRW1pc3Npb24pOwogICAgICAgICAgICAgICAgICAgIH0K</text>
+      <register name="0" type="4">
+        <text>emissionForRactorsOfTag</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">CWRiYyA6PSBjb25zdHJ1Y3REQihbXXN0cmluZ3sicnVsZXMiLCAiZGVmcyIsICJ1bml0cyIsICJpbnN0YWxscyIsICJjb21zIn0pCgkvLyBHZXQgdGVzdCBiYXNpYyBkYXRhCglpbnN0YWxscyA6PSBnZW5JbnN0YWxscygpCglzZWFscyA6PSBnZW5TZWFscygpCglzZWFsc1swXS5Nb25pdG9yU3RhdGUgPSBEaWZmaWN1bHQKCXNlYWxzWzBdLk1vbml0b3JEZXNjID0gIuWkn+S4jeedgCIKCXNlYWxzWzFdLk1vbml0b3JTdGF0ZSA9IERpZmZpY3VsdAoJc2VhbHNbMV0uTW9uaXRvckRlc2MgPSAi5aSf5LiN552AIgoJc2VhbHNbMV0uU3RvcHBlZCA9IGZhbHNlCglzZWFsc1syXS5Nb25pdG9yU3RhdGUgPSBVbnNhZmUKCXNlYWxzWzJdLk1vbml0b3JEZXNjID0gIuWkn+S4jeedgCIKCXNlYWxzWzRdLk1vbml0b3JTdGF0ZSA9IERpZmZpY3VsdAoJc2VhbHNbNF0uTW9uaXRvckRlc2MgPSAi5aSf5LiN552AIgoJc2VhbHNbMTFdLk1vbml0b3JTdGF0ZSA9IFVuc2FmZQoJc2VhbHNbMTFdLk1vbml0b3JEZXNjID0gIuWkn+S4jeedgCIKCXNlYWxzWzExXS5TdG9wcGVkID0gZmFsc2UKCWMuQXNzZXJ0KGRiYy5JbnNlcnQoc2VhbHMpLCBJc05pbCkKCglmb3IgaSA6PSByYW5nZSBpbnN0YWxscyB7CgkJaW5zdGFsbHNbaV0uSUQgPSBpICsgMQoJfQoKCWNudCwgZW1pc3Npb25zLCBlcnIgOj0gZGJjLkVtaXNzaW9uc0ZvclVuTERBUih0aW1lLlVuaXgoMCwgMCksIHRpbWUuVW5peCg4NjQwMCwgMCksIGluc3RhbGxzWzBdLCBNZXJnZVNlYWxUeXBlcyhBbGxTZWFsVHlwZXMoKSksIE1lcmdlTWVkaWFTdGF0ZXMoQWxsTWVkaWFTdGF0ZXMoKSksICIiKQoJYy5Bc3NlcnQoZXJyLCBJc05pbCkKCWMuQXNzZXJ0KGNudCwgRXF1YWxzLCA3KQoJYy5Bc3NlcnQoZm10LlNwcmludGYoIiUuNWYiLCBlbWlzc2lvbnMpLCBFcXVhbHMsIGZtdC5TcHJpbnRmKCIlLjVmIiwgMC44NDY3MikpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVtaXNzaW9uLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaW5zdGFsbFVBRW1pc3Npb25zLnB1dChoaS5nZXRJbnN0YWxsSWQoKSwgaW5zdGFsbFVBRW1pc3Npb25zLmdldChoaS5nZXRJbnN0YWxsSWQoKSkrdW5sZGFyRW1pc3Npb24pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVtaXNzaW9uLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaW5zdGFsbFVBRW1pc3Npb25zLnB1dChoaS5nZXRJbnN0YWxsSWQoKSwgaW5zdGFsbFVBRW1pc3Npb25zLmdldChoaS5nZXRJbnN0YWxsSWQoKSkrdW5sZGFyRW1pc3Npb24pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxlbmd0aCA9IGxhc3QuU3ViKGJlZ2luKS5Ib3VycygpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxlbmd0aCA9IGxhc3QuU3ViKGJlZ2luKS5Ib3VycygpCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsZW5ndGggPSBlbmQuU3ViKGxhc3QuQWRkKGhhbGYpKS5Ib3VycygpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsZW5ndGggPSBoYWxmLkhvdXJzKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsZW5ndGggPSBlbmQuU3ViKGxhc3QuQWRkKGhhbGYpKS5Ib3VycygpCg==</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
-      <last-search>calc.accept</last-search>
+      <last-search>xlsx</last-search>
       <last-offset />
-      <last-pattern>calc.accept</last-pattern>
+      <last-pattern>xlsx</last-pattern>
       <last-replace>result+=calc.apply</last-replace>
       <last-substitute>calc.accept</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Pump</entry>
-        <entry>rcg</entry>
         <entry>SOCMI</entry>
         <entry>LightLiquid</entry>
         <entry>HeavyLiquid</entry>
@@ -3149,9 +3167,10 @@
         <entry>half</entry>
         <entry encoding="base64">XDxjYWxjXD4=</entry>
         <entry>calc.accept</entry>
+        <entry encoding="base64">XDxlbWlzc2lvbkZvclJhY3RvcnNPZlRhZ1w+</entry>
+        <entry>xlsx</entry>
       </history-search>
       <history-cmd>
-        <entry>q</entry>
         <entry encoding="base64">JzwsJz5zL0NvbXBvbmVudC9MZGFyVHVybi9nYw==</entry>
         <entry encoding="base64">JzwsJz5zL2NvbXBvbmVudC90dXJuL2dj</entry>
         <entry>%s/TEXT/VARCHAR(255)/gc</entry>
@@ -3167,9 +3186,10 @@
         <entry encoding="base64">JzwsJz5zL1NGbGFuZ2VHLnZhbHVlLzAuMDAxODkvZ2M=</entry>
         <entry encoding="base64">JzwsJz5zL1NPdGhlcnNHLnZhbHVlLzAuMDA1OTcvZ2M=</entry>
         <entry encoding="base64">JzwsJz5zL09wZW5FbmRlZC9PdGhlcnMvZ2M=</entry>
+        <entry>%s/calc.accept/result+=calc.apply/gc</entry>
+        <entry>action Forward</entry>
         <entry>action NextTab</entry>
         <entry>action PreviousTab</entry>
-        <entry>%s/calc.accept/result+=calc.apply/gc</entry>
         <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
