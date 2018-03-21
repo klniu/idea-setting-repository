@@ -2196,8 +2196,12 @@
         <mark key="^" line="20" column="3" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="D:/code/web/voc-ui/src/app/routes/ldar/statistics/emission/emission.component.html" timestamp="1521600885048">
+      <file name="D:/code/web/voc-ui/src/app/routes/ldar/statistics/emission/emission.component.html" timestamp="1521609913715">
         <mark key="'" line="8" column="26" />
+        <mark key="[" line="51" column="43" />
+        <mark key="]" line="51" column="46" />
+        <mark key="." line="51" column="46" />
+        <mark key="^" line="51" column="46" />
       </file>
       <file name="$USER_HOME$/code/java/vocs/src/main/java/com/klniu/voc/mapper/LdarSettingMapper.java" timestamp="1508666955067">
         <mark key="[" line="6" column="30" />
@@ -2863,8 +2867,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHJlcy5kYXRhKTsK</text>
+      <register name="&quot;" type="4">
+        <text>implementEmission</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2971,40 +2975,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>implementEmission</text>
       </register>
       <register name="/" type="4">
         <text>install</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIGdldFNlYWxUeXBlcygpOiBzdHJpbmdbXSB7CiAgICByZXR1cm4gWydWYWx2ZScsICdGbGFuZ2UnLCAnQ29ubmVjdG9yJywgJ09wZW5FbmRlZCcsICdTYW1wbGUnLCAnUHJlc3N1cmVSZWxpZWYnLCAnUHVtcCcsICdDb21wcmVzc29yJywgJ0FnaXRhdG9yJywgCiAgICAgICAgJ090aGVyJ107Cn0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHRkIG56LXRkPnt7ZGF0YS51ZENvdW50fX08L3RkPgogICAgICAgICAgICAgICAgICAgICAgICA8dGQgbnotdGQ+e3tkYXRhLnVkRW1pc3Npb259fTwvdGQ+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHJlcy5kYXRhKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHRkIG56LXRkPnt7ZGF0YS51YUNPdW50fX08L3RkPgogICAgICAgICAgICAgICAgICAgICAgICA8dGQgbnotdGQ+e3tkYXRhLnVuYWNjZXNzYWJpbGl0aWVFbWlzc2lvbn19PC90ZD4K</text>
       </register>
-      <register name="2" type="8">
-        <text encoding="base64">e3ZhbHVlOiAKe3ZhbHVlOiAKe3ZhbHVlOiAKe3ZhbHVlOiAKe3ZhbHVlOiAKe3ZhbHVlOiAKe3ZhbHVlOiAKe3ZhbHVlOiAKe3ZhbHVlOiAKe3ZhbHVlOiA=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGggbnotdGg+PHNwYW4+sru/ybTvtePK/cG/PC9zcGFuPjwvdGg+CiAgICAgICAgICAgICAgICAgICAgPHRoIG56LXRoPjxzcGFuPrK7v8m077XjxcW3xcG/KGtnKTwvc3Bhbj48L3RoPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZW5kCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHJlcy5kYXRhKTsK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgdGhpcy5lbWlzc2lvbnMK</text>
+      <register name="4" type="8">
+        <text encoding="base64">e3ZhbHVlOiAKe3ZhbHVlOiAKe3ZhbHVlOiAKe3ZhbHVlOiAKe3ZhbHVlOiAKe3ZhbHVlOiAKe3ZhbHVlOiAKe3ZhbHVlOiAKe3ZhbHVlOiAKe3ZhbHVlOiA=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZm9ybS52YWx1ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZW5kCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5vblNlYXJjaC5lbWl0KHtmb3JtLnZhbHVlLCBpbnN0YWxsSWRzOiBbZm9ybS52YWx1ZS5pbnN0YWxsSWRzWzFdXX0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgdGhpcy5lbWlzc2lvbnMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZm9ybS52YWx1ZSk7Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5vblNlYXJjaC5lbWl0KHtmb3JtLnZhbHVlLCBpbnN0YWxsSWRzOiBbZm9ybS52YWx1ZS5pbnN0YWxsSWRzWzFdXX0pOwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
