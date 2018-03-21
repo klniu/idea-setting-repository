@@ -112,11 +112,11 @@
         <mark key="^" line="6" column="18" />
         <mark key="." line="6" column="18" />
       </file>
-      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/LdarSettingServiceImpl.java" timestamp="1521622735283">
-        <mark key="[" line="63" column="54" />
-        <mark key="]" line="63" column="63" />
-        <mark key="." line="63" column="63" />
-        <mark key="^" line="63" column="63" />
+      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/LdarSettingServiceImpl.java" timestamp="1521623830434">
+        <mark key="[" line="92" column="48" />
+        <mark key="]" line="92" column="56" />
+        <mark key="." line="92" column="56" />
+        <mark key="^" line="92" column="56" />
       </file>
       <file name="$USER_HOME$/sync/code/java/livesim/DESIGN.md" timestamp="1479355574389">
         <mark key="[" line="11" column="16" />
@@ -530,12 +530,12 @@
         <mark key="." line="31" column="8" />
         <mark key="^" line="31" column="7" />
       </file>
-      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" timestamp="1521619845166">
-        <mark key="'" line="38" column="0" />
-        <mark key="[" line="428" column="0" />
-        <mark key="]" line="428" column="0" />
-        <mark key="^" line="425" column="43" />
-        <mark key="." line="428" column="0" />
+      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" timestamp="1521624177944">
+        <mark key="'" line="334" column="115" />
+        <mark key="[" line="435" column="89" />
+        <mark key="]" line="435" column="89" />
+        <mark key="." line="435" column="89" />
+        <mark key="^" line="435" column="89" />
       </file>
       <file name="D:/code/web/voc-web/src/app/routes/ldar/standard/rule-form.component.html" timestamp="1520159092702">
         <mark key="[" line="6" column="0" />
@@ -719,7 +719,7 @@
         <mark key="." line="14" column="41" />
         <mark key="^" line="14" column="59" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521614170176">
+      <file name="/Dummy.txt" timestamp="1521624184520">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1250,11 +1250,12 @@
         <mark key="." line="3" column="3" />
         <mark key="^" line="3" column="3" />
       </file>
-      <file name="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/LdarSettingServiceImplTest.java" timestamp="1521622490267">
-        <mark key="[" line="75" column="88" />
-        <mark key="]" line="75" column="89" />
-        <mark key="^" line="75" column="89" />
-        <mark key="." line="75" column="89" />
+      <file name="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/LdarSettingServiceImplTest.java" timestamp="1521623959632">
+        <mark key="'" line="75" column="0" />
+        <mark key="[" line="98" column="94" />
+        <mark key="]" line="98" column="95" />
+        <mark key="^" line="98" column="95" />
+        <mark key="." line="98" column="95" />
       </file>
       <file name="D:/code/web/voc-web/src/app/routes/base/ldarsetting/setting.service.ts" timestamp="1520071928576">
         <mark key="'" line="52" column="11" />
@@ -2901,8 +2902,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="4" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/entity/enums/ScreenFactor.java" />
-      <jump line="4" column="12" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/entity/enums/ScreenFactor.java" />
       <jump line="8" column="4" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/entity/enums/ScreenFactor.java" />
       <jump line="32" column="13" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/entity/enums/AverageFactor.java" />
       <jump line="47" column="14" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/entity/enums/AverageFactor.java" />
@@ -3001,6 +3000,8 @@
       <jump line="174" column="33" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/entity/LdarSetting.java" />
       <jump line="69" column="24" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/entity/LdarSetting.java" />
       <jump line="183" column="19" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/entity/LdarSetting.java" />
+      <jump line="72" column="0" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/LdarSettingServiceImplTest.java" />
+      <jump line="334" column="115" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3024,7 +3025,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>&quot;get&quot;+ firstLetterToLower(type.name()) + &quot;Name&quot;</text>
+        <text>device</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -3131,40 +3132,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;get&quot;+ firstLetterToLower(type.name()) + &quot;Name&quot;</text>
+        <text>device</text>
       </register>
       <register name="/" type="4">
         <text>other</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyBtZXRob2ROYW1lID0gImdldCIgKyBmaXJzdExldHRlclRvTG93ZXIodHlwZS5uYW1lKCkpICsgIkNvZGUiOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZXJycy5hZGQoU3RyaW5nLmZvcm1hdCgi56ysJWTooYznrKwlZOWvhuWwgeeCueexu+Wei+i+k+WFpeacieivryIsIHJvd051bSArIDEsIGNuICsgMSkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1ldGhvZE5hbWUgPSAiZ2V0IiArIGZpcnN0TGV0dGVyVG9Mb3dlcih0eXBlLm5hbWUoKSkgKyAiTmFtZSI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZXJycy5hZGQoU3RyaW5nLmZvcm1hdCgi56ysJWTooYznrKwlZOiuvuWkh+i+k+WFpeacieivryIsIHJvd051bSArIDEsIGNuICsgMSkpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+      <register name="3" type="8">
+        <text>Accessibility.General
+Accessibility.General</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
+      <register name="4" type="8">
+        <text>Service
+Service</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1ldGhvZCA9IHNldHRpbmcuZ2V0Q2xhc3MoKS5nZXRNZXRob2QoZmlyc3RMZXR0ZXJUb0xvd2VyKHR5cGUubmFtZSgpKSArICJDb2RlIiwgbmV3IENsYXNzPD8+WzBdKTsK</text>
+      <register name="5" type="8">
+        <text>Service.Gas
+Service.Gas</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWV0aG9kIG1ldGhvZDsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBDYWNoZWFibGUodmFsdWUgPSAic2VhbFR5cGVzIiwga2V5ID0gIiNmYWN0b3JJZCsnfCcrI3MiKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBMZGFyU2V0dGluZyBzZXR0aW5nID0gZ2V0QnlGYWN0b3J5SWQoZmFjdG9yeUlkKTsKICAgICAgICBNZXRob2QgbWV0aG9kOwogICAgICAgIGZvciAoU2VhbFR5cGUgdHlwZSA6IFNlYWxUeXBlLnZhbHVlcygpKSB7CiAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICBTdHJpbmcgbWV0aG9kTmFtZSA9ICJnZXQiICsgdHlwZS5uYW1lKCkgKyAiQ29kZSI7CiAgICAgICAgICAgICAgICBtZXRob2QgPSBzZXR0aW5nLmdldENsYXNzKCkuZ2V0TWV0aG9kKG1ldGhvZE5hbWUsIG5ldyBDbGFzczw/PlswXSk7CiAgICAgICAgICAgICAgICBTdHJpbmcgY29kZSA9IChTdHJpbmcpIG1ldGhvZC5pbnZva2Uoc2V0dGluZyk7CiAgICAgICAgICAgICAgICBtZXRob2ROYW1lID0gImdldCIgKyB0eXBlLm5hbWUoKSArICJOYW1lIjsKICAgICAgICAgICAgICAgIG1ldGhvZCA9IHNldHRpbmcuZ2V0Q2xhc3MoKS5nZXRNZXRob2QobWV0aG9kTmFtZSwgbmV3IENsYXNzPD8+WzBdKTsKICAgICAgICAgICAgICAgIFN0cmluZyBuYW1lID0gKFN0cmluZykgbWV0aG9kLmludm9rZShzZXR0aW5nKTsKICAgICAgICAgICAgICAgIGlmIChzLnRvTG93ZXJDYXNlKCkuZXF1YWxzKGNvZGUudG9Mb3dlckNhc2UoKSkgfHwgcy5lcXVhbHMobmFtZSkpIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gdHlwZTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIHJldHVybiBudWxsOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEAK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoU2VhbFR5cGUuUHJlc3N1cmVSZWxpZWYsIGlMZGFyU2V0dGluZ1NlcnZpY2UucGFyc2VTZWFsVHlwZShGaXJzdEZhY3RvcnlJZCwgIuWuieWFqOmYgCIpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
