@@ -246,11 +246,12 @@
         <mark key="." line="8" column="19" />
         <mark key="^" line="8" column="19" />
       </file>
-      <file name="D:/code/web/voc-ui/src/app/routes/ldar/statistics/condition.component.ts" timestamp="1521601528234">
-        <mark key="[" line="56" column="31" />
-        <mark key="]" line="56" column="35" />
-        <mark key="." line="56" column="35" />
-        <mark key="^" line="56" column="35" />
+      <file name="D:/code/web/voc-ui/src/app/routes/ldar/statistics/condition.component.ts" timestamp="1521605205201">
+        <mark key="'" line="57" column="35" />
+        <mark key="[" line="19" column="31" />
+        <mark key="]" line="20" column="38" />
+        <mark key="." line="20" column="38" />
+        <mark key="^" line="20" column="38" />
       </file>
       <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/web/UnitController.java" timestamp="1517648211117">
         <mark key="[" line="41" column="17" />
@@ -2740,7 +2741,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="24" filename="D:/code/web/voc-ui/src/app/routes/ldar/tools/tools.component.ts" />
       <jump line="16" column="41" filename="D:/code/web/voc-ui/node_modules/ng-zorro-antd/src/message/nz-message.service.d.ts" />
       <jump line="276" column="30" filename="D:/code/web/voc-ui/src/app/routes/ldar/component/component.component.ts" />
       <jump line="42" column="89" filename="D:/code/web/voc-ui/src/app/routes/ldar/component/component.component.html" />
@@ -2840,6 +2840,7 @@
       <jump line="9" column="13" filename="D:/code/web/voc-ui/src/app/routes/common/api.service.ts" />
       <jump line="8" column="26" filename="D:/code/web/voc-ui/src/app/routes/ldar/statistics/emission/emission.component.html" />
       <jump line="11" column="8" filename="D:/code/web/voc-ui/src/app/routes/ldar/statistics/emission/emission.component.ts" />
+      <jump line="56" column="35" filename="D:/code/web/voc-ui/src/app/routes/ldar/statistics/condition.component.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2863,7 +2864,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>i</text>
+        <text>range</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2970,7 +2971,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>range</text>
       </register>
       <register name="/" type="4">
         <text>install</text>
@@ -2979,31 +2980,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHBhcmFtWydiZWdpbiddID0gZm9ybS52YWx1ZS5kYXRlUmFuZ2VbMF07Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgdGhpcy5lbWlzc2lvbnMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZW5kCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZm9ybS52YWx1ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgdGhpcy5lbWlzc2lvbnMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5vblNlYXJjaC5lbWl0KHtmb3JtLnZhbHVlLCBpbnN0YWxsSWRzOiBbZm9ybS52YWx1ZS5pbnN0YWxsSWRzWzFdXX0pOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZm9ybS52YWx1ZSk7Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5vblNlYXJjaC5lbWl0KHtmb3JtLnZhbHVlLCBpbnN0YWxsSWRzOiBbZm9ybS52YWx1ZS5pbnN0YWxsSWRzWzFdXX0pOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZm9ybS52YWx1ZSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5vblNlYXJjaC5lbWl0KHZhbHVlcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
