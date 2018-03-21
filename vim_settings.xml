@@ -708,7 +708,7 @@
         <mark key="." line="14" column="41" />
         <mark key="^" line="14" column="59" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521606953086">
+      <file name="/Dummy.txt" timestamp="1521612615308">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1366,12 +1366,12 @@
         <mark key="^" line="53" column="66" />
         <mark key="." line="53" column="66" />
       </file>
-      <file name="D:/code/java/voc/src/test/resources/sql/init.sql" timestamp="1521606927945">
-        <mark key="'" line="51" column="28" />
-        <mark key="[" line="67" column="85" />
-        <mark key="]" line="67" column="85" />
-        <mark key="^" line="67" column="84" />
-        <mark key="." line="67" column="85" />
+      <file name="D:/code/java/voc/src/test/resources/sql/init.sql" timestamp="1521612648214">
+        <mark key="'" line="68" column="61" />
+        <mark key="[" line="60" column="48" />
+        <mark key="]" line="60" column="48" />
+        <mark key="^" line="60" column="48" />
+        <mark key="." line="60" column="48" />
       </file>
       <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/DetectionServiceImpl.java" timestamp="1521119091395">
         <mark key="[" line="91" column="0" />
@@ -2326,12 +2326,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="D:/code/java/voc/src/main/resources/sql/schema.sql" timestamp="1521606891339">
-        <mark key="'" line="130" column="26" />
-        <mark key="[" line="163" column="18" />
-        <mark key="]" line="163" column="18" />
-        <mark key="." line="163" column="18" />
-        <mark key="^" line="163" column="17" />
+      <file name="D:/code/java/voc/src/main/resources/sql/schema.sql" timestamp="1521612639102">
+        <mark key="'" line="166" column="3" />
+        <mark key="[" line="166" column="8" />
+        <mark key="]" line="166" column="8" />
+        <mark key="." line="166" column="8" />
+        <mark key="^" line="166" column="8" />
       </file>
       <file name="$USER_HOME$/code/java/law/src/main/resources/mapper/LawMapper.xml" timestamp="1507778383686">
         <mark key="[" line="19" column="0" />
@@ -2875,10 +2875,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="312" column="35" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
-      <jump line="396" column="2" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
-      <jump line="4" column="29" filename="D:/code/java/mpgenerator/src/main/java/mpgenerator/VocsGenerator.java" />
-      <jump line="11" column="13" filename="D:/code/java/mpgenerator/src/main/java/mpgenerator/Generator.java" />
       <jump line="81" column="40" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/DetectionServiceImpl.java" />
       <jump line="41" column="20" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/DetectionServiceImpl.java" />
       <jump line="113" column="8" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/LdarStandardServiceImplTest.java" />
@@ -2975,6 +2971,10 @@
       <jump line="163" column="3" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
       <jump line="130" column="26" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
       <jump line="103" column="11" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/entity/LdarSetting.java" />
+      <jump line="133" column="3" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
+      <jump line="166" column="3" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
+      <jump line="67" column="85" filename="D:/code/java/voc/src/test/resources/sql/init.sql" />
+      <jump line="68" column="61" filename="D:/code/java/voc/src/test/resources/sql/init.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3108,7 +3108,7 @@
         <text>v</text>
       </register>
       <register name="/" type="4">
-        <text>prv</text>
+        <text>other</text>
       </register>
       <register name="0" type="4">
         <text>pressureRelief</text>
@@ -3141,13 +3141,13 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYXNzZXJ0VHJ1ZSgpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text>action NextTab</text>
       </register>
     </registers>
     <search>
-      <last-search>prv</last-search>
+      <last-search>other</last-search>
       <last-offset />
-      <last-pattern>prv</last-pattern>
+      <last-pattern>other</last-pattern>
       <last-replace>this</last-replace>
       <last-substitute>seal</last-substitute>
       <last-dir>1</last-dir>
@@ -3155,7 +3155,6 @@
     </search>
     <history>
       <history-search>
-        <entry>SFlangeG</entry>
         <entry>SFlangeG.value</entry>
         <entry>SOthersG.value</entry>
         <entry>OpenEnded</entry>
@@ -3175,6 +3174,7 @@
         <entry>seal</entry>
         <entry encoding="base64">XDxnZXRUaW1lXD4=</entry>
         <entry>prv</entry>
+        <entry>other</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Valve/V/gc</entry>
@@ -3195,8 +3195,8 @@
         <entry encoding="base64">JzwsJz5zL3NlYWwvdGhpcy9nYw==</entry>
         <entry>q</entry>
         <entry>action PreviousTab</entry>
-        <entry>action NextTab</entry>
         <entry>action ReformatCode</entry>
+        <entry>action NextTab</entry>
       </history-cmd>
       <history-expr />
       <history-input />
