@@ -22,7 +22,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>86</Count>
+          <Count>87</Count>
         </Item>
       </Statistic>
       <Statistic Action="Convert Java File to Kotlin File">
@@ -127,6 +127,14 @@
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'DetectionServiceImplTest.selectPage'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'EmissionServiceImplTest.calcSealHistorie...'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'EmissionServiceImplTest.calcSealHistorie...'</Description>
+          <Count>29</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'EmissionServiceImplTest.getSealHistoryBy...'">
@@ -302,7 +310,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'Alt+F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>25</Count>
+          <Count>26</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find in Path...">
@@ -334,7 +342,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>8</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Implementation(s)">
@@ -374,7 +382,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>25</Count>
+          <Count>27</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -599,6 +607,14 @@
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'EmissionMethodServiceTest.emission'</Description>
           <Count>12</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'EmissionServiceImplTest.calcSealHistorie...'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'EmissionServiceImplTest.calcSealHistorie...'</Description>
+          <Count>73</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'EmissionServiceImplTest.getSealHistoryBy...'">
@@ -1121,6 +1137,22 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'EmissionServiceImplTest.calcSealHistories'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'EmissionServiceImplTest.calcSealHistories'</Description>
+          <Count>9</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'EmissionServiceImplTest.calcSealHistoriesPerformance'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'EmissionServiceImplTest.calcSealHistoriesPerformance'</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'FactoryControllerTest.addForValid'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1302,7 +1334,15 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>186</Count>
+          <Count>188</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="View Breakpoints...">
+        <Item>
+          <IdeaActionID>ViewBreakpoints</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F8'</ShortCut>
+          <Description>View Breakpoints...</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
     </option>
