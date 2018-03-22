@@ -22,7 +22,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>87</Count>
+          <Count>88</Count>
         </Item>
       </Statistic>
       <Statistic Action="Convert Java File to Kotlin File">
@@ -382,7 +382,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>27</Count>
+          <Count>28</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -535,6 +535,14 @@
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'ComponentServiceImplTest.generatePhotoPD...'</Description>
           <Count>94</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'ComponentServiceImplTest.getMaxComponent...'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'ComponentServiceImplTest.getMaxComponent...'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ComponentServiceImplTest.selectComponent...'">
@@ -1334,7 +1342,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>188</Count>
+          <Count>189</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
