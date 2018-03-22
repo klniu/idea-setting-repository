@@ -799,12 +799,12 @@
         <mark key="." line="28" column="41" />
         <mark key="^" line="28" column="41" />
       </file>
-      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/EmissionServiceImpl.java" timestamp="1521705068409">
-        <mark key="'" line="602" column="0" />
-        <mark key="[" line="694" column="0" />
-        <mark key="]" line="694" column="0" />
-        <mark key="." line="694" column="0" />
-        <mark key="^" line="686" column="14" />
+      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/EmissionServiceImpl.java" timestamp="1521709974214">
+        <mark key="'" line="686" column="0" />
+        <mark key="[" line="54" column="80" />
+        <mark key="]" line="54" column="80" />
+        <mark key="^" line="54" column="80" />
+        <mark key="." line="54" column="80" />
       </file>
       <file name="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/service/impl/RoleServiceImpl.java" timestamp="1510217488031">
         <mark key="[" line="26" column="15" />
@@ -2793,9 +2793,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="324" column="24" filename="D:/code/go/src/ldar/emission.go" />
-      <jump line="92" column="54" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/EmissionServiceImpl.java" />
-      <jump line="109" column="17" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/EmissionServiceImpl.java" />
       <jump line="897" column="0" filename="D:/code/go/src/ldar/emission_test.go" />
       <jump line="152" column="5" filename="D:/code/go/src/ldar/emission.go" />
       <jump line="138" column="43" filename="D:/code/go/src/ldar/component.go" />
@@ -2893,6 +2890,9 @@
       <jump line="680" column="0" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/EmissionServiceImpl.java" />
       <jump line="43" column="4" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/EmissionServiceImpl.java" />
       <jump line="602" column="0" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/EmissionServiceImpl.java" />
+      <jump line="666" column="34" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/EmissionServiceImpl.java" />
+      <jump line="78" column="13" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/EmissionServiceImpl.java" />
+      <jump line="683" column="0" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/EmissionServiceImpl.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2916,7 +2916,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBwaWNfZXh0ZW5zaW9uOiBqcGcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIChTZWFsVHlwZSB0eXBlMSA6IFNlYWxUeXBlLnZhbHVlcygpKSB7CiAgICAgICAgICAgICAgICBmb3IgKFNlcnZpY2Ugc2VydmljZTEgOiBTZXJ2aWNlLnZhbHVlcygpKSB7CiAgICAgICAgICAgICAgICAgICAgY29uY2x1ZGUgKz0gU3RyaW5nLmZvcm1hdCgiXG4lcywgJXM6ICVzIiwgdHlwZTEsIHNlcnZpY2UxLCBlbWlzc2lvbnMuZ2V0KHR5cGUxKS5nZXQoc2VydmljZTEpKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -3023,40 +3023,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text>计算泄漏量运行时间</text>
       </register>
       <register name="/" type="4">
         <text>component</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyDlt6XnqIvorr7nva4KcHJvamVjdDoKICAjIOebruW9le+8jOeUqOS6juWtmOaUvuW3peeoi+eahOaWh+S7tgogIGRpcjogLi92b2MKICAjIGxkYXIgaW5zdGFsbOWtkOebruW9le+8jOWunumZheWcqOS4iui/sOebruW9leS4i+mdogogIGluc3RhbGxfZGlyOiBpbnN0YWxscwogICMg5Li05pe25a2Q55uu5b2VCiAgdGVtcF9kaXI6IHRtcAogICMg5aSH5Lu95paH5Lu25aS5CiAgYmFja3VwX2RpcjogYmFja3VwCiAgIyDmnIDnu4jlm77niYfmoLzlvI8KICBwaWNfZXh0ZW5zaW9uOiBqcGcK</text>
+        <text encoding="base64">ICAgICAgICBMb25nIHQgPSBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKTsKICAgICAgICBNYXA8U2VhbFR5cGUsIE1hcDxTZXJ2aWNlLCBFbWlzc2lvbkJ5VHlwZT4+IGVtaXNzaW9ucyA9CiAgICAgICAgICAgICAgICBlbWlzc2lvbnMoKG5ldyBJbnRlZ2VyW117MSwyLDV9KSwgYmVnaW4sIGVuZCk7CiAgICAgICAgU3RyaW5nIGNvbmNsdWRlID0gIlxu6K6h566X5rOE5ryP6YeP6L+Q6KGM5pe26Ze0KG1zKTogIiArIChTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKSAtIHQpOwogICAgICAgIGZvciAoU2VhbFR5cGUgdHlwZTEgOiBTZWFsVHlwZS52YWx1ZXMoKSkgewogICAgICAgICAgICBmb3IgKFNlcnZpY2Ugc2VydmljZTEgOiBTZXJ2aWNlLnZhbHVlcygpKSB7CiAgICAgICAgICAgICAgICBjb25jbHVkZSArPSBTdHJpbmcuZm9ybWF0KCJcbiVzLCAlczogJXMiLCB0eXBlMSwgc2VydmljZTEsIGVtaXNzaW9ucy5nZXQodHlwZTEpLmdldChzZXJ2aWNlMSkpOwogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwaWNfZXh0ZW5zaW9uOiBqcGcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIChTZWFsVHlwZSB0eXBlMSA6IFNlYWxUeXBlLnZhbHVlcygpKSB7CiAgICAgICAgICAgICAgICBmb3IgKFNlcnZpY2Ugc2VydmljZTEgOiBTZXJ2aWNlLnZhbHVlcygpKSB7CiAgICAgICAgICAgICAgICAgICAgY29uY2x1ZGUgKz0gU3RyaW5nLmZvcm1hdCgiXG4lcywgJXM6ICVzIiwgdHlwZTEsIHNlcnZpY2UxLCBlbWlzc2lvbnMuZ2V0KHR5cGUxKS5nZXQoc2VydmljZTEpKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAjIOacgOe7iOWbvueJh+agvOW8jwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGNvbmNsdWRlID0gIlxu6K6h566X5rOE5ryP6YeP6L+Q6KGM5pe26Ze0KG1zKTogIiArIChTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKSAtIHQpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBiYWNrdXBfZGlyOiBiYWNrdXAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTWFwPFNlYWxUeXBlLCBNYXA8U2VydmljZSwgRW1pc3Npb25CeVR5cGU+PiBlbWlzc2lvbnMgPQogICAgICAgICAgICAgICAgICAgIGVtaXNzaW9ucygobmV3IEludGVnZXJbXXsxLDIsNX0pLCBiZWdpbiwgZW5kKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAjIOWkh+S7veaWh+S7tuWkuQo=</text>
+        <text encoding="base64">ICBwaWNfZXh0ZW5zaW9uOiBqcGcK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB0ZW1wX2RpcjogdG1wCg==</text>
+        <text encoding="base64">ICAjIOacgOe7iOWbvueJh+agvOW8jwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAjIOS4tOaXtuWtkOebruW9lQo=</text>
+        <text encoding="base64">ICBiYWNrdXBfZGlyOiBiYWNrdXAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBpbnN0YWxsX2RpcjogaW5zdGFsbHMK</text>
+        <text encoding="base64">ICAjIOWkh+S7veaWh+S7tuWkuQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAjIGxkYXIgaW5zdGFsbOWtkOebruW9le+8jOWunumZheWcqOS4iui/sOebruW9leS4i+mdogo=</text>
+        <text encoding="base64">ICB0ZW1wX2RpcjogdG1wCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHJvamVjdDoK</text>
+        <text encoding="base64">ICAjIOS4tOaXtuWtkOebruW9lQo=</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
