@@ -528,11 +528,12 @@
         <mark key="." line="31" column="8" />
         <mark key="^" line="31" column="7" />
       </file>
-      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" timestamp="1521720057965">
-        <mark key="'" line="357" column="96" />
-        <mark key="[" line="333" column="0" />
-        <mark key="]" line="333" column="0" />
-        <mark key="." line="333" column="0" />
+      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" timestamp="1521721365806">
+        <mark key="'" line="237" column="34" />
+        <mark key="[" line="307" column="34" />
+        <mark key="]" line="307" column="34" />
+        <mark key="." line="307" column="34" />
+        <mark key="^" line="307" column="34" />
       </file>
       <file name="D:/code/web/voc-web/src/app/routes/ldar/standard/rule-form.component.html" timestamp="1520159092702">
         <mark key="[" line="6" column="0" />
@@ -2898,7 +2899,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="4" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/entity/enums/AverageFactor.java" />
       <jump line="65" column="0" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/entity/enums/AverageFactor.java" />
       <jump line="61" column="4" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/entity/enums/CorrelationFactor.java" />
       <jump line="165" column="0" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/InstallServiceImpl.java" />
@@ -2998,6 +2998,7 @@
       <jump line="88" column="6" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" />
       <jump line="328" column="64" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" />
       <jump line="357" column="96" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" />
+      <jump line="237" column="34" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3020,8 +3021,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -3128,7 +3129,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmYWN0b3J5SWRcPg==</text>
