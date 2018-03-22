@@ -2215,8 +2215,8 @@
         <mark key="." line="12" column="46" />
         <mark key="^" line="12" column="46" />
       </file>
-      <file name="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/EmissionServiceImplTest.java" timestamp="1521700065475">
-        <mark key="'" line="471" column="16" />
+      <file name="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/EmissionServiceImplTest.java" timestamp="1521701247648">
+        <mark key="'" line="155" column="0" />
         <mark key="[" line="110" column="120" />
         <mark key="]" line="110" column="120" />
         <mark key="." line="110" column="120" />
@@ -2352,11 +2352,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="D:/code/java/voc/src/main/resources/sql/schema.sql" timestamp="1521699655878">
+      <file name="D:/code/java/voc/src/main/resources/sql/schema.sql" timestamp="1521701230350">
         <mark key="'" line="338" column="30" />
-        <mark key="[" line="572" column="46" />
-        <mark key="]" line="572" column="51" />
-        <mark key="." line="572" column="51" />
+        <mark key="[" line="598" column="19" />
+        <mark key="]" line="598" column="19" />
+        <mark key="." line="598" column="19" />
         <mark key="^" line="572" column="51" />
       </file>
       <file name="$USER_HOME$/code/java/law/src/main/resources/mapper/LawMapper.xml" timestamp="1507778383686">
@@ -2902,8 +2902,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="59" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/EmissionServiceTest.java" />
-      <jump line="47" column="63" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/EmissionMethodServiceTest.java" />
       <jump line="153" column="13" filename="D:/code/go/src/ldar/emission.go" />
       <jump line="59" column="38" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/EmissionServiceImpl.java" />
       <jump line="66" column="21" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/EmissionServiceImpl.java" />
@@ -3002,6 +3000,8 @@
       <jump line="74" column="4" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/EmissionServiceImplTest.java" />
       <jump line="473" column="16" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/EmissionServiceImplTest.java" />
       <jump line="578" column="0" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/EmissionServiceImpl.java" />
+      <jump line="72" column="34" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/EmissionServiceImplTest.java" />
+      <jump line="155" column="0" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/EmissionServiceImplTest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3025,7 +3025,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>1</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -3132,7 +3132,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>component</text>
