@@ -422,11 +422,11 @@
         <mark key="." line="130" column="75" />
         <mark key="^" line="130" column="75" />
       </file>
-      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/IInstallService.java" timestamp="1521615551421">
-        <mark key="[" line="28" column="80" />
-        <mark key="]" line="28" column="80" />
-        <mark key="." line="28" column="80" />
-        <mark key="^" line="28" column="80" />
+      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/IInstallService.java" timestamp="1521725822885">
+        <mark key="[" line="28" column="95" />
+        <mark key="]" line="28" column="95" />
+        <mark key="." line="28" column="95" />
+        <mark key="^" line="28" column="95" />
       </file>
       <file name="$USER_HOME$/workdir/web/vocs-react/src/less/theme.json" timestamp="1490928339928">
         <mark key="[" line="2" column="16" />
@@ -528,12 +528,12 @@
         <mark key="." line="31" column="8" />
         <mark key="^" line="31" column="7" />
       </file>
-      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" timestamp="1521723904302">
+      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" timestamp="1521725740408">
         <mark key="'" line="237" column="34" />
-        <mark key="[" line="307" column="34" />
-        <mark key="]" line="307" column="34" />
-        <mark key="." line="307" column="34" />
-        <mark key="^" line="307" column="34" />
+        <mark key="[" line="313" column="39" />
+        <mark key="]" line="313" column="49" />
+        <mark key="." line="313" column="49" />
+        <mark key="^" line="313" column="49" />
       </file>
       <file name="D:/code/web/voc-web/src/app/routes/ldar/standard/rule-form.component.html" timestamp="1520159092702">
         <mark key="[" line="6" column="0" />
@@ -3022,7 +3022,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>unitName</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -3129,43 +3129,42 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>unitName</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmYWN0b3J5SWRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgaWQgPSBmYWN0b3J5SWQ7IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHVuaXROYW1lID09IG51bGwgfHwgdW5pdE5hbWUudHJpbSgpLmlzRW1wdHkoKSkgewogICAgICAgICAgICAgICAgdGhyb3cgbmV3IEludmFsaWREYXRhRXhjZXB0aW9uKCLooajmoLzmnKrloavlhpnnrqHnkIbljZXlhYPlkI3np7AiKTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZXJycy5hZGQoU3RyaW5nLmZvcm1hdCgi56ysJWTooYznrKwlZOiuvuWkh+i+k+WFpeacieivryIsIHJvd051bSArIDEsIGNuICsgMSkpOwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="8">
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZXJycy5hZGQoU3RyaW5nLmZvcm1hdCgi56ysJWTooYznrKwlZOiuvuWkh+i+k+WFpeacieivryIsIHJvd051bSArIDEsIGNuICsgMSkpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="8">
         <text>Accessibility.General
 Accessibility.General</text>
       </register>
-      <register name="8" type="8">
+      <register name="9" type="8">
         <text>Service
 Service</text>
-      </register>
-      <register name="9" type="8">
-        <text>Service.Gas
-Service.Gas</text>
       </register>
       <register name=":" type="4">
         <text>action NextTab</text>
