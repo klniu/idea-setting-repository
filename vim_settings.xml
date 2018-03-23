@@ -104,11 +104,12 @@
         <mark key="^" line="6" column="18" />
         <mark key="." line="6" column="18" />
       </file>
-      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/LdarSettingServiceImpl.java" timestamp="1521623830434">
-        <mark key="[" line="92" column="48" />
-        <mark key="]" line="92" column="56" />
-        <mark key="." line="92" column="56" />
-        <mark key="^" line="92" column="56" />
+      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/LdarSettingServiceImpl.java" timestamp="1521791038017">
+        <mark key="'" line="105" column="4" />
+        <mark key="[" line="113" column="37" />
+        <mark key="]" line="113" column="43" />
+        <mark key="." line="113" column="43" />
+        <mark key="^" line="113" column="43" />
       </file>
       <file name="$USER_HOME$/sync/code/java/livesim/DESIGN.md" timestamp="1479355574389">
         <mark key="[" line="11" column="16" />
@@ -502,12 +503,12 @@
         <mark key="." line="31" column="8" />
         <mark key="^" line="31" column="7" />
       </file>
-      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" timestamp="1521789803314">
-        <mark key="'" line="319" column="38" />
-        <mark key="[" line="427" column="55" />
-        <mark key="]" line="427" column="56" />
-        <mark key="." line="427" column="56" />
-        <mark key="^" line="428" column="15" />
+      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" timestamp="1521791080022">
+        <mark key="'" line="513" column="60" />
+        <mark key="[" line="607" column="89" />
+        <mark key="]" line="607" column="95" />
+        <mark key="." line="607" column="95" />
+        <mark key="^" line="607" column="95" />
       </file>
       <file name="D:/code/web/voc-ui/src/app/routes/ldar/standard/rule-form.component.ts" timestamp="1520487221338">
         <mark key="'" line="101" column="58" />
@@ -986,11 +987,11 @@
         <mark key="^" line="7" column="3" />
         <mark key="." line="7" column="3" />
       </file>
-      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/ILdarSettingService.java" timestamp="1521620183586">
-        <mark key="[" line="20" column="21" />
-        <mark key="]" line="20" column="20" />
-        <mark key="^" line="20" column="20" />
-        <mark key="." line="20" column="20" />
+      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/ILdarSettingService.java" timestamp="1521791055545">
+        <mark key="[" line="27" column="29" />
+        <mark key="]" line="27" column="47" />
+        <mark key="." line="27" column="47" />
+        <mark key="^" line="27" column="47" />
       </file>
       <file name="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/LdarRuleServiceImplTest.java" timestamp="1521031961875">
         <mark key="'" line="46" column="45" />
@@ -2809,7 +2810,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="151" filename="D:/code/go/src/ldar/emission.go" />
       <jump line="154" column="48" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/EmissionServiceImpl.java" />
       <jump line="613" column="53" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/EmissionServiceImpl.java" />
       <jump line="56" column="26" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/entity/SealHistory.java" />
@@ -2907,8 +2907,9 @@
       <jump line="358" column="25" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" />
       <jump line="600" column="88" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" />
       <jump line="172" column="0" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" />
-      <jump line="513" column="38" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" />
       <jump line="319" column="38" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" />
+      <jump line="513" column="60" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" />
+      <jump line="105" column="4" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/LdarSettingServiceImpl.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2932,7 +2933,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>factoryId</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -3039,40 +3040,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>factoryId</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRQaG90b05vSW5jXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzZWFsLnNldFRhZyhnZW5lcmF0ZVRhZyhmYWxzZSwgY29tLCBzZWFsKSk7Cg==</text>
+        <text encoding="base64">ICAgIERpcmVjdGlvbiBwYXJzZURpcmVjdGlvbihJbnRlZ2VyIGZhY3RvcnlJZCwgU3RyaW5nIHMpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIFNlYWxUeXBlIHBhcnNlU2VhbFR5cGUoTGRhclNldHRpbmcgc2V0dGluZywgU3RyaW5nIHMpIHsKICAgICAgICByZXR1cm4gKFNlYWxUeXBlKSBwYXJzZUVudW0oc2V0dGluZywgU2VhbFR5cGUudmFsdWVzKCksIHMpOwogICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgMDoKICAgICAgICAgICAgICAgICAgICAvLyDnrqHnkIbljZXlhYPlkozoo4Xnva7kuIDotbflpITnkIYKICAgICAgICAgICAgICAgICAgICBTdHJpbmcgdW5pdFN0ciA9IENlbGxWYWx1ZS5zKGMpOwogICAgICAgICAgICAgICAgICAgIFN0cmluZyBpbnN0YWxsU3RyID0gQ2VsbFZhbHVlLnMoci5nZXRDZWxsKDEpKTsKICAgICAgICAgICAgICAgICAgICBpZiAodW5pdFN0ciA9PSBudWxsIHx8IHVuaXRTdHIudHJpbSgpLmlzRW1wdHkoKSkgewogICAgICAgICAgICAgICAgICAgICAgICBlcnJzLmFkZChTdHJpbmcuZm9ybWF0KCLnrKwlZOihjOesrCVk566h55CG5Y2V5YWD6L6T5YWl6ZSZ6K+vIiwgcm93TnVtICsgMSwgY24gKyAxKSk7CiAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICBpZiAoaW5zdGFsbFN0ciA9PSBudWxsIHx8IGluc3RhbGxTdHIudHJpbSgpLmlzRW1wdHkoKSkgewogICAgICAgICAgICAgICAgICAgICAgICBlcnJzLmFkZChTdHJpbmcuZm9ybWF0KCLnrKwlZOihjOesrCVk6KOF572u6L6T5YWl6ZSZ6K+vIiwgcm93TnVtICsgMSwgY24gKyAxKSk7CiAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICAgICAgSW50ZWdlcltdIGlkcyA9IGluc3RhbGxzLmdldCh1bml0U3RyKS5nZXQoaW5zdGFsbFN0cik7CiAgICAgICAgICAgICAgICAgICAgaWYgKGlkcyA9PSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGVycnMuYWRkKFN0cmluZy5mb3JtYXQoIuesrCVk6KGM56ysJWTnrqHnkIbljZXlhYPmiJboo4Xnva7ovpPlhaXplJnor68iLCByb3dOdW0gKyAxLCBjbiArIDEpKTsKICAgICAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgICAgICBjb20uc2V0VW5pdElkKGlkc1swXSk7CiAgICAgICAgICAgICAgICAgICAgICAgIHNlYWwuc2V0VW5pdElkKGlkc1swXSk7CiAgICAgICAgICAgICAgICAgICAgICAgIGNvbS5zZXRJbnN0YWxsSWQoaWRzWzFdKTsKICAgICAgICAgICAgICAgICAgICAgICAgc2VhbC5zZXRJbnN0YWxsSWQoaWRzWzFdKTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgYnJlYWs7Cg==</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIFNlYWxUeXBlIHBhcnNlU2VhbFR5cGUoTGRhclNldHRpbmcgc2V0dGluZywgU3RyaW5nIHMpIHsKICAgICAgICByZXR1cm4gKFNlYWxUeXBlKSBwYXJzZUVudW0oc2V0dGluZywgU2VhbFR5cGUudmFsdWVzKCksIHMpOwogICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29tLkdlbmVyYXRlVGFnKCkK</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIFNlYWxUeXBlIHBhcnNlU2VydmljZShMZGFyU2V0dGluZyBzZXR0aW5nLCBTdHJpbmcgcykgewogICAgICAgIHJldHVybiAoU2VhbFR5cGUpIHBhcnNlRW51bShzZXR0aW5nLCBTZWFsVHlwZS52YWx1ZXMoKSwgcyk7CiAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29tLlRhZ05vID0gbGFzdENvbS5UYWdObwo=</text>
+        <text encoding="base64">ICAgIEFjY2Vzc2liaWxpdHkgcGFyc2VBY2Nlc3NpYmlsaXR5KExkYXJTZXR0aW5nIGZhY3RvcnlJZCwgU3RyaW5nIHMpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29tLk5vID0gbGFzdENvbS5Obwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8gY29tcGxldGUgZGF0YSB0byBnZW5lcmF0ZSB0YWcK</text>
+        <text encoding="base64">ICAgICAgICBNZXRob2QgbWV0aG9kOwogICAgICAgIGZvciAoT2JqZWN0IHR5cGUgOiB2YWx1ZXMpIHsKICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgIFN0cmluZyBtZXRob2ROYW1lID0gImdldCIgKyB0eXBlLnRvU3RyaW5nKCkgKyAiQ29kZSI7CiAgICAgICAgICAgICAgICBtZXRob2QgPSBzZXR0aW5nLmdldENsYXNzKCkuZ2V0TWV0aG9kKG1ldGhvZE5hbWUsIG5ldyBDbGFzczw/PlswXSk7CiAgICAgICAgICAgICAgICBTdHJpbmcgY29kZSA9IChTdHJpbmcpIG1ldGhvZC5pbnZva2Uoc2V0dGluZyk7CgogICAgICAgICAgICAgICAgbWV0aG9kTmFtZSA9ICJnZXQiICsgdHlwZS50b1N0cmluZygpICsgIk5hbWUiOwogICAgICAgICAgICAgICAgbWV0aG9kID0gc2V0dGluZy5nZXRDbGFzcygpLmdldE1ldGhvZChtZXRob2ROYW1lLCBuZXcgQ2xhc3M8Pz5bMF0pOwogICAgICAgICAgICAgICAgU3RyaW5nIG5hbWUgPSAoU3RyaW5nKSBtZXRob2QuaW52b2tlKHNldHRpbmcpOwogICAgICAgICAgICAgICAgaWYgKHMudG9Mb3dlckNhc2UoKS5lcXVhbHMoY29kZS50b0xvd2VyQ2FzZSgpKSB8fCBzLmVxdWFscyhuYW1lKSkgewogICAgICAgICAgICAgICAgICAgIHJldHVybiB0eXBlOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBMZGFyU2V0dGluZyBzZXR0aW5nID0gZ2V0QnlGYWN0b3J5SWQoZmFjdG9yeUlkKTsK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29tc1tsYXN0XS5TZWFscyA9IGFwcGVuZChjb21zW2xhc3RdLlNlYWxzLCBzZWFsKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgMDoKICAgICAgICAgICAgICAgICAgICAvLyDnrqHnkIbljZXlhYPlkozoo4Xnva7kuIDotbflpITnkIYKICAgICAgICAgICAgICAgICAgICBTdHJpbmcgdW5pdFN0ciA9IENlbGxWYWx1ZS5zKGMpOwogICAgICAgICAgICAgICAgICAgIFN0cmluZyBpbnN0YWxsU3RyID0gQ2VsbFZhbHVlLnMoci5nZXRDZWxsKDEpKTsKICAgICAgICAgICAgICAgICAgICBpZiAodW5pdFN0ciA9PSBudWxsIHx8IHVuaXRTdHIudHJpbSgpLmlzRW1wdHkoKSkgewogICAgICAgICAgICAgICAgICAgICAgICBlcnJzLmFkZChTdHJpbmcuZm9ybWF0KCLnrKwlZOihjOesrCVk566h55CG5Y2V5YWD6L6T5YWl6ZSZ6K+vIiwgcm93TnVtICsgMSwgY24gKyAxKSk7CiAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICBpZiAoaW5zdGFsbFN0ciA9PSBudWxsIHx8IGluc3RhbGxTdHIudHJpbSgpLmlzRW1wdHkoKSkgewogICAgICAgICAgICAgICAgICAgICAgICBlcnJzLmFkZChTdHJpbmcuZm9ybWF0KCLnrKwlZOihjOesrCVk6KOF572u6L6T5YWl6ZSZ6K+vIiwgcm93TnVtICsgMSwgY24gKyAxKSk7CiAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICAgICAgSW50ZWdlcltdIGlkcyA9IGluc3RhbGxzLmdldCh1bml0U3RyKS5nZXQoaW5zdGFsbFN0cik7CiAgICAgICAgICAgICAgICAgICAgaWYgKGlkcyA9PSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGVycnMuYWRkKFN0cmluZy5mb3JtYXQoIuesrCVk6KGM56ysJWTnrqHnkIbljZXlhYPmiJboo4Xnva7ovpPlhaXplJnor68iLCByb3dOdW0gKyAxLCBjbiArIDEpKTsKICAgICAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgICAgICBjb20uc2V0VW5pdElkKGlkc1swXSk7CiAgICAgICAgICAgICAgICAgICAgICAgIHNlYWwuc2V0VW5pdElkKGlkc1swXSk7CiAgICAgICAgICAgICAgICAgICAgICAgIGNvbS5zZXRJbnN0YWxsSWQoaWRzWzFdKTsKICAgICAgICAgICAgICAgICAgICAgICAgc2VhbC5zZXRJbnN0YWxsSWQoaWRzWzFdKTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgYnJlYWs7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
