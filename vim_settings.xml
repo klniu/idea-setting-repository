@@ -503,12 +503,11 @@
         <mark key="." line="31" column="8" />
         <mark key="^" line="31" column="7" />
       </file>
-      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" timestamp="1521624177944">
-        <mark key="'" line="334" column="115" />
-        <mark key="[" line="435" column="89" />
-        <mark key="]" line="435" column="89" />
-        <mark key="." line="435" column="89" />
-        <mark key="^" line="435" column="89" />
+      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" timestamp="1521807559195">
+        <mark key="[" line="322" column="52" />
+        <mark key="]" line="322" column="52" />
+        <mark key="^" line="322" column="52" />
+        <mark key="." line="322" column="52" />
       </file>
       <file name="D:/code/web/voc-ui/src/app/routes/ldar/standard/rule-form.component.ts" timestamp="1520487221338">
         <mark key="'" line="101" column="58" />
@@ -1343,7 +1342,7 @@
         <mark key="^" line="53" column="66" />
         <mark key="." line="53" column="66" />
       </file>
-      <file name="D:/code/java/voc/src/test/resources/sql/init.sql" timestamp="1521704651244">
+      <file name="D:/code/java/voc/src/test/resources/sql/init.sql" timestamp="1521808071987">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="158" column="36" />
         <mark key="]" line="158" column="37" />
@@ -1380,12 +1379,12 @@
         <mark key="^" line="8" column="16" />
         <mark key="." line="8" column="16" />
       </file>
-      <file name="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/SealServiceImplTest.java" timestamp="1520928634859">
-        <mark key="'" line="216" column="32" />
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="52" column="13" />
-        <mark key="." line="253" column="27" />
-        <mark key="^" line="253" column="27" />
+      <file name="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/SealServiceImplTest.java" timestamp="1521808094167">
+        <mark key="'" line="65" column="0" />
+        <mark key="[" line="280" column="8" />
+        <mark key="]" line="280" column="10" />
+        <mark key="." line="280" column="10" />
+        <mark key="^" line="280" column="10" />
       </file>
       <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/LdarRuleServiceImpl.java" timestamp="1521117692020">
         <mark key="'" line="49" column="36" />
@@ -2622,10 +2621,10 @@
         <mark key="." line="121" column="75" />
         <mark key="^" line="121" column="75" />
       </file>
-      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/entity/Component.java" timestamp="1521117901465">
-        <mark key="'" line="34" column="13" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="35" column="23" />
+      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/entity/Component.java" timestamp="1521806749900">
+        <mark key="'" line="94" column="0" />
+        <mark key="[" line="111" column="16" />
+        <mark key="]" line="111" column="52" />
         <mark key="." line="72" column="0" />
         <mark key="^" line="81" column="30" />
       </file>
@@ -2793,10 +2792,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="324" column="24" filename="D:/code/go/src/ldar/emission.go" />
-      <jump line="92" column="54" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/EmissionServiceImpl.java" />
-      <jump line="109" column="17" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/EmissionServiceImpl.java" />
-      <jump line="897" column="0" filename="D:/code/go/src/ldar/emission_test.go" />
       <jump line="152" column="5" filename="D:/code/go/src/ldar/emission.go" />
       <jump line="138" column="43" filename="D:/code/go/src/ldar/component.go" />
       <jump line="0" column="0" filename="D:/code/go/src/ldar/Godeps/Godeps.json" />
@@ -2893,6 +2888,10 @@
       <jump line="680" column="0" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/EmissionServiceImpl.java" />
       <jump line="43" column="4" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/EmissionServiceImpl.java" />
       <jump line="602" column="0" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/EmissionServiceImpl.java" />
+      <jump line="94" column="0" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/entity/Component.java" />
+      <jump line="265" column="4" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/SealServiceImplTest.java" />
+      <jump line="280" column="6" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/SealServiceImplTest.java" />
+      <jump line="65" column="0" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/SealServiceImplTest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2916,7 +2915,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBwaWNfZXh0ZW5zaW9uOiBqcGcK</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PENvbXBvbmVudD4gY29tcG9uZW50cyA9IGNvbXBvbmVudE1hcHBlcgo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -3023,43 +3022,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>component</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyDlt6XnqIvorr7nva4KcHJvamVjdDoKICAjIOebruW9le+8jOeUqOS6juWtmOaUvuW3peeoi+eahOaWh+S7tgogIGRpcjogLi92b2MKICAjIGxkYXIgaW5zdGFsbOWtkOebruW9le+8jOWunumZheWcqOS4iui/sOebruW9leS4i+mdogogIGluc3RhbGxfZGlyOiBpbnN0YWxscwogICMg5Li05pe25a2Q55uu5b2VCiAgdGVtcF9kaXI6IHRtcAogICMg5aSH5Lu95paH5Lu25aS5CiAgYmFja3VwX2RpcjogYmFja3VwCiAgIyDmnIDnu4jlm77niYfmoLzlvI8KICBwaWNfZXh0ZW5zaW9uOiBqcGcK</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgQ29tcG9uZW50TWFwcGVyIGNvbXBvbmVudE1hcHBlcjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwaWNfZXh0ZW5zaW9uOiBqcGcK</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PENvbXBvbmVudD4gY29tcG9uZW50cyA9IGNvbXBvbmVudE1hcHBlcgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAjIOacgOe7iOWbvueJh+agvOW8jwo=</text>
+        <text encoding="base64">ICAgIAogICAgQEF1dG93aXJlZAogICAgcHJpdmF0ZSBDb21wb25lbnRNYXBwZXIgY29tcG9uZW50TWFwcGVyOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBiYWNrdXBfZGlyOiBiYWNrdXAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAjIOWkh+S7veaWh+S7tuWkuQo=</text>
+        <text encoding="base64">ICBwaWNfZXh0ZW5zaW9uOiBqcGcK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB0ZW1wX2RpcjogdG1wCg==</text>
+        <text encoding="base64">ICAjIOacgOe7iOWbvueJh+agvOW8jwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAjIOS4tOaXtuWtkOebruW9lQo=</text>
+        <text encoding="base64">ICBiYWNrdXBfZGlyOiBiYWNrdXAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBpbnN0YWxsX2RpcjogaW5zdGFsbHMK</text>
+        <text encoding="base64">ICAjIOWkh+S7veaWh+S7tuWkuQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAjIGxkYXIgaW5zdGFsbOWtkOebruW9le+8jOWunumZheWcqOS4iui/sOebruW9leS4i+mdogo=</text>
+        <text encoding="base64">ICB0ZW1wX2RpcjogdG1wCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHJvamVjdDoK</text>
+        <text encoding="base64">ICAjIOS4tOaXtuWtkOebruW9lQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text>action NextTab</text>
       </register>
     </registers>
     <search>
@@ -3112,9 +3111,9 @@
         <entry encoding="base64">JzwsJz4lcy9zZWFsL3RoaXMvZ2M=</entry>
         <entry encoding="base64">JzwsJz5zL3NlYWwvdGhpcy9nYw==</entry>
         <entry>q</entry>
+        <entry>action ReformatCode</entry>
         <entry>action PreviousTab</entry>
         <entry>action NextTab</entry>
-        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
