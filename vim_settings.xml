@@ -1368,12 +1368,12 @@
         <mark key="^" line="158" column="63" />
         <mark key="." line="158" column="37" />
       </file>
-      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/DetectionServiceImpl.java" timestamp="1521864743880">
-        <mark key="'" line="167" column="22" />
-        <mark key="[" line="219" column="25" />
-        <mark key="]" line="219" column="30" />
-        <mark key="^" line="219" column="30" />
-        <mark key="." line="219" column="30" />
+      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/DetectionServiceImpl.java" timestamp="1521866528427">
+        <mark key="'" line="126" column="26" />
+        <mark key="[" line="160" column="69" />
+        <mark key="]" line="160" column="69" />
+        <mark key="." line="161" column="18" />
+        <mark key="^" line="160" column="69" />
       </file>
       <file name="$USER_HOME$/workdir/code/now-antd-js/src/App.css" timestamp="1499414625520">
         <mark key="[" line="18" column="1" />
@@ -2193,9 +2193,9 @@
         <mark key="^" line="25" column="20" />
         <mark key="." line="25" column="20" />
       </file>
-      <file name="D:/code/java/voc/src/main/resources/mapper/DetectionMapper.xml" timestamp="1521358200046">
-        <mark key="[" line="67" column="77" />
-        <mark key="]" line="67" column="77" />
+      <file name="D:/code/java/voc/src/main/resources/mapper/DetectionMapper.xml" timestamp="1521866355456">
+        <mark key="[" line="4" column="31" />
+        <mark key="]" line="7" column="43" />
         <mark key="." line="67" column="77" />
         <mark key="^" line="67" column="77" />
       </file>
@@ -2828,8 +2828,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="85" filename="D:/code/java/voc/src/test/resources/sql/init.sql" />
-      <jump line="68" column="61" filename="D:/code/java/voc/src/test/resources/sql/init.sql" />
       <jump line="177" column="12" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/ComponentServiceImpl.java" />
       <jump line="332" column="40" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/ComponentServiceImpl.java" />
       <jump line="47" column="13" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" />
@@ -2928,6 +2926,8 @@
       <jump line="119" column="32" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/DetectionServiceImpl.java" />
       <jump line="158" column="34" filename="D:/code/go/src/ldar/monitor.go" />
       <jump line="167" column="22" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/DetectionServiceImpl.java" />
+      <jump line="127" column="31" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/DetectionServiceImpl.java" />
+      <jump line="125" column="26" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/DetectionServiceImpl.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2951,7 +2951,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>ppm</text>
+        <text>,</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -3058,43 +3058,47 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ppm</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>Integer.valueOf</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gcHBtVmFsIGZvcm1hdCB0aGUgY2hlY2sgdmFsdWUgdG8gZmxvYXQuCmZ1bmMgcHBtVmFsKHBwbVN0ciBzdHJpbmcpIChmbG9hdDY0LCBlcnJvcikgewoJZnJhZ3MgOj0gc3RyaW5ncy5TcGxpdE4oc3RyaW5ncy5UcmltU3BhY2UocHBtU3RyKSwgIiAiLCAyKQoJaWYgbGVuKGZyYWdzKSAhPSAyIHsKCQlyZXR1cm4gMC4wLCBmbXQuRXJyb3JmKCJJbnZhaWxkIHBwbSBzdHJpbmcuIikKCX0KCXBwbSwgZXJyIDo9IHN0cmNvbnYuUGFyc2VGbG9hdChmcmFnc1swXSwgNjQpCglpZiBlcnIgIT0gbmlsIHsKCQlyZXR1cm4gMC4wLCBmbXQuRXJyb3JmKCJJbnZhaWxkIHBwbSBzdHJpbmcuIikKCX0KCWlmIHN0cmluZ3MuSGFzUHJlZml4KGZyYWdzWzFdLCAiJSIpIHsKCQlwcG0gKj0gMTAwMDAuMAoJfQoJcmV0dXJuIHBwbSwgbmlsCn0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRldGVjdC5zZXREZXZpY2VNb2RlbChkZXZpY2VNb2RlbCkKICAgICAgICAgICAgICAgIGRldGVjdC5EZXZpY2VObyA9IGRldmljZU5vCiAgICAgICAgICAgICAgICBkZXRlY3QuQ29tcGFueSA9IGNvbXBhbnkKICAgICAgICAgICAgICAgIGRldGVjdC5QZXJzb25zID0gcGVyc29ucwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmcmFnc1swXS4K</text>
+      <register name="1" type="8">
+        <text>D
+C
+P</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIDAuMCwgZm10LkVycm9yZigiSW52YWlsZCBwcG0gc3RyaW5nLiIpCg==</text>
+      <register name="2" type="8">
+        <text>detect.
+detect.
+detect.</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmcmFncyA6PSBzdHJpbmdzLlNwbGl0TihzdHJpbmdzLlRyaW1TcGFjZShwcG1TdHIpLCAiICIsIDIpCg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgZXJyOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGRldGVjdC5GSUQsIGVyciA9IHBwbVZhbChsaW5lWzEwNTpsZW4obGluZSldKTsgZXJyICE9IG5pbCB7CiAgICAgICAgICAgICAgICAgICAgZXJyID0gZm10LkVycm9yZigi56ysJWTooYzvvJrml6DmlYjnmoRGSUTmo4DmtYvlgLwiLCBpKzEpCiAgICAgICAgICAgICAgICAgICAgcmV0dXJuCiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBzdHJpbmdzLkhhc1ByZWZpeChmcmFnc1sxXSwgIiUiKSB7CiAgICAgICAgICAgIHBwbSAqPSAxMDAwMC4wCiAgICAgICAgfQogICAgICAgIHJldHVybiBwcG0sIG5pbAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZXJyID0gZm10LkVycm9yZigi56ysJWTooYzvvJrml6DmlYjnmoRQSUTmo4DmtYvlgLwiLCBpKzEpCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiBkZXRlY3QuUElELCBlcnIgPSBwcG1WYWwobGluZVs2MTo4MV0pOyBlcnIgIT0gbmlsIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIDAuMCwgZm10LkVycm9yZigiSW52YWlsZCBwcG0gc3RyaW5nLiIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBwcG0gIT0gbmlsIHsK</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL0ludGVnZXIudmFsdWVPZi9GdW5jdGlvbi5zdHJUb0ludC9nYw==</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
@@ -3144,12 +3148,12 @@
         <entry encoding="base64">JzwsJz4lcy9zZWFsL3RoaXMvZ2M=</entry>
         <entry encoding="base64">JzwsJz5zL3NlYWwvdGhpcy9nYw==</entry>
         <entry>q</entry>
-        <entry>action NextTab</entry>
-        <entry>action PreviousTab</entry>
         <entry encoding="base64">JzwsJz5zLywgbmlsL2dj</entry>
         <entry encoding="base64">JzwsJz5zLywgbmlsLzsvZ2M=</entry>
-        <entry>action ReformatCode</entry>
         <entry encoding="base64">JzwsJz5zL0ludGVnZXIudmFsdWVPZi9GdW5jdGlvbi5zdHJUb0ludC9nYw==</entry>
+        <entry>action PreviousTab</entry>
+        <entry>action NextTab</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
