@@ -354,7 +354,6 @@
         <mark key="." line="52" column="13" />
         <mark key="^" line="52" column="13" />
       </file>
-      <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/model_test.go" timestamp="1521633779409" />
       <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/entity/enums/SealType.java" timestamp="1518409372772">
         <mark key="[" line="11" column="15" />
         <mark key="]" line="11" column="14" />
@@ -1229,12 +1228,12 @@
         <mark key="^" line="46" column="12" />
         <mark key="." line="46" column="12" />
       </file>
-      <file name="D:/code/web/voc-web/src/app/routes/ldar/component/component.component.ts" timestamp="1520757956296">
+      <file name="D:/code/web/voc-web/src/app/routes/ldar/component/component.component.ts" timestamp="1521886306413">
         <mark key="'" line="29" column="4" />
-        <mark key="[" line="255" column="0" />
-        <mark key="]" line="255" column="0" />
-        <mark key="^" line="252" column="46" />
-        <mark key="." line="255" column="0" />
+        <mark key="[" line="271" column="17" />
+        <mark key="]" line="272" column="7" />
+        <mark key="^" line="272" column="7" />
+        <mark key="." line="272" column="7" />
       </file>
       <file name="$USER_HOME$/sync/code/go/src/ldar/direction_test.go" timestamp="1476252942723">
         <mark key="[" line="16" column="19" />
@@ -1617,12 +1616,12 @@
         <mark key="^" line="26" column="54" />
         <mark key="." line="26" column="57" />
       </file>
-      <file name="D:/code/web/voc-web/src/app/routes/ldar/component/component.component.html" timestamp="1520759401519">
-        <mark key="'" line="198" column="113" />
-        <mark key="[" line="38" column="62" />
-        <mark key="]" line="38" column="63" />
-        <mark key="." line="38" column="63" />
-        <mark key="^" line="38" column="63" />
+      <file name="D:/code/web/voc-web/src/app/routes/ldar/component/component.component.html" timestamp="1521886290246">
+        <mark key="'" line="68" column="97" />
+        <mark key="[" line="68" column="79" />
+        <mark key="]" line="68" column="99" />
+        <mark key="." line="68" column="99" />
+        <mark key="^" line="68" column="99" />
       </file>
       <file name="$USER_HOME$/code/java/voc/src/main/resources/mapper/UserMapper.xml" timestamp="1510302827030">
         <mark key="[" line="11" column="43" />
@@ -2817,7 +2816,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="229" column="23" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/EmissionServiceImpl.java" />
       <jump line="622" column="30" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/EmissionServiceImpl.java" />
       <jump line="77" column="0" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/EmissionServiceImplTest.java" />
       <jump line="342" column="16" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/EmissionServiceImplTest.java" />
@@ -2917,6 +2915,7 @@
       <jump line="290" column="46" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" />
       <jump line="274" column="73" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/SealServiceImplTest.java" />
       <jump line="487" column="39" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" />
+      <jump line="68" column="97" filename="D:/code/web/voc-web/src/app/routes/ldar/component/component.component.html" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2939,8 +2938,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>模板下载</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -3047,13 +3046,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>称</text>
+        <text>模板下载</text>
       </register>
       <register name="/" type="4">
         <text>log</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZXJycy5hZGQoU3RyaW5nLmZvcm1hdCgi56ysJWTooYznrKwlZOWIl++8mueFp+eJh+WQjeensOi+k+WFpeacieivryIsIHJvd051bSArIDEsIGNuICsgMSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxidXR0b24gbnotYnV0dG9uIHN0eWxlPSJtYXJnaW4tbGVmdDogMTBweDsiIFtuelNpemVdPSInbGFyZ2UnIj4KICAgICAgICAgICAgICAgICAgICA8aSBjbGFzcz0iYW50aWNvbiBhbnRpY29uLWNsb3VkLWRvd25sb2FkIj48L2k+PHNwYW4+xKOw5c/C1Ng8L3NwYW4+CiAgICAgICAgICAgICAgICA8L2J1dHRvbj4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
@@ -3068,19 +3067,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZXJycy5hZGQoU3RyaW5nLmZvcm1hdCgi56ysJWTooYznrKwlZOWIl++8muWwuuWvuOi+k+WFpeacieivryIsIHJvd051bSArIDEsIGNuICsgMSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZXJycy5hZGQoU3RyaW5nLmZvcm1hdCgi56w/JWTooYznrKwlZOWIl++8muWwuuWvuOi+k+WFpeacieivryIsIHJvd051bSArIDEsIGNuICsgMSkpOwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9IGVsc2Ugewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZXJycy5hZGQoU3RyaW5nLmZvcm1hdCgi56ysJWTooYznrKwlZOWIl++8muWwuuWvuOi+k+WFpeacieivryIsIHJvd051bSArIDEsIGNuICsgMSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZXJycy5hZGQoU3RyaW5nLmZvcm1hdCgi56w/JWTooYznrKwlZOWIl++8muWwuuWvuOi+k+WFpeacieivryIsIHJvd051bSArIDEsIGNuICsgMSkpOwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9IGVsc2Ugewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZXJycy5hZGQoU3RyaW5nLmZvcm1hdCgi56ysJWTooYznrKwlZOWIl++8mueFp+eJh+W6j+WPt+aIllRhZ+W6j+WPt+i+k+WFpeacieivryIsIHJvd051bSArIDEsIGNuICsgMSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZXJycy5hZGQoU3RyaW5nLmZvcm1hdCgi56w/JWTooYznrKwlZOWIl++8mueFp+eJh+W6j+WPt+aIllRhZ+W6j+WPt+i+k+WFpeacieivryIsIHJvd051bSArIDEsIGNuICsgMSkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
