@@ -675,10 +675,6 @@
         <mark key="^" line="53" column="12" />
         <mark key="." line="53" column="12" />
       </file>
-      <file name="D:/code/go/src/ldar/component.go" timestamp="1521788815958">
-        <mark key="[" line="246" column="0" />
-        <mark key="]" line="259" column="16" />
-      </file>
       <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/IEmissionService.java" timestamp="1521705059639">
         <mark key="'" line="15" column="25" />
         <mark key="[" line="15" column="33" />
@@ -686,7 +682,7 @@
         <mark key="." line="15" column="49" />
         <mark key="^" line="15" column="49" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521797076214">
+      <file name="/Dummy.txt" timestamp="1521887451705">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -948,6 +944,12 @@
         <mark key="]" line="116" column="5" />
         <mark key="^" line="116" column="5" />
         <mark key="." line="116" column="5" />
+      </file>
+      <file name="D:/code/web/voc-web/src/app/routes/shared/upload/upload.component.ts" timestamp="1521887676835">
+        <mark key="[" line="7" column="48" />
+        <mark key="]" line="8" column="22" />
+        <mark key="^" line="8" column="22" />
+        <mark key="." line="8" column="22" />
       </file>
       <file name="$USER_HOME$/workdir/web/vocs-react/tsconfig.json" timestamp="1489480782599">
         <mark key="[" line="4" column="21" />
@@ -2795,6 +2797,12 @@
         <mark key="^" line="22" column="25" />
         <mark key="." line="22" column="25" />
       </file>
+      <file name="D:/code/web/voc-web/src/app/routes/shared/upload/upload.component.html" timestamp="1521887853348">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="1" column="9" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="D:/code/python/utils/office/exportpdf.py" timestamp="1520327388864">
         <mark key="'" line="108" column="56" />
         <mark key="[" line="84" column="0" />
@@ -2938,8 +2946,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>模板下载</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -3046,7 +3054,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>模板下载</text>
+        <text>modalFooter</text>
       </register>
       <register name="/" type="4">
         <text>log</text>
@@ -3055,34 +3063,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxidXR0b24gbnotYnV0dG9uIHN0eWxlPSJtYXJnaW4tbGVmdDogMTBweDsiIFtuelNpemVdPSInbGFyZ2UnIj4KICAgICAgICAgICAgICAgICAgICA8aSBjbGFzcz0iYW50aWNvbiBhbnRpY29uLWNsb3VkLWRvd25sb2FkIj48L2k+PHNwYW4+xKOw5c/C1Ng8L3NwYW4+CiAgICAgICAgICAgICAgICA8L2J1dHRvbj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb20gLnNldE5vKG5vKTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbS5zZXRObyhubyk7Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIDwvbmctdGVtcGxhdGU+Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICA8YnV0dG9uIG56LWJ1dHRvbiBuelR5cGU9InByaW1hcnkiIChjbGljayk9ImhhbmRsZU9rKCkiIFtuekxvYWRpbmddPSJpc0NvbmZpcm1Mb2FkaW5nIj5DdXN0b20gU3VibWl0PC9idXR0b24+Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICA8YnV0dG9uIG56LWJ1dHRvbiBuelR5cGU9ImRlZmF1bHQiIChjbGljayk9ImhhbmRsZUNhbmNlbCgpIj5DdXN0b20gQ2FsbGJhY2s8L2J1dHRvbj4K</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZXJycy5hZGQoU3RyaW5nLmZvcm1hdCgi56w/JWTooYznrKwlZOWIl++8muWwuuWvuOi+k+WFpeacieivryIsIHJvd051bSArIDEsIGNuICsgMSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICA8c3Bhbj5Nb2RhbCBGb290ZXI6IDwvc3Bhbj4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9IGVsc2Ugewo=</text>
+        <text encoding="base64">ICAgIDxuZy10ZW1wbGF0ZSAjbW9kYWxGb290ZXI+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZXJycy5hZGQoU3RyaW5nLmZvcm1hdCgi56w/JWTooYznrKwlZOWIl++8muWwuuWvuOi+k+WFpeacieivryIsIHJvd051bSArIDEsIGNuICsgMSkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9IGVsc2Ugewo=</text>
+        <text encoding="base64">ICAgIDwvbmctdGVtcGxhdGU+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZXJycy5hZGQoU3RyaW5nLmZvcm1hdCgi56w/JWTooYznrKwlZOWIl++8mueFp+eJh+W6j+WPt+aIllRhZ+W6j+WPt+i+k+WFpeacieivryIsIHJvd051bSArIDEsIGNuICsgMSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBDdXN0b20gTW9kYWwgVGl0bGUK</text>
       </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -3134,10 +3142,10 @@
         <entry>action Forward</entry>
         <entry encoding="base64">JzwsJz4lcy9zZWFsL3RoaXMvZ2M=</entry>
         <entry encoding="base64">JzwsJz5zL3NlYWwvdGhpcy9nYw==</entry>
-        <entry>q</entry>
-        <entry>action PreviousTab</entry>
-        <entry>action NextTab</entry>
         <entry>action ReformatCode</entry>
+        <entry>action NextTab</entry>
+        <entry>action PreviousTab</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
