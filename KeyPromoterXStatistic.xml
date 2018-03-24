@@ -22,7 +22,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>87</Count>
+          <Count>89</Count>
         </Item>
       </Statistic>
       <Statistic Action="Convert Java File to Kotlin File">
@@ -209,6 +209,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'SealServiceImplTest.importExcel'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'SealServiceImplTest.importExcel'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'TagFormatterTest.testConstructor'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -382,7 +390,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>27</Count>
+          <Count>28</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -535,6 +543,14 @@
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'ComponentServiceImplTest.generatePhotoPD...'</Description>
           <Count>94</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'ComponentServiceImplTest.getMaxComponent...'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'ComponentServiceImplTest.getMaxComponent...'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ComponentServiceImplTest.selectComponent...'">
@@ -937,6 +953,14 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'SealServiceImplTest.importExcel'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'SealServiceImplTest.importExcel'</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'SealServiceImplTest.uploadFromPad'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -1265,6 +1289,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'SealServiceImplTest.importExcel'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'SealServiceImplTest.importExcel'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'TagFormatterTest.testConstructor'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1334,7 +1366,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>188</Count>
+          <Count>190</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
