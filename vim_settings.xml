@@ -509,9 +509,9 @@
         <mark key="." line="31" column="8" />
         <mark key="^" line="31" column="7" />
       </file>
-      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" timestamp="1521861603655">
-        <mark key="[" line="426" column="0" />
-        <mark key="]" line="432" column="8" />
+      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" timestamp="1521868930502">
+        <mark key="[" line="289" column="0" />
+        <mark key="]" line="289" column="62" />
         <mark key="." line="361" column="42" />
         <mark key="^" line="361" column="42" />
       </file>
@@ -798,10 +798,10 @@
         <mark key="^" line="18" column="1" />
         <mark key="." line="18" column="2" />
       </file>
-      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/IDetectionService.java" timestamp="1521861060668">
-        <mark key="[" line="38" column="20" />
-        <mark key="]" line="38" column="22" />
-        <mark key="." line="38" column="22" />
+      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/IDetectionService.java" timestamp="1521868425082">
+        <mark key="[" line="38" column="42" />
+        <mark key="]" line="39" column="45" />
+        <mark key="." line="38" column="42" />
         <mark key="^" line="38" column="22" />
       </file>
       <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/EmissionServiceImpl.java" timestamp="1521710127628">
@@ -980,6 +980,12 @@
         <mark key="]" line="85" column="30" />
         <mark key="^" line="85" column="30" />
         <mark key="." line="85" column="30" />
+      </file>
+      <file name="D:/code/java/voc/src/test/resources/docs/import_tva_success.txt" timestamp="1521868890343">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workdir/lawindexer-ui/src/entry/home.tsx" timestamp="1491699934298">
         <mark key="[" line="6" column="19" />
@@ -1361,19 +1367,19 @@
         <mark key="^" line="53" column="66" />
         <mark key="." line="53" column="66" />
       </file>
-      <file name="D:/code/java/voc/src/test/resources/sql/init.sql" timestamp="1521854407168">
+      <file name="D:/code/java/voc/src/test/resources/sql/init.sql" timestamp="1521868911401">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="158" column="19" />
         <mark key="]" line="158" column="23" />
         <mark key="^" line="158" column="63" />
         <mark key="." line="158" column="37" />
       </file>
-      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/DetectionServiceImpl.java" timestamp="1521866528427">
-        <mark key="'" line="126" column="26" />
-        <mark key="[" line="160" column="69" />
-        <mark key="]" line="160" column="69" />
-        <mark key="." line="161" column="18" />
-        <mark key="^" line="160" column="69" />
+      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/DetectionServiceImpl.java" timestamp="1521868980569">
+        <mark key="'" line="165" column="29" />
+        <mark key="[" line="213" column="96" />
+        <mark key="]" line="214" column="23" />
+        <mark key="^" line="214" column="23" />
+        <mark key="." line="214" column="23" />
       </file>
       <file name="$USER_HOME$/workdir/code/now-antd-js/src/App.css" timestamp="1499414625520">
         <mark key="[" line="18" column="1" />
@@ -2052,7 +2058,7 @@
         <mark key="." line="30" column="34" />
         <mark key="^" line="30" column="33" />
       </file>
-      <file name="/fragment.java" timestamp="1521862955685">
+      <file name="/fragment.java" timestamp="1521868629723">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/code/java/cnooc/src/main/kotlin/com/cnvoc/cnooc/entity/manual/Company.kt" timestamp="1514536589459">
@@ -2828,7 +2834,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="177" column="12" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/ComponentServiceImpl.java" />
       <jump line="332" column="40" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/ComponentServiceImpl.java" />
       <jump line="47" column="13" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" />
       <jump line="277" column="6" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" />
@@ -2928,6 +2933,7 @@
       <jump line="167" column="22" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/DetectionServiceImpl.java" />
       <jump line="127" column="31" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/DetectionServiceImpl.java" />
       <jump line="125" column="26" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/DetectionServiceImpl.java" />
+      <jump line="162" column="29" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/DetectionServiceImpl.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2951,7 +2957,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>detectionMapper</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -3058,47 +3064,47 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>detectionMapper</text>
       </register>
       <register name="/" type="4">
         <text>Integer.valueOf</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRldGVjdC5zZXREZXZpY2VNb2RlbChkZXZpY2VNb2RlbCkKICAgICAgICAgICAgICAgIGRldGVjdC5EZXZpY2VObyA9IGRldmljZU5vCiAgICAgICAgICAgICAgICBkZXRlY3QuQ29tcGFueSA9IGNvbXBhbnkKICAgICAgICAgICAgICAgIGRldGVjdC5QZXJzb25zID0gcGVyc29ucwo=</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgRGV0ZWN0aW9uTWFwcGVyIGRldGVjdGlvbk1hcHBlcjsK</text>
       </register>
-      <register name="1" type="8">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBMaXN0PERldGVjdGlvbj4gZGV0ZWN0cyA9IG5ldyBBcnJheUxpc3Q8PigpOwo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRldGVjdHMgPSBhcHBlbmQoZGV0ZWN0cywgZGV0ZWN0KQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRldGVjdC5QZXJzb25zID0gcGVyc29ucwo=</text>
+      </register>
+      <register name="5" type="8">
         <text>D
 C
 P</text>
       </register>
-      <register name="2" type="8">
+      <register name="6" type="8">
         <text>detect.
 detect.
 detect.</text>
       </register>
-      <register name="3" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBTdHJpbmcgZXJyOwo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGRldGVjdC5GSUQsIGVyciA9IHBwbVZhbChsaW5lWzEwNTpsZW4obGluZSldKTsgZXJyICE9IG5pbCB7CiAgICAgICAgICAgICAgICAgICAgZXJyID0gZm10LkVycm9yZigi56ysJWTooYzvvJrml6DmlYjnmoRGSUTmo4DmtYvlgLwiLCBpKzEpCiAgICAgICAgICAgICAgICAgICAgcmV0dXJuCiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4K</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzdHJpbmdzLkhhc1ByZWZpeChmcmFnc1sxXSwgIiUiKSB7CiAgICAgICAgICAgIHBwbSAqPSAxMDAwMC4wCiAgICAgICAgfQogICAgICAgIHJldHVybiBwcG0sIG5pbAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIDAuMCwgZm10LkVycm9yZigiSW52YWlsZCBwcG0gc3RyaW5nLiIpCg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBwcG0gIT0gbmlsIHsK</text>
-      </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text>action NextTab</text>
       </register>
     </registers>
     <search>
@@ -3151,9 +3157,9 @@ detect.</text>
         <entry encoding="base64">JzwsJz5zLywgbmlsL2dj</entry>
         <entry encoding="base64">JzwsJz5zLywgbmlsLzsvZ2M=</entry>
         <entry encoding="base64">JzwsJz5zL0ludGVnZXIudmFsdWVPZi9GdW5jdGlvbi5zdHJUb0ludC9nYw==</entry>
+        <entry>action ReformatCode</entry>
         <entry>action PreviousTab</entry>
         <entry>action NextTab</entry>
-        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
