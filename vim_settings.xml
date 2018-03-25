@@ -73,6 +73,9 @@
         <mark key="^" line="9" column="83" />
         <mark key="." line="9" column="83" />
       </file>
+      <file name="D:/code/web/voc-web/src/app/routes/ldar/statistics/statistics.service.ts" timestamp="1521954510583">
+        <mark key="'" line="24" column="26" />
+      </file>
       <file name="$USER_HOME$/code/example/jwt-spring-security-demo/src/main/java/org/zerhusen/model/security/AuthorityName.java" timestamp="1510213416571">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="24" />
@@ -860,6 +863,12 @@
         <mark key="]" line="3" column="14" />
         <mark key="." line="3" column="14" />
         <mark key="^" line="3" column="14" />
+      </file>
+      <file name="D:/code/web/voc-web/src/app/routes/ldar/statistics/emission/emission.component.ts" timestamp="1521954620354">
+        <mark key="[" line="34" column="27" />
+        <mark key="]" line="34" column="31" />
+        <mark key="." line="34" column="31" />
+        <mark key="^" line="34" column="31" />
       </file>
       <file name="D:/code/java/cnooc/src/main/kotlin/com/cnvoc/cnooc/web/TankController.kt" timestamp="1514526823756">
         <mark key="[" line="9" column="0" />
@@ -2882,7 +2891,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="0" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" />
       <jump line="155" column="12" filename="D:/code/java/voc/src/test/resources/sql/init.sql" />
       <jump line="96" column="43" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/common/FunctionTest.java" />
       <jump line="13" column="0" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/common/FunctionTest.java" />
@@ -2982,6 +2990,7 @@
       <jump line="38" column="13" filename="D:/code/web/voc-web/src/app/routes/ldar/detection/tva-form.component.ts" />
       <jump line="72" column="90" filename="D:/code/web/voc-web/src/app/routes/ldar/detection/detection.component.html" />
       <jump line="43" column="18" filename="D:/code/web/voc-web/src/app/routes/ldar/detection/detection.component.ts" />
+      <jump line="24" column="26" filename="D:/code/web/voc-web/src/app/routes/ldar/statistics/statistics.service.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3004,8 +3013,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHVybklkOiB7CiAgICAgICAgICAgICAgICB0eXBlOiAnc3RyaW5nJywKICAgICAgICAgICAgICAgICd0aXRsZSc6ICfC1rTOJywKICAgICAgICAgICAgICAgICd3aWRnZXQnOiB7CiAgICAgICAgICAgICAgICAgICAgaWQ6ICdzZWxlY3QnLAogICAgICAgICAgICAgICAgICAgIGRhdGE6IHRoaXMuc2VydmljZS50dXJuc0Nhc2NhZGVyCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0sCg==</text>
+      <register name="&quot;" type="4">
+        <text>true</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -3112,40 +3121,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>(click)=&quot;importTVA()&quot;</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>log</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHVybklkOiB7CiAgICAgICAgICAgICAgICB0eXBlOiAnc3RyaW5nJywKICAgICAgICAgICAgICAgICd0aXRsZSc6ICfC1rTOJywKICAgICAgICAgICAgICAgICd3aWRnZXQnOiB7CiAgICAgICAgICAgICAgICAgICAgaWQ6ICdzZWxlY3QnLAogICAgICAgICAgICAgICAgICAgIGRhdGE6IHRoaXMuc2VydmljZS50dXJuc0Nhc2NhZGVyCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmxvYWRpbmcgPSB0cnVlOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvYnV0dG9uPgo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhjb25kaXRpb24pOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aSBjbGFzcz0iYW50aWNvbiBhbnRpY29uLWNsb3VkLXVwbG9hZCI+PC9pPjxzcGFuPrW8yOs8L3NwYW4+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvYnV0dG9uPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxidXR0b24gbnotYnV0dG9uIHN0eWxlPSJtYXJnaW4tbGVmdDogMTBweDsiIFtuelNpemVdPSInbGFyZ2UnIiA+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aSBjbGFzcz0iYW50aWNvbiBhbnRpY29uLWNsb3VkLXVwbG9hZCI+PC9pPjxzcGFuPrW8yOs8L3NwYW4+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHN0eWxlVXJsczogWycuL3R2YS1mb3JtLmNvbXBvbmVudC5sZXNzJ10K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxidXR0b24gbnotYnV0dG9uIHN0eWxlPSJtYXJnaW4tbGVmdDogMTBweDsiIFtuelNpemVdPSInbGFyZ2UnIiA+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHVwbG9hZFRWQVVybCA9IHRoaXMuYXBpLmdldFRWQVVwbG9hZFVybCgpOwo=</text>
+        <text encoding="base64">ICAgIHN0eWxlVXJsczogWycuL3R2YS1mb3JtLmNvbXBvbmVudC5sZXNzJ10K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5pcwo=</text>
+        <text encoding="base64">ICAgIHVwbG9hZFRWQVVybCA9IHRoaXMuYXBpLmdldFRWQVVwbG9hZFVybCgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5pcwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC4uLnRoaXMubW9kZWwsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfTsK</text>
       </register>
       <register name=":" type="4">
         <text>action NextTab</text>
