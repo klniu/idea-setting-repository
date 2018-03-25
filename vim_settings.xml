@@ -2229,11 +2229,11 @@
         <mark key="^" line="34" column="78" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="D:/code/web/voc-web/src/app/routes/ldar/tools/tools.component.ts" timestamp="1521896456242">
-        <mark key="[" line="36" column="40" />
-        <mark key="]" line="36" column="57" />
-        <mark key="." line="36" column="57" />
-        <mark key="^" line="36" column="57" />
+      <file name="D:/code/web/voc-web/src/app/routes/ldar/tools/tools.component.ts" timestamp="1521959330343">
+        <mark key="[" line="39" column="20" />
+        <mark key="]" line="39" column="31" />
+        <mark key="." line="39" column="31" />
+        <mark key="^" line="39" column="31" />
       </file>
       <file name="D:/code/java/voc/src/main/resources/mapper/DetectionMapper.xml" timestamp="1521358200046">
         <mark key="[" line="67" column="77" />
@@ -3011,8 +3011,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>true</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLmV4cG9ydFBERkZvcm0uaW52YWxpZCk7Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -3128,34 +3128,34 @@
         <text encoding="base64">ICAgICAgICB0aGlzLmxvYWRpbmcgPSB0cnVlOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhjb25kaXRpb24pOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLmV4cG9ydFBERkZvcm0uaW52YWxpZCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvYnV0dG9uPgo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhjb25kaXRpb24pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aSBjbGFzcz0iYW50aWNvbiBhbnRpY29uLWNsb3VkLXVwbG9hZCI+PC9pPjxzcGFuPrW8yOs8L3NwYW4+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvYnV0dG9uPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxidXR0b24gbnotYnV0dG9uIHN0eWxlPSJtYXJnaW4tbGVmdDogMTBweDsiIFtuelNpemVdPSInbGFyZ2UnIiA+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aSBjbGFzcz0iYW50aWNvbiBhbnRpY29uLWNsb3VkLXVwbG9hZCI+PC9pPjxzcGFuPrW8yOs8L3NwYW4+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHN0eWxlVXJsczogWycuL3R2YS1mb3JtLmNvbXBvbmVudC5sZXNzJ10K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxidXR0b24gbnotYnV0dG9uIHN0eWxlPSJtYXJnaW4tbGVmdDogMTBweDsiIFtuelNpemVdPSInbGFyZ2UnIiA+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHVwbG9hZFRWQVVybCA9IHRoaXMuYXBpLmdldFRWQVVwbG9hZFVybCgpOwo=</text>
+        <text encoding="base64">ICAgIHN0eWxlVXJsczogWycuL3R2YS1mb3JtLmNvbXBvbmVudC5sZXNzJ10K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5pcwo=</text>
+        <text encoding="base64">ICAgIHVwbG9hZFRWQVVybCA9IHRoaXMuYXBpLmdldFRWQVVwbG9hZFVybCgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5pcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy4K</text>
       </register>
       <register name=":" type="4">
-        <text>action NextTab</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
@@ -3207,10 +3207,10 @@
         <entry encoding="base64">JzwsJz4lcy9zZWFsL3RoaXMvZ2M=</entry>
         <entry encoding="base64">JzwsJz5zL3NlYWwvdGhpcy9nYw==</entry>
         <entry>q</entry>
-        <entry>action ReformatCode</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUHJldmlvdXNUYWI=</entry>
         <entry>action PreviousTab</entry>
         <entry>action NextTab</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
