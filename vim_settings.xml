@@ -110,11 +110,11 @@
         <mark key="." line="13" column="19" />
         <mark key="^" line="13" column="19" />
       </file>
-      <file name="D:/code/web/voc-ui/src/app/routes/ldar/detection/tva-form.component.ts" timestamp="1522027791804">
-        <mark key="[" line="9" column="29" />
-        <mark key="]" line="9" column="28" />
-        <mark key="^" line="9" column="28" />
-        <mark key="." line="9" column="28" />
+      <file name="D:/code/web/voc-ui/src/app/routes/ldar/detection/tva-form.component.ts" timestamp="1522029664017">
+        <mark key="[" line="55" column="39" />
+        <mark key="]" line="56" column="44" />
+        <mark key="^" line="56" column="44" />
+        <mark key="." line="56" column="44" />
       </file>
       <file name="D:/code/java/mybatisplus-spring-boot/src/main/java/com/baomidou/springboot/config/DruidConfig.java" timestamp="1514722252469">
         <mark key="[" line="3" column="1" />
@@ -712,6 +712,11 @@
         <mark key="]" line="60" column="26" />
         <mark key="^" line="57" column="26" />
         <mark key="." line="60" column="26" />
+      </file>
+      <file name="D:/code/web/voc-ui/src/app/routes/ldar/detection/tva-form.component.html" timestamp="1522029630761">
+        <mark key="[" line="0" column="39" />
+        <mark key="]" line="0" column="39" />
+        <mark key="." line="0" column="39" />
       </file>
       <file name="D:/code/python/utils/office/merge_pdfs.py" timestamp="1513152015114">
         <mark key="[" line="45" column="11" />
@@ -1708,11 +1713,11 @@
         <mark key="^" line="75" column="29" />
         <mark key="." line="72" column="0" />
       </file>
-      <file name="D:/code/web/voc-ui/src/app/shared/component/upload/upload.component.html" timestamp="1522027655550">
-        <mark key="[" line="1" column="53" />
-        <mark key="]" line="1" column="53" />
+      <file name="D:/code/web/voc-ui/src/app/shared/component/upload/upload.component.html" timestamp="1522029454002">
+        <mark key="[" line="1" column="52" />
+        <mark key="]" line="1" column="52" />
         <mark key="^" line="1" column="53" />
-        <mark key="." line="1" column="53" />
+        <mark key="." line="1" column="52" />
       </file>
       <file name="D:/code/java/cnooc/.gitignore" timestamp="1514510581429">
         <mark key="[" line="26" column="0" />
@@ -2925,8 +2930,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBwaWNfZXh0ZW5zaW9uOiBqcGcK</text>
+      <register name="&quot;" type="4">
+        <text>isVisible</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -3033,40 +3038,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text>isVisible</text>
       </register>
       <register name="/" type="4">
         <text>component</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">IyDlt6XnqIvorr7nva4KcHJvamVjdDoKICAjIOebruW9le+8jOeUqOS6juWtmOaUvuW3peeoi+eahOaWh+S7tgogIGRpcjogLi92b2MKICAjIGxkYXIgaW5zdGFsbOWtkOebruW9le+8jOWunumZheWcqOS4iui/sOebruW9leS4i+mdPwogIGluc3RhbGxfZGlyOiBpbnN0YWxscwogICMg5Li05pe25a2Q55uu5b0/CiAgdGVtcF9kaXI6IHRtcAogICMg5aSH5Lu95paH5Lu25aQ/CiAgYmFja3VwX2RpcjogYmFja3VwCiAgIyDmnD/nu4jlm77niYfmoLzlvD8KICBwaWNfZXh0ZW5zaW9uOiBqcGcK</text>
+      <register name="0" type="4">
+        <text>uploadParams = {}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwaWNfZXh0ZW5zaW9uOiBqcGcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIGZvciAobGV0IHByb3BOYW1lIGluIGNoYW5nZXMpIHsgIAoJbGV0IGNoYW5nZSA9IGNoYW5nZXNbcHJvcE5hbWVdOwoJbGV0IGN1clZhbCAgPSBKU09OLnN0cmluZ2lmeShjaGFuZ2UuY3VycmVudFZhbHVlKTsKCWxldCBwcmV2VmFsID0gSlNPTi5zdHJpbmdpZnkoY2hhbmdlLnByZXZpb3VzVmFsdWUpOwoKICAgICAgICBjb25zb2xlLmxvZyhjdXJWYWwpOwogICAgICAgIGNvbnNvbGUubG9nKHByZXZWYWwpOwogICAgIH0KICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAjIOacP+e7iOWbvueJh+agvOW8Pwo=</text>
+        <text encoding="base64">ICBwaWNfZXh0ZW5zaW9uOiBqcGcK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBiYWNrdXBfZGlyOiBiYWNrdXAK</text>
+        <text encoding="base64">ICAjIOacP+e7iOWbvueJh+agvOW8Pwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAjIOWkh+S7veaWh+S7tuWkPwo=</text>
+        <text encoding="base64">ICBiYWNrdXBfZGlyOiBiYWNrdXAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB0ZW1wX2RpcjogdG1wCg==</text>
+        <text encoding="base64">ICAjIOWkh+S7veaWh+S7tuWkPwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAjIOS4tOaXtuWtkOebruW9Pwo=</text>
+        <text encoding="base64">ICB0ZW1wX2RpcjogdG1wCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBpbnN0YWxsX2RpcjogaW5zdGFsbHMK</text>
+        <text encoding="base64">ICAjIOS4tOaXtuWtkOebruW9Pwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAjIGxkYXIgaW5zdGFsbOWtkOebruW9le+8jOWunumZheWcqOS4iui/sOebruW9leS4i+mdPwo=</text>
+        <text encoding="base64">ICBpbnN0YWxsX2RpcjogaW5zdGFsbHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHJvamVjdDoK</text>
+        <text encoding="base64">ICAjIGxkYXIgaW5zdGFsbOWtkOebruW9le+8jOWunumZheWcqOS4iui/sOebruW9leS4i+mdPwo=</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
