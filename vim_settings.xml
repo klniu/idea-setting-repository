@@ -41,12 +41,6 @@
         <mark key="^" line="83" column="25" />
         <mark key="." line="83" column="25" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cb6e028b-04c0-427c-be30-b4d266fe8774/console.sql" timestamp="1514516804362">
-        <mark key="[" line="42" column="28" />
-        <mark key="]" line="42" column="28" />
-        <mark key="." line="42" column="28" />
-        <mark key="^" line="43" column="31" />
-      </file>
       <file name="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/entity/enums/RoleName.java" timestamp="1510214079592">
         <mark key="[" line="7" column="21" />
         <mark key="]" line="7" column="30" />
@@ -135,6 +129,12 @@
         <mark key="]" line="52" column="12" />
         <mark key="^" line="52" column="12" />
         <mark key="." line="52" column="12" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.java" timestamp="1515290836374">
+        <mark key="[" line="7" column="30" />
+        <mark key="]" line="7" column="38" />
+        <mark key="^" line="7" column="38" />
+        <mark key="." line="7" column="38" />
       </file>
       <file name="D:/code/python/autostock/trade.py" timestamp="1513396631635">
         <mark key="[" line="52" column="15" />
@@ -825,11 +825,11 @@
         <mark key="." line="8" column="23" />
       </file>
       <file name="D:/code/web/voc-ui/src/app/routes/ldar/component/component.component.html" timestamp="1520844126672">
-        <mark key="'" line="77" column="49" />
-        <mark key="[" line="76" column="40" />
-        <mark key="]" line="76" column="58" />
-        <mark key="^" line="76" column="58" />
-        <mark key="." line="76" column="58" />
+        <mark key="'" line="83" column="49" />
+        <mark key="[" line="82" column="40" />
+        <mark key="]" line="82" column="58" />
+        <mark key="^" line="82" column="58" />
+        <mark key="." line="82" column="58" />
       </file>
       <file name="$USER_HOME$/code/java/vocs/src/main/java/com/klniu/voc/web/LdarSettingController.java" timestamp="1508653638324">
         <mark key="[" line="16" column="11" />
@@ -1683,12 +1683,6 @@
         <mark key="^" line="315" column="9" />
         <mark key="." line="315" column="9" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.java" timestamp="1515290836374">
-        <mark key="[" line="7" column="30" />
-        <mark key="]" line="7" column="38" />
-        <mark key="^" line="7" column="38" />
-        <mark key="." line="7" column="38" />
-      </file>
       <file name="D:/code/python/autostock/quotation.py" timestamp="1513395435718">
         <mark key="[" line="21" column="20" />
         <mark key="]" line="21" column="21" />
@@ -1978,6 +1972,12 @@
         <mark key="]" line="25" column="0" />
         <mark key="^" line="2" column="0" />
         <mark key="." line="25" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cb6e028b-04c0-427c-be30-b4d266fe8774/console.sql" timestamp="1514516804362">
+        <mark key="[" line="42" column="28" />
+        <mark key="]" line="42" column="28" />
+        <mark key="." line="42" column="28" />
+        <mark key="^" line="43" column="31" />
       </file>
       <file name="D:/code/java/voc/src/test/java/com/cnvoc/voc/web/FactoryControllerTest.java" timestamp="1521017025721">
         <mark key="'" line="0" column="0" />
@@ -2637,11 +2637,9 @@
         <mark key="^" line="18" column="10" />
       </file>
       <file name="D:/code/web/voc-ui/src/app/routes/ldar/tools/tools.component.ts" timestamp="1520842011269">
-        <mark key="'" line="39" column="24" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="^" line="39" column="50" />
-        <mark key="." line="42" column="0" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
       </file>
       <file name="$USER_HOME$/workdir/code/clear/build.gradle" timestamp="1500536437307">
         <mark key="[" line="59" column="0" />
@@ -3029,31 +3027,31 @@
         <text>component</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyDlt6XnqIvorr7nva4KcHJvamVjdDoKICAjIOebruW9le+8jOeUqOS6juWtmOaUvuW3peeoi+eahOaWh+S7tgogIGRpcjogLi92b2MKICAjIGxkYXIgaW5zdGFsbOWtkOebruW9le+8jOWunumZheWcqOS4iui/sOebruW9leS4i+mdogogIGluc3RhbGxfZGlyOiBpbnN0YWxscwogICMg5Li05pe25a2Q55uu5b2VCiAgdGVtcF9kaXI6IHRtcAogICMg5aSH5Lu95paH5Lu25aS5CiAgYmFja3VwX2RpcjogYmFja3VwCiAgIyDmnIDnu4jlm77niYfmoLzlvI8KICBwaWNfZXh0ZW5zaW9uOiBqcGcK</text>
+        <text encoding="base64">IyDlt6XnqIvorr7nva4KcHJvamVjdDoKICAjIOebruW9le+8jOeUqOS6juWtmOaUvuW3peeoi+eahOaWh+S7tgogIGRpcjogLi92b2MKICAjIGxkYXIgaW5zdGFsbOWtkOebruW9le+8jOWunumZheWcqOS4iui/sOebruW9leS4i+mdPwogIGluc3RhbGxfZGlyOiBpbnN0YWxscwogICMg5Li05pe25a2Q55uu5b0/CiAgdGVtcF9kaXI6IHRtcAogICMg5aSH5Lu95paH5Lu25aQ/CiAgYmFja3VwX2RpcjogYmFja3VwCiAgIyDmnD/nu4jlm77niYfmoLzlvD8KICBwaWNfZXh0ZW5zaW9uOiBqcGcK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBwaWNfZXh0ZW5zaW9uOiBqcGcK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAjIOacgOe7iOWbvueJh+agvOW8jwo=</text>
+        <text encoding="base64">ICAjIOacP+e7iOWbvueJh+agvOW8Pwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICBiYWNrdXBfZGlyOiBiYWNrdXAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAjIOWkh+S7veaWh+S7tuWkuQo=</text>
+        <text encoding="base64">ICAjIOWkh+S7veaWh+S7tuWkPwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICB0ZW1wX2RpcjogdG1wCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAjIOS4tOaXtuWtkOebruW9lQo=</text>
+        <text encoding="base64">ICAjIOS4tOaXtuWtkOebruW9Pwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICBpbnN0YWxsX2RpcjogaW5zdGFsbHMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAjIGxkYXIgaW5zdGFsbOWtkOebruW9le+8jOWunumZheWcqOS4iui/sOebruW9leS4i+mdogo=</text>
+        <text encoding="base64">ICAjIGxkYXIgaW5zdGFsbOWtkOebruW9le+8jOWunumZheWcqOS4iui/sOebruW9leS4i+mdPwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">cHJvamVjdDoK</text>
