@@ -691,7 +691,7 @@
         <mark key="." line="15" column="49" />
         <mark key="^" line="15" column="49" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522046869758">
+      <file name="/Dummy.txt" timestamp="1522049522210">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -913,6 +913,12 @@
         <mark key="]" line="4" column="30" />
         <mark key="." line="4" column="30" />
         <mark key="^" line="4" column="30" />
+      </file>
+      <file name="D:/code/web/voc-ui/src/app/routes/ldar/statistics/emission/emission.component.ts" timestamp="1522049417079">
+        <mark key="[" line="28" column="54" />
+        <mark key="]" line="29" column="35" />
+        <mark key="." line="29" column="35" />
+        <mark key="^" line="29" column="35" />
       </file>
       <file name="$USER_HOME$/workdir/code/clear/src/main/resources/application.properties" timestamp="1500541221134">
         <mark key="[" line="0" column="0" />
@@ -2285,6 +2291,12 @@
         <mark key="^" line="20" column="3" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="D:/code/web/voc-ui/src/app/routes/ldar/statistics/emission/emission.component.html" timestamp="1522049316313">
+        <mark key="'" line="15" column="38" />
+        <mark key="[" line="47" column="24" />
+        <mark key="]" line="47" column="24" />
+        <mark key="." line="47" column="24" />
+      </file>
       <file name="$USER_HOME$/code/java/vocs/src/main/java/com/klniu/voc/mapper/LdarSettingMapper.java" timestamp="1508666955067">
         <mark key="[" line="6" column="30" />
         <mark key="]" line="6" column="31" />
@@ -2841,7 +2853,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="897" column="0" filename="D:/code/go/src/ldar/emission_test.go" />
       <jump line="152" column="5" filename="D:/code/go/src/ldar/emission.go" />
       <jump line="138" column="43" filename="D:/code/go/src/ldar/component.go" />
       <jump line="0" column="0" filename="D:/code/go/src/ldar/Godeps/Godeps.json" />
@@ -2941,6 +2952,7 @@
       <jump line="2" column="22" filename="D:/code/web/voc-ui/src/app/layout/default/header/header.component.html" />
       <jump line="6" column="49" filename="D:/code/web/voc-ui/src/app/layout/default/sidebar/sidebar.component.html" />
       <jump line="5" column="30" filename="D:/code/web/voc-ui/src/app/layout/default/sidebar/sidebar.component.html" />
+      <jump line="15" column="38" filename="D:/code/web/voc-ui/src/app/routes/ldar/statistics/emission/emission.component.html" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2963,8 +2975,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygicmVzZXQiKQo=</text>
+      <register name="&quot;" type="4">
+        <text>]</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -3071,43 +3083,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>component</text>
       </register>
       <register name="0" type="4">
-        <text>uploadParams = {}</text>
+        <text encoding="base64">ZGF0YS5hQ291bnQrZGF0YS51ZENvdW50K2RhdGEudWFDb3VudCA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygicmVzZXQiKQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3JlcycsIHJlcyk7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtaW46IDEsCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlZmF1bHQ6ICcnLAo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5lbWlzc2lvbnMucHVzaCh7Li4ucmVzLmRhdGFbdF1bc10sIHNlYWxUeXBlOiB0LCBzZXJ2aWNlOiBzfSk7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygicmVzZXQiKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3JlcycsIHJlcyk7Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtaW46IDEsCg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlZmF1bHQ6ICcnLAo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJ0aXRsZSI+Vk9Dczwvc3Bhbj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAiYnVncyI6IHsKICAgICJ1cmwiOiAiaHR0cHM6Ly9naXRsYWIuY29tL2tsbml1L25nLWFsYWluL2lzc3VlcyIKICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtaW46IDEsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIGZvciAobGV0IHByb3BOYW1lIGluIGNoYW5nZXMpIHsgIAoJbGV0IGNoYW5nZSA9IGNoYW5nZXNbcHJvcE5hbWVdOwoJbGV0IGN1clZhbCAgPSBKU09OLnN0cmluZ2lmeShjaGFuZ2UuY3VycmVudFZhbHVlKTsKCWxldCBwcmV2VmFsID0gSlNPTi5zdHJpbmdpZnkoY2hhbmdlLnByZXZpb3VzVmFsdWUpOwoKICAgICAgICBjb25zb2xlLmxvZyhjdXJWYWwpOwogICAgICAgIGNvbnNvbGUubG9nKHByZXZWYWwpOwogICAgIH0KICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJ0aXRsZSI+Vk9Dczwvc3Bhbj4K</text>
       </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text>action PreviousTab</text>
       </register>
     </registers>
     <search>
@@ -3160,9 +3172,9 @@
         <entry encoding="base64">JzwsJz4lcy9zZWFsL3RoaXMvZ2M=</entry>
         <entry encoding="base64">JzwsJz5zL3NlYWwvdGhpcy9nYw==</entry>
         <entry>q</entry>
-        <entry>action PreviousTab</entry>
         <entry>action NextTab</entry>
         <entry>action ReformatCode</entry>
+        <entry>action PreviousTab</entry>
       </history-cmd>
       <history-expr />
       <history-input />
