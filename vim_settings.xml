@@ -1537,6 +1537,7 @@
         <mark key="." line="65" column="13" />
         <mark key="^" line="65" column="15" />
       </file>
+      <file name="D:/code/web/voc-ui/src/app/core/startup/startup.service.ts" timestamp="1522136132112" />
       <file name="D:/code/java/hbcnooc/pom.xml" timestamp="1513904190670">
         <mark key="[" line="74" column="31" />
         <mark key="]" line="74" column="31" />
@@ -1554,6 +1555,9 @@
         <mark key="]" line="4" column="0" />
         <mark key="^" line="4" column="19" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="D:/code/web/voc-delon/src/app/core/startup/startup.service.ts" timestamp="1522136273177">
+        <mark key="'" line="54" column="12" />
       </file>
       <file name="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/entity/SuperEntity.java" timestamp="1508750027154">
         <mark key="[" line="25" column="0" />
@@ -2185,7 +2189,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="130" column="26" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
       <jump line="103" column="11" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/entity/LdarSetting.java" />
       <jump line="166" column="3" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
       <jump line="67" column="85" filename="D:/code/java/voc/src/test/resources/sql/init.sql" />
@@ -2285,6 +2288,7 @@
       <jump line="82" column="47" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/web/DetectionController.java" />
       <jump line="132" column="32" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/web/ComponentController.java" />
       <jump line="123" column="50" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/web/ComponentController.java" />
+      <jump line="54" column="12" filename="D:/code/web/voc-delon/src/app/core/startup/startup.service.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2418,7 +2422,7 @@
         <text>./</text>
       </register>
       <register name="/" type="4">
-        <text>log</text>
+        <text encoding="base64">XDx2aWFNb2NrXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnN0IGJvZHk6IGFueSA9IGV2ZW50IGluc3RhbmNlb2YgSHR0cFJlc3BvbnNlICYmIGV2ZW50LmJvZHk7CiAgICAgICAgICAgICAgICBpZiAoYm9keSAmJiBib2R5LmNvZGUgIT09IDApIHsKICAgICAgICAgICAgICAgICAgICAvLyC3tbvYY29kZTQwMbHtyr7K2sioyqew3KOs1ti2qM/yCiAgICAgICAgICAgICAgICAgICAgaWYgKGJvZHkuY29kZSA9PT0gNDAxKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHRoaXMubXNnLmVycm9yKGJvZHkubXNnKTsKICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5nb1RvKCcvcGFzc3BvcnQvbG9naW4nKTsKICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAvLyC8zND4xdez9rTtzvPW0LbPuvPQ+Mv509AgUGlwZaGic3Vic2NyaWJlILLZ1/ejrNLytMujugogICAgICAgICAgICAgICAgICAgIC8vIHRoaXMuaHR0cC5nZXQoJy8nKS5zdWJzY3JpYmUoKSCyorK7u+G0pbeiCiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIG9mKGV2ZW50KTsKICAgICAgICAgICAgICAgICAgICAvLyByZXR1cm4gRXJyb3JPYnNlcnZhYmxlLnRocm93KGV2ZW50KTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
@@ -2455,17 +2459,16 @@
       </register>
     </registers>
     <search>
-      <last-search>log</last-search>
+      <last-search encoding="base64">XDx2aWFNb2NrXD4=</last-search>
       <last-offset />
-      <last-pattern>log</last-pattern>
+      <last-pattern encoding="base64">XDx2aWFNb2NrXD4=</last-pattern>
       <last-replace>this</last-replace>
       <last-substitute>seal</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>seal</entry>
         <entry encoding="base64">XDxnZXRUaW1lXD4=</entry>
         <entry>prv</entry>
         <entry>gu</entry>
@@ -2485,6 +2488,7 @@
         <entry>g2</entry>
         <entry>chart</entry>
         <entry>count</entry>
+        <entry encoding="base64">XDx2aWFNb2NrXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/LightLiquid/L/gc</entry>
