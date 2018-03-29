@@ -264,12 +264,12 @@
         <mark key="." line="1" column="16" />
         <mark key="^" line="1" column="16" />
       </file>
-      <file name="D:/code/web/voc-ui/src/app/routes/ldar/detection/detection.service.ts" timestamp="1522228597639">
-        <mark key="'" line="112" column="27" />
-        <mark key="[" line="115" column="42" />
-        <mark key="]" line="115" column="42" />
-        <mark key="." line="115" column="42" />
-        <mark key="^" line="115" column="42" />
+      <file name="D:/code/web/voc-ui/src/app/routes/ldar/detection/detection.service.ts" timestamp="1522284701149">
+        <mark key="'" line="112" column="22" />
+        <mark key="[" line="118" column="28" />
+        <mark key="]" line="118" column="45" />
+        <mark key="." line="118" column="45" />
+        <mark key="^" line="118" column="45" />
       </file>
       <file name="$USER_HOME$/workdir/web/lawindexer-ui/tsconfig.json" timestamp="1492745055994">
         <mark key="[" line="10" column="3" />
@@ -1807,8 +1807,8 @@
         <mark key="." line="22" column="16" />
         <mark key="^" line="22" column="16" />
       </file>
-      <file name="D:/code/web/voc-ui/src/app/routes/ldar/turn/turn.service.ts" timestamp="1522228669661">
-        <mark key="'" line="42" column="23" />
+      <file name="D:/code/web/voc-ui/src/app/routes/ldar/turn/turn.service.ts" timestamp="1522284319183">
+        <mark key="'" line="55" column="23" />
         <mark key="[" line="59" column="0" />
         <mark key="]" line="59" column="47" />
         <mark key="." line="59" column="0" />
@@ -2919,11 +2919,11 @@
         <mark key="^" line="26" column="108" />
         <mark key="." line="26" column="108" />
       </file>
-      <file name="D:/code/web/voc-ui/src/app/routes/common/api.service.ts" timestamp="1522228036192">
+      <file name="D:/code/web/voc-ui/src/app/routes/common/api.service.ts" timestamp="1522284333686">
         <mark key="'" line="19" column="41" />
-        <mark key="[" line="112" column="41" />
-        <mark key="]" line="112" column="41" />
-        <mark key="." line="112" column="41" />
+        <mark key="[" line="195" column="55" />
+        <mark key="]" line="195" column="55" />
+        <mark key="." line="195" column="55" />
         <mark key="^" line="202" column="36" />
       </file>
       <file name="$USER_HOME$/code/java/vocs/src/main/resources/application.yml" timestamp="1508673522378">
@@ -3040,7 +3040,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="13" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/entity/Seal.java" />
       <jump line="160" column="28" filename="D:/code/java/voc/src/test/resources/sql/init.sql" />
       <jump line="7" column="3" filename="D:/code/java/voc/src/test/resources/sql/init.sql" />
       <jump line="133" column="3" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
@@ -3139,7 +3138,8 @@
       <jump line="42" column="23" filename="D:/code/web/voc-ui/src/app/routes/ldar/turn/turn.service.ts" />
       <jump line="36" column="36" filename="D:/code/web/voc-ui/src/app/routes/ldar/unit/unit.service.ts" />
       <jump line="39" column="18" filename="D:/code/web/voc-ui/src/app/routes/ldar/detection/detection.service.ts" />
-      <jump line="112" column="27" filename="D:/code/web/voc-ui/src/app/routes/ldar/detection/detection.service.ts" />
+      <jump line="55" column="23" filename="D:/code/web/voc-ui/src/app/routes/ldar/turn/turn.service.ts" />
+      <jump line="112" column="22" filename="D:/code/web/voc-ui/src/app/routes/ldar/detection/detection.service.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3162,8 +3162,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuYXBpLnJlbW92ZUFsbFR1cm5zQ2FjaGUoKTsK</text>
+      <register name="&quot;" type="4">
+        <text>'loading turns1'</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -3270,13 +3270,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>'loading turns1'</text>
       </register>
       <register name="/" type="4">
         <text>chart</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuYXBpLnJlbW92ZUFsbFR1cm5zQ2FjaGUoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdsb2FkaW5nIHR1cm5zMScpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuYXBpLnJlbW92ZUFsbFR1cm5zQ2FjaGUoKTsK</text>
@@ -3316,7 +3316,7 @@
       <last-replace>this</last-replace>
       <last-substitute>seal</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
