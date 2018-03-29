@@ -1458,12 +1458,12 @@
         <mark key="." line="7" column="34" />
         <mark key="^" line="5" column="123" />
       </file>
-      <file name="D:/code/web/voc-web/src/app/routes/common/shared-data.service.ts" timestamp="1522336627116">
+      <file name="D:/code/web/voc-web/src/app/routes/common/shared-data.service.ts" timestamp="1522337733555">
         <mark key="'" line="11" column="13" />
-        <mark key="[" line="63" column="31" />
-        <mark key="]" line="63" column="30" />
-        <mark key="." line="63" column="30" />
-        <mark key="^" line="63" column="30" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="41" />
+        <mark key="^" line="20" column="37" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/workdir/web/react-components/tsconfig.json" timestamp="1492753652156">
         <mark key="[" line="8" column="12" />
@@ -1722,11 +1722,11 @@
         <mark key="." line="12" column="4" />
         <mark key="^" line="236" column="3" />
       </file>
-      <file name="D:/code/web/voc-web/src/app/routes/ldar/component/component.service.ts" timestamp="1522336983084">
+      <file name="D:/code/web/voc-web/src/app/routes/ldar/component/component.service.ts" timestamp="1522338080631">
         <mark key="'" line="35" column="53" />
-        <mark key="[" line="34" column="52" />
-        <mark key="]" line="34" column="52" />
-        <mark key="." line="34" column="52" />
+        <mark key="[" line="35" column="46" />
+        <mark key="]" line="35" column="46" />
+        <mark key="." line="35" column="46" />
         <mark key="^" line="33" column="38" />
       </file>
       <file name="D:/code/web/voc-web/src/app/routes/ldar/component/component.component.html" timestamp="1522334710731">
@@ -2394,12 +2394,12 @@
         <mark key="." line="18" column="14" />
         <mark key="^" line="18" column="14" />
       </file>
-      <file name="D:/code/web/voc-web/src/app/routes/common/api.service.ts" timestamp="1522336599004">
-        <mark key="'" line="212" column="53" />
-        <mark key="[" line="108" column="41" />
-        <mark key="]" line="108" column="41" />
-        <mark key="." line="108" column="41" />
-        <mark key="^" line="108" column="41" />
+      <file name="D:/code/web/voc-web/src/app/routes/common/api.service.ts" timestamp="1522337797391">
+        <mark key="'" line="217" column="53" />
+        <mark key="[" line="27" column="8" />
+        <mark key="]" line="27" column="7" />
+        <mark key="." line="27" column="7" />
+        <mark key="^" line="27" column="7" />
       </file>
       <file name="D:/code/web/voc-web/src/app/routes/base/setting/step1.component.html" timestamp="1520046652925">
         <mark key="'" line="0" column="0" />
@@ -3100,7 +3100,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>.share()</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -3207,43 +3207,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>.share()</text>
       </register>
       <register name="/" type="4">
         <text>share</text>
       </register>
-      <register name="0" type="4">
-        <text>.share()</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHVuaXRJbnN0YWxsQ2FzOiBDYXNjYWRlck9wdGlvbltdID0gW107Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG5nT25Jbml0KCk6IHZvaWQgewogICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLmNhY2hlU2VydmljZS5oYXModXJsKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZwo=</text>
+        <text encoding="base64">ICAgIHVuaXQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiY2xlYXIuLi4iKTsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHtnZXRTZXJ2ZXJDb25maWd9IGZyb20gJ0Bhbmd1bGFyL2NsaS9tb2RlbHMvd2VicGFjay1jb25maWdzJzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2NhbGxsZWQnKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aXNpYmxlOwo=</text>
+        <text encoding="base64">ICAgICAgICBnZXQgdW5pdEluc3RhbGxDYXMoKTogT2JzZXJ2YWJsZTxDYXNjYWRlck9wdGlvbltdPiB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIEB0b2RvILXatv60zrTyv6q958PmyrGz9s/Wc2bDu9PQs/XKvLuvtcTP1s/zCg==</text>
+        <text encoding="base64">ICAgIGdldCB1bml0SW5zdGFsbENhcygpOiBPYnNlcnZhYmxlPENhc2NhZGVyT3B0aW9uW10+IHsKICAgICAgICBjb25zb2xlLmxvZygnY2FsbGxlZCcpOwogICAgICAgIHJldHVybiB0aGlzLmFwaS5nZXRVbml0c0FuZEluc3RhbGxzKCkubWFwKHJlcyA9PiB7CiAgICAgICAgICAgIGlmIChyZXMuY29kZSA9PT0gMCkgewogICAgICAgICAgICAgICAgcmV0dXJuIHJlcy5kYXRhOwogICAgICAgICAgICB9CiAgICAgICAgfSk7CiAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5zZXJ2aWNlLnMuc3Vic2NyaWJlKGRhdGEgPT4gewogICAgICAgICAgICAgICAgdGhpcy5zY2hlbWEucHJvcGVydGllcy5pbnN0YWxsSWQud2lkZ2V0LmRhdGEgPSBkYXRhOwogICAgICAgICAgICAgICAgdGhpcy5zZi5yZWZyZXNoU2NoZW1hKCk7CiAgICAgICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgIG5nT25Jbml0KCk6IHZvaWQgewogICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnNoYXJlZC5zdGFuZGFyZENhcy5zdWJzY3JpYmUoZGF0YSA9PiB7CiAgICAgICAgICAgIHRoaXMuc2NoZW1hLnByb3BlcnRpZXMuc3RhbmRhcmRJZC53aWRnZXQuZGF0YSA9IGRhdGE7CiAgICAgICAgICAgIC8vIEB0b2RvILXatv60zrTyv6q958PmyrGz9s/Wc2bDu9PQs/XKvLuvtcTP1s/zCiAgICAgICAgICAgIHRoaXMuc2YucmVmcmVzaFNjaGVtYSgpOwogICAgICAgIH0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text>action NextTab</text>
       </register>
     </registers>
     <search>
@@ -3296,9 +3296,9 @@
         <entry encoding="base64">JzwsJz5zLywgbmlsL2dj</entry>
         <entry encoding="base64">JzwsJz5zLywgbmlsLzsvZ2M=</entry>
         <entry encoding="base64">JzwsJz5zL0ludGVnZXIudmFsdWVPZi9GdW5jdGlvbi5zdHJUb0ludC9nYw==</entry>
+        <entry>action ReformatCode</entry>
         <entry>action PreviousTab</entry>
         <entry>action NextTab</entry>
-        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
