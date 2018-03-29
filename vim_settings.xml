@@ -146,10 +146,11 @@
         <mark key="." line="52" column="16" />
         <mark key="^" line="52" column="16" />
       </file>
-      <file name="D:/code/web/voc-web/src/app/routes/ldar/repair/repair.component.ts" timestamp="1522320697374">
-        <mark key="[" line="158" column="0" />
-        <mark key="]" line="158" column="0" />
-        <mark key="." line="158" column="0" />
+      <file name="D:/code/web/voc-web/src/app/routes/ldar/repair/repair.component.ts" timestamp="1522324160540">
+        <mark key="'" line="220" column="26" />
+        <mark key="[" line="261" column="0" />
+        <mark key="]" line="261" column="0" />
+        <mark key="." line="261" column="0" />
       </file>
       <file name="D:/code/java/voc/src/test/java/com/cnvoc/voc/web/InstitutionControllerTest.java" timestamp="1517404752678">
         <mark key="[" line="151" column="74" />
@@ -362,10 +363,12 @@
         <mark key="." line="23" column="32" />
         <mark key="^" line="23" column="32" />
       </file>
-      <file name="D:/code/web/voc-web/src/app/routes/ldar/toberepaired/tobe-repaired.component.ts" timestamp="1522320707347">
-        <mark key="[" line="131" column="0" />
-        <mark key="]" line="131" column="0" />
-        <mark key="." line="131" column="0" />
+      <file name="D:/code/web/voc-web/src/app/routes/ldar/toberepaired/tobe-repaired.component.ts" timestamp="1522324270060">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="214" column="27" />
+        <mark key="]" line="215" column="7" />
+        <mark key="." line="215" column="7" />
+        <mark key="^" line="215" column="7" />
       </file>
       <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/entity/enums/AverageFactor.java" timestamp="1521111633149">
         <mark key="'" line="65" column="0" />
@@ -700,6 +703,12 @@
         <mark key="]" line="53" column="12" />
         <mark key="^" line="53" column="12" />
         <mark key="." line="53" column="12" />
+      </file>
+      <file name="D:/code/web/voc-web/src/app/routes/ldar/toberepaired/tobe-repaired.component.html" timestamp="1522324249101">
+        <mark key="[" line="101" column="59" />
+        <mark key="]" line="101" column="62" />
+        <mark key="." line="101" column="62" />
+        <mark key="^" line="101" column="62" />
       </file>
       <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/IEmissionService.java" timestamp="1521705059639">
         <mark key="'" line="15" column="25" />
@@ -1883,6 +1892,11 @@
         <mark key="^" line="143" column="78" />
         <mark key="." line="139" column="0" />
       </file>
+      <file name="D:/code/web/voc-web/src/app/routes/ldar/repair/repair.component.html" timestamp="1522324232504">
+        <mark key="[" line="143" column="0" />
+        <mark key="]" line="143" column="58" />
+        <mark key="." line="145" column="0" />
+      </file>
       <file name="F:/code/java/voc/pom.xml" timestamp="1514091156147">
         <mark key="[" line="73" column="13" />
         <mark key="]" line="73" column="17" />
@@ -2888,9 +2902,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="191" column="33" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/EmissionServiceImpl.java" />
-      <jump line="375" column="31" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
-      <jump line="163" column="3" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
       <jump line="130" column="26" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
       <jump line="103" column="11" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/entity/LdarSetting.java" />
       <jump line="166" column="3" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
@@ -2988,6 +2999,9 @@
       <jump line="444" column="16" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" />
       <jump line="131" column="45" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.baomidou/mybatis-plus-support/2.1.9/682c1590ff3a755ec24ce37ccab84d36b241f15f/mybatis-plus-support-2.1.9-sources.jar!/com/baomidou/mybatisplus/service/impl/ServiceImpl.java" />
       <jump line="99" column="36" filename="D:/code/web/voc-web/src/app/routes/ldar/standard/rule-form.component.ts" />
+      <jump line="55" column="18" filename="D:/code/web/voc-web/src/app/routes/ldar/repair/repair.component.ts" />
+      <jump line="220" column="26" filename="D:/code/web/voc-web/src/app/routes/ldar/repair/repair.component.ts" />
+      <jump line="0" column="0" filename="D:/code/web/voc-web/src/app/routes/ldar/toberepaired/tobe-repaired.component.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3010,8 +3024,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhmb3JtLnZhbHVlLnRpbWVSYW5nZSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>修</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -3118,43 +3132,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>v</text>
+        <text>修</text>
       </register>
       <register name="/" type="4">
         <text>log</text>
       </register>
-      <register name="0" type="4">
-        <text>?allowMultiQueries=true</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIG56LXRhYmxlLWRpdmlkZXI+PC9zcGFuPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhmb3JtLnZhbHVlLnRpbWVSYW5nZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxhIChjbGljayk9ImRlbGV0ZVJlcGFpcihkYXRhKSI+yb6z/TwvYT4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhmb3JtLnZhbHVlLnRpbWVSYW5nZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIG56LXRhYmxlLWRpdmlkZXI+PC9zcGFuPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLnNlcnZpY2UudHVybnNDYXNjYWRlcik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2Vycm9yJywgZSk7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhmb3JtLnZhbHVlLnRpbWVSYW5nZSk7Cg==</text>
+        <text encoding="base64">ICAgIGRlbGF5UmVwYWlyKHJlcGFpcjogYW55KSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLnNlcnZpY2Uuc2VhbFR5cGVzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHRkIG56LXRkPnt7ZGF0YS5zdGFuZGFyZH19PC90ZD4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncGFyc2VHcm91cCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHRoIG56LXRoPjxzcGFuPtC5wqmx6te8PC9zcGFuPjwvdGg+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndG9nZ2xlQ2hhbmdlJywgdmFsdWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhmb3JtLnZhbHVlLnRpbWVSYW5nZSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpbnNlcnRCCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhmb3JtLnZhbHVlLnRpbWVSYW5nZSk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text>action NextTab</text>
       </register>
     </registers>
     <search>
@@ -3207,9 +3221,9 @@
         <entry encoding="base64">JzwsJz5zLywgbmlsL2dj</entry>
         <entry encoding="base64">JzwsJz5zLywgbmlsLzsvZ2M=</entry>
         <entry encoding="base64">JzwsJz5zL0ludGVnZXIudmFsdWVPZi9GdW5jdGlvbi5zdHJUb0ludC9nYw==</entry>
+        <entry>action ReformatCode</entry>
         <entry>action PreviousTab</entry>
         <entry>action NextTab</entry>
-        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
