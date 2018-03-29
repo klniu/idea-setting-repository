@@ -804,7 +804,7 @@
         <mark key="." line="23" column="34" />
         <mark key="^" line="23" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522321551314">
+      <file name="/Dummy.txt" timestamp="1522337906936">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -975,7 +975,7 @@
         <mark key="^" line="2" column="60" />
         <mark key="." line="2" column="9" />
       </file>
-      <file name="D:/code/java/voc/src/main/resources/application.yaml" timestamp="1522051539597">
+      <file name="D:/code/java/voc/src/main/resources/application.yaml" timestamp="1522337902573">
         <mark key="[" line="3" column="12" />
         <mark key="]" line="3" column="14" />
         <mark key="." line="3" column="14" />
@@ -3231,8 +3231,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>prod</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -3339,7 +3339,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>msg</text>
+        <text>prod</text>
       </register>
       <register name="/" type="4">
         <text>press</text>
