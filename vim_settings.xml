@@ -294,12 +294,12 @@
         <mark key="." line="10" column="4" />
         <mark key="^" line="10" column="4" />
       </file>
-      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/common/GlobalExceptionHandler.java" timestamp="1521962345504">
-        <mark key="'" line="36" column="50" />
-        <mark key="[" line="47" column="31" />
-        <mark key="]" line="47" column="32" />
-        <mark key="." line="47" column="32" />
-        <mark key="^" line="47" column="32" />
+      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/common/GlobalExceptionHandler.java" timestamp="1522325616562">
+        <mark key="'" line="37" column="50" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="^" line="53" column="3" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="D:/code/web/voc-ui/src/styles.css" timestamp="1517907421005">
         <mark key="[" line="1" column="0" />
@@ -599,7 +599,7 @@
         <mark key="." line="31" column="8" />
         <mark key="^" line="31" column="7" />
       </file>
-      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" timestamp="1522321453737">
+      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" timestamp="1522325185602">
         <mark key="'" line="61" column="23" />
         <mark key="[" line="311" column="68" />
         <mark key="]" line="311" column="68" />
@@ -3232,7 +3232,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocmVwYWlyLmdldFN0YW5kYXJkKCkgPiByZXBhaXIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -3339,49 +3339,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID0gbnVsbA==</text>
+        <text>msg</text>
       </register>
       <register name="/" type="4">
         <text>press</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGYud3JpdGUoIjEwIEZFQiAxOCAgMDk6MTg6MzggIDAxMDElMDVkMEdWMDEgICAgMC41NiBQUE0gT0sgICAgICAgICAgIDAuMTYgUFBNIE9LICAgICAgICAgICAwLjQzIFBQTSBPSyAgICAgICAgICAgJS4yZiBQUE0gT0tcbiIgJSAoaSsxLCByYW5kb20udW5pZm9ybSgtMiwgMTAwMDApKSkK</text>
+        <text encoding="base64">ICAgIEBFeGNlcHRpb25IYW5kbGVyKERhdGFBY2Nlc3NFeGNlcHRpb24uY2xhc3MpCiAgICAvLyBAUmVzcG9uc2VTdGF0dXMoSHR0cFN0YXR1cy5CQURfUkVRVUVTVCkKICAgIEBSZXNwb25zZVN0YXR1cyhIdHRwU3RhdHVzLk9LKQogICAgcHVibGljIFJlc3VsdCBzcWxFeGNlcHRpb24oRGF0YUFjY2Vzc0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgLy8g56ysMuihjOS4reaPkOS+m+mUmeivr+S/oeaBrwogICAgICAgIFN0cmluZyBtc2cgPSBlLmdldE1lc3NhZ2UoKS5zcGxpdCgiXG4iKVsxXTsKICAgICAgICAvLyBAdG9kbyDpnIDopoHmoLnmja7nsbvlnovph43mlrDop6PmnpDlrZfnrKbkuLLmnaXov5Tlm54KICAgICAgICByZXR1cm4gbmV3IFJlc3VsdDw+KG1zZyk7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocmVwYWlyLmdldFN0YW5kYXJkKCkgPiByZXBhaXIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU2V0PEludGVnZXI+IGhhbmRsZWRObyA9IG5ldyBIYXNoU2V0PD4oKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="8">
-        <text>V
-V
-V
-V
-V
-V
-V
-V
-V
-V</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIGogaW4gcmFuZ2UoMTApOgo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IFJlc3VsdDw+KGNhdXNlKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHRkIG56LXRkPnt7c2VydmljZS51bml0c01hcFtkYXRhLnVuaXRJZCsnJ119fTwvdGQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgY2F1c2UgPSBlLmdldENhdXNlKCkuZ2V0TWVzc2FnZSgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGggbnotdGg+PHNwYW4+77+977+977+977+91Ko8L3NwYW4+PC90aD4K</text>
+        <text encoding="base64">ICAgICAgICAvLyBAdG9kbyDpnIDopoHmoLnmja7nsbvlnovph43mlrDop6PmnpDlrZfnrKbkuLLmnaXov5Tlm54K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHRkIG56LXRkPnt7c2VydmljZS51bml0c01hcFtkYXRhLnVuaXRJZCsnJ119fTwvdGQ+Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBSZXN1bHQgbXliYXRpc1BsdXNFeGNlcHRpb24oTXliYXRpc1BsdXNFeGNlcHRpb24gZSkgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGggbnotdGg+PHNwYW4+77+977+977+977+91Ko8L3NwYW4+PC90aD4K</text>
+        <text encoding="base64">ICAgIEBSZXNwb25zZVN0YXR1cyhIdHRwU3RhdHVzLk9LKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvbmctdGVtcGxhdGU+Cg==</text>
+        <text encoding="base64">ICAgIC8vIEBSZXNwb25zZVN0YXR1cyhIdHRwU3RhdHVzLkJBRF9SRVFVRVNUKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
