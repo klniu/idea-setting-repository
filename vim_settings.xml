@@ -42,6 +42,12 @@
         <mark key="^" line="83" column="25" />
         <mark key="." line="59" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cb6e028b-04c0-427c-be30-b4d266fe8774/console.sql" timestamp="1514516804362">
+        <mark key="[" line="42" column="28" />
+        <mark key="]" line="42" column="28" />
+        <mark key="." line="42" column="28" />
+        <mark key="^" line="43" column="31" />
+      </file>
       <file name="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/entity/enums/RoleName.java" timestamp="1510214079592">
         <mark key="[" line="7" column="21" />
         <mark key="]" line="7" column="30" />
@@ -120,12 +126,12 @@
         <mark key="^" line="6" column="18" />
         <mark key="." line="6" column="18" />
       </file>
-      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/LdarSettingServiceImpl.java" timestamp="1521791038017">
-        <mark key="'" line="105" column="4" />
-        <mark key="[" line="113" column="37" />
-        <mark key="]" line="113" column="43" />
-        <mark key="." line="113" column="43" />
-        <mark key="^" line="113" column="43" />
+      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/LdarSettingServiceImpl.java" timestamp="1522639306153">
+        <mark key="'" line="127" column="26" />
+        <mark key="[" line="122" column="16" />
+        <mark key="]" line="122" column="16" />
+        <mark key="." line="122" column="16" />
+        <mark key="^" line="138" column="41" />
       </file>
       <file name="$USER_HOME$/sync/code/java/livesim/DESIGN.md" timestamp="1479355574389">
         <mark key="[" line="11" column="16" />
@@ -549,12 +555,6 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="3" column="58" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.java" timestamp="1515290836374">
-        <mark key="[" line="7" column="30" />
-        <mark key="]" line="7" column="38" />
-        <mark key="^" line="7" column="38" />
-        <mark key="." line="7" column="38" />
-      </file>
       <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/entity/LdarSetting.java" timestamp="1521622564253">
         <mark key="'" line="183" column="19" />
         <mark key="[" line="69" column="24" />
@@ -593,10 +593,10 @@
         <mark key="." line="31" column="8" />
         <mark key="^" line="31" column="7" />
       </file>
-      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" timestamp="1519648103628">
-        <mark key="'" line="61" column="23" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
+      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" timestamp="1522639114174">
+        <mark key="'" line="106" column="37" />
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="107" column="72" />
         <mark key="." line="17" column="0" />
         <mark key="^" line="90" column="35" />
       </file>
@@ -1150,11 +1150,11 @@
         <mark key="^" line="7" column="3" />
         <mark key="." line="7" column="3" />
       </file>
-      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/ILdarSettingService.java" timestamp="1521791055545">
-        <mark key="[" line="27" column="29" />
-        <mark key="]" line="27" column="47" />
-        <mark key="." line="27" column="47" />
-        <mark key="^" line="27" column="47" />
+      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/ILdarSettingService.java" timestamp="1522639080991">
+        <mark key="[" line="34" column="42" />
+        <mark key="]" line="34" column="45" />
+        <mark key="." line="34" column="45" />
+        <mark key="^" line="34" column="45" />
       </file>
       <file name="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/LdarRuleServiceImplTest.java" timestamp="1521031961875">
         <mark key="'" line="46" column="45" />
@@ -1230,11 +1230,11 @@
         <mark key="^" line="38" column="39" />
         <mark key="." line="38" column="39" />
       </file>
-      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/UnitServiceImpl.java" timestamp="1518146655654">
-        <mark key="[" line="40" column="90" />
-        <mark key="]" line="40" column="101" />
-        <mark key="^" line="40" column="101" />
-        <mark key="." line="40" column="101" />
+      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/UnitServiceImpl.java" timestamp="1522638413977">
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="45" />
+        <mark key="^" line="68" column="16" />
+        <mark key="." line="68" column="16" />
       </file>
       <file name="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/web/UserController.java" timestamp="1509107730061">
         <mark key="[" line="38" column="15" />
@@ -1497,12 +1497,12 @@
         <mark key="^" line="109" column="29" />
         <mark key="." line="109" column="29" />
       </file>
-      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/InstallServiceImpl.java" timestamp="1521785646781">
+      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/InstallServiceImpl.java" timestamp="1522638425080">
         <mark key="'" line="52" column="43" />
-        <mark key="[" line="69" column="11" />
-        <mark key="]" line="69" column="17" />
+        <mark key="[" line="168" column="0" />
+        <mark key="]" line="168" column="45" />
         <mark key="^" line="69" column="17" />
-        <mark key="." line="69" column="17" />
+        <mark key="." line="168" column="0" />
       </file>
       <file name="$USER_HOME$/sync/code/java/livesim/src/main/Tree.java" timestamp="1478853333202">
         <mark key="[" line="0" column="0" />
@@ -1921,6 +1921,12 @@
         <mark key="^" line="315" column="9" />
         <mark key="." line="315" column="9" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.java" timestamp="1515290836374">
+        <mark key="[" line="7" column="30" />
+        <mark key="]" line="7" column="38" />
+        <mark key="^" line="7" column="38" />
+        <mark key="." line="7" column="38" />
+      </file>
       <file name="D:/code/python/autostock/quotation.py" timestamp="1513395435718">
         <mark key="[" line="21" column="20" />
         <mark key="]" line="21" column="21" />
@@ -1995,9 +2001,6 @@
         <mark key="]" line="12" column="2" />
         <mark key="^" line="12" column="2" />
         <mark key="." line="12" column="2" />
-      </file>
-      <file name="D:/code/web/voc-ui/src/app/routes/ldar/turn/turn.component.ts" timestamp="1522226600717">
-        <mark key="'" line="34" column="24" />
       </file>
       <file name="D:/code/web/voc-ui/src/app/routes/ldar/standard/standard.service.ts" timestamp="1522290514778">
         <mark key="'" line="48" column="40" />
@@ -2367,11 +2370,11 @@
         <mark key="." line="3" column="12" />
         <mark key="^" line="3" column="12" />
       </file>
-      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/common/TagFormatter.java" timestamp="1516187947221">
-        <mark key="[" line="26" column="43" />
-        <mark key="]" line="26" column="43" />
-        <mark key="^" line="26" column="43" />
-        <mark key="." line="26" column="43" />
+      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/common/TagFormatter.java" timestamp="1522639439599">
+        <mark key="[" line="38" column="56" />
+        <mark key="]" line="38" column="85" />
+        <mark key="^" line="38" column="85" />
+        <mark key="." line="38" column="85" />
       </file>
       <file name="D:/code/web/voc-web/src/app/routes/ldar/standard/standard.component.html" timestamp="1520139756448">
         <mark key="'" line="47" column="49" />
@@ -2531,12 +2534,12 @@
         <mark key="." line="72" column="62" />
         <mark key="^" line="72" column="61" />
       </file>
-      <file name="D:/code/java/voc/src/main/resources/sql/schema.sql" timestamp="1521940282350">
+      <file name="D:/code/java/voc/src/main/resources/sql/schema.sql" timestamp="1522638233287">
         <mark key="'" line="550" column="11" />
-        <mark key="[" line="518" column="10" />
-        <mark key="]" line="518" column="10" />
-        <mark key="^" line="519" column="20" />
-        <mark key="." line="518" column="10" />
+        <mark key="[" line="566" column="31" />
+        <mark key="]" line="566" column="30" />
+        <mark key="^" line="566" column="30" />
+        <mark key="." line="566" column="30" />
       </file>
       <file name="$USER_HOME$/code/java/law/src/main/resources/mapper/LawMapper.xml" timestamp="1507778383686">
         <mark key="[" line="19" column="0" />
@@ -2587,11 +2590,11 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="22" column="67" />
       </file>
-      <file name="D:/code/java/voc/src/test/java/com/cnvoc/voc/common/TagFormatterTest.java" timestamp="1516188105891">
-        <mark key="[" line="29" column="25" />
-        <mark key="]" line="29" column="26" />
-        <mark key="." line="29" column="26" />
-        <mark key="^" line="27" column="48" />
+      <file name="D:/code/java/voc/src/test/java/com/cnvoc/voc/common/TagFormatterTest.java" timestamp="1522639558472">
+        <mark key="[" line="35" column="65" />
+        <mark key="]" line="35" column="65" />
+        <mark key="." line="35" column="65" />
+        <mark key="^" line="35" column="65" />
       </file>
       <file name="D:/code/web/voc-delon/src/app/routes/passport/login/login.component.less" timestamp="1522140982587">
         <mark key="'" line="48" column="0" />
@@ -2806,11 +2809,11 @@
         <mark key="^" line="9" column="35" />
         <mark key="." line="9" column="35" />
       </file>
-      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/entity/enums/TagFormatField.java" timestamp="1519372464269">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="8" column="9" />
-        <mark key="^" line="7" column="21" />
-        <mark key="." line="6" column="13" />
+      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/entity/enums/TagFormatField.java" timestamp="1522638373020">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="5" column="21" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="D:/code/java/voc/src/main/resources/mapper/EmissionMapper.xml" timestamp="1521360011086">
         <mark key="[" line="2" column="40" />
@@ -3035,12 +3038,6 @@
         <mark key="^" line="26" column="7" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cb6e028b-04c0-427c-be30-b4d266fe8774/console.sql" timestamp="1514516804362">
-        <mark key="[" line="42" column="28" />
-        <mark key="]" line="42" column="28" />
-        <mark key="." line="42" column="28" />
-        <mark key="^" line="43" column="31" />
-      </file>
       <file name="$USER_HOME$/sync/code/java/mdtools/src/main/java/Main.java" timestamp="1481268261638">
         <mark key="[" line="4" column="4" />
         <mark key="]" line="37" column="4" />
@@ -3106,9 +3103,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="155" column="0" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/EmissionServiceImplTest.java" />
-      <jump line="107" column="0" filename="D:/code/java/voc/src/test/resources/sql/init.sql" />
-      <jump line="551" column="11" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
       <jump line="147" column="36" filename="D:/code/java/voc/src/test/resources/sql/init.sql" />
       <jump line="0" column="0" filename="D:/code/java/voc/src/test/resources/sql/init.sql" />
       <jump line="45" column="61" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/web/StatisticsController.java" />
@@ -3206,6 +3200,9 @@
       <jump line="17" column="39" filename="D:/code/web/voc-ui/src/app/routes/common/api.service.ts" />
       <jump line="151" column="42" filename="D:/code/web/voc-ui/src/app/routes/ldar/repair/repair.component.html" />
       <jump line="149" column="44" filename="D:/code/web/voc-ui/src/app/routes/ldar/repair/repair.component.html" />
+      <jump line="106" column="37" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" />
+      <jump line="121" column="0" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/LdarSettingServiceImpl.java" />
+      <jump line="127" column="26" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/LdarSettingServiceImpl.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3229,7 +3226,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>&quot;</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -3336,15 +3333,27 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>.do</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGYud3JpdGUoIjEwIEZFQiAxOCAgMDk6MTg6MzggIDAxMDElMDVkMEdWMDEgICAgMC41NiBQUE0gT0sgICAgICAgICAgIDAuMTYgUFBNIE9LICAgICAgICAgICAwLjQzIFBQTSBPSyAgICAgICAgICAgJS4yZiBQUE0gT0tcbiIgJSAoaSsxLCByYW5kb20udW5pZm9ybSgtMiwgMTAwMDApKSkK</text>
+      <register name="0" type="4">
+        <text>&quot;UnitNo|%2d&quot;</text>
       </register>
-      <register name="1" type="8">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIExpc3Q8UGFpcjw+Pgo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEuaW8uU2VyaWFsaXphYmxlOwo=</text>
+      </register>
+      <register name="5" type="8">
         <text>V
 V
 V
@@ -3356,29 +3365,17 @@ V
 V
 V</text>
       </register>
-      <register name="2" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZm9yIGogaW4gcmFuZ2UoMTApOgo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHRkIG56LXRkPnt7c2VydmljZS51bml0c01hcFtkYXRhLnVuaXRJZCsnJ119fTwvdGQ+Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGggbnotdGg+PHNwYW4+udzA7bWl1Ko8L3NwYW4+PC90aD4K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHRkIG56LXRkPnt7c2VydmljZS51bml0c01hcFtkYXRhLnVuaXRJZCsnJ119fTwvdGQ+Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGggbnotdGg+PHNwYW4+udzA7bWl1Ko8L3NwYW4+PC90aD4K</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvbmctdGVtcGxhdGU+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHRkIG56LXRkPnt7c2VydmljZS51bml0c01hcFtkYXRhLnVuaXRJZCsnJ119fTwvdGQ+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxuZy10ZW1wbGF0ZSAjbnpGaXhlZEhlYWRlcj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGggbnotdGg+PHNwYW4+77+977+977+977+91Ko8L3NwYW4+PC90aD4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIFtuelNjcm9sbF09InsgeDogMTIwNSwgeTogMTAwMH0iCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHRkIG56LXRkPnt7c2VydmljZS51bml0c01hcFtkYXRhLnVuaXRJZCsnJ119fTwvdGQ+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
@@ -3433,8 +3430,8 @@ V</text>
         <entry encoding="base64">JzwsJz5hY3Rpb24gTmV4dFRhYg==</entry>
         <entry>vsplit</entry>
         <entry encoding="base64">JzwsJz5J</entry>
-        <entry>action NextTab</entry>
         <entry>q</entry>
+        <entry>action NextTab</entry>
         <entry>action PreviousTab</entry>
         <entry>action ReformatCode</entry>
       </history-cmd>
