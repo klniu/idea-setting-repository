@@ -798,7 +798,7 @@
         <mark key="." line="23" column="34" />
         <mark key="^" line="23" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522350290586">
+      <file name="/Dummy.txt" timestamp="1522652569088">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1541,7 +1541,7 @@
         <mark key="^" line="53" column="66" />
         <mark key="." line="53" column="66" />
       </file>
-      <file name="D:/code/java/voc/src/test/resources/sql/init.sql" timestamp="1521794463196">
+      <file name="D:/code/java/voc/src/test/resources/sql/init.sql" timestamp="1522652743476">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="154" column="19" />
         <mark key="]" line="154" column="23" />
@@ -2590,11 +2590,11 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="22" column="67" />
       </file>
-      <file name="D:/code/java/voc/src/test/java/com/cnvoc/voc/common/TagFormatterTest.java" timestamp="1522639558472">
-        <mark key="[" line="35" column="65" />
-        <mark key="]" line="35" column="65" />
-        <mark key="." line="35" column="65" />
-        <mark key="^" line="35" column="65" />
+      <file name="D:/code/java/voc/src/test/java/com/cnvoc/voc/common/TagFormatterTest.java" timestamp="1522652618753">
+        <mark key="[" line="37" column="96" />
+        <mark key="]" line="37" column="105" />
+        <mark key="." line="37" column="105" />
+        <mark key="^" line="37" column="105" />
       </file>
       <file name="D:/code/web/voc-delon/src/app/routes/passport/login/login.component.less" timestamp="1522140982587">
         <mark key="'" line="48" column="0" />
@@ -3226,7 +3226,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>String</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -3333,7 +3333,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>String</text>
       </register>
       <register name="/" type="4">
         <text>.do</text>
@@ -3378,7 +3378,7 @@ V</text>
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHRkIG56LXRkPnt7c2VydmljZS51bml0c01hcFtkYXRhLnVuaXRJZCsnJ119fTwvdGQ+Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text>action NextTab</text>
       </register>
     </registers>
     <search>
@@ -3431,9 +3431,9 @@ V</text>
         <entry>vsplit</entry>
         <entry encoding="base64">JzwsJz5J</entry>
         <entry>q</entry>
-        <entry>action NextTab</entry>
-        <entry>action PreviousTab</entry>
         <entry>action ReformatCode</entry>
+        <entry>action PreviousTab</entry>
+        <entry>action NextTab</entry>
       </history-cmd>
       <history-expr />
       <history-input />
