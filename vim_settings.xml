@@ -969,10 +969,10 @@
         <mark key="^" line="2" column="60" />
         <mark key="." line="2" column="9" />
       </file>
-      <file name="D:/code/java/voc/src/main/resources/application.yaml" timestamp="1522051539597">
-        <mark key="[" line="3" column="12" />
-        <mark key="]" line="3" column="14" />
-        <mark key="." line="3" column="14" />
+      <file name="D:/code/java/voc/src/main/resources/application.yaml" timestamp="1522658196751">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
         <mark key="^" line="3" column="14" />
       </file>
       <file name="D:/code/web/voc-delon/src/app/routes/routes-routing.module.ts" timestamp="1522139463409">
@@ -2466,11 +2466,11 @@
         <mark key="." line="26" column="13" />
         <mark key="^" line="26" column="13" />
       </file>
-      <file name="D:/code/java/voc/src/main/resources/application-dev.yaml" timestamp="1522027258794">
-        <mark key="[" line="9" column="64" />
-        <mark key="]" line="9" column="94" />
+      <file name="D:/code/java/voc/src/main/resources/application-dev.yaml" timestamp="1522658214658">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
         <mark key="^" line="9" column="63" />
-        <mark key="." line="9" column="64" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/workdir/code/law/src/main/resources/application.properties" timestamp="1505715017614">
         <mark key="[" line="16" column="34" />
@@ -3225,8 +3225,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>nit</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyBlbmFibGUgc29tZSBpbmZvcm1hdGlvbiBkaXNwbGF5ZWQgaW4gYWN0dWF0b3IK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -3342,40 +3342,31 @@
         <text>&quot;UnitNo|%2d&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBlbmFibGUgc29tZSBpbmZvcm1hdGlvbiBkaXNwbGF5ZWQgaW4gYWN0dWF0b3IK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIExpc3Q8UGFpcjw+Pgo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuaW8uU2VyaWFsaXphYmxlOwo=</text>
+      <register name="3" type="2">
+        <text encoding="base64">bWFuYWdlbWVudDoK</text>
       </register>
-      <register name="6" type="8">
-        <text>V
-V
-V
-V
-V
-V
-V
-V
-V
-V</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICBzZWN1cml0eToKICAgIGVuYWJsZWQ6IGZhbHNlCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CiMgYXVjdHVvciDosIPor5Xkv6Hmga8KbWFuYWdlbWVudDoKICB0cmFjZToKICAgIGluY2x1ZGU6IHJlcXVlc3QtaGVhZGVycyxyZXNwb25zZS1oZWFkZXJzLGNvb2tpZXMscGFyYW1ldGVycyxlcnJvcnMK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIGogaW4gcmFuZ2UoMTApOgo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHRkIG56LXRkPnt7c2VydmljZS51bml0c01hcFtkYXRhLnVuaXRJZCsnJ119fTwvdGQ+Cg==</text>
+        <text encoding="base64">ICAgIExpc3Q8UGFpcjw+Pgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGggbnotdGg+PHNwYW4+77+977+977+977+91Ko8L3NwYW4+PC90aD4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
