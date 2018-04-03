@@ -1340,6 +1340,13 @@
         <mark key="^" line="14" column="8" />
         <mark key="." line="14" column="8" />
       </file>
+      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/config/AccessLogFilter.java" timestamp="1522718922657">
+        <mark key="'" line="76" column="0" />
+        <mark key="[" line="37" column="9" />
+        <mark key="]" line="37" column="8" />
+        <mark key="^" line="37" column="8" />
+        <mark key="." line="37" column="8" />
+      </file>
       <file name="D:/code/java/voc/src/main/resources/application-prod.yaml" timestamp="1522027265353">
         <mark key="[" line="11" column="64" />
         <mark key="]" line="11" column="94" />
@@ -2353,12 +2360,12 @@
         <mark key="." line="16" column="41" />
         <mark key="^" line="16" column="41" />
       </file>
-      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/web/SealController.java" timestamp="1521951823171">
-        <mark key="'" line="91" column="32" />
-        <mark key="[" line="90" column="0" />
-        <mark key="]" line="90" column="0" />
-        <mark key="^" line="91" column="32" />
-        <mark key="." line="90" column="0" />
+      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/web/SealController.java" timestamp="1522719923537">
+        <mark key="'" line="97" column="32" />
+        <mark key="[" line="86" column="28" />
+        <mark key="]" line="86" column="35" />
+        <mark key="." line="87" column="27" />
+        <mark key="^" line="86" column="37" />
       </file>
       <file name="D:/code/java/mpgenerator/src/main/kotlin/voc.kt" timestamp="1514782652155">
         <mark key="[" line="13" column="55" />
@@ -2487,11 +2494,11 @@
         <mark key="." line="26" column="13" />
         <mark key="^" line="26" column="13" />
       </file>
-      <file name="D:/code/java/voc/src/main/resources/application-dev.yaml" timestamp="1522027258794">
-        <mark key="[" line="9" column="64" />
-        <mark key="]" line="9" column="94" />
-        <mark key="^" line="9" column="63" />
-        <mark key="." line="9" column="64" />
+      <file name="D:/code/java/voc/src/main/resources/application-dev.yaml" timestamp="1522718459490">
+        <mark key="[" line="30" column="63" />
+        <mark key="]" line="30" column="63" />
+        <mark key="^" line="30" column="63" />
+        <mark key="." line="30" column="63" />
       </file>
       <file name="$USER_HOME$/workdir/code/law/src/main/resources/application.properties" timestamp="1505715017614">
         <mark key="[" line="16" column="34" />
@@ -2873,11 +2880,11 @@
         <mark key="^" line="67" column="28" />
         <mark key="." line="67" column="28" />
       </file>
-      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/VocApplication.java" timestamp="1518144936605">
-        <mark key="[" line="63" column="4" />
-        <mark key="]" line="63" column="4" />
-        <mark key="^" line="63" column="4" />
-        <mark key="." line="63" column="4" />
+      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/VocApplication.java" timestamp="1522718416651">
+        <mark key="[" line="35" column="4" />
+        <mark key="]" line="42" column="1" />
+        <mark key="^" line="35" column="3" />
+        <mark key="." line="35" column="4" />
       </file>
       <file name="D:/code/java/vocs/src/main/java/com/klniu/voc/common/MpMysqlGenerator.java" timestamp="1513736552885">
         <mark key="[" line="25" column="49" />
@@ -3124,7 +3131,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="107" column="0" filename="D:/code/java/voc/src/test/resources/sql/init.sql" />
       <jump line="551" column="11" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
       <jump line="147" column="36" filename="D:/code/java/voc/src/test/resources/sql/init.sql" />
       <jump line="0" column="0" filename="D:/code/java/voc/src/test/resources/sql/init.sql" />
@@ -3224,6 +3230,7 @@
       <jump line="151" column="42" filename="D:/code/web/voc-ui/src/app/routes/ldar/repair/repair.component.html" />
       <jump line="149" column="44" filename="D:/code/web/voc-ui/src/app/routes/ldar/repair/repair.component.html" />
       <jump line="163" column="44" filename="D:/code/java/voc/src/test/resources/sql/init.sql" />
+      <jump line="64" column="0" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/config/AccessLogFilter.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3247,7 +3254,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>e41cd20c28</text>
+        <text>dasfasdf</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -3354,43 +3361,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>List</text>
+        <text>&quot;dasfasdf&quot;)</text>
       </register>
       <register name="/" type="4">
         <text>.do</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PFQ+IGxlc3MgPSBuZXcgQXJyYXlMaXN0PD4oKTsK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImRhc2Zhc2RmIilnZXRCb2R5KCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qYm9zcy5zaHJpbmt3cmFwLmFwaS5zcGVjLkphdmFBcmNoaXZlOwo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZ2V0Qm9keSgpKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qYm9zcy5zaHJpbmt3cmFwLmFwaS5hc3NldC5FbXB0eUFzc2V0Owo=</text>
+        <text encoding="base64">ICAgIEBqYXZheC5pbmplY3QuSW5qZWN0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qYm9zcy5zaHJpbmt3cmFwLmFwaS5TaHJpbmtXcmFwOwo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5sb2dnaW5nLkxvZ2dlcjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qYm9zcy5hcnF1aWxsaWFuLmp1bml0LkFycXVpbGxpYW47Cg==</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIEFjY2Vzc0xvZ0ZpbHRlciB7Cn0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qYm9zcy5hcnF1aWxsaWFuLmNvbnRhaW5lci50ZXN0LmFwaS5EZXBsb3ltZW50Owo=</text>
+        <text encoding="base64">bG9nZ2luZy5sZXZlbC5vcmcuc3ByaW5nZnJhbWV3b3JrLndlYi5maWx0ZXIuQ29tbW9uc1JlcXVlc3RMb2dnaW5nRmlsdGVyPURFQlVHCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheXM7Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qYm9zcy5zaHJpbmt3cmFwLmFwaS5zcGVjLkphdmFBcmNoaXZlOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBpZiAodmFsdWVzLnNpemUoKT09IDIpIHsKICAgICAgICAvLyAgICAgaWYgKHZhbHVlc1swXSA+PSB2YWx1ZXNbMV0pIHsKICAgICAgICAvLyAgICAgICAgIGludCB0bXAgPSB2YWx1ZXNbMF07CiAgICAgICAgLy8gICAgICAgICB2YWx1ZXNbMF0gPSB2YWx1ZXNbMV07CiAgICAgICAgLy8gICAgICAgICB2YWx1ZXNbMV0gPSB0bXA7CiAgICAgICAgLy8gICAgIH0KICAgICAgICAvLyAgICAgcmV0dXJuIHZhbHVlczsKICAgICAgICAvLyB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qYm9zcy5zaHJpbmt3cmFwLmFwaS5hc3NldC5FbXB0eUFzc2V0Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzb3J0KGdyZWF0ZXIpOwo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qYm9zcy5zaHJpbmt3cmFwLmFwaS5TaHJpbmtXcmFwOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qYm9zcy5hcnF1aWxsaWFuLmp1bml0LkFycXVpbGxpYW47Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action NextTab</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
@@ -3444,8 +3451,8 @@
         <entry encoding="base64">JzwsJz5J</entry>
         <entry>q</entry>
         <entry>action PreviousTab</entry>
-        <entry>action ReformatCode</entry>
         <entry>action NextTab</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
