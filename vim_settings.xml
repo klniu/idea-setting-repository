@@ -1556,12 +1556,12 @@
         <mark key="^" line="53" column="66" />
         <mark key="." line="53" column="66" />
       </file>
-      <file name="D:/code/java/voc/src/test/resources/sql/init.sql" timestamp="1522828138758">
-        <mark key="'" line="190" column="64" />
-        <mark key="[" line="105" column="71" />
-        <mark key="]" line="105" column="98" />
-        <mark key="^" line="103" column="97" />
-        <mark key="." line="105" column="71" />
+      <file name="D:/code/java/voc/src/test/resources/sql/init.sql" timestamp="1522829094024">
+        <mark key="'" line="208" column="64" />
+        <mark key="[" line="176" column="63" />
+        <mark key="]" line="176" column="65" />
+        <mark key="^" line="176" column="65" />
+        <mark key="." line="176" column="65" />
       </file>
       <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/DetectionServiceImpl.java" timestamp="1521938756059">
         <mark key="[" line="233" column="44" />
@@ -3256,7 +3256,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>UnitNo|%02d;InstallNo|%02d;</text>
+        <text>销售终端2</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -3363,16 +3363,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>0301000010</text>
+        <text>销售终端2</text>
       </register>
       <register name="/" type="4">
         <text>.do</text>
       </register>
-      <register name="0" type="4">
-        <text>UnitNo|%02d;InstallNo|%02d;</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAoNSwgNiwgMSwgMSwgMywgJ+mUgOWUrue7iOerrzMnLCAnWFNaRDMnLCAyLCAnMjAxNC0wNS0wMScsICdvMjNmbGFzZmxqJywgJ+mUgOWUrue7iOerrzInKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKGlMZGFyU2V0dGluZ1NlcnZpY2UuZ2V0QnlGYWN0b3J5SWQoYW55KCkpKS50aGVuUmV0dXJuKHNldHRpbmcpOwo=</text>
+        <text encoding="base64">ICAoNCwgNywgMiwgJ+euoeeQhuWNleWFgzQnLCAnR0xEWTQnLCAn566h55CG5Y2V5YWDNCcpOwo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICB3aGVuKGlMZGFyU2V0dGluZ1NlcnZpY2UuZ2V0QnlGYWN0b3J5SWQoYW55KCkpKS50aGVuUmV0dXJuKHNldHRpbmcpOwo=</text>
@@ -3381,22 +3381,22 @@
         <text encoding="base64">ICAgICAgICB3aGVuKGlMZGFyU2V0dGluZ1NlcnZpY2UuZ2V0QnlGYWN0b3J5SWQoYW55KCkpKS50aGVuUmV0dXJuKHNldHRpbmcpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qYm9zcy5zaHJpbmt3cmFwLmFwaS5zcGVjLkphdmFBcmNoaXZlOwo=</text>
+        <text encoding="base64">ICAgICAgICB3aGVuKGlMZGFyU2V0dGluZ1NlcnZpY2UuZ2V0QnlGYWN0b3J5SWQoYW55KCkpKS50aGVuUmV0dXJuKHNldHRpbmcpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qYm9zcy5zaHJpbmt3cmFwLmFwaS5hc3NldC5FbXB0eUFzc2V0Owo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qYm9zcy5zaHJpbmt3cmFwLmFwaS5zcGVjLkphdmFBcmNoaXZlOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qYm9zcy5zaHJpbmt3cmFwLmFwaS5TaHJpbmtXcmFwOwo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qYm9zcy5zaHJpbmt3cmFwLmFwaS5hc3NldC5FbXB0eUFzc2V0Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qYm9zcy5hcnF1aWxsaWFuLmp1bml0LkFycXVpbGxpYW47Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qYm9zcy5zaHJpbmt3cmFwLmFwaS5TaHJpbmtXcmFwOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qYm9zcy5hcnF1aWxsaWFuLmNvbnRhaW5lci50ZXN0LmFwaS5EZXBsb3ltZW50Owo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qYm9zcy5hcnF1aWxsaWFuLmp1bml0LkFycXVpbGxpYW47Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheXM7Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qYm9zcy5hcnF1aWxsaWFuLmNvbnRhaW5lci50ZXN0LmFwaS5EZXBsb3ltZW50Owo=</text>
       </register>
       <register name=":" type="4">
         <text>action NextTab</text>
