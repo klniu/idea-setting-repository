@@ -257,11 +257,12 @@
         <mark key="^" line="83" column="32" />
         <mark key="." line="83" column="32" />
       </file>
-      <file name="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/UnitServiceImplTest.java" timestamp="1522826211989">
+      <file name="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/UnitServiceImplTest.java" timestamp="1522828183723">
         <mark key="'" line="134" column="24" />
-        <mark key="[" line="139" column="25" />
-        <mark key="]" line="139" column="26" />
-        <mark key="." line="139" column="26" />
+        <mark key="[" line="142" column="34" />
+        <mark key="]" line="142" column="35" />
+        <mark key="." line="142" column="35" />
+        <mark key="^" line="141" column="33" />
       </file>
       <file name="D:/code/web/voc-delon/src/app/routes/base/factory/factory.component.ts" timestamp="1522139789401">
         <mark key="'" line="36" column="80" />
@@ -1555,12 +1556,12 @@
         <mark key="^" line="53" column="66" />
         <mark key="." line="53" column="66" />
       </file>
-      <file name="D:/code/java/voc/src/test/resources/sql/init.sql" timestamp="1521794463196">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="154" column="19" />
-        <mark key="]" line="154" column="23" />
-        <mark key="^" line="158" column="63" />
-        <mark key="." line="158" column="37" />
+      <file name="D:/code/java/voc/src/test/resources/sql/init.sql" timestamp="1522828138758">
+        <mark key="'" line="190" column="64" />
+        <mark key="[" line="105" column="71" />
+        <mark key="]" line="105" column="98" />
+        <mark key="^" line="103" column="97" />
+        <mark key="." line="105" column="71" />
       </file>
       <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/DetectionServiceImpl.java" timestamp="1521938756059">
         <mark key="[" line="233" column="44" />
@@ -3132,7 +3133,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="4" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/EmissionServiceImpl.java" />
       <jump line="602" column="0" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/EmissionServiceImpl.java" />
       <jump line="666" column="34" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/EmissionServiceImpl.java" />
       <jump line="78" column="13" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/EmissionServiceImpl.java" />
@@ -3232,6 +3232,7 @@
       <jump line="193" column="47" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/InstallServiceImplTest.java" />
       <jump line="134" column="24" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/UnitServiceImplTest.java" />
       <jump line="112" column="34" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/UnitServiceImpl.java" />
+      <jump line="190" column="64" filename="D:/code/java/voc/src/test/resources/sql/init.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3254,8 +3255,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKGlMZGFyU2V0dGluZ1NlcnZpY2UuZ2V0QnlGYWN0b3J5SWQoYW55KCkpKS50aGVuUmV0dXJuKHNldHRpbmcpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>UnitNo|%02d;InstallNo|%02d;</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -3362,13 +3363,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>).thenReturn(setting);</text>
+        <text>0301000010</text>
       </register>
       <register name="/" type="4">
         <text>.do</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBkb1JldHVybihzZXR0aW5nKS53aGVuKGlMZGFyU2V0dGluZ1NlcnZpY2UpLmdldEJ5RmFjdG9yeUlkKGFueSgpKTsK</text>
+      <register name="0" type="4">
+        <text>UnitNo|%02d;InstallNo|%02d;</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB3aGVuKGlMZGFyU2V0dGluZ1NlcnZpY2UuZ2V0QnlGYWN0b3J5SWQoYW55KCkpKS50aGVuUmV0dXJuKHNldHRpbmcpOwo=</text>
