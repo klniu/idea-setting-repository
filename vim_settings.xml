@@ -699,9 +699,9 @@
         <mark key="." line="12" column="20" />
         <mark key="^" line="12" column="20" />
       </file>
-      <file name="D:/code/java/voc/src/main/resources/application-test.yaml" timestamp="1522923939628">
-        <mark key="[" line="13" column="4" />
-        <mark key="]" line="13" column="5" />
+      <file name="D:/code/java/voc/src/main/resources/application-test.yaml" timestamp="1522925294177">
+        <mark key="[" line="8" column="36" />
+        <mark key="]" line="8" column="44" />
         <mark key="." line="13" column="5" />
         <mark key="^" line="13" column="5" />
       </file>
@@ -798,7 +798,7 @@
         <mark key="." line="23" column="34" />
         <mark key="^" line="23" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522833728240">
+      <file name="/Dummy.txt" timestamp="1522926348199">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -2151,6 +2151,11 @@
         <mark key="." line="10" column="2" />
         <mark key="^" line="10" column="1" />
       </file>
+      <file name="D:/code/java/voc/build.gradle" timestamp="1522926155623">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/web/StatisticsController.java" timestamp="1521704942775">
         <mark key="'" line="45" column="61" />
         <mark key="[" line="50" column="66" />
@@ -2314,7 +2319,7 @@
         <mark key="." line="30" column="34" />
         <mark key="^" line="30" column="33" />
       </file>
-      <file name="/fragment.java" timestamp="1522548636008">
+      <file name="/fragment.java" timestamp="1522926348235">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/code/java/cnooc/src/main/kotlin/com/cnvoc/cnooc/entity/manual/Company.kt" timestamp="1514536589459">
@@ -3130,9 +3135,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="513" column="60" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" />
-      <jump line="105" column="4" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/LdarSettingServiceImpl.java" />
-      <jump line="78" column="23" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" />
       <jump line="412" column="19" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" />
       <jump line="424" column="31" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" />
       <jump line="29" column="0" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/EmissionServiceImplTest.java" />
@@ -3230,6 +3232,9 @@
       <jump line="134" column="23" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/UnitServiceImplTest.java" />
       <jump line="87" column="34" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/UnitServiceImpl.java" />
       <jump line="92" column="41" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/UnitServiceImpl.java" />
+      <jump line="75" column="17" filename="D:/code/java/voc/build.gradle" />
+      <jump line="71" column="5" filename="D:/code/java/voc/build.gradle" />
+      <jump line="82" column="6" filename="D:/code/java/voc/build.gradle" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3252,8 +3257,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -3360,57 +3365,56 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>main</text>
       </register>
       <register name="/" type="4">
-        <text>.do</text>
+        <text encoding="base64">XDxsb2FkTXlTcWxEcml2ZXJcPg==</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">IGV4dGVuZHMgU2VydmljZUltcGw8SW5zdGFsbE1hcHBlciwgSW5zdGFsbD4gaW1wbGVtZW50cyBJSW5zdGFsbFNlcnZpY2U=</text>
+        <text>src/main/resources/sql</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbnN0YWxsLnNldEZvbGRlcigiIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAoNCwgNywgMiwgJ+euoeeQhuWNleWFgzQnLCAnR0xEWTQnLCAn566h55CG5Y2V5YWDNCcpOwo=</text>
+        <text encoding="base64">aW1wb3J0IGdyb292eS5zcWwuU3FsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKGlMZGFyU2V0dGluZ1NlcnZpY2UuZ2V0QnlGYWN0b3J5SWQoYW55KCkpKS50aGVuUmV0dXJuKHNldHRpbmcpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKGlMZGFyU2V0dGluZ1NlcnZpY2UuZ2V0QnlGYWN0b3J5SWQoYW55KCkpKS50aGVuUmV0dXJuKHNldHRpbmcpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKGlMZGFyU2V0dGluZ1NlcnZpY2UuZ2V0QnlGYWN0b3J5SWQoYW55KCkpKS50aGVuUmV0dXJuKHNldHRpbmcpOwo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qYm9zcy5zaHJpbmt3cmFwLmFwaS5zcGVjLkphdmFBcmNoaXZlOwo=</text>
+        <text encoding="base64">ICAgIGRyaXZlcgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qYm9zcy5zaHJpbmt3cmFwLmFwaS5hc3NldC5FbXB0eUFzc2V0Owo=</text>
+        <text encoding="base64">Y29uZmlndXJhdGlvbnMgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qYm9zcy5zaHJpbmt3cmFwLmFwaS5TaHJpbmtXcmFwOwo=</text>
+        <text encoding="base64">ICAgIGRyaXZlcignbXlzcWw6bXlzcWwtY29ubmVjdG9yLWphdmEnKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qYm9zcy5hcnF1aWxsaWFuLmp1bml0LkFycXVpbGxpYW47Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action NextTab</text>
       </register>
     </registers>
     <search>
-      <last-search>.do</last-search>
+      <last-search encoding="base64">XDxsb2FkTXlTcWxEcml2ZXJcPg==</last-search>
       <last-offset />
-      <last-pattern>.do</last-pattern>
+      <last-pattern encoding="base64">XDxsb2FkTXlTcWxEcml2ZXJcPg==</last-pattern>
       <last-replace>this</last-replace>
       <last-substitute>seal</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>UNIQUE</entry>
         <entry>LdarStandard</entry>
         <entry>ldarStandard</entry>
         <entry>standard</entry>
@@ -3430,6 +3434,7 @@
         <entry>ngif</entry>
         <entry>Plain Text</entry>
         <entry encoding="base64">XDxleHRzXD4=</entry>
+        <entry encoding="base64">XDxsb2FkTXlTcWxEcml2ZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Institution/Unit/gc</entry>
