@@ -1179,12 +1179,12 @@
         <mark key="^" line="44" column="0" />
         <mark key="." line="59" column="17" />
       </file>
-      <file name="D:/code/python/utils/code/average_level.py" timestamp="1523237182267">
+      <file name="D:/code/python/utils/code/average_level.py" timestamp="1523239862301">
         <mark key="'" line="10" column="10" />
-        <mark key="[" line="7" column="11" />
-        <mark key="]" line="7" column="12" />
-        <mark key="." line="7" column="12" />
-        <mark key="^" line="7" column="10" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="23" column="0" />
       </file>
       <file name="$USER_HOME$/workdir/code/now-antd-js/src/App.css" timestamp="1499414625520">
         <mark key="[" line="18" column="1" />
@@ -1459,6 +1459,12 @@
         <mark key="]" line="60" column="35" />
         <mark key="." line="60" column="35" />
         <mark key="^" line="60" column="32" />
+      </file>
+      <file name="D:/code/python/utils/code/test_random_divide.py" timestamp="1523237910403">
+        <mark key="[" line="9" column="21" />
+        <mark key="]" line="9" column="21" />
+        <mark key="." line="9" column="21" />
+        <mark key="^" line="9" column="21" />
       </file>
       <file name="D:/code/python/autostock/quotation.py" timestamp="1513395435718">
         <mark key="[" line="21" column="20" />
@@ -2513,7 +2519,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>n</text>
+        <text>(11.75^2)</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2620,40 +2626,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>(11.75^2)</text>
       </register>
       <register name="/" type="4">
         <text>schema</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXZkb2MgPSB3aW4zMmNvbS5jbGllbnQuZHluYW1pYy5EaXNwYXRjaCgiQWNyb0V4Y2guQVZEb2MiKQogICAgICAgICAgICBpZiBub3QgYXZkb2MuT3BlbihmaWxlX3BhdGgsICJkb2MycGRmIik6CiAgICAgICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCJ1bmFibGUgdG8gb3BlbiAlcyIgJSBmaWxlX3BhdGgpCiAgICAgICAgICAgIHBkZG9jID0gYXZkb2MuR2V0UEREb2MoKQogICAgICAgICAgICBpZiBub3QgcGRkb2MuU2F2ZSgxLCBkZXNfcGF0aCk6CiAgICAgICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCJ1bmFibGUgdG8gc2F2ZSAlcyIgJSBkZXNfcGF0aCkKCiAgICAgICAgICAgIGlmIG5vdCBwZGRvYy5DbG9zZSgpOgogICAgICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcigidW5hYmxlIHRvIGNsb3NlICVzIiAlIGRlc19wYXRoKQoKICAgICAgICAgICAgZGVsIHBkZG9jCgogICAgICAgICAgICBpZiBub3QgYXZkb2MuQ2xvc2UoVHJ1ZSk6CiAgICAgICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCJ1bmFibGUgdG8gY2xvc2UgJXMiICUgZGVzX3BhdGgpCiAgICAgICAgICAgIGRlbCBhdmRvYwo=</text>
+      <register name="0" type="4">
+        <text>pow(11.75, 2)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlZiBpbm5lcihpKToKICAgICAgICBub25sb2NhbCByZXN0CiAgICAgICAgdiA9IDEgKyBtYXRoLmZsb29yKHJhbmRvbS5yYW5kb20oKSAqIChyZXN0IC8gaSAqIDIgLSAxKSk7CiAgICAgICAgcmVzdCAtPSB2CiAgICAgICAgcmV0dXJuIHJlc3QKCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmZhaWwoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdCA9IG1hcCgpCiAgICBjb25zdCByZXN1bHQgPSBBcnJheS5hcHBseShudWxsLCB7IGxlbmd0aDogbnVtcyB9KQogICAgICAgIC5tYXAoKG4sIGkpID0+IG51bXMgLSBpKQogICAgLm1hcChuID0+IHsKICAgICAgICBjb25zdCB2ID0gMSArIE1hdGguZmxvb3IoTWF0aC5yYW5kb20oKSAqIChyZXN0IC8gbiAqIDIgLSAxKSk7CiAgICByZXN0IC09IHY7CiAgICByZXR1cm4gdjsKICAgIH0pOwogICAgcmVzdWx0W251bXMgLSAxXSArPSByZXN0Owo=</text>
+        <text encoding="base64">ICAgIGRlZiBpbm5lcihpKToKICAgICAgICBub25sb2NhbCByZXN0CiAgICAgICAgdiA9IDEgKyBtYXRoLmZsb29yKHJhbmRvbS5yYW5kb20oKSAqIChyZXN0IC8gaSAqIDIgLSAxKSk7CiAgICAgICAgcmVzdCAtPSB2CiAgICAgICAgcmV0dXJuIHJlc3QKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdC4K</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJlc3VsdCA9IG1hcCgpCiAgICBjb25zdCByZXN1bHQgPSBBcnJheS5hcHBseShudWxsLCB7IGxlbmd0aDogbnVtcyB9KQogICAgICAgIC5tYXAoKG4sIGkpID0+IG51bXMgLSBpKQogICAgLm1hcChuID0+IHsKICAgICAgICBjb25zdCB2ID0gMSArIE1hdGguZmxvb3IoTWF0aC5yYW5kb20oKSAqIChyZXN0IC8gbiAqIDIgLSAxKSk7CiAgICByZXN0IC09IHY7CiAgICByZXR1cm4gdjsKICAgIH0pOwogICAgcmVzdWx0W251bXMgLSAxXSArPSByZXN0Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZiAK</text>
+        <text encoding="base64">ICAgIHJlc3VsdC4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB3YiA9IHNlbGYueGwuV29ya2Jvb2tzLk9wZW4oZmlsZV9wYXRoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkb2MuQ2xvc2UoRmFsc2UpCg==</text>
+        <text encoding="base64">ICAgIGRlZiAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIGRvYyA9IHNlbGYuZG9jLkRvY3VtZW50cy5PcGVuKGZpbGVfcGF0aCkK</text>
+        <text encoding="base64">ICAgICAgICB3YiA9IHNlbGYueGwuV29ya2Jvb2tzLk9wZW4oZmlsZV9wYXRoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
