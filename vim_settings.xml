@@ -1182,12 +1182,12 @@
         <mark key="^" line="44" column="0" />
         <mark key="." line="59" column="17" />
       </file>
-      <file name="D:/code/python/utils/code/average_level.py" timestamp="1523247748994">
-        <mark key="'" line="10" column="10" />
-        <mark key="[" line="14" column="61" />
-        <mark key="]" line="14" column="61" />
-        <mark key="." line="14" column="61" />
-        <mark key="^" line="14" column="61" />
+      <file name="D:/code/python/utils/code/average_level.py" timestamp="1523260419670">
+        <mark key="'" line="55" column="14" />
+        <mark key="[" line="60" column="33" />
+        <mark key="]" line="61" column="16" />
+        <mark key="." line="61" column="16" />
+        <mark key="^" line="61" column="16" />
       </file>
       <file name="$USER_HOME$/workdir/code/now-antd-js/src/App.css" timestamp="1499414625520">
         <mark key="[" line="18" column="1" />
@@ -1919,7 +1919,7 @@
         <mark key="^" line="39" column="41" />
         <mark key="." line="39" column="41" />
       </file>
-      <file name="/Python Console" timestamp="1523241925792">
+      <file name="/Python Console" timestamp="1523260613293">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/code/java/jeesite/src/main/resources/jeesite.properties" timestamp="1519516405204">
@@ -2408,11 +2408,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="4" filename="D:/code/python/utils/office/exportpdf.py" />
-      <jump line="88" column="21" filename="D:/code/python/utils/office/exportpdf.py" />
-      <jump line="368" column="0" filename="D:/code/web/voc-web/src/app/routes/base/setting/step6.component.ts" />
-      <jump line="13" column="13" filename="D:/code/web/voc-web/src/app/routes/base/setting/photo-number.component.ts" />
-      <jump line="159" column="0" filename="D:/code/web/voc-web/src/app/routes/forms/standard/standard.component.html" />
       <jump line="1" column="55" filename="D:/code/web/voc-web/src/app/routes/base/setting/tag-formatter.component.ts" />
       <jump line="46" column="50" filename="D:/code/web/voc-web/src/app/routes/base/setting/photo-number.component.ts" />
       <jump line="12" column="24" filename="D:/code/web/voc-web/src/app/routes/base/base.module.ts" />
@@ -2508,6 +2503,11 @@
       <jump line="109" column="56" filename="D:/code/python/utils/office/exportpdf.py" />
       <jump line="84" column="0" filename="D:/code/python/utils/office/exportpdf.py" />
       <jump line="7" column="10" filename="D:/code/python/utils/code/average_level.py" />
+      <jump line="44" column="11" filename="D:/code/python/utils/code/average_level.py" />
+      <jump line="5" column="14" filename="D:/code/python/utils/code/average_level.py" />
+      <jump line="51" column="7" filename="D:/code/python/utils/code/average_level.py" />
+      <jump line="6" column="19" filename="D:/code/python/utils/code/average_level.py" />
+      <jump line="53" column="14" filename="D:/code/python/utils/code/average_level.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2530,8 +2530,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>5</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2638,40 +2638,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>schema</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKDk2Njc5LCBzdW0obWFwKGxhbWJkYSB4OiAzLjE0ICogcG93KDExLjc1LCAyKSAqIHggLyAxMDAwIC0gNTAuOTYsIHJlc3VsdCkpKQo=</text>
+      <register name="0" type="4">
+        <text>sht.range('J5').value</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBub25sb2NhbCBtaW4K</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICMgtdrSu7j219zSus67Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKDk2Njc5LCBzdW0obWFwKGxhbWJkYSB4OiAzLjE0ICogcG93KDExLjc1LCAyKSAqIHggLyAxMDAwIC0gNTAuOTYsIHJlc3VsdCkpKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwoOTY2NzksIDMuMTQgKiBwb3coMTEuNzUsIDIpICogc3VtKHJlc3VsdCkgLyAxMDAwIC0gNTAuOTYsIHJlc3VsdCkpKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKDIyMzAxMS4yNDgxMzY2MDM4Niwgc3VtKHJlc3VsdCkpCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYnJlYWsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBub3cuZGF5ID09IDY6Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHdiID0geHcuQm9vaygpCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxldmVsMiA9IHByb2R1Y3QyICogMTAwMCAvIDMuMTQgLyBwb3coMTEuNzUsIDIpCg==</text>
+        <text encoding="base64">ICAgICAgICBhcHAucXVpdCgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxldmVsMSA9IChwcm9kdWN0MSArIDUwLjk2KSAqIDEwMDAgLyAzLjE0IC8gcG93KDExLjc1LCAyKQo=</text>
+        <text encoding="base64">ICAgICAgICBhcHAgPSB4dy5hcHBzLmFjdGl2ZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KGxldmVsMSwgbGV2ZWwyKQo=</text>
+        <text encoding="base64">ICAgICAgICBhcHAgPSB4dy5hcHBzLmFjdGl2ZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxldmVsMiA9IHByb2R1Y3QyICogMTAwMCAvIDMuMTQgLyBwb3coMTEuNzUsIDIpCg==</text>
+        <text encoding="base64">ICAgICAgICB3Yi5jbG9zZSgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
