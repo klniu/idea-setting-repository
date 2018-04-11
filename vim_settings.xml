@@ -1082,11 +1082,10 @@
         <mark key="." line="4" column="30" />
         <mark key="^" line="4" column="30" />
       </file>
-      <file name="D:/code/java/cnooc/Readme.md" timestamp="1523410751338">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="96" />
-        <mark key="^" line="6" column="30" />
-        <mark key="." line="6" column="23" />
+      <file name="D:/code/java/cnooc/Readme.md" timestamp="1523411779331">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/workdir/code/clear/src/main/resources/application.properties" timestamp="1500541221134">
         <mark key="[" line="0" column="0" />
@@ -3383,8 +3382,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>imp jnjp/jnjp@jnjp file=E:\workdir\hb_cnooc\JNJP20171130U.dmp log=E:\Downloads\jnjpimp.log FULL=Y</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -3503,28 +3502,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXJ1bnRpbWUoJ215c3FsOm15c3FsLWNvbm5lY3Rvci1qYXZhJykK</text>
+        <text encoding="base64">c2V0IE9SQUNMRV9TSUQ9bXluZXdkYgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBDb25maWcgZ2V0TXlzcWxDb25maWcoKSB7CiAgICAgICAgQ29uZmlnIGNvbmYgPSBuZXcgQ29uZmlnKCk7CiAgICAgICAgY29uZi5kYXRhYmFzZVR5cGUgPSBEYlR5cGUuTVlTUUw7CiAgICAgICAgY29uZi5kcml2ZXJOYW1lID0gImNvbS5teXNxbC5qZGJjLkRyaXZlciI7CiAgICAgICAgcmV0dXJuIGNvbmY7CiAgICB9Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="8">
-        <text>http://github.com</text>
+      <register name="4" type="2">
+        <text encoding="base64">CXJ1bnRpbWUoJ215c3FsOm15c3FsLWNvbm5lY3Rvci1qYXZhJykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBDb25maWcgZ2V0TXlzcWxDb25maWcoKSB7CiAgICAgICAgQ29uZmlnIGNvbmYgPSBuZXcgQ29uZmlnKCk7CiAgICAgICAgY29uZi5kYXRhYmFzZVR5cGUgPSBEYlR5cGUuTVlTUUw7CiAgICAgICAgY29uZi5kcml2ZXJOYW1lID0gImNvbS5teXNxbC5qZGJjLkRyaXZlciI7CiAgICAgICAgcmV0dXJuIGNvbmY7CiAgICB9Cgo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="8">
+        <text>http://github.com</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGVmIHJhbmRvbV9kaXZpZGUodG90YWwsIG51bXMpOgogICAgcmVzdCA9IHRvdGFsCiAgICByZXN1bHQgPSBbaSBmb3IgaSBpbiByYW5nZShudW1zKV0KICAgIHJlc3VsdCA9IG1hcChsYW1iZGEgaTogbnVtcyAtIGksIHJlc3VsdCkKCiAgICBkZWYgaW5uZXIoaSk6CiAgICAgICAgbm9ubG9jYWwgcmVzdAogICAgICAgIHYgPSAxICsgbWF0aC5mbG9vcihyYW5kb20ucmFuZG9tKCkgKiAocmVzdCAvIGkgKiAyIC0gMSkpCiAgICAgICAgcmVzdCAtPSB2CiAgICAgICAgcmV0dXJuIHYKCiAgICByZXN1bHQgPSBsaXN0KG1hcChpbm5lciwgcmVzdWx0KSkKCiAgICByZXN1bHRbLTFdICs9IHJlc3QKICAgIHJldHVybiByZXN1bHQKCgpkZWYgZ2VuX2xldmVsMShwcm9kdWN0LCBkYXlzKToKICAgIGxldmVsID0gKHByb2R1Y3QgKyA1MC45NikgKiAxMDAwIC8gMy4xNCAvIHBvdygxMS43NSwgMikKICAgIHByaW50KGxldmVsKQogICAgcmV0dXJuIHJhbmRvbV9kaXZpZGUobGV2ZWwsIGRheXMpCgoKZGVmIGdlbl9sZXZlbDIocHJvZHVjdCwgZGF5cyk6CiAgICBsZXZlbCA9IHByb2R1Y3QgKiAxMDAwIC8gMy4xNCAvIHBvdygxMS43NSwgMikKICAgIHByaW50KGxldmVsKQogICAgcmV0dXJuIHJhbmRvbV9kaXZpZGUobGV2ZWwsIGRheXMpCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmaWxlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzaHQpCg==</text>
+        <text encoding="base64">ZGVmIHJhbmRvbV9kaXZpZGUodG90YWwsIG51bXMpOgogICAgcmVzdCA9IHRvdGFsCiAgICByZXN1bHQgPSBbaSBmb3IgaSBpbiByYW5nZShudW1zKV0KICAgIHJlc3VsdCA9IG1hcChsYW1iZGEgaTogbnVtcyAtIGksIHJlc3VsdCkKCiAgICBkZWYgaW5uZXIoaSk6CiAgICAgICAgbm9ubG9jYWwgcmVzdAogICAgICAgIHYgPSAxICsgbWF0aC5mbG9vcihyYW5kb20ucmFuZG9tKCkgKiAocmVzdCAvIGkgKiAyIC0gMSkpCiAgICAgICAgcmVzdCAtPSB2CiAgICAgICAgcmV0dXJuIHYKCiAgICByZXN1bHQgPSBsaXN0KG1hcChpbm5lciwgcmVzdWx0KSkKCiAgICByZXN1bHRbLTFdICs9IHJlc3QKICAgIHJldHVybiByZXN1bHQKCgpkZWYgZ2VuX2xldmVsMShwcm9kdWN0LCBkYXlzKToKICAgIGxldmVsID0gKHByb2R1Y3QgKyA1MC45NikgKiAxMDAwIC8gMy4xNCAvIHBvdygxMS43NSwgMikKICAgIHByaW50KGxldmVsKQogICAgcmV0dXJuIHJhbmRvbV9kaXZpZGUobGV2ZWwsIGRheXMpCgoKZGVmIGdlbl9sZXZlbDIocHJvZHVjdCwgZGF5cyk6CiAgICBsZXZlbCA9IHByb2R1Y3QgKiAxMDAwIC8gMy4xNCAvIHBvdygxMS43NSwgMikKICAgIHByaW50KGxldmVsKQogICAgcmV0dXJuIHJhbmRvbV9kaXZpZGUobGV2ZWwsIGRheXMpCgo=</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
