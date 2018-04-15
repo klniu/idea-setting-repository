@@ -422,7 +422,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>30</Count>
+          <Count>31</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -1222,7 +1222,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>23</Count>
+          <Count>24</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Diff">
@@ -1526,7 +1526,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>240</Count>
+          <Count>243</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
