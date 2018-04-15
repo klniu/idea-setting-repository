@@ -302,7 +302,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'Delete'</ShortCut>
           <Description>Delete...</Description>
-          <Count>66</Count>
+          <Count>67</Count>
         </Item>
       </Statistic>
       <Statistic Action="Drop">
@@ -310,7 +310,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'Delete'</ShortCut>
           <Description>Drop</Description>
-          <Count>7</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Duplicate">
@@ -358,7 +358,7 @@
           <IdeaActionID>Find</IdeaActionID>
           <ShortCut>'Ctrl+F' or 'Alt+F3'</ShortCut>
           <Description>Find...</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Generate...">
@@ -751,6 +751,14 @@
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'FactoryServiceImplTest.getParentsIdsById'</Description>
           <Count>12</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'FactoryServiceImplTest.getTops'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'FactoryServiceImplTest.getTops'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'FactoryServiceImplTest.update'">
