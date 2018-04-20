@@ -467,10 +467,11 @@
         <mark key="." line="7" column="6" />
         <mark key="^" line="7" column="6" />
       </file>
-      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/IPhotoService.java" timestamp="1524045958170">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/IPhotoService.java" timestamp="1524191965693">
+        <mark key="[" line="15" column="32" />
+        <mark key="]" line="16" column="1" />
+        <mark key="." line="16" column="1" />
+        <mark key="^" line="16" column="1" />
       </file>
       <file name="$USER_HOME$/sync/code/go/src/test/main.go" timestamp="1491299632176">
         <mark key="[" line="23" column="16" />
@@ -1841,6 +1842,12 @@
         <mark key="." line="12" column="18" />
         <mark key="^" line="12" column="18" />
       </file>
+      <file name="D:/code/go/src/zhvocs/controllers/photo.go" timestamp="1524191952954">
+        <mark key="[" line="65" column="35" />
+        <mark key="]" line="65" column="34" />
+        <mark key="^" line="65" column="34" />
+        <mark key="." line="65" column="34" />
+      </file>
       <file name="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/service/impl/PermissionServiceImpl.java" timestamp="1510207822225">
         <mark key="[" line="19" column="116" />
         <mark key="]" line="22" column="7" />
@@ -1877,11 +1884,11 @@
         <mark key="^" line="7" column="26" />
         <mark key="." line="7" column="26" />
       </file>
-      <file name="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/SVGOutputerTest.java" timestamp="1524190737918">
-        <mark key="[" line="33" column="48" />
-        <mark key="]" line="33" column="55" />
-        <mark key="^" line="33" column="55" />
-        <mark key="." line="33" column="55" />
+      <file name="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/SVGOutputerTest.java" timestamp="1524191183111">
+        <mark key="[" line="32" column="43" />
+        <mark key="]" line="32" column="43" />
+        <mark key="^" line="32" column="43" />
+        <mark key="." line="32" column="43" />
       </file>
       <file name="$USER_HOME$/workdir/code/law/src/main/java/com/klniu/law/mapper/LawMapper.java" timestamp="1505464195865">
         <mark key="[" line="2" column="32" />
@@ -2125,12 +2132,12 @@
         <mark key="." line="32" column="16" />
         <mark key="^" line="32" column="15" />
       </file>
-      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/SVGParser.java" timestamp="1524122419115">
+      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/SVGParser.java" timestamp="1524191582867">
         <mark key="'" line="229" column="0" />
-        <mark key="[" line="55" column="14" />
-        <mark key="]" line="55" column="17" />
-        <mark key="." line="55" column="17" />
-        <mark key="^" line="55" column="17" />
+        <mark key="[" line="47" column="38" />
+        <mark key="]" line="47" column="37" />
+        <mark key="." line="47" column="37" />
+        <mark key="^" line="47" column="37" />
       </file>
       <file name="D:/code/python/autostock/quotation.py" timestamp="1513395435718">
         <mark key="[" line="21" column="20" />
@@ -3545,8 +3552,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>苦</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -3653,7 +3660,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.toString()</text>
+        <text>苦</text>
       </register>
       <register name="/" type="4">
         <text>tostring</text>
@@ -3689,7 +3696,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text>set keep-english-in-normal</text>
       </register>
     </registers>
     <search>
@@ -3725,7 +3732,6 @@
         <entry>tostring</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/Unit/LdarStandard/gc</entry>
         <entry>%s/unit/ldarStandard/gc</entry>
         <entry>%s/LdarStandard/Install</entry>
         <entry>%s/ldarStandard/install</entry>
@@ -3745,6 +3751,7 @@
         <entry>action PreviousTab</entry>
         <entry>action NextTab</entry>
         <entry>action ReformatCode</entry>
+        <entry>set keep-english-in-normal</entry>
       </history-cmd>
       <history-expr />
       <history-input />
