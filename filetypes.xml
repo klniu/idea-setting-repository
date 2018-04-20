@@ -3,8 +3,10 @@
     <extensionMap>
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="AdvancedTable.jsx" type="PLAIN_TEXT" />
-      <mapping ext="so" type="PLAIN_TEXT" />
-      <removed_mapping ext="so" type="UNKNOWN" />
+      <mapping pattern="expected4517243123658680100" type="PLAIN_TEXT" />
+      <mapping pattern="expected4609261177870512828" type="PLAIN_TEXT" />
+      <mapping pattern="expected1268879388394518868" type="PLAIN_TEXT" />
+      <mapping pattern="expected3226420032426015190" type="PLAIN_TEXT" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
