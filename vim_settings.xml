@@ -42,12 +42,6 @@
         <mark key="^" line="83" column="25" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cb6e028b-04c0-427c-be30-b4d266fe8774/console.sql" timestamp="1514516804362">
-        <mark key="[" line="42" column="28" />
-        <mark key="]" line="42" column="28" />
-        <mark key="." line="42" column="28" />
-        <mark key="^" line="43" column="31" />
-      </file>
       <file name="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/entity/enums/RoleName.java" timestamp="1510214079592">
         <mark key="[" line="7" column="21" />
         <mark key="]" line="7" column="30" />
@@ -1700,6 +1694,9 @@
         <mark key="." line="22" column="7" />
         <mark key="^" line="22" column="7" />
       </file>
+      <file name="D:/code/web/voc-web/src/app/core/startup/startup.service.ts" timestamp="1524193313995">
+        <mark key="'" line="59" column="8" />
+      </file>
       <file name="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/entity/User.java" timestamp="1508845509510">
         <mark key="[" line="120" column="19" />
         <mark key="]" line="120" column="20" />
@@ -1939,11 +1936,10 @@
         <mark key="^" line="315" column="9" />
         <mark key="." line="315" column="9" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.java" timestamp="1515290836374">
-        <mark key="[" line="7" column="30" />
-        <mark key="]" line="7" column="38" />
-        <mark key="^" line="7" column="38" />
-        <mark key="." line="7" column="38" />
+      <file name="D:/code/web/voc-web/src/app/core/net/default.interceptor.ts" timestamp="1524193137308">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="65" column="17" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="D:/code/python/autostock/quotation.py" timestamp="1513395435718">
         <mark key="[" line="21" column="20" />
@@ -2202,6 +2198,10 @@
         <mark key="]" line="17" column="0" />
         <mark key="^" line="17" column="0" />
         <mark key="." line="17" column="0" />
+      </file>
+      <file name="D:/code/web/voc-ui/src/app/core/net/default.interceptor.ts" timestamp="1524193129181">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="56" column="16" />
       </file>
       <file name="$USER_HOME$/workdir/code/law/src/main/resources/sql/test.sql" timestamp="1505983928632">
         <mark key="[" line="2" column="87" />
@@ -3136,7 +3136,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="551" column="11" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
       <jump line="147" column="36" filename="D:/code/java/voc/src/test/resources/sql/init.sql" />
       <jump line="0" column="0" filename="D:/code/java/voc/src/test/resources/sql/init.sql" />
       <jump line="45" column="61" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/web/StatisticsController.java" />
@@ -3236,6 +3235,7 @@
       <jump line="149" column="44" filename="D:/code/web/voc-ui/src/app/routes/ldar/repair/repair.component.html" />
       <jump line="35" column="38" filename="D:/code/web/voc-ui/src/app/routes/ldar/component/seal-form.component.ts" />
       <jump line="28" column="28" filename="D:/code/web/voc-ui/src/app/routes/common/api.service.ts" />
+      <jump line="59" column="8" filename="D:/code/web/voc-web/src/app/core/startup/startup.service.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3258,8 +3258,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">CnB1YmxpYyBjbGFzcyBRdWlja1NvcnQgewogICAgcHVibGljIHN0YXRpYyA8VCBleHRlbmRzIENvbXBhcmFibGU8VD4+IExpc3Q8VD4gc29ydChMaXN0PFQ+IHZhbHVlcykgewogICAgICAgIGlmICh2YWx1ZXMuc2l6ZSgpIDwgMikgewogICAgICAgICAgICByZXR1cm4gdmFsdWVzOwogICAgICAgIH0KICAgICAgICBMaXN0PFQ+IGxlc3MgPSBuZXcgQXJyYXlMaXN0PD4oKTsKICAgICAgICBMaXN0PFQ+IGdyZWF0ZXIgPSBuZXcgQXJyYXlMaXN0PD4oKTsKICAgICAgICBUIHNwbGl0UG9pbnQgPSB2YWx1ZXMuZ2V0KHZhbHVlcy5zaXplKCkgLyAyKTsKICAgICAgICBmb3IgKFQgdCA6IHZhbHVlcykgewogICAgICAgICAgICBpZiAodC5jb21wYXJlVG8oc3BsaXRQb2ludCkgPj0gMCkgewogICAgICAgICAgICAgICAgZ3JlYXRlci5hZGQodCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBsZXNzLmFkZCh0KTsKICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICBMaXN0PFQ+IGxlc3NSZXN1bHQgPSBzb3J0KGxlc3MpOwogICAgICAgIGxlc3NSZXN1bHQuYWRkQWxsKHNvcnQoZ3JlYXRlcikpOwogICAgICAgIHJldHVybiBsZXNzUmVzdWx0OwogICAgfQp9</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnN0IGJvZHk6IGFueSA9IGV2ZW50IGluc3RhbmNlb2YgSHR0cFJlc3BvbnNlICYmIGV2ZW50LmJvZHk7CiAgICAgICAgICAgICAgICBpZiAoYm9keSAmJiBib2R5LmNvZGUgIT09IDApIHsKICAgICAgICAgICAgICAgICAgICAvLyC3tbvYY29kZTQwMbHtyr7K2sioyqew3KOs1ti2qM/yCiAgICAgICAgICAgICAgICAgICAgaWYgKGJvZHkuY29kZSA9PT0gNDAxKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHRoaXMubXNnLmVycm9yKGJvZHkubXNnKTsKICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5nb1RvKCcvcGFzc3BvcnQvbG9naW4nKTsKICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAvLyC8zND4xdez9rTtzvPW0LbPuvPQ+Mv509AgUGlwZaGic3Vic2NyaWJlILLZ1/ejrNLytMujugogICAgICAgICAgICAgICAgICAgIC8vIHRoaXMuaHR0cC5nZXQoJy8nKS5zdWJzY3JpYmUoKSCyorK7u+G0pbeiCiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIG9mKGV2ZW50KTsKICAgICAgICAgICAgICAgICAgICAvLyByZXR1cm4gRXJyb3JPYnNlcnZhYmxlLnRocm93KGV2ZW50KTsKICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -3372,7 +3372,7 @@
         <text>.do</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PFQ+IGxlc3MgPSBuZXcgQXJyYXlMaXN0PD4oKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnN0IGJvZHk6IGFueSA9IGV2ZW50IGluc3RhbmNlb2YgSHR0cFJlc3BvbnNlICYmIGV2ZW50LmJvZHk7CiAgICAgICAgICAgICAgICBpZiAoYm9keSAmJiBib2R5LmNvZGUgIT09IDApIHsKICAgICAgICAgICAgICAgICAgICAvLyC3tbvYY29kZTQwMbHtyr7K2sioyqew3KOs1ti2qM/yCiAgICAgICAgICAgICAgICAgICAgaWYgKGJvZHkuY29kZSA9PT0gNDAxKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHRoaXMubXNnLmVycm9yKGJvZHkubXNnKTsKICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5nb1RvKCcvcGFzc3BvcnQvbG9naW4nKTsKICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAvLyC8zND4xdez9rTtzvPW0LbPuvPQ+Mv509AgUGlwZaGic3Vic2NyaWJlILLZ1/ejrNLytMujugogICAgICAgICAgICAgICAgICAgIC8vIHRoaXMuaHR0cC5nZXQoJy8nKS5zdWJzY3JpYmUoKSCyorK7u+G0pbeiCiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIG9mKGV2ZW50KTsKICAgICAgICAgICAgICAgICAgICAvLyByZXR1cm4gRXJyb3JPYnNlcnZhYmxlLnRocm93KGV2ZW50KTsKICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5qYm9zcy5zaHJpbmt3cmFwLmFwaS5zcGVjLkphdmFBcmNoaXZlOwo=</text>
@@ -3402,7 +3402,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action NextTab</text>
+        <text>vsplit</text>
       </register>
     </registers>
     <search>
@@ -3438,9 +3438,6 @@
         <entry encoding="base64">XDxleHRzXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/Institution/Unit/gc</entry>
-        <entry>%s/institution/unit/gc</entry>
-        <entry encoding="base64">JzwsJz5zLyQvXG4i</entry>
         <entry encoding="base64">JzwsJz5zLyQvXFxuIg==</entry>
         <entry encoding="base64">JzwsJz5zLyQvKw==</entry>
         <entry>%s/Unit/LdarStandard/gc</entry>
@@ -3452,12 +3449,15 @@
         <entry>%s/component/seal/gc</entry>
         <entry>%s/joint/connector/gc</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gTmV4dFRhYg==</entry>
-        <entry>vsplit</entry>
         <entry encoding="base64">JzwsJz5J</entry>
         <entry>q</entry>
         <entry>action PreviousTab</entry>
         <entry>action ReformatCode</entry>
         <entry>action NextTab</entry>
+        <entry>diff D:\</entry>
+        <entry>vsplit</entry>
+        <entry>diff</entry>
+        <entry>diffupdate</entry>
       </history-cmd>
       <history-expr />
       <history-input />
