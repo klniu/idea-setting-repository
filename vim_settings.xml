@@ -281,12 +281,12 @@
         <mark key="." line="32" column="14" />
         <mark key="^" line="32" column="14" />
       </file>
-      <file name="D:/code/web/voc-delon/src/app/routes/base/factory/factory.component.ts" timestamp="1522139789401">
-        <mark key="'" line="36" column="80" />
-        <mark key="[" line="100" column="12" />
-        <mark key="]" line="100" column="17" />
-        <mark key="." line="100" column="17" />
-        <mark key="^" line="100" column="17" />
+      <file name="D:/code/web/voc-delon/src/app/routes/base/factory/factory.component.ts" timestamp="1524286218680">
+        <mark key="'" line="11" column="17" />
+        <mark key="[" line="11" column="22" />
+        <mark key="]" line="11" column="21" />
+        <mark key="." line="11" column="21" />
+        <mark key="^" line="11" column="21" />
       </file>
       <file name="D:/code/java/cnooc/src/main/resources/application.yaml" timestamp="1514450710877">
         <mark key="[" line="20" column="46" />
@@ -3436,8 +3436,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="139" column="53" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/LdarTurnServiceImpl.java" />
-      <jump line="219" column="17" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.baomidou/mybatis-plus-support/2.2.0/ad59baa1a1fdc203ff9467a84743cbaa64be472/mybatis-plus-support-2.2.0-sources.jar!/com/baomidou/mybatisplus/mapper/BaseMapper.java" />
       <jump line="8" column="35" filename="D:/code/java/voc/src/main/resources/mapper/LdarTurnMapper.xml" />
       <jump line="514" column="24" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
       <jump line="37" column="48" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/EmissionServiceImpl.java" />
@@ -3536,6 +3534,8 @@
       <jump line="608" column="18" filename="C:/Program Files/Java/jdk1.8.0_151/jre/lib/rt.jar!/sun/nio/fs/WindowsPath.class" />
       <jump line="12" column="54" filename="D:/code/web/voc-delon/src/app/routes/base/factory/factory-form.component.html" />
       <jump line="44" column="57" filename="D:/code/web/voc-delon/src/app/routes/base/factory/factory-form.component.html" />
+      <jump line="24" column="4" filename="D:/code/web/voc-delon/src/app/routes/base/factory/factory.component.ts" />
+      <jump line="11" column="17" filename="D:/code/web/voc-delon/src/app/routes/base/factory/factory.component.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3669,7 +3669,7 @@
         <text encoding="base64">IFtueklkXT0iJ2Rlc2NyaXB0aW9uJyI=</text>
       </register>
       <register name="/" type="4">
-        <text>nzid</text>
+        <text>getchildren</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">QFJ1bldpdGgoU3ByaW5nUnVubmVyLmNsYXNzKQpAU3ByaW5nQm9vdFRlc3QKQEFjdGl2ZVByb2ZpbGVzKCJ0ZXN0IikK</text>
@@ -3706,9 +3706,9 @@
       </register>
     </registers>
     <search>
-      <last-search>nzid</last-search>
+      <last-search>getchildren</last-search>
       <last-offset />
-      <last-pattern>nzid</last-pattern>
+      <last-pattern>getchildren</last-pattern>
       <last-replace>V02</last-replace>
       <last-substitute>F01</last-substitute>
       <last-dir>1</last-dir>
@@ -3716,7 +3716,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ngif</entry>
         <entry>Plain Text</entry>
         <entry encoding="base64">XDxleHRzXD4=</entry>
         <entry>$</entry>
@@ -3736,6 +3735,7 @@
         <entry>F01</entry>
         <entry>tostring</entry>
         <entry>nzid</entry>
+        <entry>getchildren</entry>
       </history-search>
       <history-cmd>
         <entry>%s/unit/ldarStandard/gc</entry>
