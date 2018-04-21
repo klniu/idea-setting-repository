@@ -91,11 +91,11 @@
         <mark key="^" line="9" column="83" />
         <mark key="." line="9" column="83" />
       </file>
-      <file name="D:/code/web/voc-delon/src/app/routes/base/factory/factory-form.component.html" timestamp="1522204796124">
-        <mark key="'" line="1" column="8" />
-        <mark key="[" line="1" column="38" />
-        <mark key="]" line="1" column="44" />
-        <mark key="." line="1" column="44" />
+      <file name="D:/code/web/voc-delon/src/app/routes/base/factory/factory-form.component.html" timestamp="1524280948411">
+        <mark key="'" line="44" column="57" />
+        <mark key="[" line="57" column="61" />
+        <mark key="]" line="57" column="61" />
+        <mark key="." line="57" column="61" />
         <mark key="^" line="1" column="44" />
       </file>
       <file name="$USER_HOME$/code/example/jwt-spring-security-demo/src/main/java/org/zerhusen/model/security/AuthorityName.java" timestamp="1510213416571">
@@ -355,12 +355,6 @@
         <mark key="." line="19" column="62" />
         <mark key="^" line="19" column="62" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cb6e028b-04c0-427c-be30-b4d266fe8774/console.sql" timestamp="1514516804362">
-        <mark key="[" line="42" column="28" />
-        <mark key="]" line="42" column="28" />
-        <mark key="." line="42" column="28" />
-        <mark key="^" line="43" column="31" />
-      </file>
       <file name="$USER_HOME$/workdir/lawindexer-ui/tsconfig.json" timestamp="1491699240970">
         <mark key="[" line="8" column="12" />
         <mark key="]" line="8" column="19" />
@@ -528,6 +522,12 @@
         <mark key="]" line="12" column="0" />
         <mark key="^" line="10" column="9" />
         <mark key="." line="12" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.java" timestamp="1515290836374">
+        <mark key="[" line="7" column="30" />
+        <mark key="]" line="7" column="38" />
+        <mark key="^" line="7" column="38" />
+        <mark key="." line="7" column="38" />
       </file>
       <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/entity/Factory.java" timestamp="1518393317158">
         <mark key="[" line="53" column="30" />
@@ -1620,12 +1620,6 @@
         <mark key="]" line="3" column="13" />
         <mark key="." line="3" column="13" />
         <mark key="^" line="4" column="17" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.java" timestamp="1515290836374">
-        <mark key="[" line="7" column="30" />
-        <mark key="]" line="7" column="38" />
-        <mark key="^" line="7" column="38" />
-        <mark key="." line="7" column="38" />
       </file>
       <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/InstallServiceImpl.java" timestamp="1523763768724">
         <mark key="'" line="167" column="34" />
@@ -3232,6 +3226,12 @@
         <mark key="." line="121" column="75" />
         <mark key="^" line="121" column="75" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cb6e028b-04c0-427c-be30-b4d266fe8774/console.sql" timestamp="1514516804362">
+        <mark key="[" line="42" column="28" />
+        <mark key="]" line="42" column="28" />
+        <mark key="." line="42" column="28" />
+        <mark key="^" line="43" column="31" />
+      </file>
       <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/entity/Component.java" timestamp="1524039552858">
         <mark key="'" line="76" column="0" />
         <mark key="[" line="34" column="1" />
@@ -3436,8 +3436,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="4" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/LdarTurnServiceImplTest.java" />
-      <jump line="53" column="36" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/LdarTurnServiceImpl.java" />
       <jump line="139" column="53" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/LdarTurnServiceImpl.java" />
       <jump line="219" column="17" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.baomidou/mybatis-plus-support/2.2.0/ad59baa1a1fdc203ff9467a84743cbaa64be472/mybatis-plus-support-2.2.0-sources.jar!/com/baomidou/mybatisplus/mapper/BaseMapper.java" />
       <jump line="8" column="35" filename="D:/code/java/voc/src/main/resources/mapper/LdarTurnMapper.xml" />
@@ -3536,6 +3534,8 @@
       <jump line="83" column="34" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/SVGOutputer.java" />
       <jump line="97" column="17" filename="C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/nio/file/Path.java" />
       <jump line="608" column="18" filename="C:/Program Files/Java/jdk1.8.0_151/jre/lib/rt.jar!/sun/nio/fs/WindowsPath.class" />
+      <jump line="12" column="54" filename="D:/code/web/voc-delon/src/app/routes/base/factory/factory-form.component.html" />
+      <jump line="44" column="57" filename="D:/code/web/voc-delon/src/app/routes/base/factory/factory-form.component.html" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3559,7 +3559,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>苦</text>
+        <text encoding="base64">IFtueklkXT0iJ2Rlc2NyaXB0aW9uJyI=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -3666,10 +3666,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>苦</text>
+        <text encoding="base64">IFtueklkXT0iJ2Rlc2NyaXB0aW9uJyI=</text>
       </register>
       <register name="/" type="4">
-        <text>tostring</text>
+        <text>nzid</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">QFJ1bldpdGgoU3ByaW5nUnVubmVyLmNsYXNzKQpAU3ByaW5nQm9vdFRlc3QKQEFjdGl2ZVByb2ZpbGVzKCJ0ZXN0IikK</text>
@@ -3706,17 +3706,16 @@
       </register>
     </registers>
     <search>
-      <last-search>tostring</last-search>
+      <last-search>nzid</last-search>
       <last-offset />
-      <last-pattern>tostring</last-pattern>
+      <last-pattern>nzid</last-pattern>
       <last-replace>V02</last-replace>
       <last-substitute>F01</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>getUsert</entry>
         <entry>ngif</entry>
         <entry>Plain Text</entry>
         <entry encoding="base64">XDxleHRzXD4=</entry>
@@ -3736,6 +3735,7 @@
         <entry encoding="base64">XDxyZWN0XD4=</entry>
         <entry>F01</entry>
         <entry>tostring</entry>
+        <entry>nzid</entry>
       </history-search>
       <history-cmd>
         <entry>%s/unit/ldarStandard/gc</entry>
