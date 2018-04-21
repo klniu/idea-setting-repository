@@ -2836,6 +2836,12 @@
         <mark key="^" line="26" column="11" />
         <mark key="." line="26" column="11" />
       </file>
+      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/shiro/JwtAuthenticationFilter.java" timestamp="1524282338197">
+        <mark key="[" line="103" column="8" />
+        <mark key="]" line="103" column="10" />
+        <mark key="." line="103" column="10" />
+        <mark key="^" line="103" column="10" />
+      </file>
       <file name="D:/code/web/delon/src/core/abc/down-file/down-file.directive.ts" timestamp="1520840318480">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -3419,7 +3425,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Base64</text>
+        <text>rqHd</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -3526,13 +3532,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Base64</text>
+        <text>rqHd</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxCQVNFNjRFbmNvZGVyXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gvNnJ6NK7tM7Jz7Sr1+m8/rK7tPPT2jQwMLj2Cg==</text>
+      <register name="0" type="4">
+        <text>httpServletRequest.getHeader(&quot;Access-Control-Request-Headers&quot;)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IHN1bi5taXNjLkJBU0U2NEVuY29kZXI7Cg==</text>
