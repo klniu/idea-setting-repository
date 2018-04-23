@@ -2819,7 +2819,6 @@
         <mark key="^" line="39" column="41" />
         <mark key="." line="39" column="41" />
       </file>
-      <file name="/Python Console" timestamp="1524479184724" />
       <file name="D:/code/java/jeesite/src/main/resources/jeesite.properties" timestamp="1519516405204">
         <mark key="[" line="16" column="14" />
         <mark key="]" line="16" column="18" />
@@ -3625,7 +3624,11 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text>sc.api_call(
+    &quot;chat.postMessage&quot;,
+    channel=&quot;klniu&quot;,
+    text=&quot;Hello from Python! :tada:&quot;
+)</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -3740,32 +3743,36 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBlbGlmIHN5bWJvbCBpbiBzZWxmLl9wb3NpdGlvbiBhbmQgc2VsZi5fcG9zaXRpb25bc3ltYm9sXSA+IDAuMDAxOgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjILP1yry7r7zbuPHQ8sHQLCDM7rPkNbj2yv2+3Qo=</text>
+      <register name="1" type="4">
+        <text>sc.api_call(
+    &quot;chat.postMessage&quot;,
+    channel=&quot;klniu&quot;,
+    text=&quot;Hello from Python! :tada:&quot;
+)</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9wcmljZQo=</text>
+        <text encoding="base64">ICAgICAgICAjILP1yry7r7zbuPHQ8sHQLCDM7rPkNbj2yv2+3Qo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9wcmljZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjILvxyKG1scewvNu48Qo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjILvxyKG1scewvNu48Qo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgc2VsZgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9wcmljZXMgPSB7azogIGZvciBrLCB2IGluIHByaWNlLml0ZW1zKCl9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgc2VsZgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHRyYWNlYmFjawo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9wcmljZXMgPSB7azogIGZvciBrLCB2IGluIHByaWNlLml0ZW1zKCl9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGltZS5zbGVlcCg2MCkK</text>
+        <text encoding="base64">aW1wb3J0IHRyYWNlYmFjawo=</text>
       </register>
       <register name=":" type="4">
         <text>action NextTab</text>
