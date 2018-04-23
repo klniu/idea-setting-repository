@@ -101,9 +101,11 @@
         <mark key="^" line="2" column="12" />
         <mark key="." line="2" column="12" />
       </file>
-      <file name="D:/code/python/coin/chase.py" timestamp="1524484890331">
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="67" column="24" />
+      <file name="D:/code/python/coin/chase.py" timestamp="1524487983794">
+        <mark key="[" line="105" column="29" />
+        <mark key="]" line="105" column="33" />
+        <mark key="^" line="105" column="24" />
+        <mark key="." line="105" column="29" />
       </file>
       <file name="D:/code/web/voc-ui/src/app/routes/ldar/component/component.service.ts" timestamp="1520579509788">
         <mark key="'" line="104" column="0" />
@@ -914,7 +916,7 @@
         <mark key="." line="23" column="34" />
         <mark key="^" line="23" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524440871909">
+      <file name="/Dummy.txt" timestamp="1524487997105">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/java/law/pom.xml" timestamp="1507787272217">
@@ -1059,6 +1061,11 @@
         <mark key="]" line="26" column="48" />
         <mark key="." line="26" column="48" />
         <mark key="^" line="26" column="48" />
+      </file>
+      <file name="D:/code/python/coin/main.py" timestamp="1524486268453">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="D:/code/java/mybatisplus-spring-boot/src/test/java/com/baomidou/springboot/test/generator/GeneratorServiceEntity.java" timestamp="1514364905641">
         <mark key="[" line="29" column="49" />
@@ -1474,12 +1481,12 @@
         <mark key="." line="77" column="38" />
         <mark key="^" line="77" column="38" />
       </file>
-      <file name="D:/code/python/coin/binan.py" timestamp="1524384614736">
-        <mark key="'" line="25" column="37" />
-        <mark key="[" line="21" column="8" />
-        <mark key="]" line="21" column="11" />
-        <mark key="." line="21" column="11" />
-        <mark key="^" line="21" column="11" />
+      <file name="D:/code/python/coin/binan.py" timestamp="1524486890087">
+        <mark key="'" line="26" column="37" />
+        <mark key="[" line="18" column="29" />
+        <mark key="]" line="19" column="17" />
+        <mark key="." line="19" column="17" />
+        <mark key="^" line="19" column="17" />
       </file>
       <file name="$USER_HOME$/code/java/voc/src/test/resources/com/klniu/voc/security/auth/auth.sql" timestamp="1509247439349">
         <mark key="[" line="1" column="2" />
@@ -2155,12 +2162,12 @@
         <mark key="^" line="97" column="34" />
         <mark key="." line="72" column="31" />
       </file>
-      <file name="D:/code/python/coin/demo.py" timestamp="1524396782208">
-        <mark key="'" line="50" column="8" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="11" column="22" />
+      <file name="D:/code/python/coin/demo.py" timestamp="1524486825348">
+        <mark key="'" line="51" column="8" />
+        <mark key="[" line="45" column="38" />
+        <mark key="]" line="45" column="38" />
+        <mark key="." line="45" column="38" />
+        <mark key="^" line="45" column="30" />
       </file>
       <file name="D:/code/go/src/ldar/emission.go" timestamp="1521519800160">
         <mark key="'" line="28" column="151" />
@@ -2835,7 +2842,7 @@
         <mark key="^" line="39" column="41" />
         <mark key="." line="39" column="41" />
       </file>
-      <file name="/Python Console" timestamp="1524438886424">
+      <file name="/Python Console" timestamp="1524487356179">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/code/java/jeesite/src/main/resources/jeesite.properties" timestamp="1519516405204">
@@ -3498,7 +3505,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="0" filename="D:/code/java/voc/src/test/resources/sql/web/init.sql" />
       <jump line="201" column="0" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/InstallServiceImplTest.java" />
       <jump line="26" column="10" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/web/BaseTest.java" />
       <jump line="552" column="27" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
@@ -3598,6 +3604,7 @@
       <jump line="22" column="13" filename="D:/code/python/coin/chase.py" />
       <jump line="86" column="17" filename="D:/code/python/coin/chase.py" />
       <jump line="32" column="8" filename="D:/code/python/coin/chase.py" />
+      <jump line="61" column="27" filename="D:/code/python/coin/chase.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3620,8 +3627,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6CiAgICAgICAgICAgIHByaWNlID0gc2VsZi5fdHJhZGVyLmdldF9hbGxfcHJpY2VzKCkKICAgICAgICAgICAgZm9yIChrLCB2KSBpbiBzZWxmLl9wcmljZXMuaXRlbXMoKToKICAgICAgICAgICAgICAgIHYucG9wbGVmdCgpCiAgICAgICAgICAgICAgICB2LmFwcGVuZChwcmljZVtrXSkKICAgICAgICAgICAgICAgIHNlbGYuX3BhcnNlKGssIHYpCiAgICAgICAgZXhjZXB0IHJlcXVlc3RzLmV4Y2VwdGlvbnMuQ29ubmVjdGlvbkVycm9yOgogICAgICAgICAgICBwcmludCgnQ29ubmVjdGlvbkVycm9yIC0tIHBsZWFzZSB3YWl0IDMgc2Vjb25kcycpCiAgICAgICAgICAgIHRpbWUuc2xlZXAoMykK</text>
+      <register name="&quot;" type="4">
+        <text>:.3f</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -3728,43 +3735,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YW5kIA==</text>
+        <text encoding="base64">ID0gRGVjaW1hbCgwKQ==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfd3JpdGVfY29zdHNcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6CiAgICAgICAgICAgIHByaWNlID0gc2VsZi5fdHJhZGVyLmdldF9hbGxfcHJpY2VzKCkKICAgICAgICAgICAgZm9yIChrLCB2KSBpbiBzZWxmLl9wcmljZXMuaXRlbXMoKToKICAgICAgICAgICAgICAgIHYucG9wbGVmdCgpCiAgICAgICAgICAgICAgICB2LmFwcGVuZChwcmljZVtrXSkKICAgICAgICAgICAgICAgIHNlbGYuX3BhcnNlKGssIHYpCiAgICAgICAgZXhjZXB0IHJlcXVlc3RzLmV4Y2VwdGlvbnMuQ29ubmVjdGlvbkVycm9yOgogICAgICAgICAgICBwcmludCgnQ29ubmVjdGlvbkVycm9yIC0tIHBsZWFzZSB3YWl0IDMgc2Vjb25kcycpCiAgICAgICAgICAgIHRpbWUuc2xlZXAoMykK</text>
+      <register name="0" type="4">
+        <text>:.3f</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGxlbih2KSA+PSA1Ogo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgicnVubmluZyIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGxlbih2KSA+PSA1OgogICAgICAgICAgICAgICAgICAgIHNlbGYuX3BhcnNlKGssIHYpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5ydW4oKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIMjnufvK/b7dsru5uzW49qOs1rG908zus+Q1uPbW2Li0tcTK/b7dCiAgICAgICAgICAgIGlmIGxlbihzZWxmLl9wcmljZXMudmFsdWVzKCkpID09IDA6CiAgICAgICAgICAgIGJyZWFrCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGltZS5zbGVlcCgzKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHYuYXBwZW5kKHByaWNlc1trXSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ0Nvbm5lY3Rpb25FcnJvciAtLSBwbGVhc2Ugd2FpdCAzIHNlY29uZHMnKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciBpIGluIHJhbmdlKDUpOgogICAgICAgICAgICAgICAgICAgIHNlbGYuLmFwcGVuZChwcmljZXNba10pCg==</text>
+        <text encoding="base64">ICAgICAgICBleGNlcHQgcmVxdWVzdHMuZXhjZXB0aW9ucy5Db25uZWN0aW9uRXJyb3I6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdi5hcHBlbmQocHJpY2VzW2tdKQogICAgICAgICAgICBpZiBsZW4odikgPj0gNToKICAgICAgICAgICAgICAgIHNlbGYuX3BhcnNlKGssIHYpCg==</text>
+        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGssIHYpIGluIHNlbGYuX3ByaWNlcy5pdGVtcygpOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5nZXRfYWxsX3ByaWNlcygpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action NextTab</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
@@ -3817,9 +3824,9 @@
         <entry>q</entry>
         <entry encoding="base64">JzwsJz5zL21zZy50eXBlL3N0YXR1cy9h</entry>
         <entry encoding="base64">JzwsJz5zL21zZy50eXBlL3N0YXR1cy8=</entry>
-        <entry>action ReformatCode</entry>
         <entry>action PreviousTab</entry>
         <entry>action NextTab</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
