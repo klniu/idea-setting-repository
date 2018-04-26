@@ -2244,12 +2244,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="D:/code/python/Coin/save_binance_data.py" timestamp="1524704554492">
-        <mark key="'" line="149" column="19" />
-        <mark key="[" line="150" column="12" />
-        <mark key="]" line="150" column="15" />
-        <mark key="." line="150" column="15" />
-        <mark key="^" line="150" column="15" />
+      <file name="D:/code/python/Coin/save_binance_data.py" timestamp="1524705336844">
+        <mark key="'" line="151" column="12" />
+        <mark key="[" line="134" column="17" />
+        <mark key="]" line="134" column="18" />
+        <mark key="." line="134" column="18" />
+        <mark key="^" line="151" column="24" />
       </file>
       <file name="$USER_HOME$/sync/code/java/xiaoyi/build.gradle" timestamp="1483964103333">
         <mark key="[" line="13" column="27" />
@@ -3521,8 +3521,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="34" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/AbstractShiroTest.java" />
-      <jump line="18" column="0" filename="D:/code/java/voc/src/test/resources/sql/clear.sql" />
       <jump line="583" column="36" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
       <jump line="570" column="6" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
       <jump line="14" column="25" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
@@ -3619,8 +3617,10 @@
       <jump line="106" column="42" filename="D:/code/python/Coin/chase.py" />
       <jump line="110" column="8" filename="D:/code/python/Coin/chase.py" />
       <jump line="118" column="0" filename="D:/code/python/Coin/chase.py" />
-      <jump line="147" column="19" filename="D:/code/python/Coin/save_binance_data.py" />
       <jump line="34" column="59" filename="D:/code/python/Coin/binan.py" />
+      <jump line="147" column="8" filename="D:/code/python/Coin/save_binance_data.py" />
+      <jump line="148" column="18" filename="D:/code/python/Coin/save_binance_data.py" />
+      <jump line="151" column="12" filename="D:/code/python/Coin/save_binance_data.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3644,7 +3644,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjYQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -3751,57 +3751,56 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfdXBkYXRlX2FjY291bnRcPg==</text>
+        <text encoding="base64">XDxub3JtYWxcPg==</text>
       </register>
       <register name="0" type="4">
         <text>time_str + &quot; - &quot; + s + &quot;：&quot; + msg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjYQo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZ290bwo=</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBrbGluZXMgPSBnZXRfaGlzdG9yaWNhbF9rbGluZXMoc3ltYm9sLCBpbnRlcnZhbCwgc3RhcnQsIGVuZCkK</text>
+        <text encoding="base64">ICAgICAgICBjYQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBxcSBpbXBvcnQgUVEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHFxID0gUVEoY29uZmlnLnFxWydtZV9xcSddLCBjb25maWcucXFbJ2J1ZGR5J10pCg==</text>
+        <text encoding="base64">ICAgICAgICBrbGluZXMgPSBnZXRfaGlzdG9yaWNhbF9rbGluZXMoc3ltYm9sLCBpbnRlcnZhbCwgc3RhcnQsIGVuZCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ZnJvbSBxcSBpbXBvcnQgUVEK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBib3QuU2VuZFRvKHNlbGYuZnJpZW5kLCB0aW1lX3N0ciArICIgLSAiICsgcyArICKjuiIgKyBtc2cpCg==</text>
+        <text encoding="base64">ICAgIHFxID0gUVEoY29uZmlnLnFxWydtZV9xcSddLCBjb25maWcucXFbJ2J1ZGR5J10pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNjLmFwaV9jYWxsKAo=</text>
+        <text encoding="base64">ICAgICAgICBib3QuU2VuZFRvKHNlbGYuZnJpZW5kLCB0aW1lX3N0ciArICIgLSAiICsgcyArICKjuiIgKyBtc2cpCg==</text>
       </register>
       <register name=":" type="4">
         <text>action PreviousTab</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfdXBkYXRlX2FjY291bnRcPg==</last-search>
+      <last-search encoding="base64">XDxub3JtYWxcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfdXBkYXRlX2FjY291bnRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxub3JtYWxcPg==</last-pattern>
       <last-replace>V02</last-replace>
       <last-substitute>F01</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>component</entry>
         <entry>joint</entry>
         <entry encoding="base64">XDxwcmVIYW5kbGVcPg==</entry>
         <entry>header</entry>
@@ -3821,6 +3820,7 @@
         <entry encoding="base64">XDxfY29zdHNcPg==</entry>
         <entry>raise</entry>
         <entry encoding="base64">XDxfdXBkYXRlX2FjY291bnRcPg==</entry>
+        <entry encoding="base64">XDxub3JtYWxcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyQvXG4i</entry>
