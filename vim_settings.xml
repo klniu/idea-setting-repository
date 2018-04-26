@@ -889,11 +889,12 @@
         <mark key="^" line="22" column="19" />
         <mark key="." line="22" column="19" />
       </file>
-      <file name="D:/code/python/Coin/binan.py" timestamp="1524473795070">
-        <mark key="[" line="17" column="4" />
-        <mark key="]" line="17" column="4" />
-        <mark key="^" line="17" column="4" />
-        <mark key="." line="17" column="4" />
+      <file name="D:/code/python/Coin/binan.py" timestamp="1524704523542">
+        <mark key="'" line="34" column="59" />
+        <mark key="[" line="34" column="59" />
+        <mark key="]" line="34" column="60" />
+        <mark key="^" line="34" column="48" />
+        <mark key="." line="34" column="60" />
       </file>
       <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/IEmissionService.java" timestamp="1523715555193">
         <mark key="'" line="15" column="25" />
@@ -2243,6 +2244,13 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
+      <file name="D:/code/python/Coin/save_binance_data.py" timestamp="1524704554492">
+        <mark key="'" line="149" column="19" />
+        <mark key="[" line="150" column="12" />
+        <mark key="]" line="150" column="15" />
+        <mark key="." line="150" column="15" />
+        <mark key="^" line="150" column="15" />
+      </file>
       <file name="$USER_HOME$/sync/code/java/xiaoyi/build.gradle" timestamp="1483964103333">
         <mark key="[" line="13" column="27" />
         <mark key="]" line="13" column="32" />
@@ -3499,11 +3507,11 @@
         <mark key="^" line="91" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="D:/code/python/Coin/main.py" timestamp="1524480944752">
-        <mark key="[" line="53" column="8" />
-        <mark key="]" line="53" column="12" />
-        <mark key="^" line="53" column="12" />
-        <mark key="." line="53" column="12" />
+      <file name="D:/code/python/Coin/main.py" timestamp="1524704054679">
+        <mark key="[" line="27" column="4" />
+        <mark key="]" line="27" column="4" />
+        <mark key="^" line="23" column="12" />
+        <mark key="." line="27" column="4" />
       </file>
       <file name="$USER_HOME$/sync/code/go/src/zhvocs/packall.sh" timestamp="1490082363947">
         <mark key="[" line="1" column="146" />
@@ -3513,8 +3521,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="653" column="4" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/EmissionServiceImpl.java" />
-      <jump line="88" column="28" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/ComponentServiceImpl.java" />
       <jump line="28" column="34" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/AbstractShiroTest.java" />
       <jump line="18" column="0" filename="D:/code/java/voc/src/test/resources/sql/clear.sql" />
       <jump line="583" column="36" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
@@ -3613,6 +3619,8 @@
       <jump line="106" column="42" filename="D:/code/python/Coin/chase.py" />
       <jump line="110" column="8" filename="D:/code/python/Coin/chase.py" />
       <jump line="118" column="0" filename="D:/code/python/Coin/chase.py" />
+      <jump line="147" column="19" filename="D:/code/python/Coin/save_binance_data.py" />
+      <jump line="34" column="59" filename="D:/code/python/Coin/binan.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3635,8 +3643,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>price</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjYQo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -3743,7 +3751,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>price</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfdXBkYXRlX2FjY291bnRcPg==</text>
@@ -3752,35 +3760,31 @@
         <text>time_str + &quot; - &quot; + s + &quot;：&quot; + msg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBxcSBpbXBvcnQgUVEK</text>
+        <text encoding="base64">ICAgICAgICBjYQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHFxID0gUVEoY29uZmlnLnFxWydtZV9xcSddLCBjb25maWcucXFbJ2J1ZGR5J10pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBrbGluZXMgPSBnZXRfaGlzdG9yaWNhbF9rbGluZXMoc3ltYm9sLCBpbnRlcnZhbCwgc3RhcnQsIGVuZCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBib3QuU2VuZFRvKHNlbGYuZnJpZW5kLCB0aW1lX3N0ciArICIgLSAiICsgcyArICKjuiIgKyBtc2cpCg==</text>
+        <text encoding="base64">ZnJvbSBxcSBpbXBvcnQgUVEK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlZgo=</text>
+        <text encoding="base64">ICAgIHFxID0gUVEoY29uZmlnLnFxWydtZV9xcSddLCBjb25maWcucXFbJ2J1ZGR5J10pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHNjLmFwaV9jYWxsKAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">c2MgPSBTbGFja0NsaWVudCgnanA5UWRlQWRLMG9NbDY0b0VwV0ZXSHFEJykKc2MuYXBpX2NhbGwoCg==</text>
+        <text encoding="base64">ICAgICAgICBib3QuU2VuZFRvKHNlbGYuZnJpZW5kLCB0aW1lX3N0ciArICIgLSAiICsgcyArICKjuiIgKyBtc2cpCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>sc.api_call(
-    &quot;chat.postMessage&quot;,
-    channel=&quot;klniu&quot;,
-    text=&quot;Hello from Python! :tada:&quot;
-)</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGRlZgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjILP1yry7r7zbuPHQ8sHQLCDM7rPkNbj2yv2+3Qo=</text>
+        <text encoding="base64">ICAgIHNjLmFwaV9jYWxsKAo=</text>
       </register>
       <register name=":" type="4">
         <text>action PreviousTab</text>
