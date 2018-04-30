@@ -101,12 +101,12 @@
         <mark key="^" line="2" column="12" />
         <mark key="." line="2" column="12" />
       </file>
-      <file name="D:/code/python/coin/chase.py" timestamp="1525099140021">
-        <mark key="'" line="110" column="37" />
-        <mark key="[" line="99" column="0" />
-        <mark key="]" line="99" column="12" />
-        <mark key="." line="99" column="12" />
-        <mark key="^" line="98" column="13" />
+      <file name="D:/code/python/coin/chase.py" timestamp="1525102964357">
+        <mark key="'" line="199" column="8" />
+        <mark key="[" line="123" column="0" />
+        <mark key="]" line="123" column="41" />
+        <mark key="." line="123" column="0" />
+        <mark key="^" line="98" column="23" />
       </file>
       <file name="D:/code/web/voc-ui/src/app/routes/ldar/component/component.service.ts" timestamp="1520579509788">
         <mark key="'" line="104" column="0" />
@@ -3517,7 +3517,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="88" column="36" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/SealServiceImplTest.java" />
       <jump line="130" column="28" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/DetectionServiceImpl.java" />
       <jump line="390" column="6" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
       <jump line="179" column="7" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/DetectionServiceImplTest.java" />
@@ -3617,6 +3616,7 @@
       <jump line="116" column="9" filename="$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/site-packages/talib/__init__.py" />
       <jump line="117" column="9" filename="$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/site-packages/talib/__init__.py" />
       <jump line="107" column="37" filename="D:/code/python/coin/chase.py" />
+      <jump line="199" column="8" filename="D:/code/python/coin/chase.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3640,7 +3640,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fc2VsbChzeW1ib2wsIHByaWNlc1stMV0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fYnV5KHN5bWJvbCwgcHJpY2VzWy0xXSkK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -3747,51 +3747,51 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>E</text>
       </register>
       <register name="/" type="4">
-        <text>macd</text>
+        <text encoding="base64">XDxfYWRkX2Nvc3RcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fYnV5KHN5bWJvbCwgbGFzdDEpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoMjIyMjIyMjIyMjIyMjIyKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fc2VsbChzeW1ib2wsIHByaWNlc1stMV0pCg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fYnV5KHN5bWJvbCwgcHJpY2VzWy0xXSkK</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fc2VsbChzeW1ib2wsIHByaWNlc1stMV0pCg==</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fc2VsbChzeW1ib2wsIHByaWNlc1stMV0pCg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fYnV5KHN5bWJvbCwgcHJpY2VzWy0xXSkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgCg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>'D:/Downloads/binance-2018030108-2018040108-minute/'
                                   'Binance_' + symbol +
                                   '_1m_1521763200000-1522540800000.json'</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fYnV5KCkK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBob2xkID0gW10KICAgICAgICAjILSmwO2z1rLW1tC1xLnJxrEKICAgICAgICBmb3Igc3RrIGluIGFjY291bnQudmFsaWRfc2VjcG9zOgogICAgICAgICAgICAjINTac2hvcnRfYnVja2V01tC1xKOswvSz9gogICAgICAgICAgICBpZiBzdGsgaW4gc2hvcnRfYnVja2V0OgogICAgICAgICAgICAgICAgb3JkZXJfdG8oc3RrLCAwKQogICAgICAgICAgICAjILK71NpzaG9ydF9idWNrZXTW0LXEo6zB9NfFCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBob2xkLmFwcGVuZChzdGspCgogICAgICAgIGJ1eV9saXN0ID0gaG9sZAogICAgICAgIGZvciBzdGsgaW4gbG9uZ19idWNrZXQ6CiAgICAgICAgICAgIGlmIHN0ayBub3QgaW4gaG9sZDoKICAgICAgICAgICAgICAgIGJ1eV9saXN0LmFwcGVuZChzdGspCgogICAgICAgIGlmIGxlbihidXlfbGlzdCkgPiAwOgogICAgICAgICAgICAjIM7ewttidXlfbGlzdNbQ09C24MnZ1ru5ycaxo6y2vL2rstbOu7fWs8lzdGtfbnVtt92jrMO/t93C8sjr0rvWu7nJxrEKICAgICAgICAgICAgYW1vdW50X3Blcl9zdGsgPSBhY2NvdW50LnJlZmVyZW5jZVBvcnRmb2xpb1ZhbHVlL3N0a19udW0KICAgICAgICAgICAgZm9yIHN0ayBpbiBidXlfbGlzdDoKICAgICAgICAgICAgICAgIGFtb3VudCA9IGludChhbW91bnRfcGVyX3N0ay9hY2NvdW50LnJlZmVyZW5jZVByaWNlW3N0a10gLyAxMDAuMCkgKiAxMDAKICAgICAgICAgICAgICAgIG9yZGVyX3RvKHN0aywgYW1vdW50KQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9uZ19idWNrZXQuYXBwZW5kKHN0aykK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2hvcnRfYnVja2V0LmFwcGVuZChzdGspCg==</text>
+        <text encoding="base64">ICAgICAgICBob2xkID0gW10KICAgICAgICAjILSmwO2z1rLW1tC1xLnJxrEKICAgICAgICBmb3Igc3RrIGluIGFjY291bnQudmFsaWRfc2VjcG9zOgogICAgICAgICAgICAjINTac2hvcnRfYnVja2V01tC1xKOswvSz9gogICAgICAgICAgICBpZiBzdGsgaW4gc2hvcnRfYnVja2V0OgogICAgICAgICAgICAgICAgb3JkZXJfdG8oc3RrLCAwKQogICAgICAgICAgICAjILK71NpzaG9ydF9idWNrZXTW0LXEo6zB9NfFCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBob2xkLmFwcGVuZChzdGspCgogICAgICAgIGJ1eV9saXN0ID0gaG9sZAogICAgICAgIGZvciBzdGsgaW4gbG9uZ19idWNrZXQ6CiAgICAgICAgICAgIGlmIHN0ayBub3QgaW4gaG9sZDoKICAgICAgICAgICAgICAgIGJ1eV9saXN0LmFwcGVuZChzdGspCgogICAgICAgIGlmIGxlbihidXlfbGlzdCkgPiAwOgogICAgICAgICAgICAjIM7ewttidXlfbGlzdNbQ09C24MnZ1ru5ycaxo6y2vL2rstbOu7fWs8lzdGtfbnVtt92jrMO/t93C8sjr0rvWu7nJxrEKICAgICAgICAgICAgYW1vdW50X3Blcl9zdGsgPSBhY2NvdW50LnJlZmVyZW5jZVBvcnRmb2xpb1ZhbHVlL3N0a19udW0KICAgICAgICAgICAgZm9yIHN0ayBpbiBidXlfbGlzdDoKICAgICAgICAgICAgICAgIGFtb3VudCA9IGludChhbW91bnRfcGVyX3N0ay9hY2NvdW50LnJlZmVyZW5jZVByaWNlW3N0a10gLyAxMDAuMCkgKiAxMDAKICAgICAgICAgICAgICAgIG9yZGVyX3RvKHN0aywgYW1vdW50KQo=</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
-      <last-search>macd</last-search>
+      <last-search encoding="base64">XDxfYWRkX2Nvc3RcPg==</last-search>
       <last-offset />
-      <last-pattern>macd</last-pattern>
+      <last-pattern encoding="base64">XDxfYWRkX2Nvc3RcPg==</last-pattern>
       <last-replace>status</last-replace>
       <last-substitute>msg.type</last-substitute>
       <last-dir>1</last-dir>
@@ -3799,7 +3799,6 @@
     </search>
     <history>
       <history-search>
-        <entry>cahe</entry>
         <entry>cache</entry>
         <entry encoding="base64">XDxDYWNoZUV2aWN0XD4=</entry>
         <entry>junit</entry>
@@ -3819,6 +3818,7 @@
         <entry encoding="base64">XDxfcXVvdGF0aW9uXD4=</entry>
         <entry>try</entry>
         <entry>macd</entry>
+        <entry encoding="base64">XDxfYWRkX2Nvc3RcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/standard/install/gc</entry>
