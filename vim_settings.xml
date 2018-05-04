@@ -1047,8 +1047,8 @@
         <mark key="]" line="40" column="20" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/EmissionServiceImpl.java" timestamp="1524190827323">
-        <mark key="'" line="655" column="4" />
+      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/EmissionServiceImpl.java" timestamp="1525417288899">
+        <mark key="'" line="42" column="40" />
         <mark key="[" line="340" column="37" />
         <mark key="]" line="340" column="36" />
         <mark key="^" line="340" column="36" />
@@ -2626,6 +2626,9 @@
         <mark key="^" line="13" column="58" />
         <mark key="." line="13" column="58" />
       </file>
+      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/mapper/SealHistoryMapper.java" timestamp="1525417286734">
+        <mark key="'" line="20" column="35" />
+      </file>
       <file name="$USER_HOME$/workdir/code/law/src/test/java/com/klniu/law/web/LawControllerTest.java" timestamp="1506503751799">
         <mark key="[" line="31" column="53" />
         <mark key="]" line="31" column="53" />
@@ -2969,11 +2972,11 @@
         <mark key="^" line="26" column="11" />
         <mark key="." line="26" column="11" />
       </file>
-      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/entity/svg/StyleSheetStyleHandler.java" timestamp="1524126653376">
-        <mark key="'" line="10" column="50" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
+      <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/shiro/JwtAuthenticationFilter.java" timestamp="1525417999422">
+        <mark key="[" line="108" column="70" />
+        <mark key="]" line="108" column="133" />
+        <mark key="." line="108" column="70" />
+        <mark key="^" line="103" column="44" />
       </file>
       <file name="D:/code/web/delon/src/core/abc/down-file/down-file.directive.ts" timestamp="1520840318480">
         <mark key="[" line="2" column="0" />
@@ -3436,8 +3439,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="4" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/LdarTurnServiceImplTest.java" />
-      <jump line="53" column="36" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/LdarTurnServiceImpl.java" />
       <jump line="139" column="53" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/LdarTurnServiceImpl.java" />
       <jump line="219" column="17" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.baomidou/mybatis-plus-support/2.2.0/ad59baa1a1fdc203ff9467a84743cbaa64be472/mybatis-plus-support-2.2.0-sources.jar!/com/baomidou/mybatisplus/mapper/BaseMapper.java" />
       <jump line="8" column="35" filename="D:/code/java/voc/src/main/resources/mapper/LdarTurnMapper.xml" />
@@ -3536,6 +3537,8 @@
       <jump line="83" column="34" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/SVGOutputer.java" />
       <jump line="97" column="17" filename="C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/nio/file/Path.java" />
       <jump line="608" column="18" filename="C:/Program Files/Java/jdk1.8.0_151/jre/lib/rt.jar!/sun/nio/fs/WindowsPath.class" />
+      <jump line="20" column="35" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/mapper/SealHistoryMapper.java" />
+      <jump line="42" column="40" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/EmissionServiceImpl.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3559,7 +3562,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>苦</text>
+        <text>rqHd</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -3666,57 +3669,56 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>苦</text>
+        <text>rqHd</text>
       </register>
       <register name="/" type="4">
-        <text>tostring</text>
+        <text encoding="base64">XDx9XD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">QFJ1bldpdGgoU3ByaW5nUnVubmVyLmNsYXNzKQpAU3ByaW5nQm9vdFRlc3QKQEFjdGl2ZVByb2ZpbGVzKCJ0ZXN0IikK</text>
+      <register name="0" type="4">
+        <text>Access-Control-Allow-Headers</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyAgICAgaHR0cFNlcnZsZXRSZXNwb25zZS5zZXRIZWFkZXIoIkFjY2Vzcy1Db250cm9sLVJlcXVlc3QtSGVhZGVycyIsIHJxSGVhZGVyKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdC50cmEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaHR0cFNlcnZsZXRSZXNwb25zZS5zZXRIZWFkZXIoIkFjY2Vzcy1jb250cm9sLUFsbG93LU9yaWdpbiIsIHJxSGVhZGVyKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBqYXZhLm5pby5maWxlLkZpbGVzLmNyZWF0ZVRlbXBGaWxlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBqcGdGaWxlLmV4Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdC50cmEK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBqYXZhLm5pby5maWxlLkZpbGVzLmNyZWF0ZVRlbXBGaWxlOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBqcGdGaWxlLmV4Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0uZXhpdCgwKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBDcmVhdGUgdGhlIHRyYW5zY29kZXIgb3V0cHV0LgogICAgICAgIE91dHB1dFN0cmVhbSBvc3RyZWFtID0gbmV3IEZpbGVPdXRwdXRTdHJlYW0oanBnUGF0aC50b0ZpbGUoKSk7CiAgICAgICAgVHJhbnNjb2Rlck91dHB1dCBvdXRwdXQgPSBuZXcgVHJhbnNjb2Rlck91dHB1dChvc3RyZWFtKTsKCiAgICAgICAgLy8gU2F2ZSB0aGUgaW1hZ2UuCiAgICAgICAgdC50cmFuc2NvZGUoaW5wdXQsIG91dHB1dCk7CgogICAgICAgIC8vIEZsdXNoIGFuZCBjbG9zZSB0aGUgc3RyZWFtLgogICAgICAgIG9zdHJlYW0uZmx1c2goKTsKICAgICAgICBvc3RyZWFtLmNsb3NlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0uZXhpdCgwKTsK</text>
       </register>
       <register name=":" type="4">
         <text>set keep-english-in-normal</text>
       </register>
     </registers>
     <search>
-      <last-search>tostring</last-search>
+      <last-search encoding="base64">XDx9XD4=</last-search>
       <last-offset />
-      <last-pattern>tostring</last-pattern>
+      <last-pattern encoding="base64">XDx9XD4=</last-pattern>
       <last-replace>V02</last-replace>
       <last-substitute>F01</last-substitute>
-      <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <last-dir>-1</last-dir>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>getUsert</entry>
         <entry>ngif</entry>
         <entry>Plain Text</entry>
         <entry encoding="base64">XDxleHRzXD4=</entry>
@@ -3736,6 +3738,7 @@
         <entry encoding="base64">XDxyZWN0XD4=</entry>
         <entry>F01</entry>
         <entry>tostring</entry>
+        <entry encoding="base64">XDx9XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/unit/ldarStandard/gc</entry>
