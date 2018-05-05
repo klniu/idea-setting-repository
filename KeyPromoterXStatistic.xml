@@ -1070,6 +1070,14 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'StackByArrayTest.stack'</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'StackByNodeTest.stack'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'StackByNodeTest.stack'</Description>
           <Count>2</Count>
         </Item>
       </Statistic>
