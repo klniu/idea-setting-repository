@@ -899,7 +899,7 @@
         <mark key="." line="23" column="34" />
         <mark key="^" line="23" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524190831366">
+      <file name="/Dummy.txt" timestamp="1525607245148">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/java/law/pom.xml" timestamp="1507787272217">
@@ -3685,7 +3685,7 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>action NextTab</text>
+        <text>action PreviousTab</text>
       </register>
     </registers>
     <search>
@@ -3739,8 +3739,8 @@
         <entry encoding="base64">JzwsJz5zL0YwMS9WMDIvZ2M=</entry>
         <entry>set keep-english-in-normal</entry>
         <entry>action ReformatCode</entry>
-        <entry>action PreviousTab</entry>
         <entry>action NextTab</entry>
+        <entry>action PreviousTab</entry>
       </history-cmd>
       <history-expr />
       <history-input />
