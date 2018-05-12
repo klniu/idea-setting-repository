@@ -676,12 +676,12 @@
         <mark key="." line="140" column="0" />
         <mark key="^" line="139" column="7" />
       </file>
-      <file name="D:/code/python/coin/save_binance_data.py" timestamp="1526091283418">
+      <file name="D:/code/python/coin/save_binance_data.py" timestamp="1526092273405">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="60" column="4" />
-        <mark key="]" line="60" column="24" />
-        <mark key="^" line="157" column="20" />
-        <mark key="." line="157" column="20" />
+        <mark key="[" line="154" column="9" />
+        <mark key="]" line="154" column="8" />
+        <mark key="." line="154" column="8" />
+        <mark key="^" line="154" column="8" />
       </file>
       <file name="D:/code/web/voc-ui/src/app/delon.module.ts" timestamp="1522134669362">
         <mark key="[" line="187" column="87" />
@@ -3654,8 +3654,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>get_historical_klines</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBvcy5wYXRoLmV4aXN0cyhmaWxlbmFtZSk6CiAgICAgICAgICAgIGNvbnRpbnVlCg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -3771,31 +3771,31 @@
         <text>time_str + &quot; - &quot; + s + &quot;：&quot; + msg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJ7fS9CaW5hbmNlX3t9X3t9X3t9LXt9Lmpzb24iLmZvcm1hdCgKICAgICAgICAgICAgICAgICAgICBkaXIsCiAgICAgICAgICAgICAgICAgICAgc3ltYm9sLAogICAgICAgICAgICAgICAgICAgIGludGVydmFsLAogICAgICAgICAgICAgICAgICAgIGRhdGVfdG9fbWlsbGlzZWNvbmRzKHN0YXJ0KSwKICAgICAgICAgICAgICAgICAgICBkYXRlX3RvX21pbGxpc2Vjb25kcyhlbmQpCiAgICAgICAgICAgICAgICApLAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBvcy5wYXRoLmV4aXN0cyhmaWxlbmFtZSk6CiAgICAgICAgICAgIGNvbnRpbnVlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIMz4uf3S0b6tyfqzybXECiAgICAgICAgZmlsZW5hbWUgPSAie30vQmluYW5jZV97fV97fV97fS17fS5qc29uIi5mb3JtYXQoCiAgICAgICAgICAgIGRpciwKICAgICAgICAgICAgc3ltYm9sLAogICAgICAgICAgICBpbnRlcnZhbCwKICAgICAgICAgICAgZGF0ZV90b19taWxsaXNlY29uZHMoc3RhcnQpLAogICAgICAgICAgICBkYXRlX3RvX21pbGxpc2Vjb25kcyhlbmQpCiAgICAgICAgKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ290bwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJ7fS9CaW5hbmNlX3t9X3t9X3t9LXt9Lmpzb24iLmZvcm1hdCgKICAgICAgICAgICAgICAgICAgICBkaXIsCiAgICAgICAgICAgICAgICAgICAgc3ltYm9sLAogICAgICAgICAgICAgICAgICAgIGludGVydmFsLAogICAgICAgICAgICAgICAgICAgIGRhdGVfdG9fbWlsbGlzZWNvbmRzKHN0YXJ0KSwKICAgICAgICAgICAgICAgICAgICBkYXRlX3RvX21pbGxpc2Vjb25kcyhlbmQpCiAgICAgICAgICAgICAgICApLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjYQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZ290bwo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBrbGluZXMgPSBnZXRfaGlzdG9yaWNhbF9rbGluZXMoc3ltYm9sLCBpbnRlcnZhbCwgc3RhcnQsIGVuZCkK</text>
+        <text encoding="base64">ICAgICAgICBjYQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBxcSBpbXBvcnQgUVEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHFxID0gUVEoY29uZmlnLnFxWydtZV9xcSddLCBjb25maWcucXFbJ2J1ZGR5J10pCg==</text>
+        <text encoding="base64">ICAgICAgICBrbGluZXMgPSBnZXRfaGlzdG9yaWNhbF9rbGluZXMoc3ltYm9sLCBpbnRlcnZhbCwgc3RhcnQsIGVuZCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ZnJvbSBxcSBpbXBvcnQgUVEK</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
