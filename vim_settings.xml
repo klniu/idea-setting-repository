@@ -676,7 +676,13 @@
         <mark key="." line="140" column="0" />
         <mark key="^" line="139" column="7" />
       </file>
-      <file name="D:/code/python/coin/save_binance_data.py" timestamp="1526090094026" />
+      <file name="D:/code/python/coin/save_binance_data.py" timestamp="1526091283418">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="60" column="4" />
+        <mark key="]" line="60" column="24" />
+        <mark key="^" line="157" column="20" />
+        <mark key="." line="157" column="20" />
+      </file>
       <file name="D:/code/web/voc-ui/src/app/delon.module.ts" timestamp="1522134669362">
         <mark key="[" line="187" column="87" />
         <mark key="]" line="187" column="87" />
@@ -3526,10 +3532,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="583" column="36" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
-      <jump line="570" column="6" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
-      <jump line="14" column="25" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
-      <jump line="0" column="27" filename="D:/code/java/voc/src/test/resources/sql/clear.sql" />
       <jump line="12" column="10" filename="D:/code/java/voc/src/test/resources/sql/init.sql" />
       <jump line="9" column="0" filename="D:/code/java/voc/src/test/resources/sql/user/init.sql" />
       <jump line="40" column="13" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/UserServiceImplTest.java" />
@@ -3626,6 +3628,10 @@
       <jump line="147" column="8" filename="D:/code/python/Coin/save_binance_data.py" />
       <jump line="148" column="18" filename="D:/code/python/Coin/save_binance_data.py" />
       <jump line="151" column="12" filename="D:/code/python/Coin/save_binance_data.py" />
+      <jump line="155" column="18" filename="D:/code/python/coin/save_binance_data.py" />
+      <jump line="4" column="8" filename="D:/code/python/coin/save_binance_data.py" />
+      <jump line="37" column="0" filename="D:/code/python/coin/save_binance_data.py" />
+      <jump line="0" column="0" filename="D:/code/python/coin/save_binance_data.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3649,7 +3655,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>talib.MACD(</text>
+        <text>get_historical_klines</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -3756,7 +3762,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxub3JtYWxcPg==</text>
@@ -3765,34 +3771,34 @@
         <text>time_str + &quot; - &quot; + s + &quot;：&quot; + msg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJ7fS9CaW5hbmNlX3t9X3t9X3t9LXt9Lmpzb24iLmZvcm1hdCgKICAgICAgICAgICAgICAgICAgICBkaXIsCiAgICAgICAgICAgICAgICAgICAgc3ltYm9sLAogICAgICAgICAgICAgICAgICAgIGludGVydmFsLAogICAgICAgICAgICAgICAgICAgIGRhdGVfdG9fbWlsbGlzZWNvbmRzKHN0YXJ0KSwKICAgICAgICAgICAgICAgICAgICBkYXRlX3RvX21pbGxpc2Vjb25kcyhlbmQpCiAgICAgICAgICAgICAgICApLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ290bwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjYQo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZ290bwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBjYQo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBrbGluZXMgPSBnZXRfaGlzdG9yaWNhbF9rbGluZXMoc3ltYm9sLCBpbnRlcnZhbCwgc3RhcnQsIGVuZCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBxcSBpbXBvcnQgUVEK</text>
+        <text encoding="base64">ICAgICAgICBrbGluZXMgPSBnZXRfaGlzdG9yaWNhbF9rbGluZXMoc3ltYm9sLCBpbnRlcnZhbCwgc3RhcnQsIGVuZCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHFxID0gUVEoY29uZmlnLnFxWydtZV9xcSddLCBjb25maWcucXFbJ2J1ZGR5J10pCg==</text>
+        <text encoding="base64">ZnJvbSBxcSBpbXBvcnQgUVEK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHFxID0gUVEoY29uZmlnLnFxWydtZV9xcSddLCBjb25maWcucXFbJ2J1ZGR5J10pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBib3QuU2VuZFRvKHNlbGYuZnJpZW5kLCB0aW1lX3N0ciArICIgLSAiICsgcyArICKjuiIgKyBtc2cpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>action PreviousTab</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
@@ -3843,11 +3849,11 @@
         <entry encoding="base64">JzwsJz5J</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz5zLyQvLC9nYw==</entry>
-        <entry>action ReformatCode</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gTmV4dFRhYg==</entry>
         <entry>action Back</entry>
         <entry>action NextTab</entry>
         <entry>action PreviousTab</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
