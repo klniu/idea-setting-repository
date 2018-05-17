@@ -180,6 +180,13 @@
         <mark key="." line="52" column="13" />
         <mark key="^" line="52" column="13" />
       </file>
+      <file name="D:/code/web/voc-alain/package.json" timestamp="1526524711168">
+        <mark key="'" line="28" column="25" />
+        <mark key="[" line="57" column="23" />
+        <mark key="]" line="57" column="23" />
+        <mark key="." line="57" column="23" />
+        <mark key="^" line="59" column="35" />
+      </file>
       <file name="D:/code/web/voc-ui/src/app/routes/ldar/component/component-form.component.ts" timestamp="1520556992956">
         <mark key="'" line="126" column="29" />
         <mark key="[" line="103" column="32" />
@@ -1150,7 +1157,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="0" filename="D:/code/java/voc/src/test/resources/sql/user/init.sql" />
       <jump line="40" column="13" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/UserServiceImplTest.java" />
       <jump line="0" column="0" filename="D:/code/java/voc/src/test/resources/sql/user/factory.sql" />
       <jump line="5" column="90" filename="D:/code/java/voc/src/test/resources/sql/user/init.sql" />
@@ -1250,6 +1256,7 @@
       <jump line="13" column="27" filename="D:/code/web/voc-delon/src/app/routes/ldar/component/component.component.ts" />
       <jump line="68" column="36" filename="D:/code/web/voc-delon/src/app/routes/ldar/component/component.component.ts" />
       <jump line="5" column="28" filename="D:/code/web/voc-delon/src/app/routes/ldar/component/component.component.ts" />
+      <jump line="28" column="25" filename="D:/code/web/voc-alain/package.json" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1273,7 +1280,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>:</text>
+        <text>1</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -1380,10 +1387,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZlw+</text>
+        <text>6.0.0</text>
       </register>
       <register name="0" type="4">
         <text>time_str + &quot; - &quot; + s + &quot;：&quot; + msg</text>
@@ -1416,21 +1423,20 @@
         <text encoding="base64">aW1wb3J0IHtGb3JtQ29tcG9uZW50LCBPYmplY3RQcm9wZXJ0eX0gZnJvbSAnbnotc2NoZW1hLWZvcm0nOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>%s/1.0.0-beta.9/1.0.1/gc</text>
+        <text encoding="base64">JzwsJz5zLzYuMC4wLzUuMi45L2dj</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZlw+</last-search>
+      <last-search>6.0.0</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZlw+</last-pattern>
-      <last-replace>1.0.1</last-replace>
-      <last-substitute>1.0.0-beta.9</last-substitute>
+      <last-pattern>6.0.0</last-pattern>
+      <last-replace>5.2.9</last-replace>
+      <last-substitute>6.0.0</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>header</entry>
         <entry>lom</entry>
         <entry>compiler</entry>
         <entry>institution</entry>
@@ -1450,9 +1456,9 @@
         <entry encoding="base64">XDxub3JtYWxcPg==</entry>
         <entry>1.0.0-beta.9</entry>
         <entry encoding="base64">XDxzZlw+</entry>
+        <entry>6.0.0</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLyQvXFxuIg==</entry>
         <entry encoding="base64">JzwsJz5zLyQvKw==</entry>
         <entry>%s/Unit/LdarStandard/gc</entry>
         <entry>%s/unit/ldarStandard/gc</entry>
@@ -1472,6 +1478,7 @@
         <entry>action NextTab</entry>
         <entry>action PreviousTab</entry>
         <entry>%s/1.0.0-beta.9/1.0.1/gc</entry>
+        <entry encoding="base64">JzwsJz5zLzYuMC4wLzUuMi45L2dj</entry>
       </history-cmd>
       <history-expr />
       <history-input />
