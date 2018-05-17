@@ -1234,10 +1234,11 @@
         <mark key="^" line="17" column="64" />
         <mark key="." line="10" column="21" />
       </file>
-      <file name="D:/code/web/voc-delon/package.json" timestamp="1525911147625">
-        <mark key="[" line="40" column="33" />
-        <mark key="]" line="40" column="34" />
-        <mark key="." line="40" column="34" />
+      <file name="D:/code/web/voc-delon/package.json" timestamp="1526461738997">
+        <mark key="'" line="35" column="25" />
+        <mark key="[" line="60" column="24" />
+        <mark key="]" line="60" column="25" />
+        <mark key="." line="60" column="25" />
       </file>
       <file name="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/mapper/RoleMapper.java" timestamp="1508842365893">
         <mark key="[" line="16" column="44" />
@@ -3526,7 +3527,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="583" column="36" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
       <jump line="570" column="6" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
       <jump line="14" column="25" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
       <jump line="0" column="27" filename="D:/code/java/voc/src/test/resources/sql/clear.sql" />
@@ -3626,6 +3626,7 @@
       <jump line="147" column="8" filename="D:/code/python/Coin/save_binance_data.py" />
       <jump line="148" column="18" filename="D:/code/python/Coin/save_binance_data.py" />
       <jump line="151" column="12" filename="D:/code/python/Coin/save_binance_data.py" />
+      <jump line="35" column="25" filename="D:/code/web/voc-delon/package.json" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3649,7 +3650,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>http://github.com</text>
+        <text>-beta.5</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -3756,57 +3757,56 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>http://github.com</text>
+        <text>-beta.5</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxub3JtYWxcPg==</text>
+        <text>1.0.0-beta.9</text>
       </register>
       <register name="0" type="4">
         <text>time_str + &quot; - &quot; + s + &quot;：&quot; + msg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJuei1zY2hlbWEtZm9ybSI6ICJeMS4wLjAtYmV0YS4wIiwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ290bwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjYQo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZ290bwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBjYQo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBrbGluZXMgPSBnZXRfaGlzdG9yaWNhbF9rbGluZXMoc3ltYm9sLCBpbnRlcnZhbCwgc3RhcnQsIGVuZCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBxcSBpbXBvcnQgUVEK</text>
+        <text encoding="base64">ICAgICAgICBrbGluZXMgPSBnZXRfaGlzdG9yaWNhbF9rbGluZXMoc3ltYm9sLCBpbnRlcnZhbCwgc3RhcnQsIGVuZCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHFxID0gUVEoY29uZmlnLnFxWydtZV9xcSddLCBjb25maWcucXFbJ2J1ZGR5J10pCg==</text>
+        <text encoding="base64">ZnJvbSBxcSBpbXBvcnQgUVEK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHFxID0gUVEoY29uZmlnLnFxWydtZV9xcSddLCBjb25maWcucXFbJ2J1ZGR5J10pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBib3QuU2VuZFRvKHNlbGYuZnJpZW5kLCB0aW1lX3N0ciArICIgLSAiICsgcyArICKjuiIgKyBtc2cpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>action PreviousTab</text>
+        <text>%s/1.0.0-beta.9/1.0.1/gc</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxub3JtYWxcPg==</last-search>
+      <last-search>1.0.0-beta.9</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxub3JtYWxcPg==</last-pattern>
-      <last-replace>V02</last-replace>
-      <last-substitute>F01</last-substitute>
+      <last-pattern>1.0.0-beta.9</last-pattern>
+      <last-replace>1.0.1</last-replace>
+      <last-substitute>1.0.0-beta.9</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>joint</entry>
         <entry encoding="base64">XDxwcmVIYW5kbGVcPg==</entry>
         <entry>header</entry>
         <entry>lom</entry>
@@ -3826,9 +3826,9 @@
         <entry>raise</entry>
         <entry encoding="base64">XDxfdXBkYXRlX2FjY291bnRcPg==</entry>
         <entry encoding="base64">XDxub3JtYWxcPg==</entry>
+        <entry>1.0.0-beta.9</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLyQvXG4i</entry>
         <entry encoding="base64">JzwsJz5zLyQvXFxuIg==</entry>
         <entry encoding="base64">JzwsJz5zLyQvKw==</entry>
         <entry>%s/Unit/LdarStandard/gc</entry>
@@ -3848,6 +3848,7 @@
         <entry>action Back</entry>
         <entry>action NextTab</entry>
         <entry>action PreviousTab</entry>
+        <entry>%s/1.0.0-beta.9/1.0.1/gc</entry>
       </history-cmd>
       <history-expr />
       <history-input />
