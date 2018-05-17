@@ -1234,11 +1234,12 @@
         <mark key="^" line="17" column="64" />
         <mark key="." line="10" column="21" />
       </file>
-      <file name="D:/code/web/voc-delon/package.json" timestamp="1526461738997">
+      <file name="D:/code/web/voc-delon/package.json" timestamp="1526517006038">
         <mark key="'" line="35" column="25" />
-        <mark key="[" line="60" column="24" />
-        <mark key="]" line="60" column="25" />
-        <mark key="." line="60" column="25" />
+        <mark key="[" line="60" column="20" />
+        <mark key="]" line="60" column="22" />
+        <mark key="." line="60" column="22" />
+        <mark key="^" line="60" column="22" />
       </file>
       <file name="$USER_HOME$/code/java/voc/src/main/java/com/klniu/voc/mapper/RoleMapper.java" timestamp="1508842365893">
         <mark key="[" line="16" column="44" />
@@ -1681,6 +1682,13 @@
         <mark key="]" line="3" column="13" />
         <mark key="." line="3" column="13" />
         <mark key="^" line="4" column="17" />
+      </file>
+      <file name="D:/code/web/voc-delon/src/app/app.module.ts" timestamp="1526517217344">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="37" column="33" />
+        <mark key="]" line="37" column="33" />
+        <mark key="^" line="37" column="33" />
+        <mark key="." line="37" column="33" />
       </file>
       <file name="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/LdarTurnServiceImplTest.java" timestamp="1521017228614">
         <mark key="'" line="49" column="0" />
@@ -3527,7 +3535,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="570" column="6" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
       <jump line="14" column="25" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
       <jump line="0" column="27" filename="D:/code/java/voc/src/test/resources/sql/clear.sql" />
       <jump line="12" column="10" filename="D:/code/java/voc/src/test/resources/sql/init.sql" />
@@ -3627,6 +3634,7 @@
       <jump line="148" column="18" filename="D:/code/python/Coin/save_binance_data.py" />
       <jump line="151" column="12" filename="D:/code/python/Coin/save_binance_data.py" />
       <jump line="35" column="25" filename="D:/code/web/voc-delon/package.json" />
+      <jump line="0" column="0" filename="D:/code/web/voc-delon/src/app/app.module.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3650,7 +3658,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>-beta.5</text>
+        <text>1</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -3757,7 +3765,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>-beta.5</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>1.0.0-beta.9</text>
@@ -3803,7 +3811,7 @@
       <last-replace>1.0.1</last-replace>
       <last-substitute>1.0.0-beta.9</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
