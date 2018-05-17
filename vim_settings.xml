@@ -245,6 +245,12 @@
         <mark key="^" line="9" column="23" />
         <mark key="." line="9" column="23" />
       </file>
+      <file name="D:/code/web/voc-delon/src/app/routes/ldar/component/component.component.ts" timestamp="1526518190623">
+        <mark key="'" line="5" column="28" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/code/java/voc/src/main/resources/application.yml" timestamp="1509504759411">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
@@ -3535,9 +3541,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="25" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
-      <jump line="0" column="27" filename="D:/code/java/voc/src/test/resources/sql/clear.sql" />
-      <jump line="12" column="10" filename="D:/code/java/voc/src/test/resources/sql/init.sql" />
       <jump line="9" column="0" filename="D:/code/java/voc/src/test/resources/sql/user/init.sql" />
       <jump line="40" column="13" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/UserServiceImplTest.java" />
       <jump line="0" column="0" filename="D:/code/java/voc/src/test/resources/sql/user/factory.sql" />
@@ -3635,6 +3638,9 @@
       <jump line="151" column="12" filename="D:/code/python/Coin/save_binance_data.py" />
       <jump line="35" column="25" filename="D:/code/web/voc-delon/package.json" />
       <jump line="0" column="0" filename="D:/code/web/voc-delon/src/app/app.module.ts" />
+      <jump line="13" column="27" filename="D:/code/web/voc-delon/src/app/routes/ldar/component/component.component.ts" />
+      <jump line="68" column="36" filename="D:/code/web/voc-delon/src/app/routes/ldar/component/component.component.ts" />
+      <jump line="5" column="28" filename="D:/code/web/voc-delon/src/app/routes/ldar/component/component.component.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3657,8 +3663,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHtGb3JtQ29tcG9uZW50fSBmcm9tICduei1zY2hlbWEtZm9ybSc7Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -3768,54 +3774,53 @@
         <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>1.0.0-beta.9</text>
+        <text encoding="base64">XDxzZlw+</text>
       </register>
       <register name="0" type="4">
         <text>time_str + &quot; - &quot; + s + &quot;：&quot; + msg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJuei1zY2hlbWEtZm9ybSI6ICJeMS4wLjAtYmV0YS4wIiwK</text>
+        <text encoding="base64">aW1wb3J0IHtGb3JtQ29tcG9uZW50fSBmcm9tICduei1zY2hlbWEtZm9ybSc7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJuei1zY2hlbWEtZm9ybSI6ICJeMS4wLjAtYmV0YS4wIiwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ290bwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjYQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZ290bwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBjYQo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBrbGluZXMgPSBnZXRfaGlzdG9yaWNhbF9rbGluZXMoc3ltYm9sLCBpbnRlcnZhbCwgc3RhcnQsIGVuZCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBxcSBpbXBvcnQgUVEK</text>
+        <text encoding="base64">ICAgICAgICBrbGluZXMgPSBnZXRfaGlzdG9yaWNhbF9rbGluZXMoc3ltYm9sLCBpbnRlcnZhbCwgc3RhcnQsIGVuZCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHFxID0gUVEoY29uZmlnLnFxWydtZV9xcSddLCBjb25maWcucXFbJ2J1ZGR5J10pCg==</text>
+        <text encoding="base64">ZnJvbSBxcSBpbXBvcnQgUVEK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHFxID0gUVEoY29uZmlnLnFxWydtZV9xcSddLCBjb25maWcucXFbJ2J1ZGR5J10pCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/1.0.0-beta.9/1.0.1/gc</text>
       </register>
     </registers>
     <search>
-      <last-search>1.0.0-beta.9</last-search>
+      <last-search encoding="base64">XDxzZlw+</last-search>
       <last-offset />
-      <last-pattern>1.0.0-beta.9</last-pattern>
+      <last-pattern encoding="base64">XDxzZlw+</last-pattern>
       <last-replace>1.0.1</last-replace>
       <last-substitute>1.0.0-beta.9</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwcmVIYW5kbGVcPg==</entry>
         <entry>header</entry>
         <entry>lom</entry>
         <entry>compiler</entry>
@@ -3835,6 +3840,7 @@
         <entry encoding="base64">XDxfdXBkYXRlX2FjY291bnRcPg==</entry>
         <entry encoding="base64">XDxub3JtYWxcPg==</entry>
         <entry>1.0.0-beta.9</entry>
+        <entry encoding="base64">XDxzZlw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyQvXFxuIg==</entry>
