@@ -3398,6 +3398,12 @@
         <mark key="." line="30" column="36" />
         <mark key="^" line="30" column="36" />
       </file>
+      <file name="D:/code/web/vocs-react/webpack.config.js" timestamp="1527058875334">
+        <mark key="[" line="134" column="0" />
+        <mark key="]" line="134" column="0" />
+        <mark key="." line="134" column="0" />
+        <mark key="^" line="132" column="18" />
+      </file>
       <file name="$USER_HOME$/code/java/vocs/src/main/java/com/klniu/voc/service/LdarSettingService.java" timestamp="1508653658270">
         <mark key="[" line="5" column="33" />
         <mark key="]" line="5" column="32" />
@@ -3542,6 +3548,12 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="D:/code/web/vocs-react/src/entry/photo.tsx" timestamp="1527058653412">
+        <mark key="'" line="68" column="46" />
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="." line="68" column="0" />
+      </file>
       <file name="D:/code/web/voc-web/src/app/routes/base/setting/photo-number.component.html" timestamp="1520047977134">
         <mark key="'" line="41" column="62" />
         <mark key="[" line="41" column="62" />
@@ -3656,7 +3668,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="201" column="0" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/InstallServiceImplTest.java" />
       <jump line="26" column="10" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/web/BaseTest.java" />
       <jump line="552" column="27" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
       <jump line="33" column="26" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
@@ -3756,6 +3767,7 @@
       <jump line="170" column="22" filename="D:/code/web/voc-pro/src/routes/List/Applications.js" />
       <jump line="172" column="13" filename="D:/code/web/voc-pro/src/routes/List/Applications.js" />
       <jump line="199" column="14" filename="D:/code/web/voc-pro/src/routes/List/Applications.js" />
+      <jump line="68" column="46" filename="D:/code/web/vocs-react/src/entry/photo.tsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3779,7 +3791,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxnbG9iYWwtZm9vdGVyIFtsaW5rc109ImxpbmtzIj4KICAgICAgQ29weXJpZ2h0CiAgICAgIDxpIGNsYXNzPSJhbnRpY29uIGFudGljb24tY29weXJpZ2h0Ij48L2k+IDIwMTcKICAgICAgPGEgaHJlZj0iLy9naXRodWIuY29tL2NpcGNoayIgdGFyZ2V0PSJfYmxhbmsiPr+oyas8L2E+s/bGtwogICAgPC9nbG9iYWwtZm9vdGVyPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -3886,49 +3898,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>qq</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsaXN0XD4=</text>
+        <text>console</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8Z2xvYmFsLWZvb3RlciBbbGlua3NdPSJsaW5rcyI+CiAgICAgICAgICAgIENvcHlyaWdodCA8aSBjbGFzcz0iY29weXJpZ2h0Ij48L2k+IDIwMTggPGEgaHJlZj0iLy92b2MuY252b2MuY29tLyIgdGFyZ2V0PSJfYmxhbmsiPkNOVk9DPC9hPrP2xrcKICAgICAgICA8L2dsb2JhbC1mb290ZXI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbGVuYW1lOiAiL2hvbWUva2xuaXUvc3luYy9jb2RlL2dvL3NyYy96aHZvY3Mvdmlld3MvaW5kZXgudHBsIiwgLy/J+rPJtcRodG1stOa3xcK3vrajrM/gttTT2iBwYXRoCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxnbG9iYWwtZm9vdGVyIFtsaW5rc109ImxpbmtzIj4KICAgICAgQ29weXJpZ2h0CiAgICAgIDxpIGNsYXNzPSJhbnRpY29uIGFudGljb24tY29weXJpZ2h0Ij48L2k+IDIwMTcKICAgICAgPGEgaHJlZj0iLy9naXRodWIuY29tL2NpcGNoayIgdGFyZ2V0PSJfYmxhbmsiPr+oyas8L2E+s/bGtwogICAgPC9nbG9iYWwtZm9vdGVyPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0iZGVzYyI+zuTB1tbQ1+7T0NOwz+zBprXEoba/+7uosaa15KG3o7vT+8G3yfG5pqOsu9O1ttfUuaw8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICBjb24K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8c3BhbiBjbGFzcz0idGl0bGUiPm5nLWFsYWluPC9zcGFuPgo=</text>
+        <text encoding="base64">ICAgIDxnbG9iYWwtZm9vdGVyIFtsaW5rc109ImxpbmtzIj4KICAgICAgQ29weXJpZ2h0CiAgICAgIDxpIGNsYXNzPSJhbnRpY29uIGFudGljb24tY29weXJpZ2h0Ij48L2k+IDIwMTcKICAgICAgPGEgaHJlZj0iLy9naXRodWIuY29tL2NpcGNoayIgdGFyZ2V0PSJfYmxhbmsiPr+oyas8L2E+s/bGtwogICAgPC9nbG9iYWwtZm9vdGVyPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0iZGVzYyI+zuTB1tbQ1+7T0NOwz+zBprXEoba/+7uosaa15KG3o7vT+8G3yfG5pqOsu9O1ttfUuaw8L2Rpdj4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8c3BhbiBjbGFzcz0idGl0bGUiPm5nLWFsYWluPC9zcGFuPgo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnN0IHRva2VuRGF0YSA9IHRoaXMudG9rZW5TZXJ2aWNlLmdldCgpOwogICAgLy8gaWYgKCF0b2tlbkRhdGEudG9rZW4pIHsKICAgIC8vICAgdGhpcy5pbmplY3Rvci5nZXQoUm91dGVyKS5uYXZpZ2F0ZUJ5VXJsKCcvcGFzc3BvcnQvbG9naW4nKTsKICAgIC8vICAgcmVzb2x2ZSh7fSk7CiAgICAvLyAgIHJldHVybjsKICAgIC8vIH0KICAgIC8vIG1vY2sKICAgIGNvbnN0IGFwcDogYW55ID0gewogICAgICBuYW1lOiBgbmctYWxhaW5gLAogICAgICBkZXNjcmlwdGlvbjogYE5nLXpvcnJvIGFkbWluIHBhbmVsIGZyb250LWVuZCBmcmFtZXdvcmtgCiAgICB9OwogICAgY29uc3QgdXNlcjogYW55ID0gewogICAgICBuYW1lOiAnQWRtaW4nLAogICAgICBhdmF0YXI6ICcuL2Fzc2V0cy9fL2ltZy9hdmF0YXIuanBnJywKICAgICAgZW1haWw6ICdjaXBjaGtAcXEuY29tJywKICAgICAgdG9rZW46ICcxMjM0NTY3ODknCiAgICB9OwogICAgLy8g06bTw9DFz6KjurD8wKjVvrXjw/uhosPoyvahosTqt90KICAgIHRoaXMuc2V0dGluZ1NlcnZpY2Uuc2V0QXBwKGFwcCk7CiAgICAvLyDTw7un0MXPoqO6sPzAqNDVw/uhos23z/GhotPKz+S12Na3CiAgICB0aGlzLnNldHRpbmdTZXJ2aWNlLnNldFVzZXIodXNlcik7CiAgICAvLyBBQ0yjusno1sPIqM/ezqrIq8G/CiAgICB0aGlzLmFjbFNlcnZpY2Uuc2V0RnVsbCh0cnVlKTsKICAgIC8vILP1yry7r7LLtaUKICAgIHRoaXMubWVudVNlcnZpY2UuYWRkKFsKICAgICAgewogICAgICAgIHRleHQ6ICfW97W8ur0nLAogICAgICAgIGdyb3VwOiB0cnVlLAogICAgICAgIGNoaWxkcmVuOiBbCiAgICAgICAgICB7CiAgICAgICAgICAgIHRleHQ6ICfSx7HtxcwnLAogICAgICAgICAgICBsaW5rOiAnL2Rhc2hib2FyZCcsCiAgICAgICAgICAgIGljb246ICdhbnRpY29uIGFudGljb24tYXBwc3RvcmUtbycKICAgICAgICAgIH0sCiAgICAgICAgICB7CiAgICAgICAgICAgIHRleHQ6ICe/7L3dssu1pScsCiAgICAgICAgICAgIGljb246ICdhbnRpY29uIGFudGljb24tcm9ja2V0JywKICAgICAgICAgICAgc2hvcnRjdXRfcm9vdDogdHJ1ZQogICAgICAgICAgfQogICAgICAgIF0KICAgICAgfQogICAgXSk7CiAgICAvLyDJ6NbD0rPD5rHqzOK1xLrz17oKICAgIHRoaXMudGl0bGVTZXJ2aWNlLnN1ZmZpeCA9IGFwcC5uYW1lOwoKICAgIHJlc29sdmUoe30pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBicmVhazsK</text>
+        <text encoding="base64">ICAgIC8vIGNvbnN0IHRva2VuRGF0YSA9IHRoaXMudG9rZW5TZXJ2aWNlLmdldCgpOwogICAgLy8gaWYgKCF0b2tlbkRhdGEudG9rZW4pIHsKICAgIC8vICAgdGhpcy5pbmplY3Rvci5nZXQoUm91dGVyKS5uYXZpZ2F0ZUJ5VXJsKCcvcGFzc3BvcnQvbG9naW4nKTsKICAgIC8vICAgcmVzb2x2ZSh7fSk7CiAgICAvLyAgIHJldHVybjsKICAgIC8vIH0KICAgIC8vIG1vY2sKICAgIGNvbnN0IGFwcDogYW55ID0gewogICAgICBuYW1lOiBgbmctYWxhaW5gLAogICAgICBkZXNjcmlwdGlvbjogYE5nLXpvcnJvIGFkbWluIHBhbmVsIGZyb250LWVuZCBmcmFtZXdvcmtgCiAgICB9OwogICAgY29uc3QgdXNlcjogYW55ID0gewogICAgICBuYW1lOiAnQWRtaW4nLAogICAgICBhdmF0YXI6ICcuL2Fzc2V0cy9fL2ltZy9hdmF0YXIuanBnJywKICAgICAgZW1haWw6ICdjaXBjaGtAcXEuY29tJywKICAgICAgdG9rZW46ICcxMjM0NTY3ODknCiAgICB9OwogICAgLy8g06bTw9DFz6KjurD8wKjVvrXjw/uhosPoyvahosTqt90KICAgIHRoaXMuc2V0dGluZ1NlcnZpY2Uuc2V0QXBwKGFwcCk7CiAgICAvLyDTw7un0MXPoqO6sPzAqNDVw/uhos23z/GhotPKz+S12Na3CiAgICB0aGlzLnNldHRpbmdTZXJ2aWNlLnNldFVzZXIodXNlcik7CiAgICAvLyBBQ0yjusno1sPIqM/ezqrIq8G/CiAgICB0aGlzLmFjbFNlcnZpY2Uuc2V0RnVsbCh0cnVlKTsKICAgIC8vILP1yry7r7LLtaUKICAgIHRoaXMubWVudVNlcnZpY2UuYWRkKFsKICAgICAgewogICAgICAgIHRleHQ6ICfW97W8ur0nLAogICAgICAgIGdyb3VwOiB0cnVlLAogICAgICAgIGNoaWxkcmVuOiBbCiAgICAgICAgICB7CiAgICAgICAgICAgIHRleHQ6ICfSx7HtxcwnLAogICAgICAgICAgICBsaW5rOiAnL2Rhc2hib2FyZCcsCiAgICAgICAgICAgIGljb246ICdhbnRpY29uIGFudGljb24tYXBwc3RvcmUtbycKICAgICAgICAgIH0sCiAgICAgICAgICB7CiAgICAgICAgICAgIHRleHQ6ICe/7L3dssu1pScsCiAgICAgICAgICAgIGljb246ICdhbnRpY29uIGFudGljb24tcm9ja2V0JywKICAgICAgICAgICAgc2hvcnRjdXRfcm9vdDogdHJ1ZQogICAgICAgICAgfQogICAgICAgIF0KICAgICAgfQogICAgXSk7CiAgICAvLyDJ6NbD0rPD5rHqzOK1xLrz17oKICAgIHRoaXMudGl0bGVTZXJ2aWNlLnN1ZmZpeCA9IGFwcC5uYW1lOwoKICAgIHJlc29sdmUoe30pOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsaXN0XD4=</last-search>
+      <last-search>console</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsaXN0XD4=</last-pattern>
+      <last-pattern>console</last-pattern>
       <last-replace>5.2.9</last-replace>
       <last-substitute>6.0.0</last-substitute>
       <last-dir>1</last-dir>
@@ -3936,7 +3948,6 @@
     </search>
     <history>
       <history-search>
-        <entry>insti</entry>
         <entry>media</entry>
         <entry>oo</entry>
         <entry>poi</entry>
@@ -3956,9 +3967,9 @@
         <entry encoding="base64">XDx0aHJvd0Vycm9yXD4=</entry>
         <entry encoding="base64">XDxsb2FkaW5nXD4=</entry>
         <entry encoding="base64">XDxsaXN0XD4=</entry>
+        <entry>console</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLyQvKw==</entry>
         <entry>%s/Unit/LdarStandard/gc</entry>
         <entry>%s/unit/ldarStandard/gc</entry>
         <entry>%s/LdarStandard/Install</entry>
@@ -3978,6 +3989,7 @@
         <entry>action NextTab</entry>
         <entry>action PreviousTab</entry>
         <entry>action ReformatCode</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
