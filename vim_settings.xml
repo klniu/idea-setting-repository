@@ -1723,6 +1723,9 @@
         <mark key="^" line="54" column="19" />
         <mark key="." line="54" column="19" />
       </file>
+      <file name="D:/code/web/vocs-react/src/common/constants.ts" timestamp="1527061632389">
+        <mark key="'" line="41" column="11" />
+      </file>
       <file name="D:/code/web/voc-web/src/app/routes/base/ldarsetting/setting.component.less" timestamp="1520073227943">
         <mark key="[" line="38" column="29" />
         <mark key="]" line="38" column="30" />
@@ -3548,11 +3551,12 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="D:/code/web/vocs-react/src/entry/photo.tsx" timestamp="1527058653412">
-        <mark key="'" line="68" column="46" />
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="." line="68" column="0" />
+      <file name="D:/code/web/vocs-react/src/entry/photo.tsx" timestamp="1527061691996">
+        <mark key="'" line="69" column="40" />
+        <mark key="[" line="68" column="26" />
+        <mark key="]" line="68" column="26" />
+        <mark key="." line="68" column="26" />
+        <mark key="^" line="68" column="26" />
       </file>
       <file name="D:/code/web/voc-web/src/app/routes/base/setting/photo-number.component.html" timestamp="1520047977134">
         <mark key="'" line="41" column="62" />
@@ -3668,9 +3672,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="10" filename="D:/code/java/voc/src/test/java/com/cnvoc/voc/web/BaseTest.java" />
-      <jump line="552" column="27" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
-      <jump line="33" column="26" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
       <jump line="294" column="27" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
       <jump line="0" column="0" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
       <jump line="2" column="29" filename="D:/code/java/voc/src/main/resources/sql/schema.sql" />
@@ -3767,7 +3768,10 @@
       <jump line="170" column="22" filename="D:/code/web/voc-pro/src/routes/List/Applications.js" />
       <jump line="172" column="13" filename="D:/code/web/voc-pro/src/routes/List/Applications.js" />
       <jump line="199" column="14" filename="D:/code/web/voc-pro/src/routes/List/Applications.js" />
-      <jump line="68" column="46" filename="D:/code/web/vocs-react/src/entry/photo.tsx" />
+      <jump line="26" column="8" filename="D:/code/web/vocs-react/src/entry/photo.tsx" />
+      <jump line="41" column="11" filename="D:/code/web/vocs-react/src/common/constants.ts" />
+      <jump line="50" column="63" filename="D:/code/web/vocs-react/src/entry/photo.tsx" />
+      <jump line="68" column="40" filename="D:/code/web/vocs-react/src/entry/photo.tsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3901,7 +3905,7 @@
         <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>console</text>
+        <text encoding="base64">XDx1bml0SW5zdGFsbHNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbGVuYW1lOiAiL2hvbWUva2xuaXUvc3luYy9jb2RlL2dvL3NyYy96aHZvY3Mvdmlld3MvaW5kZXgudHBsIiwgLy/J+rPJtcRodG1stOa3xcK3vrajrM/gttTT2iBwYXRoCg==</text>
@@ -3938,9 +3942,9 @@
       </register>
     </registers>
     <search>
-      <last-search>console</last-search>
+      <last-search encoding="base64">XDx1bml0SW5zdGFsbHNcPg==</last-search>
       <last-offset />
-      <last-pattern>console</last-pattern>
+      <last-pattern encoding="base64">XDx1bml0SW5zdGFsbHNcPg==</last-pattern>
       <last-replace>5.2.9</last-replace>
       <last-substitute>6.0.0</last-substitute>
       <last-dir>1</last-dir>
@@ -3948,7 +3952,6 @@
     </search>
     <history>
       <history-search>
-        <entry>media</entry>
         <entry>oo</entry>
         <entry>poi</entry>
         <entry>getUsert</entry>
@@ -3968,6 +3971,7 @@
         <entry encoding="base64">XDxsb2FkaW5nXD4=</entry>
         <entry encoding="base64">XDxsaXN0XD4=</entry>
         <entry>console</entry>
+        <entry encoding="base64">XDx1bml0SW5zdGFsbHNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Unit/LdarStandard/gc</entry>
