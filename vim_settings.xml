@@ -267,12 +267,12 @@
         <mark key="^" line="97" column="34" />
         <mark key="." line="72" column="31" />
       </file>
-      <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/ComponentServiceImpl.java" timestamp="1527555530231">
-        <mark key="'" line="114" column="5" />
-        <mark key="[" line="539" column="15" />
-        <mark key="]" line="540" column="7" />
-        <mark key="." line="540" column="7" />
-        <mark key="^" line="540" column="7" />
+      <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/ComponentServiceImpl.java" timestamp="1527557441060">
+        <mark key="'" line="523" column="44" />
+        <mark key="[" line="527" column="79" />
+        <mark key="]" line="527" column="82" />
+        <mark key="^" line="527" column="82" />
+        <mark key="." line="527" column="82" />
       </file>
       <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/common/TriConsumer.java" timestamp="1527490781661">
         <mark key="[" line="11" column="0" />
@@ -1311,7 +1311,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="127" column="0" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/SVGParser.java" />
       <jump line="170" column="0" filename="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/SVGParser.java" />
       <jump line="191" column="16" filename="D:/code/go/src/ldar/svg/write.go" />
       <jump line="41" column="3" filename="D:/code/go/src/ldar/svg/write.go" />
@@ -1411,6 +1410,7 @@
       <jump line="508" column="51" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/ComponentServiceImpl.java" />
       <jump line="132" column="40" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/ComponentServiceImpl.java" />
       <jump line="114" column="5" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/ComponentServiceImpl.java" />
+      <jump line="522" column="44" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/ComponentServiceImpl.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1434,7 +1434,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>unit</text>
+        <text>pid图号</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -1541,43 +1541,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>unit</text>
+        <text>pid图号</text>
       </register>
       <register name="/" type="4">
         <text>repair</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBDZWxsIGNlbGwgPSByb3cuY3JlYXRlQ2VsbCgwLCBDZWxsVHlwZS5TVFJJTkcpOwogICAgICAgIGNlbGwuc2V0Q2VsbFZhbHVlKCLnrqHnkIbljZXlhYMiKTsKICAgICAgICBjZWxsID0gcm93LmNyZWF0ZUNlbGwoMSwgQ2VsbFR5cGUuU1RSSU5HKTsKICAgICAgICBjZWxsLnNldENlbGxWYWx1ZSh1bml0LmdldE5hbWUoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJvdy5jcmVhdGVDZWxsKGNlbGxOdW0rKykuc2V0Q2VsbFZhbHVlKGNvbS5nZXRQaWRObygpKTsgLy8gcGlk5Zu+5Y+3Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjZWxsLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIOalvOWxggo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgcm93TnVtID0gMDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIOaKleS6p+aXpeacnwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFdvcmtib29rIHdvcmtib29rID0gbmV3IFhTU0ZXb3JrYm9vaygpOwogICAgICAgICAgICAgICAgU2hlZXQgc2hlZXQgPSB3b3JrYm9vay5jcmVhdGVTaGVldCgpOwogICAgICAgICAgICAgICAgaW50IHJvd051bSA9IDA7CiAgICAgICAgICAgICAgICAvLyDmt7vliqDnrqHnkIbljZXlhYPlkozoo4Xnva4KICAgICAgICAgICAgICAgIFJvdyByb3cgPSBzaGVldC5jcmVhdGVSb3cocm93TnVtKyspOwogICAgICAgICAgICAgICAgQ2VsbCBjZWxsID0gcm93LmNyZWF0ZUNlbGwoMCwgQ2VsbFR5cGUuU1RSSU5HKTsKICAgICAgICAgICAgICAgIGNlbGwuc2V0Q2VsbFZhbHVlKCLnrqHnkIbljZXlhYMiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNlbGwgPSByb3cuY3JlYXRlQ2VsbCgxKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNlbGwuc2V0Q2VsbFZhbHVlKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBXb3JrYm9vayB3b3JrYm9vayA9IG5ldyBYU1NGV29ya2Jvb2soKTsKICAgICAgICBTaGVldCBzaGVldCA9IHdvcmtib29rLmNyZWF0ZVNoZWV0KCk7CiAgICAgICAgaW50IHJvd051bSA9IDA7CiAgICAgICAgLy8g5re75Yqg566h55CG5Y2V5YWD5ZKM6KOF572uCiAgICAgICAgUm93IHJvdyA9IHNoZWV0LmNyZWF0ZVJvdyhyb3dOdW0rKyk7CiAgICAgICAgQ2VsbCBjZWxsID0gcm93LmNyZWF0ZUNlbGwoMCwgQ2VsbFR5cGUuU1RSSU5HKTsKICAgICAgICBjZWxsLnNldENlbGxWYWx1ZSgi566h55CG5Y2V5YWDIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDojrflj5bnu4Tku7blj4oK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpVW5pdFNlcnZpY2UuZ2V0QnlJZChjb21wbykK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IDsgaSsrKSB7CiAgICAgICAgICAgIAogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKFN0cmluZyBoZWFkZXI6IGhlYWRlcnMpIHsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action NextTab</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
@@ -1631,8 +1631,8 @@
         <entry>w</entry>
         <entry>action PreviousTab</entry>
         <entry>action Forward</entry>
-        <entry>action ReformatCode</entry>
         <entry>action NextTab</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
