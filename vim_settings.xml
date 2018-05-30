@@ -176,12 +176,12 @@
         <mark key="." line="32" column="14" />
         <mark key="^" line="32" column="14" />
       </file>
-      <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/DetectionServiceImpl.java" timestamp="1527666957331">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="187" column="82" />
-        <mark key="]" line="187" column="83" />
-        <mark key="." line="187" column="82" />
-        <mark key="^" line="187" column="50" />
+      <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/DetectionServiceImpl.java" timestamp="1527669830557">
+        <mark key="'" line="289" column="0" />
+        <mark key="[" line="300" column="14" />
+        <mark key="]" line="301" column="18" />
+        <mark key="." line="301" column="18" />
+        <mark key="^" line="301" column="18" />
       </file>
       <file name="D:/code/web/voc-delon/src/app/routes/base/factory/factory.component.ts" timestamp="1522139789401">
         <mark key="'" line="36" column="80" />
@@ -319,8 +319,12 @@
         <mark key="." line="57" column="23" />
         <mark key="^" line="59" column="35" />
       </file>
-      <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/web/DetectionController.java" timestamp="1527495200555">
+      <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/web/DetectionController.java" timestamp="1527668137219">
         <mark key="'" line="53" column="58" />
+        <mark key="[" line="109" column="43" />
+        <mark key="]" line="109" column="42" />
+        <mark key="^" line="109" column="42" />
+        <mark key="." line="109" column="42" />
       </file>
       <file name="D:/code/web/voc-web/src/app/routes/base/base.module.ts" timestamp="1520141756916">
         <mark key="'" line="12" column="0" />
@@ -572,12 +576,12 @@
         <mark key="^" line="75" column="15" />
         <mark key="." line="75" column="21" />
       </file>
-      <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/IDetectionService.java" timestamp="1527666926399">
-        <mark key="'" line="96" column="19" />
-        <mark key="[" line="96" column="4" />
-        <mark key="]" line="96" column="7" />
-        <mark key="." line="96" column="7" />
-        <mark key="^" line="96" column="7" />
+      <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/IDetectionService.java" timestamp="1527668589263">
+        <mark key="'" line="97" column="19" />
+        <mark key="[" line="115" column="14" />
+        <mark key="]" line="115" column="23" />
+        <mark key="^" line="115" column="23" />
+        <mark key="." line="115" column="23" />
       </file>
       <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/InstallServiceImpl.java" timestamp="1527560286319">
         <mark key="[" line="179" column="69" />
@@ -676,7 +680,7 @@
         <mark key="." line="84" column="0" />
         <mark key="^" line="84" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1527650474464">
+      <file name="/fragment.java" timestamp="1527668179832">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/code/java/cnooc/src/main/resources/application.yml" timestamp="1523433308337">
@@ -1252,9 +1256,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="12" filename="D:/code/web/voc-pro/src/routes/List/Applications.js" />
-      <jump line="65" column="20" filename="D:/code/web/voc-pro/src/routes/List/Applications.js" />
-      <jump line="165" column="9" filename="D:/code/web/voc-pro/src/routes/List/Applications.js" />
       <jump line="170" column="22" filename="D:/code/web/voc-pro/src/routes/List/Applications.js" />
       <jump line="172" column="13" filename="D:/code/web/voc-pro/src/routes/List/Applications.js" />
       <jump line="199" column="14" filename="D:/code/web/voc-pro/src/routes/List/Applications.js" />
@@ -1352,6 +1353,9 @@
       <jump line="66" column="33" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/IDetectionService.java" />
       <jump line="63" column="15" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/ComponentServiceImpl.java" />
       <jump line="96" column="19" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/IDetectionService.java" />
+      <jump line="187" column="20" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/DetectionServiceImpl.java" />
+      <jump line="174" column="0" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/DetectionServiceImpl.java" />
+      <jump line="289" column="0" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/DetectionServiceImpl.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1375,7 +1379,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>wb</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -1482,58 +1486,56 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>wb</text>
       </register>
       <register name="/" type="4">
-        <text>bytearra</text>
+        <text>adsfa</text>
       </register>
-      <register name="0" type="4">
-        <text>共添加&quot; + count + &quot;个检测数据</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLmVycm9yKCLlhpnlhaV0dmHmo4DmtYvorrDlvZXplJnor68iLCBFeGNlcHRpb25VdGlscy5nZXRTdGFja1RyYWNlKGUpKTsKICAgICAgICAgICAgdGhyb3cgbmV3IFNlcnZlRmlsZUV4Y2VwdGlvbigi5qOA5rWL6K6w5b2V5YaZ5YWl6ZSZ6K+v77yM6K+36YeN6K+VIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFMK</text>
+        <text encoding="base64">ICAgICAgICBmbwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEJ5dGVBcnJheU91dHB1dFN0cmVhbSBleHBvcnRFeGNlbCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIEBUb2RvIOS4i+i9veW+hee7tOS/ruiusOW9lQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxTdHJpbmc+IGxpbmVzID0gSU9VdGlscy4oLCBTdGFuZGFyZENoYXJzZXRzLlVURl84KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIEBUb2RvIOS4i+i9veajgOa1i+iusOW9lXR2YQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBTeXN0ZW0ub3V0LnByaW50bG4oYmFvcy50b1N0cmluZygpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBJT1V0aWxzLndyaXRlKGJhb3MudG9CeXRlQXJyYXkoKSwgbmV3IEZpbGVPdXRwdXRTdHJlYW0obmV3IEZpbGUoIi9ob21lL2tsbml1L0Rvd25sb2Fkcy9leHBvcnRfdHZhLnR4dCIpKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGxvZy5lcnJvcigi5aSE55CG5LiK5Lyg5a+G5bCB54K55qOA5rWL5YC8dHZh5aSx6LSl77yaIiArIEV4Y2VwdGlvblV0aWxzLmdldFN0YWNrVHJhY2UoZSkpOwogICAgICAgICAgICB0aHJvdyBuZXcgVW5rbm93bkVycm9yRXhjZXB0aW9uKCLmlofku7bor7vlj5blpLHotKXvvIzor7fph43or5UiKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgY29udGVudCA9IGJhb3MudG9TdHJpbmcoKTsK</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PFN0cmluZz4gbGluZXMgPSBJT1V0aWxzLnJlYWRMaW5lcyhmaWxlLmdldElucHV0U3RyZWFtKCksIFN0YW5kYXJkQ2hhcnNldHMuVVRGXzgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBJT1V0aWxzLmNvcHkobmV3IEJ5dGVBcnJheUlucHV0U3RyZWFtKGJhb3MudG9CeXRlQXJyYXkoKSksIG91dHB1dCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBPdXRwdXRTdHJlYW0gb3V0cHV0ID0gbmV3IEZpbGVPdXRwdXRTdHJlYW0oZmlsZSk7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>action NextTab</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
-      <last-search>bytearra</last-search>
+      <last-search>adsfa</last-search>
       <last-offset />
-      <last-pattern>bytearra</last-pattern>
-      <last-replace>height</last-replace>
-      <last-substitute>distance</last-substitute>
+      <last-pattern>adsfa</last-pattern>
+      <last-replace>throw new InvalidDataException(String.format</last-replace>
+      <last-substitute>return String.format</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>$</entry>
-        <entry>balance</entry>
         <entry encoding="base64">XDxfY29zdHNcPg==</entry>
         <entry>raise</entry>
         <entry encoding="base64">XDxfdXBkYXRlX2FjY291bnRcPg==</entry>
@@ -1552,9 +1554,10 @@
         <entry>distance</entry>
         <entry encoding="base64">XDxDb2x1bW5Db3VudFw+</entry>
         <entry>bytearra</entry>
+        <entry>return String.format</entry>
+        <entry>adsfa</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/ldarStandard/install</entry>
         <entry>%s/standard/install/gc</entry>
         <entry>%s/Component/Seal/gc</entry>
         <entry>%s/component/seal/gc</entry>
@@ -1571,9 +1574,10 @@
         <entry>action Forward</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz5zL2Rpc3RhbmNlL2hlaWdodC9nYw==</entry>
+        <entry>%s/return String.format/throw new InvalidDataException(String.format/gc</entry>
         <entry>action PreviousTab</entry>
-        <entry>action ReformatCode</entry>
         <entry>action NextTab</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
