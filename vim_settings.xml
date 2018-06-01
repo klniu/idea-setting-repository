@@ -429,6 +429,9 @@
         <mark key="^" line="129" column="98" />
         <mark key="." line="129" column="98" />
       </file>
+      <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/shiro/JwtAuthenticationFilter.java" timestamp="1527840479742">
+        <mark key="'" line="50" column="25" />
+      </file>
       <file name="$USER_HOME$/code/voc/src/test/java/com/cnvoc/voc/service/impl/DetectionServiceImplTest.java" timestamp="1527823553812">
         <mark key="[" line="359" column="57" />
         <mark key="]" line="359" column="71" />
@@ -465,6 +468,11 @@
         <mark key="]" line="8" column="45" />
         <mark key="." line="8" column="0" />
         <mark key="^" line="7" column="3" />
+      </file>
+      <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/shiro/JwtToken.java" timestamp="1527840486242">
+        <mark key="'" line="13" column="37" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="7" />
       </file>
       <file name="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/InstallServiceImplTest.java" timestamp="1523761026197">
         <mark key="'" line="201" column="0" />
@@ -1339,8 +1347,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="58" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/web/DetectionController.java" />
-      <jump line="65" column="37" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/IDetectionService.java" />
       <jump line="75" column="47" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/DetectionServiceImpl.java" />
       <jump line="68" column="19" filename="$USER_HOME$/code/voc/src/main/resources/mapper/DetectionMapper.xml" />
       <jump line="230" column="26" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.baomidou/mybatis-plus-support/2.3/2ca6af2ac631b5a3c59b3aed3311c5c87006e663/mybatis-plus-support-2.3-sources.jar!/com/baomidou/mybatisplus/mapper/BaseMapper.java" />
@@ -1439,6 +1445,8 @@
       <jump line="30" column="43" filename="$USER_HOME$/code/voc/src/test/java/com/cnvoc/voc/web/UserControllerTest.java" />
       <jump line="31" column="33" filename="$USER_HOME$/code/voc/src/test/java/com/cnvoc/voc/web/BaseTest.java" />
       <jump line="32" column="25" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/shiro/JWTUtil.java" />
+      <jump line="13" column="37" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/shiro/JwtToken.java" />
+      <jump line="50" column="25" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/shiro/JwtAuthenticationFilter.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1461,8 +1469,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBMb25nIGZhY3RvcnlJZCA9IDsK</text>
+      <register name="&quot;" type="4">
+        <text>@Builder</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
