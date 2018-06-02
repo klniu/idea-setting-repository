@@ -358,11 +358,12 @@
         <mark key="." line="103" column="43" />
         <mark key="^" line="103" column="43" />
       </file>
-      <file name="$USER_HOME$/code/ym/main.py" timestamp="1527918701239">
-        <mark key="[" line="10" column="18" />
-        <mark key="]" line="10" column="17" />
-        <mark key="^" line="10" column="17" />
-        <mark key="." line="10" column="17" />
+      <file name="$USER_HOME$/code/ym/main.py" timestamp="1527927356382">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="36" column="2027" />
+        <mark key="]" line="37" column="1" />
+        <mark key="^" line="37" column="1" />
+        <mark key="." line="37" column="1" />
       </file>
       <file name="D:/code/python/Coin/save_binance_data.py" timestamp="1524707061340">
         <mark key="'" line="151" column="12" />
@@ -838,6 +839,9 @@
         <mark key="^" line="39" column="41" />
         <mark key="." line="39" column="41" />
       </file>
+      <file name="/Python Console" timestamp="1527925385466">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/code/web/voc-delon/package.json" timestamp="1526525957556">
         <mark key="'" line="41" column="15" />
         <mark key="[" line="60" column="20" />
@@ -1207,12 +1211,11 @@
         <mark key="." line="104" column="53" />
       </file>
       <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/model_test.go" timestamp="1527906448621" />
-      <file name="$USER_HOME$/code/ym/mail.py" timestamp="1527918884419">
-        <mark key="'" line="8" column="8" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="30" />
-        <mark key="^" line="10" column="40" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/code/ym/mail.py" timestamp="1527927104196">
+        <mark key="[" line="17" column="80" />
+        <mark key="]" line="18" column="20" />
+        <mark key="." line="18" column="20" />
+        <mark key="^" line="18" column="20" />
       </file>
       <file name="D:/code/web/voc-ui/src/app/routes/ldar/unit/unit.component.ts" timestamp="1520497791545">
         <mark key="'" line="40" column="30" />
@@ -1300,8 +1303,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="230" column="26" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.baomidou/mybatis-plus-support/2.3/2ca6af2ac631b5a3c59b3aed3311c5c87006e663/mybatis-plus-support-2.3-sources.jar!/com/baomidou/mybatisplus/mapper/BaseMapper.java" />
-      <jump line="98" column="31" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" />
       <jump line="521" column="7" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" />
       <jump line="94" column="47" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" />
       <jump line="111" column="46" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" />
@@ -1400,6 +1401,8 @@
       <jump line="30" column="44" filename="$USER_HOME$/code/voc/src/test/java/com/cnvoc/voc/web/UserControllerTest.java" />
       <jump line="1" column="3" filename="$USER_HOME$/code/ym/form_filler.py" />
       <jump line="2" column="8" filename="$USER_HOME$/code/ym/mail.py" />
+      <jump line="16" column="22" filename="$USER_HOME$/code/ym/mail.py" />
+      <jump line="12" column="0" filename="$USER_HOME$/code/ym/main.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1422,8 +1425,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLm0uc2VsZWN0KCkpCg==</text>
+      <register name="&quot;" type="4">
+        <text>(</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -1530,7 +1533,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>account</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJbnZhbGlkRmFjdG9yeUV4Y2VwdGlvblw+</text>
@@ -1539,31 +1542,31 @@
         <text encoding="base64">ICAgICAgICBwcmludChzZWxmLm0uc2VsZWN0KCkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdG8gPSAnJWInCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlZiAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZGF0YSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9sb2FkX3RyYWRlKCkKICAgICAgICBzZWxmLl9sb2FkX25vdGlmeSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZW52ZWxvcGUuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgbnVtIGluIGRhdGFbMF0uc3BsaXQoKToKICAgICAgICAgICAgdHlwLCBkYXRhID0gc2VsZi5tLmZldGNoKG51bSwgJyhSRkM4MjIpJykKICAgICAgICAgICAgcHJpbnQoZGF0YSkKICAgICAgICAgICAgIyBwcmludCgnTWVzc2FnZSAlc24lc24nICUgKG51bSwgZGF0YVswXVsxXSkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMg5Yqg6L29cXEKICAgIGRlZiBfbG9hZF9ub3RpZnkoc2VsZik6CiAgICAgICAgc2VsZi5ub3RpZnkgPSBzZWxmLl9jb250ZW50Wydub3RpZnknXQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm1haWwgPSB7J2FjY291bnQnOiBzZWxmLl9jb250ZW50WydtYWlsJ11bJ2FjY291bnQnXSwgJ3NlcnZlcic6IHNlbGZ9CiAgICAgICAgPSBzZWxmLl9jb250ZW50WydjbGllbnQnXQogICAgICAgIGlmIHNlbGYuYWNjb3VudFsndHlwZSddID09ICJCaW5hbmNlIjoKICAgICAgICAgICAgc2VsZi5wbGF0Zm9ybSA9IFBsYXRmb3JtLkJpbmFuY2UKICAgICAgICBzZWxmLmFjY291bnRbJ2tleSddID0gZGVjb2RlKHNlbGYuX2tleSwgc2VsZi5hY2NvdW50WydrZXknXSkKICAgICAgICBzZWxmLmFjY291bnRbJ3NlY3JldCddID0gZGVjb2RlKHNlbGYuX2tleSwgc2VsZi5hY2NvdW50WydzZWNyZXQnXSkKICAgICAgICBzZWxmLmFjY291bnRbJ3Byb3h5J10gPSBzZWxmLmFjY291bnQuZ2V0KCdwcm94eScsIE5vbmUpCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLm0uc2VsZWN0KCdJTkJPWCcpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLm0gPSBpbWFwbGliLklNQVA0X1NTTChzZXJ2ZXIpCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">CiMg6YCa55+lCm5vdGlmeToKICB0b2tlbjogeG94Yi0zNTA4Mjg0NDEzMTMtc2puamFRbk9VdWhtekZtNUo1aFBEampDCiAgY2hhbm5lbDogY29pbgo=</text>
+        <text encoding="base64">aW1wb3J0IGltYXBsaWIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBidXlfbW9uZXk6IDAuMTc1NDM4Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCh0eXBlLCBkYXRhKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action NextTab</text>
