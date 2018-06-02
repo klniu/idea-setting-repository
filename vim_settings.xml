@@ -839,7 +839,7 @@
         <mark key="^" line="39" column="41" />
         <mark key="." line="39" column="41" />
       </file>
-      <file name="/Python Console" timestamp="1527925385466">
+      <file name="/Python Console" timestamp="1527930983480">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/code/web/voc-delon/package.json" timestamp="1526525957556">
@@ -1211,11 +1211,12 @@
         <mark key="." line="104" column="53" />
       </file>
       <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/model_test.go" timestamp="1527906448621" />
-      <file name="$USER_HOME$/code/ym/mail.py" timestamp="1527927104196">
-        <mark key="[" line="17" column="80" />
-        <mark key="]" line="18" column="20" />
-        <mark key="." line="18" column="20" />
-        <mark key="^" line="18" column="20" />
+      <file name="$USER_HOME$/code/ym/mail.py" timestamp="1527931520786">
+        <mark key="'" line="18" column="11" />
+        <mark key="[" line="18" column="9" />
+        <mark key="]" line="18" column="9" />
+        <mark key="." line="18" column="9" />
+        <mark key="^" line="18" column="9" />
       </file>
       <file name="D:/code/web/voc-ui/src/app/routes/ldar/unit/unit.component.ts" timestamp="1520497791545">
         <mark key="'" line="40" column="30" />
@@ -1303,8 +1304,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="521" column="7" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" />
-      <jump line="94" column="47" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" />
       <jump line="111" column="46" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" />
       <jump line="128" column="0" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/ComponentServiceImpl.java" />
       <jump line="47" column="18" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/IComponentService.java" />
@@ -1403,6 +1402,8 @@
       <jump line="2" column="8" filename="$USER_HOME$/code/ym/mail.py" />
       <jump line="16" column="22" filename="$USER_HOME$/code/ym/mail.py" />
       <jump line="12" column="0" filename="$USER_HOME$/code/ym/main.py" />
+      <jump line="17" column="83" filename="$USER_HOME$/code/ym/mail.py" />
+      <jump line="19" column="11" filename="$USER_HOME$/code/ym/mail.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1425,8 +1426,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>(</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbWVzc2FnZU9iaiA9IHB5em1haWwuUGVla01lc3NhZ2UuZmFjdG9yeShyYXdNZXNzYWdlc1s0MDA0MV1bJ0JPRFlbXSddKQo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -1533,7 +1534,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>pymail</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJbnZhbGlkRmFjdG9yeUV4Y2VwdGlvblw+</text>
@@ -1542,31 +1543,31 @@
         <text encoding="base64">ICAgICAgICBwcmludChzZWxmLm0uc2VsZWN0KCkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdG8gPSAnJWInCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWVzc2FnZU9iaiA9IHB5em1haWwuUGVla01lc3NhZ2UuZmFjdG9yeShyYXdNZXNzYWdlc1s0MDA0MV1bJ0JPRFlbXSddKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZGF0YSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocmZjKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZW52ZWxvcGUuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZW52ZWxvcGUgPSBkYXRhW2InRU5WRUxPUEUnXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgbnVtIGluIGRhdGFbMF0uc3BsaXQoKToKICAgICAgICAgICAgdHlwLCBkYXRhID0gc2VsZi5tLmZldGNoKG51bSwgJyhSRkM4MjIpJykKICAgICAgICAgICAgcHJpbnQoZGF0YSkKICAgICAgICAgICAgIyBwcmludCgnTWVzc2FnZSAlc24lc24nICUgKG51bSwgZGF0YVswXVsxXSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdG8gPSAnJWInCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZGF0YSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm0uc2VsZWN0KCdJTkJPWCcpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZW52ZWxvcGUuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm0gPSBpbWFwbGliLklNQVA0X1NTTChzZXJ2ZXIpCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgbnVtIGluIGRhdGFbMF0uc3BsaXQoKToKICAgICAgICAgICAgdHlwLCBkYXRhID0gc2VsZi5tLmZldGNoKG51bSwgJyhSRkM4MjIpJykKICAgICAgICAgICAgcHJpbnQoZGF0YSkKICAgICAgICAgICAgIyBwcmludCgnTWVzc2FnZSAlc24lc24nICUgKG51bSwgZGF0YVswXVsxXSkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGltYXBsaWIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh0eXBlLCBkYXRhKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm0uc2VsZWN0KCdJTkJPWCcpCg==</text>
       </register>
       <register name=":" type="4">
         <text>action NextTab</text>
