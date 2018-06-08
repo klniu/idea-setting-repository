@@ -735,6 +735,9 @@
         <mark key="." line="84" column="0" />
         <mark key="^" line="84" column="0" />
       </file>
+      <file name="$USER_HOME$/code/website/src/containers/WhiteForm/WhiteForm.js" timestamp="1528431853783">
+        <mark key="'" line="4" column="6" />
+      </file>
       <file name="/fragment.java" timestamp="1528359144149">
         <mark key="[" line="0" column="0" />
       </file>
@@ -1267,6 +1270,15 @@
         <mark key="." line="19" column="13" />
         <mark key="^" line="19" column="13" />
       </file>
+      <file name="$USER_HOME$/code/website/static/upload/whiteForm.json" timestamp="1528431999812">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="14" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/website/src/server.js" timestamp="1528431373916">
+        <mark key="'" line="3" column="22" />
+      </file>
       <file name="D:/code/web/voc-ui/src/app/routes/ldar/unit/unit.component.ts" timestamp="1520497791545">
         <mark key="'" line="40" column="30" />
         <mark key="[" line="14" column="0" />
@@ -1287,6 +1299,9 @@
         <mark key="]" line="19" column="12" />
         <mark key="^" line="19" column="12" />
         <mark key="." line="19" column="12" />
+      </file>
+      <file name="$USER_HOME$/code/website/package.json" timestamp="1528431060702">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="D:/code/web/voc-web/package.json" timestamp="1520142828672">
         <mark key="'" line="68" column="28" />
@@ -1353,14 +1368,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="332" column="8" filename="$USER_HOME$/code/voc/src/test/java/com/cnvoc/voc/service/impl/DetectionServiceImplTest.java" />
-      <jump line="66" column="33" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/IDetectionService.java" />
-      <jump line="63" column="15" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/ComponentServiceImpl.java" />
-      <jump line="96" column="19" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/IDetectionService.java" />
-      <jump line="187" column="20" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/DetectionServiceImpl.java" />
-      <jump line="174" column="0" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/DetectionServiceImpl.java" />
-      <jump line="289" column="0" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/DetectionServiceImpl.java" />
-      <jump line="231" column="37" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/DetectionServiceImpl.java" />
       <jump line="348" column="34" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/DetectionServiceImpl.java" />
       <jump line="386" column="31" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/DetectionServiceImpl.java" />
       <jump line="368" column="53" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/DetectionServiceImpl.java" />
@@ -1453,6 +1460,14 @@
       <jump line="215" column="48" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/EmissionServiceImpl.java" />
       <jump line="259" column="38" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/EmissionServiceImpl.java" />
       <jump line="267" column="38" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/EmissionServiceImpl.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/website/package.json" />
+      <jump line="3" column="22" filename="$USER_HOME$/code/website/src/server.js" />
+      <jump line="42" column="24" filename="$USER_HOME$/code/website/src/containers/WhiteForm/WhiteForm.js" />
+      <jump line="45" column="20" filename="$USER_HOME$/code/website/src/containers/WhiteForm/WhiteForm.js" />
+      <jump line="46" column="17" filename="$USER_HOME$/code/website/src/containers/WhiteForm/WhiteForm.js" />
+      <jump line="54" column="65" filename="$USER_HOME$/code/website/src/containers/WhiteForm/WhiteForm.js" />
+      <jump line="57" column="67" filename="$USER_HOME$/code/website/src/containers/WhiteForm/WhiteForm.js" />
+      <jump line="4" column="6" filename="$USER_HOME$/code/website/src/containers/WhiteForm/WhiteForm.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1475,8 +1490,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ZGVmYXVsdCA=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -1583,10 +1598,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ZGVmYXVsdCA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmbGFuZ2VzQ291bnRcPg==</text>
+        <text encoding="base64">XDx3aGl0ZUxpc3RcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGRvdWJsZSB1YTJMID0gYSAqIDMqIDMxKjI0Owo=</text>
@@ -1623,9 +1638,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmbGFuZ2VzQ291bnRcPg==</last-search>
+      <last-search encoding="base64">XDx3aGl0ZUxpc3RcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmbGFuZ2VzQ291bnRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDx3aGl0ZUxpc3RcPg==</last-pattern>
       <last-replace>throw new InvalidDataException(String.format</last-replace>
       <last-substitute>return String.format</last-substitute>
       <last-dir>1</last-dir>
@@ -1633,9 +1648,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0aHJvd0Vycm9yXD4=</entry>
-        <entry encoding="base64">XDxsb2FkaW5nXD4=</entry>
-        <entry encoding="base64">XDxsaXN0XD4=</entry>
         <entry>console</entry>
         <entry encoding="base64">XDx1bml0SW5zdGFsbHNcPg==</entry>
         <entry>repair</entry>
@@ -1653,6 +1665,9 @@
         <entry>date</entry>
         <entry encoding="base64">XDxmaWxsSW5zdGFsbFVBVURFbWlzc2lvblw+</entry>
         <entry encoding="base64">XDxmbGFuZ2VzQ291bnRcPg==</entry>
+        <entry>config</entry>
+        <entry encoding="base64">XDxjb25maWdcPg==</entry>
+        <entry encoding="base64">XDx3aGl0ZUxpc3RcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/standard/install/gc</entry>
