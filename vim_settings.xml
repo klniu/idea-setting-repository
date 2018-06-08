@@ -670,12 +670,12 @@
         <mark key="^" line="34" column="48" />
         <mark key="." line="34" column="60" />
       </file>
-      <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/EmissionServiceImpl.java" timestamp="1528423693103">
-        <mark key="'" line="193" column="48" />
-        <mark key="[" line="181" column="0" />
-        <mark key="]" line="181" column="36" />
-        <mark key="." line="181" column="0" />
-        <mark key="^" line="179" column="28" />
+      <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/EmissionServiceImpl.java" timestamp="1528428466746">
+        <mark key="'" line="315" column="71" />
+        <mark key="[" line="310" column="40" />
+        <mark key="]" line="310" column="40" />
+        <mark key="." line="310" column="40" />
+        <mark key="^" line="310" column="40" />
       </file>
       <file name="/dummy.sql" timestamp="1528418705682">
         <mark key="[" line="0" column="0" />
@@ -1098,6 +1098,9 @@
         <mark key="^" line="426" column="10" />
         <mark key="." line="426" column="10" />
       </file>
+      <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/EmissionMethodService.java" timestamp="1528427333867">
+        <mark key="'" line="72" column="97" />
+      </file>
       <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/common/Function.java" timestamp="1521622602840">
         <mark key="'" line="23" column="13" />
         <mark key="[" line="181" column="76" />
@@ -1364,10 +1367,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="33" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/IDetectionService.java" />
-      <jump line="63" column="15" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/ComponentServiceImpl.java" />
-      <jump line="96" column="19" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/IDetectionService.java" />
-      <jump line="187" column="20" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/DetectionServiceImpl.java" />
       <jump line="174" column="0" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/DetectionServiceImpl.java" />
       <jump line="289" column="0" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/DetectionServiceImpl.java" />
       <jump line="231" column="37" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/DetectionServiceImpl.java" />
@@ -1464,6 +1463,10 @@
       <jump line="259" column="38" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/EmissionServiceImpl.java" />
       <jump line="267" column="38" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/EmissionServiceImpl.java" />
       <jump line="189" column="48" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/EmissionServiceImpl.java" />
+      <jump line="330" column="0" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/EmissionServiceImpl.java" />
+      <jump line="323" column="7" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/EmissionServiceImpl.java" />
+      <jump line="307" column="71" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/EmissionServiceImpl.java" />
+      <jump line="72" column="97" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/EmissionMethodService.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1487,7 +1490,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxhc3RTZWFsSWQgPSBzZWFsSWQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHVhSG91cnMuc29ydChEb3VibGU6OmNvbXBhcmVUbyk7Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -1594,57 +1597,56 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Date</text>
+        <text>comparator</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmbGFuZ2VzQ291bnRcPg==</text>
+        <text encoding="base64">XDzorrDlvZXkuI3lj6/ovr7miJblj6/ovr7mnKrmo4DmtYvms5XlhbDkuI7ov57mjqXku7bnmoTlubPlnYfns7vmlbDms5Xms4TmvI/lgLxcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGFzc2VydEVxdWFscyh1YTFMK3VhMkwrdWEzTCwgZS51YUVtaXNzaW9uLCAxZS00KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHVhSG91cnMuc29ydChEb3VibGU6OmNvbXBhcmVUbyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxhc3RTZWFsSWQgPSBzZWFsSWQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIENvbXBhcmF0b3I8PyBzdXBlciBFPiBjb21wYXJhdG9yID0gOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3IgKFNlcnZpY2Ugc2VydmljZSA6IFNlcnZpY2UudmFsdWVzKCkpIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAvLyDms5XlhbDov57mjqXku7bmjpLmlL7ph4/vvJpzY3JlZW4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciAoU2VhbFR5cGUgdHlwZSA6IG5ldyBTZWFsVHlwZVtde1NlYWxUeXBlLkZsYW5nZSwgU2VhbFR5cGUuQ29ubmVjdG9yfSkgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdWFIb3Vycy5hZGRBbGwoaW5zdGFsbFVBSG91cnMuZ2V0KCkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIOaXtumVv+mbhuWQiAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8qKgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExpc3Q8RG91YmxlPiB1YUhvdXJzID0gbmV3IEFycmF5TGlzdDw+KCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGluc3RhbGxVRENvdW50LmdldCh0eXBlKS5nZXQoc2VydmljZSkuZ2V0KGlkKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvcgo=</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmbGFuZ2VzQ291bnRcPg==</last-search>
+      <last-search encoding="base64">XDzorrDlvZXkuI3lj6/ovr7miJblj6/ovr7mnKrmo4DmtYvms5XlhbDkuI7ov57mjqXku7bnmoTlubPlnYfns7vmlbDms5Xms4TmvI/lgLxcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmbGFuZ2VzQ291bnRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDzorrDlvZXkuI3lj6/ovr7miJblj6/ovr7mnKrmo4DmtYvms5XlhbDkuI7ov57mjqXku7bnmoTlubPlnYfns7vmlbDms5Xms4TmvI/lgLxcPg==</last-pattern>
       <last-replace>throw new InvalidDataException(String.format</last-replace>
       <last-substitute>return String.format</last-substitute>
-      <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <last-dir>-1</last-dir>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0aHJvd0Vycm9yXD4=</entry>
         <entry encoding="base64">XDxsb2FkaW5nXD4=</entry>
         <entry encoding="base64">XDxsaXN0XD4=</entry>
         <entry>console</entry>
@@ -1664,6 +1666,7 @@
         <entry>date</entry>
         <entry encoding="base64">XDxmaWxsSW5zdGFsbFVBVURFbWlzc2lvblw+</entry>
         <entry encoding="base64">XDxmbGFuZ2VzQ291bnRcPg==</entry>
+        <entry encoding="base64">XDzorrDlvZXkuI3lj6/ovr7miJblj6/ovr7mnKrmo4DmtYvms5XlhbDkuI7ov57mjqXku7bnmoTlubPlnYfns7vmlbDms5Xms4TmvI/lgLxcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/standard/install/gc</entry>
