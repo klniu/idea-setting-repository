@@ -26,6 +26,11 @@
         <mark key="^" line="90" column="48" />
         <mark key="." line="90" column="48" />
       </file>
+      <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" timestamp="1528449081854">
+        <mark key="[" line="373" column="64" />
+        <mark key="]" line="373" column="64" />
+        <mark key="." line="373" column="64" />
+      </file>
       <file name="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/FactoryServiceImplTest.java" timestamp="1523757478823">
         <mark key="'" line="164" column="98" />
         <mark key="[" line="38" column="11" />
@@ -193,11 +198,11 @@
         <mark key="." line="32" column="14" />
         <mark key="^" line="32" column="14" />
       </file>
-      <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/DetectionServiceImpl.java" timestamp="1528264229797">
+      <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/DetectionServiceImpl.java" timestamp="1528449108193">
         <mark key="'" line="439" column="8" />
-        <mark key="[" line="414" column="0" />
-        <mark key="]" line="419" column="71" />
-        <mark key="." line="484" column="41" />
+        <mark key="[" line="194" column="54" />
+        <mark key="]" line="194" column="54" />
+        <mark key="." line="194" column="54" />
         <mark key="^" line="484" column="41" />
       </file>
       <file name="D:/code/web/voc-delon/src/app/routes/base/factory/factory.component.ts" timestamp="1522139789401">
@@ -643,10 +648,10 @@
         <mark key="^" line="97" column="17" />
         <mark key="." line="97" column="17" />
       </file>
-      <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/InstallServiceImpl.java" timestamp="1528247090833">
-        <mark key="[" line="123" column="76" />
-        <mark key="]" line="123" column="83" />
-        <mark key="." line="123" column="83" />
+      <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/InstallServiceImpl.java" timestamp="1528449098467">
+        <mark key="[" line="120" column="55" />
+        <mark key="]" line="120" column="55" />
+        <mark key="." line="120" column="55" />
         <mark key="^" line="123" column="83" />
       </file>
       <file name="D:/code/web/voc-web/src/app/routes/ldar/ldarsetting/tag-formatter.component.ts" timestamp="1520148034511">
@@ -670,12 +675,12 @@
         <mark key="^" line="34" column="48" />
         <mark key="." line="34" column="60" />
       </file>
-      <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/EmissionServiceImpl.java" timestamp="1528448563298">
+      <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/EmissionServiceImpl.java" timestamp="1528449132910">
         <mark key="'" line="240" column="63" />
-        <mark key="[" line="353" column="21" />
-        <mark key="]" line="353" column="20" />
-        <mark key="." line="353" column="20" />
-        <mark key="^" line="353" column="20" />
+        <mark key="[" line="338" column="5" />
+        <mark key="]" line="338" column="4" />
+        <mark key="." line="338" column="4" />
+        <mark key="^" line="338" column="4" />
       </file>
       <file name="/dummy.sql" timestamp="1528418705682">
         <mark key="[" line="0" column="0" />
@@ -686,9 +691,6 @@
         <mark key="]" line="15" column="6" />
         <mark key="." line="15" column="6" />
         <mark key="^" line="15" column="6" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1528265898532">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/code/web/voc-ui/src/app/routes/common/functions.ts" timestamp="1520489917553">
         <mark key="'" line="26" column="0" />
@@ -1493,8 +1495,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>ceil</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -1601,7 +1603,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LmdldCh0eXBlKS5nZXQoc2VydmljZSkuZ2V0KGlkKSA=</text>
+        <text>ceil</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmbGFuZ2VzQ29ubmVjdG9yc0RldGVjdGVkQ250XD4=</text>
@@ -1647,7 +1649,7 @@
       <last-replace>throw new InvalidDataException(String.format</last-replace>
       <last-substitute>return String.format</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
