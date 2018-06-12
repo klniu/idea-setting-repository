@@ -210,6 +210,12 @@
         <mark key="." line="100" column="17" />
         <mark key="^" line="100" column="17" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2e9c8649-18f5-43f9-a70d-cf6359de55b3/console.sql" timestamp="1528417793050">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="36" column="9" />
+        <mark key="^" line="36" column="9" />
+        <mark key="." line="36" column="9" />
+      </file>
       <file name="D:/code/web/voc-web/src/app/routes/ldar/component/component.service.ts" timestamp="1520759923462">
         <mark key="'" line="43" column="4" />
         <mark key="[" line="26" column="56" />
@@ -244,12 +250,6 @@
         <mark key="]" line="29" column="38" />
         <mark key="^" line="29" column="38" />
         <mark key="." line="29" column="38" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2e9c8649-18f5-43f9-a70d-cf6359de55b3/console.sql" timestamp="1528417793050">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="36" column="9" />
-        <mark key="^" line="36" column="9" />
-        <mark key="." line="36" column="9" />
       </file>
       <file name="D:/code/web/voc-web/src/app/routes/base/ldarsetting/finished.component.ts" timestamp="1520071978070">
         <mark key="'" line="11" column="16" />
@@ -475,11 +475,11 @@
       <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/shiro/JwtAuthenticationFilter.java" timestamp="1527840479742">
         <mark key="'" line="50" column="25" />
       </file>
-      <file name="$USER_HOME$/code/voc/src/test/java/com/cnvoc/voc/service/impl/DetectionServiceImplTest.java" timestamp="1528264045853">
-        <mark key="[" line="481" column="0" />
-        <mark key="]" line="481" column="106" />
-        <mark key="." line="482" column="0" />
-        <mark key="^" line="481" column="10" />
+      <file name="$USER_HOME$/code/voc/src/test/java/com/cnvoc/voc/service/impl/DetectionServiceImplTest.java" timestamp="1528765277958">
+        <mark key="[" line="516" column="27" />
+        <mark key="]" line="516" column="28" />
+        <mark key="." line="516" column="28" />
+        <mark key="^" line="526" column="24" />
       </file>
       <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/PhotoServiceImpl.java" timestamp="1528266093303">
         <mark key="[" line="10" column="14" />
@@ -1600,7 +1600,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>website1</text>
+        <text>或</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -1707,7 +1707,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>website1</text>
+        <text>或</text>
       </register>
       <register name="/" type="4">
         <text>lang</text>
