@@ -196,12 +196,12 @@
         <mark key="." line="32" column="14" />
         <mark key="^" line="32" column="14" />
       </file>
-      <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/DetectionServiceImpl.java" timestamp="1528449108193">
-        <mark key="'" line="439" column="8" />
-        <mark key="[" line="194" column="54" />
-        <mark key="]" line="194" column="54" />
-        <mark key="." line="194" column="54" />
-        <mark key="^" line="484" column="41" />
+      <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/DetectionServiceImpl.java" timestamp="1528766363917">
+        <mark key="'" line="438" column="8" />
+        <mark key="[" line="514" column="17" />
+        <mark key="]" line="514" column="21" />
+        <mark key="." line="514" column="21" />
+        <mark key="^" line="514" column="21" />
       </file>
       <file name="D:/code/web/voc-delon/src/app/routes/base/factory/factory.component.ts" timestamp="1522139789401">
         <mark key="'" line="36" column="80" />
@@ -475,11 +475,11 @@
       <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/shiro/JwtAuthenticationFilter.java" timestamp="1527840479742">
         <mark key="'" line="50" column="25" />
       </file>
-      <file name="$USER_HOME$/code/voc/src/test/java/com/cnvoc/voc/service/impl/DetectionServiceImplTest.java" timestamp="1528765277958">
-        <mark key="[" line="516" column="27" />
-        <mark key="]" line="516" column="28" />
-        <mark key="." line="516" column="28" />
-        <mark key="^" line="526" column="24" />
+      <file name="$USER_HOME$/code/voc/src/test/java/com/cnvoc/voc/service/impl/DetectionServiceImplTest.java" timestamp="1528766447614">
+        <mark key="[" line="496" column="21" />
+        <mark key="]" line="496" column="21" />
+        <mark key="." line="496" column="21" />
+        <mark key="^" line="496" column="21" />
       </file>
       <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/PhotoServiceImpl.java" timestamp="1528266093303">
         <mark key="[" line="10" column="14" />
@@ -733,7 +733,7 @@
         <mark key="." line="15" column="6" />
         <mark key="^" line="15" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528555433298">
+      <file name="/Dummy.txt" timestamp="1528766482120">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/website/src/containers/Home/components/Div1/Div1.js" timestamp="1528551469456">
@@ -1600,7 +1600,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>或</text>
+        <text>漏</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -1707,7 +1707,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>或</text>
+        <text>漏</text>
       </register>
       <register name="/" type="4">
         <text>lang</text>
@@ -1743,7 +1743,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text>action NextTab</text>
       </register>
     </registers>
     <search>
@@ -1796,9 +1796,9 @@
         <entry>q</entry>
         <entry encoding="base64">JzwsJz5zL2Rpc3RhbmNlL2hlaWdodC9nYw==</entry>
         <entry>%s/return String.format/throw new InvalidDataException(String.format/gc</entry>
-        <entry>action NextTab</entry>
         <entry>action PreviousTab</entry>
         <entry>action ReformatCode</entry>
+        <entry>action NextTab</entry>
       </history-cmd>
       <history-expr />
       <history-input />
