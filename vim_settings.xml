@@ -415,12 +415,12 @@
         <mark key="." line="103" column="43" />
         <mark key="^" line="103" column="43" />
       </file>
-      <file name="$USER_HOME$/code/website/src/helpers/Html.js" timestamp="1528625245388">
-        <mark key="'" line="37" column="24" />
-        <mark key="[" line="30" column="8" />
-        <mark key="]" line="30" column="7" />
-        <mark key="." line="30" column="7" />
-        <mark key="^" line="30" column="7" />
+      <file name="$USER_HOME$/code/website/src/helpers/Html.js" timestamp="1528802193974">
+        <mark key="'" line="68" column="42" />
+        <mark key="[" line="68" column="43" />
+        <mark key="]" line="68" column="42" />
+        <mark key="." line="68" column="42" />
+        <mark key="^" line="68" column="42" />
       </file>
       <file name="$USER_HOME$/code/ym/main.py" timestamp="1527927356382">
         <mark key="'" line="12" column="0" />
@@ -696,12 +696,12 @@
         <mark key="." line="52" column="44" />
         <mark key="^" line="52" column="22" />
       </file>
-      <file name="$USER_HOME$/code/website/src/containers/Home/Home.js" timestamp="1528595481643">
-        <mark key="'" line="143" column="40" />
-        <mark key="[" line="144" column="50" />
-        <mark key="]" line="144" column="53" />
-        <mark key="^" line="144" column="53" />
-        <mark key="." line="144" column="53" />
+      <file name="$USER_HOME$/code/website/src/containers/Home/Home.js" timestamp="1528802157014">
+        <mark key="'" line="147" column="10" />
+        <mark key="[" line="147" column="15" />
+        <mark key="]" line="147" column="14" />
+        <mark key="^" line="147" column="14" />
+        <mark key="." line="147" column="14" />
       </file>
       <file name="D:/code/web/voc-web/src/app/app.module.ts" timestamp="1520151671972">
         <mark key="'" line="41" column="9" />
@@ -795,12 +795,12 @@
       <file name="/Dummy.txt" timestamp="1528725884888">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/website/src/containers/Home/components/Div1/Div1.js" timestamp="1528551469456">
+      <file name="$USER_HOME$/code/website/src/containers/Home/components/Div1/Div1.js" timestamp="1528801979037">
         <mark key="'" line="4" column="62" />
-        <mark key="[" line="121" column="26" />
-        <mark key="]" line="121" column="26" />
-        <mark key="^" line="121" column="10" />
-        <mark key="." line="121" column="26" />
+        <mark key="[" line="5" column="79" />
+        <mark key="]" line="5" column="79" />
+        <mark key="^" line="116" column="46" />
+        <mark key="." line="5" column="79" />
       </file>
       <file name="D:/code/web/voc-ui/src/app/routes/common/functions.ts" timestamp="1520489917553">
         <mark key="'" line="26" column="0" />
@@ -1514,6 +1514,7 @@
         <mark key="^" line="104" column="53" />
         <mark key="." line="104" column="53" />
       </file>
+      <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/model_test.go" timestamp="1528800477890" />
       <file name="$USER_HOME$/code/website/src/containers/Home/components/Div2/style/pc.scss" timestamp="1528597625846">
         <mark key="'" line="120" column="7" />
       </file>
@@ -1633,8 +1634,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="240" column="63" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/EmissionServiceImpl.java" />
-      <jump line="2" column="401" filename="$USER_HOME$/Downloads/Wanchain - Links Future Assets.html" />
       <jump line="0" column="0" filename="$USER_HOME$/Downloads/Wanchain - Links Future Assets.html" />
       <jump line="2" column="1052" filename="$USER_HOME$/code/website/static/Wanchain - Links Future Assets.html" />
       <jump line="0" column="0" filename="$USER_HOME$/code/website/static/Wanchain - Links Future Assets.html" />
@@ -1733,6 +1732,8 @@
       <jump line="113" column="52" filename="$USER_HOME$/code/website/src/containers/Home/Home.js" />
       <jump line="146" column="20" filename="$USER_HOME$/code/website/src/containers/Home/Home.js" />
       <jump line="143" column="40" filename="$USER_HOME$/code/website/src/containers/Home/Home.js" />
+      <jump line="147" column="10" filename="$USER_HOME$/code/website/src/containers/Home/Home.js" />
+      <jump line="68" column="42" filename="$USER_HOME$/code/website/src/helpers/Html.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1755,8 +1756,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IS9zdGF0aWMvdXBsb2FkLwo=</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -1863,7 +1864,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>website1</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>lang</text>
@@ -1907,9 +1908,9 @@
       <last-offset />
       <last-pattern>lang</last-pattern>
       <last-replace>throw new InvalidDataException(String.format</last-replace>
-      <last-substitute>return String.format</last-substitute>
+      <last-substitute>lang</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -1926,13 +1927,13 @@
         <entry encoding="base64">XDx0YXJnZXRVcmxcPg==</entry>
         <entry encoding="base64">XDxzZXJ2ZXJcPg==</entry>
         <entry encoding="base64">XDxob21lVWxFblw+</entry>
-        <entry>lang</entry>
         <entry encoding="base64">XDxkaXYxb0JvZHlcPg==</entry>
         <entry encoding="base64">XDxwVmFsdWVcPg==</entry>
         <entry encoding="base64">XDxzdHlsZXNcPg==</entry>
         <entry>120px</entry>
         <entry>120</entry>
         <entry encoding="base64">XDxuYXZCdXR0b25cPg==</entry>
+        <entry>lang</entry>
       </history-search>
       <history-cmd>
         <entry>%s/standard/install/gc</entry>
@@ -1952,9 +1953,9 @@
         <entry encoding="base64">JzwsJz5zL2Rpc3RhbmNlL2hlaWdodC9nYw==</entry>
         <entry>%s/return String.format/throw new InvalidDataException(String.format/gc</entry>
         <entry>w</entry>
-        <entry>action ReformatCode</entry>
         <entry>action NextTab</entry>
         <entry>action PreviousTab</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
