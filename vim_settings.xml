@@ -1243,11 +1243,12 @@
       <file name="$USER_HOME$/code/website/src/containers/Home/components/Div3/Div3.js" timestamp="1528552432417">
         <mark key="'" line="17" column="46" />
       </file>
-      <file name="$USER_HOME$/code/lkc_website/src/containers/Home/Home.js" timestamp="1528770379691">
-        <mark key="[" line="137" column="40" />
-        <mark key="]" line="137" column="91" />
-        <mark key="^" line="134" column="53" />
-        <mark key="." line="134" column="53" />
+      <file name="$USER_HOME$/code/lkc_website/src/containers/Home/Home.js" timestamp="1528779784895">
+        <mark key="'" line="154" column="10" />
+        <mark key="[" line="117" column="0" />
+        <mark key="]" line="117" column="0" />
+        <mark key="^" line="10" column="22" />
+        <mark key="." line="117" column="0" />
       </file>
       <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/shiro/MyRealm.java" timestamp="1523767045638">
         <mark key="'" line="66" column="38" />
@@ -1290,6 +1291,18 @@
         <mark key="]" line="86" column="46" />
         <mark key="." line="86" column="46" />
         <mark key="^" line="86" column="46" />
+      </file>
+      <file name="$USER_HOME$/code/lkc_website/src/containers/Career/components/content.js" timestamp="1528779844604">
+        <mark key="[" line="465" column="39" />
+        <mark key="]" line="465" column="38" />
+        <mark key="^" line="465" column="38" />
+        <mark key="." line="465" column="38" />
+      </file>
+      <file name="$USER_HOME$/code/lkc_website/src/data/translation.json" timestamp="1528779187881">
+        <mark key="[" line="3" column="11" />
+        <mark key="]" line="3" column="10" />
+        <mark key="^" line="3" column="10" />
+        <mark key="." line="3" column="10" />
       </file>
       <file name="D:/code/web/voc-web/src/app/routes/base/factory/factory.component.ts" timestamp="1520142594805">
         <mark key="'" line="119" column="15" />
@@ -1400,6 +1413,12 @@
         <mark key="." line="104" column="53" />
       </file>
       <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/model_test.go" timestamp="1528590754428" />
+      <file name="$USER_HOME$/code/lkc_website/src/helpers/function.js" timestamp="1528778210562">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="11" />
+        <mark key="." line="0" column="11" />
+        <mark key="^" line="0" column="11" />
+      </file>
       <file name="$USER_HOME$/code/ym/mail.py" timestamp="1527998962176">
         <mark key="'" line="25" column="4" />
         <mark key="[" line="19" column="12" />
@@ -1515,14 +1534,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="240" column="63" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/EmissionServiceImpl.java" />
-      <jump line="2" column="401" filename="$USER_HOME$/Downloads/Wanchain - Links Future Assets.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/Downloads/Wanchain - Links Future Assets.html" />
-      <jump line="2" column="1052" filename="$USER_HOME$/code/website/static/Wanchain - Links Future Assets.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/website/static/Wanchain - Links Future Assets.html" />
-      <jump line="8" column="21" filename="$USER_HOME$/code/website/static/Wanchain - Links Future Assets.html" />
-      <jump line="136" column="25" filename="$USER_HOME$/code/website/static/Wanchain - Links Future Assets.html" />
-      <jump line="27" column="13" filename="$USER_HOME$/code/website/static/index.html" />
       <jump line="28" column="10" filename="$USER_HOME$/code/website/static/index.html" />
       <jump line="13" column="41" filename="$USER_HOME$/code/website/static/index.html" />
       <jump line="16" column="48" filename="$USER_HOME$/code/website/static/index.html" />
@@ -1615,6 +1626,14 @@
       <jump line="113" column="52" filename="$USER_HOME$/code/website/src/containers/Home/Home.js" />
       <jump line="146" column="20" filename="$USER_HOME$/code/website/src/containers/Home/Home.js" />
       <jump line="143" column="40" filename="$USER_HOME$/code/website/src/containers/Home/Home.js" />
+      <jump line="128" column="54" filename="$USER_HOME$/code/lkc_website/src/containers/Home/Home.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/lkc_website/src/containers/Home/Home.js" />
+      <jump line="149" column="11" filename="$USER_HOME$/code/lkc_website/src/containers/Home/Home.js" />
+      <jump line="150" column="12" filename="$USER_HOME$/code/lkc_website/src/containers/Home/Home.js" />
+      <jump line="151" column="11" filename="$USER_HOME$/code/lkc_website/src/containers/Home/Home.js" />
+      <jump line="152" column="11" filename="$USER_HOME$/code/lkc_website/src/containers/Home/Home.js" />
+      <jump line="153" column="10" filename="$USER_HOME$/code/lkc_website/src/containers/Home/Home.js" />
+      <jump line="154" column="10" filename="$USER_HOME$/code/lkc_website/src/containers/Home/Home.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1637,8 +1656,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgey8qIDxhIG9uQ2xpY2s9e3RoaXMub25DbGljay5iaW5kKHRoaXMpfSBjbGFzc05hbWU9e3N0eWxlcy5uYXZKb2lufT5Kb2luIHVzPC9hPiAqL30K</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -1745,43 +1764,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>/www.facebook.com</text>
       </register>
       <register name="/" type="4">
         <text>lang</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">QGltcG9ydCAnLi4vLi4vdGhlbWUvdmFyaWFibGVzJzsK</text>
+      <register name="0" type="4">
+        <text>{lang(language, 'homeBannerP')}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QGltcG9ydCAnLi4vLi4vLi4vc3JjL3RoZW1lL3ZhcmlhYmxlcyc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgey8qIDxhIG9uQ2xpY2s9e3RoaXMub25DbGljay5iaW5kKHRoaXMpfSBjbGFzc05hbWU9e3N0eWxlcy5uYXZKb2lufT5Kb2luIHVzPC9hPiAqL30K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QGltcG9ydCAnLi4vLi4vLi4vLi4vc3JjL3RoZW1lL3ZhcmlhYmxlcyc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB7LyogPGEgaHJlZj0iaHR0cHM6Ly9naXRodWIuY29tL3dhbmNoYWluIiB0YXJnZXQ9Il9ibGFuayI+PGltZyBzcmM9e2NsaWVudFdpZHRoID4gNzY3ID8gZ2l0aHViIDogZ2l0aHViMn0vPjwvYT4qL30K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QGltcG9ydCAnLi4vLi4vLi4vc3JjL3RoZW1lL3ZhcmlhYmxlcyc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC93YW5jaGFpbmZvdW5kYXRpb24vIiB0YXJnZXQ9Il9ibGFuayI+PGltZyBzcmM9e0ZhY2Vib29rfS8+PC9hPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29tQ29uZmlnLmpzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxhIGhyZWY9Imh0dHBzOi8vd3d3LmZhY2Vib29rLmNvbS93YW5jaGFpbmZvdW5kYXRpb24vIiB0YXJnZXQ9Il9ibGFuayI+PGltZwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uQ29uZmlnLmpzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxhIGhyZWY9Imh0dHBzOi8vZGlzY29yZC5nZy8zRHBlVjZXIiB0YXJnZXQ9Il9ibGFuayI+PGltZyBzcmM9e0Rpc2NvcmR9Lz48L2E+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxhIGhyZWY9Imh0dHBzOi8vd3d3LnJlZGRpdC5jb20vci93YW5jaGFpbi8iIHRhcmdldD0iX2JsYW5rIj48aW1nIHNyYz17UmVkZGl0fS8+PC9hPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPC9wPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAge2xhbmd1YWdlID09PSAnem4nID8gJ+i/nuaOpeWMuuWdl+mTvueahOaXoOi+uea1t+a0i++8jOmBqOa4uOWcqOWKoOWvhuaVsOWtl+i1hOS6p+eahOWkqeWgguOAgueUqOeMqueMquW4geW8gOWQr+W5uOi/kOS4lueVjOeahOWkp+mXqO+8jOWcqOi/memHjOS9oOS8muiOt+W+l+aEj+aDs+S4jeWIsOeahOaUtuiOtycgOgogICAgICAgICAgICAgICAgICAgICdXYW5jaGFpbiBpcyBjcmVhdGluZyBuZXcgZGlzdHJpYnV0ZWQgZmluYW5jaWFsIGluZnJhc3RydWN0dXJlLiBDcm9zcy1jaGFpbiBzbWFydCBjb250cmFjdHMgYnVpbHQgb24gV2FuY2hhaW4gd2lsbCBwb3dlciB0aGUgbmV3IGRpZ2l0YWwgZWNvbm9teSd9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPHA+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHtsYW5ndWFnZSA9PT0gJ3puJyA/ICfljLrlnZfpk77ph4rmlL7kvaDnmoTml6DpmYXmg7PosaHlipvjgIDjgIDjgIDjgIAnIDoKICAgICAgICAgICAgICAgICAgJ0Nvbm5lY3RpbmcgdGhlIFdvcmxkXCdzIERpZ2l0YWwgQXNzZXRzJ30K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPC9wPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action NextTab</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
@@ -1831,12 +1850,12 @@
         <entry>w</entry>
         <entry>action AceAction</entry>
         <entry>action Forward</entry>
-        <entry>q</entry>
         <entry encoding="base64">JzwsJz5zL2Rpc3RhbmNlL2hlaWdodC9nYw==</entry>
         <entry>%s/return String.format/throw new InvalidDataException(String.format/gc</entry>
-        <entry>action ReformatCode</entry>
+        <entry>q</entry>
         <entry>action PreviousTab</entry>
         <entry>action NextTab</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
