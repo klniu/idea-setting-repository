@@ -489,12 +489,12 @@
         <mark key="." line="77" column="74" />
         <mark key="^" line="77" column="74" />
       </file>
-      <file name="$USER_HOME$/code/website/src/data/translation.json" timestamp="1528972646421">
-        <mark key="'" line="23" column="1" />
-        <mark key="[" line="386" column="165" />
-        <mark key="]" line="386" column="165" />
-        <mark key="." line="386" column="165" />
-        <mark key="^" line="386" column="165" />
+      <file name="$USER_HOME$/code/website/src/data/translation.json" timestamp="1528975968715">
+        <mark key="'" line="99" column="22" />
+        <mark key="[" line="17" column="12" />
+        <mark key="]" line="17" column="13" />
+        <mark key="." line="17" column="13" />
+        <mark key="^" line="16" column="13" />
       </file>
       <file name="D:/code/web/voc-delon/src/app/routes/base/factory/factory.component.html" timestamp="1522210031261">
         <mark key="'" line="59" column="18" />
@@ -1669,8 +1669,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="15" filename="$USER_HOME$/code/website/src/containers/App/App.js" />
-      <jump line="20" column="31" filename="$USER_HOME$/code/website/src/containers/App/App.js" />
       <jump line="4" column="44" filename="$USER_HOME$/code/website/src/containers/App/App.js" />
       <jump line="5" column="9" filename="$USER_HOME$/code/website/src/containers/App/App.js" />
       <jump line="6" column="12" filename="$USER_HOME$/code/website/src/containers/App/App.js" />
@@ -1769,6 +1767,8 @@
       <jump line="113" column="19" filename="$USER_HOME$/code/website/src/containers/Home/Home.js" />
       <jump line="118" column="10" filename="$USER_HOME$/code/website/src/containers/Home/Home.js" />
       <jump line="23" column="1" filename="$USER_HOME$/code/website/src/data/translation.json" />
+      <jump line="19" column="13" filename="$USER_HOME$/code/website/src/data/translation.json" />
+      <jump line="99" column="22" filename="$USER_HOME$/code/website/src/data/translation.json" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1791,8 +1791,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IFR3aXR0ZXIgPSByZXF1aXJlKCcuL2ltYWdlL1R3aXR0ZXIucG5nJyk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
