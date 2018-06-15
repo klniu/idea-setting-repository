@@ -119,6 +119,12 @@
         <mark key="^" line="52" column="12" />
         <mark key="." line="52" column="12" />
       </file>
+      <file name="$USER_HOME$/code/lkc_website/src/containers/NotFound/NotFound.scss" timestamp="1529038824947">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="11" column="16" />
+      </file>
       <file name="D:/code/web/voc-ui/src/app/routes/dashboard/dashboard.component.ts" timestamp="1522225781586">
         <mark key="'" line="6" column="28" />
         <mark key="[" line="30" column="8" />
@@ -333,11 +339,12 @@
         <mark key="^" line="97" column="34" />
         <mark key="." line="72" column="31" />
       </file>
-      <file name="$USER_HOME$/code/lkc_website/src/containers/NotFound/NotFound.js" timestamp="1528967745624">
-        <mark key="[" line="1" column="23" />
-        <mark key="]" line="1" column="24" />
-        <mark key="." line="1" column="24" />
-        <mark key="^" line="6" column="31" />
+      <file name="$USER_HOME$/code/lkc_website/src/containers/NotFound/NotFound.js" timestamp="1529038049793">
+        <mark key="'" line="13" column="27" />
+        <mark key="[" line="12" column="19" />
+        <mark key="]" line="12" column="20" />
+        <mark key="." line="12" column="20" />
+        <mark key="^" line="13" column="45" />
       </file>
       <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/ComponentServiceImpl.java" timestamp="1528265394072">
         <mark key="'" line="104" column="28" />
@@ -1001,6 +1008,9 @@
         <mark key="." line="84" column="0" />
         <mark key="^" line="84" column="0" />
       </file>
+      <file name="$USER_HOME$/code/lkc_website/src/containers/Home/components/Div2/Div2.js" timestamp="1529037317861">
+        <mark key="'" line="19" column="11" />
+      </file>
       <file name="/fragment.java" timestamp="1528418274456">
         <mark key="[" line="0" column="0" />
       </file>
@@ -1530,8 +1540,11 @@
         <mark key="." line="50" column="20" />
         <mark key="^" line="51" column="15" />
       </file>
-      <file name="$USER_HOME$/code/lkc_website/src/containers/Home/Home.js" timestamp="1528967717229">
-        <mark key="'" line="113" column="12" />
+      <file name="$USER_HOME$/code/lkc_website/src/containers/Home/Home.js" timestamp="1529038010185">
+        <mark key="'" line="70" column="21" />
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
       </file>
       <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/shiro/MyRealm.java" timestamp="1523767045638">
         <mark key="'" line="66" column="38" />
@@ -1842,13 +1855,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="184" column="23" filename="$USER_HOME$/code/website/src/data/translation.json" />
-      <jump line="185" column="33" filename="$USER_HOME$/code/website/src/data/translation.json" />
-      <jump line="239" column="208" filename="$USER_HOME$/code/website/src/data/translation.json" />
-      <jump line="240" column="269" filename="$USER_HOME$/code/website/src/data/translation.json" />
-      <jump line="241" column="79" filename="$USER_HOME$/code/website/src/data/translation.json" />
-      <jump line="242" column="68" filename="$USER_HOME$/code/website/src/data/translation.json" />
-      <jump line="243" column="117" filename="$USER_HOME$/code/website/src/data/translation.json" />
       <jump line="244" column="81" filename="$USER_HOME$/code/website/src/data/translation.json" />
       <jump line="245" column="54" filename="$USER_HOME$/code/website/src/data/translation.json" />
       <jump line="246" column="111" filename="$USER_HOME$/code/website/src/data/translation.json" />
@@ -1942,6 +1948,13 @@
       <jump line="106" column="21" filename="$USER_HOME$/code/lkc_website/src/containers/About/style/pro.scss" />
       <jump line="147" column="2" filename="$USER_HOME$/code/lkc_website/src/containers/About/style/pro.scss" />
       <jump line="9" column="12" filename="$USER_HOME$/code/lkc_website/src/containers/About/style/mobile.scss" />
+      <jump line="19" column="11" filename="$USER_HOME$/code/lkc_website/src/containers/Home/components/Div2/Div2.js" />
+      <jump line="95" column="21" filename="$USER_HOME$/code/lkc_website/src/containers/Home/Home.js" />
+      <jump line="10" column="27" filename="$USER_HOME$/code/lkc_website/src/containers/NotFound/NotFound.js" />
+      <jump line="54" column="4" filename="$USER_HOME$/code/lkc_website/src/containers/NotFound/NotFound.scss" />
+      <jump line="1" column="0" filename="$USER_HOME$/code/lkc_website/src/containers/NotFound/NotFound.scss" />
+      <jump line="16" column="0" filename="$USER_HOME$/code/lkc_website/src/containers/NotFound/NotFound.scss" />
+      <jump line="15" column="20" filename="$USER_HOME$/code/lkc_website/src/containers/NotFound/NotFound.scss" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1964,8 +1977,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>wanchain</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBmb250LXdlaWdodDogYm9sZDsK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2072,57 +2085,56 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>wanchain</text>
+        <text>#8e7477</text>
       </register>
       <register name="/" type="4">
-        <text>js</text>
+        <text>.test p</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxOYXZpZ2F0aW9uIC8+Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHN0eWxlcyA9IHJlcXVpcmUoJy4vSG9tZS5zY3NzJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBmb250LXdlaWdodDogYm9sZDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICBjb2xvcjogOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgaW1nRW4gPSBkaXYxRW5QYzsK</text>
+        <text encoding="base64">ICBjb2xvcjoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0gZWxzZSB7Cg==</text>
+        <text encoding="base64">aDI6Zmlyc3QtY2hpbGQgc3BhbiB7CiAgY3Vyc29yOiBwb2ludGVyOwogIHRleHQtc2hhZG93OiAwcHggMHB4IDJweCAjNjg2ODY4LAogIDBweCAxcHggMXB4ICNkZGQsCiAgMHB4IDJweCAxcHggI2Q2ZDZkNiwKICAwcHggM3B4IDFweCAjY2NjLAogIDBweCA0cHggMXB4ICNjNWM1YzUsCiAgMHB4IDVweCAxcHggI2MxYzFjMSwKICAwcHggNnB4IDFweCAjYmJiLAogIDBweCA3cHggMXB4ICM3NzcsCiAgMHB4IDhweCAzcHggcmdiYSgxMDAsIDEwMCwgMTAwLCAwLjQpLAogIDBweCA5cHggNXB4IHJnYmEoMTAwLCAxMDAsIDEwMCwgMC4xKSwKICAwcHggMTBweCA3cHggcmdiYSgxMDAsIDEwMCwgMTAwLCAwLjE1KSwKICAwcHggMTFweCA5cHggcmdiYSgxMDAsIDEwMCwgMTAwLCAwLjIpLAogIDBweCAxMnB4IDExcHggcmdiYSgxMDAsIDEwMCwgMTAwLCAwLjI1KSwKICAwcHggMTNweCAxNXB4IHJnYmEoMTAwLCAxMDAsIDEwMCwgMC4zKTsKICAtd2Via2l0LXRyYW5zaXRpb246IGFsbCAuMXMgbGluZWFyOwogIHRyYW5zaXRpb246IGFsbCAuMXMgbGluZWFyOwp9CgpoMjpmaXJzdC1jaGlsZCBzcGFuOmhvdmVyIHsKICB0ZXh0LXNoYWRvdzogMHB4IDBweCAycHggIzY4Njg2OCwKICAwcHggMXB4IDFweCAjZmZmLAogIDBweCAycHggMXB4ICNmZmYsCiAgMHB4IDNweCAxcHggI2ZmZiwKICAwcHggNHB4IDFweCAjZmZmLAogIDBweCA1cHggMXB4ICNmZmYsCiAgMHB4IDZweCAxcHggI2ZmZiwKICAwcHggN3B4IDFweCAjNzc3LAogIDBweCA4cHggM3B4ICNmZmYsCiAgMHB4IDlweCA1cHggI2ZmZiwKICAwcHggMTBweCA3cHggI2ZmZiwKICAwcHggMTFweCA5cHggI2ZmZiwKICAwcHggMTJweCAxMXB4ICNmZmYsCiAgMHB4IDEzcHggMTVweCAjZmZmOwogIC13ZWJraXQtdHJhbnNpdGlvbjogYWxsIC4xcyBsaW5lYXI7CiAgdHJhbnNpdGlvbjogYWxsIC4xcyBsaW5lYXI7Cn0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgaW1nRW4gPSBkaXYxRW47Cg==</text>
+        <text encoding="base64">ICBjb2xvcjogI2ZmZjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIChOdW1iZXIoY2xpZW50V2lkdGgpID49IDMyMCAmJiBOdW1iZXIoY2xpZW50V2lkdGgpIDw9IDc2Nykgewo=</text>
+        <text encoding="base64">ICBsZXR0ZXItc3BhY2luZzogNXB4Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxldCBpbWdFbjsK</text>
+        <text encoding="base64">ICBmb250LXNpemU6IDUwcHg7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICBmb250LWZhbWlseTogY3Vyc2l2ZTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaW1nRW4gPSBkaXYxRW5QYzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action PreviousTab</text>
+        <text>%s/.test p/h2</text>
       </register>
     </registers>
     <search>
-      <last-search>js</last-search>
+      <last-search>.test p</last-search>
       <last-offset />
-      <last-pattern>js</last-pattern>
-      <last-replace>LuckyCoin</last-replace>
-      <last-substitute>Wanchain</last-substitute>
+      <last-pattern>.test p</last-pattern>
+      <last-replace>h2</last-replace>
+      <last-substitute>.test p</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>less</entry>
         <entry>date</entry>
         <entry encoding="base64">XDxmaWxsSW5zdGFsbFVBVURFbWlzc2lvblw+</entry>
         <entry encoding="base64">XDxmbGFuZ2VzQ291bnRcPg==</entry>
@@ -2142,9 +2154,9 @@
         <entry>width</entry>
         <entry>css</entry>
         <entry>js</entry>
+        <entry>.test p</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/standard/install/gc</entry>
         <entry>%s/Component/Seal/gc</entry>
         <entry>%s/component/seal/gc</entry>
         <entry>%s/joint/connector/gc</entry>
@@ -2161,9 +2173,10 @@
         <entry>%s/return String.format/throw new InvalidDataException(String.format/gc</entry>
         <entry>q</entry>
         <entry>w</entry>
-        <entry>action ReformatCode</entry>
         <entry>action NextTab</entry>
         <entry>action PreviousTab</entry>
+        <entry>action ReformatCode</entry>
+        <entry>%s/.test p/h2</entry>
       </history-cmd>
       <history-expr />
       <history-input />
