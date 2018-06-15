@@ -196,12 +196,11 @@
         <mark key="." line="32" column="14" />
         <mark key="^" line="32" column="14" />
       </file>
-      <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/DetectionServiceImpl.java" timestamp="1528766363917">
+      <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/DetectionServiceImpl.java" timestamp="1529028120125">
         <mark key="'" line="438" column="8" />
-        <mark key="[" line="514" column="17" />
-        <mark key="]" line="514" column="21" />
-        <mark key="." line="514" column="21" />
-        <mark key="^" line="514" column="21" />
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="0" />
+        <mark key="." line="83" column="0" />
       </file>
       <file name="D:/code/web/voc-delon/src/app/routes/base/factory/factory.component.ts" timestamp="1522139789401">
         <mark key="'" line="36" column="80" />
@@ -328,12 +327,12 @@
         <mark key="^" line="31" column="21" />
         <mark key="." line="31" column="21" />
       </file>
-      <file name="$USER_HOME$/code/voc/src/main/resources/sql/schema.sql" timestamp="1527822532381">
-        <mark key="'" line="17" column="26" />
-        <mark key="[" line="584" column="9" />
-        <mark key="]" line="584" column="8" />
-        <mark key="^" line="584" column="8" />
-        <mark key="." line="584" column="8" />
+      <file name="$USER_HOME$/code/voc/src/main/resources/sql/schema.sql" timestamp="1529027852658">
+        <mark key="'" line="585" column="1" />
+        <mark key="[" line="523" column="0" />
+        <mark key="]" line="532" column="33" />
+        <mark key="^" line="664" column="1" />
+        <mark key="." line="664" column="1" />
       </file>
       <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/shiro/JWTFilter.java" timestamp="1517388376147">
         <mark key="'" line="20" column="0" />
@@ -406,10 +405,17 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/code/voc/src/main/resources/mapper/DetectionMapper.xml" timestamp="1527584792344">
-        <mark key="'" line="68" column="19" />
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="111" column="15" />
+      <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/mapper/DetectionMapper.java" timestamp="1529028049675">
+        <mark key="'" line="34" column="31" />
+        <mark key="[" line="37" column="7" />
+        <mark key="]" line="37" column="11" />
+        <mark key="^" line="37" column="11" />
+        <mark key="." line="37" column="11" />
+      </file>
+      <file name="$USER_HOME$/code/voc/src/main/resources/mapper/DetectionMapper.xml" timestamp="1529027793141">
+        <mark key="'" line="5" column="32" />
+        <mark key="[" line="5" column="35" />
+        <mark key="]" line="6" column="87" />
         <mark key="." line="79" column="22" />
         <mark key="^" line="79" column="22" />
       </file>
@@ -474,12 +480,6 @@
       </file>
       <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/shiro/JwtAuthenticationFilter.java" timestamp="1527840479742">
         <mark key="'" line="50" column="25" />
-      </file>
-      <file name="$USER_HOME$/code/voc/src/test/java/com/cnvoc/voc/service/impl/DetectionServiceImplTest.java" timestamp="1528766447614">
-        <mark key="[" line="496" column="21" />
-        <mark key="]" line="496" column="21" />
-        <mark key="." line="496" column="21" />
-        <mark key="^" line="496" column="21" />
       </file>
       <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/PhotoServiceImpl.java" timestamp="1528266093303">
         <mark key="[" line="10" column="14" />
@@ -679,10 +679,13 @@
       <file name="$USER_HOME$/code/website1/src/containers/Home/Home.js" timestamp="1528594794972">
         <mark key="'" line="4" column="53" />
       </file>
+      <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/TobeServiceImpl.java" timestamp="1529025017422">
+        <mark key="'" line="45" column="53" />
+      </file>
       <file name="$USER_HOME$/code/website/src/containers/Career/Career.js" timestamp="1528553568666">
         <mark key="'" line="12" column="9" />
       </file>
-      <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/IDetectionService.java" timestamp="1527823444509">
+      <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/IDetectionService.java" timestamp="1529028134403">
         <mark key="'" line="98" column="19" />
         <mark key="[" line="97" column="18" />
         <mark key="]" line="97" column="17" />
@@ -733,7 +736,7 @@
         <mark key="." line="15" column="6" />
         <mark key="^" line="15" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528766482120">
+      <file name="/Dummy.txt" timestamp="1529028568052">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/website/src/containers/Home/components/Div1/Div1.js" timestamp="1528551469456">
@@ -843,6 +846,11 @@
         <mark key="^" line="340" column="36" />
         <mark key="." line="340" column="36" />
       </file>
+      <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/TurnFileServiceImpl.java" timestamp="1529025506039">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+      </file>
       <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/web/SealController.java" timestamp="1521951823171">
         <mark key="'" line="91" column="32" />
         <mark key="[" line="90" column="0" />
@@ -856,6 +864,13 @@
         <mark key="]" line="239" column="71" />
         <mark key="^" line="76" column="58" />
         <mark key="." line="239" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/mapper/DelayRepairMapper.java" timestamp="1529027721969">
+        <mark key="'" line="26" column="36" />
+        <mark key="[" line="23" column="33" />
+        <mark key="]" line="23" column="34" />
+        <mark key="^" line="23" column="34" />
+        <mark key="." line="23" column="34" />
       </file>
       <file name="D:/code/go/src/ldar/emission_test.go" timestamp="1521520684666">
         <mark key="'" line="805" column="0" />
@@ -981,6 +996,13 @@
         <mark key="." line="3" column="35" />
         <mark key="^" line="3" column="35" />
       </file>
+      <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/ITobeService.java" timestamp="1529026250098">
+        <mark key="'" line="20" column="24" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="21" column="38" />
+        <mark key="." line="22" column="0" />
+      </file>
       <file name="D:/code/web/voc-web/src/app/routes/base/setting/step1.component.html" timestamp="1520046652925">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="72" column="61" />
@@ -1014,6 +1036,13 @@
         <mark key="]" line="26" column="14" />
         <mark key="." line="26" column="14" />
         <mark key="^" line="26" column="14" />
+      </file>
+      <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/ITurnFileService.java" timestamp="1529025577364">
+        <mark key="'" line="36" column="21" />
+        <mark key="[" line="36" column="22" />
+        <mark key="]" line="36" column="21" />
+        <mark key="." line="36" column="21" />
+        <mark key="^" line="36" column="21" />
       </file>
       <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/IDelayRepairService.java" timestamp="1527473851288">
         <mark key="'" line="24" column="18" />
@@ -1447,6 +1476,12 @@
         <mark key="." line="61" column="35" />
         <mark key="^" line="61" column="36" />
       </file>
+      <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/mapper/ComponentMapper.java" timestamp="1529027090207">
+        <mark key="[" line="30" column="14" />
+        <mark key="]" line="30" column="30" />
+        <mark key="^" line="30" column="30" />
+        <mark key="." line="30" column="30" />
+      </file>
       <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/LdarRuleServiceImpl.java" timestamp="1521117692020">
         <mark key="'" line="49" column="36" />
         <mark key="[" line="65" column="0" />
@@ -1477,14 +1512,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="240" column="63" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/EmissionServiceImpl.java" />
-      <jump line="2" column="401" filename="$USER_HOME$/Downloads/Wanchain - Links Future Assets.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/Downloads/Wanchain - Links Future Assets.html" />
-      <jump line="2" column="1052" filename="$USER_HOME$/code/website/static/Wanchain - Links Future Assets.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/website/static/Wanchain - Links Future Assets.html" />
-      <jump line="8" column="21" filename="$USER_HOME$/code/website/static/Wanchain - Links Future Assets.html" />
-      <jump line="136" column="25" filename="$USER_HOME$/code/website/static/Wanchain - Links Future Assets.html" />
-      <jump line="27" column="13" filename="$USER_HOME$/code/website/static/index.html" />
       <jump line="28" column="10" filename="$USER_HOME$/code/website/static/index.html" />
       <jump line="13" column="41" filename="$USER_HOME$/code/website/static/index.html" />
       <jump line="16" column="48" filename="$USER_HOME$/code/website/static/index.html" />
@@ -1577,6 +1604,14 @@
       <jump line="113" column="52" filename="$USER_HOME$/code/website/src/containers/Home/Home.js" />
       <jump line="146" column="20" filename="$USER_HOME$/code/website/src/containers/Home/Home.js" />
       <jump line="143" column="40" filename="$USER_HOME$/code/website/src/containers/Home/Home.js" />
+      <jump line="20" column="24" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/ITobeService.java" />
+      <jump line="45" column="53" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/TobeServiceImpl.java" />
+      <jump line="36" column="21" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/ITurnFileService.java" />
+      <jump line="26" column="36" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/mapper/DelayRepairMapper.java" />
+      <jump line="36" column="31" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/mapper/DetectionMapper.java" />
+      <jump line="5" column="32" filename="$USER_HOME$/code/voc/src/main/resources/mapper/DetectionMapper.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/voc/src/main/resources/sql/schema.sql" />
+      <jump line="585" column="1" filename="$USER_HOME$/code/voc/src/main/resources/sql/schema.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1599,8 +1634,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>漏</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIERldGVjdGlvbiBnZXRCeVRhZ0FuZFRpbWUoTG9uZyBmYWN0b3J5SWQsIFN0cmluZyB0YWcsIERhdGUgdGltZSkgewogICAgICAgIHJldHVybiBkZXRlY3Rpb25NYXBwZXIuZ2V0QnlUYWdBbmRUaW1lKGZhY3RvcnlJZCwgdGFnLCB0aW1lKTsKICAgIH0KCgo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -1707,43 +1742,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>漏</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>lang</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG9uQ2hhbmdlRW4oKSB7CiAgICAgIHRoaXMucHJvcHMuY2hhbmdlTGFuZ0Z1bmMoJ2VuJyk7CiAgICB9CgogICAgb25DaGFuZ2VabigpIHsKICAgICAgdGhpcy5wcm9wcy5jaGFuZ2VMYW5nRnVuYygnem4nKTsKICAgIH0K</text>
+        <text encoding="base64">ICBJTiAgYF90YWdgICAgICAgICAgIFZBUkNIQVIoNTApLAogIElOICBgX2ZhY3RvcnlfaWRgICAgQklHSU5ULAogIElOICBgX3R1cm5faWRgICAgICAgQklHSU5ULAogIElOICBgX3RpbWVgICAgICAgICAgREFURVRJTUUsCiAgSU4gIGBfdmFsdWVgICAgICAgICBSRUFMLAogIElOICBgX2JhY2tncm91bmRgICAgIFJFQUwsCiAgSU4gIGBfZGV2aWNlX21vZGVsYCBWQVJDSEFSKDUwKSwKICBJTiAgYF9kZXZpY2Vfbm9gICAgIFZBUkNIQVIoNTApLAogIElOICBgX2NvbXBhbnlgICAgICAgVkFSQ0hBUigxMDApLAogIElOICBgX3BlcnNvbnNgICAgICAgVkFSQ0hBUigxMDApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPC9wPgo=</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIERldGVjdGlvbiBnZXRCeVRhZ0FuZFRpbWUoTG9uZyBmYWN0b3J5SWQsIFN0cmluZyB0YWcsIERhdGUgdGltZSkgewogICAgICAgIHJldHVybiBkZXRlY3Rpb25NYXBwZXIuZ2V0QnlUYWdBbmRUaW1lKGZhY3RvcnlJZCwgdGFnLCB0aW1lKTsKICAgIH0KCgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPHA+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPC9wPgo=</text>
+        <text encoding="base64">ICAgIC8vIOWQjumdoueahGlk5Li65a+55bqU55qE57G75Z6LaWQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPHA+Cg==</text>
+        <text encoding="base64">ICAgIC8vCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAtLT4K</text>
+        <text encoding="base64">ICAgIC8vIGJvb2xlYW4gZG93bmxvYWRGaWxlKExvbmcgaWQpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPCEtLQo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICog5o+S5YWl55u45bqU6L2u5qyh55qE5paH5Lu2CiAgICAgKiBAcGFyYW0gdHVybklkIOi9ruasoWlkCiAgICAgKiBAcGFyYW0gZmlsZSDmlofku7blhoXlrrkKICAgICAqIEBwYXJhbSBmaWxlbmFtZSDkuIrkvKDnmoTmlofku7blkI0KICAgICAqIEBwYXJhbSBkYXRlIOS4iuS8oOaXpeacnwogICAgICogQHJldHVybiDmmK/lkKbkuIrkvKDmiJDlip8KICAgICAqLwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBnZXROYXYoKSB7CiAgICBjb25zdCBuYXZCdXR0b24gPSB0aGlzLnByb3BzLm5hdkJ1dHRvbjsKICAgIHRoaXMucHJvcHMuZ2V0TmF2QnV0dG9uRnVuYyghbmF2QnV0dG9uKTsKICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPC9wPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPHA+Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action NextTab</text>
+        <text>action PreviousTab</text>
       </register>
     </registers>
     <search>
@@ -1793,12 +1828,12 @@
         <entry>w</entry>
         <entry>action AceAction</entry>
         <entry>action Forward</entry>
-        <entry>q</entry>
         <entry encoding="base64">JzwsJz5zL2Rpc3RhbmNlL2hlaWdodC9nYw==</entry>
         <entry>%s/return String.format/throw new InvalidDataException(String.format/gc</entry>
-        <entry>action PreviousTab</entry>
         <entry>action ReformatCode</entry>
+        <entry>q</entry>
         <entry>action NextTab</entry>
+        <entry>action PreviousTab</entry>
       </history-cmd>
       <history-expr />
       <history-input />
