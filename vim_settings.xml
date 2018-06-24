@@ -676,11 +676,11 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="7" column="3" />
       </file>
-      <file name="$USER_HOME$/code/website/src/components/Navigation/style/pc.scss" timestamp="1529814901313">
-        <mark key="[" line="82" column="22" />
-        <mark key="]" line="83" column="21" />
-        <mark key="." line="83" column="21" />
-        <mark key="^" line="83" column="21" />
+      <file name="$USER_HOME$/code/website/src/components/Navigation/style/pc.scss" timestamp="1529825553775">
+        <mark key="[" line="88" column="11" />
+        <mark key="]" line="90" column="23" />
+        <mark key="." line="90" column="23" />
+        <mark key="^" line="90" column="23" />
       </file>
       <file name="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/InstallServiceImplTest.java" timestamp="1523761026197">
         <mark key="'" line="201" column="0" />
@@ -1220,12 +1220,12 @@
         <mark key="." line="47" column="0" />
         <mark key="^" line="82" column="42" />
       </file>
-      <file name="$USER_HOME$/code/website/src/components/Navigation/Navigation.js" timestamp="1529822802924">
-        <mark key="'" line="106" column="6" />
-        <mark key="[" line="122" column="0" />
-        <mark key="]" line="122" column="0" />
-        <mark key="^" line="121" column="54" />
-        <mark key="." line="122" column="0" />
+      <file name="$USER_HOME$/code/website/src/components/Navigation/Navigation.js" timestamp="1529825402854">
+        <mark key="'" line="121" column="39" />
+        <mark key="[" line="124" column="42" />
+        <mark key="]" line="124" column="48" />
+        <mark key="^" line="124" column="48" />
+        <mark key="." line="124" column="48" />
       </file>
       <file name="$USER_HOME$/code/website1/src/index.html" timestamp="1528545029968">
         <mark key="'" line="17" column="0" />
@@ -1945,8 +1945,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="38" filename="$USER_HOME$/code/website/src/data/translation.json" />
-      <jump line="58" column="47" filename="$USER_HOME$/code/website/src/data/translation.json" />
       <jump line="73" column="26" filename="$USER_HOME$/code/website/src/data/translation.json" />
       <jump line="105" column="16" filename="$USER_HOME$/code/website/src/data/translation.json" />
       <jump line="148" column="41" filename="$USER_HOME$/code/website/src/data/translation.json" />
@@ -2045,6 +2043,8 @@
       <jump line="95" column="23" filename="$USER_HOME$/code/website1/package.json" />
       <jump line="171" column="5" filename="$USER_HOME$/code/website1/package.json" />
       <jump line="172" column="5" filename="$USER_HOME$/code/website1/package.json" />
+      <jump line="122" column="38" filename="$USER_HOME$/code/website/src/components/Navigation/Navigation.js" />
+      <jump line="121" column="39" filename="$USER_HOME$/code/website/src/components/Navigation/Navigation.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2068,7 +2068,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICBpbWcgewogICAgICAgICAgaGVpZ2h0OiAxNnB4OwogICAgICAgICAgbWFyZ2luLXRvcDogOXB4OwogICAgICAgIH0K</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2175,49 +2175,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PGltZyBzcmM9e2Ryb3Bkb3dufS8+</text>
+        <text>der</text>
       </register>
       <register name="/" type="4">
-        <text>font</text>
+        <text>dropdown</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGdsb2JlID0gcmVxdWlyZSgnLi9pbWFnZS9nbG9iZS5wbmcnKTsK</text>
+      <register name="0" type="4">
+        <text encoding="base64">PGltZyBzcmM9e2Fycm93dW5kZXJ9Lz48L2E+</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICBpbWcgewogICAgICAgICAgaGVpZ2h0OiAxNnB4OwogICAgICAgICAgbWFyZ2luLXRvcDogOXB4OwogICAgICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8ZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAubGFuZ0Rlc2M6aG92ZXIgLmxhbmdDb250ZW50IHsKICAgICAgICAgIGRpc3BsYXk6IGJsb2NrOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8ZGl2Pgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLmxhbmdEZXNjOmhvdmVyIC5sYW5nQ29udGVudCB7CiAgICAgICAgZGlzcGxheTogYmxvY2s7CiAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAubGFuZ0Rlc2M6aG92ZXIgLmxhbmdDb250ZW50IHsKICAgICAgICAgIGRpc3BsYXk6IGJsb2NrOwogICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLmxhbmdEZXNjOmhvdmVyIC5sYW5nQ29udGVudCB7CiAgICAgICAgZGlzcGxheTogYmxvY2s7CiAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHNwYW4+e2xhbmdEaWN0W2xhbmd1YWdlXVswXX06IDwvc3Bhbj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHdpZHRoOiA2MHB4Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHNwYW4+e2xhbmdEaWN0W2xhbmd1YWdlXVswXX06IDwvc3Bhbj4K</text>
       </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text>action NextTab</text>
       </register>
     </registers>
     <search>
-      <last-search>font</last-search>
+      <last-search>dropdown</last-search>
       <last-offset />
-      <last-pattern>font</last-pattern>
+      <last-pattern>dropdown</last-pattern>
       <last-replace>，</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
@@ -2225,7 +2225,6 @@
     </search>
     <history>
       <history-search>
-        <entry>prima</entry>
         <entry>PSmall</entry>
         <entry>bannerp</entry>
         <entry>bannerT</entry>
@@ -2245,6 +2244,7 @@
         <entry>33</entry>
         <entry encoding="base64">XDxiYWNrQ2xhc3NOYW1lXD4=</entry>
         <entry>font</entry>
+        <entry>dropdown</entry>
       </history-search>
       <history-cmd>
         <entry>%s/component/seal/gc</entry>
@@ -2264,9 +2264,9 @@
         <entry>action Back</entry>
         <entry>w</entry>
         <entry encoding="base64">JzwsJz5zLywv77yML2dj</entry>
+        <entry>action ReformatCode</entry>
         <entry>action PreviousTab</entry>
         <entry>action NextTab</entry>
-        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
