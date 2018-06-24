@@ -161,6 +161,11 @@
         <mark key="^" line="56" column="12" />
         <mark key="." line="56" column="12" />
       </file>
+      <file name="$USER_HOME$/code/website/src/components/Navigation/style/mobile.scss" timestamp="1529830391467">
+        <mark key="[" line="78" column="25" />
+        <mark key="]" line="78" column="26" />
+        <mark key="." line="78" column="26" />
+      </file>
       <file name="D:/code/web/voc-web/src/app/routes/forms/standard/standard.component.html" timestamp="1520764647511">
         <mark key="'" line="214" column="37" />
         <mark key="[" line="297" column="0" />
@@ -676,11 +681,11 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="7" column="3" />
       </file>
-      <file name="$USER_HOME$/code/website/src/components/Navigation/style/pc.scss" timestamp="1529825553775">
-        <mark key="[" line="88" column="11" />
-        <mark key="]" line="90" column="23" />
-        <mark key="." line="90" column="23" />
-        <mark key="^" line="90" column="23" />
+      <file name="$USER_HOME$/code/website/src/components/Navigation/style/pc.scss" timestamp="1529830375468">
+        <mark key="[" line="82" column="27" />
+        <mark key="]" line="82" column="28" />
+        <mark key="." line="82" column="28" />
+        <mark key="^" line="69" column="22" />
       </file>
       <file name="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/InstallServiceImplTest.java" timestamp="1523761026197">
         <mark key="'" line="201" column="0" />
@@ -1220,12 +1225,10 @@
         <mark key="." line="47" column="0" />
         <mark key="^" line="82" column="42" />
       </file>
-      <file name="$USER_HOME$/code/website/src/components/Navigation/Navigation.js" timestamp="1529825402854">
-        <mark key="'" line="121" column="39" />
-        <mark key="[" line="124" column="42" />
-        <mark key="]" line="124" column="48" />
-        <mark key="^" line="124" column="48" />
-        <mark key="." line="124" column="48" />
+      <file name="$USER_HOME$/code/website/src/components/Navigation/Navigation.js" timestamp="1529829593433">
+        <mark key="[" line="125" column="0" />
+        <mark key="]" line="126" column="63" />
+        <mark key="." line="125" column="0" />
       </file>
       <file name="$USER_HOME$/code/website1/src/index.html" timestamp="1528545029968">
         <mark key="'" line="17" column="0" />
@@ -1506,6 +1509,11 @@
         <mark key="[" line="19" column="0" />
         <mark key="]" line="25" column="5" />
         <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/website/src/components/Navigation/style/pro.scss" timestamp="1529830388579">
+        <mark key="[" line="61" column="25" />
+        <mark key="]" line="61" column="26" />
+        <mark key="." line="61" column="26" />
       </file>
       <file name="$USER_HOME$/code/lkc_website/src/containers/Career/style/pro.scss" timestamp="1529041961183">
         <mark key="[" line="49" column="0" />
@@ -2068,7 +2076,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpbWcgewogICAgICAgICAgaGVpZ2h0OiAxNnB4OwogICAgICAgICAgbWFyZ2luLXRvcDogOXB4OwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9udC13ZWlnaHQ6IGJvbGQ7Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2175,43 +2183,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>der</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>dropdown</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">PGltZyBzcmM9e2Fycm93dW5kZXJ9Lz48L2E+</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgLmxhbmdEcm9wZG93biB7CiAgICAgICAgcG9zaXRpb246IHJlbGF0aXZlOwogICAgICAgIGRpc3BsYXk6IGlubGluZS1ibG9jazsKICAgICAgICBmbG9hdDogcmlnaHQ7CiAgICAgICAgcGFkZGluZy10b3A6IDE1cHg7CiAgICAgICAgbWFyZ2luLXJpZ2h0OiA2MHB4OwogICAgICAgIGxpbmUtaGVpZ2h0OiAyNnB4OwoKICAgICAgICAubGFuZ0NvbnRlbnQgewogICAgICAgICAgZGlzcGxheTogbm9uZTsKICAgICAgICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTsKICAgICAgICAgIGJveC1zaGFkb3c6IDBweCA4cHggMTZweCAwcHggcmdiYSgwLCAwLCAwLCAwLjIpOwogICAgICAgICAgdGV4dC1hbGlnbjogbGVmdDsKICAgICAgICAgIHRvcDogNDVweDsKICAgICAgICAgIC8vIGxldHRlci1zcGFjaW5nOiAzcHg7CiAgICAgICAgICBsZWZ0OiAyM3B4OwogICAgICAgICAgYTpob3ZlciB7CiAgICAgICAgICAgIGJvcmRlci1ib3R0b206IDNweCBzb2xpZCAjZmZmOwogICAgICAgICAgICBjb2xvcjogI2ZmZjsKICAgICAgICAgICAgZm9udC13ZWlnaHQ6IGJvbGQ7CiAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIGEgewogICAgICAgICAgZGlzcGxheTogYmxvY2s7CiAgICAgICAgICBjb2xvcjogI2ZmZjsKICAgICAgICAgIHRleHQtZGVjb3JhdGlvbjogbm9uZTsKICAgICAgICAgIGN1cnNvcjogcG9pbnRlcjsKICAgICAgICAgIHBhZGRpbmc6IDVweDsKICAgICAgICAgIHRleHQtYWxpZ246IGxlZnQ7CiAgICAgICAgICBtaW4td2lkdGg6IDExMHB4OwogICAgICAgIH0KICAgICAgICAubGFuZ0Rlc2MgewogICAgICAgICAgY29sb3I6ICNmZmY7CiAgICAgICAgICBmbG9hdDogbGVmdDsKICAgICAgICAgIHNwYW4gewogICAgICAgICAgICBmbG9hdDogbGVmdDsKICAgICAgICAgIH0KICAgICAgICAgIGltZyB7CiAgICAgICAgICAgIGZsb2F0OiBsZWZ0OwogICAgICAgICAgICBoZWlnaHQ6IDE2cHg7CiAgICAgICAgICAgIG1hcmdpbi10b3A6IDVweDsKICAgICAgICAgIH0KICAgICAgICAgIC5nbG9iZSB7CiAgICAgICAgICAgIG1hcmdpbi1yaWdodDogOHB4OwogICAgICAgICAgfQogICAgICAgICAgLmFycm93VW5kZXIgewogICAgICAgICAgICBtYXJnaW4tbGVmdDogOHB4OwogICAgICAgICAgICBkaXNwbGF5OiBibG9jazsKICAgICAgICAgIH0KICAgICAgICAgIC5hcnJvd09uIHsKICAgICAgICAgICAgbWFyZ2luLWxlZnQ6IDhweDsKICAgICAgICAgICAgZGlzcGxheTogbm9uZTsKICAgICAgICAgIH0KICAgICAgICB9CiAgICAgIH0KICAgICAgLmxhbmdEcm9wZG93bjpob3ZlciB7CiAgICAgICAgLmxhbmdDb250ZW50IHsKICAgICAgICAgIGRpc3BsYXk6IGJsb2NrOwogICAgICAgIH0KICAgICAgICAuYXJyb3dVbmRlciB7CiAgICAgICAgICBkaXNwbGF5OiBub25lOwogICAgICAgIH0KICAgICAgICAuYXJyb3dPbiB7CiAgICAgICAgICBkaXNwbGF5OiBibG9jazsKICAgICAgICB9CiAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbWcgewogICAgICAgICAgaGVpZ2h0OiAxNnB4OwogICAgICAgICAgbWFyZ2luLXRvcDogOXB4OwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9udC13ZWlnaHQ6IGJvbGQ7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWFyZ2luLXJpZ2h0OiA4cHg7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8ZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWFyZ2luLXJpZ2h0OiA4cHg7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAubGFuZ0Rlc2M6aG92ZXIgLmxhbmdDb250ZW50IHsKICAgICAgICAgIGRpc3BsYXk6IGJsb2NrOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFkZGluZy1sZWZ0OiA4cHg7CiAgICAgICAgICAgIHBhZGRpbmctcmlnaHQ6IDhweDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLmxhbmdEZXNjOmhvdmVyIC5sYW5nQ29udGVudCB7CiAgICAgICAgZGlzcGxheTogYmxvY2s7CiAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFkZGluZy1yaWdodDogOHB4Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHBhZGRpbmctbGVmdAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFkZGluZzogMCA4cHg7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8aW1nIGNsYXNzTmFtZT17c3R5bGVzLmFycm93VW5kZXJ9IHNyYz17YXJyb3dVbmRlcn0vPgogICAgICAgICAgICAgIDxpbWcgY2xhc3NOYW1lPXtzdHlsZXMuYXJyb3dPbn0gc3JjPXthcnJvd09ufS8+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHNwYW4+e2xhbmdEaWN0W2xhbmd1YWdlXVswXX06IDwvc3Bhbj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8aW1nIGNsYXNzTmFtZT17c3R5bGVzLmdsb2JlfSBzcmM9e2dsb2JlfS8+Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action NextTab</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
@@ -2264,9 +2272,9 @@
         <entry>action Back</entry>
         <entry>w</entry>
         <entry encoding="base64">JzwsJz5zLywv77yML2dj</entry>
-        <entry>action ReformatCode</entry>
-        <entry>action PreviousTab</entry>
         <entry>action NextTab</entry>
+        <entry>action PreviousTab</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
