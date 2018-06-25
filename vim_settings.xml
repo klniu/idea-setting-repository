@@ -79,9 +79,9 @@
         <mark key="^" line="48" column="13" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/code/lkc_website/src/components/Footer/Footer.js" timestamp="1529897248911">
-        <mark key="[" line="112" column="64" />
-        <mark key="]" line="112" column="65" />
+      <file name="$USER_HOME$/code/lkc_website/src/components/Footer/Footer.js" timestamp="1529901840896">
+        <mark key="[" line="111" column="41" />
+        <mark key="]" line="111" column="77" />
         <mark key="." line="112" column="65" />
         <mark key="^" line="93" column="49" />
       </file>
@@ -200,6 +200,12 @@
         <mark key="]" line="84" column="9" />
         <mark key="." line="82" column="0" />
       </file>
+      <file name="$USER_HOME$/code/lkc_website/src/containers/LKC/LKC.js" timestamp="1529901858758">
+        <mark key="[" line="107" column="64" />
+        <mark key="]" line="107" column="65" />
+        <mark key="." line="107" column="65" />
+        <mark key="^" line="107" column="81" />
+      </file>
       <file name="$USER_HOME$/code/lkc_website/src/containers/FortuneWorld/Fortuneworld.scss" timestamp="1528945856415">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -254,12 +260,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/lkc_website/src/data/translation.json" timestamp="1529897194161">
+      <file name="$USER_HOME$/code/lkc_website/src/data/translation.json" timestamp="1529901843636">
         <mark key="'" line="215" column="3" />
-        <mark key="[" line="425" column="3" />
-        <mark key="]" line="425" column="13" />
-        <mark key="^" line="427" column="52" />
-        <mark key="." line="427" column="52" />
+        <mark key="[" line="409" column="29" />
+        <mark key="]" line="409" column="66" />
+        <mark key="^" line="409" column="6" />
+        <mark key="." line="409" column="29" />
       </file>
       <file name="/Python Console" timestamp="1527930983480">
         <mark key="[" line="0" column="0" />
@@ -374,7 +380,7 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529852514642">
+      <file name="/Dummy.txt" timestamp="1529899635208">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/lkc_website/src/containers/Home/components/Div3/style/pro.scss" timestamp="1528966929357">
@@ -613,7 +619,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>{language === 'zn' ? 'QQ群' : 'QQ group'}</text>
+        <text encoding="base64">aHR0cHM6Ly9qcS5xcS5jb20vP193dj0xMDI3Jms9NWVlSkplZg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -720,43 +726,47 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>{language === 'zn' ? 'QQ群' : 'QQ group'}</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>width</text>
       </register>
       <register name="0" type="4">
-        <text>{socials[2]}</text>
+        <text encoding="base64">aHR0cHM6Ly9qcS5xcS5jb20vP193dj0xMDI3Jms9NWVlSkplZg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc3Qgd2VibzEgPSByZXF1aXJlKCcuL2ltYWdlL3dlYi5wbmcnKTsK</text>
+      <register name="1" type="8">
+        <text>]
+]
+]</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgZmFjZWJvb2sgPSByZXF1aXJlKCcuL2ltYWdlL2ZhY2Vib29rLnBuZycpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgcmV0dXJuICgK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgZGlzY29yZDEgPSByZXF1aXJlKCcuL2ltYWdlL2Rpc2NvcmQucG5nJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc3Qgcm9ib3QxID0gcmVxdWlyZSgnLi9pbWFnZS9yZWRkaXQucG5nJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgcmV0dXJuICgK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJ6biI6IFtdLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIDxwPntkZXNjc1tpbmRleF19PC9wPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAoCiAgICAgICAgICAgICAgICAgIDxwIGtleT17aW5kZXh9Pnt2YWx1ZX08L3A+CiAgICAgICAgICAgICAgICApOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgcHMucHVzaCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHtpZiB9Cg==</text>
+      <register name="8" type="8">
+        <text>]
+]
+]</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgZGVzY3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action PreviousTab</text>
+        <text>action NextTab</text>
       </register>
     </registers>
     <search>
@@ -764,9 +774,9 @@
       <last-offset />
       <last-pattern>width</last-pattern>
       <last-replace>，</last-replace>
-      <last-substitute>,</last-substitute>
+      <last-substitute>width</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -807,11 +817,11 @@
         <entry>q</entry>
         <entry>%s/.test p/h2</entry>
         <entry>action Back</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz5zLywv77yML2dj</entry>
         <entry>action ReformatCode</entry>
-        <entry>action NextTab</entry>
+        <entry>w</entry>
         <entry>action PreviousTab</entry>
+        <entry>action NextTab</entry>
       </history-cmd>
       <history-expr />
       <history-input />
