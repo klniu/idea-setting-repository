@@ -262,12 +262,6 @@
         <mark key="." line="100" column="17" />
         <mark key="^" line="100" column="17" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2e9c8649-18f5-43f9-a70d-cf6359de55b3/console.sql" timestamp="1528417793050">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="36" column="9" />
-        <mark key="^" line="36" column="9" />
-        <mark key="." line="36" column="9" />
-      </file>
       <file name="D:/code/web/voc-web/src/app/routes/ldar/component/component.service.ts" timestamp="1520759923462">
         <mark key="'" line="43" column="4" />
         <mark key="[" line="26" column="56" />
@@ -302,6 +296,12 @@
         <mark key="]" line="29" column="38" />
         <mark key="^" line="29" column="38" />
         <mark key="." line="29" column="38" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2e9c8649-18f5-43f9-a70d-cf6359de55b3/console.sql" timestamp="1528417793050">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="36" column="9" />
+        <mark key="^" line="36" column="9" />
+        <mark key="." line="36" column="9" />
       </file>
       <file name="D:/code/web/voc-web/src/app/routes/base/ldarsetting/finished.component.ts" timestamp="1520071978070">
         <mark key="'" line="11" column="16" />
@@ -1542,6 +1542,12 @@
         <mark key="." line="77" column="38" />
         <mark key="^" line="77" column="38" />
       </file>
+      <file name="$USER_HOME$/sync/projects/luckycoin/swf/shapes/test.html" timestamp="1529995184864">
+        <mark key="[" line="76" column="13" />
+        <mark key="]" line="76" column="14" />
+        <mark key="^" line="29" column="34" />
+        <mark key="." line="76" column="14" />
+      </file>
       <file name="D:/code/web/voc-ui/src/app/routes/ldar/unit/unit.component.html" timestamp="1522226662628">
         <mark key="'" line="82" column="47" />
         <mark key="[" line="86" column="0" />
@@ -2044,8 +2050,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogCiAgICAgKiBAcGFyYW0gY29uZGl0aW9uCiAgICAgKiBAcGFyYW0gZGF0ZVJhbmdlCiAgICAgKiBAcGFyYW0gdmFsdWVSYW5nZQogICAgICogQHJldHVybgogICAgICovCg==</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2152,43 +2158,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>.test p</text>
       </register>
-      <register name="0" type="4">
-        <text>&quot;删除轮次时相关的文件删除失败&quot;</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgNTAlIHsKICAgICAgICAgICAgICAgIG9wYWNpdHk6IDE7CiAgICAgICAgICAgICAgICByaWdodDogNTAlOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogCiAgICAgKiBAcGFyYW0gY29uZGl0aW9uCiAgICAgKiBAcGFyYW0gZGF0ZVJhbmdlCiAgICAgKiBAcGFyYW0gdmFsdWVSYW5nZQogICAgICogQHJldHVybgogICAgICovCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgMTAlIHsgb3BhY2l0eTogMDsgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGV4dC1hbGlnbjogY2VudGVyOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGJvb2xlYW4gdGVzdEZvck51bGwoQE5vdE51bGwgSW50ZWdlciBhLCBATnVsbGFibGUgSW50ZWdlciBiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGlzcGxheTppbmxpbmUtYmxvY2s7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIGJvb2xlYW4gdGVzdEZvck51bGwoSW50ZWdlciBhLCBATnVsbGFibGUgSW50ZWdlciBiKSB7CiAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGV4dC1hbGlnbjogY2VudGVyOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGlzcGxheTogbm9uZTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJpZ2h0OiAzMCU7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG9wYWNpdHk6IDA7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBSZXN1bHQgaW1wb3J0RXhjZWwoTXVsdGlwYXJ0RmlsZSBmaWxlKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1hcmdpbi1sZWZ0OiA1MHB4Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImVmZmVjdCI+Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action PreviousTab</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
@@ -2239,11 +2245,11 @@
         <entry encoding="base64">JzwsJz5zL2Rpc3RhbmNlL2hlaWdodC9nYw==</entry>
         <entry>%s/return String.format/throw new InvalidDataException(String.format/gc</entry>
         <entry>w</entry>
-        <entry>action ReformatCode</entry>
         <entry>%s/.test p/h2</entry>
         <entry>q</entry>
         <entry>action NextTab</entry>
         <entry>action PreviousTab</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
