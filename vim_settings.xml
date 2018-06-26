@@ -984,12 +984,11 @@
         <mark key="." line="78" column="22" />
         <mark key="^" line="78" column="22" />
       </file>
-      <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/web/ComponentController.java" timestamp="1529977366008">
-        <mark key="'" line="69" column="49" />
-        <mark key="[" line="66" column="14" />
-        <mark key="]" line="66" column="28" />
-        <mark key="^" line="66" column="28" />
-        <mark key="." line="66" column="28" />
+      <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/web/ComponentController.java" timestamp="1529978330046">
+        <mark key="'" line="69" column="46" />
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="." line="74" column="0" />
       </file>
       <file name="$USER_HOME$/code/lkc_website/src/containers/Home/components/Div6/Div6.scss" timestamp="1528946639714">
         <mark key="[" line="3" column="0" />
@@ -1302,11 +1301,11 @@
         <mark key="." line="3" column="35" />
         <mark key="^" line="3" column="35" />
       </file>
-      <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/ITobeService.java" timestamp="1529896628709">
-        <mark key="[" line="29" column="56" />
-        <mark key="]" line="29" column="64" />
-        <mark key="^" line="29" column="64" />
-        <mark key="." line="29" column="64" />
+      <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/ITobeService.java" timestamp="1529978948043">
+        <mark key="[" line="36" column="29" />
+        <mark key="]" line="36" column="37" />
+        <mark key="^" line="36" column="37" />
+        <mark key="." line="36" column="37" />
       </file>
       <file name="D:/code/web/voc-web/src/app/routes/base/setting/step1.component.html" timestamp="1520046652925">
         <mark key="'" line="0" column="0" />
@@ -2021,7 +2020,7 @@
       <jump line="49" column="18" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/ILdarTurnService.java" />
       <jump line="138" column="51" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/LdarTurnServiceImpl.java" />
       <jump line="65" column="13" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/ILdarTurnService.java" />
-      <jump line="69" column="49" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/web/ComponentController.java" />
+      <jump line="69" column="46" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/web/ComponentController.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2044,8 +2043,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogCiAgICAgKiBAcGFyYW0gY29uZGl0aW9uCiAgICAgKiBAcGFyYW0gZGF0ZVJhbmdlCiAgICAgKiBAcGFyYW0gdmFsdWVSYW5nZQogICAgICogQHJldHVybgogICAgICovCg==</text>
+      <register name="&quot;" type="4">
+        <text>seal</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2152,7 +2151,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>seal</text>
       </register>
       <register name="/" type="4">
         <text>.test p</text>
@@ -2161,34 +2160,34 @@
         <text>&quot;删除轮次时相关的文件删除失败&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogCiAgICAgKiBAcGFyYW0gY29uZGl0aW9uCiAgICAgKiBAcGFyYW0gZGF0ZVJhbmdlCiAgICAgKiBAcGFyYW0gdmFsdWVSYW5nZQogICAgICogQHJldHVybgogICAgICovCg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogCiAgICAgKiBAcGFyYW0gY29tcG9uZW50CiAgICAgKiBAcGFyYW0gYmluZGluZ1Jlc3VsdAogICAgICogQHJldHVybgogICAgICovCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogCiAgICAgKiBAcGFyYW0gY29uZGl0aW9uCiAgICAgKiBAcGFyYW0gZGF0ZVJhbmdlCiAgICAgKiBAcGFyYW0gdmFsdWVSYW5nZQogICAgICogQHJldHVybgogICAgICovCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGJvb2xlYW4gdGVzdEZvck51bGwoQE5vdE51bGwgSW50ZWdlciBhLCBATnVsbGFibGUgSW50ZWdlciBiKTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIGJvb2xlYW4gdGVzdEZvck51bGwoSW50ZWdlciBhLCBATnVsbGFibGUgSW50ZWdlciBiKSB7CiAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgfQoK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGJvb2xlYW4gdGVzdEZvck51bGwoQE5vdE51bGwgSW50ZWdlciBhLCBATnVsbGFibGUgSW50ZWdlciBiKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIGJvb2xlYW4gdGVzdEZvck51bGwoSW50ZWdlciBhLCBATnVsbGFibGUgSW50ZWdlciBiKSB7CiAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgfQoK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBSZXN1bHQgaW1wb3J0RXhjZWwoTXVsdGlwYXJ0RmlsZSBmaWxlKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBSZXN1bHQgaW1wb3J0RXhjZWwoTXVsdGlwYXJ0RmlsZSBmaWxlKSB7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action PreviousTab</text>
+        <text>action NextTab</text>
       </register>
     </registers>
     <search>
@@ -2242,8 +2241,8 @@
         <entry>action ReformatCode</entry>
         <entry>%s/.test p/h2</entry>
         <entry>q</entry>
-        <entry>action NextTab</entry>
         <entry>action PreviousTab</entry>
+        <entry>action NextTab</entry>
       </history-cmd>
       <history-expr />
       <history-input />
