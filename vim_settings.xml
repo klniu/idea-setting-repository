@@ -262,12 +262,6 @@
         <mark key="." line="100" column="17" />
         <mark key="^" line="100" column="17" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2e9c8649-18f5-43f9-a70d-cf6359de55b3/console.sql" timestamp="1528417793050">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="36" column="9" />
-        <mark key="^" line="36" column="9" />
-        <mark key="." line="36" column="9" />
-      </file>
       <file name="D:/code/web/voc-web/src/app/routes/ldar/component/component.service.ts" timestamp="1520759923462">
         <mark key="'" line="43" column="4" />
         <mark key="[" line="26" column="56" />
@@ -302,6 +296,12 @@
         <mark key="]" line="29" column="38" />
         <mark key="^" line="29" column="38" />
         <mark key="." line="29" column="38" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2e9c8649-18f5-43f9-a70d-cf6359de55b3/console.sql" timestamp="1528417793050">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="36" column="9" />
+        <mark key="^" line="36" column="9" />
+        <mark key="." line="36" column="9" />
       </file>
       <file name="D:/code/web/voc-web/src/app/routes/base/ldarsetting/finished.component.ts" timestamp="1520071978070">
         <mark key="'" line="11" column="16" />
@@ -832,12 +832,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/code/website/src/containers/Home/Home.js" timestamp="1528956415077">
+      <file name="$USER_HOME$/code/website/src/containers/Home/Home.js" timestamp="1530009025289">
         <mark key="'" line="20" column="77" />
-        <mark key="[" line="87" column="0" />
-        <mark key="]" line="87" column="44" />
-        <mark key="." line="117" column="0" />
-        <mark key="^" line="140" column="53" />
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="111" column="18" />
+        <mark key="." line="107" column="0" />
+        <mark key="^" line="84" column="53" />
       </file>
       <file name="D:/code/web/voc-web/src/app/app.module.ts" timestamp="1520151671972">
         <mark key="'" line="41" column="9" />
@@ -1015,6 +1015,12 @@
         <mark key="]" line="84" column="0" />
         <mark key="." line="84" column="0" />
         <mark key="^" line="84" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/website/src/containers/Home/style/pc.scss" timestamp="1530008573202">
+        <mark key="[" line="124" column="1" />
+        <mark key="]" line="124" column="0" />
+        <mark key="." line="124" column="0" />
+        <mark key="^" line="124" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1528418274456">
         <mark key="[" line="0" column="0" />
@@ -2045,7 +2051,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogCiAgICAgKiBAcGFyYW0gY29uZGl0aW9uCiAgICAgKiBAcGFyYW0gZGF0ZVJhbmdlCiAgICAgKiBAcGFyYW0gdmFsdWVSYW5nZQogICAgICogQHJldHVybgogICAgICovCg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPXtzdHlsZXMuZWZmZWN0fT4KICAgICAgICAgICAgPGltZyBzcmM9e2Fycm93fSBjbGFzc05hbWU9e3N0eWxlcy5sZWZ0SW1nfS8+CiAgICAgICAgICAgIDxpbWcgc3JjPXtjaXJjbGV9IGNsYXNzTmFtZT17c3R5bGVzLmNpcmxjZUltZ30vPgogICAgICAgICAgICA8aW1nIHNyYz17YXJyb3d9IGNsYXNzTmFtZT17W3N0eWxlcy5mbGlweCwgc3R5bGVzLnJpZ2h0SW1nXS5qb2luKCcgJyl9Lz4KICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2152,43 +2158,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>.test p</text>
       </register>
-      <register name="0" type="4">
-        <text>&quot;删除轮次时相关的文件删除失败&quot;</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IGFycm93ID0gcmVxdWlyZSgnLi9pbWFnZS93aGl0ZWFycm93LnN2ZycpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogCiAgICAgKiBAcGFyYW0gY29uZGl0aW9uCiAgICAgKiBAcGFyYW0gZGF0ZVJhbmdlCiAgICAgKiBAcGFyYW0gdmFsdWVSYW5nZQogICAgICogQHJldHVybgogICAgICovCg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPXtzdHlsZXMuZWZmZWN0fT4KICAgICAgICAgICAgPGltZyBzcmM9e2Fycm93fSBjbGFzc05hbWU9e3N0eWxlcy5sZWZ0SW1nfS8+CiAgICAgICAgICAgIDxpbWcgc3JjPXtjaXJjbGV9IGNsYXNzTmFtZT17c3R5bGVzLmNpcmxjZUltZ30vPgogICAgICAgICAgICA8aW1nIHNyYz17YXJyb3d9IGNsYXNzTmFtZT17W3N0eWxlcy5mbGlweCwgc3R5bGVzLnJpZ2h0SW1nXS5qb2luKCcgJyl9Lz4KICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGJvb2xlYW4gdGVzdEZvck51bGwoQE5vdE51bGwgSW50ZWdlciBhLCBATnVsbGFibGUgSW50ZWdlciBiKTsK</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIGJvb2xlYW4gdGVzdEZvck51bGwoSW50ZWdlciBhLCBATnVsbGFibGUgSW50ZWdlciBiKSB7CiAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgfQoK</text>
+        <text encoding="base64">ICAgICAgLmVmZmVjdCB7Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBtYXJnaW46IDAgYXV0bzsKICAgICAgICBwb3NpdGlvbjpyZWxhdGl2ZTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgLyrmsLTlubPnv7vovawqLwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBSZXN1bHQgaW1wb3J0RXhjZWwoTXVsdGlwYXJ0RmlsZSBmaWxlKSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action PreviousTab</text>
+        <text>action NextTab</text>
       </register>
     </registers>
     <search>
@@ -2239,11 +2245,11 @@
         <entry encoding="base64">JzwsJz5zL2Rpc3RhbmNlL2hlaWdodC9nYw==</entry>
         <entry>%s/return String.format/throw new InvalidDataException(String.format/gc</entry>
         <entry>w</entry>
-        <entry>action ReformatCode</entry>
         <entry>%s/.test p/h2</entry>
         <entry>q</entry>
-        <entry>action NextTab</entry>
         <entry>action PreviousTab</entry>
+        <entry>action ReformatCode</entry>
+        <entry>action NextTab</entry>
       </history-cmd>
       <history-expr />
       <history-input />
