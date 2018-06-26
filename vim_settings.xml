@@ -864,12 +864,12 @@
         <mark key="^" line="75" column="15" />
         <mark key="." line="75" column="21" />
       </file>
-      <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/TobeServiceImpl.java" timestamp="1529999264864">
-        <mark key="'" line="109" column="34" />
-        <mark key="[" line="129" column="56" />
-        <mark key="]" line="129" column="57" />
-        <mark key="^" line="129" column="57" />
-        <mark key="." line="129" column="57" />
+      <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/TobeServiceImpl.java" timestamp="1530004384750">
+        <mark key="'" line="111" column="34" />
+        <mark key="[" line="146" column="25" />
+        <mark key="]" line="146" column="27" />
+        <mark key="^" line="146" column="27" />
+        <mark key="." line="146" column="27" />
       </file>
       <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/IDetectionService.java" timestamp="1529896447203">
         <mark key="'" line="100" column="19" />
@@ -2046,7 +2046,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>背景值</text>
+        <text>测</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2153,7 +2153,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>背景值</text>
+        <text>测</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXR0aW5nXD4=</text>
@@ -2162,31 +2162,31 @@
         <text encoding="base64">ICAgICAgICAgICAgY2VsbHNbaisrXS5zZXRDZWxsVmFsdWUoc2VhbC5nZXRTZWFsQ2xhc3MoKSk7IC8vIOWvhuWwgeeCueWtkOexu+Weiwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBDZWxsU3R5bGUgY2VsbFN0eWxlMyA9IHJlZENlbGxTdHlsZSh3Yik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyDnuqLoibLlrZfkvZMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8g5qOA5rWL5pe26Ze0CiAgICAgICAgICAgIGNlbGxzW2orK10uc2V0Q2VsbFZhbHVlKERhdGVVdGlsLmdldEV4Y2VsRGF0ZShzZWFsLmdldFRpbWUoKSkpOwogICAgICAgICAgICBjZWxsc1tqLTFdLnNldENlbGxTdHlsZShjZWxsU3R5bGUyKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8g55So57qi6Imy5a2X5L2T6K2m56S6CiAgICAgICAgICAgIGlmIChzZWFsLmdldExlYWtpbmcoKSkgewogICAgICAgICAgICAgICAgY2VsbHNbai0xXS5zZXRDZWxsU3R5bGUoY2VsbFN0eWxlMyk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgY2VsbHNbaisrXS5zZXRDZWxsVmFsdWUoc2VhbC5nZXREZXZpY2VNb2RlbCgpKTsgLy8g5Luq5Zmo5Z6L5Y+3CiAgICAgICAgICAgIGNlbGxzW2orK10uc2V0Q2VsbFZhbHVlKHNlYWwuZ2V0RGV2aWNlTm8oKSk7IC8vIOS7quWZqOW6j+WPtwogICAgICAgICAgICBjZWxsc1tqKytdLnNldENlbGxWYWx1ZShzZWFsLmdldENvbXBhbnkoKSk7IC8vIOajgOa1i+WNleWFgwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDmo4DmtYvml7bpl7TmoLflvI8KICAgICAgICBDZWxsU3R5bGUgY2VsbFN0eWxlMiA9IGRhdGVDZWxsU3R5bGUod2IsICJZWVlZLU1NLWRkIEhIOm1tOnNzIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2VsbHNbaisrXS5zZXRDZWxsVmFsdWUoc2VhbC5nZXRTdGFuZGFyZCgpKTsgLy8g5qCH5YeG5YC8Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICog5qC55o2u5o+Q5L6b55qEc2VhbOaQnOe0ouadoeS7tuadpea3u+WKoFRvYmUKICAgICAqCiAgICAgKiBAcGFyYW0gc2VhcmNoZWQg5bim5pyJ5pCc57Si5p2h5Lu255qEc2VhbAogICAgICogQHJldHVybiDmmK/lkKbmt7vliqDmiJDlip8KICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2VsbHNbaisrXS5zZXRDZWxsVmFsdWUoTWF0aC5yb3VuZChzZWFsLmdldFZhbHVlKCkgKiAxMCkgLyAxMC4wKTsgLy8g5qOA5rWL5YC8Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBQYWdlPERldGVjdGlvbj4gZGV0ZWN0UGFnZSA9IHNlbGVjdFBhZ2UobmV3IFBhZ2U8PigxLCBJbnRlZ2VyLk1BWF9WQUxVRSksIGNvbmRpdGlvbiwgbnVsbCwgIGRhdGVSYW5nZSwgdmFsdWVSYW5nZSk7CiAgICAgICAgTGlzdDxEZXRlY3Rpb24+IGRldGVjdHMgPSBkZXRlY3RQYWdlLmdldFJlY29yZHMoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBQYWdlPFNlYWw+IHNlYWxQYWdlID0gZ2V0VG9iZVNlYWxzKG5ldyBQYWdlPD4oMSwgSW50ZWdlci5NQVhfVkFMVUUpLCBjb25kaXRpb24sIG51bGwpOwogICAgICAgIExpc3Q8U2VhbD4gc2VhbHMgPSBzZWFsUGFnZS5nZXRSZWNvcmRzKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8g5qOA5rWL5pe26Ze0CiAgICAgICAgICAgIGNlbGxzW2orK10uc2V0Q2VsbFZhbHVlKERhdGVVdGlsLmdldEV4Y2VsRGF0ZShzZWFsLmdldFRpbWUoKSkpOwogICAgICAgICAgICBjZWxsc1tqLTFdLnNldENlbGxTdHlsZShjZWxsU3R5bGUyKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoc2VhbHMuc2l6ZSgpID09IDApIHsKICAgICAgICAgICAgcmV0dXJuCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyDmo4DmtYvml7bpl7TmoLflvI8KICAgICAgICBDZWxsU3R5bGUgY2VsbFN0eWxlMiA9IGRhdGVDZWxsU3R5bGUod2IsICJZWVlZLU1NLWRkIEhIOm1tOnNzIik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
@@ -2199,7 +2199,7 @@
       <last-replace>h2</last-replace>
       <last-substitute>.test p</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
