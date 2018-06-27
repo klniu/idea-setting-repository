@@ -38,11 +38,11 @@
         <mark key="^" line="90" column="48" />
         <mark key="." line="90" column="48" />
       </file>
-      <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" timestamp="1530081948279">
-        <mark key="[" line="133" column="43" />
-        <mark key="]" line="133" column="54" />
-        <mark key="." line="133" column="56" />
-        <mark key="^" line="133" column="56" />
+      <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" timestamp="1530090966302">
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="." line="78" column="0" />
+        <mark key="^" line="237" column="63" />
       </file>
       <file name="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/FactoryServiceImplTest.java" timestamp="1523757478823">
         <mark key="'" line="164" column="98" />
@@ -363,11 +363,11 @@
         <mark key="." line="7" column="8" />
         <mark key="^" line="7" column="37" />
       </file>
-      <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/ComponentServiceImpl.java" timestamp="1530087947651">
+      <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/ComponentServiceImpl.java" timestamp="1530090841231">
         <mark key="'" line="193" column="28" />
-        <mark key="[" line="193" column="31" />
-        <mark key="]" line="193" column="36" />
-        <mark key="." line="193" column="36" />
+        <mark key="[" line="192" column="0" />
+        <mark key="]" line="192" column="0" />
+        <mark key="." line="192" column="0" />
         <mark key="^" line="193" column="36" />
       </file>
       <file name="$USER_HOME$/code/website/src/routes.js" timestamp="1528892260286">
@@ -927,8 +927,10 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530086951547">
+      <file name="/Dummy.txt" timestamp="1530090973660">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/website/src/containers/Home/components/Div1/Div1.js" timestamp="1528895170704">
         <mark key="'" line="4" column="62" />
@@ -1051,9 +1053,9 @@
         <mark key="." line="31" column="18" />
         <mark key="^" line="31" column="18" />
       </file>
-      <file name="$USER_HOME$/code/voc/src/test/java/com/cnvoc/voc/service/impl/SealServiceImplTest.java" timestamp="1530081990298">
+      <file name="$USER_HOME$/code/voc/src/test/java/com/cnvoc/voc/service/impl/SealServiceImplTest.java" timestamp="1530090948746">
         <mark key="'" line="420" column="35" />
-        <mark key="[" line="421" column="95" />
+        <mark key="[" line="349" column="82" />
         <mark key="]" line="421" column="109" />
         <mark key="." line="421" column="109" />
         <mark key="^" line="421" column="109" />
@@ -1562,12 +1564,12 @@
         <mark key="]" line="161" column="0" />
         <mark key="." line="161" column="0" />
       </file>
-      <file name="$USER_HOME$/code/voc/src/test/java/com/cnvoc/voc/service/impl/ComponentServiceImplTest.java" timestamp="1530089691148">
+      <file name="$USER_HOME$/code/voc/src/test/java/com/cnvoc/voc/service/impl/ComponentServiceImplTest.java" timestamp="1530090799101">
         <mark key="'" line="341" column="39" />
-        <mark key="[" line="337" column="37" />
-        <mark key="]" line="337" column="53" />
-        <mark key="^" line="337" column="53" />
-        <mark key="." line="337" column="53" />
+        <mark key="[" line="342" column="45" />
+        <mark key="]" line="343" column="15" />
+        <mark key="^" line="343" column="15" />
+        <mark key="." line="343" column="15" />
       </file>
       <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/entity/DelayRepair.java" timestamp="1530084205076">
         <mark key="[" line="64" column="33" />
@@ -2066,7 +2068,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>componentMapper</text>
+        <text>Component</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2173,7 +2175,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>componentMapper</text>
+        <text>Component</text>
       </register>
       <register name="/" type="4">
         <text>.test p</text>
@@ -2182,31 +2184,31 @@
         <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoMTAwMDAxLjAsIGRlbGF5cy5nZXRSZWNvcmRzKCkuZ2V0KDApLmdldFZhbHVlKCksIDAuMSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29tLnNldFRhZygpOwo=</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgSVVzZXJTZXJ2aWNlIGlVc2VyU2VydmljZTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PENvbXBvbm5ldD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlYWwuc2V0VGFnKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB1cGRhdGVGb3JTZXQoKQo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAvLyBAVE9ETyDlj6rmm7TmlrB0YWfvvIzkuI3mm7TmlrDlhbbku5blrZfmrrUK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29tLnNldFRhZygpOwo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PENvbXBvbm5ldD4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBQb3N0TWFwcGluZygiL2ltcG9ydCIpCiAgICBwdWJsaWMgUmVzdWx0IGltcG9ydEV4Y2VsKE11bHRpcGFydEZpbGUgZmlsZSkgewogICAgICAgIC8vIFRPRE86IDIwMTgvMS84CiAgICAgICAgcmV0dXJuIFJlc3VsdC5TVUNDRVNTOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICB1cGRhdGVGb3JTZXQoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgSURldGVjdGlvblNlcnZpY2UgaURldGVjdGlvblNlcnZpY2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBAVE9ETyDlj6rmm7TmlrB0YWfvvIzkuI3mm7TmlrDlhbbku5blrZfmrrUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgYXNzZXJ0RXF1YWxzKCLnrqHnkIbljZXlhYMxIiwgcm93LmdldENlbGwoY2VsbE51bSsrKS5nZXRTdHJpbmdDZWxsVmFsdWUoKSk7CiAgICAgICAgYXNzZXJ0RXF1YWxzKCLngrzliLboo4Xnva4xIiwgcm93LmdldENlbGwoY2VsbE51bSsrKS5nZXRTdHJpbmdDZWxsVmFsdWUoKSk7CiAgICAgICAgYXNzZXJ0RXF1YWxzKCIwMTAxMDAwMDEwR1YwMSIsIHJvdy5nZXRDZWxsKGNlbGxOdW0rKykuZ2V0U3RyaW5nQ2VsbFZhbHVlKCkpOwogICAgICAgIGFzc2VydEVxdWFscygi6ZiA6ZeoIiwgcm93LmdldENlbGwoY2VsbE51bSsrKS5nZXRTdHJpbmdDZWxsVmFsdWUoKSk7CiAgICAgICAgYXNzZXJ0RXF1YWxzKCLmsJTkvZMiLCByb3cuZ2V0Q2VsbChjZWxsTnVtKyspLmdldFN0cmluZ0NlbGxWYWx1ZSgpKTsKICAgICAgICBhc3NlcnRFcXVhbHMoIjIwMTgtMDYtMDIgMDg6MDA6MDAiLCBuZXcgU2ltcGxlRGF0ZUZvcm1hdCgKICAgICAgICAgICAgICAgICJZWVlZLU1NLWRkIEhIOm1tOnNzIikuZm9ybWF0KHJvdy5nZXRDZWxsKGNlbGxOdW0rKykuZ2V0RGF0ZUNlbGxWYWx1ZSgpKSk7CiAgICAgICAgYXNzZXJ0RXF1YWxzKDEwMDAxLCByb3cuZ2V0Q2VsbChjZWxsTnVtKyspLmdldE51bWVyaWNDZWxsVmFsdWUoKSwgMWUtMSk7CiAgICAgICAgYXNzZXJ0RXF1YWxzKDUwMCwgKGludCkgcm93LmdldENlbGwoY2VsbE51bSsrKS5nZXROdW1lcmljQ2VsbFZhbHVlKCkpOwogICAgICAgIGFzc2VydEVxdWFscygiMjAxOC0wNi0wNiIsIG5ldyBTaW1wbGVEYXRlRm9ybWF0KAogICAgICAgICAgICAgICAgIllZWVktTU0tZGQiKS5mb3JtYXQocm93LmdldENlbGwoY2VsbE51bSsrKS5nZXREYXRlQ2VsbFZhbHVlKCkpKTsKICAgICAgICBhc3NlcnRFcXVhbHMoIuS4jeaDs+e7tOS/ruS6hiIsIHJvdy5nZXRDZWxsKGNlbGxOdW0rKykuZ2V0U3RyaW5nQ2VsbFZhbHVlKCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoIueuoeeQhuWNleWFgzEiLCByb3cuZ2V0Q2VsbChjZWxsTnVtKyspLmdldFN0cmluZ0NlbGxWYWx1ZSgpKTsKICAgICAgICBhc3NlcnRFcXVhbHMoIueCvOWItuijhee9rjEiLCByb3cuZ2V0Q2VsbChjZWxsTnVtKyspLmdldFN0cmluZ0NlbGxWYWx1ZSgpKTsKICAgICAgICBhc3NlcnRFcXVhbHMoIjAxMDEwMDAwMTBHVjAxIiwgcm93LmdldENlbGwoY2VsbE51bSsrKS5nZXRTdHJpbmdDZWxsVmFsdWUoKSk7CiAgICAgICAgYXNzZXJ0RXF1YWxzKCLpmIDpl6giLCByb3cuZ2V0Q2VsbChjZWxsTnVtKyspLmdldFN0cmluZ0NlbGxWYWx1ZSgpKTsKICAgICAgICBhc3NlcnRFcXVhbHMoIuawlOS9kyIsIHJvdy5nZXRDZWxsKGNlbGxOdW0rKykuZ2V0U3RyaW5nQ2VsbFZhbHVlKCkpOwogICAgICAgIGFzc2VydEVxdWFscygiMjAxNy0xMS0wMSAwODowMDowMCIsIG5ldyBTaW1wbGVEYXRlRm9ybWF0KAogICAgICAgICAgICAgICAgIllZWVktTU0tZGQgSEg6bW06c3MiKS5mb3JtYXQocm93LmdldENlbGwoY2VsbE51bSsrKS5nZXREYXRlQ2VsbFZhbHVlKCkpKTsKICAgICAgICBhc3NlcnRFcXVhbHMoNTAwLCByb3cuZ2V0Q2VsbChjZWxsTnVtKyspLmdldE51bWVyaWNDZWxsVmFsdWUoKSwgMWUtMSk7CiAgICAgICAgYXNzZXJ0RXF1YWxzKDUwMCwgKGludCkgcm93LmdldENlbGwoY2VsbE51bSsrKS5nZXROdW1lcmljQ2VsbFZhbHVlKCkpOwogICAgICAgIGFzc2VydEVxdWFscygiMjAxNy0xMi0wNSIsIG5ldyBTaW1wbGVEYXRlRm9ybWF0KAogICAgICAgICAgICAgICAgIllZWVktTU0tZGQiKS5mb3JtYXQocm93LmdldENlbGwoY2VsbE51bSsrKS5nZXREYXRlQ2VsbFZhbHVlKCkpKTsKICAgICAgICBhc3NlcnRFcXVhbHMoIuS4i+asoee7tOS/riIsIHJvdy5nZXRDZWxsKGNlbGxOdW0rKykuZ2V0U3RyaW5nQ2VsbFZhbHVlKCkpOwoK</text>
+        <text encoding="base64">ICAgIEBQb3N0TWFwcGluZygiL2ltcG9ydCIpCiAgICBwdWJsaWMgUmVzdWx0IGltcG9ydEV4Y2VsKE11bHRpcGFydEZpbGUgZmlsZSkgewogICAgICAgIC8vIFRPRE86IDIwMTgvMS84CiAgICAgICAgcmV0dXJuIFJlc3VsdC5TVUNDRVNTOwogICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>action NextTab</text>
