@@ -280,12 +280,6 @@
         <mark key="." line="100" column="17" />
         <mark key="^" line="100" column="17" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2e9c8649-18f5-43f9-a70d-cf6359de55b3/console.sql" timestamp="1530081351027">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="8" column="14" />
-        <mark key="^" line="8" column="14" />
-        <mark key="." line="8" column="14" />
-      </file>
       <file name="D:/code/web/voc-web/src/app/routes/ldar/component/component.service.ts" timestamp="1520759923462">
         <mark key="'" line="43" column="4" />
         <mark key="[" line="26" column="56" />
@@ -1568,12 +1562,12 @@
         <mark key="]" line="161" column="0" />
         <mark key="." line="161" column="0" />
       </file>
-      <file name="$USER_HOME$/code/voc/src/test/java/com/cnvoc/voc/service/impl/ComponentServiceImplTest.java" timestamp="1528265482685">
-        <mark key="'" line="73" column="28" />
-        <mark key="[" line="426" column="8" />
-        <mark key="]" line="426" column="10" />
-        <mark key="^" line="426" column="10" />
-        <mark key="." line="426" column="10" />
+      <file name="$USER_HOME$/code/voc/src/test/java/com/cnvoc/voc/service/impl/ComponentServiceImplTest.java" timestamp="1530089691148">
+        <mark key="'" line="341" column="39" />
+        <mark key="[" line="337" column="37" />
+        <mark key="]" line="337" column="53" />
+        <mark key="^" line="337" column="53" />
+        <mark key="." line="337" column="53" />
       </file>
       <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/entity/DelayRepair.java" timestamp="1530084205076">
         <mark key="[" line="64" column="33" />
@@ -1949,7 +1943,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="33" filename="$USER_HOME$/code/lkc_website/src/helpers/Html.js" />
       <jump line="166" column="61" filename="$USER_HOME$/code/lkc_website/src/server.js" />
       <jump line="23" column="86" filename="$USER_HOME$/code/lkc_website/bin/server.js" />
       <jump line="111" column="0" filename="$USER_HOME$/code/lkc_website/static/css/career.css" />
@@ -2049,6 +2042,7 @@
       <jump line="298" column="34" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.baomidou/mybatis-plus-support/2.3/2ca6af2ac631b5a3c59b3aed3311c5c87006e663/mybatis-plus-support-2.3-sources.jar!/com/baomidou/mybatisplus/service/impl/ServiceImpl.java" />
       <jump line="190" column="28" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/ComponentServiceImpl.java" />
       <jump line="310" column="26" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.baomidou/mybatis-plus-support/2.3/2ca6af2ac631b5a3c59b3aed3311c5c87006e663/mybatis-plus-support-2.3-sources.jar!/com/baomidou/mybatisplus/service/impl/ServiceImpl.java" />
+      <jump line="341" column="39" filename="$USER_HOME$/code/voc/src/test/java/com/cnvoc/voc/service/impl/ComponentServiceImplTest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2072,7 +2066,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>components.stream().map(Component::getTag).collect()</text>
+        <text>componentMapper</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2179,7 +2173,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>components.stream().map(Component::getTag).collect()</text>
+        <text>componentMapper</text>
       </register>
       <register name="/" type="4">
         <text>.test p</text>
