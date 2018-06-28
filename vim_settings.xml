@@ -263,8 +263,8 @@
         <mark key="." line="32" column="14" />
         <mark key="^" line="32" column="14" />
       </file>
-      <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/DetectionServiceImpl.java" timestamp="1530167417359">
-        <mark key="'" line="508" column="0" />
+      <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/DetectionServiceImpl.java" timestamp="1530168608537">
+        <mark key="'" line="380" column="84" />
         <mark key="[" line="380" column="84" />
         <mark key="]" line="380" column="84" />
         <mark key="." line="380" column="84" />
@@ -553,6 +553,13 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/mapper/DetectionMapper.java" timestamp="1530168657449">
+        <mark key="'" line="26" column="25" />
+        <mark key="[" line="26" column="26" />
+        <mark key="]" line="26" column="25" />
+        <mark key="^" line="26" column="25" />
+        <mark key="." line="26" column="25" />
       </file>
       <file name="$USER_HOME$/code/voc/src/main/resources/mapper/DetectionMapper.xml" timestamp="1527584792344">
         <mark key="'" line="68" column="19" />
@@ -1217,11 +1224,11 @@
         <mark key="]" line="157" column="0" />
         <mark key="." line="157" column="0" />
       </file>
-      <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/IRepairService.java" timestamp="1530151142247">
-        <mark key="[" line="82" column="4" />
-        <mark key="]" line="82" column="6" />
-        <mark key="^" line="82" column="6" />
-        <mark key="." line="82" column="6" />
+      <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/IRepairService.java" timestamp="1530169992600">
+        <mark key="[" line="80" column="15" />
+        <mark key="]" line="80" column="32" />
+        <mark key="^" line="80" column="32" />
+        <mark key="." line="80" column="32" />
       </file>
       <file name="D:/code/java/voc/src/main/resources/mapper/DetectionMapper.xml" timestamp="1523609933364">
         <mark key="'" line="9" column="21" />
@@ -1689,12 +1696,12 @@
         <mark key="^" line="49" column="50" />
         <mark key="." line="49" column="50" />
       </file>
-      <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/RepairServiceImpl.java" timestamp="1530167454961">
-        <mark key="'" line="232" column="8" />
-        <mark key="[" line="335" column="26" />
-        <mark key="]" line="335" column="27" />
-        <mark key="^" line="335" column="25" />
-        <mark key="." line="335" column="27" />
+      <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/RepairServiceImpl.java" timestamp="1530170210663">
+        <mark key="'" line="376" column="7" />
+        <mark key="[" line="220" column="42" />
+        <mark key="]" line="220" column="41" />
+        <mark key="." line="220" column="41" />
+        <mark key="^" line="220" column="41" />
       </file>
       <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/entity/Component.java" timestamp="1524039552858">
         <mark key="'" line="76" column="0" />
@@ -1925,17 +1932,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="32" filename="$USER_HOME$/code/lkc_website/src/components/Navigation/Navigation.js" />
-      <jump line="19" column="23" filename="$USER_HOME$/code/lkc_website/src/components/Navigation/Navigation.js" />
-      <jump line="220" column="16" filename="$USER_HOME$/code/lkc_website/src/redux/modules/auth.js" />
-      <jump line="132" column="98" filename="$USER_HOME$/code/lkc_website/src/components/Navigation/Navigation.js" />
-      <jump line="126" column="35" filename="$USER_HOME$/code/lkc_website/src/components/Navigation/Navigation.js" />
-      <jump line="124" column="17" filename="$USER_HOME$/code/lkc_website/src/containers/Home/style/pc.scss" />
-      <jump line="204" column="7" filename="$USER_HOME$/code/lkc_website/src/containers/Home/style/pc.scss" />
-      <jump line="264" column="4" filename="$USER_HOME$/code/lkc_website/src/containers/Home/style/pc.scss" />
-      <jump line="265" column="3" filename="$USER_HOME$/code/lkc_website/src/containers/Home/style/pc.scss" />
-      <jump line="274" column="3" filename="$USER_HOME$/code/lkc_website/src/containers/Home/style/pc.scss" />
-      <jump line="287" column="3" filename="$USER_HOME$/code/lkc_website/src/containers/Home/style/pc.scss" />
       <jump line="104" column="35" filename="$USER_HOME$/code/lkc_website/src/containers/Home/Home.js" />
       <jump line="307" column="3" filename="$USER_HOME$/code/lkc_website/src/containers/Home/style/mobile.scss" />
       <jump line="138" column="38" filename="$USER_HOME$/code/lkc_website/src/components/Navigation/Navigation.js" />
@@ -2019,12 +2015,23 @@
       <jump line="310" column="26" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.baomidou/mybatis-plus-support/2.3/2ca6af2ac631b5a3c59b3aed3311c5c87006e663/mybatis-plus-support-2.3-sources.jar!/com/baomidou/mybatisplus/service/impl/ServiceImpl.java" />
       <jump line="341" column="39" filename="$USER_HOME$/code/voc/src/test/java/com/cnvoc/voc/service/impl/ComponentServiceImplTest.java" />
       <jump line="204" column="30" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/RepairServiceImpl.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/RepairServiceImpl.java" />
       <jump line="307" column="23" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/RepairServiceImpl.java" />
       <jump line="299" column="24" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/RepairServiceImpl.java" />
       <jump line="247" column="50" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/RepairServiceImpl.java" />
       <jump line="322" column="26" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/RepairServiceImpl.java" />
       <jump line="232" column="8" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/RepairServiceImpl.java" />
+      <jump line="380" column="84" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/DetectionServiceImpl.java" />
+      <jump line="26" column="25" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/mapper/DetectionMapper.java" />
+      <jump line="72" column="42" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/RepairServiceImpl.java" />
+      <jump line="351" column="25" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/RepairServiceImpl.java" />
+      <jump line="71" column="27" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/RepairServiceImpl.java" />
+      <jump line="413" column="0" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/RepairServiceImpl.java" />
+      <jump line="369" column="14" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/RepairServiceImpl.java" />
+      <jump line="463" column="0" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/RepairServiceImpl.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/RepairServiceImpl.java" />
+      <jump line="367" column="18" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/RepairServiceImpl.java" />
+      <jump line="373" column="7" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/RepairServiceImpl.java" />
+      <jump line="81" column="50" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/RepairServiceImpl.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2047,8 +2054,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>测</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2155,43 +2162,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>测</text>
+        <text>repairs</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxPdXRlclw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjYXNlIDQ6CiAgICAgICAgICAgICAgICAgICAgICAgIHJlcGFpci5zZXREZXZpY2VNb2RlbChDZWxsVmFsdWUucyhjZWxsKSk7CiAgICAgICAgICAgICAgICAgICAgICAgIGlmIChyZXBhaXIuZ2V0RGV2aWNlTW9kZWwoKSA9PSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aHJvdyBuZXcgSW52YWxpZERhdGFFeGNlcHRpb24oU3RyaW5nLmZvcm1hdCgi56ysJWTooYzvvJrml6DmlYjnmoTku6rlmajlnovlj7ciLCBpICsgMSkpOwogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgSUxkYXJTZXR0aW5nU2VydmljZSBpTGRhclNldHRpbmdTZXJ2aWNlOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGVsYXkuc2V0VGltZShkZXRlY3QuZ2V0VGltZSgpKTsK</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVsYXkuc2V0VmFsdWUoZGV0ZWN0LmdldFZhbHVlKCkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICYmIGRlbGF5LmdldERlbGF5VGltZSgpID09IG51bGwpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVsYXkuc2V0U2VydmljZShkZXRlY3QuZ2V0U2VydmljZSgpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVsYXkuc2V0U2VhbFR5cGUoZGV0ZWN0LmdldFNlYWxUeXBlKCkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVwYWlyLnNldFRpbWUodGltZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVsYXkuc2V0VGFnKGRldGVjdC5nZXRUYWcoKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVwYWlyLnNldFRhZyh0YWcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVsYXkuc2V0U3RhbmRhcmQoZGV0ZWN0LmdldFN0YW5kYXJkKCkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGFnID0gCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVsYXkuc2V0VHVybklkKGRldGVjdC5nZXRUdXJuSWQoKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVsYXkuc2V0SW5zdGFsbElkKGRldGVjdC5nZXRJbnN0YWxsSWQoKSk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action PreviousTab</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
@@ -2242,11 +2249,11 @@
         <entry>w</entry>
         <entry>%s/.test p/h2</entry>
         <entry>q</entry>
-        <entry>action ReformatCode</entry>
         <entry>action Back</entry>
         <entry>action NextTab</entry>
         <entry encoding="base64">JzwsJz5zL2RldGVjdC9yZXBhaXIvZ2M=</entry>
         <entry>action PreviousTab</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
