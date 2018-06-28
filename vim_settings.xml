@@ -263,10 +263,10 @@
         <mark key="." line="32" column="14" />
         <mark key="^" line="32" column="14" />
       </file>
-      <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/DetectionServiceImpl.java" timestamp="1530065886368">
+      <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/DetectionServiceImpl.java" timestamp="1530151158809">
         <mark key="'" line="508" column="0" />
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="75" column="51" />
+        <mark key="[" line="314" column="0" />
+        <mark key="]" line="400" column="29" />
         <mark key="." line="514" column="21" />
         <mark key="^" line="514" column="21" />
       </file>
@@ -1117,9 +1117,9 @@
         <mark key="^" line="43" column="19" />
         <mark key="." line="43" column="28" />
       </file>
-      <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/ISealService.java" timestamp="1529896611206">
-        <mark key="[" line="46" column="51" />
-        <mark key="]" line="46" column="59" />
+      <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/ISealService.java" timestamp="1530150910347">
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="113" column="58" />
         <mark key="^" line="46" column="59" />
         <mark key="." line="46" column="59" />
       </file>
@@ -1217,11 +1217,11 @@
         <mark key="]" line="157" column="0" />
         <mark key="." line="157" column="0" />
       </file>
-      <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/IRepairService.java" timestamp="1530148367276">
-        <mark key="[" line="74" column="17" />
-        <mark key="]" line="74" column="28" />
-        <mark key="^" line="74" column="28" />
-        <mark key="." line="74" column="28" />
+      <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/IRepairService.java" timestamp="1530151142247">
+        <mark key="[" line="82" column="4" />
+        <mark key="]" line="82" column="6" />
+        <mark key="^" line="82" column="6" />
+        <mark key="." line="82" column="6" />
       </file>
       <file name="D:/code/java/voc/src/main/resources/mapper/DetectionMapper.xml" timestamp="1523609933364">
         <mark key="'" line="9" column="21" />
@@ -1689,12 +1689,12 @@
         <mark key="^" line="49" column="50" />
         <mark key="." line="49" column="50" />
       </file>
-      <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/RepairServiceImpl.java" timestamp="1530083502318">
-        <mark key="'" line="103" column="40" />
-        <mark key="[" line="110" column="0" />
-        <mark key="]" line="198" column="19" />
-        <mark key="^" line="174" column="56" />
-        <mark key="." line="174" column="56" />
+      <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/RepairServiceImpl.java" timestamp="1530151210779">
+        <mark key="'" line="208" column="30" />
+        <mark key="[" line="220" column="50" />
+        <mark key="]" line="220" column="51" />
+        <mark key="." line="220" column="51" />
+        <mark key="^" line="217" column="43" />
       </file>
       <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/entity/Component.java" timestamp="1524039552858">
         <mark key="'" line="76" column="0" />
@@ -1925,8 +1925,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="166" column="61" filename="$USER_HOME$/code/lkc_website/src/server.js" />
-      <jump line="23" column="86" filename="$USER_HOME$/code/lkc_website/bin/server.js" />
       <jump line="111" column="0" filename="$USER_HOME$/code/lkc_website/static/css/career.css" />
       <jump line="17" column="17" filename="$USER_HOME$/code/lkc_website/static/css/career.css" />
       <jump line="20" column="77" filename="$USER_HOME$/code/website/src/containers/Home/Home.js" />
@@ -2025,6 +2023,8 @@
       <jump line="190" column="28" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/ComponentServiceImpl.java" />
       <jump line="310" column="26" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.baomidou/mybatis-plus-support/2.3/2ca6af2ac631b5a3c59b3aed3311c5c87006e663/mybatis-plus-support-2.3-sources.jar!/com/baomidou/mybatisplus/service/impl/ServiceImpl.java" />
       <jump line="341" column="39" filename="$USER_HOME$/code/voc/src/test/java/com/cnvoc/voc/service/impl/ComponentServiceImplTest.java" />
+      <jump line="204" column="30" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/RepairServiceImpl.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/RepairServiceImpl.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2047,8 +2047,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">LS0gQFRPRE8g5LyY5YyW57Si5byVCg==</text>
+      <register name="&quot;" type="4">
+        <text>测</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2155,43 +2155,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Component</text>
+        <text>测</text>
       </register>
       <register name="/" type="4">
         <text>.test p</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoMTAwMDAxLjAsIGRlbGF5cy5nZXRSZWNvcmRzKCkuZ2V0KDApLmdldFZhbHVlKCksIDAuMSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZmFjdG9yeUlkID09IG51bGwgfHwgdHVybklkID09IG51bGwpIHsKICAgICAgICAgICAgdGhyb3cgbmV3IEludmFsaWREYXRhRXhjZXB0aW9uKCLml6DmlYjor7fmsYIiKTsKICAgICAgICB9CiAgICAgICAgU2hlZXQgc2hlZXQ7CiAgICAgICAgdHJ5IHsKICAgICAgICAgICAgc2hlZXQgPSBXb3JrYm9va0ZhY3RvcnkuY3JlYXRlKGZpbGUuZ2V0SW5wdXRTdHJlYW0oKSkuZ2V0U2hlZXRBdCgwKTsKICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGxvZy5lcnJvcigi6K+75Y+W5qOA5rWL6K6w5b2V5aSx6LSlIiwgRXhjZXB0aW9uVXRpbHMuZ2V0U3RhY2tUcmFjZShlKSk7CiAgICAgICAgICAgIHRocm93IG5ldyBTZXJ2ZUZpbGVFeGNlcHRpb24oIuajgOa1i+iusOW9leivu+WPlumUmeivr++8jOivt+mHjeivlSIpOwogICAgICAgIH0gY2F0Y2ggKEludmFsaWRGb3JtYXRFeGNlcHRpb24gZSkgewogICAgICAgICAgICB0aHJvdyBuZXcgSW52YWxpZERhdGFFeGNlcHRpb24oIuaXoOaViOeahOaWh+S7tuagvOW8j++8jOivt+S4iuS8oHhsc3jmiJZ4bHPmlofku7YiKTsKICAgICAgICB9CiAgICAgICAgTGlzdDxEZXRlY3Rpb24+IGRldGVjdHMgPSBuZXcgQXJyYXlMaXN0PD4oNTAwKTsKICAgICAgICBpbnQgbGFzdFJvd051bSA9IHNoZWV0LmdldExhc3RSb3dOdW0oKTsKICAgICAgICAvLyDot7Pov4fmoIfpopjooYwKICAgICAgICBPdXRlcjoKICAgICAgICBmb3IgKGludCBpID0gMTsgaSA8PSBsYXN0Um93TnVtOyBpKyspIHsKICAgICAgICAgICAgUm93IHJvdyA9IHNoZWV0LmdldFJvdyhpKTsKICAgICAgICAgICAgRGV0ZWN0aW9uIGRldGVjdCA9IG5ldyBEZXRlY3Rpb24oKS5zZXRGYWN0b3J5SWQoZmFjdG9yeUlkKS5zZXRUdXJuSWQodHVybklkKTsKICAgICAgICAgICAgZm9yIChpbnQgaiA9IDA7IGogPCByb3cuZ2V0TGFzdENlbGxOdW0oKTsgaisrKSB7CiAgICAgICAgICAgICAgICBDZWxsIGNlbGwgPSByb3cuZ2V0Q2VsbChqKTsKICAgICAgICAgICAgICAgIHN3aXRjaCAoaikgewogICAgICAgICAgICAgICAgICAgIGNhc2UgMDoKICAgICAgICAgICAgICAgICAgICAgICAgZGV0ZWN0LnNldFRhZyhDZWxsVmFsdWUucyhjZWxsKSk7CiAgICAgICAgICAgICAgICAgICAgICAgIGlmIChkZXRlY3QuZ2V0VGFnKCkgPT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgLy8g5aaC5p6c5a+G5bCB54K557yW5Y+35pivbnVsbO+8jOivtOaYjuWNleWFg+agvOS4jeS4uuepuu+8jOS4lOS4jeaYr+Wtl+espuS4sgogICAgICAgICAgICAgICAgICAgICAgICAgICAgdGhyb3cgbmV3IEludmFsaWREYXRhRXhjZXB0aW9uKFN0cmluZy5mb3JtYXQoIuesrCVk6KGM77ya5peg5pWI55qE5a+G5bCB54K557yW5Y+3IiwgaSArIDEpKTsKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICBpZiAoZGV0ZWN0LmdldFRhZygpLmlzRW1wdHkoKSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgLy8g5aaC5p6c5a+G5bCB54K557yW5Y+35Li656m677yM6K6k5Li65q2k6KGM5Li656m66KGM77yM6Lez5Yiw5LiL5LiA6KGMCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb250aW51ZSBPdXRlcjsKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgICAgICBjYXNlIDE6CiAgICAgICAgICAgICAgICAgICAgICAgIGRldGVjdC5zZXRUaW1lKENlbGxWYWx1ZS5kYXRlKGNlbGwpKTsKICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGRldGVjdC5nZXRUaW1lKCkgPT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgdGhyb3cgbmV3IEludmFsaWREYXRhRXhjZXB0aW9uKFN0cmluZy5mb3JtYXQoIuesrCVk6KGM77ya5peg5pWI55qE5qOA5rWL5pe26Ze0IiwgaSArIDEpKTsKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAvLyDliKTmlq3mo4DmtYvml7bpl7TmnInmlYjmgKcKICAgICAgICAgICAgICAgICAgICAgICAgRGF0ZSBsb3dlciA9IG5ldyBHcmVnb3JpYW5DYWxlbmRhcigyMDA0LCAwLCAxKS5nZXRUaW1lKCk7CiAgICAgICAgICAgICAgICAgICAgICAgIERhdGUgdXBwZXIgPSBuZXcgRGF0ZSgpOwogICAgICAgICAgICAgICAgICAgICAgICBpZiAoZGV0ZWN0LmdldFRpbWUoKS5iZWZvcmUobG93ZXIpIHx8IGRldGVjdC5nZXRUaW1lKCkuYWZ0ZXIodXBwZXIpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aHJvdyBuZXcgSW52YWxpZERhdGFFeGNlcHRpb24oU3RyaW5nLmZvcm1hdCgi56ysJWTooYzvvJrmo4DmtYvml7bpl7TkuI3lnKjmnInmlYjojIPlm7TlhoUiLCBpICsgMSkpOwogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgICAgIGNhc2UgMjoKICAgICAgICAgICAgICAgICAgICAgICAgZGV0ZWN0LnNldEJhY2tncm91bmQoQ2VsbFZhbHVlLmQoY2VsbCkpOwogICAgICAgICAgICAgICAgICAgICAgICBpZiAoZGV0ZWN0LmdldEJhY2tncm91bmQoKSA9PSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aHJvdyBuZXcgSW52YWxpZERhdGFFeGNlcHRpb24oU3RyaW5nLmZvcm1hdCgi56ysJWTooYzvvJrml6DmlYjnmoTmo4DmtYvog4zmma/lgLwiLCBpICsgMSkpOwogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgICAgIGNhc2UgMzoKICAgICAgICAgICAgICAgICAgICAgICAgZGV0ZWN0LnNldFZhbHVlKENlbGxWYWx1ZS5kKGNlbGwpKTsKICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGRldGVjdC5nZXRCYWNrZ3JvdW5kKCkgPT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgdGhyb3cgbmV3IEludmFsaWREYXRhRXhjZXB0aW9uKFN0cmluZy5mb3JtYXQoIuesrCVk6KGM77ya5peg5pWI55qE5qOA5rWL5YC8IiwgaSArIDEpKTsKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgICAgICBjYXNlIDQ6CiAgICAgICAgICAgICAgICAgICAgICAgIGRldGVjdC5zZXREZXZpY2VNb2RlbChDZWxsVmFsdWUucyhjZWxsKSk7CiAgICAgICAgICAgICAgICAgICAgICAgIGlmIChkZXRlY3QuZ2V0RGV2aWNlTW9kZWwoKSA9PSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aHJvdyBuZXcgSW52YWxpZERhdGFFeGNlcHRpb24oU3RyaW5nLmZvcm1hdCgi56ysJWTooYzvvJrml6DmlYjnmoTku6rlmajlnovlj7ciLCBpICsgMSkpOwogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgICAgIGNhc2UgNToKICAgICAgICAgICAgICAgICAgICAgICAgZGV0ZWN0LnNldERldmljZU5vKENlbGxWYWx1ZS5zKGNlbGwpKTsKICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGRldGVjdC5nZXREZXZpY2VObygpID09IG51bGwpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRocm93IG5ldyBJbnZhbGlkRGF0YUV4Y2VwdGlvbihTdHJpbmcuZm9ybWF0KCLnrKwlZOihjO+8muaXoOaViOeahOS7quWZqOWei+WPtyIsIGkgKyAxKSk7CiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgICAgICAgICAgY2FzZSA2OgogICAgICAgICAgICAgICAgICAgICAgICBkZXRlY3Quc2V0Q29tcGFueShDZWxsVmFsdWUucyhjZWxsKSk7CiAgICAgICAgICAgICAgICAgICAgICAgIGlmIChkZXRlY3QuZ2V0Q29tcGFueSgpID09IG51bGwpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRocm93IG5ldyBJbnZhbGlkRGF0YUV4Y2VwdGlvbihTdHJpbmcuZm9ybWF0KCLnrKwlZOihjO+8muaXoOaViOeahOajgOa1i+WNleS9jSIsIGkgKyAxKSk7CiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgICAgICAgICAgY2FzZSA3OgogICAgICAgICAgICAgICAgICAgICAgICBkZXRlY3Quc2V0UGVyc29ucyhDZWxsVmFsdWUucyhjZWxsKSk7CiAgICAgICAgICAgICAgICAgICAgICAgIGlmIChkZXRlY3QuZ2V0UGVyc29ucygpID09IG51bGwpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRocm93IG5ldyBJbnZhbGlkRGF0YUV4Y2VwdGlvbihTdHJpbmcuZm9ybWF0KCLnrKwlZOihjO+8muaXoOaViOeahOajgOa1i+S6uuWRmCIsIGkgKyAxKSk7CiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICAgICAgZGV0ZWN0cy5hZGQoZGV0ZWN0KTsKICAgICAgICB9CiAgICAgICAgZGV0ZWN0aW9uTWFwcGVyLmluc2VydEJhdGNoKGRldGVjdHMpOwogICAgICAgIHJldHVybiBkZXRlY3RzLnNpemUoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LS0gQFRPRE8g5LyY5YyW57Si5byVCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LS0gQFRPRE8g6L+b6KGM5YWo6KGo5oCn6IO95YiG5p6Q77yMZXhwbGFpbiBzcWzor63lj6UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgSVVzZXJTZXJ2aWNlIGlVc2VyU2VydmljZTsK</text>
+        <text encoding="base64">LS0gQFRPRE8g5LyY5YyW57Si5byVCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlYWwuc2V0VGFnKCk7Cg==</text>
+        <text encoding="base64">LS0gQFRPRE8g6L+b6KGM5YWo6KGo5oCn6IO95YiG5p6Q77yMZXhwbGFpbiBzcWzor63lj6UK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBAVE9ETyDlj6rmm7TmlrB0YWfvvIzkuI3mm7TmlrDlhbbku5blrZfmrrUK</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgSVVzZXJTZXJ2aWNlIGlVc2VyU2VydmljZTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29tLnNldFRhZygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlYWwuc2V0VGFnKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PENvbXBvbm5ldD4K</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB1cGRhdGVGb3JTZXQoKQo=</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAvLyBAVE9ETyDlj6rmm7TmlrB0YWfvvIzkuI3mm7TmlrDlhbbku5blrZfmrrUK</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29tLnNldFRhZygpOwo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBMaXN0PENvbXBvbm5ldD4K</text>
+      </register>
       <register name=":" type="4">
-        <text>action NextTab</text>
+        <text>action PreviousTab</text>
       </register>
     </registers>
     <search>
@@ -2245,8 +2245,8 @@
         <entry>q</entry>
         <entry>action ReformatCode</entry>
         <entry>action Back</entry>
-        <entry>action PreviousTab</entry>
         <entry>action NextTab</entry>
+        <entry>action PreviousTab</entry>
       </history-cmd>
       <history-expr />
       <history-input />
