@@ -694,12 +694,12 @@
         <mark key="^" line="104" column="51" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/code/lkc_website/src/containers/Home/components/Div4/style/pc.scss" timestamp="1530241481693">
-        <mark key="'" line="56" column="2" />
-        <mark key="[" line="61" column="12" />
-        <mark key="]" line="61" column="13" />
-        <mark key="." line="61" column="13" />
-        <mark key="^" line="6" column="13" />
+      <file name="$USER_HOME$/code/lkc_website/src/containers/Home/components/Div4/style/pc.scss" timestamp="1530251608923">
+        <mark key="'" line="114" column="0" />
+        <mark key="[" line="2" column="17" />
+        <mark key="]" line="2" column="18" />
+        <mark key="." line="2" column="18" />
+        <mark key="^" line="1" column="9" />
       </file>
       <file name="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/UserServiceImplTest.java" timestamp="1523759049280">
         <mark key="'" line="42" column="13" />
@@ -1506,10 +1506,10 @@
         <mark key="." line="50" column="20" />
         <mark key="^" line="51" column="15" />
       </file>
-      <file name="$USER_HOME$/code/lkc_website/src/containers/Home/components/Div4/Div4.js" timestamp="1530233544630">
-        <mark key="[" line="34" column="48" />
-        <mark key="]" line="34" column="49" />
-        <mark key="." line="34" column="49" />
+      <file name="$USER_HOME$/code/lkc_website/src/containers/Home/components/Div4/Div4.js" timestamp="1530251474558">
+        <mark key="[" line="30" column="42" />
+        <mark key="]" line="30" column="42" />
+        <mark key="." line="30" column="42" />
         <mark key="^" line="31" column="44" />
       </file>
       <file name="$USER_HOME$/code/lkc_website/src/containers/Home/Home.js" timestamp="1530246602493">
@@ -1828,15 +1828,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="345" column="38" filename="$USER_HOME$/code/website/src/data/translation.json" />
-      <jump line="350" column="63" filename="$USER_HOME$/code/website/src/data/translation.json" />
-      <jump line="352" column="19" filename="$USER_HOME$/code/website/src/data/translation.json" />
-      <jump line="353" column="50" filename="$USER_HOME$/code/website/src/data/translation.json" />
-      <jump line="354" column="47" filename="$USER_HOME$/code/website/src/data/translation.json" />
-      <jump line="355" column="117" filename="$USER_HOME$/code/website/src/data/translation.json" />
-      <jump line="361" column="55" filename="$USER_HOME$/code/website/src/data/translation.json" />
-      <jump line="362" column="126" filename="$USER_HOME$/code/website/src/data/translation.json" />
-      <jump line="364" column="361" filename="$USER_HOME$/code/website/src/data/translation.json" />
       <jump line="368" column="59" filename="$USER_HOME$/code/website/src/data/translation.json" />
       <jump line="369" column="61" filename="$USER_HOME$/code/website/src/data/translation.json" />
       <jump line="378" column="27" filename="$USER_HOME$/code/website/src/data/translation.json" />
@@ -1928,6 +1919,15 @@
       <jump line="84" column="12" filename="$USER_HOME$/code/lkc_website/src/components/Navigation/Navigation.js" />
       <jump line="127" column="18" filename="$USER_HOME$/code/lkc_website/src/containers/Home/Home.js" />
       <jump line="3" column="8" filename="$USER_HOME$/code/lkc_website/src/containers/Home/Home.js" />
+      <jump line="6" column="12" filename="$USER_HOME$/code/lkc_website/src/containers/Home/components/Div4/style/pc.scss" />
+      <jump line="59" column="3" filename="$USER_HOME$/code/lkc_website/src/containers/Home/components/Div4/style/pc.scss" />
+      <jump line="69" column="3" filename="$USER_HOME$/code/lkc_website/src/containers/Home/components/Div4/style/pc.scss" />
+      <jump line="3" column="3" filename="$USER_HOME$/code/lkc_website/src/containers/Home/components/Div4/style/pc.scss" />
+      <jump line="14" column="3" filename="$USER_HOME$/code/lkc_website/src/containers/Home/components/Div4/style/pc.scss" />
+      <jump line="17" column="3" filename="$USER_HOME$/code/lkc_website/src/containers/Home/components/Div4/style/pc.scss" />
+      <jump line="21" column="3" filename="$USER_HOME$/code/lkc_website/src/containers/Home/components/Div4/style/pc.scss" />
+      <jump line="4" column="0" filename="$USER_HOME$/code/lkc_website/src/containers/Home/components/Div4/style/pc.scss" />
+      <jump line="114" column="0" filename="$USER_HOME$/code/lkc_website/src/containers/Home/components/Div4/style/pc.scss" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1950,8 +1950,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhIHsKICAgICAgICAgIGNvbG9yOiB3aGl0ZTsKICAgICAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2058,49 +2058,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>top</text>
+        <text>officalModule</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IHtJbmRleExpbmssIExpbmt9IGZyb20gJ3JlYWN0LXJvdXRlcic7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhIHsKICAgICAgICAgIGNvbG9yOiB3aGl0ZTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtYXJnaW4tdG9wOiAzMHB4OwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAvLysrKysrKysrKysrIGRpdjMgc3R5bGUrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbAo=</text>
+        <text encoding="base64">ICAgICAgICBhIHsKICAgICAgICAgIGNvbG9yOiB3aGl0ZTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhIHsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICBtYXJnaW4tdG9wOiAzMHB4OwogICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHBhZGRpbmctdG9wOiA4MHB4Owo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgbGkgewogICAgICAgIGxpc3Qtc3R5bGUtdHlwZTogZGlzYzsKICAgICAgICBsaW5lLWhlaWdodDogMS4yZW07CiAgICAgICAgcGFkZGluZy10b3A6IDgwcHg7CiAgICAgICAgbWFyZ2luOiAwIDMxMHB4OwogICAgICAgIC5hbm5vdW5jZW1lbnRUaXRsZSB7CiAgICAgICAgICBmbG9hdDogbGVmdDsKICAgICAgICB9CiAgICAgICAgLmFubm91bmNlbWVudERhdGUgewogICAgICAgICAgZmxvYXQ6IHJpZ2h0OwogICAgICAgIH0KICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBhIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwYWRkaW5nLXRvcDogODBweDsKICAgICAgICBwYWRkaW5nLWxlZnQ6IDI0MHB4OwogICAgICAgIHBhZGRpbmctcmlnaHQ6IDI0MHB4Owo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
-      <last-search>top</last-search>
+      <last-search>officalModule</last-search>
       <last-offset />
-      <last-pattern>top</last-pattern>
+      <last-pattern>officalModule</last-pattern>
       <last-replace>h2</last-replace>
       <last-substitute>.test p</last-substitute>
       <last-dir>1</last-dir>
@@ -2108,8 +2108,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmaWxsSW5zdGFsbFVBVURFbWlzc2lvblw+</entry>
-        <entry encoding="base64">XDxmbGFuZ2VzQ291bnRcPg==</entry>
         <entry>config</entry>
         <entry encoding="base64">XDxjb25maWdcPg==</entry>
         <entry encoding="base64">XDx3aGl0ZUxpc3RcPg==</entry>
@@ -2128,6 +2126,8 @@
         <entry>js</entry>
         <entry>.test p</entry>
         <entry>top</entry>
+        <entry encoding="base64">XDxvZmZpY2FsTW9kdWxlMURpdlw+</entry>
+        <entry>officalModule</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Component/Seal/gc</entry>
