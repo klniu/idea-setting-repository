@@ -799,11 +799,12 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/code/lkc_website/src/containers/Announcements/Announcements.js" timestamp="1530254222395">
-        <mark key="[" line="64" column="57" />
-        <mark key="]" line="64" column="56" />
-        <mark key="." line="64" column="56" />
-        <mark key="^" line="64" column="56" />
+      <file name="$USER_HOME$/code/lkc_website/src/containers/Announcements/Announcements.js" timestamp="1530258987306">
+        <mark key="'" line="70" column="50" />
+        <mark key="[" line="74" column="72" />
+        <mark key="]" line="74" column="83" />
+        <mark key="." line="74" column="83" />
+        <mark key="^" line="74" column="83" />
       </file>
       <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/ILdarSettingService.java" timestamp="1529889452973">
         <mark key="'" line="107" column="19" />
@@ -1635,12 +1636,12 @@
         <mark key="." line="30" column="42" />
         <mark key="^" line="31" column="44" />
       </file>
-      <file name="$USER_HOME$/code/lkc_website/src/containers/Home/Home.js" timestamp="1530246602493">
-        <mark key="'" line="131" column="18" />
-        <mark key="[" line="77" column="54" />
-        <mark key="]" line="77" column="54" />
-        <mark key="." line="77" column="54" />
-        <mark key="^" line="77" column="54" />
+      <file name="$USER_HOME$/code/lkc_website/src/containers/Home/Home.js" timestamp="1530258767758">
+        <mark key="'" line="68" column="65" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="33" />
+        <mark key="." line="68" column="65" />
+        <mark key="^" line="68" column="65" />
       </file>
       <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/ILdarTurnService.java" timestamp="1529896566189">
         <mark key="'" line="68" column="13" />
@@ -1703,12 +1704,12 @@
         <mark key="[" line="217" column="25" />
         <mark key="]" line="217" column="38" />
       </file>
-      <file name="$USER_HOME$/code/lkc_website/src/data/translation.json" timestamp="1530254345201">
+      <file name="$USER_HOME$/code/lkc_website/src/data/translation.json" timestamp="1530258481059">
         <mark key="'" line="429" column="16" />
-        <mark key="[" line="430" column="17" />
-        <mark key="]" line="430" column="17" />
-        <mark key="." line="430" column="17" />
-        <mark key="^" line="361" column="8" />
+        <mark key="[" line="437" column="15" />
+        <mark key="]" line="437" column="15" />
+        <mark key="." line="437" column="15" />
+        <mark key="^" line="437" column="15" />
       </file>
       <file name="$USER_HOME$/code/lkc_website/src/containers/LKC/LKC.scss" timestamp="1528945863995">
         <mark key="[" line="0" column="0" />
@@ -1980,8 +1981,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Downloads/index.html" />
-      <jump line="203" column="79" filename="$USER_HOME$/Downloads/index.html" />
       <jump line="25" column="70" filename="$USER_HOME$/Downloads/index.html" />
       <jump line="5870" column="802" filename="$USER_HOME$/Downloads/index.html" />
       <jump line="12" column="14" filename="$USER_HOME$/code/lkc_website/static/index.html" />
@@ -2080,6 +2079,8 @@
       <jump line="242" column="8" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/RepairServiceImpl.java" />
       <jump line="258" column="37" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/RepairServiceImpl.java" />
       <jump line="429" column="16" filename="$USER_HOME$/code/lkc_website/src/data/translation.json" />
+      <jump line="68" column="65" filename="$USER_HOME$/code/lkc_website/src/containers/Home/Home.js" />
+      <jump line="69" column="50" filename="$USER_HOME$/code/lkc_website/src/containers/Announcements/Announcements.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2103,7 +2104,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>Title</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2210,43 +2211,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>Title</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxPdXRlclw+</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">TU9SRT4+</text>
+        <text encoding="base64">IGNsYXNzTmFtZT17c3R5bGVzLmFubm91bmNlbWVudFRpdGxlfQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKi99Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC9saT4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgey8qCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGxrYyA9IHJlcXVpcmUoJy4vaW1hZ2UvTEtDLnBuZycpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIEBUT0RPIOWvvOWFpeihqOagvO+8mue7tOS/ruiusOW9leOAgeW7tui/n+e7tOS/ruiusOW9lQo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGNpcmNsZTIgPSByZXF1aXJlKCcuL2ltYWdlL2NpcmNsZS5wbmcnKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHVsPgogICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIGxhbmcobGFuZ3VhZ2UsICdsa2NMaXN0cycpLm1hcCgodmFsdWUsIGluZGV4KSA9PiB7CiAgICAgICAgICAgICAgICAgIC8vIOWmguaenOWtl+espuaVsOi2hei/hzI4MOS4qu+8jOS8muacieS4ieihjO+8jOesrOS4ieihjOS4uumUmeS9je+8jOmcgOimgeaKimVt55qE6auY5bqm5pS+5aSnCiAgICAgICAgICAgICAgICAgIGxldCBzdHlsZTsKICAgICAgICAgICAgICAgICAgaWYgKGNsaWVudFdpZHRoID4gNzY3KSB7CiAgICAgICAgICAgICAgICAgICAgc3R5bGUgPSB2YWx1ZS5sZW5ndGggPj0gMjgwID8ge2hlaWdodDogODB9IDoge307CiAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgcmV0dXJuICgKICAgICAgICAgICAgICAgICAgICA8bGkga2V5PXtpbmRleH0+CiAgICAgICAgICAgICAgICAgICAgICA8ZW0gc3R5bGU9e3N0eWxlfT48aW1nIGNsYXNzTmFtZT17c3R5bGVzLmljb0NpcmNsZX0gc3JjPXtjaXJjbGUyfS8+PC9lbT4KICAgICAgICAgICAgICAgICAgICAgIDxzcGFuPnt2YWx1ZX08L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgPC9saT4KICAgICAgICAgICAgICAgICAgKTsKICAgICAgICAgICAgICAgIH0pCiAgICAgICAgICAgICAgfQogICAgICAgICAgICA8L3VsPgogICAgICAgICAgICA8YnIgLz4KICAgICAgICAgICAgPGJyIC8+CiAgICAgICAgICAgIDxwPntsYW5nKGxhbmd1YWdlLCAnbGtjRGVzYzUnKX08L3A+CiAgICAgICAgICAgIDxiciAvPgogICAgICAgICAgICA8YnIgLz4KICAgICAgICAgICAgPGJyIC8+CiAgICAgICAgICAgIDxwPntsYW5nKGxhbmd1YWdlLCAnbGtjQ29udGFjdFRpdGxlJyl9PC9wPgogICAgICAgICAgICA8YnIgLz4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVwYWlycy5hZGQocmVwYWlyKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9e3N0eWxlcy5jZW50ZXJJbWd9PgogICAgICAgICAgICAgIDxpbWcgc3JjPXtsa2N9IC8+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8cD57bGFuZyhsYW5ndWFnZSwgJ2xrY0Rlc2MxJyl9PC9wPgogICAgICAgICAgICA8YnIgLz4KICAgICAgICAgICAgPHA+e2xhbmcobGFuZ3VhZ2UsICdsa2NEZXNjMicpfTwvcD4KICAgICAgICAgICAgPGJyIC8+CiAgICAgICAgICAgIDxwPntsYW5nKGxhbmd1YWdlLCAnbGtjRGVzYzMnKX08L3A+CiAgICAgICAgICAgIDxiciAvPgogICAgICAgICAgICA8cD57bGFuZyhsYW5ndWFnZSwgJ2xrY0Rlc2M0Jyl9PC9wPgogICAgICAgICAgICA8YnIgLz4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpbnQgbiA9IDE7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PERldGVjdGlvbj4gZGV0ZWN0cyA9IGRldGVjdFBhZ2UuZ2V0UmVjb3JkcygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgKi99Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgey8qCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoMCwgaVRvYmVTZXJ2aWNlLnNlbGVjdExpc3QobnVsbCkuc2l6ZSgpKTsK</text>
+        <text encoding="base64">ICAgIC8vIEBUT0RPIOWvvOWFpeihqOagvO+8mue7tOS/ruiusOW9leOAgeW7tui/n+e7tOS/ruiusOW9lQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action PreviousTab</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
