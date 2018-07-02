@@ -277,12 +277,6 @@
         <mark key="." line="100" column="17" />
         <mark key="^" line="100" column="17" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2e9c8649-18f5-43f9-a70d-cf6359de55b3/console.sql" timestamp="1530256408491">
-        <mark key="[" line="21" column="11" />
-        <mark key="]" line="21" column="12" />
-        <mark key="." line="21" column="12" />
-        <mark key="^" line="21" column="11" />
-      </file>
       <file name="D:/code/web/voc-web/src/app/routes/ldar/component/component.service.ts" timestamp="1520759923462">
         <mark key="'" line="43" column="4" />
         <mark key="[" line="26" column="56" />
@@ -317,6 +311,12 @@
         <mark key="]" line="29" column="38" />
         <mark key="^" line="29" column="38" />
         <mark key="." line="29" column="38" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2e9c8649-18f5-43f9-a70d-cf6359de55b3/console.sql" timestamp="1530256408491">
+        <mark key="[" line="21" column="11" />
+        <mark key="]" line="21" column="12" />
+        <mark key="." line="21" column="12" />
+        <mark key="^" line="21" column="11" />
       </file>
       <file name="D:/code/web/voc-web/src/app/routes/base/ldarsetting/finished.component.ts" timestamp="1520071978070">
         <mark key="'" line="11" column="16" />
@@ -931,7 +931,7 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530257894839">
+      <file name="/Dummy.txt" timestamp="1530493334569">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1673,12 +1673,12 @@
         <mark key="[" line="217" column="25" />
         <mark key="]" line="217" column="38" />
       </file>
-      <file name="$USER_HOME$/code/lkc_website/src/data/translation.json" timestamp="1529042385579">
+      <file name="$USER_HOME$/code/lkc_website/src/data/translation.json" timestamp="1530493200577">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="215" column="3" />
-        <mark key="]" line="215" column="16" />
-        <mark key="." line="366" column="30" />
-        <mark key="^" line="361" column="8" />
+        <mark key="[" line="520" column="17" />
+        <mark key="]" line="520" column="29" />
+        <mark key="." line="520" column="17" />
+        <mark key="^" line="520" column="16" />
       </file>
       <file name="$USER_HOME$/code/lkc_website/src/containers/LKC/LKC.scss" timestamp="1528945863995">
         <mark key="[" line="0" column="0" />
@@ -1841,15 +1841,16 @@
         <mark key="^" line="0" column="14" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/lkc_website/src/containers/Announcement/data.js" timestamp="1530493199065">
+        <mark key="[" line="30" column="40" />
+        <mark key="]" line="30" column="51" />
+      </file>
       <file name="$USER_HOME$/code/website/src/server.js" timestamp="1528891264123">
         <mark key="'" line="97" column="6" />
         <mark key="[" line="97" column="0" />
         <mark key="]" line="97" column="0" />
         <mark key="." line="97" column="0" />
         <mark key="^" line="51" column="4" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.baomidou/mybatis-plus-support/2.3/2ca6af2ac631b5a3c59b3aed3311c5c87006e663/mybatis-plus-support-2.3-sources.jar!/com/baomidou/mybatisplus/service/impl/ServiceImpl.java" timestamp="1530087799501">
-        <mark key="'" line="310" column="26" />
       </file>
       <file name="D:/code/web/voc-ui/src/app/routes/ldar/unit/unit.component.ts" timestamp="1520497791545">
         <mark key="'" line="40" column="30" />
@@ -1941,9 +1942,6 @@
         <mark key="]" line="88" column="0" />
         <mark key="^" line="110" column="33" />
         <mark key="." line="88" column="0" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.baomidou/mybatis-plus-support/2.3/2ca6af2ac631b5a3c59b3aed3311c5c87006e663/mybatis-plus-support-2.3-sources.jar!/com/baomidou/mybatisplus/mapper/BaseMapper.java" timestamp="1530087332603">
-        <mark key="'" line="138" column="18" />
       </file>
     </filemarks>
     <jumps>
@@ -2070,7 +2068,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>ISOLATION_READ_UNCOMMITTED</text>
+        <text>July 03,2018</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2177,13 +2175,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ISOLATION_READ_UNCOMMITTED</text>
+        <text>2018-07-03</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxPdXRlclw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgSVJlcGFpclNlcnZpY2UgaVJlcGFpclNlcnZpY2U7Cg==</text>
+      <register name="0" type="4">
+        <text>July 03,2018</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgUmVwYWlyTWFwcGVyIHJlcGFpck1hcHBlcjsK</text>
@@ -2213,7 +2211,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action PreviousTab</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -2260,7 +2258,6 @@
         <entry>action Forward</entry>
         <entry encoding="base64">JzwsJz5zL2Rpc3RhbmNlL2hlaWdodC9nYw==</entry>
         <entry>%s/return String.format/throw new InvalidDataException(String.format/gc</entry>
-        <entry>w</entry>
         <entry>%s/.test p/h2</entry>
         <entry>action Back</entry>
         <entry>action ReformatCode</entry>
@@ -2269,6 +2266,7 @@
         <entry>q</entry>
         <entry>action NextTab</entry>
         <entry>action PreviousTab</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
