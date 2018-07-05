@@ -280,6 +280,12 @@
         <mark key="." line="100" column="17" />
         <mark key="^" line="100" column="17" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2e9c8649-18f5-43f9-a70d-cf6359de55b3/console.sql" timestamp="1530256408491">
+        <mark key="[" line="21" column="11" />
+        <mark key="]" line="21" column="12" />
+        <mark key="." line="21" column="12" />
+        <mark key="^" line="21" column="11" />
+      </file>
       <file name="D:/code/web/voc-web/src/app/routes/ldar/component/component.service.ts" timestamp="1520759923462">
         <mark key="'" line="43" column="4" />
         <mark key="[" line="26" column="56" />
@@ -315,18 +321,12 @@
         <mark key="^" line="29" column="38" />
         <mark key="." line="29" column="38" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2e9c8649-18f5-43f9-a70d-cf6359de55b3/console.sql" timestamp="1530256408491">
-        <mark key="[" line="21" column="11" />
-        <mark key="]" line="21" column="12" />
-        <mark key="." line="21" column="12" />
-        <mark key="^" line="21" column="11" />
-      </file>
-      <file name="$USER_HOME$/code/algorithm/src/main/java/list/ArrayList.java" timestamp="1530605947555">
-        <mark key="'" line="30" column="11" />
-        <mark key="[" line="26" column="6" />
-        <mark key="]" line="26" column="5" />
-        <mark key="." line="26" column="5" />
-        <mark key="^" line="26" column="5" />
+      <file name="$USER_HOME$/code/algorithm/src/main/java/list/ArrayList.java" timestamp="1530693024303">
+        <mark key="'" line="38" column="11" />
+        <mark key="[" line="9" column="37" />
+        <mark key="]" line="9" column="44" />
+        <mark key="^" line="9" column="44" />
+        <mark key="." line="9" column="44" />
       </file>
       <file name="D:/code/web/voc-web/src/app/routes/base/ldarsetting/finished.component.ts" timestamp="1520071978070">
         <mark key="'" line="11" column="16" />
@@ -951,7 +951,7 @@
         <mark key="." line="15" column="6" />
         <mark key="^" line="15" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530759629168">
+      <file name="/Dummy.txt" timestamp="1530523413781">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1038,6 +1038,15 @@
         <mark key="]" line="6" column="35" />
         <mark key="^" line="35" column="59" />
         <mark key="." line="35" column="59" />
+      </file>
+      <file name="/fragment.java" timestamp="1530690115867">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/algorithm/src/test/java/list/ArrayListTest.java" timestamp="1530690337205">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="21" column="29" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="D:/code/java/cnooc/src/main/resources/application.yml" timestamp="1523433308337">
         <mark key="'" line="34" column="15" />
@@ -1704,8 +1713,8 @@
         <mark key="." line="25" column="10" />
         <mark key="^" line="25" column="10" />
       </file>
-      <file name="$USER_HOME$/code/lkc_website/src/data/translation.json" timestamp="1530759622475">
-        <mark key="'" line="25" column="22" />
+      <file name="$USER_HOME$/code/lkc_website/src/data/translation.json" timestamp="1530523295736">
+        <mark key="'" line="520" column="22" />
         <mark key="[" line="24" column="31" />
         <mark key="]" line="24" column="31" />
         <mark key="." line="24" column="31" />
@@ -1862,12 +1871,6 @@
         <mark key="^" line="0" column="14" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/lkc_website/src/containers/Announcement/data.js" timestamp="1530759457198">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="^" line="28" column="12" />
-        <mark key="." line="29" column="0" />
-      </file>
       <file name="$USER_HOME$/go/src/blockchain/src/main.go" timestamp="1530597903894">
         <mark key="'" line="15" column="3" />
         <mark key="[" line="18" column="16" />
@@ -1975,6 +1978,7 @@
       </file>
     </filemarks>
     <jumps>
+      <jump line="50" column="50" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/DelayRepairServiceImpl.java" />
       <jump line="175" column="26" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/DelayRepairServiceImpl.java" />
       <jump line="254" column="34" filename="$USER_HOME$/code/voc/src/test/java/com/cnvoc/voc/service/impl/RepairServiceImplTest.java" />
       <jump line="127" column="13" filename="$USER_HOME$/code/voc/src/test/java/com/cnvoc/voc/service/impl/DelayRepairServiceImplTest.java" />
@@ -2074,7 +2078,6 @@
       <jump line="520" column="22" filename="$USER_HOME$/code/lkc_website/src/data/translation.json" />
       <jump line="10" column="3" filename="$USER_HOME$/go/src/blockchain/src/main.go" />
       <jump line="30" column="11" filename="$USER_HOME$/code/algorithm/src/main/java/list/ArrayList.java" />
-      <jump line="25" column="22" filename="$USER_HOME$/code/lkc_website/src/data/translation.json" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2097,8 +2100,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgKDxkaXYga2V5PXswfT4KICAgICAgICA8cD7kurLniLHnmoTlsI/kvJnkvLTku6zvvJo8L3A+CiAgICAgICAgPHA+6L+Z6YeM5piv5YWz5LqO5oiR5Lus56ys5LiA5pyf55qE56m65oqV5L+h5oGv77yM546w5Zyo6LW377yM6L2s6LSmMEVUSOWIsOaIkeS7rOeahOaZuuiDveWQiOe6puWcsOWdgO+8jOWPr+iHquWKqOiOt+W+lzY2NuS4qkxLQ+OAguivt+WPguS4jui/m+adpeW5tuelneemj+aIkeS7rOeahOekvuWMuuWPkeWxlei2iuadpei2iue5geiNo+aYjOebm++8jOeUqOS9oOeahOW+rueskeeCueS6ruWuh+Wume+8jOaIkeS7rOecn+ivmuWcsOaDs+imgeWIhuS6q+W/q+S5kOWSjOWlvei/kOe7meS9oO+8gTwvcD4KICAgICAgICA8cCBzdHlsZT17e3RleHRBbGlnbjogJ2xlZnQnfX0+56m65oqV5Zyw5Z2AIDxGQSBuYW1lPSJoYW5kLW8tcmlnaHQiLz4gMHg2QTkxZDljMEQ3MjhCNzhmRDZDNjA4N2Y2ZjYzNmRhRTFGMjkwMzU1PC9wPgogICAgICAgIDxici8+CiAgICAgICAgPGJyLz4KICAgICAgICA8YnIvPgogICAgICAgIDxwIGNsYXNzTmFtZT17c3R5bGVzLnNpZ25hdHVyZX0+THVja3ljb2lu56S+5Yy65Zui6ZifPC9wPgogICAgICAgIDxwIGNsYXNzTmFtZT17c3R5bGVzLnNpZ25hdHVyZX0+MjAxOOW5tDfmnIgz5pelPC9wPgogICAgICA8L2Rpdj4pCg==</text>
+      <register name="&quot;" type="4">
+        <text>Iterable</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2205,43 +2208,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>all</text>
+        <text>Iterable</text>
       </register>
       <register name="/" type="4">
         <text>all</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgKDxkaXYga2V5PXswfT4KICAgICAgICA8cD7kurLniLHnmoTlsI/kvJnkvLTku6zvvJo8L3A+CiAgICAgICAgPHA+6L+Z6YeM5piv5YWz5LqO5oiR5Lus56ys5LiA5pyf55qE56m65oqV5L+h5oGv77yM546w5Zyo6LW377yM6L2s6LSmMEVUSOWIsOaIkeS7rOeahOaZuuiDveWQiOe6puWcsOWdgO+8jOWPr+iHquWKqOiOt+W+lzY2NuS4qkxLQ+OAguivt+WPguS4jui/m+adpeW5tuelneemj+aIkeS7rOeahOekvuWMuuWPkeWxlei2iuadpei2iue5geiNo+aYjOebm++8jOeUqOS9oOeahOW+rueskeeCueS6ruWuh+Wume+8jOaIkeS7rOecn+ivmuWcsOaDs+imgeWIhuS6q+W/q+S5kOWSjOWlvei/kOe7meS9oO+8gTwvcD4KICAgICAgICA8cCBzdHlsZT17e3RleHRBbGlnbjogJ2xlZnQnfX0+56m65oqV5Zyw5Z2AIDxGQSBuYW1lPSJoYW5kLW8tcmlnaHQiLz4gMHg2QTkxZDljMEQ3MjhCNzhmRDZDNjA4N2Y2ZjYzNmRhRTFGMjkwMzU1PC9wPgogICAgICAgIDxici8+CiAgICAgICAgPGJyLz4KICAgICAgICA8YnIvPgogICAgICAgIDxwIGNsYXNzTmFtZT17c3R5bGVzLnNpZ25hdHVyZX0+THVja3ljb2lu56S+5Yy65Zui6ZifPC9wPgogICAgICAgIDxwIGNsYXNzTmFtZT17c3R5bGVzLnNpZ25hdHVyZX0+MjAxOOW5tDfmnIgz5pelPC9wPgogICAgICA8L2Rpdj4pCg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoMywgKGludCkgbGlzdC5yZW1vdmUoMikpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgKDxkaXYga2V5PXswfT4KICAgICAgICA8cD7kurLniLHnmoTlsI/kvJnkvLTku6zvvJo8L3A+CiAgICAgICAgPHA+6L+Z6YeM5piv5YWz5LqO5oiR5Lus56ys5LiA5pyf55qE56m65oqV5L+h5oGv77yM546w5Zyo6LW377yM6L2s6LSmMEVUSOWIsOaIkeS7rOeahOaZuuiDveWQiOe6puWcsOWdgO+8jOWPr+iHquWKqOiOt+W+lzY2NuS4qkxLQ+OAguivt+WPguS4jui/m+adpeW5tuelneemj+aIkeS7rOeahOekvuWMuuWPkeWxlei2iuadpei2iue5geiNo+aYjOebm++8jOeUqOS9oOeahOW+rueskeeCueS6ruWuh+Wume+8jOaIkeS7rOecn+ivmuWcsOaDs+imgeWIhuS6q+W/q+S5kOWSjOWlvei/kOe7meS9oO+8gTwvcD4KICAgICAgICA8cCBzdHlsZT17e3RleHRBbGlnbjogJ2xlZnQnfX0+56m65oqV5Zyw5Z2AIDxGQSBuYW1lPSJoYW5kLW8tcmlnaHQiLz4gMHg2QTkxZDljMEQ3MjhCNzhmRDZDNjA4N2Y2ZjYzNmRhRTFGMjkwMzU1PC9wPgogICAgICAgIDxici8+CiAgICAgICAgPGJyLz4KICAgICAgICA8YnIvPgogICAgICAgIDxwIGNsYXNzTmFtZT17c3R5bGVzLnNpZ25hdHVyZX0+THVja3ljb2lu56S+5Yy65Zui6ZifPC9wPgogICAgICAgIDxwIGNsYXNzTmFtZT17c3R5bGVzLnNpZ25hdHVyZX0+MjAxOOW5tDfmnIgz5pelPC9wPgogICAgICA8L2Rpdj4pCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIG5ldwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICB9Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICBmb3IgKFQgdDogaXRlbXMpIHsK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCBzaXplKCkgewogICAgfQoKICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCBhZGRBbGwoKSB7CiAgICB9Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCBhZGQoKSB7CiAgICB9CgogICAgQFRlc3QKICAgIHB1YmxpYyB2b2lkIHJlbW92ZSgpIHsKICAgIH0KCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgbmV3SXRlbXMuCg==</text>
+        <text encoding="base64">ICAgICAgIG5ldwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IDsgaSsrKSB7CiAgICAgICAgICAgICAgIAogICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICBmb3IgKFQgdDogaXRlbXMpIHsK</text>
       </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text>action NextTab</text>
       </register>
     </registers>
     <search>
@@ -2294,9 +2297,9 @@
         <entry encoding="base64">JzwsJz5zL2dldCgwKS9nZXQoMSkvZ2M=</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>action ReformatCode</entry>
         <entry>action PreviousTab</entry>
         <entry>action NextTab</entry>
-        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
