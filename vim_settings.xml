@@ -381,12 +381,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="12" column="44" />
       </file>
-      <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/ComponentServiceImpl.java" timestamp="1530858657086">
-        <mark key="'" line="88" column="1" />
-        <mark key="[" line="494" column="0" />
-        <mark key="]" line="494" column="0" />
-        <mark key="." line="494" column="0" />
-        <mark key="^" line="443" column="30" />
+      <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/ComponentServiceImpl.java" timestamp="1530862191718">
+        <mark key="'" line="434" column="38" />
+        <mark key="[" line="443" column="46" />
+        <mark key="]" line="443" column="57" />
+        <mark key="^" line="443" column="57" />
+        <mark key="." line="443" column="57" />
       </file>
       <file name="$USER_HOME$/code/website/src/containers/LKC/LKC.js" timestamp="1528897173760">
         <mark key="'" line="59" column="40" />
@@ -2058,8 +2058,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="323" column="34" filename="$USER_HOME$/code/voc/src/test/java/com/cnvoc/voc/service/impl/RepairServiceImplTest.java" />
-      <jump line="338" column="7" filename="$USER_HOME$/code/voc/src/test/java/com/cnvoc/voc/service/impl/RepairServiceImplTest.java" />
       <jump line="343" column="37" filename="$USER_HOME$/code/voc/src/test/java/com/cnvoc/voc/service/impl/RepairServiceImplTest.java" />
       <jump line="58" column="50" filename="$USER_HOME$/code/voc/src/test/java/com/cnvoc/voc/service/impl/RepairServiceImplTest.java" />
       <jump line="90" column="45" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/DetectionServiceImpl.java" />
@@ -2158,6 +2156,8 @@
       <jump line="115" column="13" filename="$USER_HOME$/sync/temp/leetcode/leetcode.java" />
       <jump line="284" column="0" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/ComponentServiceImpl.java" />
       <jump line="88" column="1" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/ComponentServiceImpl.java" />
+      <jump line="429" column="58" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/ComponentServiceImpl.java" />
+      <jump line="432" column="38" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/ComponentServiceImpl.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2180,8 +2180,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>().</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2288,45 +2288,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>().</text>
       </register>
       <register name="/" type="4">
         <text>pdf</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEludmFsaWREYXRhRXhjZXB0aW9uKCLop6Pljovmlofku7blpLHotKXvvIzor7fph43mlrDkuIrkvKAiICsgZS5nZXRNZXNzYWdlKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgZWRpdGluZ1BpY0V4dCA9IHByb2plY3QuZ2V0RWRpdGluZ1BpY0V4dGVuc2lvbigpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICArIGluc3RhbGxEaXIuZ2V0TmFtZSgpICsgIuW3sue7j+WtmOWcqOWbvueJhyIgKyBwaWMuZ2V0TmFtZSgpKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodW5pdERpcnMgIT0gbnVsbCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhyb3cgbmV3IEludmFsaWREYXRhRXhjZXB0aW9uKCLnrqHnkIbljZXlhYMiICsgdW5pdC5nZXROYW1lKCkgKyAi5LiL6KOF572uIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodW5pdERpcnMgIT0gbnVsbCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbG9nLmVycm9yKCLkuIrkvKDnhafniYfml7YsIOebuOW6lOijhee9ruaciemHjeWkjeaWh+S7tu+8miIgKyBwaWMuZ2V0QWJzb2x1dGVQYXRoKCkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9IGNhdGNoIChGaWxlRXhpc3RzRXhjZXB0aW9uIGUpIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIUZpbGVuYW1lVXRpbHMuaXNFeHRlbnNpb24oemlwUGF0aCwgQXJyYXlzLmFzTGlzdCgiemlwIiwgIlpJUCIpKSkgewogICAgICAgICAgICB0aHJvdyBuZXcgSW52YWxpZERhdGFFeGNlcHRpb24oIuivt+aPkOS+m3ppcOaWh+S7tiIpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBib29sZWFuIGlzUmF0aW9HdDEgPSBmYWxzZTsgLy8g6K+l6KGM5Lit5piv5ZCm5pyJ5q+U5L6L5aSn5LqOMeeahOWbvueJhwo=</text>
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlzUmF0aW9HdDEgPSBmYWxzZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgT2JqZWN0IGN1cnJlbnRLZXkgPSBlbnRyeS5nZXRLZXkoKTsKICAgICAgICAgICAgT2JqZWN0IGN1cnJlbnRWYWx1ZSA9IGVudHJ5LmdldFZhbHVlKCk7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihjdXJyZW50S2V5ICsgIj0iICsgY3VycmVudFZhbHVlKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGltYWdlcy5nZXQoaSkucmF0aW9HdDEpIHsKICAgICAgICAgICAgICAgIGlzUmF0aW9HdDEgPSB0cnVlOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgRmlsZVtdIHBpY3MgPSBlbnRyeS4K</text>
       </register>
-      <register name="9" type="8">
-        <text>//
-//
-//
-//
-//
-//</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
