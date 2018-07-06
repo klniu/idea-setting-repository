@@ -381,12 +381,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="12" column="44" />
       </file>
-      <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/ComponentServiceImpl.java" timestamp="1530850314394">
-        <mark key="'" line="255" column="31" />
-        <mark key="[" line="305" column="32" />
-        <mark key="]" line="306" column="44" />
-        <mark key="." line="306" column="44" />
-        <mark key="^" line="306" column="44" />
+      <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/ComponentServiceImpl.java" timestamp="1530858657086">
+        <mark key="'" line="88" column="1" />
+        <mark key="[" line="494" column="0" />
+        <mark key="]" line="494" column="0" />
+        <mark key="." line="494" column="0" />
+        <mark key="^" line="443" column="30" />
       </file>
       <file name="$USER_HOME$/code/website/src/containers/LKC/LKC.js" timestamp="1528897173760">
         <mark key="'" line="59" column="40" />
@@ -986,10 +986,10 @@
         <mark key="." line="15" column="6" />
         <mark key="^" line="15" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530842328218">
-        <mark key="[" line="0" column="5" />
-        <mark key="]" line="0" column="5" />
-        <mark key="." line="0" column="5" />
+      <file name="/Dummy.txt" timestamp="1530858087780">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="19" />
+        <mark key="." line="0" column="10" />
       </file>
       <file name="$USER_HOME$/code/website/src/containers/Home/components/Div1/Div1.js" timestamp="1528895170704">
         <mark key="'" line="4" column="62" />
@@ -2058,8 +2058,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="81" column="50" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/RepairServiceImpl.java" />
-      <jump line="313" column="46" filename="$USER_HOME$/code/voc/src/test/java/com/cnvoc/voc/service/impl/RepairServiceImplTest.java" />
       <jump line="323" column="34" filename="$USER_HOME$/code/voc/src/test/java/com/cnvoc/voc/service/impl/RepairServiceImplTest.java" />
       <jump line="338" column="7" filename="$USER_HOME$/code/voc/src/test/java/com/cnvoc/voc/service/impl/RepairServiceImplTest.java" />
       <jump line="343" column="37" filename="$USER_HOME$/code/voc/src/test/java/com/cnvoc/voc/service/impl/RepairServiceImplTest.java" />
@@ -2158,6 +2156,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/code/voc/src/test/resources/sql/init.sql" />
       <jump line="1" column="0" filename="$USER_HOME$/sync/temp/leetcode/leetcode.java" />
       <jump line="115" column="13" filename="$USER_HOME$/sync/temp/leetcode/leetcode.java" />
+      <jump line="284" column="0" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/ComponentServiceImpl.java" />
+      <jump line="88" column="1" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/ComponentServiceImpl.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2181,7 +2181,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgbWFpbigpIHsKICAgICAgICBNeUxpbmtlZExpc3Qgb2JqID0gbmV3IE15TGlua2VkTGlzdCgpOwogICAgICAgIGludCBwYXJhbV8xID0gb2JqLmdldChpbmRleCk7CiAgICAgICAgb2JqLmFkZEF0SGVhZCh2YWwpOwogICAgICAgIG9iai5hZGRBdFRhaWwodmFsKTsKICAgICAgICBvYmouYWRkQXRJbmRleChpbmRleCwgdmFsKTsKICAgICAgICBvYmouZGVsZXRlQXRJbmRleChpbmRleCk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2288,56 +2288,54 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID0gbnVsbA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjZWxsUGVyUm93XD4=</text>
+        <text>pdf</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8g5aaC5p6c5LiA6KGM5bey57uP5pyJM+W8oOWbvueJh++8jOS5n+W8gOWni+aWsOihjAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEludmFsaWREYXRhRXhjZXB0aW9uKCLop6Pljovmlofku7blpLHotKXvvIzor7fph43mlrDkuIrkvKAiICsgZS5nZXRNZXNzYWdlKCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgbWFpbigpIHsKICAgICAgICBNeUxpbmtlZExpc3Qgb2JqID0gbmV3IE15TGlua2VkTGlzdCgpOwogICAgICAgIGludCBwYXJhbV8xID0gb2JqLmdldChpbmRleCk7CiAgICAgICAgb2JqLmFkZEF0SGVhZCh2YWwpOwogICAgICAgIG9iai5hZGRBdFRhaWwodmFsKTsKICAgICAgICBvYmouYWRkQXRJbmRleChpbmRleCwgdmFsKTsKICAgICAgICBvYmouZGVsZXRlQXRJbmRleChpbmRleCk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBZb3VyIE15TGlua2VkTGlzdCBvYmplY3Qgd2lsbCBiZSBpbnN0YW50aWF0ZWQgYW5kIGNhbGxlZCBhcyBzdWNoOgo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAodW5pdERpcnMgIT0gbnVsbCkgewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAodW5pdERpcnMgIT0gbnVsbCkgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IC8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcjsK</text>
       </register>
-      <register name="5" type="8">
-        <text>*
-*
-*
-*
-*
-*
-*
-*</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoIUZpbGVuYW1lVXRpbHMuaXNFeHRlbnNpb24oemlwUGF0aCwgQXJyYXlzLmFzTGlzdCgiemlwIiwgIlpJUCIpKSkgewogICAgICAgICAgICB0aHJvdyBuZXcgSW52YWxpZERhdGFFeGNlcHRpb24oIuivt+aPkOS+m3ppcOaWh+S7tiIpOwogICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICAgICAgICBib29sZWFuIGlzUmF0aW9HdDEgPSBmYWxzZTsgLy8g6K+l6KGM5Lit5piv5ZCm5pyJ5q+U5L6L5aSn5LqOMeeahOWbvueJhwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LyoqCiAqIFlvdXIgTXlMaW5rZWRMaXN0IG9iamVjdCB3aWxsIGJlIGluc3RhbnRpYXRlZCBhbmQgY2FsbGVkIGFzIHN1Y2g6CiAqIE15TGlua2VkTGlzdCBvYmogPSBuZXcgTXlMaW5rZWRMaXN0KCk7CiAqIGludCBwYXJhbV8xID0gb2JqLmdldChpbmRleCk7CiAqIG9iai5hZGRBdEhlYWQodmFsKTsKICogb2JqLmFkZEF0VGFpbCh2YWwpOwogKiBvYmouYWRkQXRJbmRleChpbmRleCx2YWwpOwogKiBvYmouZGVsZXRlQXRJbmRleChpbmRleCk7CiAqLwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlzUmF0aW9HdDEgPSBmYWxzZTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgbWFpbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGltYWdlcy5nZXQoaSkucmF0aW9HdDEpIHsKICAgICAgICAgICAgICAgIGlzUmF0aW9HdDEgPSB0cnVlOwogICAgICAgICAgICB9Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PEJvb2xlYW4+IHJhdGlvR3JlYXRlcjEgPSBuZXcgTGlua2VkTGlzdDw+KCk7Cg==</text>
+      <register name="9" type="8">
+        <text>//
+//
+//
+//
+//
+//</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjZWxsUGVyUm93XD4=</last-search>
+      <last-search>pdf</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjZWxsUGVyUm93XD4=</last-pattern>
+      <last-pattern>pdf</last-pattern>
       <last-replace>get(1)</last-replace>
       <last-substitute>get(0)</last-substitute>
       <last-dir>1</last-dir>
@@ -2345,7 +2343,6 @@
     </search>
     <history>
       <history-search>
-        <entry>background</entry>
         <entry>prima</entry>
         <entry>PSmall</entry>
         <entry>bannerp</entry>
@@ -2365,6 +2362,7 @@
         <entry encoding="base64">XDx3aWR0aFw+</entry>
         <entry encoding="base64">XDx3cml0ZVppcEVudHJ5XD4=</entry>
         <entry encoding="base64">XDxjZWxsUGVyUm93XD4=</entry>
+        <entry>pdf</entry>
       </history-search>
       <history-cmd>
         <entry>%s/joint/connector/gc</entry>
