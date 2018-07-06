@@ -381,11 +381,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="12" column="44" />
       </file>
-      <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/ComponentServiceImpl.java" timestamp="1530842914328">
-        <mark key="[" line="248" column="5" />
-        <mark key="]" line="306" column="0" />
-        <mark key="." line="306" column="0" />
-        <mark key="^" line="241" column="38" />
+      <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/ComponentServiceImpl.java" timestamp="1530845721377">
+        <mark key="'" line="255" column="31" />
+        <mark key="[" line="346" column="28" />
+        <mark key="]" line="346" column="44" />
+        <mark key="." line="346" column="44" />
+        <mark key="^" line="346" column="44" />
       </file>
       <file name="$USER_HOME$/code/website/src/containers/LKC/LKC.js" timestamp="1528897173760">
         <mark key="'" line="59" column="40" />
@@ -2047,11 +2048,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="351" column="25" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/RepairServiceImpl.java" />
-      <jump line="71" column="27" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/RepairServiceImpl.java" />
-      <jump line="413" column="0" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/RepairServiceImpl.java" />
-      <jump line="369" column="14" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/RepairServiceImpl.java" />
-      <jump line="463" column="0" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/RepairServiceImpl.java" />
       <jump line="0" column="0" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/RepairServiceImpl.java" />
       <jump line="367" column="18" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/RepairServiceImpl.java" />
       <jump line="373" column="7" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/RepairServiceImpl.java" />
@@ -2147,6 +2143,11 @@
       <jump line="326" column="12" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/ComponentServiceImpl.java" />
       <jump line="521" column="20" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/ComponentServiceImpl.java" />
       <jump line="62" column="13" filename="$USER_HOME$/code/voc/src/test/java/com/cnvoc/voc/service/impl/ComponentServiceImplTest.java" />
+      <jump line="263" column="16" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/ComponentServiceImpl.java" />
+      <jump line="264" column="32" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/ComponentServiceImpl.java" />
+      <jump line="270" column="40" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/ComponentServiceImpl.java" />
+      <jump line="271" column="36" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/ComponentServiceImpl.java" />
+      <jump line="255" column="31" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/ComponentServiceImpl.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2169,8 +2170,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>componentsSize</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2277,49 +2278,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>componentsSize</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx3cml0ZVppcEVudHJ5XD4=</text>
+        <text encoding="base64">XDxjZWxsUGVyUm93XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDljLnphY0lcywgJTVYcywgJS01WHMsICU1WFhz44CBWFglNVhYc1hY5LiA57G755qECg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8g5aaC5p6c5LiA6KGM5bey57uP5pyJM+W8oOWbvueJh++8jOS5n+W8gOWni+aWsOihjAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PEJvb2xlYW4+IHJhdGlvR3JlYXRlcjEgPSBuZXcgTGlua2VkTGlzdDw+KCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByYXRpb0dyZWF0ZXIxLmFkZChmYWxzZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PFN0cmluZz4gdGFncyA9IG5ldyBMaW5rZWRMaXN0PD4oKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gZWxzZSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByYXRpb0dyZWF0ZXIxLmFkZCh0cnVlKTsK</text>
+        <text encoding="base64">ICAgICAgICBQYXRoIHBkZlBhdGggPSBwcm9qZWN0LmdldEluc3RhbGxQREZQYXRoKGluc3RhbGxGb2xkZXIpOwoKICAgICAgICAvLyDlpoLmnpzlrZjlnKjvvIznm7TmjqXkvb/nlKjlrZjlnKjnmoTmlofku7YKICAgICAgICBpZiAocGRmUGF0aC50b0ZpbGUoKS5leGlzdHMoKSkgewogICAgICAgICAgICByZXR1cm4gcGRmUGF0aDsKICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICgpIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIOWuvemrmOavlOWkp+S6jjHnmoTmmK/nm7jmnLrvvIzlsI/kuo4x55qE5piv5omL5py6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIOWFiOenr+e0rzPkuKrlm77niYfvvIzliKTmlq3mr5TkvovmmK/kuIDooYzmlL4z5Liq6L+Y5pivMuS4qgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRhZ3MuYWRkKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnQgY29sdW1uTm8gPSAwOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGltYWdlcy5hZGQoaW1nKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5pbWcgPSBpbWc7Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKENvbXBvbmVudEltYWdlIGNpOiBpbWFnZXMpIHsK</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx3cml0ZVppcEVudHJ5XD4=</last-search>
+      <last-search encoding="base64">XDxjZWxsUGVyUm93XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx3cml0ZVppcEVudHJ5XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxjZWxsUGVyUm93XD4=</last-pattern>
       <last-replace>get(1)</last-replace>
       <last-substitute>get(0)</last-substitute>
       <last-dir>1</last-dir>
@@ -2327,7 +2328,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzdHlsZVw+</entry>
         <entry>background</entry>
         <entry>prima</entry>
         <entry>PSmall</entry>
@@ -2347,6 +2347,7 @@
         <entry encoding="base64">XDxvbkNsaWNrXD4=</entry>
         <entry encoding="base64">XDx3aWR0aFw+</entry>
         <entry encoding="base64">XDx3cml0ZVppcEVudHJ5XD4=</entry>
+        <entry encoding="base64">XDxjZWxsUGVyUm93XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/joint/connector/gc</entry>
