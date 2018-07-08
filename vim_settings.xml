@@ -467,6 +467,12 @@
         <mark key="^" line="69" column="8" />
         <mark key="." line="69" column="8" />
       </file>
+      <file name="$USER_HOME$/sync/temp/leetcode/leetcode.java" timestamp="1531050308777">
+        <mark key="'" line="113" column="0" />
+        <mark key="[" line="113" column="0" />
+        <mark key="]" line="113" column="0" />
+        <mark key="." line="113" column="0" />
+      </file>
       <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/entity/enums/AverageFactor.java" timestamp="1521111633149">
         <mark key="'" line="65" column="0" />
         <mark key="[" line="52" column="13" />
@@ -2005,7 +2011,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="190" column="28" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/ComponentServiceImpl.java" />
       <jump line="310" column="26" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.baomidou/mybatis-plus-support/2.3/2ca6af2ac631b5a3c59b3aed3311c5c87006e663/mybatis-plus-support-2.3-sources.jar!/com/baomidou/mybatisplus/service/impl/ServiceImpl.java" />
       <jump line="341" column="39" filename="$USER_HOME$/code/voc/src/test/java/com/cnvoc/voc/service/impl/ComponentServiceImplTest.java" />
       <jump line="204" column="30" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/RepairServiceImpl.java" />
@@ -2105,6 +2110,7 @@
       <jump line="18" column="18" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/common/Project.java" />
       <jump line="97" column="17" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/common/Project.java" />
       <jump line="21" column="35" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/common/Project.java" />
+      <jump line="113" column="0" filename="$USER_HOME$/sync/temp/leetcode/leetcode.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2127,8 +2133,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>&quot;.svg&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2244,31 +2250,31 @@
         <text encoding="base64">ICAgICAgICAvLyDljLnphY0lcywgJTVYcywgJS01WHMsICU1WFhz44CBWFglNVhYc1hY5LiA57G755qECg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1haW4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDliJvlu7roo4Xnva7nm67lvZUKICAgICAgICBpZiAoIUZpbGVzLmV4aXN0cyhpbnN0YWxsUGF0aCkpIHsKICAgICAgICAgICAgRmlsZXMuY3JlYXRlRGlyZWN0b3JpZXMoaW5zdGFsbFBhdGgpOwogICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuc3FsLlNRTEV4Y2VwdGlvbjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuamRiYy5VbmNhdGVnb3JpemVkU1FMRXhjZXB0aW9uOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyDliJvlu7roo4Xnva7nm67lvZUKICAgICAgICBpZiAoIUZpbGVzLmV4aXN0cyhpbnN0YWxsUGF0aCkpIHsKICAgICAgICAgICAgRmlsZXMuY3JlYXRlRGlyZWN0b3JpZXMoaW5zdGFsbFBhdGgpOwogICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5iYW9taWRvdS5teWJhdGlzcGx1cy5leGNlcHRpb25zLk15YmF0aXNQbHVzRXhjZXB0aW9uOwo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEuc3FsLlNRTEV4Y2VwdGlvbjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuamRiYy5VbmNhdGVnb3JpemVkU1FMRXhjZXB0aW9uOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdmFsdWU7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5iYW9taWRvdS5teWJhdGlzcGx1cy5leGNlcHRpb25zLk15YmF0aXNQbHVzRXhjZXB0aW9uOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobS5tYXRjaGVzKCkpIHsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
