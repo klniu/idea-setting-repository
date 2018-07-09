@@ -1309,11 +1309,11 @@
         <mark key="^" line="39" column="69" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/common/Function.java" timestamp="1530868628633">
-        <mark key="[" line="231" column="23" />
-        <mark key="]" line="231" column="26" />
-        <mark key="." line="231" column="26" />
-        <mark key="^" line="231" column="26" />
+      <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/common/Function.java" timestamp="1531115164237">
+        <mark key="[" line="305" column="0" />
+        <mark key="]" line="307" column="19" />
+        <mark key="." line="307" column="19" />
+        <mark key="^" line="307" column="19" />
       </file>
       <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/IRepairService.java" timestamp="1530256445037">
         <mark key="[" line="75" column="0" />
@@ -1825,12 +1825,12 @@
         <mark key="^" line="49" column="50" />
         <mark key="." line="49" column="50" />
       </file>
-      <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/RepairServiceImpl.java" timestamp="1531106810565">
+      <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/RepairServiceImpl.java" timestamp="1531114986617">
         <mark key="'" line="348" column="52" />
-        <mark key="[" line="251" column="27" />
-        <mark key="]" line="251" column="31" />
-        <mark key="." line="251" column="31" />
-        <mark key="^" line="251" column="31" />
+        <mark key="[" line="337" column="43" />
+        <mark key="]" line="337" column="49" />
+        <mark key="." line="337" column="49" />
+        <mark key="^" line="337" column="49" />
       </file>
       <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/entity/Component.java" timestamp="1524039552858">
         <mark key="'" line="76" column="0" />
@@ -2215,7 +2215,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>repair</text>
+        <text>before</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2322,7 +2322,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>repair</text>
+        <text>before</text>
       </register>
       <register name="/" type="4">
         <text>row.getRowNum()</text>
