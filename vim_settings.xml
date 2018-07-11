@@ -285,12 +285,6 @@
         <mark key="." line="100" column="17" />
         <mark key="^" line="100" column="17" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2e9c8649-18f5-43f9-a70d-cf6359de55b3/console.sql" timestamp="1530256408491">
-        <mark key="[" line="21" column="11" />
-        <mark key="]" line="21" column="12" />
-        <mark key="." line="21" column="12" />
-        <mark key="^" line="21" column="11" />
-      </file>
       <file name="D:/code/web/voc-web/src/app/routes/ldar/component/component.service.ts" timestamp="1520759923462">
         <mark key="'" line="43" column="4" />
         <mark key="[" line="26" column="56" />
@@ -332,6 +326,12 @@
         <mark key="]" line="97" column="27" />
         <mark key="." line="97" column="27" />
         <mark key="^" line="18" column="33" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2e9c8649-18f5-43f9-a70d-cf6359de55b3/console.sql" timestamp="1530256408491">
+        <mark key="[" line="21" column="11" />
+        <mark key="]" line="21" column="12" />
+        <mark key="." line="21" column="12" />
+        <mark key="^" line="21" column="11" />
       </file>
       <file name="$USER_HOME$/code/algorithm/src/main/java/list/ArrayList.java" timestamp="1530693024303">
         <mark key="'" line="38" column="11" />
@@ -714,7 +714,6 @@
         <mark key="^" line="10" column="13" />
         <mark key="." line="10" column="13" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.poi/poi-ooxml/3.17/c9967472b96ef92372352958dcfd3e8e0e5bd2d0/poi-ooxml-3.17-sources.jar!/org/apache/poi/xssf/usermodel/XSSFSheet.java" timestamp="1531204393831" />
       <file name="$USER_HOME$/code/website/src/redux/modules/auth.js" timestamp="1528594476566">
         <mark key="'" line="225" column="22" />
         <mark key="[" line="35" column="2" />
@@ -1287,7 +1286,6 @@
         <mark key="^" line="39" column="18" />
         <mark key="." line="39" column="18" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.poi/poi/3.17/9d185f2c484774285585e76f5f1d887208482f93/poi-3.17-sources.jar!/org/apache/poi/ss/usermodel/Sheet.java" timestamp="1531204375348" />
       <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/entity/assists/Pagination.java" timestamp="1530838183691">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -1822,11 +1820,11 @@
         <mark key="." line="25" column="10" />
         <mark key="^" line="25" column="10" />
       </file>
-      <file name="$USER_HOME$/code/lkc_website/src/data/translation.json" timestamp="1530523295736">
+      <file name="$USER_HOME$/code/lkc_website/src/data/translation.json" timestamp="1531277663025">
         <mark key="'" line="520" column="22" />
-        <mark key="[" line="24" column="31" />
-        <mark key="]" line="24" column="31" />
-        <mark key="." line="24" column="31" />
+        <mark key="[" line="513" column="24" />
+        <mark key="]" line="513" column="26" />
+        <mark key="." line="513" column="24" />
         <mark key="^" line="520" column="19" />
       </file>
       <file name="D:/code/web/voc-web/src/app/routes/base/factory/factory.component.ts" timestamp="1520142594805">
@@ -1967,6 +1965,7 @@
         <mark key="^" line="104" column="53" />
         <mark key="." line="104" column="53" />
       </file>
+      <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/model_test.go" timestamp="1531277634015" />
       <file name="$USER_HOME$/code/lkc_website/src/helpers/function.js" timestamp="1528940098955">
         <mark key="[" line="11" column="39" />
         <mark key="]" line="11" column="42" />
@@ -2246,7 +2245,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>!</text>
+        <text>正式</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2353,7 +2352,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text>正式</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXR0aW5nXD4=</text>
@@ -2399,7 +2398,7 @@
       <last-replace>(cells[i++])</last-replace>
       <last-substitute>(c)</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
