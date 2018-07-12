@@ -3,6 +3,8 @@
     <extensionMap>
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="Pipfile" type="PLAIN_TEXT" />
+      <mapping pattern="readlines" type="PLAIN_TEXT" />
+      <mapping ext="md" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
