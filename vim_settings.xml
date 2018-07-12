@@ -115,12 +115,13 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/code/yangmao/fetishcoin/main.py" timestamp="1531403311116">
-        <mark key="'" line="14" column="56" />
-        <mark key="[" line="24" column="18" />
-        <mark key="]" line="24" column="18" />
-        <mark key="." line="24" column="18" />
-        <mark key="^" line="24" column="18" />
+      <file name="$USER_HOME$/code/yangmao/fetishcoin/main.py" timestamp="1531407823470">
+        <mark key="a" line="37" column="30" />
+        <mark key="'" line="32" column="23" />
+        <mark key="[" line="33" column="24" />
+        <mark key="]" line="33" column="23" />
+        <mark key="." line="33" column="23" />
+        <mark key="^" line="33" column="23" />
       </file>
       <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/LdarSettingServiceImpl.java" timestamp="1523715458406">
         <mark key="'" line="86" column="90" />
@@ -837,11 +838,12 @@
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="7" />
       </file>
-      <file name="$USER_HOME$/code/xauto/xauto/web/WebUtil.py" timestamp="1531403336035">
-        <mark key="[" line="30" column="37" />
-        <mark key="]" line="30" column="37" />
-        <mark key="." line="30" column="37" />
-        <mark key="^" line="38" column="15" />
+      <file name="$USER_HOME$/code/xauto/xauto/web/WebUtil.py" timestamp="1531406954635">
+        <mark key="'" line="74" column="26" />
+        <mark key="[" line="61" column="41" />
+        <mark key="]" line="61" column="40" />
+        <mark key="." line="61" column="40" />
+        <mark key="^" line="61" column="40" />
       </file>
       <file name="$USER_HOME$/code/website/src/components/Navigation/style/pc.scss" timestamp="1530409434059">
         <mark key="[" line="121" column="0" />
@@ -1295,6 +1297,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
         <mark key="^" line="0" column="32" />
+      </file>
+      <file name="$USER_HOME$/.local/lib/python3.6/site-packages/xauto/web/WebUtil.py" timestamp="1531406467227">
+        <mark key="[" line="36" column="32" />
+        <mark key="]" line="36" column="33" />
+        <mark key="." line="36" column="33" />
       </file>
       <file name="D:/code/web/voc-ui/src/app/routes/ldar/component/component.component.html" timestamp="1522315141656">
         <mark key="'" line="77" column="49" />
@@ -2310,9 +2317,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="3" filename="$USER_HOME$/go/src/blockchain/src/main.go" />
-      <jump line="30" column="11" filename="$USER_HOME$/code/algorithm/src/main/java/list/ArrayList.java" />
-      <jump line="213" column="40" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/common/Function.java" />
       <jump line="130" column="19" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/common/Function.java" />
       <jump line="62" column="27" filename="$USER_HOME$/code/voc/src/test/java/com/cnvoc/voc/common/FunctionTest.java" />
       <jump line="16" column="0" filename="$USER_HOME$/code/voc/src/test/java/com/cnvoc/voc/common/FunctionTest.java" />
@@ -2410,6 +2414,9 @@
       <jump line="20" column="26" filename="$USER_HOME$/code/xauto/xauto/web/WebUtil.py" />
       <jump line="0" column="0" filename="$USER_HOME$/code/xauto/xauto/web/WebUtil.py" />
       <jump line="34" column="15" filename="$USER_HOME$/code/xauto/xauto/web/WebUtil.py" />
+      <jump line="17" column="19" filename="$USER_HOME$/code/yangmao/fetishcoin/main.py" />
+      <jump line="67" column="26" filename="$USER_HOME$/code/xauto/xauto/web/WebUtil.py" />
+      <jump line="26" column="23" filename="$USER_HOME$/code/yangmao/fetishcoin/main.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2432,8 +2439,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZi53cml0ZShtYWlsKQo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2540,43 +2547,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>finishl</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUa1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGJyb3dzZXIgPSBXZWJVdGlsKCJzb2NrczU6Ly8xMjcuMC4wLjE6MTA4MCIpCg==</text>
+        <text encoding="base64">ICAgIGJyb3dzZXIub3BlbihMSU5LICsgIiNldmVudCIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBicm93c2VyLmJhY2soKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZi53cml0ZShtYWlsKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0aW1lLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fZmluZF9lbGVtZW50KCkK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHdpdGggb3BlbignZmluaXNoZWQnLCAnYScpIGFzIGY6Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCkK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBicm93c2VyLmJhY2soKQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiB3YWl0X211aXRpcGxlKHNlbGYpOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29udGludWUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkK</text>
+        <text encoding="base64">ICAgICAgICBpZiBicm93c2VyLmN1cnJlbnRfdXJsKCkgPT0gTElOSzoK</text>
       </register>
       <register name=":" type="4">
-        <text>action PreviousTab</text>
+        <text>action NextTab</text>
       </register>
     </registers>
     <search>
@@ -2629,9 +2636,9 @@
         <entry>q</entry>
         <entry encoding="base64">JzwsJz5zL2Rpc3RhbmNlL2hlaWdodC9nYw==</entry>
         <entry>%s/return String.format/throw new InvalidDataException(String.format/gc</entry>
+        <entry>action PreviousTab</entry>
         <entry>action ReformatCode</entry>
         <entry>action NextTab</entry>
-        <entry>action PreviousTab</entry>
       </history-cmd>
       <history-expr />
       <history-input />
