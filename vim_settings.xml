@@ -138,11 +138,11 @@
         <mark key="." line="114" column="30" />
         <mark key="^" line="114" column="30" />
       </file>
-      <file name="$USER_HOME$/code/yangmao/helpers/Outlook.py" timestamp="1531471744654">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="23" column="22" />
+      <file name="$USER_HOME$/code/yangmao/helpers/Outlook.py" timestamp="1531473642846">
+        <mark key="[" line="31" column="29" />
+        <mark key="]" line="32" column="18" />
+        <mark key="^" line="32" column="18" />
+        <mark key="." line="32" column="18" />
       </file>
       <file name="$USER_HOME$/code/xauto/xkeys/README.md" timestamp="1531378329618">
         <mark key="[" line="0" column="57" />
@@ -295,22 +295,22 @@
         <mark key="^" line="47" column="20" />
         <mark key="." line="47" column="20" />
       </file>
-      <file name="/dummy.sql" timestamp="1531471251304">
+      <file name="/dummy.sql" timestamp="1531473849480">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531467313911">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="2" />
-        <mark key="." line="0" column="2" />
+      <file name="/Dummy.txt" timestamp="1531473918463">
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="0" column="12" />
+        <mark key="." line="0" column="12" />
       </file>
       <file name="$USER_HOME$/code/xauto/xauto/xkeys/Message.py" timestamp="1531443029951">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/person [data]" timestamp="1531470665378">
+      <file name="/person [data]" timestamp="1531473849204">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/website/src/containers/Home/style/pc.scss" timestamp="1530454596115">
@@ -411,7 +411,7 @@
       <file name="$USER_HOME$/.local/lib/python3.6/site-packages/xauto/xkeys/Common.py" timestamp="1531414101889">
         <mark key="[" line="4" column="5" />
       </file>
-      <file name="/Python Console" timestamp="1531469490485">
+      <file name="/Python Console" timestamp="1531473595888">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/lkc_website/src/server.js" timestamp="1529049557419">
@@ -480,12 +480,12 @@
         <mark key="^" line="13" column="0" />
         <mark key="." line="13" column="54" />
       </file>
-      <file name="$USER_HOME$/code/yangmao/module/modules.py" timestamp="1531470980540">
-        <mark key="'" line="2" column="51" />
-        <mark key="[" line="28" column="47" />
-        <mark key="]" line="28" column="57" />
-        <mark key="." line="28" column="47" />
-        <mark key="^" line="28" column="46" />
+      <file name="$USER_HOME$/code/yangmao/module/modules.py" timestamp="1531473829687">
+        <mark key="'" line="5" column="51" />
+        <mark key="[" line="6" column="6" />
+        <mark key="]" line="6" column="58" />
+        <mark key="." line="6" column="6" />
+        <mark key="^" line="6" column="5" />
       </file>
       <file name="$USER_HOME$/code/ym/config.py" timestamp="1527916846306">
         <mark key="[" line="23" column="0" />
@@ -806,7 +806,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>LINK</text>
+        <text>op.join(op.dirname(op.abspath(__file__)), 'data.db')</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -913,43 +913,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>LINK</text>
+        <text>ath</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
       </register>
       <register name="0" type="4">
-        <text>null=False</text>
+        <text>op.join(op.dirname(op.abspath(__file__)), 'data.db')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2hhbmdlSVAoJzBuSFNpNzVZWWFhUCcpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChsZW4oc2VsZi5wZW9wbGUpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGJyb3dzZXIuYWRibG9ja19hZGRfcnVsZShbJ2h0dHBzOi8vd3d3Lmdvb2dsZS5jb20vcmVjYXB0Y2hhLyonXSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGJyb3dzZXIub3BlbigiYWJvdXQ6YmxhbmsiKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmJyb3dzZXIub3BlbihTSUdOVVApCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgYnJvd3Nlci5jdHJsdygpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobGVuKHBlb3BsZSkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFNlbmRUb1VpLnNlbmRLZXkoJ2N0cmwrdycpCg==</text>
+        <text encoding="base64">ICAgIHVzaW5nX3dlYigpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMg5YWz6ZetYWRibG9ja+W5v+WRiumhtQo=</text>
+        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRpbWUuc2xlZXAoMSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYi5xdWl0KCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGJyb3dzZXIub3BlbigiYWJvdXQ6YmxhbmsiKQo=</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbGx5Ogo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmJyb3dzZXIgPQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2l0aCBvcGVuKCdmaW5pc2hlZCcsICd3JykgYXMgZjoKICAgICAgICAgICAgICAgIGZvciBtYWlsIGluIHNvcnRlZChzZXQoZmluaXNoZWQpKToKICAgICAgICAgICAgICAgICAgICBmLndyaXRlKG1haWwgKyAnXG4nKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action PreviousTab</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
@@ -1002,9 +1002,9 @@
         <entry encoding="base64">JzwsJz5zL2MvY2VsbHNbaSsrXS9nYw==</entry>
         <entry encoding="base64">JzwsJz5zLyhjKS8oY2VsbHNbaSsrXSkvZ2M=</entry>
         <entry encoding="base64">JzwsJz5zLyIvL2dj</entry>
+        <entry>action PreviousTab</entry>
         <entry>action NextTab</entry>
         <entry>action ReformatCode</entry>
-        <entry>action PreviousTab</entry>
       </history-cmd>
       <history-expr />
       <history-input />
