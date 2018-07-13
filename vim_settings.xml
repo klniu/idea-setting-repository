@@ -1456,11 +1456,12 @@
         <mark key="^" line="39" column="69" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/code/xauto/xauto/web/MailUtil.py" timestamp="1531450971913">
-        <mark key="[" line="29" column="50" />
-        <mark key="]" line="29" column="55" />
-        <mark key="." line="29" column="55" />
-        <mark key="^" line="29" column="55" />
+      <file name="$USER_HOME$/code/xauto/xauto/web/MailUtil.py" timestamp="1531455781269">
+        <mark key="'" line="27" column="13" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="27" column="21" />
       </file>
       <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/common/Function.java" timestamp="1531206007467">
         <mark key="'" line="366" column="14" />
@@ -1749,12 +1750,11 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="1" column="34" />
       </file>
-      <file name="$USER_HOME$/code/xauto/xauto/web/parse_email.py" timestamp="1531451453761">
-        <mark key="'" line="23" column="20" />
-        <mark key="[" line="23" column="36" />
-        <mark key="]" line="23" column="47" />
-        <mark key="." line="23" column="47" />
-        <mark key="^" line="23" column="47" />
+      <file name="$USER_HOME$/code/xauto/xauto/web/parse_email.py" timestamp="1531455805801">
+        <mark key="'" line="32" column="35" />
+        <mark key="[" line="36" column="24" />
+        <mark key="]" line="36" column="24" />
+        <mark key="." line="36" column="24" />
       </file>
       <file name="$USER_HOME$/code/website/src/containers/Announcement/data.js" timestamp="1530355470595">
         <mark key="'" line="25" column="36" />
@@ -2350,10 +2350,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="97" column="17" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/common/Project.java" />
-      <jump line="21" column="35" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/common/Project.java" />
-      <jump line="29" column="13" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/entity/svg/SVG.java" />
-      <jump line="37" column="14" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/entity/svg/SVG.java" />
       <jump line="39" column="42" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/entity/svg/SVG.java" />
       <jump line="50" column="11" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/entity/svg/SVG.java" />
       <jump line="51" column="12" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/entity/svg/SVG.java" />
@@ -2449,7 +2445,11 @@
       <jump line="28" column="0" filename="$USER_HOME$/code/yangmao/fetishcoin/main.py" />
       <jump line="81" column="8" filename="$USER_HOME$/code/xauto/xauto/web/parse_email.py" />
       <jump line="17" column="22" filename="$USER_HOME$/code/xauto/xauto/web/parse_email.py" />
-      <jump line="23" column="20" filename="$USER_HOME$/code/xauto/xauto/web/parse_email.py" />
+      <jump line="23" column="47" filename="$USER_HOME$/code/xauto/xauto/web/parse_email.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/xauto/xauto/web/parse_email.py" />
+      <jump line="42" column="68" filename="$USER_HOME$/code/xauto/xauto/web/parse_email.py" />
+      <jump line="29" column="35" filename="$USER_HOME$/code/xauto/xauto/web/parse_email.py" />
+      <jump line="29" column="13" filename="$USER_HOME$/code/xauto/xauto/web/MailUtil.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2473,7 +2473,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Message</text>
+        <text>)</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2580,7 +2580,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Message</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>get_content</text>
@@ -2589,35 +2589,34 @@
         <text>selenium</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG1zZy5nZXRfY28K</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGF0YTEgPSBiYXNlNjQuYjY0ZGVjb2RlKGRhdGFbMF1bMV0pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG1zZy4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ01lc3NhZ2UgJXNcbiVzXG4nICUgKG51bSwgZGF0YTEpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG1zZwo=</text>
+        <text encoding="base64">ZnJvbSBlbWFpbC5wYXJzZXIgaW1wb3J0IFBhcnNlcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBwYXRobGliIGltcG9ydCBQYXRoCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzb2Nrcy5zZXRkZWZhdWx0cHJveHkoc29ja3MuUFJPWFlfVFlQRV9TT0NLUzUsIHNvY2tzNV9wcm8sIHBvcnQsIFRydWUpCiAgICAgICAgc29ja2V0LnNvY2tldCA9IHNvY2tzLnNvY2tzb2NrZXQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBzb2NrcwogICAgaW1wb3J0IHNvY2tldAo=</text>
+        <text encoding="base64">IyBmcm9tIGh0dHBzOi8vZ2lzdC5naXRodWIuY29tL2t0bXVkL2NiNWUzY2EwMjIyZjg2ZjVkMDU3NWNhZGRiZDI1YzAzaW1wb3J0IHJlCmltcG9ydCBlbWFpbC5jaGFyc2V0CmltcG9ydCBvcwppbXBvcnQgcmUKZnJvbSBnbG9iIGltcG9ydCBnbG9iCmZyb20gZW1haWwgaW1wb3J0IG1lc3NhZ2VfZnJvbV9iaW5hcnlfZmlsZSwgcG9saWN5CgpSRV9RVU9QUklfQlMgPSByZS5jb21waWxlKHInXGI9MjA9XG4nKQpSRV9RVU9QUklfTEUgPSByZS5jb21waWxlKHInXGI9XG4nKQpSRV9MT05HX1dPUkRTID0gcmUuY29tcGlsZShyJ1xiW1x3XC9cK1w9XG5dezcyLH1cYicpCgplbWFpbC5jaGFyc2V0LkFMSUFTRVMudXBkYXRlKHsKICAgICdpc28tODg1OS04LWknOiAnaXNvLTg4NTktOCcsCiAgICAneC1tYWMtY3lyaWxsaWMnOiAnbWFjLWN5cmlsbGljJywKICAgICdtYWNpbnRvc2gnOiAnbWFjLXJvbWFuJywKICAgICd3aW5kb3dzLTg3NCc6ICdjcDg3NCcsCiAgICAjIG1hbnVhbGx5IGZpeCB1bmtub3duIGNoYXJzZXQgZW5jb2RpbmcKICAgICdkZWZhdWx0JzogJ3V0Zi04JywKICAgICd4LXVua25vd24nOiAndXRmLTgnLAogICAgJyVjaGFyc2V0JzogJ3V0Zi04JywKfSkKCgpkZWYgZXh0cmFjdF9ib2R5KG1zZzogZW1haWwubWVzc2FnZS5FbWFpbE1lc3NhZ2UsIGRlcHRoPTApOgogICAgIiIiIEV4dHJhY3QgY29udGVudCBib2R5IG9mIGFuIGVtYWlsIG1lc3NzYWdlICIiIgogICAgYm9keSA9IFtdCiAgICBpZiBtc2cuaXNfbXVsdGlwYXJ0KCk6CiAgICAgICAgbWFpbl9jb250ZW50ID0gTm9uZQogICAgICAgICMgbXVsdGktcGFydCBlbWFpbHMgb2Z0ZW4gaGF2ZSBib3RoCiAgICAgICAgIyBhIHRleHQvcGxhaW4gYW5kIGEgdGV4dC9odG1sIHBhcnQuCiAgICAgICAgIyBVc2UgdGhlIGZpcnN0IGB0ZXh0L3BsYWluYCBwYXJ0IGlmIHRoZXJlIGlzIG9uZSwKICAgICAgICAjIG90aGVyd2lzZSB0YWtlIHRoZSBmaXJzdCBgdGV4dC8qYCBwYXJ0LgogICAgICAgIGZvciBwYXJ0IGluIG1zZy5nZXRfcGF5bG9hZCgpOgogICAgICAgICAgICBpc190eHQgPSBwYXJ0LmdldF9jb250ZW50X3R5cGUoKSA9PSAndGV4dC9wbGFpbicKICAgICAgICAgICAgaWYgbm90IG1haW5fY29udGVudCBvciBpc190eHQ6CiAgICAgICAgICAgICAgICBtYWluX2NvbnRlbnQgPSBleHRyYWN0X2JvZHkocGFydCkKICAgICAgICAgICAgaWYgaXNfdHh0OgogICAgICAgICAgICAgICAgYnJlYWsKICAgICAgICBpZiBtYWluX2NvbnRlbnQ6CiAgICAgICAgICAgIGJvZHkuZXh0ZW5kKG1haW5fY29udGVudCkKICAgIGVsaWYgbXNnLmdldF9jb250ZW50X3R5cGUoKS5zdGFydHN3aXRoKCJ0ZXh0LyIpOgogICAgICAgICMgR2V0IHRoZSBtZXNzYWdlcwogICAgICAgIGNoYXJzZXQgPSBtc2cuZ2V0X3BhcmFtKCdjaGFyc2V0JywgJ3V0Zi04JykubG93ZXIoKQogICAgICAgICMgdXBkYXRlIGNoYXJzZXQgYWxpYXNlcwogICAgICAgIGNoYXJzZXQgPSBlbWFpbC5jaGFyc2V0LkFMSUFTRVMuZ2V0KGNoYXJzZXQsIGNoYXJzZXQpCiAgICAgICAgbXNnLnNldF9wYXJhbSgnY2hhcnNldCcsIGNoYXJzZXQpCiAgICAgICAgdHJ5OgogICAgICAgICAgICBib2R5LmFwcGVuZChtc2cuZ2V0X2NvbnRlbnQoKSkKICAgICAgICBleGNlcHQgQXNzZXJ0aW9uRXJyb3IgYXMgZToKICAgICAgICAgICAgcHJpbnQoJ1BhcnNpbmcgZmFpbGVkLiAgICAnKQogICAgICAgICAgICBwcmludChlKQogICAgICAgIGV4Y2VwdCBMb29rdXBFcnJvcjoKICAgICAgICAgICAgIyBzZXQgYWxsIHVua25vd24gZW5jb2RpbmcgdG8gdXRmLTgKICAgICAgICAgICAgIyB0aGVuIGFkZCBhIGhlYWRlciB0byBpbmRpY2F0ZSB0aGlzIG1pZ2h0IGJlIGEgc3BhbQogICAgICAgICAgICBtc2cuc2V0X3BhcmFtKCdjaGFyc2V0JywgJ3V0Zi04JykKICAgICAgICAgICAgYm9keS5hcHBlbmQoJz09PSA8VU5LT1dOIEVOQ09ESU5HIFBPU1NJQkxZIFNQQU0+ID09PScpCiAgICAgICAgICAgIGJvZHkuYXBwZW5kKG1zZy5nZXRfY29udGVudCgpKQogICAgcmV0dXJuIGJvZHkKCgpkZWYgcmVhZF9lbWFpbHMoZGlycGF0aCk6CiAgICAiIiIgUmVhZCBhbGwgZW1haWxzIHVuZGVyIGEgZGlyZWN0b3J5CiAgICBSZXR1cm5zOgogICAgICBhIGl0ZXJhdG9yLiBVc2UKICAgICAgICAgIGZvciB4IGluIHJlYWRfZW1haWxzKCk6CiAgICAgICAgICAgICAgcHJpbnQoeCkKICAgICAgdG8gYWNjZXNzIHRoZSBlbWFpbHMuCiAgICAiIiIKICAgIGRpcnBhdGggPSBvcy5wYXRoLmV4cGFuZHVzZXIoZGlycGF0aCkKICAgIHByaW50KCclcy9kYXRhL2lubWFpbC4qJyAlIGRpcnBhdGgpCiAgICBmb3IgZmlsZW5hbWUgaW4gZ2xvYignJXMvZGF0YS9pbm1haWwuKicgJSBkaXJwYXRoKToKICAgICAgICBwcmludCgnUmVhZCAlcycgJSBmaWxlbmFtZSwgZW5kPSdccicpCiAgICAgICAgbXNnID0gbWVzc2FnZV9mcm9tX2JpbmFyeV9maWxlKG9wZW4oZmlsZW5hbWUsIG1vZGU9InJiIiksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBvbGljeT1wb2xpY3kuZGVmYXVsdCkKICAgICAgICBib2R5ID0gJ1xuXG4nLmpvaW4oZXh0cmFjdF9ib2R5KG1zZykpCiAgICAgICAgIyByZW1vdmUgcG90ZW50aWFsIHF1b3RlIHByaW50IGZvcm1hdHRpbmcgc3RyaW5ncwogICAgICAgIGJvZHkgPSBSRV9RVU9QUklfQlMuc3ViKCcnLCBib2R5KQogICAgICAgIGJvZHkgPSBSRV9RVU9QUklfTEUuc3ViKCcnLCBib2R5KQogICAgICAgIGJvZHkgPSBSRV9MT05HX1dPUkRTLnN1YignJywgYm9keSkKICAgICAgICB5aWVsZCB7CiAgICAgICAgICAgICJfaWQiOiBvcy5wYXRoLmJhc2VuYW1lKGZpbGVuYW1lKS5yZXBsYWNlKCcuJywgJ18nKSwKICAgICAgICAgICAgInN1YmplY3QiOiBtc2dbJ3N1YmplY3QnXSwKICAgICAgICAgICAgInRleHQiOiBib2R5IG9yICcnCiAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1zZy5nZXRfY28K</text>
       </register>
-      <register name="9" type="8">
-        <text>M
-M</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIG1zZy4K</text>
       </register>
       <register name=":" type="4">
-        <text>action PreviousTab</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
@@ -2670,9 +2669,9 @@ M</text>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz5zL2MvY2VsbHNbaSsrXS9nYw==</entry>
         <entry encoding="base64">JzwsJz5zLyhjKS8oY2VsbHNbaSsrXSkvZ2M=</entry>
-        <entry>action ReformatCode</entry>
         <entry>action NextTab</entry>
         <entry>action PreviousTab</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
