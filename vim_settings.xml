@@ -159,6 +159,12 @@
         <mark key="^" line="16" column="17" />
         <mark key="." line="16" column="15" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2e9c8649-18f5-43f9-a70d-cf6359de55b3/console.sql" timestamp="1530256408491">
+        <mark key="[" line="21" column="11" />
+        <mark key="]" line="21" column="12" />
+        <mark key="." line="21" column="12" />
+        <mark key="^" line="21" column="11" />
+      </file>
       <file name="/Python Console" timestamp="1531473595888">
         <mark key="[" line="0" column="0" />
       </file>
@@ -197,12 +203,6 @@
         <mark key="]" line="149" column="0" />
         <mark key="^" line="147" column="44" />
         <mark key="." line="149" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2e9c8649-18f5-43f9-a70d-cf6359de55b3/console.sql" timestamp="1530256408491">
-        <mark key="[" line="21" column="11" />
-        <mark key="]" line="21" column="12" />
-        <mark key="." line="21" column="12" />
-        <mark key="^" line="21" column="11" />
       </file>
       <file name="/a.sql" timestamp="1531471039967">
         <mark key="[" line="0" column="0" />
@@ -572,7 +572,7 @@
         <mark key="]" line="61" column="0" />
         <mark key="." line="61" column="0" />
       </file>
-      <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/model_test.go" timestamp="1531739880413" />
+      <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/model_test.go" timestamp="1531733794317" />
       <file name="$USER_HOME$/code/lkc_website/src/helpers/function.js" timestamp="1528940098955">
         <mark key="[" line="11" column="39" />
         <mark key="]" line="11" column="42" />
@@ -608,8 +608,8 @@
         <mark key="." line="9" column="28" />
         <mark key="^" line="9" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531740370089">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1531473918463">
+        <mark key="[" line="0" column="11" />
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
@@ -641,6 +641,12 @@
         <mark key="]" line="16" column="0" />
         <mark key="^" line="16" column="0" />
         <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/utils/system/wakeup/wakeup" timestamp="1531734035434">
+        <mark key="[" line="38" column="88" />
+        <mark key="]" line="38" column="87" />
+        <mark key="." line="38" column="87" />
+        <mark key="^" line="38" column="87" />
       </file>
       <file name="/person [data]" timestamp="1531473849204">
         <mark key="[" line="0" column="0" />
@@ -807,7 +813,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>op.join(op.dirname(op.abspath(__file__)), 'data.db')</text>
+        <text>]</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -914,7 +920,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ath</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
@@ -986,7 +992,6 @@
         <entry>&quot;</entry>
       </history-search>
       <history-cmd>
-        <entry>action Forward</entry>
         <entry encoding="base64">JzwsJz5zL2Rpc3RhbmNlL2hlaWdodC9nYw==</entry>
         <entry>%s/return String.format/throw new InvalidDataException(String.format/gc</entry>
         <entry>%s/.test p/h2</entry>
@@ -1006,6 +1011,7 @@
         <entry>action PreviousTab</entry>
         <entry>action NextTab</entry>
         <entry>action ReformatCode</entry>
+        <entry>set filetype=bash</entry>
       </history-cmd>
       <history-expr />
       <history-input />
