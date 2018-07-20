@@ -1,7 +1,11 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="wakeup" type="Bash" />
       <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping pattern="readlines" type="PLAIN_TEXT" />
+      <mapping pattern="Pipfile" type="PLAIN_TEXT" />
+      <mapping pattern="finished" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
