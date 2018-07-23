@@ -1110,6 +1110,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/VocApplication.java" timestamp="1532339603491">
+        <mark key="[" line="29" column="8" />
+        <mark key="]" line="29" column="3" />
+        <mark key="^" line="29" column="3" />
+        <mark key="." line="29" column="3" />
+      </file>
       <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/IEmissionService.java" timestamp="1523715555193">
         <mark key="'" line="15" column="25" />
         <mark key="[" line="15" column="4" />
@@ -1124,7 +1130,7 @@
         <mark key="." line="101" column="0" />
         <mark key="^" line="16" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532338119747">
+      <file name="/Dummy.txt" timestamp="1532340077944">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
@@ -1569,6 +1575,12 @@
         <mark key="^" line="4" column="4" />
         <mark key="." line="4" column="4" />
       </file>
+      <file name="$USER_HOME$/code/voc/Readme.md" timestamp="1532339237578">
+        <mark key="[" line="22" column="107" />
+        <mark key="]" line="22" column="107" />
+        <mark key="." line="22" column="107" />
+        <mark key="^" line="22" column="107" />
+      </file>
       <file name="$USER_HOME$/code/ym/ethwallets.py" timestamp="1527913647532">
         <mark key="[" line="3" column="27" />
         <mark key="]" line="3" column="35" />
@@ -1767,12 +1779,6 @@
         <mark key="]" line="154" column="22" />
         <mark key="^" line="5" column="0" />
         <mark key="." line="1" column="34" />
-      </file>
-      <file name="$USER_HOME$/code/xauto/xauto/web/parse_email.py" timestamp="1531455805801">
-        <mark key="'" line="32" column="35" />
-        <mark key="[" line="36" column="24" />
-        <mark key="]" line="36" column="24" />
-        <mark key="." line="36" column="24" />
       </file>
       <file name="$USER_HOME$/code/website/src/containers/Announcement/data.js" timestamp="1530355470595">
         <mark key="'" line="25" column="36" />
@@ -2496,7 +2502,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>]</text>
+        <text>：</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2603,40 +2609,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>：</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
       </register>
       <register name="0" type="4">
-        <text>op.join(op.dirname(op.abspath(__file__)), 'data.db')</text>
+        <text>导入src/main/resources/sql/schema.sql即可。</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChsZW4oc2VsZi5wZW9wbGUpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmJyb3dzZXIub3BlbihTSUdOVVApCg==</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobGVuKHBlb3BsZSkpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChsZW4oc2VsZi5wZW9wbGUpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHVzaW5nX3dlYigpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmJyb3dzZXIub3BlbihTSUdOVVApCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYi5xdWl0KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobGVuKHBlb3BsZSkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbGx5Ogo=</text>
+        <text encoding="base64">ICAgIHVzaW5nX3dlYigpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2l0aCBvcGVuKCdmaW5pc2hlZCcsICd3JykgYXMgZjoKICAgICAgICAgICAgICAgIGZvciBtYWlsIGluIHNvcnRlZChzZXQoZmluaXNoZWQpKToKICAgICAgICAgICAgICAgICAgICBmLndyaXRlKG1haWwgKyAnXG4nKQo=</text>
+        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
