@@ -192,6 +192,13 @@
         <mark key="^" line="53" column="43" />
         <mark key="." line="53" column="43" />
       </file>
+      <file name="$USER_HOME$/code/voc-ui/src/app/routes/common/api.service.ts" timestamp="1532338551795">
+        <mark key="'" line="69" column="23" />
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
+        <mark key="^" line="67" column="18" />
+      </file>
       <file name="$USER_HOME$/code/xauto/xkeys/SystemUtil.py" timestamp="1531386959600">
         <mark key="[" line="12" column="33" />
         <mark key="]" line="12" column="33" />
@@ -696,7 +703,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="13" filename="$USER_HOME$/code/voc/src/test/java/com/cnvoc/voc/service/impl/ComponentServiceImplTest.java" />
       <jump line="263" column="16" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/ComponentServiceImpl.java" />
       <jump line="264" column="32" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/ComponentServiceImpl.java" />
       <jump line="270" column="40" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/ComponentServiceImpl.java" />
@@ -796,6 +802,7 @@
       <jump line="26" column="16" filename="$USER_HOME$/code/yangmao/helpers/helper.py" />
       <jump line="2" column="51" filename="$USER_HOME$/code/yangmao/module/modules.py" />
       <jump line="0" column="0" filename="$USER_HOME$/code/yangmao/fetishcoin/main.py" />
+      <jump line="69" column="23" filename="$USER_HOME$/code/voc-ui/src/app/routes/common/api.service.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -818,8 +825,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>re</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnY2xlYXIuLi4nKTsK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -926,40 +933,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>re</text>
+        <text>clear</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
       </register>
-      <register name="0" type="4">
-        <text>op.join(op.dirname(op.abspath(__file__)), 'data.db')</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnY2xlYXIuLi4nKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChsZW4oc2VsZi5wZW9wbGUpKQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnY2xlYXIuLi4nKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndGVzdC4uLicpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmJyb3dzZXIub3BlbihTSUdOVVApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3Rlc3QuLi4nKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobGVuKHBlb3BsZSkpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChsZW4oc2VsZi5wZW9wbGUpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHVzaW5nX3dlYigpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmJyb3dzZXIub3BlbihTSUdOVVApCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYi5xdWl0KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobGVuKHBlb3BsZSkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbGx5Ogo=</text>
+        <text encoding="base64">ICAgIHVzaW5nX3dlYigpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2l0aCBvcGVuKCdmaW5pc2hlZCcsICd3JykgYXMgZjoKICAgICAgICAgICAgICAgIGZvciBtYWlsIGluIHNvcnRlZChzZXQoZmluaXNoZWQpKToKICAgICAgICAgICAgICAgICAgICBmLndyaXRlKG1haWwgKyAnXG4nKQo=</text>
+        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
