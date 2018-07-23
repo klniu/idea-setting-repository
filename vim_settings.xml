@@ -192,8 +192,8 @@
         <mark key="^" line="53" column="43" />
         <mark key="." line="53" column="43" />
       </file>
-      <file name="$USER_HOME$/code/voc-ui/src/app/routes/common/api.service.ts" timestamp="1532338551795">
-        <mark key="'" line="69" column="23" />
+      <file name="$USER_HOME$/code/voc-ui/src/app/routes/common/api.service.ts" timestamp="1532339324838">
+        <mark key="'" line="62" column="22" />
         <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="0" />
         <mark key="." line="62" column="0" />
@@ -315,12 +315,6 @@
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/xauto/xauto/web/parse_email.py" timestamp="1531455805801">
-        <mark key="'" line="32" column="35" />
-        <mark key="[" line="36" column="24" />
-        <mark key="]" line="36" column="24" />
-        <mark key="." line="36" column="24" />
       </file>
       <file name="$USER_HOME$/code/xauto/xkeys/README.md" timestamp="1531378329618">
         <mark key="[" line="0" column="57" />
@@ -550,6 +544,10 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/code/voc-ui/package-lock.json" timestamp="1532339401321">
+        <mark key="[" line="3535" column="9" />
+        <mark key="]" line="3535" column="17" />
+      </file>
       <file name="$USER_HOME$/code/xauto/xkeys/Emacs.py" timestamp="1531384632388">
         <mark key="[" line="10" column="18" />
         <mark key="]" line="10" column="18" />
@@ -701,13 +699,11 @@
         <mark key="." line="3" column="26" />
         <mark key="^" line="3" column="26" />
       </file>
+      <file name="$USER_HOME$/code/voc-ui/src/app/core/net/default.interceptor.ts" timestamp="1532339539247">
+        <mark key="'" line="70" column="25" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="263" column="16" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/ComponentServiceImpl.java" />
-      <jump line="264" column="32" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/ComponentServiceImpl.java" />
-      <jump line="270" column="40" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/ComponentServiceImpl.java" />
-      <jump line="271" column="36" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/ComponentServiceImpl.java" />
-      <jump line="255" column="31" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/ComponentServiceImpl.java" />
       <jump line="0" column="0" filename="$USER_HOME$/code/voc/src/test/resources/sql/init.sql" />
       <jump line="1" column="0" filename="$USER_HOME$/sync/temp/leetcode/leetcode.java" />
       <jump line="115" column="13" filename="$USER_HOME$/sync/temp/leetcode/leetcode.java" />
@@ -803,6 +799,11 @@
       <jump line="2" column="51" filename="$USER_HOME$/code/yangmao/module/modules.py" />
       <jump line="0" column="0" filename="$USER_HOME$/code/yangmao/fetishcoin/main.py" />
       <jump line="69" column="23" filename="$USER_HOME$/code/voc-ui/src/app/routes/common/api.service.ts" />
+      <jump line="108" column="29" filename="$USER_HOME$/code/voc-ui/src/app/routes/common/api.service.ts" />
+      <jump line="104" column="24" filename="$USER_HOME$/code/voc-ui/src/app/routes/common/api.service.ts" />
+      <jump line="62" column="22" filename="$USER_HOME$/code/voc-ui/src/app/routes/common/api.service.ts" />
+      <jump line="79" column="25" filename="$USER_HOME$/code/voc-ui/src/app/core/net/default.interceptor.ts" />
+      <jump line="70" column="25" filename="$USER_HOME$/code/voc-ui/src/app/core/net/default.interceptor.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -825,8 +826,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnY2xlYXIuLi4nKTsK</text>
+      <register name="&quot;" type="4">
+        <text>has-cors&quot;</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -936,7 +937,7 @@
         <text>clear</text>
       </register>
       <register name="/" type="4">
-        <text>&quot;</text>
+        <text>has</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnY2xlYXIuLi4nKTsK</text>
@@ -973,17 +974,16 @@
       </register>
     </registers>
     <search>
-      <last-search>&quot;</last-search>
+      <last-search>has</last-search>
       <last-offset />
-      <last-pattern>&quot;</last-pattern>
+      <last-pattern>has</last-pattern>
       <last-replace />
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>about</entry>
         <entry>width</entry>
         <entry>css</entry>
         <entry>js</entry>
@@ -1003,6 +1003,7 @@
         <entry encoding="base64">XDxUa1w+</entry>
         <entry>get_content</entry>
         <entry>&quot;</entry>
+        <entry>has</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2Rpc3RhbmNlL2hlaWdodC9nYw==</entry>
