@@ -501,11 +501,12 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="129" column="3" />
       </file>
-      <file name="$USER_HOME$/code/webutils/map/安监系统数据统计/各省份系统数量与监测预警系统数量统计.html" timestamp="1532656201363">
-        <mark key="[" line="81" column="9" />
-        <mark key="]" line="81" column="8" />
-        <mark key="^" line="81" column="8" />
-        <mark key="." line="81" column="8" />
+      <file name="$USER_HOME$/code/webutils/map/安监系统数据统计/各省份系统数量与监测预警系统数量统计.html" timestamp="1532657727332">
+        <mark key="'" line="168" column="0" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="46" column="8" />
+        <mark key="." line="171" column="22" />
+        <mark key="^" line="171" column="22" />
       </file>
       <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/SVGParser.java" timestamp="1524191582867">
         <mark key="'" line="229" column="0" />
@@ -716,12 +717,11 @@
         <mark key="." line="97" column="0" />
         <mark key="^" line="96" column="14" />
       </file>
-      <file name="$USER_HOME$/code/webutils/map/安监系统数据统计/各省份煤监系统数量统计.html" timestamp="1532656156200">
-        <mark key="'" line="110" column="107" />
-        <mark key="[" line="110" column="107" />
-        <mark key="]" line="110" column="107" />
-        <mark key="^" line="110" column="107" />
-        <mark key="." line="110" column="107" />
+      <file name="$USER_HOME$/code/webutils/map/安监系统数据统计/各省份煤监系统数量统计.html" timestamp="1532657748214">
+        <mark key="[" line="146" column="98" />
+        <mark key="]" line="146" column="118" />
+        <mark key="." line="146" column="118" />
+        <mark key="^" line="146" column="118" />
       </file>
       <file name="D:/code/web/voc-web/src/app/routes/passport/login/login.component.ts" timestamp="1520135524045">
         <mark key="'" line="29" column="36" />
@@ -1171,7 +1171,7 @@
         <mark key="." line="101" column="0" />
         <mark key="^" line="16" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532616473535">
+      <file name="/Dummy.txt" timestamp="1532658170212">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
@@ -2469,10 +2469,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="4" filename="$USER_HOME$/code/voc/src/test/java/com/cnvoc/voc/common/EnumHelperTest.java" />
-      <jump line="72" column="8" filename="$USER_HOME$/code/voc/src/test/java/com/cnvoc/voc/service/impl/LdarSettingServiceImplTest.java" />
-      <jump line="33" column="8" filename="$USER_HOME$/code/voc/src/test/java/com/cnvoc/voc/common/EnumHelperTest.java" />
-      <jump line="87" column="0" filename="$USER_HOME$/code/voc/src/test/java/com/cnvoc/voc/common/EnumHelperTest.java" />
       <jump line="34" column="15" filename="$USER_HOME$/code/voc/src/test/java/com/cnvoc/voc/common/EnumHelperTest.java" />
       <jump line="85" column="0" filename="$USER_HOME$/code/voc/src/test/java/com/cnvoc/voc/common/EnumHelperTest.java" />
       <jump line="18" column="29" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/common/EnumHelper.java" />
@@ -2569,6 +2565,10 @@
       <jump line="143" column="8" filename="$USER_HOME$/code/webutils/map/安监系统数据统计/各省份系统数量与监测预警系统数量统计.html" />
       <jump line="145" column="36" filename="$USER_HOME$/code/webutils/map/安监系统数据统计/各省份系统数量与监测预警系统数量统计.html" />
       <jump line="110" column="107" filename="$USER_HOME$/code/webutils/map/安监系统数据统计/各省份煤监系统数量统计.html" />
+      <jump line="177" column="57" filename="$USER_HOME$/code/webutils/map/安监系统数据统计/各省份系统数量与监测预警系统数量统计.html" />
+      <jump line="173" column="14" filename="$USER_HOME$/code/webutils/map/安监系统数据统计/各省份系统数量与监测预警系统数量统计.html" />
+      <jump line="171" column="22" filename="$USER_HOME$/code/webutils/map/安监系统数据统计/各省份系统数量与监测预警系统数量统计.html" />
+      <jump line="168" column="0" filename="$USER_HOME$/code/webutils/map/安监系统数据统计/各省份系统数量与监测预警系统数量统计.html" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2591,8 +2591,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiAgICAgICAgLmFtYXAtbWFya2VyLWxhYmVsIHsKICAgICAgICAgICAgYm9yZGVyOiAxcHggc29saWQgIzhlOGU4ZTsKICAgICAgICAgICAgYm9yZGVyLXJhZGl1czogNXB4IDVweCA1cHggNXB4OwogICAgICAgICAgICB0ZXh0LWFsaWduOiBjZW50ZXI7CiAgICAgICAgICAgIGNvbG9yOiAjNTU1OwogICAgICAgICAgICBiYWNrZ3JvdW5kLWNvbG9yOiAjZmZmZWVmOwogICAgICAgICAgICBmb250LXNpemU6IDE0cHg7CiAgICAgICAgfQoKICAgICAgICAubWFya2VyLW51bWJlciB7CiAgICAgICAgICAgIGJhY2tncm91bmQtY29sb3I6ICNkYzM5MTI7CiAgICAgICAgICAgIGNvbG9yOiAjZmZmOwogICAgICAgIH0K</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2699,57 +2699,56 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text>.toString()</text>
       </register>
       <register name="/" type="4">
-        <text>content\[i++\]</text>
+        <text encoding="base64">XDxwb3NpdGlvblw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9udC1zaXplOiAxNHB4Owo=</text>
+        <text encoding="base64">ICAgICAgICAuYW1hcC1tYXJrZXItbGFiZWwgewogICAgICAgICAgICBib3JkZXI6IDFweCBzb2xpZCAjOGU4ZThlOwogICAgICAgICAgICBib3JkZXItcmFkaXVzOiA1cHggNXB4IDVweCA1cHg7CiAgICAgICAgICAgIHRleHQtYWxpZ246IGNlbnRlcjsKICAgICAgICAgICAgY29sb3I6ICM1NTU7CiAgICAgICAgICAgIGJhY2tncm91bmQtY29sb3I6ICNmZmZlZWY7CiAgICAgICAgICAgIGZvbnQtd2VpZ2h0OiBib2xkOwogICAgICAgICAgICBmb250LXNpemU6IDE2cHg7CiAgICAgICAgfQoKICAgICAgICAubWFya2VyLW51bWJlciB7CiAgICAgICAgICAgIGJhY2tncm91bmQtY29sb3I6ICNkYzM5MTI7CiAgICAgICAgICAgIGNvbG9yOiAjZmZmOwogICAgICAgICAgICBtYXJnaW4tdG9wOiA1cHg7CiAgICAgICAgICAgIHBhZGRpbmc6IDVweCAwOwogICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAxMTAwMDAKICAgICAgICA1MTAwMDAKICAgICAgICAzNTAwMDAKICAgICAgICA2MjAwMDAKICAgICAgICA1MjAwMDAKICAgICAgICAxMzAwMDAKICAgICAgICA0MTAwMDAKICAgICAgICAyMzAwMDAKICAgICAgICA0MjAwMDAKICAgICAgICAgICAgNDMwMDAwCiAgICAgICAgMjIwMDAwCiAgICAgICAgICAgIDMyMDAwMAogICAgICAgIDE1MDAwMAogICAgICAgICAgICAzMzAwMDAKICAgICAgICA2NDAwMDAKICAgICAgICAgICAgMzcwMDAwCiAgICAgICAgNjEwMDAwCiAgICAgICAgICAgIDIxMDAwMAogICAgICAgIDM2MDAwMAogICAgICAgICAgICA2NTAwMDAKICAgICAgICA1MzAwMDAKICAgICAgICAgICAgNDUwMDAwCiAgICAgICAgNDQwMDAwCiAgICAgICAgICAgIDUwMDAwMAo=</text>
+        <text encoding="base64">CiAgICAgICAgLmFtYXAtbWFya2VyLWxhYmVsIHsKICAgICAgICAgICAgYm9yZGVyOiAxcHggc29saWQgIzhlOGU4ZTsKICAgICAgICAgICAgYm9yZGVyLXJhZGl1czogNXB4IDVweCA1cHggNXB4OwogICAgICAgICAgICB0ZXh0LWFsaWduOiBjZW50ZXI7CiAgICAgICAgICAgIGNvbG9yOiAjNTU1OwogICAgICAgICAgICBiYWNrZ3JvdW5kLWNvbG9yOiAjZmZmZWVmOwogICAgICAgICAgICBmb250LXNpemU6IDE0cHg7CiAgICAgICAgfQoKICAgICAgICAubWFya2VyLW51bWJlciB7CiAgICAgICAgICAgIGJhY2tncm91bmQtY29sb3I6ICNkYzM5MTI7CiAgICAgICAgICAgIGNvbG9yOiAjZmZmOwogICAgICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAnMTEwMDAwJzogWzAsIDBdLAogICAgICAgIDUxMDAwMCwgMzUwMDAwLCA2MjAwMDAsIDUyMDAwMCwgMTMwMDAwLCA0MTAwMDAsIDIzMDAwMCwgNDIwMDAwLCA0MzAwMDAsCiAgICAgICAgMjIwMDAwLCAzMjAwMDAsIDE1MDAwMCwgMzMwMDAwLCA2NDAwMDAsIDM3MDAwMCwgNjEwMDAwLCAyMTAwMDAsIDM2MDAwMCwgNjUwMDAwLAogICAgICAgIDUzMDAwMCwgNDUwMDAwLCA0NDAwMDAsIDUwMDAwMAo=</text>
+        <text encoding="base64">ICAgIGZ1bmN0aW9uIHNldExhYmVsKHBvc2l0aW9uLCBjb250ZW50KSB7CiAgICAgICAgdmFyIG1hcmtlciA9IG5ldyBBTWFwLk1hcmtlcih7CiAgICAgICAgICAgIHBvc2l0aW9uOiBwb3NpdGlvbgogICAgICAgIH0pOwogICAgICAgIG1hcmtlci5zZXRNYXAobWFwKTsKCiAgICAgICAgLy8g6K6+572ubGFiZWzmoIfnrb4KICAgICAgICBtYXJrZXIuc2V0TGFiZWwoey8vbGFiZWzpu5jorqTok53moYbnmb3lupXlt6bkuIrop5LmmL7npLrvvIzmoLflvI9jbGFzc05hbWXkuLrvvJphbWFwLW1hcmtlci1sYWJlbAogICAgICAgICAgICBvZmZzZXQ6IG5ldyBBTWFwLlBpeGVsKDIwLCAtMjApLC8v5L+u5pS5bGFiZWznm7jlr7nkuo5tYWtlcueahOS9jee9rgogICAgICAgICAgICBjb250ZW50OiBjb250ZW50CiAgICAgICAgfSk7CiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb2Zmc2V0OiBuZXcgQU1hcC5QaXhlbCgwLCAwKSwvL+S/ruaUuWxhYmVs55u45a+55LqObWFrZXLnmoTkvY3nva4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNldExhYmVsKGRpc3RyaWN0LmNlbnRlciwgJzxkaXY+PGRpdj4nICsgZGlzdHJpY3QubmFtZSArICc8L2Rpdj48ZGl2PignICsgdmFsdWUgKyAnKTwvZGl2PjwvZGl2PicpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNldExhYmVsKGRpc3RyaWN0LmNlbnRlciwgJzxkaXY+PGRpdj4nICsgZGlzdHJpY3QubmFtZSArICc8L2Rpdj48ZGl2IGNsYXNzPSJtYXJrZXItbnVtYmVyIj4oJyArIHZhbHVlWzBdICsgJywgJyArIHZhbHVlWzFdICsgJyk8L2Rpdj48L2Rpdj4nKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhjb2RlLCB2YWx1ZSk7Cg==</text>
       </register>
-      <register name="5" type="8">
-        <text encoding="base64">Ly8gCi8vIAovLyAKLy8g</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb2Zmc2V0OiBuZXcgQU1hcC5QaXhlbCgtMTAsIC0xMCksCg==</text>
-      </register>
-      <register name="7" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZXRMYWJlbChjb2RlLCBkaXN0cmljdC5jZW50ZXIsICc8ZGl2PjxkaXY+JyArIGRpc3RyaWN0Lm5hbWUgKyAnPC9kaXY+PGRpdiBjbGFzcz0ibWFya2VyLW51bWJlciI+KCcgKyB2YWx1ZVswXSArICcsICcgKyB2YWx1ZVsxXSArICcpPC9kaXY+PC9kaXY+JykK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhvZmZzZXQpOwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9udC1zaXplOiAxNnB4Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgb2Zmc2V0OiBuZXcgQW1hcC5waXgK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9udC1zaXplOiAxNHB4Owo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text>action NextTab</text>
       </register>
     </registers>
     <search>
-      <last-search>content\[i++\]</last-search>
+      <last-search encoding="base64">XDxwb3NpdGlvblw+</last-search>
       <last-offset />
-      <last-pattern>content\[i++\]</last-pattern>
+      <last-pattern encoding="base64">XDxwb3NpdGlvblw+</last-pattern>
       <last-replace>{content[i++]}</last-replace>
       <last-substitute>content\[i++\]</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>bannerp</entry>
         <entry>bannerT</entry>
         <entry encoding="base64">XDxuYXZCdXR0b25cPg==</entry>
         <entry>banner</entry>
@@ -2769,6 +2768,7 @@
         <entry encoding="base64">XDxjb250ZW50XD4=</entry>
         <entry>content[i++]</entry>
         <entry>content\[i++\]</entry>
+        <entry encoding="base64">XDxwb3NpdGlvblw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5J</entry>
@@ -2788,9 +2788,9 @@
         <entry>q</entry>
         <entry>%s/content[i++]/{content[i++]}/gc</entry>
         <entry>%s/content\[i++\]/{content[i++]}/gc</entry>
-        <entry>action NextTab</entry>
-        <entry>action PreviousTab</entry>
         <entry>action ReformatCode</entry>
+        <entry>action PreviousTab</entry>
+        <entry>action NextTab</entry>
       </history-cmd>
       <history-expr />
       <history-input />
