@@ -173,12 +173,6 @@
         <mark key="." line="5870" column="802" />
         <mark key="^" line="5870" column="774" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2e9c8649-18f5-43f9-a70d-cf6359de55b3/console.sql" timestamp="1530256408491">
-        <mark key="[" line="21" column="11" />
-        <mark key="]" line="21" column="12" />
-        <mark key="." line="21" column="12" />
-        <mark key="^" line="21" column="11" />
-      </file>
       <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/mapper/LdarTurnMapper.java" timestamp="1529892690415">
         <mark key="[" line="21" column="20" />
         <mark key="]" line="21" column="50" />
@@ -324,6 +318,19 @@
         <mark key="]" line="100" column="17" />
         <mark key="." line="100" column="17" />
         <mark key="^" line="100" column="17" />
+      </file>
+      <file name="$USER_HOME$/code/LuckycoinContract/ERC20Basic.sol" timestamp="1532752404281">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="^" line="8" column="23" />
+        <mark key="." line="8" column="23" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2e9c8649-18f5-43f9-a70d-cf6359de55b3/console.sql" timestamp="1530256408491">
+        <mark key="[" line="21" column="11" />
+        <mark key="]" line="21" column="12" />
+        <mark key="." line="21" column="12" />
+        <mark key="^" line="21" column="11" />
       </file>
       <file name="D:/code/web/voc-web/src/app/routes/ldar/component/component.service.ts" timestamp="1520759923462">
         <mark key="'" line="43" column="4" />
@@ -1292,6 +1299,12 @@
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.sol" timestamp="1532752405224">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="30" column="1" />
+        <mark key="^" line="0" column="7" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="D:/code/java/cnooc/src/main/resources/application.yml" timestamp="1523433308337">
         <mark key="'" line="34" column="15" />
@@ -2469,8 +2482,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="15" filename="$USER_HOME$/code/voc/src/test/java/com/cnvoc/voc/common/EnumHelperTest.java" />
-      <jump line="85" column="0" filename="$USER_HOME$/code/voc/src/test/java/com/cnvoc/voc/common/EnumHelperTest.java" />
       <jump line="18" column="29" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/common/EnumHelper.java" />
       <jump line="591" column="46" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" />
       <jump line="566" column="47" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" />
@@ -2569,6 +2580,8 @@
       <jump line="173" column="14" filename="$USER_HOME$/code/webutils/map/安监系统数据统计/各省份系统数量与监测预警系统数量统计.html" />
       <jump line="171" column="22" filename="$USER_HOME$/code/webutils/map/安监系统数据统计/各省份系统数量与监测预警系统数量统计.html" />
       <jump line="168" column="0" filename="$USER_HOME$/code/webutils/map/安监系统数据统计/各省份系统数量与监测预警系统数量统计.html" />
+      <jump line="1" column="0" filename="$USER_HOME$/code/LuckycoinContract/ERC20Basic.sol" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/LuckycoinContract/ERC20Basic.sol" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2592,7 +2605,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAgICAgLmFtYXAtbWFya2VyLWxhYmVsIHsKICAgICAgICAgICAgYm9yZGVyOiAxcHggc29saWQgIzhlOGU4ZTsKICAgICAgICAgICAgYm9yZGVyLXJhZGl1czogNXB4IDVweCA1cHggNXB4OwogICAgICAgICAgICB0ZXh0LWFsaWduOiBjZW50ZXI7CiAgICAgICAgICAgIGNvbG9yOiAjNTU1OwogICAgICAgICAgICBiYWNrZ3JvdW5kLWNvbG9yOiAjZmZmZWVmOwogICAgICAgICAgICBmb250LXNpemU6IDE0cHg7CiAgICAgICAgfQoKICAgICAgICAubWFya2VyLW51bWJlciB7CiAgICAgICAgICAgIGJhY2tncm91bmQtY29sb3I6ICNkYzM5MTI7CiAgICAgICAgICAgIGNvbG9yOiAjZmZmOwogICAgICAgIH0K</text>
+        <text encoding="base64">cHJhZ21hIHNvbGlkaXR5IF4wLjQuMjQ7CgoKLyoqCiAqIEB0aXRsZSBFUkMyMEJhc2ljCiAqIEBkZXYgU2ltcGxlciB2ZXJzaW9uIG9mIEVSQzIwIGludGVyZmFjZQogKiBTZWUgaHR0cHM6Ly9naXRodWIuY29tL2V0aGVyZXVtL0VJUHMvaXNzdWVzLzE3OQogKi8KY29udHJhY3QgRVJDMjBJbnRlcmZhY2UgewogICAgZnVuY3Rpb24gdG90YWxTdXBwbHkoKSBwdWJsaWMgdmlldyByZXR1cm5zICh1aW50MjU2KTsKCiAgICBmdW5jdGlvbiBiYWxhbmNlT2YoYWRkcmVzcyB3aG8pIHB1YmxpYyB2aWV3IHJldHVybnMgKHVpbnQyNTYpOwoKICAgIGZ1bmN0aW9uIHRyYW5zZmVyKGFkZHJlc3MgdG8sIHVpbnQyNTYgdmFsdWUpIHB1YmxpYyByZXR1cm5zIChib29sKTsKCiAgICBldmVudCBUcmFuc2ZlcihhZGRyZXNzIGluZGV4ZWQgZnJvbSwgYWRkcmVzcyBpbmRleGVkIHRvLCB1aW50MjU2IHZhbHVlKTsKCiAgICBmdW5jdGlvbiBhbGxvd2FuY2UoYWRkcmVzcyBvd25lciwgYWRkcmVzcyBzcGVuZGVyKQogICAgcHVibGljIHZpZXcgcmV0dXJucyAodWludDI1Nik7CgogICAgZnVuY3Rpb24gdHJhbnNmZXJGcm9tKGFkZHJlc3MgZnJvbSwgYWRkcmVzcyB0bywgdWludDI1NiB2YWx1ZSkKICAgIHB1YmxpYyByZXR1cm5zIChib29sKTsKCiAgICBmdW5jdGlvbiBhcHByb3ZlKGFkZHJlc3Mgc3BlbmRlciwgdWludDI1NiB2YWx1ZSkgcHVibGljIHJldHVybnMgKGJvb2wpOwoKICAgIGV2ZW50IEFwcHJvdmFsKAogICAgICAgIGFkZHJlc3MgaW5kZXhlZCBvd25lciwKICAgICAgICBhZGRyZXNzIGluZGV4ZWQgc3BlbmRlciwKICAgICAgICB1aW50MjU2IHZhbHVlCiAgICApOwp9Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2699,13 +2712,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.toString()</text>
+        <text encoding="base64">QmFzaWMg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwb3NpdGlvblw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAuYW1hcC1tYXJrZXItbGFiZWwgewogICAgICAgICAgICBib3JkZXI6IDFweCBzb2xpZCAjOGU4ZThlOwogICAgICAgICAgICBib3JkZXItcmFkaXVzOiA1cHggNXB4IDVweCA1cHg7CiAgICAgICAgICAgIHRleHQtYWxpZ246IGNlbnRlcjsKICAgICAgICAgICAgY29sb3I6ICM1NTU7CiAgICAgICAgICAgIGJhY2tncm91bmQtY29sb3I6ICNmZmZlZWY7CiAgICAgICAgICAgIGZvbnQtd2VpZ2h0OiBib2xkOwogICAgICAgICAgICBmb250LXNpemU6IDE2cHg7CiAgICAgICAgfQoKICAgICAgICAubWFya2VyLW51bWJlciB7CiAgICAgICAgICAgIGJhY2tncm91bmQtY29sb3I6ICNkYzM5MTI7CiAgICAgICAgICAgIGNvbG9yOiAjZmZmOwogICAgICAgICAgICBtYXJnaW4tdG9wOiA1cHg7CiAgICAgICAgICAgIHBhZGRpbmc6IDVweCAwOwogICAgICAgIH0K</text>
+        <text encoding="base64">cHJhZ21hIHNvbGlkaXR5IF4wLjQuMjQ7CgoKLyoqCiAqIEB0aXRsZSBFUkMyMEJhc2ljCiAqIEBkZXYgU2ltcGxlciB2ZXJzaW9uIG9mIEVSQzIwIGludGVyZmFjZQogKiBTZWUgaHR0cHM6Ly9naXRodWIuY29tL2V0aGVyZXVtL0VJUHMvaXNzdWVzLzE3OQogKi8KY29udHJhY3QgRVJDMjBJbnRlcmZhY2UgewogICAgZnVuY3Rpb24gdG90YWxTdXBwbHkoKSBwdWJsaWMgdmlldyByZXR1cm5zICh1aW50MjU2KTsKCiAgICBmdW5jdGlvbiBiYWxhbmNlT2YoYWRkcmVzcyB3aG8pIHB1YmxpYyB2aWV3IHJldHVybnMgKHVpbnQyNTYpOwoKICAgIGZ1bmN0aW9uIHRyYW5zZmVyKGFkZHJlc3MgdG8sIHVpbnQyNTYgdmFsdWUpIHB1YmxpYyByZXR1cm5zIChib29sKTsKCiAgICBldmVudCBUcmFuc2ZlcihhZGRyZXNzIGluZGV4ZWQgZnJvbSwgYWRkcmVzcyBpbmRleGVkIHRvLCB1aW50MjU2IHZhbHVlKTsKCiAgICBmdW5jdGlvbiBhbGxvd2FuY2UoYWRkcmVzcyBvd25lciwgYWRkcmVzcyBzcGVuZGVyKQogICAgcHVibGljIHZpZXcgcmV0dXJucyAodWludDI1Nik7CgogICAgZnVuY3Rpb24gdHJhbnNmZXJGcm9tKGFkZHJlc3MgZnJvbSwgYWRkcmVzcyB0bywgdWludDI1NiB2YWx1ZSkKICAgIHB1YmxpYyByZXR1cm5zIChib29sKTsKCiAgICBmdW5jdGlvbiBhcHByb3ZlKGFkZHJlc3Mgc3BlbmRlciwgdWludDI1NiB2YWx1ZSkgcHVibGljIHJldHVybnMgKGJvb2wpOwoKICAgIGV2ZW50IEFwcHJvdmFsKAogICAgICAgIGFkZHJlc3MgaW5kZXhlZCBvd25lciwKICAgICAgICBhZGRyZXNzIGluZGV4ZWQgc3BlbmRlciwKICAgICAgICB1aW50MjU2IHZhbHVlCiAgICApOwp9Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CiAgICAgICAgLmFtYXAtbWFya2VyLWxhYmVsIHsKICAgICAgICAgICAgYm9yZGVyOiAxcHggc29saWQgIzhlOGU4ZTsKICAgICAgICAgICAgYm9yZGVyLXJhZGl1czogNXB4IDVweCA1cHggNXB4OwogICAgICAgICAgICB0ZXh0LWFsaWduOiBjZW50ZXI7CiAgICAgICAgICAgIGNvbG9yOiAjNTU1OwogICAgICAgICAgICBiYWNrZ3JvdW5kLWNvbG9yOiAjZmZmZWVmOwogICAgICAgICAgICBmb250LXNpemU6IDE0cHg7CiAgICAgICAgfQoKICAgICAgICAubWFya2VyLW51bWJlciB7CiAgICAgICAgICAgIGJhY2tncm91bmQtY29sb3I6ICNkYzM5MTI7CiAgICAgICAgICAgIGNvbG9yOiAjZmZmOwogICAgICAgIH0K</text>
@@ -2745,7 +2758,7 @@
       <last-replace>{content[i++]}</last-replace>
       <last-substitute>content\[i++\]</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -2788,8 +2801,8 @@
         <entry>q</entry>
         <entry>%s/content[i++]/{content[i++]}/gc</entry>
         <entry>%s/content\[i++\]/{content[i++]}/gc</entry>
-        <entry>action ReformatCode</entry>
         <entry>action PreviousTab</entry>
+        <entry>action ReformatCode</entry>
         <entry>action NextTab</entry>
       </history-cmd>
       <history-expr />
