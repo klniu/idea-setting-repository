@@ -256,10 +256,10 @@
         <mark key="." line="96" column="69" />
         <mark key="^" line="95" column="72" />
       </file>
-      <file name="$USER_HOME$/code/LuckyCoinContract/contracts/BaseControl.sol" timestamp="1532775998497">
-        <mark key="'" line="3" column="21" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
+      <file name="$USER_HOME$/code/LuckyCoinContract/contracts/BaseControl.sol" timestamp="1532781000598">
+        <mark key="'" line="0" column="16" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="7" column="0" />
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="23" />
       </file>
@@ -978,8 +978,8 @@
         <mark key="^" line="21" column="13" />
         <mark key="." line="21" column="22" />
       </file>
-      <file name="$USER_HOME$/code/LuckyCoinContract/node_modules/openzeppelin-solidity/contracts/token/ERC20/StandardToken.sol" timestamp="1532775960411">
-        <mark key="'" line="13" column="39" />
+      <file name="$USER_HOME$/code/LuckyCoinContract/node_modules/openzeppelin-solidity/contracts/token/ERC20/StandardToken.sol" timestamp="1532781363522">
+        <mark key="'" line="13" column="38" />
       </file>
       <file name="D:/code/web/voc-web/src/app/routes/base/setting/step6.component.ts" timestamp="1520041412105">
         <mark key="'" line="368" column="0" />
@@ -1468,6 +1468,13 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="7" column="40" />
       </file>
+      <file name="$USER_HOME$/code/LuckyCoinContract/contracts/LuckyCoin_V0.sol" timestamp="1532781333675">
+        <mark key="'" line="2" column="31" />
+        <mark key="[" line="7" column="7" />
+        <mark key="]" line="7" column="16" />
+        <mark key="." line="7" column="16" />
+        <mark key="^" line="7" column="16" />
+      </file>
       <file name="D:/code/web/voc-web/src/app/routes/ldar/standard/standard.component.html" timestamp="1520139756448">
         <mark key="'" line="47" column="49" />
         <mark key="[" line="99" column="14" />
@@ -1724,9 +1731,9 @@
         <mark key="^" line="0" column="7" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/LuckyCoinContract/contracts/BaseData.sol" timestamp="1532775954931">
-        <mark key="[" line="4" column="4" />
-        <mark key="]" line="4" column="3" />
+      <file name="$USER_HOME$/code/LuckyCoinContract/contracts/BaseData.sol" timestamp="1532781043980">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="3" column="29" />
         <mark key="^" line="4" column="3" />
         <mark key="." line="4" column="3" />
       </file>
@@ -2518,8 +2525,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="575" column="25" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" />
-      <jump line="379" column="53" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" />
       <jump line="335" column="22" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" />
       <jump line="362" column="14" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/common/Function.java" />
       <jump line="406" column="20" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" />
@@ -2614,10 +2619,12 @@
       <jump line="0" column="0" filename="$USER_HOME$/code/LuckycoinContract/ERC20Basic.sol" />
       <jump line="21" column="54" filename="$USER_HOME$/code/LuckycoinContract/LuckyCoin.sol" />
       <jump line="2" column="33" filename="$USER_HOME$/code/LuckyCoinContract/contracts/BaseControl.sol" />
-      <jump line="13" column="39" filename="$USER_HOME$/code/LuckyCoinContract/node_modules/openzeppelin-solidity/contracts/token/ERC20/StandardToken.sol" />
       <jump line="21" column="33" filename="$USER_HOME$/code/LuckyCoinContract/node_modules/openzeppelin-solidity/contracts/token/ERC20/BasicToken.sol" />
       <jump line="4" column="16" filename="$USER_HOME$/code/LuckyCoinContract/contracts/BaseControl.sol" />
       <jump line="3" column="21" filename="$USER_HOME$/code/LuckyCoinContract/contracts/BaseControl.sol" />
+      <jump line="0" column="16" filename="$USER_HOME$/code/LuckyCoinContract/contracts/BaseControl.sol" />
+      <jump line="2" column="31" filename="$USER_HOME$/code/LuckyCoinContract/contracts/LuckyCoin_V0.sol" />
+      <jump line="13" column="38" filename="$USER_HOME$/code/LuckyCoinContract/node_modules/openzeppelin-solidity/contracts/token/ERC20/StandardToken.sol" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2640,8 +2647,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHN0cmluZyBwdWJsaWMgbmFtZSA9ICJMdWNreWNvaW4iOyAgIC8vIEZhbmN5IG5hbWU6IGVnOiBNYW9sdWx1IExRRAogICAgc3RyaW5nIHB1YmxpYyBzeW1ib2wgPSAiTEtDIjsgLy8gQW4gaWRlbnRpZmllcjogZWcgTUxRRAogICAgdWludCBwdWJsaWMgZGVjaW1hbHMgPSAxODsgICAgICAvLyBVbml0IHByZWNpc2lvbgoK</text>
+      <register name="&quot;" type="4">
+        <text>initiative</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2748,40 +2755,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>MLQD</text>
+        <text>创世会员</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwb3NpdGlvblw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cHJhZ21hIHNvbGlkaXR5IF4wLjQuMjQ7CgoKLyoqCiAqIEB0aXRsZSBFUkMyMEJhc2ljCiAqIEBkZXYgU2ltcGxlciB2ZXJzaW9uIG9mIEVSQzIwIGludGVyZmFjZQogKiBTZWUgaHR0cHM6Ly9naXRodWIuY29tL2V0aGVyZXVtL0VJUHMvaXNzdWVzLzE3OQogKi8KY29udHJhY3QgRVJDMjBJbnRlcmZhY2UgewogICAgZnVuY3Rpb24gdG90YWxTdXBwbHkoKSBwdWJsaWMgdmlldyByZXR1cm5zICh1aW50MjU2KTsKCiAgICBmdW5jdGlvbiBiYWxhbmNlT2YoYWRkcmVzcyB3aG8pIHB1YmxpYyB2aWV3IHJldHVybnMgKHVpbnQyNTYpOwoKICAgIGZ1bmN0aW9uIHRyYW5zZmVyKGFkZHJlc3MgdG8sIHVpbnQyNTYgdmFsdWUpIHB1YmxpYyByZXR1cm5zIChib29sKTsKCiAgICBldmVudCBUcmFuc2ZlcihhZGRyZXNzIGluZGV4ZWQgZnJvbSwgYWRkcmVzcyBpbmRleGVkIHRvLCB1aW50MjU2IHZhbHVlKTsKCiAgICBmdW5jdGlvbiBhbGxvd2FuY2UoYWRkcmVzcyBvd25lciwgYWRkcmVzcyBzcGVuZGVyKQogICAgcHVibGljIHZpZXcgcmV0dXJucyAodWludDI1Nik7CgogICAgZnVuY3Rpb24gdHJhbnNmZXJGcm9tKGFkZHJlc3MgZnJvbSwgYWRkcmVzcyB0bywgdWludDI1NiB2YWx1ZSkKICAgIHB1YmxpYyByZXR1cm5zIChib29sKTsKCiAgICBmdW5jdGlvbiBhcHByb3ZlKGFkZHJlc3Mgc3BlbmRlciwgdWludDI1NiB2YWx1ZSkgcHVibGljIHJldHVybnMgKGJvb2wpOwoKICAgIGV2ZW50IEFwcHJvdmFsKAogICAgICAgIGFkZHJlc3MgaW5kZXhlZCBvd25lciwKICAgICAgICBhZGRyZXNzIGluZGV4ZWQgc3BlbmRlciwKICAgICAgICB1aW50MjU2IHZhbHVlCiAgICApOwp9Cg==</text>
+        <text encoding="base64">ICAgIHN0cmluZyBwdWJsaWMgbmFtZSA9ICJMdWNreWNvaW4iOwogICAgc3RyaW5nIHB1YmxpYyBzeW1ib2wgPSAiTEtDIjsKICAgIHVpbnQgcHVibGljIGRlY2ltYWxzID0gMTg7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHN0cmluZyBwdWJsaWMgbmFtZSA9ICJMdWNreWNvaW4iOyAgIC8vIEZhbmN5IG5hbWU6IGVnOiBNYW9sdWx1IExRRAogICAgc3RyaW5nIHB1YmxpYyBzeW1ib2wgPSAiTEtDIjsgLy8gQW4gaWRlbnRpZmllcjogZWcgTUxRRAogICAgdWludCBwdWJsaWMgZGVjaW1hbHMgPSAxODsgICAgICAvLyBVbml0IHByZWNpc2lvbgoK</text>
+        <text encoding="base64">ICAgICAgICBiYWxhbmNlc1sweGJmQzcyOTAwN0NFOUNCQkU1NDEzMkZiOUJGYTA5N0Q4MEFBQzc5MUNdID0gMjUwMDAwMDAwMDAwMDAwOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN0cmluZyBwdWJsaWMgbmFtZSA9ICJMdWNreWNvaW4iOyAgIC8vIEZhbmN5IG5hbWU6IGVnOiBNYW9sdWx1IExRRAogICAgc3RyaW5nIHB1YmxpYyBzeW1ib2wgPSAiTEtDIjsgLy8gQW4gaWRlbnRpZmllcjogZWcgTUxRRAogICAgdWludCBwdWJsaWMgZGVjaW1hbHMgPSAxODsgICAgICAvLyBVbml0IHByZWNpc2lvbgoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIGRvIG5vdCBhbGxvdyBkZXBvc2l0cwogICAgZnVuY3Rpb24oKSBwdWJsaWMgewogICAgICAgIHJldmVydCgpOwogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICovCg==</text>
+        <text encoding="base64">ICAgIC8vIGRvIG5vdCBhbGxvdyBkZXBvc2l0cwogICAgZnVuY3Rpb24oKSBwdWJsaWMgewogICAgICAgIHJldmVydCgpOwogICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFNvbWUgd2FsbGV0cy9pbnRlcmZhY2VzIG1pZ2h0IG5vdCBldmVuIGJvdGhlciB0byBsb29rIGF0IHRoaXMgaW5mb3JtYXRpb24uCg==</text>
+        <text encoding="base64">ICAgICovCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFRoZXkgYWxsb3cgb25lIHRvIGN1c3RvbWlzZSB0aGUgdG9rZW4gY29udHJhY3QgJiBpbiBubyB3YXkgaW5mbHVlbmNlcyB0aGUgY29yZSBmdW5jdGlvbmFsaXR5Lgo=</text>
+        <text encoding="base64">ICAgIFNvbWUgd2FsbGV0cy9pbnRlcmZhY2VzIG1pZ2h0IG5vdCBldmVuIGJvdGhlciB0byBsb29rIGF0IHRoaXMgaW5mb3JtYXRpb24uCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFRoZSBmb2xsb3dpbmcgdmFyaWFibGVzIGFyZSBPUFRJT05BTCB2YW5pdGllcy4gT25lIGRvZXMgbm90IGhhdmUgdG8gaW5jbHVkZSB0aGVtLgo=</text>
+        <text encoding="base64">ICAgIFRoZXkgYWxsb3cgb25lIHRvIGN1c3RvbWlzZSB0aGUgdG9rZW4gY29udHJhY3QgJiBpbiBubyB3YXkgaW5mbHVlbmNlcyB0aGUgY29yZSBmdW5jdGlvbmFsaXR5Lgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIE5PVEU6Cg==</text>
+        <text encoding="base64">ICAgIFRoZSBmb2xsb3dpbmcgdmFyaWFibGVzIGFyZSBPUFRJT05BTCB2YW5pdGllcy4gT25lIGRvZXMgbm90IGhhdmUgdG8gaW5jbHVkZSB0aGVtLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8qCg==</text>
+        <text encoding="base64">ICAgIE5PVEU6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action PreviousTab</text>
