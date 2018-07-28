@@ -256,6 +256,13 @@
         <mark key="." line="96" column="69" />
         <mark key="^" line="95" column="72" />
       </file>
+      <file name="$USER_HOME$/code/LuckyCoinContract/contracts/BaseControl.sol" timestamp="1532775998497">
+        <mark key="'" line="3" column="21" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="3" column="23" />
+      </file>
       <file name="D:/code/java/mpgenerator/src/main/java/mpgenerator/VocsGenerator.java" timestamp="1523584218494">
         <mark key="'" line="14" column="23" />
         <mark key="[" line="12" column="43" />
@@ -895,6 +902,9 @@
         <mark key="." line="42" column="17" />
         <mark key="^" line="42" column="17" />
       </file>
+      <file name="$USER_HOME$/code/LuckyCoinContract/node_modules/openzeppelin-solidity/contracts/token/ERC20/BasicToken.sol" timestamp="1532775967282">
+        <mark key="'" line="21" column="33" />
+      </file>
       <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" timestamp="1524019031176">
         <mark key="'" line="120" column="7" />
         <mark key="[" line="140" column="0" />
@@ -967,6 +977,9 @@
         <mark key="]" line="21" column="22" />
         <mark key="^" line="21" column="13" />
         <mark key="." line="21" column="22" />
+      </file>
+      <file name="$USER_HOME$/code/LuckyCoinContract/node_modules/openzeppelin-solidity/contracts/token/ERC20/StandardToken.sol" timestamp="1532775960411">
+        <mark key="'" line="13" column="39" />
       </file>
       <file name="D:/code/web/voc-web/src/app/routes/base/setting/step6.component.ts" timestamp="1520041412105">
         <mark key="'" line="368" column="0" />
@@ -1711,11 +1724,11 @@
         <mark key="^" line="0" column="7" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/LuckyCoinContract/contracts/BaseData.sol" timestamp="1532771074480">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/code/LuckyCoinContract/contracts/BaseData.sol" timestamp="1532775954931">
+        <mark key="[" line="4" column="4" />
+        <mark key="]" line="4" column="3" />
+        <mark key="^" line="4" column="3" />
+        <mark key="." line="4" column="3" />
       </file>
       <file name="$USER_HOME$/code/lkc_website/src/containers/Career/style/mobile.scss" timestamp="1529041953194">
         <mark key="[" line="49" column="0" />
@@ -2326,7 +2339,6 @@
         <mark key="^" line="104" column="53" />
         <mark key="." line="104" column="53" />
       </file>
-      <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/model_test.go" timestamp="1532602816226" />
       <file name="$USER_HOME$/code/lkc_website/src/helpers/function.js" timestamp="1528940098955">
         <mark key="[" line="11" column="39" />
         <mark key="]" line="11" column="42" />
@@ -2506,11 +2518,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="591" column="46" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" />
-      <jump line="566" column="47" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" />
-      <jump line="546" column="8" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" />
-      <jump line="422" column="43" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" />
-      <jump line="703" column="29" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" />
       <jump line="575" column="25" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" />
       <jump line="379" column="53" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" />
       <jump line="335" column="22" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" />
@@ -2606,6 +2613,11 @@
       <jump line="1" column="0" filename="$USER_HOME$/code/LuckycoinContract/ERC20Basic.sol" />
       <jump line="0" column="0" filename="$USER_HOME$/code/LuckycoinContract/ERC20Basic.sol" />
       <jump line="21" column="54" filename="$USER_HOME$/code/LuckycoinContract/LuckyCoin.sol" />
+      <jump line="2" column="33" filename="$USER_HOME$/code/LuckyCoinContract/contracts/BaseControl.sol" />
+      <jump line="13" column="39" filename="$USER_HOME$/code/LuckyCoinContract/node_modules/openzeppelin-solidity/contracts/token/ERC20/StandardToken.sol" />
+      <jump line="21" column="33" filename="$USER_HOME$/code/LuckyCoinContract/node_modules/openzeppelin-solidity/contracts/token/ERC20/BasicToken.sol" />
+      <jump line="4" column="16" filename="$USER_HOME$/code/LuckyCoinContract/contracts/BaseControl.sol" />
+      <jump line="3" column="21" filename="$USER_HOME$/code/LuckyCoinContract/contracts/BaseControl.sol" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2629,7 +2641,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Li4uCg==</text>
+        <text encoding="base64">ICAgIHN0cmluZyBwdWJsaWMgbmFtZSA9ICJMdWNreWNvaW4iOyAgIC8vIEZhbmN5IG5hbWU6IGVnOiBNYW9sdWx1IExRRAogICAgc3RyaW5nIHB1YmxpYyBzeW1ib2wgPSAiTEtDIjsgLy8gQW4gaWRlbnRpZmllcjogZWcgTUxRRAogICAgdWludCBwdWJsaWMgZGVjaW1hbHMgPSAxODsgICAgICAvLyBVbml0IHByZWNpc2lvbgoK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2736,7 +2748,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAvLyAxOCBpcyB0aGUgbW9zdCBjb21tb24gbnVtYmVyIG9mIGRlY2ltYWwgcGxhY2Vz</text>
+        <text>MLQD</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwb3NpdGlvblw+</text>
@@ -2745,31 +2757,31 @@
         <text encoding="base64">cHJhZ21hIHNvbGlkaXR5IF4wLjQuMjQ7CgoKLyoqCiAqIEB0aXRsZSBFUkMyMEJhc2ljCiAqIEBkZXYgU2ltcGxlciB2ZXJzaW9uIG9mIEVSQzIwIGludGVyZmFjZQogKiBTZWUgaHR0cHM6Ly9naXRodWIuY29tL2V0aGVyZXVtL0VJUHMvaXNzdWVzLzE3OQogKi8KY29udHJhY3QgRVJDMjBJbnRlcmZhY2UgewogICAgZnVuY3Rpb24gdG90YWxTdXBwbHkoKSBwdWJsaWMgdmlldyByZXR1cm5zICh1aW50MjU2KTsKCiAgICBmdW5jdGlvbiBiYWxhbmNlT2YoYWRkcmVzcyB3aG8pIHB1YmxpYyB2aWV3IHJldHVybnMgKHVpbnQyNTYpOwoKICAgIGZ1bmN0aW9uIHRyYW5zZmVyKGFkZHJlc3MgdG8sIHVpbnQyNTYgdmFsdWUpIHB1YmxpYyByZXR1cm5zIChib29sKTsKCiAgICBldmVudCBUcmFuc2ZlcihhZGRyZXNzIGluZGV4ZWQgZnJvbSwgYWRkcmVzcyBpbmRleGVkIHRvLCB1aW50MjU2IHZhbHVlKTsKCiAgICBmdW5jdGlvbiBhbGxvd2FuY2UoYWRkcmVzcyBvd25lciwgYWRkcmVzcyBzcGVuZGVyKQogICAgcHVibGljIHZpZXcgcmV0dXJucyAodWludDI1Nik7CgogICAgZnVuY3Rpb24gdHJhbnNmZXJGcm9tKGFkZHJlc3MgZnJvbSwgYWRkcmVzcyB0bywgdWludDI1NiB2YWx1ZSkKICAgIHB1YmxpYyByZXR1cm5zIChib29sKTsKCiAgICBmdW5jdGlvbiBhcHByb3ZlKGFkZHJlc3Mgc3BlbmRlciwgdWludDI1NiB2YWx1ZSkgcHVibGljIHJldHVybnMgKGJvb2wpOwoKICAgIGV2ZW50IEFwcHJvdmFsKAogICAgICAgIGFkZHJlc3MgaW5kZXhlZCBvd25lciwKICAgICAgICBhZGRyZXNzIGluZGV4ZWQgc3BlbmRlciwKICAgICAgICB1aW50MjU2IHZhbHVlCiAgICApOwp9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Li4uCg==</text>
+        <text encoding="base64">ICAgIHN0cmluZyBwdWJsaWMgbmFtZSA9ICJMdWNreWNvaW4iOyAgIC8vIEZhbmN5IG5hbWU6IGVnOiBNYW9sdWx1IExRRAogICAgc3RyaW5nIHB1YmxpYyBzeW1ib2wgPSAiTEtDIjsgLy8gQW4gaWRlbnRpZmllcjogZWcgTUxRRAogICAgdWludCBwdWJsaWMgZGVjaW1hbHMgPSAxODsgICAgICAvLyBVbml0IHByZWNpc2lvbgoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIElmIHRoaXMgZnVuY3Rpb24gaXMgY2FsbGVkIGFnYWluIGl0IG92ZXJ3cml0ZXMgdGhlIGN1cnJlbnQgYWxsb3dhbmNlIHdpdGggX3ZhbHVlLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIEFsbG93IGBzcGVuZGVyYCB0byB3aXRoZHJhdyBmcm9tIHlvdXIgYWNjb3VudCwgbXVsdGlwbGUgdGltZXMsIHVwIHRvIHRoZSBgdG9rZW5zYCBhbW91bnQuCg==</text>
+        <text encoding="base64">ICAgIC8vIGRvIG5vdCBhbGxvdyBkZXBvc2l0cwogICAgZnVuY3Rpb24oKSBwdWJsaWMgewogICAgICAgIHJldmVydCgpOwogICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIHRoZXNlIHN0YW5kYXJkaXplZCBBUElzIGZvciBhcHByb3ZhbDoK</text>
+        <text encoding="base64">ICAgICovCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIGRlbGliZXJhdGVseSBhdXRob3JpemVkIHRoZSBzZW5kZXIgb2YgdGhlIG1lc3NhZ2UgdmlhIHNvbWUgbWVjaGFuaXNtOyB3ZSBwcm9wb3NlCg==</text>
+        <text encoding="base64">ICAgIFNvbWUgd2FsbGV0cy9pbnRlcmZhY2VzIG1pZ2h0IG5vdCBldmVuIGJvdGhlciB0byBsb29rIGF0IHRoaXMgaW5mb3JtYXRpb24uCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIGZlZXMgaW4gc3ViLWN1cnJlbmNpZXM7IHRoZSBjb21tYW5kIHNob3VsZCBmYWlsIHVubGVzcyB0aGUgX2Zyb20gYWNjb3VudCBoYXMK</text>
+        <text encoding="base64">ICAgIFRoZXkgYWxsb3cgb25lIHRvIGN1c3RvbWlzZSB0aGUgdG9rZW4gY29udHJhY3QgJiBpbiBubyB3YXkgaW5mbHVlbmNlcyB0aGUgY29yZSBmdW5jdGlvbmFsaXR5Lgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIHRva2VucyBvbiB5b3VyIGJlaGFsZiwgZm9yIGV4YW1wbGUgdG8gImRlcG9zaXQiIHRvIGEgY29udHJhY3QgYWRkcmVzcyBhbmQvb3IgdG8gY2hhcmdlCg==</text>
+        <text encoding="base64">ICAgIFRoZSBmb2xsb3dpbmcgdmFyaWFibGVzIGFyZSBPUFRJT05BTCB2YW5pdGllcy4gT25lIGRvZXMgbm90IGhhdmUgdG8gaW5jbHVkZSB0aGVtLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIFRoZSB0cmFuc2ZlckZyb20gbWV0aG9kIGlzIHVzZWQgZm9yIGEgd2l0aGRyYXcgd29ya2Zsb3csIGFsbG93aW5nIGNvbnRyYWN0cyB0byBzZW5kCg==</text>
+        <text encoding="base64">ICAgIE5PVEU6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIFNlbmQgYHRva2Vuc2AgYW1vdW50IG9mIHRva2VucyBmcm9tIGFkZHJlc3MgYGZyb21gIHRvIGFkZHJlc3MgYHRvYAo=</text>
+        <text encoding="base64">ICAgIC8qCg==</text>
       </register>
       <register name=":" type="4">
         <text>action PreviousTab</text>
