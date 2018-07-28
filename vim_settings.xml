@@ -25,7 +25,7 @@
         <mark key="^" line="137" column="33" />
         <mark key="." line="117" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1532590395904">
+      <file name="/a.dummy" timestamp="1532771110075">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -63,12 +63,6 @@
         <mark key="]" line="38" column="18" />
         <mark key="^" line="38" column="18" />
         <mark key="." line="38" column="18" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.sol" timestamp="1532752405224">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="30" column="1" />
-        <mark key="^" line="0" column="7" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="D:/code/web/voc-web/src/app/routes/base/factory/factory.component.html" timestamp="1520067500973">
         <mark key="'" line="50" column="52" />
@@ -178,6 +172,12 @@
         <mark key="]" line="5870" column="802" />
         <mark key="." line="5870" column="802" />
         <mark key="^" line="5870" column="774" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2e9c8649-18f5-43f9-a70d-cf6359de55b3/console.sql" timestamp="1530256408491">
+        <mark key="[" line="21" column="11" />
+        <mark key="]" line="21" column="12" />
+        <mark key="." line="21" column="12" />
+        <mark key="^" line="21" column="11" />
       </file>
       <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/mapper/LdarTurnMapper.java" timestamp="1529892690415">
         <mark key="[" line="21" column="20" />
@@ -607,12 +607,6 @@
         <mark key="]" line="112" column="15" />
         <mark key="^" line="112" column="15" />
         <mark key="." line="112" column="46" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2e9c8649-18f5-43f9-a70d-cf6359de55b3/console.sql" timestamp="1530256408491">
-        <mark key="[" line="21" column="11" />
-        <mark key="]" line="21" column="12" />
-        <mark key="." line="21" column="12" />
-        <mark key="^" line="21" column="11" />
       </file>
       <file name="D:/code/web/voc-web/src/app/routes/base/base.module.ts" timestamp="1520141756916">
         <mark key="'" line="12" column="0" />
@@ -1711,6 +1705,18 @@
         <mark key="^" line="147" column="44" />
         <mark key="." line="149" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.sol" timestamp="1532752405224">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="30" column="1" />
+        <mark key="^" line="0" column="7" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/LuckyCoinContract/contracts/BaseData.sol" timestamp="1532771074480">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/code/lkc_website/src/containers/Career/style/mobile.scss" timestamp="1529041953194">
         <mark key="[" line="49" column="0" />
         <mark key="]" line="49" column="25" />
@@ -2623,7 +2629,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIElmIHRoaXMgZnVuY3Rpb24gaXMgY2FsbGVkIGFnYWluIGl0IG92ZXJ3cml0ZXMgdGhlIGN1cnJlbnQgYWxsb3dhbmNlIHdpdGggX3ZhbHVlLgo=</text>
+        <text encoding="base64">Li4uCg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2739,31 +2745,31 @@
         <text encoding="base64">cHJhZ21hIHNvbGlkaXR5IF4wLjQuMjQ7CgoKLyoqCiAqIEB0aXRsZSBFUkMyMEJhc2ljCiAqIEBkZXYgU2ltcGxlciB2ZXJzaW9uIG9mIEVSQzIwIGludGVyZmFjZQogKiBTZWUgaHR0cHM6Ly9naXRodWIuY29tL2V0aGVyZXVtL0VJUHMvaXNzdWVzLzE3OQogKi8KY29udHJhY3QgRVJDMjBJbnRlcmZhY2UgewogICAgZnVuY3Rpb24gdG90YWxTdXBwbHkoKSBwdWJsaWMgdmlldyByZXR1cm5zICh1aW50MjU2KTsKCiAgICBmdW5jdGlvbiBiYWxhbmNlT2YoYWRkcmVzcyB3aG8pIHB1YmxpYyB2aWV3IHJldHVybnMgKHVpbnQyNTYpOwoKICAgIGZ1bmN0aW9uIHRyYW5zZmVyKGFkZHJlc3MgdG8sIHVpbnQyNTYgdmFsdWUpIHB1YmxpYyByZXR1cm5zIChib29sKTsKCiAgICBldmVudCBUcmFuc2ZlcihhZGRyZXNzIGluZGV4ZWQgZnJvbSwgYWRkcmVzcyBpbmRleGVkIHRvLCB1aW50MjU2IHZhbHVlKTsKCiAgICBmdW5jdGlvbiBhbGxvd2FuY2UoYWRkcmVzcyBvd25lciwgYWRkcmVzcyBzcGVuZGVyKQogICAgcHVibGljIHZpZXcgcmV0dXJucyAodWludDI1Nik7CgogICAgZnVuY3Rpb24gdHJhbnNmZXJGcm9tKGFkZHJlc3MgZnJvbSwgYWRkcmVzcyB0bywgdWludDI1NiB2YWx1ZSkKICAgIHB1YmxpYyByZXR1cm5zIChib29sKTsKCiAgICBmdW5jdGlvbiBhcHByb3ZlKGFkZHJlc3Mgc3BlbmRlciwgdWludDI1NiB2YWx1ZSkgcHVibGljIHJldHVybnMgKGJvb2wpOwoKICAgIGV2ZW50IEFwcHJvdmFsKAogICAgICAgIGFkZHJlc3MgaW5kZXhlZCBvd25lciwKICAgICAgICBhZGRyZXNzIGluZGV4ZWQgc3BlbmRlciwKICAgICAgICB1aW50MjU2IHZhbHVlCiAgICApOwp9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIElmIHRoaXMgZnVuY3Rpb24gaXMgY2FsbGVkIGFnYWluIGl0IG92ZXJ3cml0ZXMgdGhlIGN1cnJlbnQgYWxsb3dhbmNlIHdpdGggX3ZhbHVlLgo=</text>
+        <text encoding="base64">Li4uCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIEFsbG93IGBzcGVuZGVyYCB0byB3aXRoZHJhdyBmcm9tIHlvdXIgYWNjb3VudCwgbXVsdGlwbGUgdGltZXMsIHVwIHRvIHRoZSBgdG9rZW5zYCBhbW91bnQuCg==</text>
+        <text encoding="base64">ICAgIC8vIElmIHRoaXMgZnVuY3Rpb24gaXMgY2FsbGVkIGFnYWluIGl0IG92ZXJ3cml0ZXMgdGhlIGN1cnJlbnQgYWxsb3dhbmNlIHdpdGggX3ZhbHVlLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIHRoZXNlIHN0YW5kYXJkaXplZCBBUElzIGZvciBhcHByb3ZhbDoK</text>
+        <text encoding="base64">ICAgIC8vIEFsbG93IGBzcGVuZGVyYCB0byB3aXRoZHJhdyBmcm9tIHlvdXIgYWNjb3VudCwgbXVsdGlwbGUgdGltZXMsIHVwIHRvIHRoZSBgdG9rZW5zYCBhbW91bnQuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIGRlbGliZXJhdGVseSBhdXRob3JpemVkIHRoZSBzZW5kZXIgb2YgdGhlIG1lc3NhZ2UgdmlhIHNvbWUgbWVjaGFuaXNtOyB3ZSBwcm9wb3NlCg==</text>
+        <text encoding="base64">ICAgIC8vIHRoZXNlIHN0YW5kYXJkaXplZCBBUElzIGZvciBhcHByb3ZhbDoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIGZlZXMgaW4gc3ViLWN1cnJlbmNpZXM7IHRoZSBjb21tYW5kIHNob3VsZCBmYWlsIHVubGVzcyB0aGUgX2Zyb20gYWNjb3VudCBoYXMK</text>
+        <text encoding="base64">ICAgIC8vIGRlbGliZXJhdGVseSBhdXRob3JpemVkIHRoZSBzZW5kZXIgb2YgdGhlIG1lc3NhZ2UgdmlhIHNvbWUgbWVjaGFuaXNtOyB3ZSBwcm9wb3NlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIHRva2VucyBvbiB5b3VyIGJlaGFsZiwgZm9yIGV4YW1wbGUgdG8gImRlcG9zaXQiIHRvIGEgY29udHJhY3QgYWRkcmVzcyBhbmQvb3IgdG8gY2hhcmdlCg==</text>
+        <text encoding="base64">ICAgIC8vIGZlZXMgaW4gc3ViLWN1cnJlbmNpZXM7IHRoZSBjb21tYW5kIHNob3VsZCBmYWlsIHVubGVzcyB0aGUgX2Zyb20gYWNjb3VudCBoYXMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIFRoZSB0cmFuc2ZlckZyb20gbWV0aG9kIGlzIHVzZWQgZm9yIGEgd2l0aGRyYXcgd29ya2Zsb3csIGFsbG93aW5nIGNvbnRyYWN0cyB0byBzZW5kCg==</text>
+        <text encoding="base64">ICAgIC8vIHRva2VucyBvbiB5b3VyIGJlaGFsZiwgZm9yIGV4YW1wbGUgdG8gImRlcG9zaXQiIHRvIGEgY29udHJhY3QgYWRkcmVzcyBhbmQvb3IgdG8gY2hhcmdlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIFNlbmQgYHRva2Vuc2AgYW1vdW50IG9mIHRva2VucyBmcm9tIGFkZHJlc3MgYGZyb21gIHRvIGFkZHJlc3MgYHRvYAo=</text>
+        <text encoding="base64">ICAgIC8vIFRoZSB0cmFuc2ZlckZyb20gbWV0aG9kIGlzIHVzZWQgZm9yIGEgd2l0aGRyYXcgd29ya2Zsb3csIGFsbG93aW5nIGNvbnRyYWN0cyB0byBzZW5kCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLy8gT3duZXIgb2YgYWNjb3VudCBhcHByb3ZlcyB0aGUgdHJhbnNmZXIgb2YgYW4gYW1vdW50IHRvIGFub3RoZXIgYWNjb3VudAo=</text>
+        <text encoding="base64">ICAgIC8vIFNlbmQgYHRva2Vuc2AgYW1vdW50IG9mIHRva2VucyBmcm9tIGFkZHJlc3MgYGZyb21gIHRvIGFkZHJlc3MgYHRvYAo=</text>
       </register>
       <register name=":" type="4">
         <text>action PreviousTab</text>
