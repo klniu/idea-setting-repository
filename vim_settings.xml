@@ -1694,8 +1694,10 @@
         <mark key="." line="129" column="0" />
         <mark key="^" line="126" column="9" />
       </file>
-      <file name="$USER_HOME$/code/LuckyCoinContract/node_modules/openzeppelin-solidity/contracts/token/ERC20/BasicToken.sol" timestamp="1532775967282">
+      <file name="$USER_HOME$/code/LuckyCoinContract/node_modules/openzeppelin-solidity/contracts/token/ERC20/BasicToken.sol" timestamp="1532831066522">
         <mark key="'" line="21" column="33" />
+        <mark key="[" line="22" column="11" />
+        <mark key="]" line="22" column="22" />
       </file>
       <file name="D:/code/web/voc-web/src/app/routes/base/setting/photo-number.component.ts" timestamp="1520044448076">
         <mark key="'" line="45" column="50" />
@@ -1730,8 +1732,8 @@
         <mark key="^" line="21" column="13" />
         <mark key="." line="21" column="22" />
       </file>
-      <file name="$USER_HOME$/code/LuckyCoinContract/node_modules/openzeppelin-solidity/contracts/token/ERC20/StandardToken.sol" timestamp="1532828251113">
-        <mark key="'" line="13" column="27" />
+      <file name="$USER_HOME$/code/LuckyCoinContract/node_modules/openzeppelin-solidity/contracts/token/ERC20/StandardToken.sol" timestamp="1532831058431">
+        <mark key="'" line="13" column="38" />
       </file>
       <file name="D:/code/web/voc-web/src/app/routes/base/setting/step6.component.ts" timestamp="1520041412105">
         <mark key="'" line="368" column="0" />
@@ -2451,12 +2453,12 @@
         <mark key="." line="262" column="21" />
         <mark key="^" line="267" column="29" />
       </file>
-      <file name="$USER_HOME$/code/LuckyCoinContract/contracts/LuckyCoinV0.sol" timestamp="1532828670340">
-        <mark key="'" line="19" column="17" />
-        <mark key="[" line="20" column="34" />
-        <mark key="]" line="20" column="34" />
-        <mark key="." line="20" column="34" />
-        <mark key="^" line="20" column="34" />
+      <file name="$USER_HOME$/code/LuckyCoinContract/contracts/LuckyCoinV0.sol" timestamp="1532831085654">
+        <mark key="'" line="3" column="32" />
+        <mark key="[" line="9" column="19" />
+        <mark key="]" line="9" column="19" />
+        <mark key="^" line="9" column="19" />
+        <mark key="." line="9" column="19" />
       </file>
       <file name="D:/code/web/voc-ui/src/app/routes/common/api.service.ts" timestamp="1522725629340">
         <mark key="'" line="28" column="28" />
@@ -2554,7 +2556,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="7" filename="$USER_HOME$/code/coinym/fetishcoin/main.py" />
       <jump line="13" column="7" filename="$USER_HOME$/code/xauto/xkeys/CopyURLFirefox.py" />
       <jump line="90" column="4" filename="$USER_HOME$/.local/lib/python3.6/site-packages/xkeys/SendToUi.py" />
       <jump line="15" column="20" filename="$USER_HOME$/.local/lib/python3.6/site-packages/xkeys/SendToUi.py" />
@@ -2646,14 +2647,15 @@
       <jump line="2" column="25" filename="$USER_HOME$/code/LuckyCoinContract/contracts/LuckyCoin_V0.sol" />
       <jump line="17" column="14" filename="$USER_HOME$/code/LuckyCoinContract/contracts/LuckyCoinV0.sol" />
       <jump line="13" column="30" filename="$USER_HOME$/code/LuckyCoinContract/contracts/LuckyCoinV0.sol" />
-      <jump line="3" column="30" filename="$USER_HOME$/code/LuckyCoinContract/contracts/LuckyCoinV0.sol" />
-      <jump line="13" column="27" filename="$USER_HOME$/code/LuckyCoinContract/node_modules/openzeppelin-solidity/contracts/token/ERC20/StandardToken.sol" />
       <jump line="9" column="23" filename="$USER_HOME$/code/LuckyCoinContract/node_modules/openzeppelin-solidity/contracts/token/ERC20/ERC20.sol" />
       <jump line="11" column="14" filename="$USER_HOME$/code/LuckyCoinContract/node_modules/openzeppelin-solidity/contracts/token/ERC20/ERC20Basic.sol" />
       <jump line="11" column="30" filename="$USER_HOME$/code/openzeppelin-solidity/contracts/token/ERC20/BasicToken.sol" />
       <jump line="20" column="21" filename="$USER_HOME$/code/LuckyCoinContract/contracts/LuckyCoinV0.sol" />
       <jump line="12" column="13" filename="$USER_HOME$/code/LuckyCoinContract/node_modules/openzeppelin-solidity/contracts/token/ERC20/ERC20Basic.sol" />
       <jump line="19" column="17" filename="$USER_HOME$/code/LuckyCoinContract/contracts/LuckyCoinV0.sol" />
+      <jump line="11" column="15" filename="$USER_HOME$/code/LuckyCoinContract/contracts/LuckyCoinV0.sol" />
+      <jump line="3" column="32" filename="$USER_HOME$/code/LuckyCoinContract/contracts/LuckyCoinV0.sol" />
+      <jump line="13" column="38" filename="$USER_HOME$/code/LuckyCoinContract/node_modules/openzeppelin-solidity/contracts/token/ERC20/StandardToken.sol" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2676,8 +2678,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>_</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2793,31 +2795,31 @@
         <text encoding="base64">ICB1c2luZyBTYWZlTWF0aCBmb3IgdWludDI1NjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKGFkZHJlc3Nlc1tpXSwgdmFsdWUpOwo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1aXJlKHZhbHVlIDw9IHRvdGFsUmVtYWluaW5nKTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgcmVxdWlyZShhZGRyZXNzZXMubGVuZ3RoIDw9IDI1NSk7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHVzaW5nIFNhZmVNYXRoIGZvciB1aW50MjU2Owo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgKGFkZHJlc3Nlc1tpXSwgdmFsdWUpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICByZXF1aXJlKHZhbHVlIDw9IHRvdGFsUmVtYWluaW5nKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgcmVxdWlyZShhZGRyZXNzZXMubGVuZ3RoIDw9IDI1NSk7Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIGluaXRpYXRpdmUK</text>
+        <text encoding="base64">ICAgICAgICBmb3IK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBiYWxhbmNlc1sweGJmQzcyOTAwN0NFOUNCQkU1NDEzMkZiOUJGYTA5N0Q4MEFBQzc5MUNdID0gMjUwMDAwMDAwMDAwMDAwOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHN0cmluZyBwdWJsaWMgbmFtZSA9ICJMdWNreWNvaW4iOyAgIC8vIEZhbmN5IG5hbWU6IGVnOiBNYW9sdWx1IExRRAogICAgc3RyaW5nIHB1YmxpYyBzeW1ib2wgPSAiTEtDIjsgLy8gQW4gaWRlbnRpZmllcjogZWcgTUxRRAogICAgdWludCBwdWJsaWMgZGVjaW1hbHMgPSAxODsgICAgICAvLyBVbml0IHByZWNpc2lvbgoK</text>
+        <text encoding="base64">ICAgIC8vIGluaXRpYXRpdmUK</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
