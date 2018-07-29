@@ -767,6 +767,12 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
+      <file name="$USER_HOME$/code/LuckyCoinContract/test/ThrowProxy.sol" timestamp="1532863396753">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/code/voc/src/test/java/com/cnvoc/voc/common/FunctionTest.java" timestamp="1530868613743">
         <mark key="'" line="73" column="26" />
         <mark key="[" line="112" column="55" />
@@ -2451,12 +2457,12 @@
         <mark key="." line="90" column="29" />
         <mark key="^" line="90" column="29" />
       </file>
-      <file name="$USER_HOME$/code/LuckyCoinContract/test/TestAirdrop.sol" timestamp="1532862309650">
-        <mark key="'" line="12" column="12" />
-        <mark key="[" line="16" column="15" />
-        <mark key="]" line="16" column="14" />
-        <mark key="." line="16" column="14" />
-        <mark key="^" line="16" column="14" />
+      <file name="$USER_HOME$/code/LuckyCoinContract/test/TestAirdrop.sol" timestamp="1532863572460">
+        <mark key="'" line="13" column="12" />
+        <mark key="[" line="33" column="6" />
+        <mark key="]" line="33" column="5" />
+        <mark key="^" line="33" column="5" />
+        <mark key="." line="33" column="5" />
       </file>
       <file name="$USER_HOME$/AppData/Local/Temp/actual4515102244318300228" timestamp="1524128285240">
         <mark key="'" line="0" column="0" />
@@ -2596,7 +2602,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text>airdrop</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2703,7 +2709,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>airdrop</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiYWxhbmNlT2ZcPg==</text>
@@ -2712,28 +2718,28 @@
         <text>0x84Cf53128e5257445a7ebF1D6D5D0107A08A0F9B</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDlvILluLjmtYvor5UK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBleGNlcHRpb24gdGVzdAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NlcnQuZXF1YWwoX2JsYWNrbGlzdFswXSwgLCAiX2JsYWNrbGlzdCBzaG91bGQgYmUgd2l0aCBsZW5ndGggMSIpOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBibGFja2xpc3RbMHg4NENmNTMxMjhlNTI1NzQ0NWE3ZWJGMUQ2RDVEMDEwN0EwOEEwRjlCXSA9IHRydWU7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">CiAgICAgICAgLy8g5byC5bi45rWL6K+VCiAgICAgICAgLy8g56m65oqV5pe26Ze05Zyo6L+H5Y67CiAgICAgICAgQXNzZXJ0Lgo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAvLyDlvILluLjmtYvor5UK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBleGNlcHRpb24gdGVzdAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBzCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBBc3NlcnQuZXF1YWwoX2JsYWNrbGlzdFswXSwgLCAiX2JsYWNrbGlzdCBzaG91bGQgYmUgd2l0aCBsZW5ndGggMSIpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBBaXJkcm9wIGFpcmRyb3AgPSBBaXJkcm9wKERlcGxveWVkQWRkcmVzc2VzLkFpcmRyb3AoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBibGFja2xpc3RbMHg4NENmNTMxMjhlNTI1NzQ0NWE3ZWJGMUQ2RDVEMDEwN0EwOEEwRjlCXSA9IHRydWU7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
