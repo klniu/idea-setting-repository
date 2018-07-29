@@ -989,6 +989,13 @@
         <mark key="^" line="17" column="36" />
         <mark key="." line="17" column="36" />
       </file>
+      <file name="$USER_HOME$/code/LuckyCoinContract/contracts/Airdrop.sol" timestamp="1532845058573">
+        <mark key="'" line="31" column="3" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="^" line="19" column="22" />
+        <mark key="." line="39" column="0" />
+      </file>
       <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/LdarTurnServiceImpl.java" timestamp="1521017138931">
         <mark key="'" line="75" column="28" />
         <mark key="[" line="111" column="25" />
@@ -2453,12 +2460,12 @@
         <mark key="." line="262" column="21" />
         <mark key="^" line="267" column="29" />
       </file>
-      <file name="$USER_HOME$/code/LuckyCoinContract/contracts/LuckyCoinV0.sol" timestamp="1532841898365">
-        <mark key="'" line="3" column="41" />
-        <mark key="[" line="49" column="5" />
-        <mark key="]" line="51" column="3" />
-        <mark key="." line="51" column="3" />
-        <mark key="^" line="51" column="3" />
+      <file name="$USER_HOME$/code/LuckyCoinContract/contracts/LuckyCoinV0.sol" timestamp="1532844110655">
+        <mark key="'" line="22" column="28" />
+        <mark key="[" line="4" column="24" />
+        <mark key="]" line="4" column="24" />
+        <mark key="." line="4" column="24" />
+        <mark key="^" line="4" column="54" />
       </file>
       <file name="D:/code/web/voc-ui/src/app/routes/common/api.service.ts" timestamp="1522725629340">
         <mark key="'" line="28" column="28" />
@@ -2556,9 +2563,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="90" column="4" filename="$USER_HOME$/.local/lib/python3.6/site-packages/xkeys/SendToUi.py" />
-      <jump line="15" column="20" filename="$USER_HOME$/.local/lib/python3.6/site-packages/xkeys/SendToUi.py" />
-      <jump line="90" column="22" filename="$USER_HOME$/code/xauto/xkeys/SendToUi.py" />
       <jump line="15" column="20" filename="$USER_HOME$/code/xauto/xkeys/SendToUi.py" />
       <jump line="12" column="17" filename="$USER_HOME$/code/xauto/xkeys/Open.py" />
       <jump line="113" column="5" filename="$USER_HOME$/code/xauto/xkeys/OpenPage.py" />
@@ -2656,6 +2660,9 @@
       <jump line="13" column="35" filename="$USER_HOME$/code/LuckyCoinContract/node_modules/openzeppelin-solidity/contracts/token/ERC20/StandardToken.sol" />
       <jump line="11" column="29" filename="$USER_HOME$/code/LuckyCoinContract/node_modules/openzeppelin-solidity/contracts/token/ERC20/BasicToken.sol" />
       <jump line="3" column="41" filename="$USER_HOME$/code/LuckyCoinContract/contracts/LuckyCoinV0.sol" />
+      <jump line="16" column="16" filename="$USER_HOME$/code/LuckyCoinContract/contracts/LuckyCoinV0.sol" />
+      <jump line="33" column="28" filename="$USER_HOME$/code/LuckyCoinContract/contracts/LuckyCoinV0.sol" />
+      <jump line="15" column="3" filename="$USER_HOME$/code/LuckyCoinContract/contracts/Airdrop.sol" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2786,49 +2793,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>luckyBoys</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwb3NpdGlvblw+</text>
+        <text>assert</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICB1c2luZyBTYWZlTWF0aCBmb3IgdWludDI1NjsK</text>
+        <text encoding="base64">ICAgIHVpbnQgYWlyZHJvcFRvdGFsID0gMDsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGYK</text>
+        <text encoding="base64">ICAgICAgICByZXF1aXJlKDw9IHRvdGFsUmVtYWluaW5nKTsK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8qKgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICovCg==</text>
+        <text encoding="base64">ICAgIC8vIGFpcmRyb3AgZm8gcGluZwogICAgZnVuY3Rpb24gKCkgZXh0ZXJuYWwgcGF5YWJsZSB7CiAgICAgICAgZ2V0VG9rZW5zKCk7CiAgICB9CgogICAgZnVuY3Rpb24gZ2V0VG9rZW5zKCkgcGF5YWJsZSBjYW5BaXJEcm9wIHB1YmxpYyB7CgogICAgICAgIHJlcXVpcmUodmFsdWUgPD0gdG90YWxSZW1haW5pbmcpOwoKICAgICAgICBhZGRyZXNzIGludmVzdG9yID0gbXNnLnNlbmRlcjsKICAgICAgICB1aW50MjU2IHRvR2l2ZSA9IHZhbHVlOwoKICAgICAgICBpZiAobXNnLnZhbHVlIDwgbWluUmVxKXsKICAgICAgICAgICAgdG9HaXZlID0gdmFsdWUuc3ViKHZhbHVlKTsKICAgICAgICB9CgogICAgICAgIGRpc3RyKGludmVzdG9yLCB0b0dpdmUpOwoKICAgICAgICBpZiAodG9HaXZlID4gMCkgewogICAgICAgICAgICBibGFja2xpc3RbaW52ZXN0b3JdID0gdHJ1ZTsKICAgICAgICB9CgogICAgICAgIGlmICh0b3RhbERpc3RyaWJ1dGVkID49IHRvdGFsU3VwcGx5KSB7CiAgICAgICAgICAgIGRpc3RyaWJ1dGlvbkZpbmlzaGVkID0gdHJ1ZTsKICAgICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZW5kIHRva2VucyBmcm9tIGEgYWNjb3VudCB0byBtdWx0aXBsZSBhZGRyZXNzZXMuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8qCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwb3NpdGlvblw+</last-search>
+      <last-search>assert</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwb3NpdGlvblw+</last-pattern>
+      <last-pattern>assert</last-pattern>
       <last-replace>{content[i++]}</last-replace>
       <last-substitute>content\[i++\]</last-substitute>
       <last-dir>1</last-dir>
@@ -2836,7 +2843,6 @@
     </search>
     <history>
       <history-search>
-        <entry>bannerT</entry>
         <entry encoding="base64">XDxuYXZCdXR0b25cPg==</entry>
         <entry>banner</entry>
         <entry encoding="base64">XDxiYW5uZXJwXD4=</entry>
@@ -2856,6 +2862,7 @@
         <entry>content[i++]</entry>
         <entry>content\[i++\]</entry>
         <entry encoding="base64">XDxwb3NpdGlvblw+</entry>
+        <entry>assert</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5J</entry>
@@ -2875,8 +2882,8 @@
         <entry>q</entry>
         <entry>%s/content[i++]/{content[i++]}/gc</entry>
         <entry>%s/content\[i++\]/{content[i++]}/gc</entry>
-        <entry>action NextTab</entry>
         <entry>action PreviousTab</entry>
+        <entry>action NextTab</entry>
         <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
