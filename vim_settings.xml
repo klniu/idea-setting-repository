@@ -391,6 +391,12 @@
         <mark key="." line="77" column="74" />
         <mark key="^" line="77" column="74" />
       </file>
+      <file name="$USER_HOME$/code/LuckyCoinContract/test/TestAirdropThrow.sol" timestamp="1532866573409">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="28" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/code/website/src/containers/Home/style/pro.scss" timestamp="1530454653849">
         <mark key="'" line="164" column="16" />
         <mark key="[" line="189" column="10" />
@@ -767,11 +773,12 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/code/LuckyCoinContract/test/ThrowProxy.sol" timestamp="1532863396753">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/code/LuckyCoinContract/test/ThrowProxy.sol" timestamp="1532866002622">
+        <mark key="'" line="16" column="14" />
+        <mark key="[" line="16" column="22" />
+        <mark key="]" line="16" column="28" />
+        <mark key="^" line="16" column="28" />
+        <mark key="." line="16" column="28" />
       </file>
       <file name="$USER_HOME$/code/voc/src/test/java/com/cnvoc/voc/common/FunctionTest.java" timestamp="1530868613743">
         <mark key="'" line="73" column="26" />
@@ -951,12 +958,12 @@
         <mark key="^" line="17" column="36" />
         <mark key="." line="17" column="36" />
       </file>
-      <file name="$USER_HOME$/code/LuckyCoinContract/contracts/Airdrop.sol" timestamp="1532861141474">
+      <file name="$USER_HOME$/code/LuckyCoinContract/contracts/Airdrop.sol" timestamp="1532866127076">
         <mark key="'" line="5" column="39" />
-        <mark key="[" line="87" column="0" />
-        <mark key="]" line="87" column="0" />
-        <mark key="." line="87" column="0" />
-        <mark key="^" line="85" column="22" />
+        <mark key="[" line="34" column="18" />
+        <mark key="]" line="34" column="23" />
+        <mark key="." line="34" column="23" />
+        <mark key="^" line="34" column="23" />
       </file>
       <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/LdarTurnServiceImpl.java" timestamp="1521017138931">
         <mark key="'" line="75" column="28" />
@@ -2457,12 +2464,12 @@
         <mark key="." line="90" column="29" />
         <mark key="^" line="90" column="29" />
       </file>
-      <file name="$USER_HOME$/code/LuckyCoinContract/test/TestAirdrop.sol" timestamp="1532863572460">
-        <mark key="'" line="13" column="12" />
-        <mark key="[" line="33" column="6" />
-        <mark key="]" line="33" column="5" />
-        <mark key="^" line="33" column="5" />
-        <mark key="." line="33" column="5" />
+      <file name="$USER_HOME$/code/LuckyCoinContract/test/TestAirdrop.sol" timestamp="1532866570033">
+        <mark key="'" line="27" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="28" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="23" column="37" />
       </file>
       <file name="$USER_HOME$/AppData/Local/Temp/actual4515102244318300228" timestamp="1524128285240">
         <mark key="'" line="0" column="0" />
@@ -2479,8 +2486,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="23" filename="$USER_HOME$/code/yangmao/fetishcoin/main.py" />
-      <jump line="1" column="87" filename="$USER_HOME$/code/xauto/xauto/web/TorUtil.py" />
       <jump line="62" column="51" filename="$USER_HOME$/code/xauto/xauto/web/WebUtil.py" />
       <jump line="28" column="0" filename="$USER_HOME$/code/yangmao/fetishcoin/main.py" />
       <jump line="81" column="8" filename="$USER_HOME$/code/xauto/xauto/web/parse_email.py" />
@@ -2579,6 +2584,8 @@
       <jump line="5" column="39" filename="$USER_HOME$/code/LuckyCoinContract/contracts/Airdrop.sol" />
       <jump line="3" column="16" filename="$USER_HOME$/code/LuckyCoinContract/test/TestAirdrop.sol" />
       <jump line="12" column="12" filename="$USER_HOME$/code/LuckyCoinContract/test/TestAirdrop.sol" />
+      <jump line="14" column="14" filename="$USER_HOME$/code/LuckyCoinContract/test/ThrowProxy.sol" />
+      <jump line="27" column="0" filename="$USER_HOME$/code/LuckyCoinContract/test/TestAirdrop.sol" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2601,8 +2608,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>airdrop</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0ICJ0cnVmZmxlL0Fzc2VydC5zb2wiOwo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2709,40 +2716,42 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>airdrop</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiYWxhbmNlT2ZcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>0x84Cf53128e5257445a7ebF1D6D5D0107A08A0F9B</text>
+      <register name="0" type="2">
+        <text encoding="base64">aW1wb3J0ICJ0cnVmZmxlL0Fzc2VydC5zb2wiOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="8">
+        <text encoding="base64">Ly8gCi8vIAovLyAKLy8gCi8vIAovLyAKLy8gCi8vIAovLyA=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgLy8g5byC5bi45rWL6K+VCiAgICAgICAgLy8g56m65oqV5pe26Ze05Zyo6L+H5Y67CiAgICAgICAgQXNzZXJ0Lgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDlvILluLjmtYvor5UK</text>
+        <text encoding="base64">ICAgICAgICBib29sIHIgPSB0aHJvd3Byb3h5LmV4ZWN1dGUuCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBleGNlcHRpb24gdGVzdAo=</text>
+      <register name="4" type="4">
+        <text>(address _target) {
+        target = _target;
+    }</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzCg==</text>
+        <text encoding="base64">ICAgIC8vCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NlcnQuZXF1YWwoX2JsYWNrbGlzdFswXSwgLCAiX2JsYWNrbGlzdCBzaG91bGQgYmUgd2l0aCBsZW5ndGggMSIpOwo=</text>
+        <text encoding="base64">ICAgIEFpcmRyb3AoYWRkcmVzcyh0aHJvd3Byb3h5KSkuc2V0QWlyZHJvcCgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBibGFja2xpc3RbMHg4NENmNTMxMjhlNTI1NzQ0NWE3ZWJGMUQ2RDVEMDEwN0EwOEEwRjlCXSA9IHRydWU7Cg==</text>
+        <text encoding="base64">CiAgICAgICAgLy8g5byC5bi45rWL6K+VCiAgICAgICAgLy8g56m65oqV5pe26Ze05Zyo6L+H5Y67CiAgICAgICAgQXNzZXJ0Lgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyDlvILluLjmtYvor5UK</text>
       </register>
       <register name=":" type="4">
         <text>action NextTab</text>
