@@ -2030,12 +2030,12 @@
         <mark key="." line="181" column="76" />
         <mark key="^" line="181" column="76" />
       </file>
-      <file name="$USER_HOME$/code/LuckyCoinContract/contracts/Airdrop.sol" timestamp="1532914783714">
+      <file name="$USER_HOME$/code/LuckyCoinContract/contracts/Airdrop.sol" timestamp="1532918371657">
         <mark key="'" line="5" column="39" />
-        <mark key="[" line="91" column="47" />
-        <mark key="]" line="91" column="47" />
-        <mark key="." line="91" column="47" />
-        <mark key="^" line="91" column="47" />
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="94" column="0" />
+        <mark key="." line="94" column="0" />
+        <mark key="^" line="99" column="16" />
       </file>
       <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/LdarTurnServiceImpl.java" timestamp="1521017138931">
         <mark key="'" line="75" column="28" />
@@ -2608,8 +2608,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>Send airdrop to multiple addresses.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICByZXF1aXJlKF9kZXN0cy5sZW5ndGgsIHZhbHVlcy5sZW5ndGgpOwo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2725,33 +2725,33 @@
         <text encoding="base64">ICAgICAqIFNlbmQgYWlyZHJvcCB0byBtdWx0aXBsZSBhZGRyZXNzZXMuCg==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICByZXF1aXJlKF9kZXN0cy5sZW5ndGgsIHZhbHVlcy5sZW5ndGgpOwo=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBmb3IgKCkK</text>
       </register>
-      <register name="2" type="8">
+      <register name="3" type="8">
         <text encoding="base64">Ly8gCi8vIAovLyAKLy8gCi8vIAovLyAKLy8gCi8vIAovLyA=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBib29sIHIgPSB0aHJvd3Byb3h5LmV4ZWN1dGUuCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>(address _target) {
         target = _target;
     }</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIC8vCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIEFpcmRyb3AoYWRkcmVzcyh0aHJvd3Byb3h5KSkuc2V0QWlyZHJvcCgpOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgLy8g5byC5bi45rWL6K+VCiAgICAgICAgLy8g56m65oqV5pe26Ze05Zyo6L+H5Y67CiAgICAgICAgQXNzZXJ0Lgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
