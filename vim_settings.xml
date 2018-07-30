@@ -769,11 +769,11 @@
         <mark key="^" line="93" column="17" />
         <mark key="." line="93" column="0" />
       </file>
-      <file name="$USER_HOME$/code/LuckyCoinContract/test/TestAirdropThrow.sol" timestamp="1532867289842">
-        <mark key="[" line="9" column="8" />
-        <mark key="]" line="9" column="8" />
-        <mark key="." line="9" column="8" />
-        <mark key="^" line="9" column="8" />
+      <file name="$USER_HOME$/code/LuckyCoinContract/test/TestAirdropThrow.sol" timestamp="1532919589824">
+        <mark key="[" line="9" column="9" />
+        <mark key="]" line="9" column="9" />
+        <mark key="." line="9" column="9" />
+        <mark key="^" line="9" column="9" />
       </file>
       <file name="D:/code/java/voc/src/test/java/com/cnvoc/voc/web/BaseTest.java" timestamp="1523761044692">
         <mark key="'" line="29" column="10" />
@@ -2457,12 +2457,12 @@
         <mark key="^" line="67" column="70" />
         <mark key="." line="67" column="70" />
       </file>
-      <file name="$USER_HOME$/code/LuckyCoinContract/test/TestAirdrop.sol" timestamp="1532867200488">
+      <file name="$USER_HOME$/code/LuckyCoinContract/test/TestAirdrop.sol" timestamp="1532919577773">
         <mark key="'" line="27" column="0" />
-        <mark key="[" line="16" column="31" />
-        <mark key="]" line="16" column="40" />
-        <mark key="." line="28" column="0" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="78" />
         <mark key="^" line="23" column="37" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/AppData/Local/Temp/actual4515102244318300228" timestamp="1524128285240">
         <mark key="'" line="0" column="0" />
@@ -2608,8 +2608,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1aXJlKF9kZXN0cy5sZW5ndGgsIHZhbHVlcy5sZW5ndGgpOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2716,45 +2716,45 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Send airdrop to multiple addresses.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiYWxhbmNlT2ZcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAqIFNlbmQgYWlyZHJvcCB0byBtdWx0aXBsZSBhZGRyZXNzZXMuCg==</text>
+      <register name="0" type="4">
+        <text>Airdrop(address(throwproxy)).</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1aXJlKF9kZXN0cy5sZW5ndGgsIHZhbHVlcy5sZW5ndGgpOwo=</text>
+        <text encoding="base64">Y29udHJhY3QgVGVzdEFpcmRyb3BUaHJvdyB7CiAgICBmdW5jdGlvbiB0ZXN0U2V0QWlyZHJvcFRocm93KCkgewogICAgICAgIEFpcmRyb3AgYWlyZHJvcCA9IG5ldyBBaXJkcm9wKCk7CiAgICAgICAgVGhyb3dQcm94eSB0aHJvd3Byb3h5ID0gbmV3IFRocm93UHJveHkoYWRkcmVzcyhhaXJkcm9wKSk7CiAgICAgICAgQWlyZHJvcChhZGRyZXNzKHRocm93cHJveHkpKS5zZXRBaXJkcm9wKDE1MzA0NDE0MDUsIDE1MzA1Mjc4MDUsIDY2NiAqIDEwICoqIDYsIDEwMDAwMCAqIDEwICoqIDYsIDEpOwogICAgICAgIGJvb2wgciA9IHRocm93cHJveHkuZXhlY3V0ZS5nYXMoMjAwMDAwKSgpOwogICAgICAgIEFzc2VydC5pc0ZhbHNlKHIsICJTaG91bGQgYmUgZmFsc2UgYmVjYXVzZSBpcyBzaG91bGQgdGhyb3chIik7CiAgICB9Cn0K</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICByZXF1aXJlKF9kZXN0cy5sZW5ndGgsIHZhbHVlcy5sZW5ndGgpOwo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBmb3IgKCkK</text>
       </register>
-      <register name="3" type="8">
+      <register name="4" type="8">
         <text encoding="base64">Ly8gCi8vIAovLyAKLy8gCi8vIAovLyAKLy8gCi8vIAovLyA=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBib29sIHIgPSB0aHJvd3Byb3h5LmV4ZWN1dGUuCg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>(address _target) {
         target = _target;
     }</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIC8vCg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgIEFpcmRyb3AoYWRkcmVzcyh0aHJvd3Byb3h5KSkuc2V0QWlyZHJvcCgpOwo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text>action PreviousTab</text>
       </register>
     </registers>
     <search>
@@ -2807,9 +2807,9 @@
         <entry>q</entry>
         <entry>%s/content[i++]/{content[i++]}/gc</entry>
         <entry>%s/content\[i++\]/{content[i++]}/gc</entry>
-        <entry>action PreviousTab</entry>
         <entry>action NextTab</entry>
         <entry>action ReformatCode</entry>
+        <entry>action PreviousTab</entry>
       </history-cmd>
       <history-expr />
       <history-input />
