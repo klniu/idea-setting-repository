@@ -396,6 +396,12 @@
         <mark key="." line="66" column="18" />
         <mark key="^" line="66" column="18" />
       </file>
+      <file name="$USER_HOME$/code/LuckyCoinContract/test/Airdrop.js" timestamp="1532944644309">
+        <mark key="[" line="14" column="4" />
+        <mark key="]" line="14" column="4" />
+        <mark key="^" line="14" column="4" />
+        <mark key="." line="14" column="4" />
+      </file>
       <file name="$USER_HOME$/code/xauto/xkeys/SystemUtil.py" timestamp="1531386959600">
         <mark key="[" line="12" column="33" />
         <mark key="]" line="12" column="33" />
@@ -828,6 +834,12 @@
         <mark key="]" line="129" column="98" />
         <mark key="^" line="129" column="98" />
         <mark key="." line="129" column="98" />
+      </file>
+      <file name="$USER_HOME$/code/LuckyCoinContract/Readme.md" timestamp="1532942286617">
+        <mark key="[" line="3" column="58" />
+        <mark key="]" line="3" column="73" />
+        <mark key="^" line="3" column="73" />
+        <mark key="." line="3" column="73" />
       </file>
       <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/shiro/JwtAuthenticationFilter.java" timestamp="1532414875211">
         <mark key="[" line="105" column="0" />
@@ -2027,12 +2039,12 @@
         <mark key="." line="181" column="76" />
         <mark key="^" line="181" column="76" />
       </file>
-      <file name="$USER_HOME$/code/LuckyCoinContract/contracts/Airdrop.sol" timestamp="1532933214847">
-        <mark key="'" line="5" column="39" />
-        <mark key="[" line="74" column="19" />
-        <mark key="]" line="74" column="18" />
-        <mark key="^" line="74" column="18" />
-        <mark key="." line="74" column="18" />
+      <file name="$USER_HOME$/code/LuckyCoinContract/contracts/Airdrop.sol" timestamp="1532942915158">
+        <mark key="'" line="31" column="16" />
+        <mark key="[" line="44" column="13" />
+        <mark key="]" line="45" column="34" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/LdarTurnServiceImpl.java" timestamp="1521017138931">
         <mark key="'" line="75" column="28" />
@@ -2454,12 +2466,11 @@
         <mark key="^" line="67" column="70" />
         <mark key="." line="67" column="70" />
       </file>
-      <file name="$USER_HOME$/code/LuckyCoinContract/test/TestAirdrop.sol" timestamp="1532933361715">
+      <file name="$USER_HOME$/code/LuckyCoinContract/test/TestAirdrop.sol" timestamp="1532944121889">
         <mark key="'" line="53" column="13" />
-        <mark key="[" line="84" column="8" />
-        <mark key="]" line="84" column="7" />
-        <mark key="." line="84" column="7" />
-        <mark key="^" line="84" column="7" />
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="82" column="0" />
+        <mark key="." line="82" column="0" />
       </file>
       <file name="$USER_HOME$/AppData/Local/Temp/actual4515102244318300228" timestamp="1524128285240">
         <mark key="'" line="0" column="0" />
@@ -2483,9 +2494,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="22" filename="$USER_HOME$/code/xauto/xauto/web/parse_email.py" />
-      <jump line="23" column="47" filename="$USER_HOME$/code/xauto/xauto/web/parse_email.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/xauto/xauto/web/parse_email.py" />
       <jump line="42" column="68" filename="$USER_HOME$/code/xauto/xauto/web/parse_email.py" />
       <jump line="29" column="35" filename="$USER_HOME$/code/xauto/xauto/web/parse_email.py" />
       <jump line="29" column="13" filename="$USER_HOME$/code/xauto/xauto/web/MailUtil.py" />
@@ -2567,7 +2575,6 @@
       <jump line="36" column="48" filename="$USER_HOME$/code/LuckyCoinContract/contracts/Airdrop.sol" />
       <jump line="7" column="27" filename="$USER_HOME$/code/LuckyCoinContract/contracts/LuckyCoinV0.sol" />
       <jump line="9" column="0" filename="$USER_HOME$/code/LuckyCoinContract/test/TestAirdrop.sol" />
-      <jump line="31" column="0" filename="$USER_HOME$/code/LuckyCoinContract/contracts/Airdrop.sol" />
       <jump line="0" column="0" filename="$USER_HOME$/code/LuckyCoinContract/contracts/Airdrop.sol" />
       <jump line="45" column="11" filename="$USER_HOME$/code/LuckyCoinContract/node_modules/openzeppelin-solidity/contracts/token/ERC20/BasicToken.sol" />
       <jump line="6" column="28" filename="$USER_HOME$/code/LuckyCoinContract/contracts/LuckyCoinV0.sol" />
@@ -2583,6 +2590,10 @@
       <jump line="48" column="32" filename="$USER_HOME$/code/LuckyCoinContract/test/TestAirdrop.sol" />
       <jump line="41" column="13" filename="$USER_HOME$/code/LuckyCoinContract/test/TestAirdrop.sol" />
       <jump line="46" column="13" filename="$USER_HOME$/code/LuckyCoinContract/test/TestAirdrop.sol" />
+      <jump line="62" column="2" filename="$USER_HOME$/code/LuckyCoinContract/test/Airdrop.js" />
+      <jump line="8" column="77" filename="$USER_HOME$/code/LuckyCoinContract/test/Airdrop.js" />
+      <jump line="22" column="27" filename="$USER_HOME$/code/LuckyCoinContract/contracts/Airdrop.sol" />
+      <jump line="31" column="16" filename="$USER_HOME$/code/LuckyCoinContract/contracts/Airdrop.sol" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2605,8 +2616,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYWlyID0gaW5zdGFuY2U7Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2713,57 +2724,56 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>account</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZXRBaXJkcm9wWmVyb0Ftb3VudFw+</text>
+        <text>airdropSetting</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRBaXJkcm9wKGN1cnJlbnQgLSAxMDAwLCBjdXJyZW50ICsgNTAwLCA2NjYgKiAxMCAqKiA2LCAxMDAwMDAgKiAxMCAqKiA2LCAxKTsK</text>
+        <text encoding="base64">ICAgICAgICBsZXQgaW5zdGFuY2UgPSBhd2FpdCBBaXJkcm9wLmRlcGxveWVkKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWlyID0gaW5zdGFuY2U7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gQWlyZHJvcC5kZXBsb3llZCgpLnRoZW4oZnVuY3Rpb24gKGluc3RhbmNlKSB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgYWlyOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgYWNjb3VudCA9ICIweDg0Q2Y1MzEyOGU1MjU3NDQ1YTdlYkYxRDZENUQwMTA3QTA4QTBGOUIiOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhaXJkcm9wVG90YWxSZW1haW5pbmcgPiAwICYmIGFpcmRyb3BWYWx1ZSA8PSBhaXJkcm9wVG90YWxSZW1haW5pbmc7Cg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgYWNjb3VudCA9ICIweDg0Q2Y1MzEyOGU1MjU3NDQ1YTdlYkYxRDZENUQwMTA3QTA4QTBGOUIiOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gYWlyZHJvcEJlZ2luIDw9IG5vdyAmJiBub3cgPD0gYWlyZHJvcEVuZCAmJgo=</text>
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB9KS50aGVuKGZ1bmN0aW9uIChiYWxhbmNlKSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhaXJkcm9wVG90YWxSZW1haW5pbmcgCg==</text>
+        <text encoding="base64">ICAgICAgICB9KS50aGVuKGZ1bmN0aW9uKCkgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhaXJkcm9wVG90YWxSZW1haW5pbmcgPSB0ZW1wOwo=</text>
+        <text encoding="base64">ICAgICAgICB9KS50aGVuKGZ1bmN0aW9uICgpIHsK</text>
       </register>
       <register name=":" type="4">
-        <text>action NextTab</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZXRBaXJkcm9wWmVyb0Ftb3VudFw+</last-search>
+      <last-search>airdropSetting</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZXRBaXJkcm9wWmVyb0Ftb3VudFw+</last-pattern>
-      <last-replace>{content[i++]}</last-replace>
-      <last-substitute>content\[i++\]</last-substitute>
+      <last-pattern>airdropSetting</last-pattern>
+      <last-replace>as</last-replace>
+      <last-substitute>airdropSetting</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>width</entry>
         <entry>css</entry>
         <entry>js</entry>
         <entry>.test p</entry>
@@ -2783,9 +2793,9 @@
         <entry encoding="base64">XDxzZXRBaXJkcm9wT2xkRGF0ZXNcPg==</entry>
         <entry encoding="base64">XDxzZXRBaXJkcm9wWmVyb1RvdGFsXD4=</entry>
         <entry encoding="base64">XDxzZXRBaXJkcm9wWmVyb0Ftb3VudFw+</entry>
+        <entry>airdropSetting</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5J</entry>
         <entry encoding="base64">JzwsJz5zLyQvLC9nYw==</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gTmV4dFRhYg==</entry>
         <entry>%s/1.0.0-beta.9/1.0.1/gc</entry>
@@ -2799,12 +2809,13 @@
         <entry encoding="base64">JzwsJz5zL2dldCgwKS9nZXQoMSkvZ2M=</entry>
         <entry>w</entry>
         <entry>action Forward</entry>
-        <entry>q</entry>
         <entry>%s/content[i++]/{content[i++]}/gc</entry>
         <entry>%s/content\[i++\]/{content[i++]}/gc</entry>
-        <entry>action ReformatCode</entry>
-        <entry>action PreviousTab</entry>
+        <entry>%s/airdropSetting/as/gc</entry>
+        <entry>q</entry>
         <entry>action NextTab</entry>
+        <entry>action PreviousTab</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
