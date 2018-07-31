@@ -224,11 +224,6 @@
         <mark key="." line="12" column="56" />
         <mark key="^" line="12" column="56" />
       </file>
-      <file name="$USER_HOME$/code/openzeppelin-solidity/contracts/token/ERC20/BasicToken.sol" timestamp="1532828539391">
-        <mark key="'" line="11" column="30" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="28" />
-      </file>
       <file name="$USER_HOME$/code/LuckyCoinContract/node_modules/openzeppelin-solidity/contracts/token/ERC20/ERC20.sol" timestamp="1532828254305">
         <mark key="'" line="9" column="23" />
       </file>
@@ -932,11 +927,6 @@
         <mark key="." line="42" column="17" />
         <mark key="^" line="42" column="17" />
       </file>
-      <file name="$USER_HOME$/code/LuckyCoinContract/node_modules/openzeppelin-solidity/contracts/token/ERC20/BasicToken.sol" timestamp="1532859909728">
-        <mark key="'" line="45" column="11" />
-        <mark key="[" line="22" column="11" />
-        <mark key="]" line="22" column="22" />
-      </file>
       <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" timestamp="1524019031176">
         <mark key="'" line="120" column="7" />
         <mark key="[" line="140" column="0" />
@@ -1136,6 +1126,9 @@
         <mark key="." line="112" column="52" />
         <mark key="^" line="112" column="51" />
       </file>
+      <file name="$USER_HOME$/code/LuckyCoinContract/build/contracts/LuckyCoinV0.json" timestamp="1533016020115">
+        <mark key="'" line="242" column="18" />
+      </file>
       <file name="D:/code/web/voc-web/src/app/routes/ldar/ldarsetting/tag-formatter.component.ts" timestamp="1520148034511">
         <mark key="'" line="60" column="30" />
         <mark key="[" line="60" column="12" />
@@ -1203,7 +1196,7 @@
         <mark key="." line="101" column="0" />
         <mark key="^" line="16" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533006769755">
+      <file name="/Dummy.txt" timestamp="1533016382763">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/website/src/containers/Home/components/Div1/Div1.js" timestamp="1528895170704">
@@ -2062,6 +2055,9 @@
         <mark key="." line="181" column="76" />
         <mark key="^" line="181" column="76" />
       </file>
+      <file name="$USER_HOME$/code/LuckyCoinContract/build/contracts/Airdrop.json" timestamp="1533015964613">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/code/LuckyCoinContract/contracts/Airdrop.sol" timestamp="1533006249052">
         <mark key="'" line="5" column="27" />
         <mark key="[" line="93" column="30" />
@@ -2530,12 +2526,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="16" filename="$USER_HOME$/code/yangmao/helpers/helper.py" />
-      <jump line="2" column="51" filename="$USER_HOME$/code/yangmao/module/modules.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/yangmao/fetishcoin/main.py" />
-      <jump line="40" column="55" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/web/LdarSettingController.java" />
-      <jump line="4" column="16" filename="$USER_HOME$/code/webutils/AmapTopCodes/index.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/webutils/AmapTopCodes/index.html" />
       <jump line="88" column="6" filename="$USER_HOME$/code/webutils/AmapTopCodes/index.html" />
       <jump line="73" column="27" filename="$USER_HOME$/code/webutils/AmapTopCodes/index.html" />
       <jump line="95" column="26" filename="$USER_HOME$/code/webutils/AmapTopCodes/index.html" />
@@ -2630,6 +2620,12 @@
       <jump line="5" column="27" filename="$USER_HOME$/code/LuckyCoinContract/contracts/Airdrop.sol" />
       <jump line="13" column="36" filename="$USER_HOME$/code/LuckyCoinContract/node_modules/openzeppelin-solidity/contracts/token/ERC20/StandardToken.sol" />
       <jump line="18" column="18" filename="$USER_HOME$/code/LuckyCoinContract/test/LuckyCoinV0.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/LuckyCoinContract/build/contracts/Airdrop.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/LuckyCoinContract/build/contracts/LuckyCoinV0.json" />
+      <jump line="2" column="9" filename="$USER_HOME$/code/LuckyCoinContract/build/contracts/LuckyCoinV0.json" />
+      <jump line="98" column="15" filename="$USER_HOME$/code/LuckyCoinContract/build/contracts/LuckyCoinV0.json" />
+      <jump line="112" column="17" filename="$USER_HOME$/code/LuckyCoinContract/build/contracts/LuckyCoinV0.json" />
+      <jump line="242" column="18" filename="$USER_HOME$/code/LuckyCoinContract/build/contracts/LuckyCoinV0.json" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2763,7 +2759,7 @@
         <text>1000000</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0b051bWJlclw+</text>
+        <text>bytecode</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaG9zdDogIjEyNy4wLjAuMSIsCiAgICAgICAgICAgIHBvcnQ6IDk1NDUsCiAgICAgICAgICAgIG5ldHdvcmtfaWQ6ICIqIiAvLyBNYXRjaCBhbnkgbmV0d29yayBpZAo=</text>
@@ -2800,9 +2796,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0b051bWJlclw+</last-search>
+      <last-search>bytecode</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0b051bWJlclw+</last-pattern>
+      <last-pattern>bytecode</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute>airdropSetting</last-substitute>
       <last-dir>1</last-dir>
@@ -2810,9 +2806,6 @@
     </search>
     <history>
       <history-search>
-        <entry>js</entry>
-        <entry>.test p</entry>
-        <entry>detect</entry>
         <entry>get(0)</entry>
         <entry encoding="base64">XDxPdXRlclw+</entry>
         <entry encoding="base64">XDxvbkNsaWNrXD4=</entry>
@@ -2830,6 +2823,9 @@
         <entry encoding="base64">XDxzZXRBaXJkcm9wWmVyb0Ftb3VudFw+</entry>
         <entry>airdropSetting</entry>
         <entry encoding="base64">XDx0b051bWJlclw+</entry>
+        <entry>abi</entry>
+        <entry>airdrop</entry>
+        <entry>bytecode</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyQvLC9nYw==</entry>
