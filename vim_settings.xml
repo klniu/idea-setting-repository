@@ -126,10 +126,10 @@
         <mark key="^" line="5870" column="774" />
       </file>
       <file name="$USER_HOME$/code/Ethereum/LuckCoinReRun/main.py" timestamp="1532616467224">
-        <mark key="[" line="25" column="23" />
-        <mark key="]" line="25" column="24" />
-        <mark key="." line="25" column="24" />
-        <mark key="^" line="32" column="27" />
+        <mark key="[" line="26" column="23" />
+        <mark key="]" line="26" column="24" />
+        <mark key="." line="26" column="24" />
+        <mark key="^" line="33" column="27" />
       </file>
       <file name="D:/code/web/voc-delon/src/app/layout/passport/passport.component.html" timestamp="1526527444136">
         <mark key="'" line="10" column="15" />
@@ -1160,11 +1160,11 @@
         <mark key="^" line="42" column="65" />
         <mark key="." line="60" column="66" />
       </file>
-      <file name="$USER_HOME$/code/Ethereum/README.md" timestamp="1532603165827">
-        <mark key="[" line="41" column="62" />
-        <mark key="]" line="42" column="0" />
-        <mark key="^" line="42" column="0" />
-        <mark key="." line="42" column="0" />
+      <file name="$USER_HOME$/code/Ethereum/README.md" timestamp="1534496701663">
+        <mark key="[" line="38" column="35" />
+        <mark key="]" line="38" column="75" />
+        <mark key="^" line="38" column="74" />
+        <mark key="." line="38" column="74" />
       </file>
       <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/entity/svg/SVG.java" timestamp="1530838564194">
         <mark key="'" line="19" column="18" />
@@ -1278,11 +1278,11 @@
         <mark key="^" line="67" column="70" />
         <mark key="." line="67" column="70" />
       </file>
-      <file name="$USER_HOME$/code/Ethereum/LuckCoinReRun/test.py" timestamp="1534495031191">
-        <mark key="[" line="22" column="11" />
-        <mark key="]" line="22" column="11" />
-        <mark key="^" line="7" column="0" />
-        <mark key="." line="22" column="11" />
+      <file name="$USER_HOME$/code/Ethereum/LuckCoinReRun/test.py" timestamp="1534495835820">
+        <mark key="[" line="24" column="11" />
+        <mark key="]" line="24" column="10" />
+        <mark key="." line="24" column="10" />
+        <mark key="^" line="24" column="10" />
       </file>
       <file name="D:/code/web/voc-ui/src/app/routes/ldar/unit/install-form.component.ts" timestamp="1522227970326">
         <mark key="'" line="107" column="56" />
@@ -2384,6 +2384,12 @@
         <mark key="^" line="0" column="22" />
         <mark key="." line="0" column="22" />
       </file>
+      <file name="$USER_HOME$/code/Ethereum/Helper/NewChain.py" timestamp="1534497783652">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="22" />
+        <mark key="." line="37" column="0" />
+        <mark key="^" line="48" column="9" />
+      </file>
       <file name="D:/code/web/voc-ui/src/app/routes/ldar/unit/unit.component.html" timestamp="1522226662628">
         <mark key="'" line="82" column="47" />
         <mark key="[" line="86" column="0" />
@@ -2761,8 +2767,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwYXNzd29yZCA9ICJrbG5pdSIK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2869,7 +2875,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>帐户</text>
       </register>
       <register name="/" type="4">
         <text>bytecode</text>
@@ -2878,31 +2884,31 @@
         <text encoding="base64">ICAgICAgICAgICAgaG9zdDogIjEyNy4wLjAuMSIsCiAgICAgICAgICAgIHBvcnQ6IDk1NDUsCiAgICAgICAgICAgIG5ldHdvcmtfaWQ6ICIqIiAvLyBNYXRjaCBhbnkgbmV0d29yayBpZAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzd29yZCA9ICJrbG5pdSIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFRSVUZGTEVfSlNPTiA9ICcvaG9tZS9rbG5pdS9jb2RlL0x1Y2t5Q29pbkNvbnRyYWN0L2J1aWxkL2NvbnRyYWN0cy9MdWNreUNvaW5WMC5qc29uJwo=</text>
+        <text encoding="base64">ICAgIHczLm1pbmVyLnNldEV0aGVyQmFzZShhY2NvdW50KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG5ldHdvcmtzOiB7CiAgICAgICAgbGl2ZTogewogICAgICAgICAgICBob3N0OiAiMTI3LjAuMC4xIiwKICAgICAgICAgICAgcG9ydDogODU0NSwKICAgICAgICAgICAgbmV0d29ya19pZDogMQogICAgICAgIH0KICAgIH0K</text>
+        <text encoding="base64">ICAgIHYwLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZXZlbG9wbWVudDogewogICAgICAgICAgICBob3N0OiAiMTI3LjAuMC4xIiwKICAgICAgICAgICAgcG9ydDogODU0NSwKICAgICAgICAgICAgbmV0d29ya19pZDogIioiIC8vIE1hdGNoIGFueSBuZXR3b3JrIGlkCiAgICAgICAgfSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFRSVUZGTEVfSlNPTiA9ICcvaG9tZS9rbG5pdS9jb2RlL0x1Y2t5Q29pbkNvbnRyYWN0L2J1aWxkL2NvbnRyYWN0cy9MdWNreUNvaW5WMC5qc29uJwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW1vdW50Cg==</text>
+        <text encoding="base64">ICAgIG5ldHdvcmtzOiB7CiAgICAgICAgbGl2ZTogewogICAgICAgICAgICBob3N0OiAiMTI3LjAuMC4xIiwKICAgICAgICAgICAgcG9ydDogODU0NSwKICAgICAgICAgICAgbmV0d29ya19pZDogMQogICAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgVE9UQUwgPSAyMDE5ODg4ODg4ICogMTAgKiogNjsK</text>
+        <text encoding="base64">ICAgICAgICBkZXZlbG9wbWVudDogewogICAgICAgICAgICBob3N0OiAiMTI3LjAuMC4xIiwKICAgICAgICAgICAgcG9ydDogODU0NSwKICAgICAgICAgICAgbmV0d29ya19pZDogIioiIC8vIE1hdGNoIGFueSBuZXR3b3JrIGlkCiAgICAgICAgfSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29udHJhY3QoJ0FpcmRyb3AnLCBhc3luYyBmdW5jdGlvbiAoYWNjb3VudHMpIHsKICAgIGl0KCJnZXRBaXJkcm9wIG1pbiBldGggaXMgbm90IGVub3VnaCIsIGFzeW5jIGZ1bmN0aW9uICgpIHsKICAgICAgICBsZXQgaW5zdGFuY2UgPSBhd2FpdCBBaXJkcm9wLmRlcGxveWVkKCk7CgogICAgICAgIGNvbnN0IGRhdGV0aW1lID0gRGF0ZS5ub3coKTsKICAgICAgICBjb25zdCBub3cgPSBNYXRoLmZsb29yKGRhdGV0aW1lIC8gMTAwMCk7CiAgICAgICAgLy8gdGhlIHRvdGFsIGhhcyBiZW4gdXNlZCBvbmNlIGluIGFib3ZlIHRlc3QKICAgICAgICBhd2FpdCBpbnN0YW5jZS5zZXRBaXJkcm9wKG5vdyAtIDEwMDAsIG5vdyArIDEwMDAsIFZBTFVFLCBUT1RBTCwgMSk7CiAgICAgICAgdHJ5IHsKICAgICAgICAgICAgYXdhaXQgaW5zdGFuY2UuZ2V0QWlyZHJvcCh7ZnJvbTogYWNjb3VudHNbMl0sIHZhbHVlOiAwfSk7CiAgICAgICAgICAgIGFzc2VydC5mYWlsKCdFeHBlY3RlZCB0aHJvdyBmb3Igbm90IGVub3VnaCBldGgnKTsKICAgICAgICB9IGNhdGNoIChlcnJvcikgewogICAgICAgICAgICBsZXQgYmFsYW5jZSA9IGF3YWl0IGluc3RhbmNlLmJhbGFuY2VPZi5jYWxsKGFjY291bnRzWzJdKTsKICAgICAgICAgICAgbGV0IG93bmVyQmFsbmFjZSA9IGF3YWl0IGluc3RhbmNlLmJhbGFuY2VPZi5jYWxsKGFjY291bnRzWzBdKTsKICAgICAgICAgICAgYXNzZXJ0LmVxdWFsKGJhbGFuY2UudG9OdW1iZXIoKSwgMCwgIlRoZSBiYWxhbmNlIGFmdGVyIGFpcmRyb3Agc2hvdWxkIGJlIDAiKTsKICAgICAgICAgICAgYXNzZXJ0LmVxdWFsKG93bmVyQmFsbmFjZS50b051bWJlcigpLCBUT1RBTCwgIlRoZSBiYWxhbmNlIGFmdGVyIGFpcmRyb3Agc2hvdWxkIGJlIHRvdGFsIik7CiAgICAgICAgfQogICAgfSk7Cn0pOwpjb250cmFjdCgnQWlyZHJvcCcsIGFzeW5jIGZ1bmN0aW9uIChhY2NvdW50cykgewogICAgaXQoIm11dGlEaXN0cmlidXRlIHNob3VsZCB3b3JrIGFzIGV4cGVjdGVkIiwgYXN5bmMgZnVuY3Rpb24gKCkgewogICAgICAgIGxldCBpbnN0YW5jZSA9IGF3YWl0IEFpcmRyb3AuZGVwbG95ZWQoKTsKCiAgICAgICAgY29uc3QgZGF0ZXRpbWUgPSBEYXRlLm5vdygpOwogICAgICAgIGNvbnN0IG5vdyA9IE1hdGguZmxvb3IoZGF0ZXRpbWUgLyAxMDAwKTsKICAgICAgICAvLyB0aGUgdG90YWwgaGFzIGJlbiB1c2VkIG9uY2UgaW4gYWJvdmUgdGVzdAogICAgICAgIGF3YWl0IGluc3RhbmNlLnNldEFpcmRyb3Aobm93IC0gMTAwMCwgbm93ICsgMTAwMCwgVkFMVUUsIFRPVEFMLCAxKTsKICAgICAgICBhd2FpdCBpbnN0YW5jZS5tdWx0aURpc3RyaWJ1dGUoYWNjb3VudHMuc2xpY2UoMSkpOwogICAgICAgIGFjY291bnRzLnNsaWNlKDEpLmZvckVhY2goYXN5bmMgYWNjb3VudCA9PiB7CiAgICAgICAgICAgIGxldCBiYWxhbmNlID0gYXdhaXQgaW5zdGFuY2UuYmFsYW5jZU9mLmNhbGwoYWNjb3VudCk7CiAgICAgICAgICAgIGFzc2VydC5lcXVhbChiYWxhbmNlLnRvTnVtYmVyKCksIFZBTFVFLCAiVGhlIGJhbGFuY2VzIGFmdGVyIGFpcmRyb3Agc2hvdWxkIGJlIDY2NiIpOwogICAgICAgIH0pOwoKICAgICAgICAvLyBzZWNvbmQgYWlyZHJvcCBzaG91bGQgYmUgcmV2ZXJ0CiAgICAgICAgdHJ5IHsKICAgICAgICAgICAgYXdhaXQgaW5zdGFuY2UubXVsdGlEaXN0cmlidXRlKGFjY291bnRzLnNsaWNlKDEpKTsKICAgICAgICAgICAgYXNzZXJ0LmZhaWwoJ0V4cGVjdGVkIHRocm93IGZvciBub3Qgc2Vjb25kIGFpcmRyb3AnKTsKICAgICAgICB9IGNhdGNoIChlcnJvcikgewogICAgICAgICAgICBhY2NvdW50cy5zbGljZSgxKS5mb3JFYWNoKGFzeW5jIGFjY291bnQgPT4gewogICAgICAgICAgICAgICAgbGV0IGJhbGFuY2UgPSBhd2FpdCBpbnN0YW5jZS5iYWxhbmNlT2YuY2FsbChhY2NvdW50KTsKICAgICAgICAgICAgICAgIGFzc2VydC5lcXVhbChiYWxhbmNlLnRvTnVtYmVyKCksIFZBTFVFLCAiVGhlIGJhbGFuY2VzIGFmdGVyIGFpcmRyb3Agc2hvdWxkIGJlIDY2NiIpOwogICAgICAgICAgICB9KTsKICAgICAgICB9CiAgICB9KTsKfSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW1vdW50Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
@@ -2958,9 +2964,9 @@
         <entry>q</entry>
         <entry>%s/content[i++]/{content[i++]}/gc</entry>
         <entry>%s/content\[i++\]/{content[i++]}/gc</entry>
-        <entry>action ReformatCode</entry>
         <entry>action PreviousTab</entry>
         <entry>action NextTab</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
