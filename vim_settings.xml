@@ -1278,11 +1278,12 @@
         <mark key="^" line="67" column="70" />
         <mark key="." line="67" column="70" />
       </file>
-      <file name="$USER_HOME$/code/Ethereum/LuckCoinReRun/test.py" timestamp="1534674250475">
-        <mark key="[" line="24" column="39" />
-        <mark key="]" line="24" column="40" />
-        <mark key="^" line="24" column="41" />
-        <mark key="." line="24" column="40" />
+      <file name="$USER_HOME$/code/Ethereum/LuckCoinReRun/test.py" timestamp="1534676682629">
+        <mark key="'" line="24" column="29" />
+        <mark key="[" line="49" column="8" />
+        <mark key="]" line="49" column="9" />
+        <mark key="^" line="49" column="9" />
+        <mark key="." line="49" column="9" />
       </file>
       <file name="D:/code/web/voc-ui/src/app/routes/ldar/unit/install-form.component.ts" timestamp="1522227970326">
         <mark key="'" line="107" column="56" />
@@ -2645,7 +2646,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="124" column="24" filename="$USER_HOME$/code/webutils/AmapTopCodes/index.html" />
       <jump line="130" column="31" filename="$USER_HOME$/code/webutils/AmapTopCodes/index.html" />
       <jump line="142" column="91" filename="$USER_HOME$/code/webutils/AmapTopCodes/index.html" />
       <jump line="168" column="52" filename="$USER_HOME$/code/webutils/AmapTopCodes/index.html" />
@@ -2745,6 +2745,7 @@
       <jump line="74" column="33" filename="$USER_HOME$/code/Ethereum/Helper/NewChain.py" />
       <jump line="4" column="10" filename="$USER_HOME$/code/Ethereum/Helper/NewChain.py" />
       <jump line="14" column="7" filename="$USER_HOME$/code/Ethereum/LuckCoinReRun/test.py" />
+      <jump line="24" column="29" filename="$USER_HOME$/code/Ethereum/LuckCoinReRun/test.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2768,7 +2769,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>rpc_ready</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2875,13 +2876,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>rpc_ready</text>
       </register>
       <register name="/" type="4">
         <text>bytecode</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnaXMgcnBjIHJlYWR5Jywgc2VsZi5nZXRoLmlzX3JwY19yZWFkeSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBzaHV0aWwucm10cmVlKHNlbGYud29ya2RpciwgVHJ1ZSkK</text>
