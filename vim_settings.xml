@@ -125,12 +125,6 @@
         <mark key="." line="5870" column="802" />
         <mark key="^" line="5870" column="774" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2e9c8649-18f5-43f9-a70d-cf6359de55b3/console.sql" timestamp="1530256408491">
-        <mark key="[" line="21" column="11" />
-        <mark key="]" line="21" column="12" />
-        <mark key="." line="21" column="12" />
-        <mark key="^" line="21" column="11" />
-      </file>
       <file name="$USER_HOME$/code/Ethereum/LuckCoinReRun/main.py" timestamp="1532616467224">
         <mark key="[" line="26" column="23" />
         <mark key="]" line="26" column="24" />
@@ -622,6 +616,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2e9c8649-18f5-43f9-a70d-cf6359de55b3/console.sql" timestamp="1530256408491">
+        <mark key="[" line="21" column="11" />
+        <mark key="]" line="21" column="12" />
+        <mark key="." line="21" column="12" />
+        <mark key="^" line="21" column="11" />
       </file>
       <file name="D:/code/web/voc-web/src/app/routes/ldar/standard/standard.component.ts" timestamp="1520142565889">
         <mark key="'" line="127" column="4" />
@@ -1278,11 +1278,11 @@
         <mark key="^" line="67" column="70" />
         <mark key="." line="67" column="70" />
       </file>
-      <file name="$USER_HOME$/code/Ethereum/LuckCoinReRun/test.py" timestamp="1534557958306">
-        <mark key="[" line="36" column="8" />
-        <mark key="]" line="37" column="22" />
-        <mark key="." line="37" column="22" />
-        <mark key="^" line="37" column="22" />
+      <file name="$USER_HOME$/code/Ethereum/LuckCoinReRun/test.py" timestamp="1534776913726">
+        <mark key="[" line="43" column="42" />
+        <mark key="]" line="43" column="48" />
+        <mark key="." line="43" column="48" />
+        <mark key="^" line="43" column="48" />
       </file>
       <file name="D:/code/web/voc-ui/src/app/routes/ldar/unit/install-form.component.ts" timestamp="1522227970326">
         <mark key="'" line="107" column="56" />
@@ -2202,12 +2202,6 @@
         <mark key="." line="580" column="49" />
         <mark key="^" line="580" column="49" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.sol" timestamp="1532752405224">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="30" column="1" />
-        <mark key="^" line="0" column="7" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/code/LuckyCoinContract/node_modules/openzeppelin-solidity/contracts/token/ERC20/ERC20Basic.sol" timestamp="1532828666094">
         <mark key="'" line="12" column="13" />
         <mark key="[" line="11" column="20" />
@@ -2308,6 +2302,12 @@
         <mark key="]" line="3" column="1" />
         <mark key="^" line="3" column="1" />
         <mark key="." line="3" column="1" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.sol" timestamp="1532752405224">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="30" column="1" />
+        <mark key="^" line="0" column="7" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/shiro/JwtAuthenticationFilter.java" timestamp="1517649706908">
         <mark key="'" line="45" column="26" />
@@ -2768,7 +2768,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>account</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2875,7 +2875,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>account</text>
       </register>
       <register name="/" type="4">
         <text>netwo</text>
@@ -2921,7 +2921,7 @@
       <last-replace>as</last-replace>
       <last-substitute>airdropSetting</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
