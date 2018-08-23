@@ -511,9 +511,9 @@
         <mark key="." line="39" column="13" />
         <mark key="^" line="39" column="13" />
       </file>
-      <file name="$USER_HOME$/code/xauto/xauto/xkeys/SendToUi.py" timestamp="1531414089103">
-        <mark key="[" line="14" column="5" />
-        <mark key="]" line="14" column="10" />
+      <file name="$USER_HOME$/code/xauto/xauto/xkeys/SendToUi.py" timestamp="1535015337104">
+        <mark key="[" line="35" column="14" />
+        <mark key="]" line="35" column="20" />
         <mark key="^" line="14" column="10" />
         <mark key="." line="14" column="10" />
       </file>
@@ -890,6 +890,12 @@
         <mark key="." line="49" column="0" />
         <mark key="^" line="57" column="21" />
       </file>
+      <file name="$USER_HOME$/code/safety/43hainan.py" timestamp="1535015553056">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="29" column="0" />
+        <mark key="." line="26" column="0" />
+      </file>
       <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/IDelayRepairService.java" timestamp="1530083271706">
         <mark key="'" line="58" column="40" />
         <mark key="[" line="56" column="14" />
@@ -1180,7 +1186,6 @@
         <mark key="^" line="104" column="53" />
         <mark key="." line="104" column="53" />
       </file>
-      <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/model_test.go" timestamp="1532994830189" />
       <file name="$USER_HOME$/code/lkc_website/src/helpers/function.js" timestamp="1528940098955">
         <mark key="[" line="11" column="39" />
         <mark key="]" line="11" column="42" />
@@ -1331,6 +1336,7 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="20" column="0" />
       </file>
+      <file name="$USER_HOME$/code/yangmao/fetishcoin/main.py" timestamp="1535012726189" />
       <file name="$USER_HOME$/code/LuckyCoinContract/migrations/2_LuckCoinV0_migration.js" timestamp="1532945699202">
         <mark key="[" line="3" column="22" />
         <mark key="]" line="3" column="22" />
@@ -2359,6 +2365,13 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/safety/WebUtil.py" timestamp="1535014264838">
+        <mark key="'" line="56" column="13" />
+        <mark key="[" line="56" column="27" />
+        <mark key="]" line="57" column="39" />
+        <mark key="." line="57" column="39" />
+        <mark key="^" line="57" column="39" />
+      </file>
       <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/web/LdarTurnController.java" timestamp="1523606457949">
         <mark key="'" line="69" column="36" />
         <mark key="[" line="80" column="5" />
@@ -2645,13 +2658,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="124" column="24" filename="$USER_HOME$/code/webutils/AmapTopCodes/index.html" />
-      <jump line="130" column="31" filename="$USER_HOME$/code/webutils/AmapTopCodes/index.html" />
-      <jump line="142" column="91" filename="$USER_HOME$/code/webutils/AmapTopCodes/index.html" />
-      <jump line="168" column="52" filename="$USER_HOME$/code/webutils/AmapTopCodes/index.html" />
-      <jump line="172" column="19" filename="$USER_HOME$/code/webutils/AmapTopCodes/index.html" />
-      <jump line="173" column="35" filename="$USER_HOME$/code/webutils/AmapTopCodes/index.html" />
-      <jump line="144" column="18" filename="$USER_HOME$/code/webutils/AmapTopCodes/index.html" />
       <jump line="127" column="0" filename="$USER_HOME$/code/webutils/AmapTopCodes/index.html" />
       <jump line="31" column="5" filename="$USER_HOME$/code/website/src/containers/Announcement/page/data.js" />
       <jump line="35" column="15" filename="$USER_HOME$/code/website/src/containers/Announcement/Announcement.js" />
@@ -2745,6 +2751,13 @@
       <jump line="74" column="33" filename="$USER_HOME$/code/Ethereum/Helper/NewChain.py" />
       <jump line="4" column="10" filename="$USER_HOME$/code/Ethereum/Helper/NewChain.py" />
       <jump line="4827" column="19" filename="$USER_HOME$/code/LuckyCoinContract/build/contracts/LuckyCoinV0.json" />
+      <jump line="14" column="23" filename="$USER_HOME$/code/safety/43hainan.py" />
+      <jump line="24" column="33" filename="$USER_HOME$/code/safety/WebUtil.py" />
+      <jump line="13" column="21" filename="$USER_HOME$/code/safety/WebUtil.py" />
+      <jump line="23" column="13" filename="$USER_HOME$/code/safety/43hainan.py" />
+      <jump line="26" column="8" filename="$USER_HOME$/code/safety/43hainan.py" />
+      <jump line="28" column="9" filename="$USER_HOME$/code/safety/43hainan.py" />
+      <jump line="55" column="13" filename="$USER_HOME$/code/safety/WebUtil.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2767,8 +2780,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>account</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaW50KCd0ZXN0MScpCg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2875,57 +2888,56 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>account</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>netwo</text>
+        <text>send</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Z2V0aCAtLWRhdGFkaXIgL3BhdGgvcHJpdmF0ZSBpbml0IC9wYXRoL2dlbmVzaXMuanNvbgo=</text>
+        <text encoding="base64">ICAgICMgdS5hY3Rpb25DaGFpbnMoKS5rZXlfZG93bihLZXlzLkFMVCkuc2VuZF9rZXlzKCdhJykua2V5X3VwKEtleXMuQUxUKS5wZXJmb3JtKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Z2V0aCA9IERldkdldGhQcm9jZXNzKCd0ZXN0aW5nJywgJy90bXAvc29tZS1vdGhlci1iYXNlLWRpci8nKQo+Pj4gZ2V0aC5zdGFydCgpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KCd0ZXN0MScpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KCd0ZXN0JykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRpbWUuc2xlZXAoMikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CkdFTkVTSVMgPSAnJyd7CiAgICAiY29pbmJhc2UiOiAiMHgwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwIiwKICAgICJjb25maWciOiB7CiAgICAgICAgImhvbWVzdGVhZEJsb2NrIjogNQogICAgfSwKICAgICJkaWZmaWN1bHR5IjogIjB4MjAwMDAiLAogICAgImV4dHJhRGF0YSI6ICIweCIsCiAgICAiZ2FzTGltaXQiOiAiMHgyRkVGRDgiLAogICAgIm1peGhhc2giOiAiMHgwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY0NzU3MjYxNmM2NTc4NzM2NTY0NmM2NTc4IiwKICAgICJub25jZSI6ICIweDAiLAogICAgInBhcmVudEhhc2giOiAiMHgwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwIiwKICAgICJ0aW1lc3RhbXAiOiAiMHgwMCIsCiAgICAiYWxsb2MiOiB7CiAgICAgICAgImRiZGJkYjJjYmQyM2I3ODM3NDFlOGQ3ZmNmNTFlNDU5YjQ5N2U0YTYiOgogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAiYmFsYW5jZSI6IjEwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMCIKICAgICAgICAgICAgfQogICAgfQp9CicnJwo=</text>
+        <text encoding="base64">ICAgIHUub3BlbigiaHR0cDovL3FxLmNvbS8iKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMg5aaC5p6c5rKh5pyJ55So5oi35YiZ5Yib5bu66buY6K6k5paw55So5oi3CiAgICBpZiBsZW4odzMuZXRoLmFjY291bnRzKSA9PSAwOgogICAgICAgIHczLnBlcnNvbmFsLm5ld0FjY291bnQocGFzc3dvcmQpCiAgICBhY2NvdW50ID0gdzMuZXRoLmFjY291bnRzWy0xXQogICAgIyDmjJbkuIDkupvnn78KICAgIGlmIHczLmV0aC5nZXRCYWxhbmNlKGFjY291bnQpID09IDA6CiAgICAgICAgdzMubWluZXIuc2V0RXRoZXJCYXNlKGFjY291bnQpCiAgICAgICAgdzMubWluZXIuc3RhcnQoMikKICAgICAgICB0aW1lLnNsZWVwKDMpCiAgICAgICAgdzMubWluZXIuc3RvcCgpCiAgICAjIOino+mUgei0puaItwogICAgdzMucGVyc29uYWwudW5sb2NrQWNjb3VudChhY2NvdW50LCBwYXNzd29yZCkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBhc3N3b3JkID0gImtsbml1Igo=</text>
+        <text encoding="base64">ICAgIG9zLnBvcGVuKCJ4ZG90b29sIGdldGFjdGl2ZXdpbmRvdyBrZXkgYWx0K2EiKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByb3ZpZGVyID0gV2ViMy5IVFRQUHJvdmlkZXIoJ2h0dHA6Ly8xMjcuMC4wLjE6ODU0NScpCiAgICB3MyA9IFdlYjMocHJvdmlkZXIpCiAgICBwYXNzd29yZCA9ICJrbG5pdSIK</text>
+        <text encoding="base64">ICAgICMgdS5hY3Rpb25DaGFpbnMoKS5rZXlfZG93bihLZXlzLkFMVCkuc2VuZF9rZXlzKCdhJykua2V5X3VwKEtleXMuQUxUKS5wZXJmb3JtKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YGBgCg==</text>
+        <text encoding="base64">ICAgIHUuYWN0aW9uQ2hhaW5zKCkuc2VuZF9rZXlzKEtleXMuQUxUICsgJ2EnKS5wZXJmb3JtKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KCd0ZXN0JykK</text>
       </register>
       <register name=":" type="4">
-        <text>action NextTab</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
-      <last-search>netwo</last-search>
+      <last-search>send</last-search>
       <last-offset />
-      <last-pattern>netwo</last-pattern>
+      <last-pattern>send</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute>airdropSetting</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxuYXZCdXR0b25cPg==</entry>
         <entry>banner</entry>
         <entry encoding="base64">XDxiYW5uZXJwXD4=</entry>
         <entry>about</entry>
@@ -2945,6 +2957,7 @@
         <entry>content\[i++\]</entry>
         <entry encoding="base64">XDxwb3NpdGlvblw+</entry>
         <entry>netwo</entry>
+        <entry>send</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5J</entry>
@@ -2959,14 +2972,14 @@
         <entry>action Back</entry>
         <entry encoding="base64">JzwsJz5zL2RldGVjdC9yZXBhaXIvZ2M=</entry>
         <entry encoding="base64">JzwsJz5zL2dldCgwKS9nZXQoMSkvZ2M=</entry>
-        <entry>w</entry>
         <entry>action Forward</entry>
         <entry>q</entry>
         <entry>%s/content[i++]/{content[i++]}/gc</entry>
         <entry>%s/content\[i++\]/{content[i++]}/gc</entry>
+        <entry>w</entry>
+        <entry>action NextTab</entry>
         <entry>action PreviousTab</entry>
         <entry>action ReformatCode</entry>
-        <entry>action NextTab</entry>
       </history-cmd>
       <history-expr />
       <history-input />
