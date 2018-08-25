@@ -125,6 +125,12 @@
         <mark key="." line="5870" column="802" />
         <mark key="^" line="5870" column="774" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2e9c8649-18f5-43f9-a70d-cf6359de55b3/console.sql" timestamp="1530256408491">
+        <mark key="[" line="21" column="11" />
+        <mark key="]" line="21" column="12" />
+        <mark key="." line="21" column="12" />
+        <mark key="^" line="21" column="11" />
+      </file>
       <file name="$USER_HOME$/code/Ethereum/LuckCoinReRun/main.py" timestamp="1532616467224">
         <mark key="[" line="26" column="23" />
         <mark key="]" line="26" column="24" />
@@ -564,8 +570,8 @@
         <mark key="." line="130" column="46" />
         <mark key="^" line="130" column="46" />
       </file>
-      <file name="$USER_HOME$/code/LuckyCoinContract/build/contracts/LuckyCoinV0.json" timestamp="1534725219726">
-        <mark key="'" line="4827" column="19" />
+      <file name="$USER_HOME$/code/LuckyCoinContract/build/contracts/LuckyCoinV0.json" timestamp="1535189045540">
+        <mark key="'" line="4680" column="21" />
       </file>
       <file name="D:/code/web/voc-web/src/app/routes/ldar/ldarsetting/tag-formatter.component.ts" timestamp="1520148034511">
         <mark key="'" line="60" column="30" />
@@ -616,12 +622,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2e9c8649-18f5-43f9-a70d-cf6359de55b3/console.sql" timestamp="1530256408491">
-        <mark key="[" line="21" column="11" />
-        <mark key="]" line="21" column="12" />
-        <mark key="." line="21" column="12" />
-        <mark key="^" line="21" column="11" />
       </file>
       <file name="D:/code/web/voc-web/src/app/routes/ldar/standard/standard.component.ts" timestamp="1520142565889">
         <mark key="'" line="127" column="4" />
@@ -2202,6 +2202,12 @@
         <mark key="." line="580" column="49" />
         <mark key="^" line="580" column="49" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.sol" timestamp="1532752405224">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="30" column="1" />
+        <mark key="^" line="0" column="7" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/code/LuckyCoinContract/node_modules/openzeppelin-solidity/contracts/token/ERC20/ERC20Basic.sol" timestamp="1532828666094">
         <mark key="'" line="12" column="13" />
         <mark key="[" line="11" column="20" />
@@ -2302,12 +2308,6 @@
         <mark key="]" line="3" column="1" />
         <mark key="^" line="3" column="1" />
         <mark key="." line="3" column="1" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.sol" timestamp="1532752405224">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="30" column="1" />
-        <mark key="^" line="0" column="7" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/shiro/JwtAuthenticationFilter.java" timestamp="1517649706908">
         <mark key="'" line="45" column="26" />
@@ -2645,7 +2645,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="124" column="24" filename="$USER_HOME$/code/webutils/AmapTopCodes/index.html" />
       <jump line="130" column="31" filename="$USER_HOME$/code/webutils/AmapTopCodes/index.html" />
       <jump line="142" column="91" filename="$USER_HOME$/code/webutils/AmapTopCodes/index.html" />
       <jump line="168" column="52" filename="$USER_HOME$/code/webutils/AmapTopCodes/index.html" />
@@ -2745,6 +2744,7 @@
       <jump line="74" column="33" filename="$USER_HOME$/code/Ethereum/Helper/NewChain.py" />
       <jump line="4" column="10" filename="$USER_HOME$/code/Ethereum/Helper/NewChain.py" />
       <jump line="4827" column="19" filename="$USER_HOME$/code/LuckyCoinContract/build/contracts/LuckyCoinV0.json" />
+      <jump line="4680" column="21" filename="$USER_HOME$/code/LuckyCoinContract/build/contracts/LuckyCoinV0.json" />
     </jumps>
     <registers>
       <register name="a" type="4">
