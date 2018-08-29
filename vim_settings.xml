@@ -1945,10 +1945,12 @@
         <mark key="^" line="29" column="3" />
         <mark key="." line="29" column="3" />
       </file>
-      <file name="$USER_HOME$/Downloads/brozzler-master/brozzler/chrome.py" timestamp="1535549916319">
+      <file name="$USER_HOME$/Downloads/brozzler-master/brozzler/chrome.py" timestamp="1535551645720">
         <mark key="'" line="250" column="36" />
-        <mark key="[" line="166" column="55" />
-        <mark key="]" line="166" column="74" />
+        <mark key="[" line="168" column="58" />
+        <mark key="]" line="168" column="58" />
+        <mark key="." line="168" column="58" />
+        <mark key="^" line="168" column="58" />
       </file>
       <file name="$USER_HOME$/sync/temp/leetcode/src/MyLinkedList.java" timestamp="1531051192167">
         <mark key="'" line="0" column="0" />
@@ -2821,7 +2823,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>disable-hang-monitor</text>
+        <text>, '--single-process',</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2928,7 +2930,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>, '--single-process',</text>
       </register>
       <register name="/" type="4">
         <text>gpu</text>
@@ -2964,7 +2966,7 @@
         <text encoding="base64">ICAgICAgICBwcmludChzZWxmLnczLmV0aC53YWl0Rm9yVHJhbnNhY3Rpb25SZWNlaXB0KHR4X2hhc2gpKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -3017,9 +3019,9 @@
         <entry>%s/content\[i++\]/{content[i++]}/gc</entry>
         <entry>action PreviousTab</entry>
         <entry>action NextTab</entry>
-        <entry>w</entry>
         <entry>action ReformatCode</entry>
         <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
