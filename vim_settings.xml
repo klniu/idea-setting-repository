@@ -1945,6 +1945,11 @@
         <mark key="^" line="29" column="3" />
         <mark key="." line="29" column="3" />
       </file>
+      <file name="$USER_HOME$/Downloads/brozzler-master/brozzler/chrome.py" timestamp="1535549916319">
+        <mark key="'" line="250" column="36" />
+        <mark key="[" line="166" column="55" />
+        <mark key="]" line="166" column="74" />
+      </file>
       <file name="$USER_HOME$/sync/temp/leetcode/src/MyLinkedList.java" timestamp="1531051192167">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -2693,9 +2698,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="145" column="36" filename="$USER_HOME$/code/webutils/map/安监系统数据统计/各省份系统数量与监测预警系统数量统计.html" />
-      <jump line="110" column="107" filename="$USER_HOME$/code/webutils/map/安监系统数据统计/各省份煤监系统数量统计.html" />
-      <jump line="177" column="57" filename="$USER_HOME$/code/webutils/map/安监系统数据统计/各省份系统数量与监测预警系统数量统计.html" />
       <jump line="173" column="14" filename="$USER_HOME$/code/webutils/map/安监系统数据统计/各省份系统数量与监测预警系统数量统计.html" />
       <jump line="171" column="22" filename="$USER_HOME$/code/webutils/map/安监系统数据统计/各省份系统数量与监测预警系统数量统计.html" />
       <jump line="168" column="0" filename="$USER_HOME$/code/webutils/map/安监系统数据统计/各省份系统数量与监测预警系统数量统计.html" />
@@ -2793,6 +2795,9 @@
       <jump line="106" column="46" filename="$USER_HOME$/Downloads/brozzler-master/brozzler/cli.py" />
       <jump line="108" column="52" filename="$USER_HOME$/Downloads/brozzler-master/brozzler/cli.py" />
       <jump line="109" column="20" filename="$USER_HOME$/Downloads/brozzler-master/brozzler/cli.py" />
+      <jump line="163" column="25" filename="$USER_HOME$/Downloads/brozzler-master/brozzler/chrome.py" />
+      <jump line="265" column="36" filename="$USER_HOME$/Downloads/brozzler-master/brozzler/chrome.py" />
+      <jump line="250" column="36" filename="$USER_HOME$/Downloads/brozzler-master/brozzler/chrome.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2815,8 +2820,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoYWRkcnNbaV0pCg==</text>
+      <register name="&quot;" type="4">
+        <text>disable-hang-monitor</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2926,7 +2931,7 @@
         <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>chrome</text>
+        <text>gpu</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLnczLmV0aC53YWl0Rm9yVHJhbnNhY3Rpb25SZWNlaXB0KHR4X2hhc2gpCg==</text>
@@ -2963,9 +2968,9 @@
       </register>
     </registers>
     <search>
-      <last-search>chrome</last-search>
+      <last-search>gpu</last-search>
       <last-offset />
-      <last-pattern>chrome</last-pattern>
+      <last-pattern>gpu</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute>airdropSetting</last-substitute>
       <last-dir>1</last-dir>
@@ -2973,7 +2978,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxiYW5uZXJwXD4=</entry>
         <entry>about</entry>
         <entry>width</entry>
         <entry>css</entry>
@@ -2993,6 +2997,7 @@
         <entry>netwo</entry>
         <entry>send</entry>
         <entry>chrome</entry>
+        <entry>gpu</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5J</entry>
