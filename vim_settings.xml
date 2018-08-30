@@ -1834,6 +1834,12 @@
         <mark key="." line="42" column="19" />
         <mark key="^" line="42" column="28" />
       </file>
+      <file name="$USER_HOME$/code/pyutils/work/SafetySystemLevelsCount.py" timestamp="1535613443405">
+        <mark key="[" line="27" column="83" />
+        <mark key="]" line="27" column="89" />
+        <mark key="." line="27" column="89" />
+        <mark key="^" line="27" column="89" />
+      </file>
       <file name="$USER_HOME$/code/lkc_website/src/helpers/Html.js" timestamp="1528966140922">
         <mark key="[" line="21" column="22" />
         <mark key="]" line="21" column="22" />
@@ -2834,7 +2840,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>jinja2</text>
+        <text>s</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2941,43 +2947,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, '--single-process',</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>beha</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnczLmV0aC53YWl0Rm9yVHJhbnNhY3Rpb25SZWNlaXB0KHR4X2hhc2gpCg==</text>
+        <text encoding="base64">RXhjZWxQYXRoID0gJy9ob21lL2tsbml1L0Rvd25sb2Fkcy/ns7vnu5/lip/og73nu5/orqHmgLvooah2MjAxODA4MjgueGxzeCcK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoYWRkcnNbaV0pCg==</text>
+        <text encoding="base64">ICAgIHdzUmVzdWx0WydBMSddID0gJ+ezu+e7n+W6j+WPtycK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLnczLmV0aC5nZXRCYWxhbmNlKGFkZHJzWzBdKSkK</text>
+        <text encoding="base64">ICAgICAgICB3c1Jlc3VsdC5jZWxsKGkrMiwgMiwgbm9BbmROYW1lc1sxXSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoYWRkcnNbaV0pCg==</text>
+        <text encoding="base64">ICAgICAgICB3c1Jlc3VsdC5jZWxsKGkrMiwgMSwgbm9BbmROYW1lc1swXSkKICAgICAgICB3c1Jlc3VsdC5jZWxsKGkrMiwgMiwgbm9BbmROYW1lc1sxXSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLnczLmV0aC5nZXRUcmFuc2FjdGlvbih0eF9oYXNoKSkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChub0FuZE5hbWVzKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLnczLmV0aC5nZXRUcmFuc2FjdGlvbih0eF9oYXNoKSkK</text>
+        <text encoding="base64">ICAgICAgICBub0FuZE5hbWVzID0gZ2V0U3lzdGVtTm9BbmROYW1lKG5hbWUpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLnczLmV0aC5nZXRUcmFuc2FjdGlvbih0eF9oYXNoKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChhZGRycykKICAgICAgICBwcmludCh2YWx1ZXMpCg==</text>
+        <text encoding="base64">ZGVmIGdldFN5c3RlbU5vQW5kTmFtZShuYW1lOiBzdHIpIC0+IGxpc3Q6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLnczLmV0aC5nZXRUcmFuc2FjdGlvbih0eF9oYXNoKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLnczLmV0aC53YWl0Rm9yVHJhbnNhY3Rpb25SZWNlaXB0KHR4X2hhc2gpKQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBuYW1lLnNwbGl0KG1heHNwbGl0PTIpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Forward</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
@@ -2987,7 +2993,7 @@
       <last-replace>as</last-replace>
       <last-substitute>airdropSetting</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -3029,10 +3035,10 @@
         <entry>%s/content\[i++\]/{content[i++]}/gc</entry>
         <entry>action PreviousTab</entry>
         <entry>action NextTab</entry>
-        <entry>action ReformatCode</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>action Forward</entry>
+        <entry>w</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
