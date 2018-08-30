@@ -625,7 +625,7 @@
         <mark key="." line="15" column="6" />
         <mark key="^" line="15" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535030286812">
+      <file name="/Dummy.txt" timestamp="1535617509999">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
@@ -1834,11 +1834,12 @@
         <mark key="." line="42" column="19" />
         <mark key="^" line="42" column="28" />
       </file>
-      <file name="$USER_HOME$/code/pyutils/work/SafetySystemLevelsCount.py" timestamp="1535613443405">
-        <mark key="[" line="27" column="83" />
-        <mark key="]" line="27" column="89" />
-        <mark key="." line="27" column="89" />
-        <mark key="^" line="27" column="89" />
+      <file name="$USER_HOME$/code/pyutils/work/SafetySystemLevelsCount.py" timestamp="1535617323147">
+        <mark key="'" line="40" column="4" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="^" line="34" column="33" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/code/lkc_website/src/helpers/Html.js" timestamp="1528966140922">
         <mark key="[" line="21" column="22" />
@@ -2223,6 +2224,9 @@
         <mark key="]" line="39" column="41" />
         <mark key="^" line="39" column="41" />
         <mark key="." line="39" column="41" />
+      </file>
+      <file name="/Python Console" timestamp="1535616443860">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/LuckyCoinContract/contracts/OwnedUpgradeabilityProxy.sol" timestamp="1532860219601">
         <mark key="'" line="22" column="12" />
@@ -2717,7 +2721,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="30" filename="$USER_HOME$/code/LuckyCoinContract/contracts/LuckyCoinV0.sol" />
       <jump line="9" column="23" filename="$USER_HOME$/code/LuckyCoinContract/node_modules/openzeppelin-solidity/contracts/token/ERC20/ERC20.sol" />
       <jump line="11" column="14" filename="$USER_HOME$/code/LuckyCoinContract/node_modules/openzeppelin-solidity/contracts/token/ERC20/ERC20Basic.sol" />
       <jump line="11" column="30" filename="$USER_HOME$/code/openzeppelin-solidity/contracts/token/ERC20/BasicToken.sol" />
@@ -2817,6 +2820,7 @@
       <jump line="588" column="23" filename="$USER_HOME$/Downloads/brozzler-master/brozzler/worker.py" />
       <jump line="545" column="40" filename="$USER_HOME$/Downloads/brozzler-master/brozzler/worker.py" />
       <jump line="399" column="30" filename="$USER_HOME$/Downloads/brozzler-master/brozzler/worker.py" />
+      <jump line="43" column="4" filename="$USER_HOME$/code/pyutils/work/SafetySystemLevelsCount.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2839,8 +2843,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgd3NSZXN1bHQuY2VsbChyb3csIDIsIGxlbihzZWNvbmRMZXZlbHMpKQo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2947,57 +2951,56 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>firstLevels</text>
       </register>
       <register name="/" type="4">
-        <text>beha</text>
+        <text encoding="base64">XDxyZXR1cm5cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">RXhjZWxQYXRoID0gJy9ob21lL2tsbml1L0Rvd25sb2Fkcy/ns7vnu5/lip/og73nu5/orqHmgLvooah2MjAxODA4MjgueGxzeCcK</text>
+        <text encoding="base64">ICAgICAgICBmaXJzdExldmVscyA9IGdldFVuaXF1ZUxpc3QoCiAgICAgICAgICAgIHNoZWV0UmFuZ2VzLml0ZXJfY29scyhtaW5fcm93PTQsIG1pbl9jb2w9NywgbWF4X2NvbD03LCBtYXhfcm93PTEwMDAwKSkKICAgICAgICB3c1Jlc3VsdC5jZWxsKHJvdywgMiwgbGVuKGZpcnN0TGV2ZWxzKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHdzUmVzdWx0WydBMSddID0gJ+ezu+e7n+W6j+WPtycK</text>
+        <text encoding="base64">ICAgICAgICAgICAgd3NSZXN1bHQuY2VsbChyb3csIDIsIGxlbihzZWNvbmRMZXZlbHMpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB3c1Jlc3VsdC5jZWxsKGkrMiwgMiwgbm9BbmROYW1lc1sxXSkK</text>
+        <text encoding="base64">ICAgICAgICBzZWNvbmRMZXZlbHMgPSBnZXRVbmlxdWVMaXN0KAogICAgICAgICAgICBzaGVldFJhbmdlcy5pdGVyX2NvbHMobWluX3Jvdz00LCBtaW5fY29sPTgsIG1heF9jb2w9OCwgbWF4X3Jvdz0xMDAwMCkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB3c1Jlc3VsdC5jZWxsKGkrMiwgMSwgbm9BbmROYW1lc1swXSkKICAgICAgICB3c1Jlc3VsdC5jZWxsKGkrMiwgMiwgbm9BbmROYW1lc1sxXSkK</text>
+        <text encoding="base64">ICAgIGZvciBjb2wgaW4gY29sczoKICAgICAgICBmb3IgY2VsbCBpbiBjCiAgICAgICAgcHJpbnQoY2VsbCkKICAgICAgICAjIHByaW50KGNlbGwsIGNlbGwuY29sdW1uLCBjZWxsLnJvdywgY2VsbC52YWx1ZSwgJ1xuJykKICAgIHJldHVybiBbXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChub0FuZE5hbWVzKQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBjZWxsIHR1cGxlOgogICAgICAgICAgICBwcmludChjZWxsKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBub0FuZE5hbWVzID0gZ2V0U3lzdGVtTm9BbmROYW1lKG5hbWUpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChjZWxsLCAnXG4nKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChjZWxsLnZhbHVlLCAnXG4nKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGVmIGdldFN5c3RlbU5vQW5kTmFtZShuYW1lOiBzdHIpIC0+IGxpc3Q6Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBsZW4odmFsdWUpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWx1ZSA9IGNlbGwudmFsdWUuc3RyaXAoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBuYW1lLnNwbGl0KG1heHNwbGl0PTIpCg==</text>
+        <text encoding="base64">ICAgIGZvciBjZWxsIGluIGNvbDoK</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
-      <last-search>beha</last-search>
+      <last-search encoding="base64">XDxyZXR1cm5cPg==</last-search>
       <last-offset />
-      <last-pattern>beha</last-pattern>
+      <last-pattern encoding="base64">XDxyZXR1cm5cPg==</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute>airdropSetting</last-substitute>
-      <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <last-dir>-1</last-dir>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>width</entry>
         <entry>css</entry>
         <entry>js</entry>
         <entry>.test p</entry>
@@ -3017,6 +3020,7 @@
         <entry>chrome</entry>
         <entry>gpu</entry>
         <entry>beha</entry>
+        <entry encoding="base64">XDxyZXR1cm5cPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5J</entry>
