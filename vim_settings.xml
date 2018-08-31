@@ -705,12 +705,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/code/pyutils/auto/ClickAllLinks.py" timestamp="1535683156450">
+      <file name="$USER_HOME$/code/pyutils/auto/ClickAllLinks.py" timestamp="1535685479357">
         <mark key="'" line="8" column="0" />
-        <mark key="[" line="23" column="50" />
-        <mark key="]" line="23" column="62" />
-        <mark key="^" line="32" column="42" />
-        <mark key="." line="32" column="42" />
+        <mark key="[" line="52" column="32" />
+        <mark key="]" line="52" column="44" />
+        <mark key="." line="52" column="44" />
+        <mark key="^" line="52" column="44" />
       </file>
       <file name="$USER_HOME$/code/lkc_website/src/containers/Career/Career.js" timestamp="1529041915255">
         <mark key="'" line="11" column="11" />
@@ -2847,7 +2847,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>//*[@onclick]</text>
+        <text>]</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2954,40 +2954,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXR1cm5cPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAjIGludGVyc2VjdCA9IGxpc3Qoc2V0KGFFbGVtZW50cykuaW50ZXJzZWN0aW9uKHNldChjbGlja0VsZW1lbnRzKSkpCg==</text>
+      <register name="0" type="4">
+        <text>list(set(paths).union(set(parentXpaths))</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBleGl0KDEpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChwYXRocykK</text>
+        <text encoding="base64">ICAgICAgICBmcmFtZXMgPSBzZWxmLmIuZmluZF9lbGVtZW50c19ieV90YWdfbmFtZSgnaWZyYW1lJykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZS50YWdfbmFtZSwgZS50ZXh0LCBlKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICBleGl0KDEpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgU3RyaW5nIGdldEVsZW1lbnRYUGF0aChXZWJEcml2ZXIgZHJpdmVyLCBXZWJFbGVtZW50IGVsZW1lbnQpIHsK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChwYXRocykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRpbWUuc2xlZXAoMTApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZS50YWdfbmFtZSwgZS50ZXh0LCBlKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgU3RyaW5nIGdldEVsZW1lbnRYUGF0aChXZWJEcml2ZXIgZHJpdmVyLCBXZWJFbGVtZW50IGVsZW1lbnQpIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRpbWUuc2xlZXAoMTApCg==</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
