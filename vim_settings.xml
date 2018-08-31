@@ -629,7 +629,7 @@
         <mark key="." line="15" column="6" />
         <mark key="^" line="15" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535686383865">
+      <file name="/Dummy.txt" timestamp="1535714797032">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
@@ -1325,12 +1325,12 @@
         <mark key="^" line="67" column="70" />
         <mark key="." line="67" column="70" />
       </file>
-      <file name="$USER_HOME$/code/Ethereum/LuckCoinReRun/test.py" timestamp="1535712533134">
+      <file name="$USER_HOME$/code/Ethereum/LuckCoinReRun/test.py" timestamp="1535714588676">
         <mark key="'" line="91" column="41" />
-        <mark key="[" line="94" column="70" />
-        <mark key="]" line="94" column="70" />
-        <mark key="^" line="94" column="70" />
-        <mark key="." line="94" column="70" />
+        <mark key="[" line="60" column="12" />
+        <mark key="]" line="60" column="13" />
+        <mark key="^" line="97" column="60" />
+        <mark key="." line="60" column="13" />
       </file>
       <file name="D:/code/web/voc-ui/src/app/routes/ldar/unit/install-form.component.ts" timestamp="1522227970326">
         <mark key="'" line="107" column="56" />
@@ -2846,8 +2846,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmJhbGFuY2VPZigpCg==</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2954,40 +2954,41 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.call()</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXR1cm5cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChzZWxmLmJhbGFuY2VPZihzZWxmLmFjY291bnQpLCBiYWxhbmNlKQo=</text>
+        <text encoding="base64">ICAgICAgICBhZGRyID0gc2VsZi5uZXdBY2NvdW50KCkKICAgICAgICB0eF9oYXNoID0gc2VsZi53My5ldGguc2VuZFRyYW5zYWN0aW9uKHsnZnJvbSc6IGFkZHIsICd0byc6IHNlbGYuY29udHJhY3RBZGRyLCAndmFsdWUnOiAwfSkKICAgICAgICBzZWxmLnczLmV0aC53YWl0Rm9yVHJhbnNhY3Rpb25SZWNlaXB0KHR4X2hhc2gpCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChzZWxmLmJhbGFuY2VPZihhZGRyKSwgNjY2ICogREVDSU1BTCkKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHNlbGYuYmFsYW5jZU9mKHNlbGYuYWNjb3VudCksIGJhbGFuY2UgLSA2NjYgKiBERUNJTUFMKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmJhbGFuY2VPZigpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFRydWUoCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="2" type="8">
+        <text>v0.functions.
+v0.functions.</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmJhbGFuY2VPZigpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnczLnBlcnNvbmFsLnVubG9ja0FjY291bnQoc2VsZi53My5ldGguZGVmYXVsdEFjY291bnQsICJrbG5pdSIpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLnYwKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLnczLmV0aC5nZXRUcmFuc2FjdGlvbih0eF9oYXNoKSkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnczLnBlcnNvbmFsLnVubG9ja0FjY291bnQoc2VsZi53My5ldGguZGVmYXVsdEFjY291bnQsICJrbG5pdSIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLnczLmV0aC5nZXRUcmFuc2FjdGlvbih0eF9oYXNoKSkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLnYwKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLnczLmV0aC53YWl0Rm9yVHJhbnNhY3Rpb25SZWNlaXB0KHR4X2hhc2gpKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLnczLmV0aC5nZXRUcmFuc2FjdGlvbih0eF9oYXNoKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLnczLmV0aC5nZXRUcmFuc2FjdGlvbih0eF9oYXNoKSkK</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
