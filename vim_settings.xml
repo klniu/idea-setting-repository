@@ -235,10 +235,10 @@
         <mark key="." line="47" column="32" />
         <mark key="^" line="47" column="32" />
       </file>
-      <file name="$USER_HOME$/code/LuckyCoinContract/test/Airdrop.js" timestamp="1533006145140">
+      <file name="$USER_HOME$/code/LuckyCoinContract/test/Airdrop.js" timestamp="1535709416455">
         <mark key="'" line="64" column="33" />
-        <mark key="[" line="61" column="38" />
-        <mark key="]" line="61" column="38" />
+        <mark key="[" line="13" column="34" />
+        <mark key="]" line="13" column="72" />
         <mark key="." line="61" column="38" />
         <mark key="^" line="61" column="52" />
       </file>
@@ -2842,8 +2842,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdHJ1ZTsK</text>
+      <register name="&quot;" type="4">
+        <text>now - 1000, now + 1000, VALUE, TOTAL, 1</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2956,7 +2956,7 @@
         <text encoding="base64">XDxyZXR1cm5cPg==</text>
       </register>
       <register name="0" type="4">
-        <text>list(set(paths).union(set(parentXpaths))</text>
+        <text>now - 1000, now + 1000, VALUE, TOTAL, 1</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gdHJ1ZTsK</text>
