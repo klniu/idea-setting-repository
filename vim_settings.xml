@@ -104,8 +104,8 @@
         <mark key="." line="5870" column="802" />
         <mark key="^" line="5870" column="774" />
       </file>
-      <file name="$USER_HOME$/code/Ethereum/LuckCoinReRun/main.py" timestamp="1535884472327">
-        <mark key="'" line="24" column="26" />
+      <file name="$USER_HOME$/code/Ethereum/LuckCoinReRun/main.py" timestamp="1535888987214">
+        <mark key="'" line="24" column="27" />
         <mark key="[" line="26" column="23" />
         <mark key="]" line="26" column="24" />
         <mark key="." line="26" column="24" />
@@ -984,11 +984,11 @@
         <mark key="." line="454" column="92" />
         <mark key="^" line="454" column="89" />
       </file>
-      <file name="$USER_HOME$/code/Ethereum/LuckCoinReRun/test.py" timestamp="1535886298629">
+      <file name="$USER_HOME$/code/Ethereum/LuckCoinReRun/test.py" timestamp="1535889478296">
         <mark key="'" line="65" column="0" />
-        <mark key="[" line="60" column="13" />
-        <mark key="]" line="60" column="13" />
-        <mark key="." line="60" column="13" />
+        <mark key="[" line="65" column="75" />
+        <mark key="]" line="65" column="82" />
+        <mark key="." line="67" column="53" />
         <mark key="^" line="60" column="13" />
       </file>
       <file name="D:/code/web/voc-ui/src/app/routes/ldar/unit/install-form.component.ts" timestamp="1522227970326">
@@ -1453,6 +1453,12 @@
         <mark key="]" line="36" column="12" />
         <mark key="^" line="36" column="12" />
         <mark key="." line="36" column="12" />
+      </file>
+      <file name="$USER_HOME$/code/Ethereum/Helper/ethgasstation.py" timestamp="1535888991965">
+        <mark key="[" line="8" column="22" />
+        <mark key="]" line="8" column="67" />
+        <mark key="." line="10" column="43" />
+        <mark key="^" line="10" column="43" />
       </file>
       <file name="$USER_HOME$/Downloads/brozzler-master/brozzler/chrome.py" timestamp="1535551645720">
         <mark key="'" line="250" column="36" />
@@ -2121,8 +2127,8 @@
       <jump line="43" column="4" filename="$USER_HOME$/code/pyutils/work/SafetySystemLevelsCount.py" />
       <jump line="6" column="0" filename="$USER_HOME$/code/pyutils/auto/ClickAllLinks.py" />
       <jump line="91" column="5" filename="$USER_HOME$/code/Ethereum/LuckCoinReRun/test.py" />
-      <jump line="24" column="26" filename="$USER_HOME$/code/Ethereum/LuckCoinReRun/main.py" />
       <jump line="65" column="0" filename="$USER_HOME$/code/Ethereum/LuckCoinReRun/test.py" />
+      <jump line="24" column="27" filename="$USER_HOME$/code/Ethereum/LuckCoinReRun/main.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2146,7 +2152,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>transact</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2253,7 +2259,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>, timeout=600</text>
       </register>
       <register name="/" type="4">
         <text>unlock</text>
