@@ -486,7 +486,7 @@
         <mark key="." line="15" column="6" />
         <mark key="^" line="15" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535719556992">
+      <file name="/Dummy.txt" timestamp="1535892373210">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
@@ -984,11 +984,11 @@
         <mark key="." line="454" column="92" />
         <mark key="^" line="454" column="89" />
       </file>
-      <file name="$USER_HOME$/code/Ethereum/LuckCoinReRun/test.py" timestamp="1535889478296">
+      <file name="$USER_HOME$/code/Ethereum/LuckCoinReRun/test.py" timestamp="1535892235753">
         <mark key="'" line="65" column="0" />
-        <mark key="[" line="65" column="75" />
-        <mark key="]" line="65" column="82" />
-        <mark key="." line="67" column="53" />
+        <mark key="[" line="60" column="13" />
+        <mark key="]" line="60" column="13" />
+        <mark key="." line="60" column="13" />
         <mark key="^" line="60" column="13" />
       </file>
       <file name="D:/code/web/voc-ui/src/app/routes/ldar/unit/install-form.component.ts" timestamp="1522227970326">
@@ -2152,7 +2152,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>transact</text>
+        <text>0</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2259,40 +2259,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, timeout=600</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>unlock</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnczLnBlcnNvbmFsLnVubG9ja0FjY291bnQoc2VsZi53My5ldGguZGVmYXVsdEFjY291bnQsICJrbG5pdSIpCg==</text>
+      <register name="0" type="4">
+        <text>self.account, addrs, values</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGdhcywgMTAwKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnYwLm11bHRpc2VuZC5lc3RpbWF0ZUdhcyhzZWxmLmFjY291bnQsIGFkZHJzLCB2YWx1ZXMpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8qCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICovCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgcHJpbnQocCkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBwcmludChwKQo=</text>
+        <text encoding="base64">ICAgIC8qCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGMudGVzdCgpCg==</text>
+        <text encoding="base64">ICAgICovCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgcHJpbnQocCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0KHNlbGYpOgogICAgICAgIGZyYW1lcyA9IHNlbGYuYi5maW5kX2VsZW1lbnRzX2J5X3RhZ19uYW1lKCdpZnJhbWUnKQogICAgICAgIGZvciBmIGluIGZyYW1lczoKICAgICAgICAgICAgcHJpbnQoIui/m+WFpeeahOahhuaetiIsIGYsIGYuZ2V0X2F0dHJpYnV0ZSgnc3JjJykpCiAgICAgICAgICAgIHNlbGYuYi5zd2l0Y2hfdG8uZnJhbWUoZikKICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBwcmludChwKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
