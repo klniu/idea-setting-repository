@@ -1312,11 +1312,11 @@
         <mark key="." line="143" column="46" />
         <mark key="^" line="143" column="46" />
       </file>
-      <file name="$USER_HOME$/code/pyutils/voc/drawseals.py" timestamp="1535971579164">
-        <mark key="[" line="5" column="14" />
-        <mark key="]" line="5" column="13" />
-        <mark key="." line="5" column="13" />
-        <mark key="^" line="5" column="13" />
+      <file name="$USER_HOME$/code/pyutils/voc/drawseals.py" timestamp="1535974593644">
+        <mark key="[" line="16" column="20" />
+        <mark key="]" line="16" column="28" />
+        <mark key="^" line="16" column="28" />
+        <mark key="." line="16" column="28" />
       </file>
       <file name="$USER_HOME$/code/voc/src/test/resources/docs/seal_histories.json" timestamp="1528270458262">
         <mark key="'" line="0" column="0" />
@@ -2158,7 +2158,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>f</text>
+        <text>int</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2265,43 +2265,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text>int</text>
       </register>
       <register name="/" type="4">
         <text>unlock</text>
       </register>
       <register name="0" type="4">
-        <text>self.account, addrs, values</text>
+        <text>$USER_HOME$/Downloads/</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZyb20gUElMIGltcG9ydCBJbWFnZSwgSW1hZ2VEcmF3Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KCdSZXNpemUgaW1hZ2UgdG86ICVzeCVzJyAlICh3Ly8yLCBoLy8yKSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGdhcywgMTAwKQo=</text>
+        <text encoding="base64">ICAgICAgICBpbSA9IEltYWdlLm9wZW4oKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnYwLm11bHRpc2VuZC5lc3RpbWF0ZUdhcyhzZWxmLmFjY291bnQsIGFkZHJzLCB2YWx1ZXMpCg==</text>
+        <text encoding="base64">ICAgIHdpdGggb3BlbigpIGFzIGY6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
+        <text encoding="base64">ICAgIGltLnNhdmUoJ3RodW1ibmFpbC5qcGcnLCAnanBlZycpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
+        <text encoding="base64">ICAgIGltLnRodW1ibmFpbCgody8vMiwgaC8vMikpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
+        <text encoding="base64">ICAgICMg57yp5pS+5YiwNTAlOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8qCg==</text>
+        <text encoding="base64">ICAgIHByaW50KCdPcmlnaW5hbCBpbWFnZSBzaXplOiAlc3glcycgJSAodywgaCkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICovCg==</text>
+        <text encoding="base64">ICAgIHcsIGggPSBpbS5zaXplCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgcHJpbnQocCkK</text>
+        <text encoding="base64">ICAgICMg6I635b6X5Zu+5YOP5bC65a+4Ogo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
@@ -2355,8 +2355,8 @@
         <entry>action Forward</entry>
         <entry>action NextTab</entry>
         <entry>action PreviousTab</entry>
-        <entry>action ReformatCode</entry>
         <entry>w</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
