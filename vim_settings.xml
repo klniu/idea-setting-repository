@@ -436,12 +436,12 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="129" column="3" />
       </file>
-      <file name="$USER_HOME$/code/webutils/map/安监系统数据统计/各省份系统数量与监测预警系统数量统计.html" timestamp="1532657727332">
+      <file name="$USER_HOME$/code/webutils/map/安监系统数据统计/各省份系统数量与监测预警系统数量统计.html" timestamp="1535941388228">
         <mark key="'" line="168" column="0" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="46" column="8" />
-        <mark key="." line="171" column="22" />
-        <mark key="^" line="171" column="22" />
+        <mark key="[" line="60" column="97" />
+        <mark key="]" line="61" column="7" />
+        <mark key="." line="61" column="7" />
+        <mark key="^" line="61" column="7" />
       </file>
       <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/SVGParser.java" timestamp="1524191582867">
         <mark key="'" line="229" column="0" />
@@ -2151,8 +2151,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2259,7 +2259,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>unlock</text>
@@ -2268,34 +2268,34 @@
         <text>self.account, addrs, values</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGdhcywgMTAwKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnYwLm11bHRpc2VuZC5lc3RpbWF0ZUdhcyhzZWxmLmFjY291bnQsIGFkZHJzLCB2YWx1ZXMpCg==</text>
+        <text encoding="base64">ICAgICAgICBbMiwgMV0sIFsyLCAxXQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
+        <text encoding="base64">ICAgICAgICBbMiwgMl0sIFsxLCAxXSwgWzksIDFdLCBbMywgMl0sIFs0LCAwXSwgWzIsIDJdLCBbMiwgMV0sIFsxLCAxXSwgWzEsIDFdLCBbMSwgMV0sIFsxLCAxXSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
+        <text encoding="base64">ICAgICAgICBbMiwgMV0sIFsyLCAyXSwgWzEsIDBdLCBbMSwgMF0sIFsxLCAxXSwgWzQsIDFdLCBbMSwgMV0sIFsxLCAxXSwgWzQsIDJdLCBbMiwgMV0sIFszLCAxXSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8qCg==</text>
+        <text encoding="base64">ICAgICAgICAyMjAwMDAsIDMyMDAwMCwgMTUwMDAwLCAzMzAwMDAsIDY0MDAwMCwgMzcwMDAwLCA2MTAwMDAsIDIxMDAwMCwgMzYwMDAwLCA2NTAwMDAsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICovCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGdhcywgMTAwKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgcHJpbnQocCkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnYwLm11bHRpc2VuZC5lc3RpbWF0ZUdhcyhzZWxmLmFjY291bnQsIGFkZHJzLCB2YWx1ZXMpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBwcmludChwKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
@@ -2349,8 +2349,8 @@
         <entry>action Forward</entry>
         <entry>action NextTab</entry>
         <entry>action PreviousTab</entry>
-        <entry>action ReformatCode</entry>
         <entry>w</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
