@@ -436,12 +436,12 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="129" column="3" />
       </file>
-      <file name="$USER_HOME$/code/webutils/map/安监系统数据统计/各省份系统数量与监测预警系统数量统计.html" timestamp="1535941388228">
-        <mark key="'" line="168" column="0" />
-        <mark key="[" line="60" column="97" />
-        <mark key="]" line="61" column="7" />
-        <mark key="." line="61" column="7" />
-        <mark key="^" line="61" column="7" />
+      <file name="$USER_HOME$/code/webutils/map/安监系统数据统计/各省份系统数量与监测预警系统数量统计.html" timestamp="1535942329677">
+        <mark key="'" line="97" column="39" />
+        <mark key="[" line="95" column="30" />
+        <mark key="]" line="95" column="31" />
+        <mark key="." line="95" column="31" />
+        <mark key="^" line="95" column="31" />
       </file>
       <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/SVGParser.java" timestamp="1524191582867">
         <mark key="'" line="229" column="0" />
@@ -2029,7 +2029,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="13" filename="$USER_HOME$/code/LuckyCoinContract/node_modules/openzeppelin-solidity/contracts/token/ERC20/ERC20Basic.sol" />
       <jump line="19" column="17" filename="$USER_HOME$/code/LuckyCoinContract/contracts/LuckyCoinV0.sol" />
       <jump line="11" column="15" filename="$USER_HOME$/code/LuckyCoinContract/contracts/LuckyCoinV0.sol" />
       <jump line="11" column="29" filename="$USER_HOME$/code/LuckyCoinContract/node_modules/openzeppelin-solidity/contracts/token/ERC20/BasicToken.sol" />
@@ -2129,6 +2128,7 @@
       <jump line="91" column="5" filename="$USER_HOME$/code/Ethereum/LuckCoinReRun/test.py" />
       <jump line="65" column="0" filename="$USER_HOME$/code/Ethereum/LuckCoinReRun/test.py" />
       <jump line="24" column="27" filename="$USER_HOME$/code/Ethereum/LuckCoinReRun/main.py" />
+      <jump line="97" column="39" filename="$USER_HOME$/code/webutils/map/安监系统数据统计/各省份系统数量与监测预警系统数量统计.html" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2151,8 +2151,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2259,13 +2259,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>unlock</text>
       </register>
-      <register name="0" type="4">
-        <text>self.account, addrs, values</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLCAiMTIwMDAwIjogWzAsIDBdICAgICAgLy8g5aSp5rSlCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
