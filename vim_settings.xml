@@ -506,11 +506,11 @@
         <mark key="^" line="112" column="15" />
         <mark key="." line="112" column="46" />
       </file>
-      <file name="$USER_HOME$/code/pyutils/voc/bolinhandler.py" timestamp="1536057359008">
-        <mark key="[" line="81" column="14" />
-        <mark key="]" line="82" column="15" />
-        <mark key="^" line="82" column="15" />
-        <mark key="." line="82" column="15" />
+      <file name="$USER_HOME$/code/pyutils/voc/bolinhandler.py" timestamp="1536058369334">
+        <mark key="[" line="29" column="33" />
+        <mark key="]" line="29" column="37" />
+        <mark key="." line="29" column="37" />
+        <mark key="^" line="29" column="37" />
       </file>
       <file name="D:/code/web/voc-web/src/app/routes/base/base.module.ts" timestamp="1520141756916">
         <mark key="'" line="12" column="0" />
@@ -2157,8 +2157,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG1lZGlhOiBzdHIK</text>
+      <register name="&quot;" type="4">
+        <text>:</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2265,41 +2265,41 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>unlock</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHN0YXJ0WDogZmxvYXQKICAgIHN0YXJ0WTogZmxvYXQK</text>
+        <text encoding="base64">ICAgIHBob3RvTmFtZTogc3RyCiAgICBmbG9vcjogaW50CiAgICBsb2NhdG9yOiBzdHIKICAgIGRpc3RhbmNlOiBmbG9hdAogICAgaGVpZ2h0OiBmbG9hdAogICAgcGlkTm86IHN0cgogICAgc2VhbHM6IGxpc3QK</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcGhvdG9OYW1lPQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbWcuCg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgIG1lZGlhOiBzdHIK</text>
       </register>
-      <register name="2" type="8">
+      <register name="5" type="8">
         <text>start
 start</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIHN0YXJ0WTogZmxvYXQK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBbMiwgMV0sIFsyLCAxXQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBbMiwgMl0sIFsxLCAxXSwgWzksIDFdLCBbMywgMl0sIFs0LCAwXSwgWzIsIDJdLCBbMiwgMV0sIFsxLCAxXSwgWzEsIDFdLCBbMSwgMV0sIFsxLCAxXSwK</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBbMiwgMV0sIFsyLCAyXSwgWzEsIDBdLCBbMSwgMF0sIFsxLCAxXSwgWzQsIDFdLCBbMSwgMV0sIFsxLCAxXSwgWzQsIDJdLCBbMiwgMV0sIFszLCAxXSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBbMiwgMV0sIFsyLCAxXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAyMjAwMDAsIDMyMDAwMCwgMTUwMDAwLCAzMzAwMDAsIDY0MDAwMCwgMzcwMDAwLCA2MTAwMDAsIDIxMDAwMCwgMzYwMDAwLCA2NTAwMDAsCg==</text>
+        <text encoding="base64">ICAgICAgICBbMiwgMl0sIFsxLCAxXSwgWzksIDFdLCBbMywgMl0sIFs0LCAwXSwgWzIsIDJdLCBbMiwgMV0sIFsxLCAxXSwgWzEsIDFdLCBbMSwgMV0sIFsxLCAxXSwK</text>
       </register>
       <register name=":" type="4">
         <text>action NextTab</text>
