@@ -506,11 +506,12 @@
         <mark key="^" line="112" column="15" />
         <mark key="." line="112" column="46" />
       </file>
-      <file name="$USER_HOME$/code/pyutils/voc/bolinhandler.py" timestamp="1536058369334">
-        <mark key="[" line="29" column="33" />
-        <mark key="]" line="29" column="37" />
-        <mark key="." line="29" column="37" />
-        <mark key="^" line="29" column="37" />
+      <file name="$USER_HOME$/code/pyutils/voc/bolinhandler.py" timestamp="1536063710652">
+        <mark key="'" line="102" column="24" />
+        <mark key="[" line="47" column="16" />
+        <mark key="]" line="47" column="15" />
+        <mark key="." line="47" column="15" />
+        <mark key="^" line="47" column="15" />
       </file>
       <file name="D:/code/web/voc-web/src/app/routes/base/base.module.ts" timestamp="1520141756916">
         <mark key="'" line="12" column="0" />
@@ -2035,8 +2036,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="17" filename="$USER_HOME$/code/LuckyCoinContract/contracts/LuckyCoinV0.sol" />
-      <jump line="11" column="15" filename="$USER_HOME$/code/LuckyCoinContract/contracts/LuckyCoinV0.sol" />
       <jump line="11" column="29" filename="$USER_HOME$/code/LuckyCoinContract/node_modules/openzeppelin-solidity/contracts/token/ERC20/BasicToken.sol" />
       <jump line="3" column="41" filename="$USER_HOME$/code/LuckyCoinContract/contracts/LuckyCoinV0.sol" />
       <jump line="16" column="16" filename="$USER_HOME$/code/LuckyCoinContract/contracts/LuckyCoinV0.sol" />
@@ -2135,6 +2134,8 @@
       <jump line="65" column="0" filename="$USER_HOME$/code/Ethereum/LuckCoinReRun/test.py" />
       <jump line="24" column="27" filename="$USER_HOME$/code/Ethereum/LuckCoinReRun/main.py" />
       <jump line="97" column="39" filename="$USER_HOME$/code/webutils/map/安监系统数据统计/各省份系统数量与监测预警系统数量统计.html" />
+      <jump line="90" column="24" filename="$USER_HOME$/code/pyutils/voc/bolinhandler.py" />
+      <jump line="9" column="76" filename="$USER_HOME$/code/pyutils/voc/bolinhandler.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2157,8 +2158,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>:</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIyB0eXBlOiBTZWFsCg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2265,44 +2266,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>: int</text>
       </register>
       <register name="/" type="4">
         <text>unlock</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHBob3RvTmFtZTogc3RyCiAgICBmbG9vcjogaW50CiAgICBsb2NhdG9yOiBzdHIKICAgIGRpc3RhbmNlOiBmbG9hdAogICAgaGVpZ2h0OiBmbG9hdAogICAgcGlkTm86IHN0cgogICAgc2VhbHM6IGxpc3QK</text>
+        <text encoding="base64">ICAgICAgICAn5pCF5ouM5Zmo77yI6L205bCB77yJJzogJ0EnLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyB0eXBlOiBTZWFsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcGhvdG9OYW1lPQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbWcuCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIG1lZGlhOiBzdHIK</text>
-      </register>
-      <register name="5" type="8">
-        <text>start
-start</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHN0YXJ0WTogZmxvYXQK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGRlc2NyaXB0aW9uID0gQ29sdW1uKFN0cmluZykK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGZsb29yID0gQ29sdW1uKEludGVnZXIpCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBbMiwgMV0sIFsyLCAxXQo=</text>
+        <text encoding="base64">ICAgIGhlaWdodCA9IENvbHVtbihTdHJpbmcpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBbMiwgMl0sIFsxLCAxXSwgWzksIDFdLCBbMywgMl0sIFs0LCAwXSwgWzIsIDJdLCBbMiwgMV0sIFsxLCAxXSwgWzEsIDFdLCBbMSwgMV0sIFsxLCAxXSwK</text>
+        <text encoding="base64">ICAgIHRwRGlzdGFuY2UgPSBDb2x1bW4oU3RyaW5nKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action NextTab</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
@@ -2355,9 +2355,9 @@ start</text>
         <entry>q</entry>
         <entry>action Forward</entry>
         <entry>w</entry>
-        <entry>action ReformatCode</entry>
         <entry>action PreviousTab</entry>
         <entry>action NextTab</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
