@@ -506,12 +506,11 @@
         <mark key="^" line="112" column="15" />
         <mark key="." line="112" column="46" />
       </file>
-      <file name="$USER_HOME$/code/pyutils/voc/bolinhandler.py" timestamp="1536053455153">
-        <mark key="'" line="70" column="14" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="70" column="14" />
+      <file name="$USER_HOME$/code/pyutils/voc/bolinhandler.py" timestamp="1536110953950">
+        <mark key="[" line="104" column="50" />
+        <mark key="]" line="104" column="50" />
+        <mark key="." line="104" column="50" />
+        <mark key="^" line="104" column="47" />
       </file>
       <file name="D:/code/web/voc-web/src/app/routes/base/base.module.ts" timestamp="1520141756916">
         <mark key="'" line="12" column="0" />
@@ -2158,8 +2157,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSB0eXBpbmcgaW1wb3J0IExpc3QsIE9wdGlvbmFsCg==</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2266,40 +2265,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>List[Optional[Seal]]</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>unlock</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QGRhdGFjbGFzcwo=</text>
+        <text encoding="base64">ICAgIGlmIGNoaW5lc2UgaW4gc3RhdGVzOgogICAgICAgIHJldHVybiBzdGF0ZXNbY2hpbmVzZV0KICAgIGVsc2U6CiAgICAgICAgcmFpc2UgVmFsdWVFcnJvcigi5peg5pWI55qE5LuL6LSo54q25oCB77yaIiArIGNoaW5lc2UpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSB0eXBpbmcgaW1wb3J0IExpc3QsIE9wdGlvbmFsCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ZnJvbSB0eXBpbmcgaW1wb3J0IExpc3QsIE9wdGlvbmFsCg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGFyZWEK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFyZWEK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkYlBhdGggPSBkYlBhdGgK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMg5omT5byA5LiA5LiqanBn5Zu+5YOP5paH5Lu277yM5rOo5oSP5piv5b2T5YmN6Lev5b6EOgogICAgaW0gPSBJbWFnZS5vcGVuKCcvaG9tZS9rbG5pdS9Eb3dubG9hZHMvdGVzdC5qcGVnJykKICAgICMg5oqK57yp5pS+5ZCO55qE5Zu+5YOP55SoanBlZ+agvOW8j+S/neWtmDoKICAgIGRyYXcgPSBJbWFnZURyYXcuRHJhdyhpbSkKICAgICMgZHJhdy5saW5lKCgxMDAsMjAwLCAxNTAsMzAwKSwgZmlsbD0xMjgpCiAgICBmb250ID0gSW1hZ2VGb250LnRydWV0eXBlKCJDb25zb2xhcy1Cb2xkLnR0ZiIsIDE4KQogICAgZHJhdy5saW5lKFsoMjAyLjUsIDM5NC4xNjY2NiksICgyODIuNSwgMjMyLjUpXSwgd2lkdGg9MiwgZmlsbD0oMCwgMCwgMjU1KSkKICAgIGRyYXcuZWxsaXBzZShnZXRDaXJjbGVBcmdzKDIwMi41LCAzOTQuMTY2NjYsIDMpLCBmaWxsPSgyNTUsIDAsIDApKQogICAgcmVjdCA9IGdldFJlY3RTdGFydCgoMjAyLjUsIDM5NC4xNjY2NiksICgyODIuNSwgMjMyLjUpKQogICAgZHJhdy5yZWN0YW5nbGUocmVjdCwgZmlsbD0oMCwgMCwgMjU1KSkKICAgIGRyYXcudGV4dCgocmVjdFswXSArIDMsIHJlY3RbMV0gKyAxKSwgJ0YwMScsIGZvbnQ9Zm9udCwgZmlsbD0oMjU1LCAyNTUsIDI1NSkpCiAgICBpbS5zaG93KCkKICAgIGltLnNhdmUoJy9ob21lL2tsbml1L0Rvd25sb2Fkcy90ZXN0X3Jlc3VsdC5qcGcnKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkYlBhdGggPSBkYlBhdGgK</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
