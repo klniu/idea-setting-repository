@@ -19,7 +19,7 @@
         <mark key="^" line="137" column="33" />
         <mark key="." line="117" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1536132418026">
+      <file name="/a.dummy" timestamp="1536197208027">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -513,10 +513,12 @@
         <mark key="^" line="112" column="15" />
         <mark key="." line="112" column="46" />
       </file>
-      <file name="$USER_HOME$/code/pyutils/voc/bolinhandler.py" timestamp="1536125593182">
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
+      <file name="$USER_HOME$/code/pyutils/voc/bolinhandler.py" timestamp="1536197537303">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="193" column="99" />
+        <mark key="]" line="193" column="100" />
+        <mark key="^" line="193" column="100" />
+        <mark key="." line="193" column="100" />
       </file>
       <file name="D:/code/web/voc-web/src/app/routes/base/base.module.ts" timestamp="1520141756916">
         <mark key="'" line="12" column="0" />
@@ -2041,12 +2043,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="0" filename="$USER_HOME$/code/LuckyCoinContract/test/TestAirdrop.sol" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/LuckyCoinContract/contracts/Airdrop.sol" />
-      <jump line="45" column="11" filename="$USER_HOME$/code/LuckyCoinContract/node_modules/openzeppelin-solidity/contracts/token/ERC20/BasicToken.sol" />
-      <jump line="6" column="28" filename="$USER_HOME$/code/LuckyCoinContract/contracts/LuckyCoinV0.sol" />
-      <jump line="21" column="16" filename="$USER_HOME$/code/LuckyCoinContract/contracts/LuckyCoinV0.sol" />
-      <jump line="23" column="43" filename="$USER_HOME$/code/LuckyCoinContract/contracts/LuckyCoinV0.sol" />
       <jump line="22" column="12" filename="$USER_HOME$/code/LuckyCoinContract/contracts/OwnedUpgradeabilityProxy.sol" />
       <jump line="3" column="16" filename="$USER_HOME$/code/LuckyCoinContract/test/TestAirdrop.sol" />
       <jump line="12" column="12" filename="$USER_HOME$/code/LuckyCoinContract/test/TestAirdrop.sol" />
@@ -2141,6 +2137,12 @@
       <jump line="6" column="31" filename="$USER_HOME$/code/pyutils/auto/safetysystems.py" />
       <jump line="5" column="9" filename="$USER_HOME$/code/pyutils/auto/safetysystems.py" />
       <jump line="136" column="58" filename="$USER_HOME$/code/pyutils/auto/ClickAllLinks.py" />
+      <jump line="141" column="9" filename="$USER_HOME$/code/pyutils/voc/bolinhandler.py" />
+      <jump line="140" column="0" filename="$USER_HOME$/code/pyutils/voc/bolinhandler.py" />
+      <jump line="105" column="16" filename="$USER_HOME$/code/pyutils/voc/bolinhandler.py" />
+      <jump line="52" column="10" filename="$USER_HOME$/code/pyutils/voc/bolinhandler.py" />
+      <jump line="193" column="100" filename="$USER_HOME$/code/pyutils/voc/bolinhandler.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/pyutils/voc/bolinhandler.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2164,7 +2166,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>append</text>
+        <text>/</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2271,40 +2273,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>append</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXNzd29yZF94cGF0aFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB1cmwgPSBzZWxmLmIuY3VycmVudF91cmwKICAgICAgICAgICAgICAgICAgICBlLmNsaWNrKCkKICAgICAgICAgICAgICAgICAgICBzZWxmLmZpbmlzaGVkTGlua3MuYWRkKGUpCiAgICAgICAgICAgICAgICAgICAgdGltZS5zbGVlcChzZWxmLmxvYWRfdGltZSkKICAgICAgICAgICAgICAgICAgICBzZWxmLl9jbGlja19saW5rcygpCiAgICAgICAgICAgICAgICAgICAgIyDngrnlh7vlu7bov5/nmoTlhYPntKAKCiAgICAgICAgICAgICAgICAgICAgIyDlpoLmnpx1cmzlj5jkuobvvIzpnIDopoHlm57pgIAKICAgICAgICAgICAgICAgICAgICBpZiB1cmwgIT0gc2VsZi5iLmN1cnJlbnRfdXJsOgogICAgICAgICAgICAgICAgICAgICAgICBzZWxmLl9iYWNrKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHdzLmNlbGwocm93LCAxOCwgJ+aYrycgaWYgc2VhbC5hY2Nlc3NpYmxlIGVsc2UgJ+WQpicpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyeToK</text>
+        <text encoding="base64">ZnJvbSBzcWxhbGNoZW15IGltcG9ydCBDb2x1bW4sIEludGVnZXIsIFN0cmluZywgQm9vbGVhbiwgY3JlYXRlX2VuZ2luZSwgRmxvYXQsIEZvcmVpZ25LZXkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQgU3RhbGVFbGVtZW50UmVmZXJlbmNlRXhjZXB0aW9uIGFzIGV4OgogICAgICAgICAgICBwcmludChlLCAiaXMgc3RhbGVkIikKICAgICAgICAgICAgcHJpbnQoZXgpCiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBleDoKICAgICAgICAgICAgcHJpbnQoZSwgImlzIGV4Y2VwdGVkIikKICAgICAgICAgICAgcHJpbnQoZXgpCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gd2IK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVsYXlfY2xpY2tzID0gW10K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbCA9IDAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgbm90IGUuaXNfZGlzcGxheWVkKCk6CiAgICAgICAgICAgICAgICAjIHByaW50KGUsIHNlbGYuZ2V0WFBhdGgoZSksICdpcyBub3QgZGlzcGxheWVkJykKICAgICAgICAgICAgICAgIGNvbnRpbnVlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHdzLmNlbGwocm93LCA3LCBjb20ubG9jYXRvcikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ3NyYyBpcyAnICsgc3JjKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc3JjID09IHNlbGYuYi5jdXJyZW50X3VybCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHdzLmNlbGwocm93LCAyLCAiIikK</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
@@ -2317,7 +2319,7 @@
       <last-replace>as</last-replace>
       <last-substitute>airdropSetting</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
