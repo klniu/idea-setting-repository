@@ -513,12 +513,12 @@
         <mark key="^" line="112" column="15" />
         <mark key="." line="112" column="46" />
       </file>
-      <file name="$USER_HOME$/code/pyutils/voc/bolinhandler.py" timestamp="1536200731550">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="67" column="82" />
-        <mark key="]" line="67" column="92" />
-        <mark key="^" line="67" column="92" />
-        <mark key="." line="67" column="92" />
+      <file name="$USER_HOME$/code/pyutils/voc/bolinhandler.py" timestamp="1536203933783">
+        <mark key="'" line="141" column="19" />
+        <mark key="[" line="10" column="48" />
+        <mark key="]" line="10" column="48" />
+        <mark key="." line="10" column="48" />
+        <mark key="^" line="81" column="30" />
       </file>
       <file name="D:/code/web/voc-web/src/app/routes/base/base.module.ts" timestamp="1520141756916">
         <mark key="'" line="12" column="0" />
@@ -2043,7 +2043,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="12" filename="$USER_HOME$/code/LuckyCoinContract/contracts/OwnedUpgradeabilityProxy.sol" />
       <jump line="3" column="16" filename="$USER_HOME$/code/LuckyCoinContract/test/TestAirdrop.sol" />
       <jump line="12" column="12" filename="$USER_HOME$/code/LuckyCoinContract/test/TestAirdrop.sol" />
       <jump line="14" column="14" filename="$USER_HOME$/code/LuckyCoinContract/test/ThrowProxy.sol" />
@@ -2143,6 +2142,7 @@
       <jump line="52" column="10" filename="$USER_HOME$/code/pyutils/voc/bolinhandler.py" />
       <jump line="193" column="100" filename="$USER_HOME$/code/pyutils/voc/bolinhandler.py" />
       <jump line="0" column="0" filename="$USER_HOME$/code/pyutils/voc/bolinhandler.py" />
+      <jump line="144" column="19" filename="$USER_HOME$/code/pyutils/voc/bolinhandler.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2166,7 +2166,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text encoding="base64">LCA=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2273,57 +2273,56 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text encoding="base64">LCA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwYXNzd29yZF94cGF0aFw+</text>
+        <text>print</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdzLmNlbGwocm93LCAxOCwgJ+aYrycgaWYgc2VhbC5hY2Nlc3NpYmxlIGVsc2UgJ+WQpicpCg==</text>
+        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBzcWxhbGNoZW15IGltcG9ydCBDb2x1bW4sIEludGVnZXIsIFN0cmluZywgQm9vbGVhbiwgY3JlYXRlX2VuZ2luZSwgRmxvYXQsIEZvcmVpZ25LZXkK</text>
+        <text encoding="base64">ZGVmIGdldF9zZWFsdHlwZShjaGluZXNlOiBzdHIpOgogICAgdHlwZXMgPSB7CiAgICAgICAgJ+azleWFsCc6ICdGJywKICAgICAgICAn6L+e5o6l5Lu2JzogJ0onLAogICAgICAgICfov57mjqXku7bvvIjonrrnurnov57mjqXvvIknOiAnSicsCiAgICAgICAgJ+azhOWOi+iuvuWkh++8iOWuieWFqOmYgO+8iSc6ICdSJywKICAgICAgICAn5rO177yI6L205bCB77yJJzogJ1AnLAogICAgICAgICflvIDlj6PpmIDmiJblvIDlj6PnrqHnur8nOiAnRScsCiAgICAgICAgJ+aQheaLjOWZqO+8iOi9tOWwge+8iSc6ICdBJywKICAgICAgICAn5Y6L57yp5py677yI6L205bCB77yJJzogJ0EnLAogICAgICAgICfpmIDpl6gnOiAnVicsCiAgICAgICAgJ+WPluagt+i/nuaOpeezu+e7nyc6ICdTJywKICAgICAgICAn5YW25LuWJzogJ08nCiAgICB9CiAgICBpZiBjaGluZXNlIGluIHR5cGVzOgogICAgICAgIHJldHVybiB0eXBlc1tjaGluZXNlXQogICAgZWxzZToKICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCLml6DmlYjnmoTlr4blsIHngrnnsbvlnovvvJoiICsgY2hpbmVzZSkKCgpkZWYgZ2V0X21lZGlhc3RhdGUoY2hpbmVzZTogc3RyKToKICAgIHN0YXRlcyA9IHsKICAgICAgICAn5rCUJzogJ0cnLAogICAgICAgICfovbvotKjmtrLkvZMnOiAnTCcsCiAgICAgICAgJ+mHjei0qOa2suS9kyc6ICdIJwogICAgfQogICAgaWYgY2hpbmVzZSBpbiBzdGF0ZXM6CiAgICAgICAgcmV0dXJuIHN0YXRlc1tjaGluZXNlXQogICAgZWxzZToKICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCLml6DmlYjnmoTku4votKjnirbmgIHvvJoiICsgY2hpbmVzZSkKCgpkZWYgZ2V0X2RpcmVjdGlvbihjaGluZXNlOiBzdHIpOgogICAgZGlyZWN0aW9ucyA9IHsKICAgICAgICAn5LicJzogJ0VFJywKICAgICAgICAn5Y2XJzogJ1NTJywKICAgICAgICAn6KW/JzogJ1dXJywKICAgICAgICAn5YyXJzogJ05OJywKICAgICAgICAi5Lic5Y2XIjogJ1NFJywKICAgICAgICAn5Lic5YyXJzogJ05FJywKICAgICAgICAn6KW/5Y2XJzogJ1NXJywKICAgICAgICAn6KW/5YyXJzogJ05XJywKICAgICAgICAn5LiKJzogJ0VFJywKICAgICAgICAn5LiLJzogJ0VFJwogICAgfQogICAgaWYgY2hpbmVzZSBpbiBkaXJlY3Rpb25zOgogICAgICAgIHJldHVybiBkaXJlY3Rpb25zW2NoaW5lc2VdCiAgICBlbHNlOgogICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoIuaXoOaViOeahOaWueS9jSIgKyBjaGluZXNlKQoKCmRlZiBnZXRDaXJjbGVBcmdzKHg6IGZsb2F0LCB5OiBmbG9hdCwgcmFkaXVzOiBmbG9hdCk6CiAgICByZXR1cm4geCAtIHJhZGl1cywgeSAtIHJhZGl1cywgeCArIHJhZGl1cywgeSArIHJhZGl1cwoKCmRlZiBnZXRSZWN0U3RhcnQoY2lybGVQb2ludDogdHVwbGUsIHJlY3RQb2ludDogdHVwbGUpOgogICAgeDEgPSAwCiAgICB5MSA9IDAKICAgIHgyID0gMAogICAgeTIgPSAwCiAgICB3aWR0aCA9IDM2CiAgICBoZWlnaHQgPSAxOAogICAgIyDlnIblv4N4IOWcqHJlY3Tlj7PovrkKICAgIGlmIGNpcmxlUG9pbnRbMF0gLSByZWN0UG9pbnRbMF0gPj0gMDoKICAgICAgICB4MSA9IHJlY3RQb2ludFswXSAtIHdpZHRoCiAgICAgICAgeDIgPSByZWN0UG9pbnRbMF0KICAgIGVsc2U6CiAgICAgICAgeDEgPSByZWN0UG9pbnRbMF0KICAgICAgICB4MiA9IHJlY3RQb2ludFswXSArIHdpZHRoCiAgICAjIOWchuW/g3nlnKhyZWN05LiK6Z2iCiAgICBpZiBjaXJsZVBvaW50WzFdIC0gcmVjdFBvaW50WzFdID49IDA6CiAgICAgICAgeTEgPSByZWN0UG9pbnRbMV0gLSBoZWlnaHQKICAgICAgICB5MiA9IHJlY3RQb2ludFsxXQogICAgZWxzZToKICAgICAgICB5MSA9IHJlY3RQb2ludFsxXQogICAgICAgIHkyID0gcmVjdFBvaW50WzFdICsgaGVpZ2h0CiAgICByZXR1cm4geDEsIHkxLCB4MiwgeTIKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gd2IK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9udCA9IEltYWdlRm9udC50cnVldHlwZSgiQ29uc29sYXMtQm9sZC50dGYiLCAxOCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvbnQgPSBJbWFnZUZvbnQudHJ1ZXR5cGUoIkNvbnNvbGFzLUJvbGQudHRmIiwgMTgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbCA9IDAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIOaJk+W8gOS4gOS4qmpwZ+WbvuWDj+aWh+S7tu+8jOazqOaEj+aYr+W9k+WJjei3r+W+hDoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc2VhbHMpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdzLmNlbGwocm93LCA3LCBjb20ubG9jYXRvcikK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChpbWdfaWQpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChjb21wb25lbnRzKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdzLmNlbGwocm93LCAyLCAiIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocG9pbnQpCg==</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwYXNzd29yZF94cGF0aFw+</last-search>
+      <last-search>print</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwYXNzd29yZF94cGF0aFw+</last-pattern>
+      <last-pattern>print</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute>airdropSetting</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>detect</entry>
         <entry>get(0)</entry>
         <entry encoding="base64">XDxPdXRlclw+</entry>
         <entry encoding="base64">XDxvbkNsaWNrXD4=</entry>
@@ -2343,6 +2342,7 @@
         <entry>unlock</entry>
         <entry encoding="base64">XDxwYXNzX3hwYXRoXD4=</entry>
         <entry encoding="base64">XDxwYXNzd29yZF94cGF0aFw+</entry>
+        <entry>print</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5J</entry>
