@@ -513,12 +513,12 @@
         <mark key="^" line="112" column="15" />
         <mark key="." line="112" column="46" />
       </file>
-      <file name="$USER_HOME$/code/pyutils/voc/bolinhandler.py" timestamp="1536213308583">
+      <file name="$USER_HOME$/code/pyutils/voc/bolinhandler.py" timestamp="1536215423693">
         <mark key="'" line="167" column="81" />
-        <mark key="[" line="111" column="48" />
-        <mark key="]" line="111" column="48" />
-        <mark key="." line="111" column="48" />
-        <mark key="^" line="111" column="48" />
+        <mark key="[" line="83" column="48" />
+        <mark key="]" line="83" column="48" />
+        <mark key="." line="83" column="48" />
+        <mark key="^" line="83" column="48" />
       </file>
       <file name="D:/code/web/voc-web/src/app/routes/base/base.module.ts" timestamp="1520141756916">
         <mark key="'" line="12" column="0" />
@@ -2166,7 +2166,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>E</text>
+        <text>int</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2273,13 +2273,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>E</text>
+        <text>int</text>
       </register>
       <register name="/" type="4">
         <text>seal.no</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJhaXNlICgn6ZSZ6K+v55qE5a+G5bCB54K56aG65bqPOiAnLCBzZWFsLmltZ0lkLCBzZWFsLmV4dE51bWJlcikK</text>
+      <register name="0" type="4">
+        <text encoding="base64">OS45IGlmIHBvaW50LnRwRGlzdGFuY2UgPiA5LjkgZWxzZSBwb2ludC50cERpc3RhbmNl</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
