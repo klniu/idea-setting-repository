@@ -1,0 +1,21 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="excludedRules">
+      <set>
+        <option value="python:S100" />
+        <option value="python:S116" />
+        <option value="python:S117" />
+      </set>
+    </option>
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="http://localhost:9000" />
+          <token>df93df92dfcbdf9ddf9adfcbdfc9dfc8dfc8df93df9ddf9adfcedfc9dfc8df99df9edf9bdfcbdf98df9cdf9cdfcedfcbdfcedfccdfccdf9fdfc8df99dfcbdfcfdf92df9fdf93df9ddf98df9fdf99df9a</token>
+          <option name="name" value="locahost" />
+          <organizationKey>default-organization</organizationKey>
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>
