@@ -513,8 +513,8 @@
         <mark key="^" line="112" column="15" />
         <mark key="." line="112" column="46" />
       </file>
-      <file name="$USER_HOME$/code/pyutils/voc/bolinhandler.py" timestamp="1536224395260">
-        <mark key="'" line="255" column="0" />
+      <file name="$USER_HOME$/code/pyutils/voc/bolinhandler.py" timestamp="1536281508947">
+        <mark key="'" line="8" column="0" />
         <mark key="[" line="8" column="0" />
         <mark key="]" line="12" column="24" />
         <mark key="." line="83" column="48" />
@@ -976,7 +976,7 @@
         <mark key="." line="101" column="0" />
         <mark key="^" line="16" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536219053729">
+      <file name="/Dummy.txt" timestamp="1536226976982">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
@@ -2043,7 +2043,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="13" filename="$USER_HOME$/code/LuckyCoinContract/test/TestAirdrop.sol" />
       <jump line="46" column="13" filename="$USER_HOME$/code/LuckyCoinContract/test/TestAirdrop.sol" />
       <jump line="62" column="2" filename="$USER_HOME$/code/LuckyCoinContract/test/Airdrop.js" />
       <jump line="8" column="77" filename="$USER_HOME$/code/LuckyCoinContract/test/Airdrop.js" />
@@ -2143,6 +2142,7 @@
       <jump line="83" column="48" filename="$USER_HOME$/code/pyutils/voc/bolinhandler.py" />
       <jump line="255" column="0" filename="$USER_HOME$/code/pyutils/voc/bolinhandler.py" />
       <jump line="13" column="19" filename="$USER_HOME$/code/pyutils/auto/ClickAllLinks.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/code/pyutils/voc/bolinhandler.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2319,7 +2319,7 @@
       <last-replace>as</last-replace>
       <last-substitute>airdropSetting</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
