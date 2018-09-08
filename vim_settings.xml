@@ -1796,6 +1796,13 @@
         <mark key="." line="74" column="0" />
         <mark key="^" line="72" column="64" />
       </file>
+      <file name="$USER_HOME$/code/voc_ice/src/routerConfig.js" timestamp="1536372660185">
+        <mark key="'" line="30" column="16" />
+        <mark key="[" line="7" column="7" />
+        <mark key="]" line="7" column="16" />
+        <mark key="." line="7" column="16" />
+        <mark key="^" line="7" column="16" />
+      </file>
       <file name="$USER_HOME$/code/website/src/redux/modules/auth.js" timestamp="1528594476566">
         <mark key="'" line="225" column="22" />
         <mark key="[" line="35" column="2" />
@@ -2730,7 +2737,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="14" filename="$USER_HOME$/code/LuckyCoinContract/node_modules/openzeppelin-solidity/contracts/token/ERC20/ERC20Basic.sol" />
       <jump line="11" column="30" filename="$USER_HOME$/code/openzeppelin-solidity/contracts/token/ERC20/BasicToken.sol" />
       <jump line="20" column="21" filename="$USER_HOME$/code/LuckyCoinContract/contracts/LuckyCoinV0.sol" />
       <jump line="12" column="13" filename="$USER_HOME$/code/LuckyCoinContract/node_modules/openzeppelin-solidity/contracts/token/ERC20/ERC20Basic.sol" />
@@ -2830,6 +2836,7 @@
       <jump line="399" column="30" filename="$USER_HOME$/Downloads/brozzler-master/brozzler/worker.py" />
       <jump line="43" column="4" filename="$USER_HOME$/code/pyutils/work/SafetySystemLevelsCount.py" />
       <jump line="6" column="0" filename="$USER_HOME$/code/pyutils/auto/ClickAllLinks.py" />
+      <jump line="30" column="16" filename="$USER_HOME$/code/voc_ice/src/routerConfig.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2853,7 +2860,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>red</text>
+        <text>MainLayout</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2960,10 +2967,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>red</text>
+        <text>MainLayout</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZXR1cm5cPg==</text>
+        <text>BasicLayout</text>
       </register>
       <register name="0" type="4">
         <text>跳回父框架</text>
@@ -2996,21 +3003,20 @@
         <text encoding="base64">ICAgICAgICAjIOahhuaetuWGheeahAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text>%s/BasicLayout/MainLayout/gc</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZXR1cm5cPg==</last-search>
+      <last-search>BasicLayout</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZXR1cm5cPg==</last-pattern>
-      <last-replace>as</last-replace>
-      <last-substitute>airdropSetting</last-substitute>
+      <last-pattern>BasicLayout</last-pattern>
+      <last-replace>MainLayout</last-replace>
+      <last-substitute>BasicLayout</last-substitute>
       <last-dir>-1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>css</entry>
         <entry>js</entry>
         <entry>.test p</entry>
         <entry>detect</entry>
@@ -3030,9 +3036,9 @@
         <entry>gpu</entry>
         <entry>beha</entry>
         <entry encoding="base64">XDxyZXR1cm5cPg==</entry>
+        <entry>BasicLayout</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5J</entry>
         <entry encoding="base64">JzwsJz5zLyQvLC9nYw==</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gTmV4dFRhYg==</entry>
         <entry>%s/1.0.0-beta.9/1.0.1/gc</entry>
@@ -3052,6 +3058,7 @@
         <entry>action PreviousTab</entry>
         <entry>w</entry>
         <entry>action ReformatCode</entry>
+        <entry>%s/BasicLayout/MainLayout/gc</entry>
       </history-cmd>
       <history-expr />
       <history-input />
