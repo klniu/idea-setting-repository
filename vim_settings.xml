@@ -666,7 +666,8 @@
         <mark key="^" line="57" column="26" />
         <mark key="." line="60" column="26" />
       </file>
-      <file name="$USER_HOME$/code/voc_ice/src/menuConfig.js" timestamp="1536453047843">
+      <file name="$USER_HOME$/code/voc_ice/src/menuConfig.js" timestamp="1536464295353">
+        <mark key="'" line="23" column="21" />
         <mark key="[" line="29" column="12" />
         <mark key="]" line="29" column="13" />
         <mark key="." line="29" column="13" />
@@ -1116,8 +1117,8 @@
         <mark key="." line="32" column="37" />
         <mark key="^" line="32" column="37" />
       </file>
-      <file name="$USER_HOME$/code/voc_ice/src/router.jsx" timestamp="1536396496536">
-        <mark key="'" line="14" column="39" />
+      <file name="$USER_HOME$/code/voc_ice/src/router.jsx" timestamp="1536464327991">
+        <mark key="'" line="7" column="0" />
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
@@ -1863,7 +1864,8 @@
         <mark key="." line="74" column="0" />
         <mark key="^" line="72" column="64" />
       </file>
-      <file name="$USER_HOME$/code/voc_ice/src/routerConfig.js" timestamp="1536453062355">
+      <file name="$USER_HOME$/code/voc_ice/src/routerConfig.js" timestamp="1536464308160">
+        <mark key="'" line="109" column="13" />
         <mark key="[" line="109" column="12" />
         <mark key="]" line="109" column="13" />
         <mark key="." line="109" column="13" />
@@ -2824,9 +2826,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="3" filename="$USER_HOME$/code/LuckyCoinContract/truffle.js" />
-      <jump line="0" column="64" filename="$USER_HOME$/code/LuckyCoinContract/test/Airdrop.js" />
-      <jump line="54" column="0" filename="$USER_HOME$/code/LuckyCoinContract/test/Airdrop.js" />
       <jump line="65" column="33" filename="$USER_HOME$/code/LuckyCoinContract/test/Airdrop.js" />
       <jump line="5" column="27" filename="$USER_HOME$/code/LuckyCoinContract/contracts/Airdrop.sol" />
       <jump line="13" column="36" filename="$USER_HOME$/code/LuckyCoinContract/node_modules/openzeppelin-solidity/contracts/token/ERC20/StandardToken.sol" />
@@ -2924,6 +2923,9 @@
       <jump line="41" column="38" filename="$USER_HOME$/code/voc_ice/src/pages/Factory/components/FactoryForm/FactoryForm.jsx" />
       <jump line="88" column="48" filename="$USER_HOME$/code/voc_ice/src/pages/Factory/components/FactoryForm/FactoryForm.jsx" />
       <jump line="0" column="0" filename="$USER_HOME$/code/voc_ice/README.md" />
+      <jump line="23" column="21" filename="$USER_HOME$/code/voc_ice/src/menuConfig.js" />
+      <jump line="109" column="13" filename="$USER_HOME$/code/voc_ice/src/routerConfig.js" />
+      <jump line="7" column="0" filename="$USER_HOME$/code/voc_ice/src/router.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3057,7 +3059,7 @@
         <text>dark</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmb3JtQ29udGVudFw+</text>
+        <text>MainLayout</text>
       </register>
       <register name="0" type="4">
         <text>componentDidMount</text>
@@ -3090,21 +3092,20 @@
         <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text>%s/MainLayout/BasicLayout</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmb3JtQ29udGVudFw+</last-search>
+      <last-search>MainLayout</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmb3JtQ29udGVudFw+</last-pattern>
-      <last-replace>label</last-replace>
-      <last-substitute>name</last-substitute>
+      <last-pattern>MainLayout</last-pattern>
+      <last-replace>BasicLayout</last-replace>
+      <last-substitute>MainLayout</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxPdXRlclw+</entry>
         <entry encoding="base64">XDxvbkNsaWNrXD4=</entry>
         <entry>api</entry>
         <entry encoding="base64">XDxkYXRhXD4=</entry>
@@ -3124,9 +3125,9 @@
         <entry>code</entry>
         <entry>name</entry>
         <entry encoding="base64">XDxmb3JtQ29udGVudFw+</entry>
+        <entry>MainLayout</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/1.0.0-beta.9/1.0.1/gc</entry>
         <entry encoding="base64">JzwsJz5zLzYuMC4wLzUuMi45L2dj</entry>
         <entry>action AceAction</entry>
         <entry encoding="base64">JzwsJz5zL2Rpc3RhbmNlL2hlaWdodC9nYw==</entry>
@@ -3146,6 +3147,7 @@
         <entry>action PreviousTab</entry>
         <entry>action NextTab</entry>
         <entry>action ReformatCode</entry>
+        <entry>%s/MainLayout/BasicLayout</entry>
       </history-cmd>
       <history-expr />
       <history-input />
