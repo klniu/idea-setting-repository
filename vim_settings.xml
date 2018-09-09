@@ -1020,12 +1020,12 @@
         <mark key="^" line="92" column="41" />
         <mark key="." line="104" column="41" />
       </file>
-      <file name="$USER_HOME$/code/voc_ice/mock/index.js" timestamp="1536467231675">
+      <file name="$USER_HOME$/code/voc_ice/mock/index.js" timestamp="1536470441162">
         <mark key="'" line="58" column="1" />
-        <mark key="[" line="57" column="4" />
-        <mark key="]" line="58" column="1" />
-        <mark key="." line="58" column="1" />
-        <mark key="^" line="58" column="1" />
+        <mark key="[" line="59" column="25" />
+        <mark key="]" line="59" column="32" />
+        <mark key="." line="59" column="32" />
+        <mark key="^" line="59" column="32" />
       </file>
       <file name="$USER_HOME$/code/lkc_website/src/containers/LKC/style/pc.scss" timestamp="1530518593544">
         <mark key="'" line="0" column="0" />
@@ -1109,12 +1109,12 @@
         <mark key="." line="18" column="51" />
         <mark key="^" line="18" column="51" />
       </file>
-      <file name="$USER_HOME$/code/voc_ice/src/api/index.js" timestamp="1536466951860">
-        <mark key="'" line="35" column="23" />
-        <mark key="[" line="24" column="17" />
-        <mark key="]" line="24" column="21" />
-        <mark key="." line="24" column="21" />
-        <mark key="^" line="24" column="21" />
+      <file name="$USER_HOME$/code/voc_ice/src/api/index.js" timestamp="1536470283124">
+        <mark key="'" line="36" column="23" />
+        <mark key="[" line="26" column="18" />
+        <mark key="]" line="26" column="18" />
+        <mark key="." line="26" column="18" />
+        <mark key="^" line="26" column="18" />
       </file>
       <file name="$USER_HOME$/code/voc_ice/src/router.jsx" timestamp="1536465054610">
         <mark key="'" line="14" column="6" />
@@ -1349,12 +1349,12 @@
         <mark key="." line="155" column="39" />
         <mark key="^" line="155" column="39" />
       </file>
-      <file name="$USER_HOME$/code/voc_ice/src/pages/Factory/components/FactoryForm/FactoryForm.jsx" timestamp="1536467355772">
-        <mark key="'" line="89" column="48" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
-        <mark key="^" line="41" column="24" />
+      <file name="$USER_HOME$/code/voc_ice/src/pages/Factory/components/FactoryForm/FactoryForm.jsx" timestamp="1536470415258">
+        <mark key="'" line="39" column="11" />
+        <mark key="[" line="40" column="18" />
+        <mark key="]" line="40" column="20" />
+        <mark key="." line="40" column="20" />
+        <mark key="^" line="40" column="20" />
       </file>
       <file name="$USER_HOME$/code/yangmao/helpers/helper.py" timestamp="1531469667633">
         <mark key="[" line="16" column="0" />
@@ -2840,7 +2840,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="38" filename="$USER_HOME$/code/safety/helper.py" />
       <jump line="31" column="16" filename="$USER_HOME$/code/safety/43hainan.py" />
       <jump line="29" column="25" filename="$USER_HOME$/code/safety/DynamicTracker.py" />
       <jump line="14" column="63" filename="$USER_HOME$/code/safety/WebUtil.py" />
@@ -2940,6 +2939,7 @@
       <jump line="1" column="30" filename="$USER_HOME$/code/voc_ice/mock/factory.js" />
       <jump line="8" column="22" filename="$USER_HOME$/code/voc_ice/mock/index.js" />
       <jump line="58" column="1" filename="$USER_HOME$/code/voc_ice/mock/index.js" />
+      <jump line="39" column="11" filename="$USER_HOME$/code/voc_ice/src/pages/Factory/components/FactoryForm/FactoryForm.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2962,8 +2962,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd2YWx1ZScsIHZhbHVlKTsK</text>
+      <register name="&quot;" type="4">
+        <text>&quot;test&quot;</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -3070,7 +3070,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>&quot;test&quot;</text>
       </register>
       <register name="/" type="4">
         <text>BasicLayout</text>
@@ -3079,28 +3079,28 @@
         <text encoding="base64">ICAnR0VUIC9hcGkvZmFjdG9yeS8xJzogKCkgPT4gewogICAgcmV0dXJuIHsKICAgICAgY29kZTogMCwKICAgICAgbXNnOiAnJywKICAgICAgZGF0YTogewogICAgICAgIGlkOiAnMScsCiAgICAgICAgcGFyZW50SWQ6IG51bGwsCiAgICAgICAgbmFtZTogJ+S4rea1t+ayueWuieWFqOeOr+S/neWIhuWFrOWPuCcsCiAgICAgICAgY2l0eTogMTEwMTAxLAogICAgICAgIGFkZHJlc3M6ICflpKnmtKXluILmu6jmtbfmlrDljLonLAogICAgICAgIHZvY1ByaWNlOiAxMCwKICAgICAgICBkZXNjcmlwdGlvbjogJycsCiAgICAgIH0sCiAgICB9OwogIH0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd2YWx1ZScsIHZhbHVlKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJ0ZXN0Iik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgfSwK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd2YWx1ZScsIHZhbHVlKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB9LAo=</text>
+        <text encoding="base64">ICAgICAgfSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJyZW50QXV0aG9yaXR5OiAnZ3Vlc3QnLAo=</text>
+        <text encoding="base64">ICB9LAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0dXNUZXh0OiAndW5hdXRob3JpemVkJywK</text>
+        <text encoding="base64">ICAgICAgICBjdXJyZW50QXV0aG9yaXR5OiAnZ3Vlc3QnLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0dXM6IDQwMSwK</text>
+        <text encoding="base64">ICAgICAgICBzdGF0dXNUZXh0OiAndW5hdXRob3JpemVkJywK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0dXM6IDIwMCwKICAgICAgICBzdGF0dXNUZXh0OiAnb2snLAogICAgICAgIGN1cnJlbnRBdXRob3JpdHk6ICd1c2VyJywK</text>
+        <text encoding="base64">ICAgICAgICBzdGF0dXM6IDQwMSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdGF0dXM6IDIwMCwKICAgICAgICBzdGF0dXNUZXh0OiAnb2snLAogICAgICAgIGN1cnJlbnRBdXRob3JpdHk6ICd1c2VyJywK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
