@@ -715,12 +715,12 @@
         <mark key="." line="42" column="17" />
         <mark key="^" line="42" column="17" />
       </file>
-      <file name="$USER_HOME$/code/pyutils/safetysystem/systems.py" timestamp="1536553191734">
-        <mark key="'" line="50" column="109" />
-        <mark key="[" line="74" column="70" />
-        <mark key="]" line="74" column="70" />
-        <mark key="." line="74" column="70" />
-        <mark key="^" line="74" column="70" />
+      <file name="$USER_HOME$/code/pyutils/safetysystem/systems.py" timestamp="1536554960545">
+        <mark key="'" line="77" column="12" />
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="109" />
+        <mark key="." line="78" column="0" />
+        <mark key="^" line="77" column="11" />
       </file>
       <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" timestamp="1524019031176">
         <mark key="'" line="120" column="7" />
@@ -1259,6 +1259,13 @@
         <mark key="]" line="71" column="29" />
         <mark key="." line="47" column="0" />
         <mark key="^" line="82" column="42" />
+      </file>
+      <file name="$USER_HOME$/code/pyutils/web/extracttags.py" timestamp="1536554531132">
+        <mark key="'" line="5" column="10" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="7" column="29" />
       </file>
       <file name="$USER_HOME$/code/website/src/components/Navigation/Navigation.js" timestamp="1530409252105">
         <mark key="'" line="126" column="19" />
@@ -2030,9 +2037,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="40" filename="$USER_HOME$/Downloads/brozzler-master/brozzler/easy.py" />
-      <jump line="83" column="49" filename="$USER_HOME$/Downloads/brozzler-master/brozzler/easy.py" />
-      <jump line="99" column="67" filename="$USER_HOME$/Downloads/brozzler-master/brozzler/cli.py" />
       <jump line="105" column="13" filename="$USER_HOME$/Downloads/brozzler-master/brozzler/cli.py" />
       <jump line="106" column="46" filename="$USER_HOME$/Downloads/brozzler-master/brozzler/cli.py" />
       <jump line="108" column="52" filename="$USER_HOME$/Downloads/brozzler-master/brozzler/cli.py" />
@@ -2130,6 +2134,9 @@
       <jump line="45" column="109" filename="$USER_HOME$/code/pyutils/safetysystem/systems.py" />
       <jump line="70" column="50" filename="$USER_HOME$/code/pyutils/safetysystem/clickprocess.py" />
       <jump line="9" column="0" filename="$USER_HOME$/code/pyutils/safetysystem/clickprocess.py" />
+      <jump line="6" column="10" filename="$USER_HOME$/code/pyutils/web/extracttags.py" />
+      <jump line="74" column="0" filename="$USER_HOME$/code/pyutils/safetysystem/systems.py" />
+      <jump line="77" column="12" filename="$USER_HOME$/code/pyutils/safetysystem/systems.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2152,8 +2159,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>首页框架</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgXSwgY2hpbGRfb3BlcmF0aW9ucz1bT3BlcmF0aW9uKG9wZXJhdG9yPU9wZXJhdG9yLldBSVQsIHBhcmFtPScvLypbQGlkPSJkYXRhR3JpZCJdL3Rib2R5L3RyWzFdJyldKQo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2260,40 +2267,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>首页框架</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>is_path</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICcnLCAjIOaUv+W6nOacrOWto+W3oeafpeasoeaVsO+8iOasoe+8iQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgXSwgY2hpbGRfb3BlcmF0aW9ucz1bT3BlcmF0aW9uKG9wZXJhdG9yPU9wZXJhdG9yLldBSVQsIHBhcmFtPScvLypbQGlkPSJkYXRhR3JpZCJdL3Rib2R5L3RyWzFdJyldKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdodHRwczovLzIwMi4xMDQuMTI2LjQyOjgwODEveXRzYWZlL2xkamMvcHVjRW50cF9nZW5lcmFsSW5mby5qc3AnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAnaHJlZicgaW4gdDoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0Lgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0Lgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICcnLCAjCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICcnLCAjCg==</text>
+        <text encoding="base64">ZGF0YSA9ICIiIjx0ZXN0PjxFWFRSQUNUPmV4dHJhY3QgdGV4dDwvRVhUUkFDVD48L3Rlc3Q+IiIiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgT3BlcmF0aW9uKHBhdGg9czExICsgJycsIG9wZXJhdG9yPU9wZXJhdG9yLk9QRU4sIGNoaWxkX29wZXJhdGlvbnM9WwogICAgICAgICAgICAgICAgT3BlcmF0aW9uKG9wZXJhdG9yPU9wZXJhdG9yLldBSVQsIHBhcmFtPScvLypbQGlkPSJkYXRhR3JpZCJdL3Rib2R5L3RyWzFdJykKICAgICAgICAgICAgXSksCiAgICAgICAgICAgIE9wZXJhdGlvbihwYXRoPXMxMSArICcnLCBvcGVyYXRvcj1PcGVyYXRvci5PUEVOLCBjaGlsZF9vcGVyYXRpb25zPVsKICAgICAgICAgICAgICAgIE9wZXJhdGlvbihvcGVyYXRvcj1PcGVyYXRvci5XQUlULCBwYXJhbT0nLy8qW0BpZD0iZGF0YUdyaWQiXS90Ym9keS90clsxXScpCiAgICAgICAgICAgIF0pLAogICAgICAgICAgICBPcGVyYXRpb24ocGF0aD1zMTEgKyAnJywgb3BlcmF0b3I9T3BlcmF0b3IuT1BFTiwgY2hpbGRfb3BlcmF0aW9ucz1bCiAgICAgICAgICAgICAgICBPcGVyYXRpb24ob3BlcmF0b3I9T3BlcmF0b3IuV0FJVCwgcGFyYW09Jy8vKltAaWQ9ImRhdGFHcmlkIl0vdGJvZHkvdHJbMV0nKQogICAgICAgICAgICBdKSwKICAgICAgICAgICAgT3BlcmF0aW9uKHBhdGg9czExICsgJycsIG9wZXJhdG9yPU9wZXJhdG9yLk9QRU4sIGNoaWxkX29wZXJhdGlvbnM9WwogICAgICAgICAgICAgICAgT3BlcmF0aW9uKG9wZXJhdG9yPU9wZXJhdG9yLldBSVQsIHBhcmFtPScvLypbQGlkPSJkYXRhR3JpZCJdL3Rib2R5L3RyWzFdJykKICAgICAgICAgICAgXSksCiAgICAgICAgICAgIE9wZXJhdGlvbihwYXRoPXMxMSArICcnLCBvcGVyYXRvcj1PcGVyYXRvci5PUEVOLCBjaGlsZF9vcGVyYXRpb25zPVsKICAgICAgICAgICAgICAgIE9wZXJhdGlvbihvcGVyYXRvcj1PcGVyYXRvci5XQUlULCBwYXJhbT0nLy8qW0BpZD0iZGF0YUdyaWQiXS90Ym9keS90clsxXScpCiAgICAgICAgICAgIF0pLAogICAgICAgICAgICBPcGVyYXRpb24ocGF0aD1zMTEgKyAnJywgb3BlcmF0b3I9T3BlcmF0b3IuT1BFTiwgY2hpbGRfb3BlcmF0aW9ucz1bCiAgICAgICAgICAgICAgICBPcGVyYXRpb24ob3BlcmF0b3I9T3BlcmF0b3IuV0FJVCwgcGFyYW09Jy8vKltAaWQ9ImRhdGFHcmlkIl0vdGJvZHkvdHJbMV0nKQogICAgICAgICAgICBdKSwKICAgICAgICAgICAgT3BlcmF0aW9uKHBhdGg9czExICsgJycsIG9wZXJhdG9yPU9wZXJhdG9yLk9QRU4sIGNoaWxkX29wZXJhdGlvbnM9WwogICAgICAgICAgICAgICAgT3BlcmF0aW9uKG9wZXJhdG9yPU9wZXJhdG9yLldBSVQsIHBhcmFtPScvLypbQGlkPSJkYXRhR3JpZCJdL3Rib2R5L3RyWzFdJykKICAgICAgICAgICAgXSksCgo=</text>
+        <text encoding="base64">czExID0K</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
