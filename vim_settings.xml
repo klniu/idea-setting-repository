@@ -1085,12 +1085,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/code/pyutils/auto/ClickAllLinks.py" timestamp="1536313332340">
-        <mark key="'" line="146" column="29" />
-        <mark key="[" line="146" column="11" />
-        <mark key="]" line="146" column="10" />
-        <mark key="." line="146" column="10" />
-        <mark key="^" line="146" column="10" />
+      <file name="$USER_HOME$/code/pyutils/auto/ClickAllLinks.py" timestamp="1536542271840">
+        <mark key="'" line="68" column="9" />
+        <mark key="[" line="151" column="21" />
+        <mark key="]" line="151" column="21" />
+        <mark key="." line="151" column="21" />
+        <mark key="^" line="146" column="46" />
       </file>
       <file name="D:/code/java/cnooc/src/main/resources/application.yml" timestamp="1523433308337">
         <mark key="'" line="34" column="15" />
@@ -2043,9 +2043,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="33" filename="$USER_HOME$/code/safety/WebUtil.py" />
-      <jump line="13" column="21" filename="$USER_HOME$/code/safety/WebUtil.py" />
-      <jump line="23" column="13" filename="$USER_HOME$/code/safety/43hainan.py" />
       <jump line="26" column="8" filename="$USER_HOME$/code/safety/43hainan.py" />
       <jump line="28" column="9" filename="$USER_HOME$/code/safety/43hainan.py" />
       <jump line="55" column="13" filename="$USER_HOME$/code/safety/WebUtil.py" />
@@ -2143,6 +2140,9 @@
       <jump line="153" column="25" filename="$USER_HOME$/code/pyutils/auto/ClickAllLinks.py" />
       <jump line="150" column="13" filename="$USER_HOME$/code/pyutils/auto/ClickAllLinks.py" />
       <jump line="147" column="29" filename="$USER_HOME$/code/pyutils/auto/ClickAllLinks.py" />
+      <jump line="107" column="23" filename="$USER_HOME$/code/pyutils/auto/ClickAllLinks.py" />
+      <jump line="146" column="42" filename="$USER_HOME$/code/pyutils/auto/ClickAllLinks.py" />
+      <jump line="68" column="9" filename="$USER_HOME$/code/pyutils/auto/ClickAllLinks.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2166,7 +2166,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>.get(url, set())</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2273,10 +2273,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>.get(url, set())</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfYWRkX2ZpbmlzaGVkX3BhdGhcPg==</text>
+        <text>is_path</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLnNlc3Npb24uY29tbWl0KCkK</text>
@@ -2313,9 +2313,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfYWRkX2ZpbmlzaGVkX3BhdGhcPg==</last-search>
+      <last-search>is_path</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfYWRkX2ZpbmlzaGVkX3BhdGhcPg==</last-pattern>
+      <last-pattern>is_path</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute>airdropSetting</last-substitute>
       <last-dir>1</last-dir>
@@ -2323,7 +2323,6 @@
     </search>
     <history>
       <history-search>
-        <entry>content[i++]</entry>
         <entry>content\[i++\]</entry>
         <entry encoding="base64">XDxwb3NpdGlvblw+</entry>
         <entry>netwo</entry>
@@ -2343,6 +2342,7 @@
         <entry>action</entry>
         <entry encoding="base64">XDxkZWxheV9jbGlja1w+</entry>
         <entry encoding="base64">XDxfYWRkX2ZpbmlzaGVkX3BhdGhcPg==</entry>
+        <entry>is_path</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5J</entry>
