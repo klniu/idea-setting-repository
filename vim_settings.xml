@@ -1259,12 +1259,12 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/code/pyutils/safetysystem/clickprocess.py" timestamp="1536647204666">
-        <mark key="'" line="71" column="4" />
-        <mark key="[" line="37" column="20" />
-        <mark key="]" line="37" column="21" />
+      <file name="$USER_HOME$/code/pyutils/safetysystem/clickprocess.py" timestamp="1536647909867">
+        <mark key="'" line="10" column="62" />
+        <mark key="[" line="95" column="34" />
+        <mark key="]" line="95" column="35" />
         <mark key="^" line="64" column="33" />
-        <mark key="." line="37" column="21" />
+        <mark key="." line="95" column="35" />
       </file>
       <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/entity/Detection.java" timestamp="1523609356505">
         <mark key="'" line="75" column="12" />
@@ -2051,8 +2051,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="161" column="81" filename="$USER_HOME$/code/pyutils/voc/bolinhandler.py" />
-      <jump line="83" column="48" filename="$USER_HOME$/code/pyutils/voc/bolinhandler.py" />
       <jump line="255" column="0" filename="$USER_HOME$/code/pyutils/voc/bolinhandler.py" />
       <jump line="13" column="19" filename="$USER_HOME$/code/pyutils/auto/ClickAllLinks.py" />
       <jump line="8" column="0" filename="$USER_HOME$/code/pyutils/voc/bolinhandler.py" />
@@ -2151,6 +2149,8 @@
       <jump line="227" column="32" filename="$USER_HOME$/code/pyutils/safetysystem/11.yaml" />
       <jump line="127" column="14" filename="$USER_HOME$/code/pyutils/safetysystem/11.yaml" />
       <jump line="80" column="22" filename="$USER_HOME$/code/pyutils/safetysystem/11.yaml" />
+      <jump line="31" column="37" filename="$USER_HOME$/code/pyutils/safetysystem/clickprocess.py" />
+      <jump line="10" column="62" filename="$USER_HOME$/code/pyutils/safetysystem/clickprocess.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2284,7 +2284,7 @@
         <text>actions</text>
       </register>
       <register name="/" type="4">
-        <text>perCheckListTab</text>
+        <text encoding="base64">XDxFQ1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHByb2dyZXNzWzBdID0gaQo=</text>
@@ -2321,9 +2321,9 @@
       </register>
     </registers>
     <search>
-      <last-search>perCheckListTab</last-search>
+      <last-search encoding="base64">XDxFQ1w+</last-search>
       <last-offset />
-      <last-pattern>perCheckListTab</last-pattern>
+      <last-pattern encoding="base64">XDxFQ1w+</last-pattern>
       <last-replace>progress</last-replace>
       <last-substitute>process</last-substitute>
       <last-dir>1</last-dir>
@@ -2331,8 +2331,6 @@
     </search>
     <history>
       <history-search>
-        <entry>print</entry>
-        <entry>seal.no</entry>
         <entry>finished</entry>
         <entry encoding="base64">XDxmaW5pc2hlZExpbmtzXD4=</entry>
         <entry encoding="base64">XDxmaW5pc2hlZEZyYW1lc1w+</entry>
@@ -2351,6 +2349,8 @@
         <entry>gov_ranDomAnBookLocaleReportList</entry>
         <entry>pucEntp_generalInfo</entry>
         <entry>perCheckListTab</entry>
+        <entry>expe</entry>
+        <entry encoding="base64">XDxFQ1w+</entry>
       </history-search>
       <history-cmd>
         <entry>action AceAction</entry>
