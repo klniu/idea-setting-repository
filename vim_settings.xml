@@ -763,12 +763,12 @@
         <mark key="^" line="34" column="33" />
         <mark key="." line="7" column="43" />
       </file>
-      <file name="$USER_HOME$/code/pyutils/safetysystem/11.yaml" timestamp="1536627992369">
+      <file name="$USER_HOME$/code/pyutils/safetysystem/11.yaml" timestamp="1536629160452">
         <mark key="'" line="1" column="36" />
-        <mark key="[" line="181" column="8" />
-        <mark key="]" line="181" column="8" />
-        <mark key="." line="181" column="8" />
-        <mark key="^" line="181" column="8" />
+        <mark key="[" line="264" column="8" />
+        <mark key="]" line="264" column="8" />
+        <mark key="." line="264" column="8" />
+        <mark key="^" line="264" column="8" />
       </file>
       <file name="D:/code/java/jeesite/src/main/java/com/thinkgem/jeesite/modules/sys/web/LoginController.java" timestamp="1519523220496">
         <mark key="'" line="62" column="14" />
@@ -1252,12 +1252,12 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/code/pyutils/safetysystem/clickprocess.py" timestamp="1536571507333">
-        <mark key="'" line="13" column="67" />
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="84" column="0" />
-        <mark key="." line="84" column="0" />
-        <mark key="^" line="83" column="119" />
+      <file name="$USER_HOME$/code/pyutils/safetysystem/clickprocess.py" timestamp="1536632266768">
+        <mark key="'" line="59" column="4" />
+        <mark key="[" line="142" column="31" />
+        <mark key="]" line="142" column="39" />
+        <mark key="^" line="142" column="39" />
+        <mark key="." line="142" column="39" />
       </file>
       <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/entity/Detection.java" timestamp="1523609356505">
         <mark key="'" line="75" column="12" />
@@ -2044,7 +2044,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="105" column="16" filename="$USER_HOME$/code/pyutils/voc/bolinhandler.py" />
       <jump line="52" column="10" filename="$USER_HOME$/code/pyutils/voc/bolinhandler.py" />
       <jump line="193" column="100" filename="$USER_HOME$/code/pyutils/voc/bolinhandler.py" />
       <jump line="0" column="0" filename="$USER_HOME$/code/pyutils/voc/bolinhandler.py" />
@@ -2085,7 +2084,6 @@
       <jump line="146" column="42" filename="$USER_HOME$/code/pyutils/auto/ClickAllLinks.py" />
       <jump line="68" column="9" filename="$USER_HOME$/code/pyutils/auto/ClickAllLinks.py" />
       <jump line="54" column="19" filename="$USER_HOME$/code/pyutils/safetysystem/base.py" />
-      <jump line="60" column="0" filename="$USER_HOME$/code/pyutils/safetysystem/clickprocess.py" />
       <jump line="27" column="33" filename="$USER_HOME$/code/pyutils/safetysystem/clickprocess.py" />
       <jump line="101" column="32" filename="$USER_HOME$/code/pyutils/safetysystem/clickprocess.py" />
       <jump line="0" column="0" filename="$USER_HOME$/code/pyutils/safetysystem/clickprocess.py" />
@@ -2144,6 +2142,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/code/pyutils/auto/ClickAllLinks.py" />
       <jump line="17" column="38" filename="$USER_HOME$/code/pyutils/safetysystem/parseyaml.py" />
       <jump line="1" column="36" filename="$USER_HOME$/code/pyutils/safetysystem/11.yaml" />
+      <jump line="43" column="33" filename="$USER_HOME$/code/pyutils/safetysystem/clickprocess.py" />
+      <jump line="60" column="4" filename="$USER_HOME$/code/pyutils/safetysystem/clickprocess.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2166,8 +2166,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAtIC95dHNhZmUvYW5Cb29rUGxhbi9nb3ZfcmFuRG9tQW5Cb29rTG9jYWxlUmVwb3J0TGlzdC5qc3A/dFR5cGU9MSAjIOiuoeWIkuWGheaJp+azlQo=</text>
+      <register name="&quot;" type="4">
+        <text>度</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2274,57 +2274,56 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>open</text>
+        <text>度</text>
       </register>
       <register name="/" type="4">
-        <text>todo</text>
+        <text>process</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxmLmIuZmluZF9lbGVtZW50X2J5X3hwYXRoKHBhdGgpLmNsaWNrKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcm9ncmVzc1sxXSA9IGkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAtIC95dHNhZmUvYW5Cb29rUGxhbi9nb3ZfcmFuRG9tQW5Cb29rTG9jYWxlUmVwb3J0TGlzdC5qc3A/dFR5cGU9MSAjIOiuoeWIkuWGheaJp+azlQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gLTEK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAtIC95dHNhZmUvaW50ZXJtZWRpYXJ5L3NhZmV0eVJldmlld09yZ2FuVEpUYWIuanNwICMg57uf6K6h5YiG5p6QCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMg5a2X56ym77yM5p+l5om+cGF0aOWvueW6lOeahOWFg+e0oO+8jOW5tueCueWHu++8jOebtOWIsOacieWFg+e0oOS4jeWtmOWcqOS4uuatou+8jOWmguaenOaYr+S4gOS4quWIl+ihqO+8jOWImeS7juWIl+ihqOS4reWPluWFg+e0oOadpeabv+aNonBhdGgK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIAo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuX2NoaWxkX29wZXJhdGUob3AuY2hpbGRfb3BlcmF0aW9ucykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIHBhdGggaW4gb3AucGF0aDoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxmLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciBpIGluIHJhbmdlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdoaWxlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>%s/process/progress/gc</text>
       </register>
     </registers>
     <search>
-      <last-search>todo</last-search>
+      <last-search>process</last-search>
       <last-offset />
-      <last-pattern>todo</last-pattern>
-      <last-replace />
-      <last-substitute>',</last-substitute>
+      <last-pattern>process</last-pattern>
+      <last-replace>progress</last-replace>
+      <last-substitute>process</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>beha</entry>
         <entry encoding="base64">XDxyZXR1cm5cPg==</entry>
         <entry>unlock</entry>
         <entry encoding="base64">XDxwYXNzX3hwYXRoXD4=</entry>
@@ -2344,9 +2343,9 @@
         <entry>tab</entry>
         <entry>switch</entry>
         <entry>todo</entry>
+        <entry>process</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLzYuMC4wLzUuMi45L2dj</entry>
         <entry>action AceAction</entry>
         <entry encoding="base64">JzwsJz5zL2Rpc3RhbmNlL2hlaWdodC9nYw==</entry>
         <entry>%s/return String.format/throw new InvalidDataException(String.format/gc</entry>
@@ -2366,6 +2365,7 @@
         <entry>action PreviousTab</entry>
         <entry>action ReformatCode</entry>
         <entry>w</entry>
+        <entry>%s/process/progress/gc</entry>
       </history-cmd>
       <history-expr />
       <history-input />
