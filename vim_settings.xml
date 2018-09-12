@@ -1259,12 +1259,12 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/code/pyutils/safetysystem/clickprocess.py" timestamp="1536722798957">
-        <mark key="'" line="129" column="16" />
-        <mark key="[" line="144" column="0" />
-        <mark key="]" line="144" column="0" />
-        <mark key="." line="144" column="0" />
-        <mark key="^" line="138" column="25" />
+      <file name="$USER_HOME$/code/pyutils/safetysystem/clickprocess.py" timestamp="1536726274529">
+        <mark key="'" line="169" column="17" />
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="48" />
+        <mark key="^" line="206" column="24" />
+        <mark key="." line="106" column="0" />
       </file>
       <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/entity/Detection.java" timestamp="1523609356505">
         <mark key="'" line="75" column="12" />
@@ -2051,7 +2051,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="4" filename="$USER_HOME$/code/pyutils/safetysystem/11.yaml" />
       <jump line="38" column="0" filename="$USER_HOME$/code/pyutils/safetysystem/systems.py" />
       <jump line="250" column="0" filename="$USER_HOME$/code/pyutils/safetysystem/systems.py" />
       <jump line="159" column="88" filename="$USER_HOME$/code/pyutils/safetysystem/11.yaml" />
@@ -2151,6 +2150,7 @@
       <jump line="195" column="8" filename="$USER_HOME$/code/pyutils/safetysystem/9.yaml" />
       <jump line="192" column="8" filename="$USER_HOME$/code/pyutils/safetysystem/clickprocess.py" />
       <jump line="129" column="16" filename="$USER_HOME$/code/pyutils/safetysystem/clickprocess.py" />
+      <jump line="168" column="17" filename="$USER_HOME$/code/pyutils/safetysystem/clickprocess.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2174,7 +2174,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxmLl93YWl0KGkpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9jaGlsZF9vcGVyYXRlKG9wLmNoaWxkX29wZXJhdGlvbnMpCg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2281,49 +2281,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bm90IA==</text>
+        <text>._click_path(op.path % item)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfd2FpdFw+</text>
+        <text encoding="base64">XDxfY2hpbGRfb3BlcmF0ZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiBzZWxmLl93YWl0KGkpIGlzIE5vbmU6CiAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybgo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9jaGlsZF9vcGVyYXRlKG9wLmNoaWxkX29wZXJhdGlvbnMpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxmLl93YWl0KGkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCdsb29wIGNsaWNrOiAnLCBwYXRoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuX3dhaXQob3AucGFyYW0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhdGggPSBvcC5wYXRoICUgY250CiAgICAgICAgICAgICAgICBwcm9ncmVzc1sxXSA9IGNudAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxmLl93YWl0KGkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNudCArPSAxCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fd2FpdChvcC5wYXRoKS5jbGljaygpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBvcC5vcGVyYXRvciA9PSBPcGVyYXRvci5MSVNUX0NMSUNLOgogICAgICAgICAgICBmb3IgaSwgaXRlbSBpbiBlbnVtZXJhdGUob3AucGF0aCk6CiAgICAgICAgICAgICAgICBpZiBpIDw9IHByb2dyZXNzWzFdOgogICAgICAgICAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgICAgICAgICBwcmludCgnbGlzdCBjbGljazogJywgaXRlbSkKICAgICAgICAgICAgICAgIHNlbGYuX3dhaXQoaXRlbSkuY2xpY2soKQogICAgICAgICAgICAgICAgc2VsZi5fY2hpbGRfb3BlcmF0ZShvcC5jaGlsZF9vcGVyYXRpb25zKQogICAgICAgICAgICAgICAgcHJvZ3Jlc3NbMV0gPSBpCiAgICAgICAgZWxpZiBvcC5vcGVyYXRvciA9PSBPcGVyYXRvci5MSVNUX09QRU46CiAgICAgICAgICAgIGZvciBpLCBwYXRoIGluIGVudW1lcmF0ZShvcC5wYXRoKToKICAgICAgICAgICAgICAgIGlmIGkgPD0gcHJvZ3Jlc3NbMV06CiAgICAgICAgICAgICAgICAgICAgY29udGludWUKICAgICAgICAgICAgICAgIHByaW50KCdsaXN0IG9wZW46ICcsIHBhdGgpCiAgICAgICAgICAgICAgICBzZWxmLmIuZ2V0KHNlbGYuX2FkZF9iYXNlX3VybChwYXRoKSkKICAgICAgICAgICAgICAgIHNlbGYuX2NoaWxkX29wZXJhdGUob3AuY2hpbGRfb3BlcmF0aW9ucykKICAgICAgICAgICAgICAgIHByb2dyZXNzWzFdID0gaQogICAgICAgIGVsaWYgb3Aub3BlcmF0b3IgPT0gT3BlcmF0b3IuTE9PUF9DTElDSzoKICAgICAgICAgICAgaWYgaXNpbnN0YW5jZShvcC5wYXJhbSwgaW50KToKICAgICAgICAgICAgICAgIGNudCA9IG9wLnBhcmFtCiAgICAgICAgICAgICAgICB3aGlsZSBjbnQgPD0gcHJvZ3Jlc3NbMV06CiAgICAgICAgICAgICAgICAgICAgY250ICs9IDEKICAgICAgICAgICAgICAgIHBhdGggPSBvcC5wYXRoICUgY250CiAgICAgICAgICAgICAgICB3aGlsZSBsZW4oc2VsZi5iLmZpbmRfZWxlbWVudHNfYnlfeHBhdGgocGF0aCkpID4gMCBhbmQgc2VsZi5iLmZpbmRfZWxlbWVudF9ieV94cGF0aCgKICAgICAgICAgICAgICAgICAgICAgICAgcGF0aCkuaXNfZGlzcGxheWVkKCk6CiAgICAgICAgICAgICAgICAgICAgcHJpbnQoJ2xvb3AgY2xpY2s6ICcsIHBhdGgpCiAgICAgICAgICAgICAgICAgICAgc2VsZi5fd2FpdChwYXRoKQogICAgICAgICAgICAgICAgICAgIHNlbGYuX2NsaWNrX3BhdGgocGF0aCkKICAgICAgICAgICAgICAgICAgICBzZWxmLl9jaGlsZF9vcGVyYXRlKG9wLmNoaWxkX29wZXJhdGlvbnMpCiAgICAgICAgICAgICAgICAgICAgY250ICs9IDEKICAgICAgICAgICAgICAgICAgICBwYXRoID0gb3AucGF0aCAlIGNudAogICAgICAgICAgICAgICAgICAgIHByb2dyZXNzWzFdID0gY250CiAgICAgICAgICAgIGVsaWYgaXNpbnN0YW5jZShvcC5wYXJhbSwgbGlzdCk6CiAgICAgICAgICAgICAgICBmb3IgaSwgaXRlbSBpbiBlbnVtZXJhdGUob3AucGFyYW0pOgogICAgICAgICAgICAgICAgICAgIGlmIGkgPD0gcHJvZ3Jlc3NbMV06CiAgICAgICAgICAgICAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgICAgICAgICAgICAgcHJpbnQoJ2xvb3AgY2xpY2s6ICcsIGl0ZW0pCiAgICAgICAgICAgICAgICAgICAgc2VsZi5fd2FpdChvcC5wYXRoICUgaXRlbSkKICAgICAgICAgICAgICAgICAgICBzZWxmLl9jbGlja19wYXRoKG9wLnBhdGggJSBpdGVtKQogICAgICAgICAgICAgICAgICAgIHByb2dyZXNzWzFdID0gaQogICAgICAgIGVsaWYgb3Aub3BlcmF0b3IgPT0gT3BlcmF0b3IuTE9PUF9PUEVOOgogICAgICAgICAgICBmb3IgaSwgcGFyYW0gaW4gZW51bWVyYXRlKG9wLnBhcmFtKToKICAgICAgICAgICAgICAgIGlmIGkgPD0gcHJvZ3Jlc3NbMV06CiAgICAgICAgICAgICAgICAgICAgY29udGludWUKICAgICAgICAgICAgICAgIHBhdGggPSBvcC5wYXRoICUgcGFyYW0KICAgICAgICAgICAgICAgIHByaW50KCdsb29wIG9wZW46ICcsIHBhdGgpCiAgICAgICAgICAgICAgICBzZWxmLmIuZ2V0KHNlbGYuX2FkZF9iYXNlX3VybChwYXRoKSkKICAgICAgICAgICAgICAgIHNlbGYuX2NoaWxkX29wZXJhdGUob3AuY2hpbGRfb3BlcmF0aW9ucykKICAgICAgICAgICAgICAgIHByb2dyZXNzWzFdID0gaQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuX2NsaWNrX3BhdGgoaXRlbSkK</text>
+        <text encoding="base64">ICAgIGVsaWYgb3Aub3BlcmF0b3IgPT0gT3BlcmF0b3IuTE9PUF9PUEVOOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fY2xpY2tfcGF0aChvcC5wYXRoKQo=</text>
+        <text encoding="base64">ICAgIGVsaWYgb3Aub3BlcmF0b3IgPT0gT3BlcmF0b3IuTE9PUF9DTElDSzoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fY2xpY2tfcGF0aChvcC5wYXRoKQo=</text>
+        <text encoding="base64">ICAgIGVsaWYgb3Aub3BlcmF0b3IgPT0gT3BlcmF0b3IuTElTVF9PUEVOOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fY2xpY2tfcGF0aChvcC5wYXRoKQo=</text>
+        <text encoding="base64">ICAgIGlmIG9wLm9wZXJhdG9yID09IE9wZXJhdG9yLkxJU1RfQ0xJQ0s6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLSAvU3ludGhldGljYWxSaXNrL1Jpc2tTeW5BbmFseXNpcz9SaXNrVHlwZT0xICAjICDlronlhajpo47pmanliIbmnpAK</text>
+        <text encoding="base64">ICAgICAgICBlbGlmIG9wLm9wZXJhdG9yID09IE9wZXJhdG9yLkNMSUNLX0lOX0ZSQU1FOgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action PreviousTab</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfd2FpdFw+</last-search>
+      <last-search encoding="base64">XDxfY2hpbGRfb3BlcmF0ZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfd2FpdFw+</last-pattern>
+      <last-pattern encoding="base64">XDxfY2hpbGRfb3BlcmF0ZVw+</last-pattern>
       <last-replace>progress</last-replace>
       <last-substitute>process</last-substitute>
       <last-dir>1</last-dir>
@@ -2331,7 +2331,6 @@
     </search>
     <history>
       <history-search>
-        <entry>事故图表统计</entry>
         <entry>contain</entry>
         <entry>contains</entry>
         <entry>real</entry>
@@ -2351,6 +2350,7 @@
         <entry>AddTempUnit</entry>
         <entry encoding="base64">XDxfb3BlcmF0ZVw+</entry>
         <entry encoding="base64">XDxfd2FpdFw+</entry>
+        <entry encoding="base64">XDxfY2hpbGRfb3BlcmF0ZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>action AceAction</entry>
@@ -2371,8 +2371,8 @@
         <entry>action NextTab</entry>
         <entry>w</entry>
         <entry>%s/process/progress/gc</entry>
-        <entry>action ReformatCode</entry>
         <entry>action PreviousTab</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
