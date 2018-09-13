@@ -1268,12 +1268,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/code/pyutils/safetysystem/clickprocess.py" timestamp="1536812355095">
-        <mark key="'" line="285" column="31" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="34" column="31" />
-        <mark key="." line="285" column="31" />
-        <mark key="^" line="285" column="31" />
+      <file name="$USER_HOME$/code/pyutils/safetysystem/clickprocess.py" timestamp="1536819162044">
+        <mark key="[" line="283" column="32" />
+        <mark key="]" line="283" column="32" />
+        <mark key="." line="283" column="32" />
+        <mark key="^" line="286" column="52" />
       </file>
       <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/entity/Detection.java" timestamp="1523609356505">
         <mark key="'" line="75" column="12" />
@@ -1585,10 +1584,11 @@
         <mark key="[" line="86" column="26" />
         <mark key="]" line="86" column="45" />
       </file>
-      <file name="$USER_HOME$/code/pyutils/web/test.py" timestamp="1536813793353">
-        <mark key="[" line="15" column="22" />
-        <mark key="]" line="15" column="23" />
-        <mark key="." line="15" column="23" />
+      <file name="$USER_HOME$/code/pyutils/web/test.py" timestamp="1536816846731">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="42" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="17" column="24" />
       </file>
       <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/shiro/JwtAuthenticationFilter.java" timestamp="1517649706908">
         <mark key="'" line="45" column="26" />
@@ -1871,12 +1871,12 @@
         <mark key="^" line="39" column="50" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/code/pyutils/safetysystem/config/22.yaml" timestamp="1536811792942">
+      <file name="$USER_HOME$/code/pyutils/safetysystem/config/22.yaml" timestamp="1536819218256">
         <mark key="'" line="5" column="10" />
-        <mark key="[" line="5" column="10" />
-        <mark key="]" line="5" column="16" />
+        <mark key="[" line="1" column="43" />
+        <mark key="]" line="1" column="43" />
         <mark key="^" line="14" column="7" />
-        <mark key="." line="15" column="8" />
+        <mark key="." line="1" column="43" />
       </file>
       <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/ISealService.java" timestamp="1524021298114">
         <mark key="'" line="26" column="16" />
@@ -2082,7 +2082,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="26" filename="$USER_HOME$/code/pyutils/safetysystem/11.yaml" />
       <jump line="0" column="0" filename="$USER_HOME$/code/pyutils/auto/ClickAllLinks.py" />
       <jump line="17" column="38" filename="$USER_HOME$/code/pyutils/safetysystem/parseyaml.py" />
       <jump line="1" column="36" filename="$USER_HOME$/code/pyutils/safetysystem/11.yaml" />
@@ -2179,9 +2178,10 @@
       <jump line="272" column="16" filename="$USER_HOME$/code/pyutils/safetysystem/clickprocess.py" />
       <jump line="19" column="10" filename="$USER_HOME$/code/pyutils/safetysystem/clickprocess.py" />
       <jump line="3" column="6" filename="$USER_HOME$/code/pyutils/safetysystem/config/22.yaml" />
-      <jump line="5" column="10" filename="$USER_HOME$/code/pyutils/safetysystem/config/22.yaml" />
       <jump line="302" column="34" filename="$USER_HOME$/code/pyutils/safetysystem/clickprocess.py" />
       <jump line="285" column="31" filename="$USER_HOME$/code/pyutils/safetysystem/clickprocess.py" />
+      <jump line="66" column="30" filename="$USER_HOME$/code/pyutils/safetysystem/config/22.yaml" />
+      <jump line="5" column="10" filename="$USER_HOME$/code/pyutils/safetysystem/config/22.yaml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2204,8 +2204,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGIuc3dpdGNoX3RvLmRlZmF1bHRfY29udGVudCgpCg==</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2312,42 +2312,42 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>aaa</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50KDExMSkK</text>
+        <text encoding="base64">ICAgIHByaW50KGIuZmluZF9lbGVtZW50c19ieV94cGF0aCgnLy9hJykpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGIuc3dpdGNoX3RvLmRlZmF1bHRfY29udGVudCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuX2NvbmZpcm0oKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGIuc3dpdGNoX3RvLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aW1lLnNsZWVwKDUpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgIGIuc3dpdGNoX3RvLmRlZmF1bHRfY29udGVudCgpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGIuc3dpdGNoX3RvLgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">Yi4K</text>
       </register>
-      <register name="5" type="8">
+      <register name="8" type="8">
         <text>self.
 self.
 self.</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ+eCueWHuyVz6aG16Z2i5YaF6ZO+5o6lJyAlIHVybCkK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuYi5zd2l0Y2hfdG8uZGVmYXVsdF9jb250ZW50KCkK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBlCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGUgPSBzZWxmLmIuZmluZF9lbGVtZW50X2J5X3hwYXRoKHBhdGgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ+eCueWHuyVz6aG16Z2i5YaF6ZO+5o6lJyAlIHVybCkK</text>
       </register>
       <register name=":" type="4">
         <text>action NextTab</text>
