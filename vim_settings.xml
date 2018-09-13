@@ -975,7 +975,7 @@
         <mark key="." line="101" column="0" />
         <mark key="^" line="16" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536823173230">
+      <file name="/Dummy.txt" timestamp="1536825539372">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
@@ -1274,12 +1274,12 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/code/pyutils/safetysystem/clickprocess.py" timestamp="1536823494827">
-        <mark key="'" line="242" column="18" />
-        <mark key="[" line="202" column="0" />
-        <mark key="]" line="202" column="0" />
-        <mark key="." line="202" column="0" />
-        <mark key="^" line="360" column="29" />
+      <file name="$USER_HOME$/code/pyutils/safetysystem/clickprocess.py" timestamp="1536826159627">
+        <mark key="'" line="270" column="10" />
+        <mark key="[" line="32" column="8" />
+        <mark key="]" line="32" column="8" />
+        <mark key="." line="32" column="8" />
+        <mark key="^" line="32" column="9" />
       </file>
       <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/entity/Detection.java" timestamp="1523609356505">
         <mark key="'" line="75" column="12" />
@@ -2089,8 +2089,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="119" column="37" filename="$USER_HOME$/code/pyutils/safetysystem/clickprocess.py" />
-      <jump line="148" column="37" filename="$USER_HOME$/code/pyutils/safetysystem/clickprocess.py" />
       <jump line="156" column="13" filename="$USER_HOME$/code/pyutils/safetysystem/clickprocess.py" />
       <jump line="157" column="31" filename="$USER_HOME$/code/pyutils/safetysystem/clickprocess.py" />
       <jump line="83" column="33" filename="$USER_HOME$/code/pyutils/safetysystem/clickprocess.py" />
@@ -2189,6 +2187,8 @@
       <jump line="160" column="12" filename="$USER_HOME$/code/pyutils/safetysystem/clickprocess.py" />
       <jump line="202" column="18" filename="$USER_HOME$/code/pyutils/safetysystem/clickprocess.py" />
       <jump line="242" column="18" filename="$USER_HOME$/code/pyutils/safetysystem/clickprocess.py" />
+      <jump line="286" column="23" filename="$USER_HOME$/code/pyutils/safetysystem/clickprocess.py" />
+      <jump line="270" column="10" filename="$USER_HOME$/code/pyutils/safetysystem/clickprocess.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2211,8 +2211,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ2NsaWNrX2luX29wZW4nLCBvcC5jbGlja19pbl9vcGVuKQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2319,7 +2319,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'config/' + no + &quot;.yaml&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>click_in</text>
