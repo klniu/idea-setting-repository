@@ -1052,12 +1052,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/pyutils/safetysystem/parseyaml.py" timestamp="1536910533233">
+      <file name="$USER_HOME$/code/pyutils/safetysystem/parseyaml.py" timestamp="1536911979413">
         <mark key="'" line="19" column="38" />
-        <mark key="[" line="47" column="25" />
-        <mark key="]" line="48" column="20" />
-        <mark key="." line="48" column="20" />
-        <mark key="^" line="48" column="20" />
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
+        <mark key="^" line="68" column="24" />
       </file>
       <file name="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/RepairServiceImplTest.java" timestamp="1523764870338">
         <mark key="'" line="41" column="46" />
@@ -1274,12 +1274,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/code/pyutils/safetysystem/clickprocess.py" timestamp="1536910657699">
-        <mark key="'" line="370" column="42" />
-        <mark key="[" line="213" column="0" />
-        <mark key="]" line="213" column="0" />
-        <mark key="." line="213" column="0" />
-        <mark key="^" line="32" column="28" />
+      <file name="$USER_HOME$/code/pyutils/safetysystem/clickprocess.py" timestamp="1536911982050">
+        <mark key="'" line="95" column="30" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/entity/Detection.java" timestamp="1523609356505">
         <mark key="'" line="75" column="12" />
@@ -2089,7 +2088,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="0" filename="$USER_HOME$/code/pyutils/safetysystem/9.yaml" />
       <jump line="56" column="6" filename="$USER_HOME$/code/pyutils/safetysystem/9.yaml" />
       <jump line="52" column="20" filename="$USER_HOME$/code/pyutils/safetysystem/9.yaml" />
       <jump line="312" column="0" filename="$USER_HOME$/code/pyutils/safetysystem/9.yaml" />
@@ -2189,6 +2187,7 @@
       <jump line="305" column="33" filename="$USER_HOME$/code/pyutils/safetysystem/clickprocess.py" />
       <jump line="36" column="13" filename="$USER_HOME$/code/pyutils/safetysystem/clickprocess.py" />
       <jump line="363" column="42" filename="$USER_HOME$/code/pyutils/safetysystem/clickprocess.py" />
+      <jump line="95" column="30" filename="$USER_HOME$/code/pyutils/safetysystem/clickprocess.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2212,7 +2211,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLnN5c3RlbS5wcm94eSkK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2319,7 +2318,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>http://localhost:8080</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfb3BlbmVkX2xpbmtzXD4=</text>
@@ -2328,31 +2327,31 @@
         <text encoding="base64">ICAgICAgICAgICAgcGF0aCA9IG9wLnBhdGggJSBwYXJhbQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLnN5c3RlbS5wcm94eSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBfZ2V0X2xvb3Bfb3Blbl9wYXRocyhvcDogT3BlcmF0aW9uKToKICAgICAgICByZXR1cm4gW29wLnBhdGggJSBwYXJhbQogICAgICAgIGlmIGlzaW5zdGFuY2UocGF0aCwgc3RyKSBhbmQgb3MucGF0aC5leGlzdHMocGF0aCk6CiAgICAgICAgICAgIHdpdGggb3BlbihwYXRoLCAncicpIGFzIGY6CiAgICAgICAgICAgICAgICByZXR1cm4gW2kuc3BsaXQoJyMnLCAyKVswXS5zdHJpcCgpIGZvciBpIGluIGYucmVhZGxpbmVzKCldCiAgICAgICAgcmV0dXJuIHBhdGgKCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc2VsZi5zeXN0ZW0ucHJveHkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIOmTvuaOpeWtmOWCqOWcqOaWh+S7tuS4rQogICAgICAgIGlmIGlzaW5zdGFuY2Uob3AucGF0aCwgc3RyKSBhbmQgb3MucGF0aC5leGlzdHMob3AucGF0aCk6CiAgICAgICAgICAgIHdpdGggb3BlbihvcC5wYXRoLCAncicpIGFzIGY6CiAgICAgICAgICAgICAgICBwYXRocyA9IFtpLnNwbGl0KCcjJywgMilbMF0uc3RyaXAoKSBmb3IgaSBpbiBmLnJlYWRsaW5lcygpXQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHBhdGhzID0gb3AucGF0aAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBwYXRoLmVuZHN3aXRoKCcjJyk6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGF0aCA9IHBhdGgK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGF0aHMgPSBwYXRoCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ2NsaWNrX2luX29wZW4nLCBvcC5jbGlja19pbl9vcGVuKQo=</text>
+        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBfZ2V0X2xvb3Bfb3Blbl9wYXRocyhvcDogT3BlcmF0aW9uKToKICAgICAgICByZXR1cm4gW29wLnBhdGggJSBwYXJhbQogICAgICAgIGlmIGlzaW5zdGFuY2UocGF0aCwgc3RyKSBhbmQgb3MucGF0aC5leGlzdHMocGF0aCk6CiAgICAgICAgICAgIHdpdGggb3BlbihwYXRoLCAncicpIGFzIGY6CiAgICAgICAgICAgICAgICByZXR1cm4gW2kuc3BsaXQoJyMnLCAyKVswXS5zdHJpcCgpIGZvciBpIGluIGYucmVhZGxpbmVzKCldCiAgICAgICAgcmV0dXJuIHBhdGgKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaHJlZiA9IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaHJlZiA9Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIOmTvuaOpeWtmOWCqOWcqOaWh+S7tuS4rQogICAgICAgIGlmIGlzaW5zdGFuY2Uob3AucGF0aCwgc3RyKSBhbmQgb3MucGF0aC5leGlzdHMob3AucGF0aCk6CiAgICAgICAgICAgIHdpdGggb3BlbihvcC5wYXRoLCAncicpIGFzIGY6CiAgICAgICAgICAgICAgICBwYXRocyA9IFtpLnNwbGl0KCcjJywgMilbMF0uc3RyaXAoKSBmb3IgaSBpbiBmLnJlYWRsaW5lcygpXQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHBhdGhzID0gb3AucGF0aAo=</text>
       </register>
       <register name=":" type="4">
         <text>action PreviousTab</text>
