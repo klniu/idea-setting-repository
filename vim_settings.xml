@@ -566,6 +566,13 @@
         <mark key="." line="80" column="63" />
         <mark key="^" line="80" column="63" />
       </file>
+      <file name="$USER_HOME$/code/vocs-react/src/entry/photo.tsx" timestamp="1537094058870">
+        <mark key="'" line="68" column="42" />
+        <mark key="[" line="68" column="49" />
+        <mark key="]" line="68" column="49" />
+        <mark key="." line="68" column="49" />
+        <mark key="^" line="68" column="49" />
+      </file>
       <file name="$USER_HOME$/code/ym/main.py" timestamp="1527927356382">
         <mark key="'" line="12" column="0" />
         <mark key="[" line="36" column="2027" />
@@ -1422,6 +1429,12 @@
         <mark key="^" line="0" column="1" />
         <mark key="." line="0" column="1" />
       </file>
+      <file name="$USER_HOME$/code/vocs-react/webpack.config.js" timestamp="1537093049837">
+        <mark key="[" line="132" column="26" />
+        <mark key="]" line="132" column="34" />
+        <mark key="." line="132" column="34" />
+        <mark key="^" line="132" column="34" />
+      </file>
       <file name="$USER_HOME$/code/pyutils/requirements.txt" timestamp="1536820351309">
         <mark key="[" line="3" column="6" />
         <mark key="]" line="4" column="10" />
@@ -2039,6 +2052,7 @@
         <mark key="^" line="104" column="53" />
         <mark key="." line="104" column="53" />
       </file>
+      <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/model_test.go" timestamp="1537092170696" />
       <file name="$USER_HOME$/code/ym/mail.py" timestamp="1527998962176">
         <mark key="'" line="25" column="4" />
         <mark key="[" line="19" column="12" />
@@ -2180,8 +2194,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="6" filename="$USER_HOME$/code/pyutils/safetysystem/9.yaml" />
-      <jump line="174" column="12" filename="$USER_HOME$/code/pyutils/safetysystem/clickprocess.py" />
       <jump line="9" column="44" filename="$USER_HOME$/code/pyutils/safetysystem/clickprocess.py" />
       <jump line="100" column="25" filename="$USER_HOME$/code/pyutils/safetysystem/clickprocess.py" />
       <jump line="110" column="0" filename="$USER_HOME$/code/pyutils/safetysystem/clickprocess.py" />
@@ -2280,6 +2292,8 @@
       <jump line="23" column="16" filename="$USER_HOME$/code/voc_ice/src/Helpers/helpers.js" />
       <jump line="65" column="15" filename="$USER_HOME$/code/voc_ice/src/pages/Component/components/ComponentTable/ComponentTable.jsx" />
       <jump line="80" column="18" filename="$USER_HOME$/code/voc_ice/src/pages/Component/components/ComponentTable/ComponentTable.jsx" />
+      <jump line="199" column="95" filename="$USER_HOME$/code/vocs-react/src/entry/photo.tsx" />
+      <jump line="70" column="42" filename="$USER_HOME$/code/vocs-react/src/entry/photo.tsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2303,7 +2317,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">JiYg</text>
+        <text>]</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2410,7 +2424,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JiYg</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>Install</text>
@@ -2419,31 +2433,31 @@
         <text encoding="base64">ICByZXR1cm4gYXhpb3MoewogICAgdXJsOiAnL2FwaS9mYWN0b3J5JywKICAgIG1ldGhvZDogJ3B1dCcsCiAgICBkYXRhOiBmYWN0b3J5LAogIH0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh2YWx1ZSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY2hlY2tSZXNwb25zZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLnN0YXRlLnVuaXRJbnN0YWxscyk7Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZ2V0RmFjdG9yeUlkIH0gZnJvbSAnLi4vSGVscGVycy9oZWxwZXJzJzsK</text>
+        <text encoding="base64">ICAgICAgY2hlY2tSZXNwb25zZSgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zdCBpZCA9IGdldEZhY3RvcnlJZCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zdCBpZCA9IGdldEZhY3RvcnlJZCgpOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgZ2V0RmFjdG9yeUlkIH0gZnJvbSAnLi4vSGVscGVycy9oZWxwZXJzJzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZXhwb3J0IGFzeW5jIGZ1bmN0aW9uIHVwZGF0ZUZhY3RvcnkoZmFjdG9yeSkgewogIHJldHVybiBheGlvcyh7CiAgICB1cmw6ICcvYXBpL2ZhY3RvcnknLAogICAgbWV0aG9kOiAncHV0JywKICAgIGRhdGE6IGZhY3RvcnksCiAgfSk7Cn0K</text>
+        <text encoding="base64">ICBjb25zdCBpZCA9IGdldEZhY3RvcnlJZCgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICByZXR1cm4gYXhpb3MoYC9hcGkvZmFjdG9yeS8ke2lkfWApOwo=</text>
+        <text encoding="base64">ICBjb25zdCBpZCA9IGdldEZhY3RvcnlJZCgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIGdldEZhY3RvcnlJZCgpIHsKICByZXR1cm4gbG9jYWxTdG9yYWdlLmdldEl0ZW0oJ2ZhY3RvcnlJZCcpOwp9CmV4cG9ydCBmdW5jdGlvbiBzZXRGYWN0b3J5SWQoZmFjdG9yeUlkKSB7CiAgcmV0dXJuIGxvY2FsU3RvcmFnZS5zZXRJdGVtKCdmYWN0b3J5SWQnLCBmYWN0b3J5SWQpOwp9Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGFzeW5jIGZ1bmN0aW9uIHVwZGF0ZUZhY3RvcnkoZmFjdG9yeSkgewogIHJldHVybiBheGlvcyh7CiAgICB1cmw6ICcvYXBpL2ZhY3RvcnknLAogICAgbWV0aG9kOiAncHV0JywKICAgIGRhdGE6IGZhY3RvcnksCiAgfSk7Cn0K</text>
       </register>
       <register name=":" type="4">
         <text>action NextTab</text>
@@ -2456,7 +2470,7 @@
       <last-replace>Component</last-replace>
       <last-substitute>Install</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
