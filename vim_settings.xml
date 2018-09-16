@@ -506,6 +506,13 @@
         <mark key="^" line="112" column="15" />
         <mark key="." line="112" column="46" />
       </file>
+      <file name="$USER_HOME$/code/pyutils/voc/bolinhandler.py" timestamp="1537094571531">
+        <mark key="'" line="133" column="25" />
+        <mark key="[" line="119" column="33" />
+        <mark key="]" line="119" column="42" />
+        <mark key="^" line="119" column="42" />
+        <mark key="." line="119" column="42" />
+      </file>
       <file name="D:/code/web/voc-web/src/app/routes/base/base.module.ts" timestamp="1520141756916">
         <mark key="'" line="12" column="0" />
         <mark key="[" line="5" column="0" />
@@ -2022,7 +2029,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="15" filename="$USER_HOME$/code/LuckyCoinContract/contracts/LuckyCoinV0.sol" />
       <jump line="11" column="29" filename="$USER_HOME$/code/LuckyCoinContract/node_modules/openzeppelin-solidity/contracts/token/ERC20/BasicToken.sol" />
       <jump line="3" column="41" filename="$USER_HOME$/code/LuckyCoinContract/contracts/LuckyCoinV0.sol" />
       <jump line="16" column="16" filename="$USER_HOME$/code/LuckyCoinContract/contracts/LuckyCoinV0.sol" />
@@ -2122,6 +2128,7 @@
       <jump line="24" column="27" filename="$USER_HOME$/code/Ethereum/LuckCoinReRun/main.py" />
       <jump line="97" column="39" filename="$USER_HOME$/code/webutils/map/安监系统数据统计/各省份系统数量与监测预警系统数量统计.html" />
       <jump line="71" column="14" filename="$USER_HOME$/code/pyutils/voc/bolinhandler.py" />
+      <jump line="133" column="25" filename="$USER_HOME$/code/pyutils/voc/bolinhandler.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2144,8 +2151,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSB0eXBpbmcgaW1wb3J0IExpc3QsIE9wdGlvbmFsCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">OS45IGlmIGNvbS5oZWlnaHQgPiA5LjkgZWxzZSBjb20uaGVpZ2h0</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2252,13 +2259,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>List[Optional[Seal]]</text>
+        <text encoding="base64">OS45IGlmIGNvbS5oZWlnaHQgPiA5LjkgZWxzZSBjb20uaGVpZ2h0</text>
       </register>
       <register name="/" type="4">
         <text>unlock</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">QGRhdGFjbGFzcwo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">OS45IGlmIGNvbS5kaXN0YW5jZSA+IDkuOSBlbHNlIGNvbS5kaXN0YW5jZQ==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZnJvbSB0eXBpbmcgaW1wb3J0IExpc3QsIE9wdGlvbmFsCg==</text>
