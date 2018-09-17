@@ -26,6 +26,7 @@
         <mark key="." line="52" column="0" />
         <mark key="^" line="60" column="13" />
       </file>
+      <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/UserServiceImpl.java" timestamp="1537168091216" />
       <file name="$USER_HOME$/code/xauto/xkeys/RunSelection.py" timestamp="1531386918331">
         <mark key="[" line="10" column="28" />
         <mark key="]" line="10" column="28" />
@@ -420,6 +421,11 @@
         <mark key="^" line="50" column="25" />
         <mark key="." line="50" column="25" />
       </file>
+      <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/web/UserController.java" timestamp="1537168066941">
+        <mark key="'" line="38" column="50" />
+        <mark key="[" line="36" column="34" />
+        <mark key="]" line="36" column="45" />
+      </file>
       <file name="$USER_HOME$/sync/temp/leetcode/src/Main.java" timestamp="1531050616095">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -528,6 +534,7 @@
         <mark key="^" line="14" column="10" />
         <mark key="." line="14" column="10" />
       </file>
+      <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/IUserService.java" timestamp="1537168068755" />
       <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/common/GlobalExceptionHandler.java" timestamp="1530782184870">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -680,7 +687,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="13" filename="$USER_HOME$/code/voc/src/test/java/com/cnvoc/voc/service/impl/ComponentServiceImplTest.java" />
       <jump line="263" column="16" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/ComponentServiceImpl.java" />
       <jump line="264" column="32" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/ComponentServiceImpl.java" />
       <jump line="270" column="40" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/ComponentServiceImpl.java" />
@@ -780,6 +786,7 @@
       <jump line="26" column="16" filename="$USER_HOME$/code/yangmao/helpers/helper.py" />
       <jump line="2" column="51" filename="$USER_HOME$/code/yangmao/module/modules.py" />
       <jump line="0" column="0" filename="$USER_HOME$/code/yangmao/fetishcoin/main.py" />
+      <jump line="38" column="50" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/web/UserController.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -803,7 +810,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>]</text>
+        <text>RequestParam</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
