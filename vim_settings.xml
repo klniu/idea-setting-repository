@@ -733,12 +733,12 @@
         <mark key="." line="351" column="37" />
         <mark key="^" line="351" column="37" />
       </file>
-      <file name="$USER_HOME$/code/voc_ice/src/routerConfig.js" timestamp="1537173222058">
-        <mark key="'" line="111" column="4" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-        <mark key="^" line="25" column="19" />
+      <file name="$USER_HOME$/code/voc_ice/src/routerConfig.js" timestamp="1537174422695">
+        <mark key="'" line="117" column="27" />
+        <mark key="[" line="25" column="44" />
+        <mark key="]" line="25" column="47" />
+        <mark key="." line="25" column="47" />
+        <mark key="^" line="25" column="47" />
       </file>
       <file name="$USER_HOME$/Downloads/brozzler-master/brozzler/worker.py" timestamp="1535558199387">
         <mark key="'" line="399" column="30" />
@@ -1840,10 +1840,10 @@
         <mark key="." line="42" column="3" />
         <mark key="^" line="42" column="3" />
       </file>
-      <file name="$USER_HOME$/code/voc_ice/src/router.jsx" timestamp="1537173236705">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/code/voc_ice/src/router.jsx" timestamp="1537174392482">
+        <mark key="[" line="14" column="33" />
+        <mark key="]" line="14" column="33" />
+        <mark key="." line="14" column="33" />
         <mark key="^" line="14" column="42" />
       </file>
       <file name="$USER_HOME$/code/LuckyCoinContract/contracts/Airdrop.sol" timestamp="1533006249052">
@@ -2230,6 +2230,12 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/voc_ice/src/layouts/BasicLayout/scss/base.scss" timestamp="1537174740531">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="24" />
+        <mark key="]" line="0" column="25" />
+        <mark key="." line="0" column="25" />
+      </file>
       <file name="D:/code/web/voc-ui/src/app/routes/ldar/unit/install-form.component.ts" timestamp="1522227970326">
         <mark key="'" line="107" column="56" />
         <mark key="[" line="88" column="0" />
@@ -2239,8 +2245,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="95" column="14" filename="$USER_HOME$/code/pyutils/safetysystem/9.yaml" />
-      <jump line="223" column="38" filename="$USER_HOME$/code/pyutils/safetysystem/9.yaml" />
       <jump line="170" column="20" filename="$USER_HOME$/code/pyutils/safetysystem/9.yaml" />
       <jump line="177" column="38" filename="$USER_HOME$/code/pyutils/safetysystem/9.yaml" />
       <jump line="241" column="31" filename="$USER_HOME$/code/pyutils/safetysystem/9.yaml" />
@@ -2339,6 +2343,8 @@
       <jump line="118" column="27" filename="$USER_HOME$/code/voc_ice/src/routerConfig.js" />
       <jump line="101" column="23" filename="$USER_HOME$/code/voc_ice/src/routerConfig.js" />
       <jump line="112" column="4" filename="$USER_HOME$/code/voc_ice/src/routerConfig.js" />
+      <jump line="117" column="27" filename="$USER_HOME$/code/voc_ice/src/routerConfig.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/voc_ice/src/layouts/BasicLayout/scss/base.scss" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2361,8 +2367,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMuY2hpbGRyZW4pCg==</text>
+      <register name="&quot;" type="4">
+        <text>MainLayout</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2469,49 +2475,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>BasicLayout</text>
+        <text>MainLayout</text>
       </register>
       <register name="/" type="4">
-        <text>BasicLayout</text>
+        <text>1200</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICByZXR1cm4gYXhpb3MoewogICAgdXJsOiAnL2FwaS9mYWN0b3J5JywKICAgIG1ldGhvZDogJ3B1dCcsCiAgICBkYXRhOiBmYWN0b3J5LAogIH0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMuY2hpbGRyZW4pCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyh0aGlzLnByb3BzLmNoaWxkcmVuKQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IEJhc2ljTGF5b3V0IGZyb20gJy4vbGF5b3V0cy9CYXNpY0xheW91dC9CYXNpY0xheW91dCc7Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">aW1wb3J0IE1haW5MYXlvdXQgZnJvbSAnLi9sYXlvdXRzL01haW5MYXlvdXQnOwo=</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMuY2hpbGRyZW4pCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyh0aGlzLnByb3BzLmNoaWxkcmVuKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IEJhc2ljTGF5b3V0IGZyb20gJy4vbGF5b3V0cy9CYXNpY0xheW91dC9CYXNpY0xheW91dCc7Cg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZ2V0RmFjdG9yeUlkIH0gZnJvbSAnLi4vSGVscGVycy9oZWxwZXJzJzsK</text>
+        <text encoding="base64">aW1wb3J0IE1haW5MYXlvdXQgZnJvbSAnLi9sYXlvdXRzL01haW5MYXlvdXQnOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwYXJhbS5lbnRpdHkuZmFjdG9yeUlkID0gZ2V0RmFjdG9yeUlkKCk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgZ2V0RmFjdG9yeUlkIH0gZnJvbSAnLi4vSGVscGVycy9oZWxwZXJzJzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgc2hhMjU2IH0gZnJvbSAnanMtc2hhMjU2JzsK</text>
+        <text encoding="base64">ICBwYXJhbS5lbnRpdHkuZmFjdG9yeUlkID0gZ2V0RmFjdG9yeUlkKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHNoYTI1Ngpjb25zdCBzaGEyNTYgPSByZXF1aXJlKCdqcy1zaGEyNTYnKTsK</text>
+        <text encoding="base64">aW1wb3J0IHsgc2hhMjU2IH0gZnJvbSAnanMtc2hhMjU2JzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGhlYWRlcnM6IHsgJ0NvbnRlbnQtVHlwZSc6ICdhcHBsaWNhdGlvbi94LXd3dy1mb3JtLXVybGVuY29kZWQnIH0sCg==</text>
+        <text encoding="base64">aW1wb3J0IHNoYTI1Ngpjb25zdCBzaGEyNTYgPSByZXF1aXJlKCdqcy1zaGEyNTYnKTsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/BasicLayout/MainLayout/gc</text>
       </register>
     </registers>
     <search>
-      <last-search>BasicLayout</last-search>
+      <last-search>1200</last-search>
       <last-offset />
-      <last-pattern>BasicLayout</last-pattern>
+      <last-pattern>1200</last-pattern>
       <last-replace>MainLayout</last-replace>
       <last-substitute>BasicLayout</last-substitute>
       <last-dir>1</last-dir>
@@ -2519,7 +2525,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxvbkNsaWNrXD4=</entry>
         <entry>api</entry>
         <entry encoding="base64">XDxkYXRhXD4=</entry>
         <entry>console</entry>
@@ -2539,6 +2544,7 @@
         <entry>print</entry>
         <entry>seal.no</entry>
         <entry>BasicLayout</entry>
+        <entry>1200</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyQvLC9nYw==</entry>
