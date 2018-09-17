@@ -733,12 +733,11 @@
         <mark key="." line="351" column="37" />
         <mark key="^" line="351" column="37" />
       </file>
-      <file name="$USER_HOME$/code/voc_ice/src/routerConfig.js" timestamp="1537174422695">
-        <mark key="'" line="117" column="27" />
-        <mark key="[" line="25" column="44" />
-        <mark key="]" line="25" column="47" />
-        <mark key="." line="25" column="47" />
-        <mark key="^" line="25" column="47" />
+      <file name="$USER_HOME$/code/voc_ice/src/routerConfig.js" timestamp="1537175767696">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/brozzler-master/brozzler/worker.py" timestamp="1535558199387">
         <mark key="'" line="399" column="30" />
@@ -1120,7 +1119,8 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/code/voc_ice/src/menuConfig.js" timestamp="1537168879079">
+      <file name="$USER_HOME$/code/voc_ice/src/menuConfig.js" timestamp="1537175532484">
+        <mark key="'" line="128" column="7" />
         <mark key="[" line="133" column="12" />
         <mark key="]" line="133" column="20" />
         <mark key="." line="133" column="20" />
@@ -1840,11 +1840,11 @@
         <mark key="." line="42" column="3" />
         <mark key="^" line="42" column="3" />
       </file>
-      <file name="$USER_HOME$/code/voc_ice/src/router.jsx" timestamp="1537174392482">
-        <mark key="[" line="14" column="33" />
-        <mark key="]" line="14" column="33" />
-        <mark key="." line="14" column="33" />
-        <mark key="^" line="14" column="42" />
+      <file name="$USER_HOME$/code/voc_ice/src/router.jsx" timestamp="1537175564416">
+        <mark key="[" line="7" column="7" />
+        <mark key="]" line="7" column="25" />
+        <mark key="." line="7" column="7" />
+        <mark key="^" line="7" column="6" />
       </file>
       <file name="$USER_HOME$/code/LuckyCoinContract/contracts/Airdrop.sol" timestamp="1533006249052">
         <mark key="'" line="5" column="27" />
@@ -2216,6 +2216,10 @@
         <mark key="." line="454" column="92" />
         <mark key="^" line="454" column="89" />
       </file>
+      <file name="$USER_HOME$/code/voc_ice2/src/routerConfig.js" timestamp="1537175365549">
+        <mark key="[" line="16" column="12" />
+        <mark key="]" line="16" column="29" />
+      </file>
       <file name="$USER_HOME$/code/Ethereum/LuckCoinReRun/test.py" timestamp="1535892235753">
         <mark key="'" line="65" column="0" />
         <mark key="[" line="60" column="13" />
@@ -2245,10 +2249,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="170" column="20" filename="$USER_HOME$/code/pyutils/safetysystem/9.yaml" />
-      <jump line="177" column="38" filename="$USER_HOME$/code/pyutils/safetysystem/9.yaml" />
-      <jump line="241" column="31" filename="$USER_HOME$/code/pyutils/safetysystem/9.yaml" />
-      <jump line="349" column="31" filename="$USER_HOME$/code/pyutils/safetysystem/9.yaml" />
       <jump line="274" column="37" filename="$USER_HOME$/code/pyutils/safetysystem/9.yaml" />
       <jump line="240" column="25" filename="$USER_HOME$/code/pyutils/safetysystem/9.yaml" />
       <jump line="304" column="30" filename="$USER_HOME$/code/pyutils/safetysystem/9.yaml" />
@@ -2333,7 +2333,6 @@
       <jump line="80" column="18" filename="$USER_HOME$/code/voc_ice/src/pages/Component/components/ComponentTable/ComponentTable.jsx" />
       <jump line="199" column="95" filename="$USER_HOME$/code/vocs-react/src/entry/photo.tsx" />
       <jump line="70" column="42" filename="$USER_HOME$/code/vocs-react/src/entry/photo.tsx" />
-      <jump line="25" column="39" filename="$USER_HOME$/code/voc_ice/src/routerConfig.js" />
       <jump line="50" column="22" filename="$USER_HOME$/code/voc_ice/src/pages/UserLogin/UserLogin.jsx" />
       <jump line="131" column="7" filename="$USER_HOME$/code/voc_ice/src/pages/UserLogin/UserLogin.jsx" />
       <jump line="63" column="31" filename="$USER_HOME$/code/voc_ice/src/pages/UserLogin/actions.js" />
@@ -2345,6 +2344,11 @@
       <jump line="112" column="4" filename="$USER_HOME$/code/voc_ice/src/routerConfig.js" />
       <jump line="117" column="27" filename="$USER_HOME$/code/voc_ice/src/routerConfig.js" />
       <jump line="0" column="0" filename="$USER_HOME$/code/voc_ice/src/layouts/BasicLayout/scss/base.scss" />
+      <jump line="25" column="47" filename="$USER_HOME$/code/voc_ice/src/routerConfig.js" />
+      <jump line="116" column="4" filename="$USER_HOME$/code/voc_ice/src/routerConfig.js" />
+      <jump line="128" column="7" filename="$USER_HOME$/code/voc_ice/src/menuConfig.js" />
+      <jump line="52" column="30" filename="$USER_HOME$/code/voc_ice/src/routerConfig.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/voc_ice/src/routerConfig.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2367,8 +2371,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>MainLayout</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IEhlYWRlckZvb3RlckxheW91dCBmcm9tICcuL2xheW91dHMvSGVhZGVyRm9vdGVyTGF5b3V0JzsK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2475,50 +2479,50 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>MainLayout</text>
+        <text>BasicLayout</text>
       </register>
       <register name="/" type="4">
-        <text>1200</text>
+        <text>BasicLayout</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICByZXR1cm4gYXhpb3MoewogICAgdXJsOiAnL2FwaS9mYWN0b3J5JywKICAgIG1ldGhvZDogJ3B1dCcsCiAgICBkYXRhOiBmYWN0b3J5LAogIH0pOwo=</text>
+        <text encoding="base64">ICAgIGxheW91dDogSGVhZGVyRm9vdGVyTGF5b3V0LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IE1haW5MYXlvdXQgZnJvbSAnLi9sYXlvdXRzL01haW5MYXlvdXQnOwo=</text>
+        <text encoding="base64">aW1wb3J0IEhlYWRlckZvb3RlckxheW91dCBmcm9tICcuL2xheW91dHMvSGVhZGVyRm9vdGVyTGF5b3V0JzsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMuY2hpbGRyZW4pCg==</text>
+        <text encoding="base64">aW1wb3J0IE5vdEZvdW5kIGZyb20gJy4vcGFnZXMvTm90Rm91bmQnOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyh0aGlzLnByb3BzLmNoaWxkcmVuKQo=</text>
+        <text encoding="base64">aW1wb3J0IEhvbWUgZnJvbSAnLi9wYWdlcy9Ib21lJzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IEJhc2ljTGF5b3V0IGZyb20gJy4vbGF5b3V0cy9CYXNpY0xheW91dC9CYXNpY0xheW91dCc7Cg==</text>
+        <text encoding="base64">CmNvbnN0IHJvdXRlckNvbmZpZyA9IFsKICB7CiAgICBwYXRoOiAnLycsCiAgICBsYXlvdXQ6IEhlYWRlckZvb3RlckxheW91dCwKICAgIGNvbXBvbmVudDogSG9tZSwKICB9LAogIHsKICAgIHBhdGg6ICcqJywKICAgIGxheW91dDogSGVhZGVyRm9vdGVyTGF5b3V0LAogICAgY29tcG9uZW50OiBOb3RGb3VuZCwKICB9LApdOwoK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">aW1wb3J0IE1haW5MYXlvdXQgZnJvbSAnLi9sYXlvdXRzL01haW5MYXlvdXQnOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZ2V0RmFjdG9yeUlkIH0gZnJvbSAnLi4vSGVscGVycy9oZWxwZXJzJzsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMuY2hpbGRyZW4pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwYXJhbS5lbnRpdHkuZmFjdG9yeUlkID0gZ2V0RmFjdG9yeUlkKCk7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyh0aGlzLnByb3BzLmNoaWxkcmVuKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgc2hhMjU2IH0gZnJvbSAnanMtc2hhMjU2JzsK</text>
+        <text encoding="base64">aW1wb3J0IEJhc2ljTGF5b3V0IGZyb20gJy4vbGF5b3V0cy9CYXNpY0xheW91dC9CYXNpY0xheW91dCc7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHNoYTI1Ngpjb25zdCBzaGEyNTYgPSByZXF1aXJlKCdqcy1zaGEyNTYnKTsK</text>
+        <text encoding="base64">aW1wb3J0IE1haW5MYXlvdXQgZnJvbSAnLi9sYXlvdXRzL01haW5MYXlvdXQnOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>%s/BasicLayout/MainLayout/gc</text>
+        <text>%s/BasicLayout/HeaderFooterLayout/gc</text>
       </register>
     </registers>
     <search>
-      <last-search>1200</last-search>
+      <last-search>BasicLayout</last-search>
       <last-offset />
-      <last-pattern>1200</last-pattern>
-      <last-replace>MainLayout</last-replace>
+      <last-pattern>BasicLayout</last-pattern>
+      <last-replace>HeaderFooterLayout</last-replace>
       <last-substitute>BasicLayout</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
@@ -2543,11 +2547,10 @@
         <entry encoding="base64">XDxwYXNzd29yZF94cGF0aFw+</entry>
         <entry>print</entry>
         <entry>seal.no</entry>
-        <entry>BasicLayout</entry>
         <entry>1200</entry>
+        <entry>BasicLayout</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLyQvLC9nYw==</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gTmV4dFRhYg==</entry>
         <entry>%s/1.0.0-beta.9/1.0.1/gc</entry>
         <entry encoding="base64">JzwsJz5zLzYuMC4wLzUuMi45L2dj</entry>
@@ -2567,6 +2570,7 @@
         <entry>action NextTab</entry>
         <entry>action PreviousTab</entry>
         <entry>%s/BasicLayout/MainLayout/gc</entry>
+        <entry>%s/BasicLayout/HeaderFooterLayout/gc</entry>
       </history-cmd>
       <history-expr />
       <history-input />
