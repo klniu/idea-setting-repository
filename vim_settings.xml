@@ -1274,11 +1274,12 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/code/pyutils/safetysystem/clickprocess.py" timestamp="1536911982050">
-        <mark key="'" line="95" column="30" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
+      <file name="$USER_HOME$/code/pyutils/safetysystem/clickprocess.py" timestamp="1537153966866">
+        <mark key="'" line="177" column="28" />
+        <mark key="[" line="309" column="27" />
+        <mark key="]" line="309" column="30" />
+        <mark key="." line="309" column="30" />
+        <mark key="^" line="309" column="30" />
       </file>
       <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/entity/Detection.java" timestamp="1523609356505">
         <mark key="'" line="75" column="12" />
@@ -2088,7 +2089,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="6" filename="$USER_HOME$/code/pyutils/safetysystem/9.yaml" />
       <jump line="52" column="20" filename="$USER_HOME$/code/pyutils/safetysystem/9.yaml" />
       <jump line="312" column="0" filename="$USER_HOME$/code/pyutils/safetysystem/9.yaml" />
       <jump line="101" column="6" filename="$USER_HOME$/code/pyutils/safetysystem/9.yaml" />
@@ -2188,6 +2188,7 @@
       <jump line="36" column="13" filename="$USER_HOME$/code/pyutils/safetysystem/clickprocess.py" />
       <jump line="363" column="42" filename="$USER_HOME$/code/pyutils/safetysystem/clickprocess.py" />
       <jump line="95" column="30" filename="$USER_HOME$/code/pyutils/safetysystem/clickprocess.py" />
+      <jump line="177" column="28" filename="$USER_HOME$/code/pyutils/safetysystem/clickprocess.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2211,7 +2212,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>t.text</text>
+        <text>path</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2318,57 +2319,56 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>t.text</text>
+        <text>path</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfb3BlbmVkX2xpbmtzXD4=</text>
+        <text>#</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGF0aCA9IG9wLnBhdGggJSBwYXJhbQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBwYXRoLmVuZHN3aXRoKCcjJyk6CiAgICAgICAgICAgIHBhdGggPSBwYXRoWzotMV0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBhdHRyICE9ICcnOgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBhdHQK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLnN5c3RlbS5wcm94eSkK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBhdHRyICE9ICcnOgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBhdHQK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLnN5c3RlbS5wcm94eSkK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc2VsZi5zeXN0ZW0ucHJveHkpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBwYXRoLmVuZHN3aXRoKCcjJyk6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc2VsZi5zeXN0ZW0ucHJveHkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGF0aCA9IHBhdGgK</text>
+        <text encoding="base64">ICAgICAgICBpZiBwYXRoLmVuZHN3aXRoKCcjJyk6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGF0aCA9IHBhdGgK</text>
       </register>
       <register name=":" type="4">
         <text>action PreviousTab</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfb3BlbmVkX2xpbmtzXD4=</last-search>
+      <last-search>#</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfb3BlbmVkX2xpbmtzXD4=</last-pattern>
+      <last-pattern>#</last-pattern>
       <last-replace>progress</last-replace>
       <last-substitute>process</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>chart</entry>
         <entry>OperationSynthetical</entry>
         <entry>OneUnitHomeIndex</entry>
         <entry>monitorreal</entry>
@@ -2388,6 +2388,7 @@
         <entry encoding="base64">XDxjbGlja19pbl9vcGVuXD4=</entry>
         <entry>click_in</entry>
         <entry encoding="base64">XDxfb3BlbmVkX2xpbmtzXD4=</entry>
+        <entry>#</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2Rpc3RhbmNlL2hlaWdodC9nYw==</entry>
