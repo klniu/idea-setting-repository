@@ -806,12 +806,12 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="7" column="3" />
       </file>
-      <file name="$USER_HOME$/code/voc_ice/src/pages/ComponentPage/components/ComponentTable/ComponentTable.jsx" timestamp="1537251745110">
-        <mark key="'" line="35" column="9" />
-        <mark key="[" line="58" column="25" />
-        <mark key="]" line="58" column="25" />
-        <mark key="." line="58" column="25" />
-        <mark key="^" line="58" column="24" />
+      <file name="$USER_HOME$/code/voc_ice/src/pages/ComponentPage/components/ComponentTable/ComponentTable.jsx" timestamp="1537258101633">
+        <mark key="'" line="204" column="0" />
+        <mark key="[" line="115" column="22" />
+        <mark key="]" line="115" column="29" />
+        <mark key="." line="115" column="29" />
+        <mark key="^" line="115" column="29" />
       </file>
       <file name="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/InstallServiceImplTest.java" timestamp="1523761026197">
         <mark key="'" line="201" column="0" />
@@ -2326,8 +2326,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="2" filename="$USER_HOME$/code/pyutils/safetysystem/config/22-1.yaml" />
-      <jump line="27" column="0" filename="$USER_HOME$/code/pyutils/safetysystem/config/22-1.yaml" />
       <jump line="175" column="0" filename="$USER_HOME$/code/pyutils/safetysystem/config/22-1.yaml" />
       <jump line="16" column="11" filename="$USER_HOME$/code/pyutils/safetysystem/config/22.yaml" />
       <jump line="22" column="2" filename="$USER_HOME$/code/pyutils/safetysystem/config/22.yaml" />
@@ -2426,6 +2424,8 @@
       <jump line="36" column="13" filename="$USER_HOME$/code/voc_ice/src/Helpers/helpers.js" />
       <jump line="37" column="24" filename="$USER_HOME$/code/voc_ice/src/Helpers/helpers.js" />
       <jump line="0" column="0" filename="$USER_HOME$/code/voc_ice/src/api/component.js" />
+      <jump line="44" column="5" filename="$USER_HOME$/code/voc_ice/src/pages/ComponentPage/components/ComponentTable/ComponentTable.jsx" />
+      <jump line="197" column="0" filename="$USER_HOME$/code/voc_ice/src/pages/ComponentPage/components/ComponentTable/ComponentTable.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2562,37 +2562,37 @@
         <text>BasicLayout</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHVuaXQgPSB1bml0c1tpXTsK</text>
+        <text encoding="base64">ICByZW5kZXJVbml0ID0gKHZhbHVlLCBpbmRleCkgPT4gewogICAgcmV0dXJuIHRoaXMuc3RhdGUudW5pdHNbdmFsdWVdOwogIH07Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IHsgY29ubmVjdCB9IGZyb20gJ3JlYWN0LXJlZHV4JzsK</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgaW5zdGFsbHNbaW5zdGFsbC52YWx1ZV0gPSBpbnN0YWxsLmxhYmVsOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZvciAoY29uc3QgaW5zdGFsbCBvZiB1bml0LmNoaWxkcmVuKSB7Cg==</text>
+        <text encoding="base64">Y29uc3QgbWFwU3RhdGVUb1Byb3BzID0gKHN0YXRlKSA9PiB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICByZXR1cm4geyB1bml0czogc3RhdGUudW5pdHMgfTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBmb3IgKGNvbnN0IGkgaW4gdW5pdHMpIHsK</text>
+        <text encoding="base64">fTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBmb3IgKGxldCBpID0gMDsgaSA8IHVuaXRzLmxlbmd0aCgpOyBpKyspIHsKICAgICB1bml0c1t1bml0c10KICB9Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgY29ubmVjdChtYXBTdGF0ZVRvUHJvcHMpKENvbXBvbmVudFRhYmxlKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text>action PreviousTab</text>
       </register>
     </registers>
     <search>
@@ -2645,9 +2645,9 @@
         <entry>w</entry>
         <entry>%s/BasicLayout/MainLayout/gc</entry>
         <entry>%s/BasicLayout/HeaderFooterLayout/gc</entry>
+        <entry>action ReformatCode</entry>
         <entry>action NextTab</entry>
         <entry>action PreviousTab</entry>
-        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
