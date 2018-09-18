@@ -246,6 +246,11 @@
         <mark key="." line="71" column="42" />
         <mark key="^" line="20" column="21" />
       </file>
+      <file name="$USER_HOME$/code/ice-master/react-materials/scaffolds/ice-design-pro/src/index.js" timestamp="1537234217448">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="3" column="33" />
+        <mark key="]" line="3" column="50" />
+      </file>
       <file name="$USER_HOME$/code/LuckyCoinContract/contracts/BaseControl.sol" timestamp="1532781000598">
         <mark key="'" line="0" column="16" />
         <mark key="[" line="0" column="0" />
@@ -2284,8 +2289,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="282" column="46" filename="$USER_HOME$/code/pyutils/safetysystem/9.yaml" />
-      <jump line="171" column="39" filename="$USER_HOME$/code/pyutils/safetysystem/9.yaml" />
       <jump line="355" column="9" filename="$USER_HOME$/code/pyutils/safetysystem/9.yaml" />
       <jump line="77" column="37" filename="$USER_HOME$/code/pyutils/safetysystem/9.yaml" />
       <jump line="80" column="37" filename="$USER_HOME$/code/pyutils/safetysystem/9.yaml" />
@@ -2384,6 +2387,8 @@
       <jump line="131" column="34" filename="$USER_HOME$/code/voc_ice/src/pages/UserLogin/UserLogin.jsx" />
       <jump line="12" column="18" filename="$USER_HOME$/code/voc_ice/src/menuConfig.js" />
       <jump line="105" column="0" filename="$USER_HOME$/code/voc_ice/src/menuConfig.js" />
+      <jump line="27" column="1" filename="$USER_HOME$/code/ice-master/react-materials/scaffolds/ice-design-pro/src/index.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/ice-master/react-materials/scaffolds/ice-design-pro/src/index.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2407,7 +2412,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>react-redux</text>
+        <text>react-router-redux</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
