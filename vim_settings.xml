@@ -1126,11 +1126,11 @@
         <mark key="." line="51" column="22" />
         <mark key="^" line="51" column="22" />
       </file>
-      <file name="$USER_HOME$/code/voc_ice/src/Helpers/helpers.js" timestamp="1537253753936">
-        <mark key="[" line="42" column="15" />
-        <mark key="]" line="42" column="16" />
-        <mark key="." line="42" column="16" />
-        <mark key="^" line="42" column="16" />
+      <file name="$USER_HOME$/code/voc_ice/src/Helpers/helpers.js" timestamp="1537254429599">
+        <mark key="[" line="42" column="22" />
+        <mark key="]" line="42" column="28" />
+        <mark key="." line="42" column="28" />
+        <mark key="^" line="42" column="28" />
       </file>
       <file name="D:/code/web/voc-web/src/app/routes/ldar/standard/standard.component.ts" timestamp="1520142565889">
         <mark key="'" line="127" column="4" />
@@ -2449,7 +2449,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>f</text>
+        <text>units</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2556,40 +2556,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text>units</text>
       </register>
       <register name="/" type="4">
         <text>BasicLayout</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHN0b3JlIGZyb20gJy4vc3RvcmUvc3RvcmUnOwo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHVuaXQgPSB1bml0c1tpXTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBmb3IgKGxldCBpID0gMDsgaSA8IHVuaXRzLmxlbmd0aCgpOyBpKyspIHsKICAgICB1bml0c1t1bml0c10KICB9Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgaWYgKGNoZWNrUmVzcG9uc2UoKSkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGdldFVuaXRzQW5kSW5zdGFsbHMoKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHN0b3JlIGZyb20gJy4uL3N0b3JlL3N0b3JlJzsKaW1wb3J0IHsgc2V0VW5pdEluc3RhbGwgfSBmcm9tICcuLi9zdG9yZS9hY3Rpb24nOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIChyZXMuY29kZSA9PT0gMCkgewogICAgICBzdG9yZS5kaXNwYXRjaChzZXRVbml0SW5zdGFsbChyZXMuZGF0YSkpOwogICAgfQogIH0pOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGRhdGE6IHBhcmFtLAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgaW5zdGFsbHNbaW5zdGFsbC52YWx1ZV0gPSBpbnN0YWxsLmxhYmVsOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGZvciAoY29uc3QgaW5zdGFsbCBvZiB1bml0LmNoaWxkcmVuKSB7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBmb3IgKGNvbnN0IGkgaW4gdW5pdHMpIHsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICB9Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBmb3IgKGxldCBpID0gMDsgaSA8IHVuaXRzLmxlbmd0aCgpOyBpKyspIHsKICAgICB1bml0c1t1bml0c10KICB9Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIGdldFVuaXRzQW5kSW5zdGFsbHMoKSB7Cn0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
