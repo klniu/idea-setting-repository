@@ -1015,6 +1015,11 @@
       <file name="$USER_HOME$/code/LuckyCoinContract/build/contracts/LuckyCoinV0.json" timestamp="1534725219726">
         <mark key="'" line="4827" column="19" />
       </file>
+      <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/web/InstallController.java" timestamp="1537250525484">
+        <mark key="'" line="64" column="50" />
+        <mark key="[" line="62" column="18" />
+        <mark key="]" line="62" column="33" />
+      </file>
       <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/LdarSettingServiceImpl.java" timestamp="1531184182829">
         <mark key="[" line="61" column="0" />
         <mark key="]" line="61" column="0" />
@@ -2280,7 +2285,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="282" column="46" filename="$USER_HOME$/code/pyutils/safetysystem/9.yaml" />
       <jump line="171" column="39" filename="$USER_HOME$/code/pyutils/safetysystem/9.yaml" />
       <jump line="355" column="9" filename="$USER_HOME$/code/pyutils/safetysystem/9.yaml" />
       <jump line="77" column="37" filename="$USER_HOME$/code/pyutils/safetysystem/9.yaml" />
@@ -2380,6 +2384,7 @@
       <jump line="131" column="34" filename="$USER_HOME$/code/voc_ice/src/pages/UserLogin/UserLogin.jsx" />
       <jump line="12" column="18" filename="$USER_HOME$/code/voc_ice/src/menuConfig.js" />
       <jump line="105" column="0" filename="$USER_HOME$/code/voc_ice/src/menuConfig.js" />
+      <jump line="64" column="50" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/web/InstallController.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2403,7 +2408,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>patients</text>
+        <text>unitsAndInstalls</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
