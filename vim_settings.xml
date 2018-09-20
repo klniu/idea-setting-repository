@@ -587,12 +587,12 @@
         <mark key="^" line="112" column="15" />
         <mark key="." line="112" column="46" />
       </file>
-      <file name="$USER_HOME$/code/pyutils/voc/bolinhandler.py" timestamp="1537453439213">
+      <file name="$USER_HOME$/code/pyutils/voc/bolinhandler.py" timestamp="1537455606151">
         <mark key="'" line="8" column="0" />
-        <mark key="[" line="82" column="44" />
-        <mark key="]" line="82" column="44" />
-        <mark key="." line="82" column="44" />
-        <mark key="^" line="82" column="44" />
+        <mark key="[" line="199" column="73" />
+        <mark key="]" line="199" column="88" />
+        <mark key="." line="199" column="88" />
+        <mark key="^" line="199" column="88" />
       </file>
       <file name="D:/code/web/voc-web/src/app/routes/base/base.module.ts" timestamp="1520141756916">
         <mark key="'" line="12" column="0" />
@@ -2455,7 +2455,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2562,40 +2562,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>BasicLayout</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByID0gcmVxdWVzdHMuZ2V0KEJBU0VfVVJMICsgJy9hcGkvY29tcG9uZW50L2V4cG9ydFBERi8nICsgc3RyKGkpLCBoZWFkZXJzPWhlYWRlcnMpCiAgICAgICAgIyBjaGVja19yZXMocikKICAgICAgICBwcmludChyKQo=</text>
+      <register name="0" type="4">
+        <text>[:-len(&quot;.jpeg&quot;)]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBob3RvX3BhdGg9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFyZWFfbmFtZTogc3RyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFyZWFfbmFtZT1hcmVhX25hbWUsCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxDb250ZXh0V3JhcHBlciAvPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB0aGlzLnByb3BzLmNoaWxkcmVuOwo=</text>
+        <text encoding="base64">ICAgIDxDb250ZXh0V3JhcHBlciAvPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICByZW5kZXIoKSB7Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name=":" type="4">
         <text>action PreviousTab</text>
