@@ -1014,6 +1014,11 @@
         <mark key="]" line="179" column="63" />
         <mark key="." line="179" column="63" />
       </file>
+      <file name="$USER_HOME$/code/LuckyCoinContract/build/contracts/LuckyCoinV0.json" timestamp="1537774024038">
+        <mark key="'" line="4670" column="18" />
+        <mark key="[" line="4670" column="18" />
+        <mark key="]" line="4670" column="59" />
+      </file>
       <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/LdarSettingServiceImpl.java" timestamp="1531184182829">
         <mark key="[" line="61" column="0" />
         <mark key="]" line="61" column="0" />
@@ -2094,8 +2099,8 @@
         <mark key="." line="101" column="68" />
         <mark key="^" line="101" column="68" />
       </file>
-      <file name="$USER_HOME$/code/LuckyCoinContract/contracts/LuckyCoinV0.sol" timestamp="1535707918351">
-        <mark key="'" line="19" column="43" />
+      <file name="$USER_HOME$/code/LuckyCoinContract/contracts/LuckyCoinV0.sol" timestamp="1537774028516">
+        <mark key="'" line="44" column="26" />
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
@@ -2308,8 +2313,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="10" filename="$USER_HOME$/code/pyutils/safetysystem/clickprocess.py" />
-      <jump line="3" column="6" filename="$USER_HOME$/code/pyutils/safetysystem/config/22.yaml" />
       <jump line="302" column="34" filename="$USER_HOME$/code/pyutils/safetysystem/clickprocess.py" />
       <jump line="285" column="31" filename="$USER_HOME$/code/pyutils/safetysystem/clickprocess.py" />
       <jump line="66" column="30" filename="$USER_HOME$/code/pyutils/safetysystem/config/22.yaml" />
@@ -2408,6 +2411,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/code/voc/src/main/resources/sql/schema.sql" />
       <jump line="677" column="83" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" />
       <jump line="179" column="52" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/InstallServiceImpl.java" />
+      <jump line="4670" column="18" filename="$USER_HOME$/code/LuckyCoinContract/build/contracts/LuckyCoinV0.json" />
+      <jump line="44" column="26" filename="$USER_HOME$/code/LuckyCoinContract/contracts/LuckyCoinV0.sol" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2431,7 +2436,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>1234</text>
+        <text>0x4ce163845a88e52dcd6babc976bf0b7d47768e35</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
