@@ -578,12 +578,12 @@
         <mark key="^" line="112" column="15" />
         <mark key="." line="112" column="46" />
       </file>
-      <file name="$USER_HOME$/code/pyutils/voc/bolinhandler.py" timestamp="1537794657625">
+      <file name="$USER_HOME$/code/pyutils/voc/bolinhandler.py" timestamp="1537797513956">
         <mark key="'" line="8" column="0" />
-        <mark key="[" line="87" column="63" />
-        <mark key="]" line="87" column="63" />
-        <mark key="." line="87" column="63" />
-        <mark key="^" line="87" column="63" />
+        <mark key="[" line="97" column="8" />
+        <mark key="]" line="97" column="20" />
+        <mark key="." line="97" column="20" />
+        <mark key="^" line="97" column="20" />
       </file>
       <file name="D:/code/web/voc-web/src/app/routes/base/base.module.ts" timestamp="1520141756916">
         <mark key="'" line="12" column="0" />
@@ -1788,11 +1788,12 @@
         <mark key="." line="140" column="58" />
         <mark key="^" line="140" column="58" />
       </file>
-      <file name="$USER_HOME$/code/pyutils/voc/dagu.py" timestamp="1537792329869">
-        <mark key="[" line="57" column="31" />
-        <mark key="]" line="57" column="36" />
-        <mark key="." line="57" column="36" />
-        <mark key="^" line="57" column="36" />
+      <file name="$USER_HOME$/code/pyutils/voc/dagu.py" timestamp="1537797756532">
+        <mark key="'" line="13" column="4" />
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
+        <mark key="^" line="48" column="26" />
       </file>
       <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/web/LdarTurnController.java" timestamp="1523606457949">
         <mark key="'" line="69" column="36" />
@@ -2314,7 +2315,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="302" column="34" filename="$USER_HOME$/code/pyutils/safetysystem/clickprocess.py" />
       <jump line="285" column="31" filename="$USER_HOME$/code/pyutils/safetysystem/clickprocess.py" />
       <jump line="66" column="30" filename="$USER_HOME$/code/pyutils/safetysystem/config/22.yaml" />
       <jump line="5" column="10" filename="$USER_HOME$/code/pyutils/safetysystem/config/22.yaml" />
@@ -2414,6 +2414,7 @@
       <jump line="179" column="52" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/InstallServiceImpl.java" />
       <jump line="4670" column="18" filename="$USER_HOME$/code/LuckyCoinContract/build/contracts/LuckyCoinV0.json" />
       <jump line="44" column="26" filename="$USER_HOME$/code/LuckyCoinContract/contracts/LuckyCoinV0.sol" />
+      <jump line="13" column="4" filename="$USER_HOME$/code/pyutils/voc/dagu.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2437,7 +2438,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdzLmNlbGwocm93LCA1LCBjb20ubm8pCg==</text>
+        <text encoding="base64">ICAgICAgICAjIGNoZWNrX3JlcyhyKQo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2544,59 +2545,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>photo_name[:-len(&quot;.jpeg&quot;)]</text>
+        <text encoding="base64">PSA=</text>
       </register>
       <register name="/" type="4">
-        <text>BasicLayout</text>
+        <text encoding="base64">XDxnZW5lcmF0ZV9wZGZcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHdzLmNlbGwocm93LCA1LCBjb20ubm8pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc2VhbFsndGFnJ10pCg==</text>
+        <text encoding="base64">ICAgICAgICAjIGNoZWNrX3JlcyhyKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc2VhbFsndGFnJ10pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAnL2hvbWUva2xuaXUvRG93bmxvYWRzL3Jlc3VsdC/lpKfmsr3ljJblt6UtWFhYQUJTLTAzX25ldy54bHN4JywK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAnL2hvbWUva2xuaXUvRG93bmxvYWRzL3Jlc3VsdC/lpKfmsr3ljJblt6UtWFhYQUJTLTAzX25ldy54bHN4JywK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAnL2hvbWUva2xuaXUvRG93bmxvYWRzL3Jlc3VsdC/lpKfmsr3ljJblt6UtWFhYQUJTLTAyX25ldy54bHN4JywK</text>
       </register>
-      <register name="5" type="8">
+      <register name="6" type="8">
         <text>file://
 file://
 file://</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdzMuZXRoLnNlbmRUcmFuc2FjdGlvbigKICAgICAgICAgICAgICAgIHsndG8nOiB3My50b0NoZWNrc3VtQWRkcmVzcyhhZGRyKSwgJ2Zyb20nOiB3My5ldGguY29pbmJhc2UsICd2YWx1ZSc6IHN0cih2YWx1ZSksCiAgICAgICAgICAgICAgICAgJ2dhc1ByaWNlJzogcHJpY2UsICdnYXMnOiAyMTAwMH0pCg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgIHdpdGggb3BlbignYmFsYW5jZXMnLCAncmInKSBhcyBmOgogICAgICAgIGFkZHJlc3NlcyA9IHBpY2tsZS5sb2FkKGYpCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRpbWUuc2xlZXAoNSkK</text>
-      </register>
       <register name=":" type="4">
-        <text>action PreviousTab</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
-      <last-search>BasicLayout</last-search>
+      <last-search encoding="base64">XDxnZW5lcmF0ZV9wZGZcPg==</last-search>
       <last-offset />
-      <last-pattern>BasicLayout</last-pattern>
+      <last-pattern encoding="base64">XDxnZW5lcmF0ZV9wZGZcPg==</last-pattern>
       <last-replace>HeaderFooterLayout</last-replace>
       <last-substitute>BasicLayout</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>api</entry>
         <entry encoding="base64">XDxkYXRhXD4=</entry>
         <entry>console</entry>
         <entry encoding="base64">XDxjb250ZW50XD4=</entry>
@@ -2616,6 +2616,7 @@ file://</text>
         <entry>seal.no</entry>
         <entry>1200</entry>
         <entry>BasicLayout</entry>
+        <entry encoding="base64">XDxnZW5lcmF0ZV9wZGZcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5hY3Rpb24gTmV4dFRhYg==</entry>
@@ -2634,10 +2635,10 @@ file://</text>
         <entry>w</entry>
         <entry>%s/BasicLayout/MainLayout/gc</entry>
         <entry>%s/BasicLayout/HeaderFooterLayout/gc</entry>
-        <entry>action ReformatCode</entry>
         <entry>q</entry>
         <entry>action NextTab</entry>
         <entry>action PreviousTab</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
