@@ -186,12 +186,11 @@
         <mark key="]" line="74" column="36" />
         <mark key="." line="74" column="0" />
       </file>
-      <file name="$USER_HOME$/code/Ethereum/LuckCoinReRun/main.py" timestamp="1537761029866">
-        <mark key="'" line="71" column="27" />
-        <mark key="[" line="66" column="27" />
-        <mark key="]" line="66" column="36" />
-        <mark key="." line="66" column="36" />
-        <mark key="^" line="66" column="36" />
+      <file name="$USER_HOME$/code/Ethereum/LuckCoinReRun/main.py" timestamp="1537764182680">
+        <mark key="[" line="52" column="54" />
+        <mark key="]" line="52" column="63" />
+        <mark key="." line="52" column="54" />
+        <mark key="^" line="68" column="27" />
       </file>
       <file name="$USER_HOME$/code/voc_ice/src/pages/UserLogin/UserLogin.jsx" timestamp="1537179608101">
         <mark key="'" line="131" column="34" />
@@ -708,6 +707,10 @@
         <mark key="]" line="189" column="12" />
         <mark key="." line="189" column="12" />
         <mark key="^" line="189" column="12" />
+      </file>
+      <file name="/main.py" timestamp="1537762276747">
+        <mark key="[" line="31" column="15" />
+        <mark key="]" line="33" column="28" />
       </file>
       <file name="D:/code/web/voc-ui/src/app/routes/ldar/standard/standard.service.ts" timestamp="1522290514778">
         <mark key="'" line="48" column="40" />
@@ -2135,9 +2138,12 @@
         <mark key="^" line="109" column="29" />
         <mark key="." line="109" column="29" />
       </file>
-      <file name="$USER_HOME$/code/Ethereum/README.md" timestamp="1537759283585">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="47" />
+      <file name="$USER_HOME$/code/Ethereum/README.md" timestamp="1537763699224">
+        <mark key="'" line="39" column="0" />
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="81" />
+        <mark key="^" line="62" column="26" />
+        <mark key="." line="62" column="26" />
       </file>
       <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/entity/svg/SVG.java" timestamp="1530838564194">
         <mark key="'" line="19" column="18" />
@@ -2312,7 +2318,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="285" column="31" filename="$USER_HOME$/code/pyutils/safetysystem/clickprocess.py" />
       <jump line="66" column="30" filename="$USER_HOME$/code/pyutils/safetysystem/config/22.yaml" />
       <jump line="5" column="10" filename="$USER_HOME$/code/pyutils/safetysystem/config/22.yaml" />
       <jump line="249" column="24" filename="$USER_HOME$/code/pyutils/safetysystem/clickprocess.py" />
@@ -2412,6 +2417,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/code/Ethereum/LuckCoinReRun/export-token-0x6a91d9c0d728b78fd6c6087f6f636dae1f290355-20180923.csv" />
       <jump line="43" column="24" filename="$USER_HOME$/code/Ethereum/LuckCoinReRun/test.py" />
       <jump line="40" column="61" filename="$USER_HOME$/code/Ethereum/LuckCoinReRun/test.py" />
+      <jump line="39" column="0" filename="$USER_HOME$/code/Ethereum/README.md" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2435,7 +2441,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>|</text>
+        <text>klniu</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2542,40 +2548,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>|</text>
+        <text>klniu</text>
       </register>
       <register name="/" type="4">
         <text>toChecksumAddress</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">YmFsYW5jZXMuZ2V0KHRbNF0sIDApIA==</text>
+        <text>v0.functions.balanceOf(addr).call()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGdhcyA9IHYwLmZ1bmN0aW9ucy5tdWx0aXNlbmQoYWRkcnMsIHZhbHVlcykuZXN0aW1hdGVHYXMoKQogICAgcHJpbnQoZ2FzKQogICAgdHhfaGFzaCA9IHYwLmZ1bmN0aW9ucy5tdWx0aXNlbmQoYWRkcnMsIHZhbHVlcykudHJhbnNhY3QoeydnYXMnOiBnYXN9KQogICAgdzMuZXRoLndhaXRGb3JUcmFuc2FjdGlvblJlY2VpcHQodHhfaGFzaCkKICAgIGZvciBhZGRyLCB2YWx1ZSBpbiBiYWxhbmNlcy5pdGVtcygpOgogICAgICAgIGlmIHYwLmZ1bmN0aW9ucy5iYWxhbmNlT2YoYWRkcikuY2FsbCgpICE9IHZhbHVlOgogICAgICAgICAgICBwcmludChhZGRyLCB2YWx1ZSwgJ2ZhbHNlJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQodjAuZnVuY3Rpb25zLmJhbGFuY2VPZih3My5ldGguZGVmYXVsdEFjY291bnQpLmNhbGwoKSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KGFkZHJzLCB2YWx1ZXMpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KGJhbGFuY2VzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGltZS5zbGVlcCgxKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZmkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IlR4aGFzaCIsIkJsb2Nrbm8iLCJVbml4VGltZXN0YW1wIiwiRGF0ZVRpbWUiLCJGcm9tIiwiVG8iLCJRdWFudGl0eSIK</text>
+        <text encoding="base64">ICAgIHdpdGggb3BlbignZmluaXNoZWQnLCAnYScpOgogICAgZm9yIGksIGFkZHIgaW4gZW51bWVyYXRlKGFkZHJzKToKICAgICAgICBpZiB2MC5mdW5jdGlvbnMuYmFsYW5jZU9mKGFkZHIpLmNhbGwoKSAhPSB2YWx1ZXNbaV06CiAgICAgICAgICAgIHByaW50KGFkZHIsIHZhbHVlc1tpXSwgJ2ZhbHNlJykKICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KCLlj5HpgIHoh7Mlc+WFsSVm5biBIiAlIChhZGRyLCB2YWx1ZSkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbHNlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHBpY2tsZQo=</text>
+        <text encoding="base64">ICAgICAgICAjIHByaWNlID0gZ2V0U2FmZUxvd1ByaWNlKCkKICAgICAgICAjIHByaW50KHByaWNlKQogICAgICAgICMgaWYgcHJpY2UgPCAyOgogICAgICAgICMgZi53cml0ZShhZGRyICsgIlxuIikKICAgICAgICAjIGZpbmlzaGVzLmFwcGVuZChhZGRyKQogICAgICAgICMgdGltZS5zbGVlcCgxKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIHByaWNlID0gZ2V0U2FmZUxvd1ByaWNlKCkKICAgICAgICAjIHByaW50KHByaWNlKQogICAgICAgICMgaWYgcHJpY2UgPCAyOgogICAgICAgICMgZi53cml0ZShhZGRyICsgIlxuIikKICAgICAgICAjIGZpbmlzaGVzLmFwcGVuZChhZGRyKQogICAgICAgICMgdGltZS5zbGVlcCgxKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
