@@ -186,12 +186,12 @@
         <mark key="]" line="74" column="36" />
         <mark key="." line="74" column="0" />
       </file>
-      <file name="$USER_HOME$/code/Ethereum/LuckCoinReRun/main.py" timestamp="1537758413710">
-        <mark key="'" line="63" column="27" />
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="^" line="11" column="0" />
-        <mark key="." line="66" column="0" />
+      <file name="$USER_HOME$/code/Ethereum/LuckCoinReRun/main.py" timestamp="1537761029866">
+        <mark key="'" line="71" column="27" />
+        <mark key="[" line="66" column="27" />
+        <mark key="]" line="66" column="36" />
+        <mark key="." line="66" column="36" />
+        <mark key="^" line="66" column="36" />
       </file>
       <file name="$USER_HOME$/code/voc_ice/src/pages/UserLogin/UserLogin.jsx" timestamp="1537179608101">
         <mark key="'" line="131" column="34" />
@@ -1462,6 +1462,12 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="27" column="21" />
       </file>
+      <file name="$USER_HOME$/code/Ethereum/LuckCoinReRun/export-token-0x6a91d9c0d728b78fd6c6087f6f636dae1f290355-20180923.csv" timestamp="1537759926478">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="D:/code/java/voc/src/main/resources/mapper/DetectionMapper.xml" timestamp="1523609933364">
         <mark key="'" line="9" column="21" />
         <mark key="[" line="14" column="0" />
@@ -2129,7 +2135,7 @@
         <mark key="^" line="109" column="29" />
         <mark key="." line="109" column="29" />
       </file>
-      <file name="$USER_HOME$/code/Ethereum/README.md" timestamp="1537758331733">
+      <file name="$USER_HOME$/code/Ethereum/README.md" timestamp="1537759283585">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="47" />
       </file>
@@ -2277,10 +2283,10 @@
         <mark key="." line="454" column="92" />
         <mark key="^" line="454" column="89" />
       </file>
-      <file name="$USER_HOME$/code/Ethereum/LuckCoinReRun/test.py" timestamp="1537757932262">
-        <mark key="'" line="65" column="0" />
-        <mark key="[" line="131" column="15" />
-        <mark key="]" line="131" column="54" />
+      <file name="$USER_HOME$/code/Ethereum/LuckCoinReRun/test.py" timestamp="1537760217207">
+        <mark key="'" line="40" column="61" />
+        <mark key="[" line="40" column="56" />
+        <mark key="]" line="40" column="96" />
         <mark key="." line="82" column="46" />
         <mark key="^" line="60" column="13" />
       </file>
@@ -2306,9 +2312,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="10" filename="$USER_HOME$/code/pyutils/safetysystem/clickprocess.py" />
-      <jump line="3" column="6" filename="$USER_HOME$/code/pyutils/safetysystem/config/22.yaml" />
-      <jump line="302" column="34" filename="$USER_HOME$/code/pyutils/safetysystem/clickprocess.py" />
       <jump line="285" column="31" filename="$USER_HOME$/code/pyutils/safetysystem/clickprocess.py" />
       <jump line="66" column="30" filename="$USER_HOME$/code/pyutils/safetysystem/config/22.yaml" />
       <jump line="5" column="10" filename="$USER_HOME$/code/pyutils/safetysystem/config/22.yaml" />
@@ -2406,6 +2409,9 @@
       <jump line="0" column="0" filename="$USER_HOME$/code/voc/src/main/resources/sql/schema.sql" />
       <jump line="677" column="83" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" />
       <jump line="179" column="52" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/InstallServiceImpl.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/Ethereum/LuckCoinReRun/export-token-0x6a91d9c0d728b78fd6c6087f6f636dae1f290355-20180923.csv" />
+      <jump line="43" column="24" filename="$USER_HOME$/code/Ethereum/LuckCoinReRun/test.py" />
+      <jump line="40" column="61" filename="$USER_HOME$/code/Ethereum/LuckCoinReRun/test.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2428,8 +2434,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50KCLlj5HpgIHoh7Mlc+WFsSVm5biBIiAlIChhZGRyLCB2YWx1ZSkpCg==</text>
+      <register name="&quot;" type="4">
+        <text>|</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2536,57 +2542,56 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aWYg</text>
+        <text>|</text>
       </register>
       <register name="/" type="4">
-        <text>BasicLayout</text>
+        <text>toChecksumAddress</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBnYXMgPSBzZWxmLnYwLmZ1bmN0aW9ucy5tdWx0aXNlbmQoYWRkcnMsIHZhbHVlcykuZXN0aW1hdGVHYXMoKQo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">YmFsYW5jZXMuZ2V0KHRbNF0sIDApIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KCLlj5HpgIHoh7Mlc+WFsSVm5biBIiAlIChhZGRyLCB2YWx1ZSkpCg==</text>
+        <text encoding="base64">ICAgIGdhcyA9IHYwLmZ1bmN0aW9ucy5tdWx0aXNlbmQoYWRkcnMsIHZhbHVlcykuZXN0aW1hdGVHYXMoKQogICAgcHJpbnQoZ2FzKQogICAgdHhfaGFzaCA9IHYwLmZ1bmN0aW9ucy5tdWx0aXNlbmQoYWRkcnMsIHZhbHVlcykudHJhbnNhY3QoeydnYXMnOiBnYXN9KQogICAgdzMuZXRoLndhaXRGb3JUcmFuc2FjdGlvblJlY2VpcHQodHhfaGFzaCkKICAgIGZvciBhZGRyLCB2YWx1ZSBpbiBiYWxhbmNlcy5pdGVtcygpOgogICAgICAgIGlmIHYwLmZ1bmN0aW9ucy5iYWxhbmNlT2YoYWRkcikuY2FsbCgpICE9IHZhbHVlOgogICAgICAgICAgICBwcmludChhZGRyLCB2YWx1ZSwgJ2ZhbHNlJykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KGFkZHJzLCB2YWx1ZXMpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHBpY2tsZQo=</text>
+        <text encoding="base64">ICAgIHByaW50KGJhbGFuY2VzKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBIZWxwZXIuZXRoZ2Fzc3RhdGlvbiBpbXBvcnQgZ2V0U2FmZUxvd1ByaWNlCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">IlR4aGFzaCIsIkJsb2Nrbm8iLCJVbml4VGltZXN0YW1wIiwiRGF0ZVRpbWUiLCJGcm9tIiwiVG8iLCJRdWFudGl0eSIK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHByaW50KCLlj5HpgIHoh7Mlc+WFsSVm5biBIiAlIChhZGRyLCB2YWx1ZSkpCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBhZGRyIGluIGZpbmlzaGVzOgogICAgICAgICAgICBjb250aW51ZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IHBpY2tsZQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action PreviousTab</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
-      <last-search>BasicLayout</last-search>
+      <last-search>toChecksumAddress</last-search>
       <last-offset />
-      <last-pattern>BasicLayout</last-pattern>
+      <last-pattern>toChecksumAddress</last-pattern>
       <last-replace>HeaderFooterLayout</last-replace>
       <last-substitute>BasicLayout</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>api</entry>
         <entry encoding="base64">XDxkYXRhXD4=</entry>
         <entry>console</entry>
         <entry encoding="base64">XDxjb250ZW50XD4=</entry>
@@ -2606,6 +2611,7 @@
         <entry>seal.no</entry>
         <entry>1200</entry>
         <entry>BasicLayout</entry>
+        <entry>toChecksumAddress</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5hY3Rpb24gTmV4dFRhYg==</entry>
@@ -2624,10 +2630,10 @@
         <entry>w</entry>
         <entry>%s/BasicLayout/MainLayout/gc</entry>
         <entry>%s/BasicLayout/HeaderFooterLayout/gc</entry>
-        <entry>action ReformatCode</entry>
         <entry>q</entry>
-        <entry>action NextTab</entry>
         <entry>action PreviousTab</entry>
+        <entry>action NextTab</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
