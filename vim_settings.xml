@@ -578,12 +578,12 @@
         <mark key="^" line="112" column="15" />
         <mark key="." line="112" column="46" />
       </file>
-      <file name="$USER_HOME$/code/pyutils/voc/bolinhandler.py" timestamp="1536281508947">
+      <file name="$USER_HOME$/code/pyutils/voc/bolinhandler.py" timestamp="1537794657625">
         <mark key="'" line="8" column="0" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="12" column="24" />
-        <mark key="." line="83" column="48" />
-        <mark key="^" line="83" column="48" />
+        <mark key="[" line="87" column="63" />
+        <mark key="]" line="87" column="63" />
+        <mark key="." line="87" column="63" />
+        <mark key="^" line="87" column="63" />
       </file>
       <file name="D:/code/web/voc-web/src/app/routes/base/base.module.ts" timestamp="1520141756916">
         <mark key="'" line="12" column="0" />
@@ -2437,7 +2437,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc2VhbFsndGFnJ10pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHdzLmNlbGwocm93LCA1LCBjb20ubm8pCg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2544,13 +2544,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>photo_name[:-len(&quot;.jpeg&quot;)]</text>
       </register>
       <register name="/" type="4">
         <text>BasicLayout</text>
       </register>
-      <register name="0" type="4">
-        <text>$USER_HOME$/Downloads/result/</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHdzLmNlbGwocm93LCA1LCBjb20ubm8pCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc2VhbFsndGFnJ10pCg==</text>
