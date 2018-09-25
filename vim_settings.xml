@@ -1033,6 +1033,12 @@
       <file name="$USER_HOME$/code/LuckyCoinContract/build/contracts/LuckyCoinV0.json" timestamp="1534725219726">
         <mark key="'" line="4827" column="19" />
       </file>
+      <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/web/InstallController.java" timestamp="1537842121800">
+        <mark key="'" line="64" column="53" />
+      </file>
+      <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/InstallServiceImpl.java" timestamp="1537842249655">
+        <mark key="'" line="84" column="41" />
+      </file>
       <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/LdarSettingServiceImpl.java" timestamp="1531184182829">
         <mark key="[" line="61" column="0" />
         <mark key="]" line="61" column="0" />
@@ -2038,8 +2044,8 @@
         <mark key="." line="70" column="8" />
         <mark key="^" line="70" column="10" />
       </file>
-      <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/IInstallService.java" timestamp="1529889391231">
-        <mark key="'" line="18" column="2" />
+      <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/IInstallService.java" timestamp="1537842126045">
+        <mark key="'" line="69" column="50" />
         <mark key="[" line="49" column="35" />
         <mark key="]" line="49" column="50" />
         <mark key="^" line="49" column="50" />
@@ -2319,9 +2325,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="175" column="0" filename="$USER_HOME$/code/pyutils/safetysystem/config/22-1.yaml" />
-      <jump line="16" column="11" filename="$USER_HOME$/code/pyutils/safetysystem/config/22.yaml" />
-      <jump line="22" column="2" filename="$USER_HOME$/code/pyutils/safetysystem/config/22.yaml" />
       <jump line="166" column="7" filename="$USER_HOME$/code/pyutils/safetysystem/config/22.yaml" />
       <jump line="358" column="8" filename="$USER_HOME$/code/pyutils/safetysystem/config/9.yaml" />
       <jump line="60" column="29" filename="$USER_HOME$/code/pyutils/safetysystem/clickprocess.py" />
@@ -2419,6 +2422,9 @@
       <jump line="0" column="0" filename="$USER_HOME$/code/voc_ice/src/api/component.js" />
       <jump line="44" column="5" filename="$USER_HOME$/code/voc_ice/src/pages/ComponentPage/components/ComponentTable/ComponentTable.jsx" />
       <jump line="197" column="0" filename="$USER_HOME$/code/voc_ice/src/pages/ComponentPage/components/ComponentTable/ComponentTable.jsx" />
+      <jump line="64" column="53" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/web/InstallController.java" />
+      <jump line="69" column="50" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/IInstallService.java" />
+      <jump line="84" column="41" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/InstallServiceImpl.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
