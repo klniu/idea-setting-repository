@@ -1039,7 +1039,8 @@
       <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/InstallServiceImpl.java" timestamp="1537842249655">
         <mark key="'" line="84" column="41" />
       </file>
-      <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/LdarSettingServiceImpl.java" timestamp="1531184182829">
+      <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/LdarSettingServiceImpl.java" timestamp="1537857205099">
+        <mark key="'" line="41" column="52" />
         <mark key="[" line="61" column="0" />
         <mark key="]" line="61" column="0" />
         <mark key="." line="61" column="0" />
@@ -1248,6 +1249,10 @@
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/web/LdarSettingController.java" timestamp="1537857071745">
+        <mark key="[" line="33" column="17" />
+        <mark key="]" line="33" column="33" />
       </file>
       <file name="$USER_HOME$/code/pyutils/auto/ClickAllLinks.py" timestamp="1536744112895">
         <mark key="'" line="0" column="0" />
@@ -2328,7 +2333,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="10" filename="$USER_HOME$/code/pyutils/safetysystem/clickprocess.py" />
       <jump line="3" column="6" filename="$USER_HOME$/code/pyutils/safetysystem/config/22.yaml" />
       <jump line="302" column="34" filename="$USER_HOME$/code/pyutils/safetysystem/clickprocess.py" />
       <jump line="285" column="31" filename="$USER_HOME$/code/pyutils/safetysystem/clickprocess.py" />
@@ -2428,6 +2432,7 @@
       <jump line="122" column="51" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/ComponentServiceImpl.java" />
       <jump line="88" column="34" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" />
       <jump line="50" column="17" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/entity/Seal.java" />
+      <jump line="41" column="52" filename="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/LdarSettingServiceImpl.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2451,7 +2456,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>units</text>
+        <text>/api/ldar/setting</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
