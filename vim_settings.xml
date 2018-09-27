@@ -1868,7 +1868,7 @@
         <mark key="." line="25" column="19" />
         <mark key="^" line="19" column="47" />
       </file>
-      <file name="$USER_HOME$/code/voc/src/main/resources/application.yaml" timestamp="1537371425475">
+      <file name="$USER_HOME$/code/voc/src/main/resources/application.yaml" timestamp="1538008487524">
         <mark key="[" line="3" column="12" />
         <mark key="]" line="3" column="15" />
         <mark key="." line="3" column="15" />
@@ -2437,8 +2437,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAjIGNoZWNrX3JlcyhyKQo=</text>
+      <register name="&quot;" type="4">
+        <text>dev</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2545,7 +2545,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PSA=</text>
+        <text>dev</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZW5lcmF0ZV9wZGZcPg==</text>
@@ -2593,7 +2593,7 @@ file://</text>
       <last-replace>HeaderFooterLayout</last-replace>
       <last-substitute>BasicLayout</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
