@@ -524,9 +524,10 @@
         <mark key="^" line="578" column="8" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/sync/projects/大沽化工/2018ldar/data/init.sql" timestamp="1537452612798">
-        <mark key="[" line="738" column="24" />
-        <mark key="]" line="738" column="24" />
+      <file name="$USER_HOME$/sync/projects/大沽化工/2018ldar/data/init.sql" timestamp="1538009318369">
+        <mark key="'" line="14" column="28" />
+        <mark key="[" line="781" column="50" />
+        <mark key="]" line="790" column="55" />
         <mark key="^" line="738" column="24" />
         <mark key="." line="738" column="24" />
       </file>
@@ -2315,7 +2316,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="285" column="31" filename="$USER_HOME$/code/pyutils/safetysystem/clickprocess.py" />
       <jump line="66" column="30" filename="$USER_HOME$/code/pyutils/safetysystem/config/22.yaml" />
       <jump line="5" column="10" filename="$USER_HOME$/code/pyutils/safetysystem/config/22.yaml" />
       <jump line="249" column="24" filename="$USER_HOME$/code/pyutils/safetysystem/clickprocess.py" />
@@ -2415,6 +2415,7 @@
       <jump line="4670" column="18" filename="$USER_HOME$/code/LuckyCoinContract/build/contracts/LuckyCoinV0.json" />
       <jump line="44" column="26" filename="$USER_HOME$/code/LuckyCoinContract/contracts/LuckyCoinV0.sol" />
       <jump line="13" column="4" filename="$USER_HOME$/code/pyutils/voc/dagu.py" />
+      <jump line="14" column="28" filename="$USER_HOME$/sync/projects/大沽化工/2018ldar/data/init.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2437,8 +2438,17 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>dev</text>
+      <register name="&quot;" type="8">
+        <text>0101',
+0102',
+0103',
+0104',
+0105',
+0106',
+0201',
+0202',
+0203',
+'0301'</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
