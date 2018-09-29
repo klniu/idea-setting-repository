@@ -1109,7 +1109,7 @@
         <mark key="." line="16" column="12" />
         <mark key="^" line="16" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1538184100206">
+      <file name="/Dummy.txt" timestamp="1538212701317">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
@@ -1173,10 +1173,6 @@
         <mark key="]" line="42" column="20" />
         <mark key="^" line="32" column="33" />
         <mark key="." line="32" column="33" />
-      </file>
-      <file name="$USER_HOME$/code/ice-master/react-materials/scaffolds/ice-design-pro/src/index.js" timestamp="1537324357177">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="14" />
       </file>
       <file name="$USER_HOME$/code/lkc_website/src/containers/Career/components/content.js" timestamp="1529041927888">
         <mark key="'" line="18" column="29" />
@@ -1300,11 +1296,12 @@
         <mark key="." line="31" column="18" />
         <mark key="^" line="31" column="18" />
       </file>
-      <file name="C:/code/utils/tools/installer_klniu.ps1" timestamp="1538209684047">
-        <mark key="[" line="1" column="25" />
-        <mark key="]" line="1" column="24" />
-        <mark key="." line="1" column="24" />
-        <mark key="^" line="1" column="24" />
+      <file name="C:/code/utils/tools/installer_klniu.ps1" timestamp="1538212175951">
+        <mark key="'" line="10" column="71" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/voc_ice/src/pages/Component/Install.scss" timestamp="1537065528993">
         <mark key="[" line="0" column="1" />
@@ -1836,10 +1833,6 @@
         <mark key="^" line="13" column="5" />
         <mark key="." line="13" column="5" />
       </file>
-      <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/web/SealController.java" timestamp="1537453289282">
-        <mark key="[" line="46" column="17" />
-        <mark key="]" line="46" column="24" />
-      </file>
       <file name="D:/code/web/voc-ui/src/app/messages/messages.component.html" timestamp="1517988052439">
         <mark key="'" line="5" column="5" />
         <mark key="[" line="0" column="0" />
@@ -1997,11 +1990,12 @@
         <mark key="^" line="13" column="5" />
         <mark key="." line="18" column="16" />
       </file>
-      <file name="C:/code/utils/tools/choco_config.ps1" timestamp="1538209280335">
-        <mark key="[" line="19" column="23" />
-        <mark key="]" line="19" column="26" />
-        <mark key="^" line="19" column="26" />
-        <mark key="." line="19" column="26" />
+      <file name="C:/code/utils/tools/choco_config.ps1" timestamp="1538212166488">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="28" column="8" />
       </file>
       <file name="$USER_HOME$/code/ym/config.py" timestamp="1527916846306">
         <mark key="[" line="23" column="0" />
@@ -2034,10 +2028,6 @@
         <mark key="]" line="40" column="19" />
         <mark key="^" line="40" column="19" />
         <mark key="." line="40" column="19" />
-      </file>
-      <file name="$USER_HOME$/code/ice-master/react-materials/scaffolds/ice-design-pro/src/router.jsx" timestamp="1537324288544">
-        <mark key="[" line="12" column="5" />
-        <mark key="]" line="12" column="10" />
       </file>
       <file name="$USER_HOME$/code/voc_ice/src/router.jsx" timestamp="1537950462163">
         <mark key="'" line="118" column="15" />
@@ -2343,8 +2333,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="13" filename="$USER_HOME$/code/pyutils/safetysystem/clickprocess.py" />
-      <jump line="363" column="42" filename="$USER_HOME$/code/pyutils/safetysystem/clickprocess.py" />
       <jump line="95" column="30" filename="$USER_HOME$/code/pyutils/safetysystem/clickprocess.py" />
       <jump line="67" column="3" filename="$USER_HOME$/code/voc_ice/src/pages/Install/components/InstallTable/SelectableTable.jsx" />
       <jump line="0" column="0" filename="$USER_HOME$/code/voc_ice/src/pages/Install/components/InstallTable/SelectableTable.jsx" />
@@ -2443,6 +2431,8 @@
       <jump line="4" column="24" filename="$USER_HOME$/code/voc_ice/src/components/Upload/Upload.js" />
       <jump line="0" column="5" filename="C:/code/utils/tools/installer_klniu.ps1" />
       <jump line="13" column="25" filename="C:/code/utils/tools/choco_config.ps1" />
+      <jump line="19" column="0" filename="C:/code/utils/tools/choco_config.ps1" />
+      <jump line="4" column="71" filename="C:/code/utils/tools/installer_klniu.ps1" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2465,8 +2455,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>socks5</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2573,37 +2563,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>socks5</text>
+        <text>$confirmation -ne &quot;y&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXRTZXR0aW5nXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>&quot;$_`choco_is_here&quot;</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBicmVhawo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">U2V0LUV4ZWN1dGlvblBvbGljeSBCeXBhc3MgLVNjb3BlIFByb2Nlc3MgLUZvcmNlOyBpZXggKChOZXctT2JqZWN0IFN5c3RlbS5OZXQuV2ViQ2xpZW50KS5Eb3dubG9hZFN0cmluZygnaHR0cHM6Ly9jaG9jb2xhdGV5Lm9yZy9pbnN0YWxsLnBzMScpKQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgImNvbW1hbmQgZmFpbGVkIgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ewo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ZWxzZQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgImNvbW1hbmQgc3VjY2VlZGVkIgogICAkc2hhcmUgfCBGb3JlYWNoLU9iamVjdCB7Li4ufQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">JGNvbmZpcm1hdGlvbiA9IFJlYWQtSG9zdCAiyejWw7T6wO0/IFt5L25dIgo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ewp9Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGNob2NvIGNvbmZpZyB1bnNldCBwcm94eQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBjaG9jbyBjb25maWcgdW5zZXQgcHJveHkK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Y2hvY28gY29uZmlnIHNldCBwcm94eSBodHRwOi8vbG9jYWxob3N0OjEwODAK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">IyDJ6NbDu7q05sK3vrYKJGRyaXZlcyA9IFtFbnZpcm9ubWVudF06OkdldExvZ2ljYWxEcml2ZXMoKQpmb3JlYWNoICgkZHJpdmUgaW4gJGRyaXZlcykgewogICAgaWYgKFRlc3QtUGF0aCAtUGF0aCAiJGRyaXZlYGNob2NvX2lzX2hlcmUiKSB7CiAgICAgICAgJGNhY2hlID0gIiRkcml2ZWBjaG9jbyIKICAgICAgICBicmVhawogICAgfQp9CmlmICghKFRlc3QtUGF0aCB2YXJpYWJsZTpjYWNoZSkpIHsKICAgIGVjaG8gIs7et6jV0rW9Y2hvY2+7urTmwre+tqOss8zQ8s3Ls/YiCiAgICBleGl0Cn0KZWNobyAiu7q05sK3vrajuiRjYWNoZSIKY2hvY28gY29uZmlnIHNldCBjYWNoZUxvY2F0aW9uICRjYWNoZQo=</text>
+        <text encoding="base64">ICAgIGlmICgkY29uZmlybWF0aW9uIC1lcSAnbicpIHsKICAgICAgICBjaG9jbyBjb25maWcgdW5zZXQgcHJveHkKICAgIH0K</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
