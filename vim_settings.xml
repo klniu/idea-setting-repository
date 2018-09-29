@@ -1109,10 +1109,11 @@
         <mark key="." line="16" column="12" />
         <mark key="^" line="16" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1538222729155">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="12" />
-        <mark key="." line="0" column="12" />
+      <file name="/Dummy.txt" timestamp="1538224424183">
+        <mark key="'" line="0" column="11" />
+        <mark key="[" line="0" column="2" />
+        <mark key="]" line="0" column="2" />
+        <mark key="." line="0" column="2" />
       </file>
       <file name="$USER_HOME$/code/voc/src/test/java/com/cnvoc/voc/service/impl/RepairServiceImplTest.java" timestamp="1530257880294">
         <mark key="'" line="315" column="0" />
@@ -1296,12 +1297,12 @@
         <mark key="." line="31" column="18" />
         <mark key="^" line="31" column="18" />
       </file>
-      <file name="C:/code/utils/tools/installer_klniu.ps1" timestamp="1538222602557">
+      <file name="C:/code/utils/tools/installer_klniu.ps1" timestamp="1538224229968">
         <mark key="'" line="5" column="0" />
-        <mark key="[" line="7" column="92" />
-        <mark key="]" line="7" column="97" />
-        <mark key="." line="7" column="97" />
-        <mark key="^" line="7" column="97" />
+        <mark key="[" line="9" column="79" />
+        <mark key="]" line="9" column="82" />
+        <mark key="." line="9" column="82" />
+        <mark key="^" line="9" column="82" />
       </file>
       <file name="$USER_HOME$/code/voc_ice/src/pages/Component/Install.scss" timestamp="1537065528993">
         <mark key="[" line="0" column="1" />
@@ -2333,7 +2334,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/code/voc_ice/src/pages/Install/components/InstallTable/index.js" />
       <jump line="2" column="0" filename="$USER_HOME$/code/voc_ice/src/pages/Install/components/InstallTable/index.js" />
       <jump line="148" column="34" filename="$USER_HOME$/code/voc_ice/src/pages/Component/components/ComponentTable/InstallTable.jsx" />
       <jump line="27" column="32" filename="$USER_HOME$/code/voc_ice/src/pages/Component/components/ComponentTable/ComponentTable.jsx" />
@@ -2433,6 +2433,7 @@
       <jump line="5" column="0" filename="C:/code/utils/tools/installer_klniu.ps1" />
       <jump line="18" column="11" filename="C:/code/utils/tools/choco_config.ps1" />
       <jump line="6" column="0" filename="C:/code/utils/tools/choco_config.ps1" />
+      <jump line="0" column="11" filename="/Dummy.txt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2455,8 +2456,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>office365</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2563,7 +2564,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>$confirmation -ne &quot;y&quot;</text>
+        <text>office365</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXRTZXR0aW5nXD4=</text>
