@@ -1300,11 +1300,11 @@
         <mark key="." line="31" column="18" />
         <mark key="^" line="31" column="18" />
       </file>
-      <file name="C:/code/utils/tools/installer_klniu.ps1" timestamp="1538207814823">
-        <mark key="[" line="12" column="17" />
-        <mark key="]" line="12" column="17" />
-        <mark key="^" line="12" column="17" />
-        <mark key="." line="12" column="17" />
+      <file name="C:/code/utils/tools/installer_klniu.ps1" timestamp="1538209684047">
+        <mark key="[" line="1" column="25" />
+        <mark key="]" line="1" column="24" />
+        <mark key="." line="1" column="24" />
+        <mark key="^" line="1" column="24" />
       </file>
       <file name="$USER_HOME$/code/voc_ice/src/pages/Component/Install.scss" timestamp="1537065528993">
         <mark key="[" line="0" column="1" />
@@ -1997,6 +1997,12 @@
         <mark key="^" line="13" column="5" />
         <mark key="." line="18" column="16" />
       </file>
+      <file name="C:/code/utils/tools/choco_config.ps1" timestamp="1538209280335">
+        <mark key="[" line="19" column="23" />
+        <mark key="]" line="19" column="26" />
+        <mark key="^" line="19" column="26" />
+        <mark key="." line="19" column="26" />
+      </file>
       <file name="$USER_HOME$/code/ym/config.py" timestamp="1527916846306">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
@@ -2337,8 +2343,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="295" column="13" filename="$USER_HOME$/code/pyutils/safetysystem/clickprocess.py" />
-      <jump line="305" column="33" filename="$USER_HOME$/code/pyutils/safetysystem/clickprocess.py" />
       <jump line="36" column="13" filename="$USER_HOME$/code/pyutils/safetysystem/clickprocess.py" />
       <jump line="363" column="42" filename="$USER_HOME$/code/pyutils/safetysystem/clickprocess.py" />
       <jump line="95" column="30" filename="$USER_HOME$/code/pyutils/safetysystem/clickprocess.py" />
@@ -2437,6 +2441,8 @@
       <jump line="171" column="56" filename="$USER_HOME$/code/voc_ice/src/pages/ComponentPage/components/ComponentTable/ComponentTable.jsx" />
       <jump line="149" column="33" filename="$USER_HOME$/code/voc_ice/src/pages/ComponentPage/components/ComponentTable/ComponentTable.jsx" />
       <jump line="4" column="24" filename="$USER_HOME$/code/voc_ice/src/components/Upload/Upload.js" />
+      <jump line="0" column="5" filename="C:/code/utils/tools/installer_klniu.ps1" />
+      <jump line="13" column="25" filename="C:/code/utils/tools/choco_config.ps1" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2460,7 +2466,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>c:\temp\choco</text>
+        <text>socks5</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2567,7 +2573,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>c:\temp\choco</text>
+        <text>socks5</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXRTZXR0aW5nXD4=</text>
@@ -2576,31 +2582,31 @@
         <text>&quot;$_`choco_is_here&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZWNobyAkY2FjaGUK</text>
+        <text encoding="base64">U2V0LUV4ZWN1dGlvblBvbGljeSBCeXBhc3MgLVNjb3BlIFByb2Nlc3MgLUZvcmNlOyBpZXggKChOZXctT2JqZWN0IFN5c3RlbS5OZXQuV2ViQ2xpZW50KS5Eb3dubG9hZFN0cmluZygnaHR0cHM6Ly9jaG9jb2xhdGV5Lm9yZy9pbnN0YWxsLnBzMScpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZWNobyAxCg==</text>
+        <text encoding="base64">ICAgImNvbW1hbmQgZmFpbGVkIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZWxzZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIChUZXN0LVBhdGggLVBhdGggIiRfYGNob2NvX2lzX2hlcmUiKSB7CiAgICAgICAgJGNhY2hlID0gIiRfYGNob2NvIgogICAgICAgIGJyZWFrCiAgICB9Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fCBGb3JFYWNoLU9iamVjdCB7Cg==</text>
+        <text encoding="base64">ICAgImNvbW1hbmQgc3VjY2VlZGVkIgogICAkc2hhcmUgfCBGb3JlYWNoLU9iamVjdCB7Li4ufQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Zm9yICgkaSA9IDA7ICRpIC1sdCAkYXJyYXkuQ291bnQ7ICRpKyspIHsKICAgIAp9Cg==</text>
+        <text encoding="base64">IyDJ6NbDu7q05sK3vrYKJGRyaXZlcyA9IFtFbnZpcm9ubWVudF06OkdldExvZ2ljYWxEcml2ZXMoKQpmb3JlYWNoICgkZHJpdmUgaW4gJGRyaXZlcykgewogICAgaWYgKFRlc3QtUGF0aCAtUGF0aCAiJGRyaXZlYGNob2NvX2lzX2hlcmUiKSB7CiAgICAgICAgJGNhY2hlID0gIiRkcml2ZWBjaG9jbyIKICAgICAgICBicmVhawogICAgfQp9CmlmICghKFRlc3QtUGF0aCB2YXJpYWJsZTpjYWNoZSkpIHsKICAgIGVjaG8gIs7et6jV0rW9Y2hvY2+7urTmwre+tqOss8zQ8s3Ls/YiCiAgICBleGl0Cn0KZWNobyAiu7q05sK3vrajuiRjYWNoZSIKY2hvY28gY29uZmlnIHNldCBjYWNoZUxvY2F0aW9uICRjYWNoZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Zm9yZWFjaCAoJGl0ZW0gaW4gJGNvbGxlY3Rpb24pCnsKICAgICAgICAgICAgICAgICAgICAKfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action NextTab</text>
