@@ -1300,11 +1300,11 @@
         <mark key="." line="31" column="18" />
         <mark key="^" line="31" column="18" />
       </file>
-      <file name="C:/code/utils/tools/installer_klniu.ps1" timestamp="1538206133145">
-        <mark key="[" line="4" column="27" />
-        <mark key="]" line="5" column="12" />
-        <mark key="." line="5" column="12" />
-        <mark key="^" line="5" column="12" />
+      <file name="C:/code/utils/tools/installer_klniu.ps1" timestamp="1538207814823">
+        <mark key="[" line="12" column="17" />
+        <mark key="]" line="12" column="17" />
+        <mark key="^" line="12" column="17" />
+        <mark key="." line="12" column="17" />
       </file>
       <file name="$USER_HOME$/code/voc_ice/src/pages/Component/Install.scss" timestamp="1537065528993">
         <mark key="[" line="0" column="1" />
@@ -2459,8 +2459,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb250aW51ZQo=</text>
+      <register name="&quot;" type="4">
+        <text>c:\temp\choco</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2567,7 +2567,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>c:\temp\choco</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXRTZXR0aW5nXD4=</text>
@@ -2576,31 +2576,31 @@
         <text>&quot;$_`choco_is_here&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb250aW51ZQo=</text>
+        <text encoding="base64">ZWNobyAkY2FjaGUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVjaG8gIiRfYGNob2NvIgo=</text>
+        <text encoding="base64">ZWNobyAxCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGVjaG8gJF8gKyAiY2hvY28K</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZWNobyAxCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZWNobyAxCg==</text>
+        <text encoding="base64">ICAgIGlmIChUZXN0LVBhdGggLVBhdGggIiRfYGNob2NvX2lzX2hlcmUiKSB7CiAgICAgICAgJGNhY2hlID0gIiRfYGNob2NvIgogICAgICAgIGJyZWFrCiAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZWNobyAxCg==</text>
+        <text encoding="base64">fCBGb3JFYWNoLU9iamVjdCB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBUZXN0LVBhCg==</text>
+        <text encoding="base64">KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkYwo=</text>
+        <text encoding="base64">Zm9yICgkaSA9IDA7ICRpIC1sdCAkYXJyYXkuQ291bnQ7ICRpKyspIHsKICAgIAp9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">KTsK</text>
+        <text encoding="base64">Zm9yZWFjaCAoJGl0ZW0gaW4gJGNvbGxlY3Rpb24pCnsKICAgICAgICAgICAgICAgICAgICAKfQo=</text>
       </register>
       <register name=":" type="4">
         <text>action NextTab</text>
