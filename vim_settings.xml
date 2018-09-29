@@ -1109,7 +1109,7 @@
         <mark key="." line="16" column="12" />
         <mark key="^" line="16" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1538212701317">
+      <file name="/Dummy.txt" timestamp="1538222729155">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
@@ -1296,12 +1296,12 @@
         <mark key="." line="31" column="18" />
         <mark key="^" line="31" column="18" />
       </file>
-      <file name="C:/code/utils/tools/installer_klniu.ps1" timestamp="1538212175951">
-        <mark key="'" line="10" column="71" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="0" column="0" />
+      <file name="C:/code/utils/tools/installer_klniu.ps1" timestamp="1538222602557">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="7" column="92" />
+        <mark key="]" line="7" column="97" />
+        <mark key="." line="7" column="97" />
+        <mark key="^" line="7" column="97" />
       </file>
       <file name="$USER_HOME$/code/voc_ice/src/pages/Component/Install.scss" timestamp="1537065528993">
         <mark key="[" line="0" column="1" />
@@ -1990,12 +1990,12 @@
         <mark key="^" line="13" column="5" />
         <mark key="." line="18" column="16" />
       </file>
-      <file name="C:/code/utils/tools/choco_config.ps1" timestamp="1538212166488">
-        <mark key="'" line="19" column="0" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="28" column="8" />
+      <file name="C:/code/utils/tools/choco_config.ps1" timestamp="1538222542888">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="5" />
+        <mark key="." line="0" column="5" />
+        <mark key="^" line="0" column="5" />
       </file>
       <file name="$USER_HOME$/code/ym/config.py" timestamp="1527916846306">
         <mark key="[" line="23" column="0" />
@@ -2333,9 +2333,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="95" column="30" filename="$USER_HOME$/code/pyutils/safetysystem/clickprocess.py" />
-      <jump line="67" column="3" filename="$USER_HOME$/code/voc_ice/src/pages/Install/components/InstallTable/SelectableTable.jsx" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/voc_ice/src/pages/Install/components/InstallTable/SelectableTable.jsx" />
       <jump line="0" column="0" filename="$USER_HOME$/code/voc_ice/src/pages/Install/components/InstallTable/index.js" />
       <jump line="2" column="0" filename="$USER_HOME$/code/voc_ice/src/pages/Install/components/InstallTable/index.js" />
       <jump line="148" column="34" filename="$USER_HOME$/code/voc_ice/src/pages/Component/components/ComponentTable/InstallTable.jsx" />
@@ -2433,6 +2430,9 @@
       <jump line="13" column="25" filename="C:/code/utils/tools/choco_config.ps1" />
       <jump line="19" column="0" filename="C:/code/utils/tools/choco_config.ps1" />
       <jump line="4" column="71" filename="C:/code/utils/tools/installer_klniu.ps1" />
+      <jump line="5" column="0" filename="C:/code/utils/tools/installer_klniu.ps1" />
+      <jump line="18" column="11" filename="C:/code/utils/tools/choco_config.ps1" />
+      <jump line="6" column="0" filename="C:/code/utils/tools/choco_config.ps1" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2575,31 +2575,31 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">JGNvbmZpcm1hdGlvbiA9IFJlYWQtSG9zdCAiyejWw7T6wO0/IFt5L25dIgo=</text>
+        <text encoding="base64">Li9jaG9jb19jb25maWcucHMxCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ewp9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">JGNvbmZpcm1hdGlvbiA9IFJlYWQtSG9zdCAiyejWw7T6wO0/IFt5L25dIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNob2NvIGNvbmZpZyB1bnNldCBwcm94eQo=</text>
+        <text encoding="base64">ewp9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjaG9jbyBjb25maWcgdW5zZXQgcHJveHkK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Y2hvY28gY29uZmlnIHNldCBwcm94eSBodHRwOi8vbG9jYWxob3N0OjEwODAK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmICgkY29uZmlybWF0aW9uIC1lcSAnbicpIHsKICAgICAgICBjaG9jbyBjb25maWcgdW5zZXQgcHJveHkKICAgIH0K</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGNob2NvIGNvbmZpZyB1bnNldCBwcm94eQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBjaG9jbyBjb25maWcgdW5zZXQgcHJveHkK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Y2hvY28gY29uZmlnIHNldCBwcm94eSBodHRwOi8vbG9jYWxob3N0OjEwODAK</text>
+      </register>
       <register name=":" type="4">
-        <text>action NextTab</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -2648,13 +2648,13 @@
         <entry>%s/content[i++]/{content[i++]}/gc</entry>
         <entry>%s/content\[i++\]/{content[i++]}/gc</entry>
         <entry>action Forward</entry>
-        <entry>w</entry>
         <entry>%s/BasicLayout/MainLayout/gc</entry>
         <entry>%s/BasicLayout/HeaderFooterLayout/gc</entry>
         <entry>q</entry>
-        <entry>action PreviousTab</entry>
         <entry>action ReformatCode</entry>
         <entry>action NextTab</entry>
+        <entry>action PreviousTab</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
