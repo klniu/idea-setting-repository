@@ -1620,11 +1620,11 @@
         <mark key="^" line="29" column="40" />
         <mark key="." line="29" column="40" />
       </file>
-      <file name="C:/code/utils/tools/03_config.ps1" timestamp="1538302481429">
-        <mark key="[" line="1" column="43" />
-        <mark key="]" line="1" column="43" />
-        <mark key="." line="1" column="43" />
-        <mark key="^" line="1" column="43" />
+      <file name="C:/code/utils/tools/03_config.ps1" timestamp="1538304512507">
+        <mark key="[" line="3" column="4" />
+        <mark key="]" line="3" column="57" />
+        <mark key="." line="3" column="13" />
+        <mark key="^" line="2" column="13" />
       </file>
       <file name="$USER_HOME$/code/webutils/map/安监系统数据统计/index.html" timestamp="1532584149843">
         <mark key="'" line="145" column="0" />
@@ -2320,7 +2320,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">U3ltYm9saWNMaW5rIA==</text>
+        <text>New-Item -ItemType HardLink -Path $link -Value $target</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2427,7 +2427,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">U3ltYm9saWNMaW5rIA==</text>
+        <text encoding="base64">LUl0ZW1UeXBlIEhhcmRMaW5rIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXRTZXR0aW5nXD4=</text>
