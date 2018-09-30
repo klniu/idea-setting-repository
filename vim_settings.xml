@@ -347,6 +347,11 @@
         <mark key="." line="68" column="72" />
         <mark key="^" line="68" column="81" />
       </file>
+      <file name="C:/code/utils/system/wakeup/wakeup" timestamp="1538276440729">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="75" column="3" />
+      </file>
       <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/entity/svg/Group.java" timestamp="1524118068575">
         <mark key="'" line="55" column="31" />
         <mark key="[" line="55" column="70" />
@@ -440,6 +445,11 @@
         <mark key="]" line="3" column="17" />
         <mark key="." line="3" column="17" />
         <mark key="^" line="5" column="8" />
+      </file>
+      <file name="C:/code/utils/system/wakeup/rest.ps1" timestamp="1538276245171">
+        <mark key="[" line="0" column="15" />
+        <mark key="]" line="0" column="15" />
+        <mark key="." line="0" column="15" />
       </file>
       <file name="D:/code/web/voc-web/src/app/routes/base/ldarsetting/finished.component.ts" timestamp="1520071978070">
         <mark key="'" line="11" column="16" />
@@ -586,7 +596,6 @@
         <mark key="." line="52" column="13" />
         <mark key="^" line="52" column="13" />
       </file>
-      <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/model_test.go" timestamp="1537668611198" />
       <file name="D:/code/web/voc-ui/src/app/routes/ldar/component/seal-form.component.ts" timestamp="1522725627311">
         <mark key="'" line="35" column="38" />
         <mark key="[" line="72" column="0" />
@@ -2334,9 +2343,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="$USER_HOME$/code/voc_ice/src/pages/Install/components/InstallTable/index.js" />
-      <jump line="148" column="34" filename="$USER_HOME$/code/voc_ice/src/pages/Component/components/ComponentTable/InstallTable.jsx" />
-      <jump line="27" column="32" filename="$USER_HOME$/code/voc_ice/src/pages/Component/components/ComponentTable/ComponentTable.jsx" />
       <jump line="0" column="0" filename="$USER_HOME$/code/voc_ice/src/pages/Component/Install.jsx" />
       <jump line="14" column="8" filename="$USER_HOME$/code/voc_ice/src/pages/Component/Install.jsx" />
       <jump line="158" column="41" filename="$USER_HOME$/code/voc_ice/src/pages/Component/components/ComponentTable/ComponentTable.jsx" />
@@ -2434,6 +2440,9 @@
       <jump line="18" column="11" filename="C:/code/utils/tools/choco_config.ps1" />
       <jump line="6" column="0" filename="C:/code/utils/tools/choco_config.ps1" />
       <jump line="0" column="11" filename="/Dummy.txt" />
+      <jump line="7" column="0" filename="C:/code/utils/system/wakeup/wakeup" />
+      <jump line="31" column="12" filename="C:/code/utils/system/wakeup/wakeup" />
+      <jump line="0" column="0" filename="C:/code/utils/system/wakeup/wakeup" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2456,8 +2465,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>office365</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyEvYmluL2Jhc2gKIyAKbm90aWZ5KCkgewogICAgbm90aWZ5LXNlbmQgLWkgL3Vzci9zaGFyZS9pY29ucy9IaWdoQ29udHJhc3QvMjU2eDI1Ni9zdGF0dXMvc29mdHdhcmUtdXBkYXRlLXVyZ2VudC5wbmcgIiQxIiAiJDIiCn0KCiMg0qrH88Drv6qhotHp1qS6zbnYu/oKbGVhdmUoKSB7CiAgICAgICAgbm90aWZ5ICJOb3QgV29ya2luZyBUaW1lISIgIkl0J3Mgbm90IHdvcmtpbmcgdGltZSBhbmQgaW5wdXQgcGFzc3dvcmQgaWYgeW91IHdhbnQgdG8gYW55d2F5LiBPciBzeXN0ZW0gd2lsbCBiZSBwb3dlcmVkIG9mIGFmdGVyIDIwIHNlY29uZHMuIgogICAgICAgIHBhc3M9JCh6ZW5pdHkgLS1wYXNzd29yZCAtLXRpbWVvdXQgNTAgLS10aXRsZSAiUGFzc3dvcmQiIC0tZGlzcGxheT06MC4wKQogICAgICAgIGVuY3J5cHQ9YGVjaG8gLW4gJHBhc3N8c2hhMjU2c3VtYAogICAgICAgIGlmIFtbICIkZW5jcnlwdCIgPT0gImZmM2Y0MDM2YTExNjRkMWRkYmFkNWIzZWRmOTAyMmFkZGIzZTE5NjFhNTRhOTIyNzA4YTZjMWZmYzQ5ZTU0ODkgIC0iIF1dCiAgICAgICAgdGhlbgogICAgICAgICAgICBub3RpZnkgIlJlZCBXb3JraW5nIFRpbWUhIiAiWW91IG9ubHkgaGF2ZSAzMCBtaW51dGVzIHRvIGRvIHdoYXQgeW91IHdhbnQuIgogICAgICAgICAgICBzbGVlcCAzMG0KICAgICAgICBlbHNlCiAgICAgICAgICAgIG5vdGlmeSAiR29pbmcgRG93biEiICJTeXN0ZW0gd2lsbCBiZSBzaHV0ZG93biBpbiAxIG1pbnV0ZXMuIgogICAgICAgICAgICBzaHV0ZG93biAtaCArMQogICAgICAgIGZpCn0KcmVzdD0wCmxvY2tlZF9taW49MAojIMGs0PjL+MbByrG85Ap3aGlsZSB0cnVlOyBkbwogICAgaG91cj1gZGF0ZSArIiVIJU0iYAogICAgaG91cj0kKCgxMCMkaG91cikpCiAgICB3ZWVrZGF5PWBkYXRlICsiJXUiYAoKICAgICMgMjA6MzAgfiA3OjAw1q685LK7xNzTw7XnxNQKICAgIGlmIFtbICRob3VyIC1nZSAyMDMwIHx8ICRob3VyIC1sZSA3MDAgXV0KICAgIHRoZW4KICAgICAgICBsZWF2ZQogICAgZmkKCiAgICBzbGVlcCAxbQogICAgcmVzdD0kKChyZXN0KzEpKQogICAgIyDNqNaquaTX98qxvOQKICAgIG5vdGlmeSAiV2FrZSB1cCwgYm95ISIgIllvdSBoYXZlIHdvcmtlZCBmb3IgJHJlc3QgbWludXRlcy4iCgogICAgIyDI57n7ysfW3NK7tb3W3M7lyc+w4MqxvOSjrMTHw7S1vdTaMTE6MDC6zTExo7ozMNauvOS687vyMTY6NTB+MTc6MzC686OssrvU2dDdz6IKICAgIGlmIFtbICR3ZWVrZGF5IC1nZSAxICYmICR3ZWVrZGF5IC1sZSA1IF1dICYmIChbWyAkaG91ciAtZ2UgMTEwMCAmJiAkaG91ciAtbGUgMTEzMCBdXSB8fCBbWyAkaG91ciAtZ2UgMTY1MCAmJiAkaG91ciAtbGUgMTczMCBdXSkKICAgIHRoZW4KICAgICAgICBjb250aW51ZQogICAgZmkKCiAgICAjIMjnufvL+MbByrG85LOsuf0xMLfW1tOjrMu1w/fIy9LRvq3A67+qo6zW2NbDuaTX98qxvOQKICAgIGFjdGl2ZT1gcWRidXMgb3JnLmZyZWVkZXNrdG9wLlNjcmVlblNhdmVyIC9TY3JlZW5TYXZlciBHZXRBY3RpdmVgCiAgICBpZiAkYWN0aXZlCiAgICB0aGVuCiAgICAgICAgaWYgW1sgJGxvY2tlZF9taW4gLWdlIDEwIF1dCiAgICAgICAgdGhlbgogICAgICAgICAgICByZXN0ID0gMAogICAgICAgIGVsc2UKICAgICAgICAgICAgbG9ja2VkX21pbj0kKChsb2NrZWRfbWluKzEpKQogICAgICAgIGZpCiAgICBlbHNlCiAgICAgICAgbG9ja2VkX21pbiA9IDAKICAgIGZpCgoKICAgICMgNDW31tbT0N3PotK7tM4KICAgIGlmIFtbICR7cmVzdH0gLWdlIDQ1IF1dO3RoZW4KICAgICAgICBmb3IgaSBpbiB7MC4uMTl9CiAgICAgICAgZG8KICAgICAgICAgICAgc2xlcHQ9JCgoMzAwLWkqMTUpKQogICAgICAgICAgICBpZiAhICRhY3RpdmUKICAgICAgICAgICAgdGhlbgogICAgICAgICAgICAgICAgbm90aWZ5ICJSZXN0IFRpbWUiICJZb3UgaGF2ZSBsZWZ0ICRzbGVwdCBzZWNvbmRzIHRvIHJlc3QuIgogICAgICAgICAgICAgICAgc2xlZXAgMQogICAgICAgICAgICAgICAgcWRidXMgb3JnLmZyZWVkZXNrdG9wLlNjcmVlblNhdmVyIC9TY3JlZW5TYXZlciBMb2NrCiAgICAgICAgICAgIGZpCiAgICAgICAgICAgIHNsZWVwIDE1CiAgICAgICAgZG9uZQogICAgICAgIHJlc3Q9MAogICAgZmkKZG9uZQo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2564,57 +2573,56 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>office365</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZXRTZXR0aW5nXD4=</text>
+        <text encoding="base64">XDxsZWF2ZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBicmVhawo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">RnVuY3Rpb24gTG9jay1Xb3JrU3RhdGlvbiB7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Li9jaG9jb19jb25maWcucHMxCg==</text>
+        <text encoding="base64">JHNpZ25hdHVyZSA9IEAiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">W0RsbEltcG9ydCgidXNlcjMyLmRsbCIsIFNldExhc3RFcnJvciA9IHRydWUpXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">JGNvbmZpcm1hdGlvbiA9IFJlYWQtSG9zdCAiyejWw7T6wO0/IFt5L25dIgo=</text>
+        <text encoding="base64">cHVibGljIHN0YXRpYyBleHRlcm4gYm9vbCBMb2NrV29ya1N0YXRpb24oKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ewp9Cg==</text>
+        <text encoding="base64">IkAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNob2NvIGNvbmZpZyB1bnNldCBwcm94eQo=</text>
+        <text encoding="base64">JExvY2tXb3JrU3RhdGlvbiA9IEFkZC1UeXBlIC1tZW1iZXJEZWZpbml0aW9uICRzaWduYXR1cmUgLW5hbWUgIldpbjMyTG9ja1dvcmtTdGF0aW9uIiAtbmFtZXNwYWNlIFdpbjMyRnVuY3Rpb25zIC1wYXNzdGhydQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjaG9jbyBjb25maWcgdW5zZXQgcHJveHkK</text>
+        <text encoding="base64">JExvY2tXb3JrU3RhdGlvbjo6TG9ja1dvcmtTdGF0aW9uKCkgfCBPdXQtTnVsbAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y2hvY28gY29uZmlnIHNldCBwcm94eSBodHRwOi8vbG9jYWxob3N0OjEwODAK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZXRTZXR0aW5nXD4=</last-search>
+      <last-search encoding="base64">XDxsZWF2ZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZXRTZXR0aW5nXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxsZWF2ZVw+</last-pattern>
       <last-replace>HeaderFooterLayout</last-replace>
       <last-substitute>BasicLayout</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb250ZW50XD4=</entry>
         <entry>content[i++]</entry>
         <entry>content\[i++\]</entry>
         <entry encoding="base64">XDxwb3NpdGlvblw+</entry>
@@ -2634,6 +2642,7 @@
         <entry encoding="base64">XDxnZW5lcmF0ZV9wZGZcPg==</entry>
         <entry encoding="base64">XDxnZXRCYXNlRGF0YVw+</entry>
         <entry encoding="base64">XDxzZXRTZXR0aW5nXD4=</entry>
+        <entry encoding="base64">XDxsZWF2ZVw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5hY3Rpb24gTmV4dFRhYg==</entry>
