@@ -164,8 +164,12 @@
         <mark key="^" line="52" column="12" />
         <mark key="." line="52" column="12" />
       </file>
-      <file name="C:/code/voc_ice/src/pages/ComponentPage/components/ComponentTable/ComponentTable.jsx" timestamp="1538386168285">
-        <mark key="'" line="181" column="0" />
+      <file name="C:/code/voc_ice/src/pages/ComponentPage/components/ComponentTable/ComponentTable.jsx" timestamp="1538391731659">
+        <mark key="'" line="192" column="0" />
+        <mark key="[" line="178" column="32" />
+        <mark key="]" line="178" column="43" />
+        <mark key="." line="178" column="43" />
+        <mark key="^" line="178" column="43" />
       </file>
       <file name="$USER_HOME$/code/Ethereum/Helper/ethgasstation.py" timestamp="1535888991965">
         <mark key="[" line="8" column="22" />
@@ -644,9 +648,6 @@
         <mark key="." line="77" column="74" />
         <mark key="^" line="77" column="74" />
       </file>
-      <file name="$USER_HOME$/code/voc_ice/src/layouts/UserLayout/UserLayout.jsx" timestamp="1537950767307">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="D:/code/web/voc-delon/src/app/routes/base/factory/factory.component.html" timestamp="1522210031261">
         <mark key="'" line="59" column="18" />
         <mark key="[" line="13" column="74" />
@@ -1074,10 +1075,11 @@
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
       </file>
-      <file name="C:/code/voc_ice/src/components/Upload/Upload.js" timestamp="1538389464598">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="C:/code/voc_ice/src/components/Upload/Upload.js" timestamp="1538391366936">
+        <mark key="[" line="14" column="25" />
+        <mark key="]" line="14" column="25" />
+        <mark key="^" line="10" column="38" />
+        <mark key="." line="14" column="25" />
       </file>
       <file name="$USER_HOME$/code/voc/src/test/java/com/cnvoc/voc/service/impl/RepairServiceImplTest.java" timestamp="1530257880294">
         <mark key="'" line="315" column="0" />
@@ -2363,8 +2365,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRoaXMuCg==</text>
+      <register name="&quot;" type="4">
+        <text>SealModal</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2471,40 +2473,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>SealModal</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsZWF2ZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IFByb3BUeXBlcyBmcm9tICdwcm9wLXR5cGVzJzsK</text>
+        <text encoding="base64">ICBzaG93U2VhbE1vZGFsID0gKHJlY29yZCwgZSkgPT4gewogICAgZS5wcmV2ZW50RGVmYXVsdCgpOwogICAgdGhpcy5zZXRTdGF0ZSh1cGRhdGUodGhpcy5zdGF0ZSwgeyBzZWFsc01vZGFsOiB7CiAgICAgIHZpc2libGU6IHsgJHNldDogdHJ1ZSB9LAogICAgICBjb21wb25lbnRJZDogeyAkc2V0OiByZWNvcmQuaWQgfSwKICAgICAgdGl0bGU6IHsgJHNldDogcmVjb3JkLnRhZyB9LAogICAgfSB9KSk7CiAgfTsKICBoaWRlU2VhbE1vZGFsID0gKCkgPT4gewogICAgdGhpcy5zZXRTdGF0ZSh1cGRhdGUodGhpcy5zdGF0ZSwgeyBzZWFsc01vZGFsOiB7IHZpc2libGU6IHsgJHNldDogZmFsc2UgfSB9IH0pKTsKICB9Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRoaXMuCg==</text>
+        <text encoding="base64">ICAgICAgICBjb21wb25lbnRJZDogeyAkc2V0OiByZWNvcmQuaWQgfSwKICAgICAgICB0aXRsZTogeyAkc2V0OiByZWNvcmQudGFnIH0sCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFjdGlvbjogUHJvcFR5cGVzLnN0cmluZy5yZXF1aXJlZAo=</text>
+        <text encoding="base64">ICAgIGUucHJldmVudERlZmF1bHQoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhcmFtOiB7fSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIG9uRHJvcD17b25Ecm9wfQo=</text>
+        <text encoding="base64">ICAgIGFjY2VwdDogJycsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIG9uRHJhZ092ZXI9e29uRHJhZ092ZXJ9Cg==</text>
+        <text encoding="base64">ICAgIHVwbG9hZEZ1bmN0aW9uOiAoKSAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHVwbG9hZEZ1bmN0aW9uOiBQcm9wVHlwZXMuZnVuYy5yZXF1aXJlZCwK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c2V0LXBzZGVidWcgLXRyYWNlIDIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">SW1wb3J0LW1vZHVsZSAuXGJhc2UucHMxIC1Gb3JjZQo=</text>
+        <text encoding="base64">ICAgIHRoaXMuCg==</text>
       </register>
       <register name=":" type="4">
         <text>action PreviousTab</text>
