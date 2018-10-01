@@ -450,11 +450,11 @@
         <mark key="^" line="315" column="9" />
         <mark key="." line="315" column="9" />
       </file>
-      <file name="C:/code/utils/system/windows/03_config_files.ps1" timestamp="1538358433997">
-        <mark key="[" line="7" column="1" />
-        <mark key="]" line="7" column="5" />
-        <mark key="^" line="7" column="5" />
-        <mark key="." line="7" column="5" />
+      <file name="C:/code/utils/system/windows/03_config_files.ps1" timestamp="1538361321094">
+        <mark key="[" line="1" column="40" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/code/website/src/containers/Home/components/Div3/Div3.js" timestamp="1528895138174">
         <mark key="'" line="35" column="42" />
@@ -943,6 +943,12 @@
         <mark key="." line="52" column="44" />
         <mark key="^" line="52" column="22" />
       </file>
+      <file name="C:/code/utils/system/windows/04_config_recovery.ps1" timestamp="1538361452986">
+        <mark key="[" line="1" column="51" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+      </file>
       <file name="D:/code/web/voc-web/src/app/app.module.ts" timestamp="1520151671972">
         <mark key="'" line="41" column="9" />
         <mark key="[" line="42" column="0" />
@@ -1055,9 +1061,9 @@
         <mark key="." line="16" column="12" />
         <mark key="^" line="16" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1538224424183">
+      <file name="/Dummy.txt" timestamp="1538361520277">
         <mark key="'" line="0" column="11" />
-        <mark key="[" line="0" column="2" />
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
       </file>
@@ -1362,11 +1368,12 @@
         <mark key="." line="98" column="29" />
         <mark key="^" line="98" column="29" />
       </file>
-      <file name="C:/code/utils/system/windows/05_config_back.ps1" timestamp="1538359035276">
-        <mark key="[" line="1" column="27" />
-        <mark key="]" line="1" column="31" />
-        <mark key="." line="1" column="31" />
-        <mark key="^" line="1" column="31" />
+      <file name="C:/code/utils/system/windows/05_config_back.ps1" timestamp="1538361448575">
+        <mark key="'" line="1" column="22" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="2" column="27" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/EmissionServiceImplTest.java" timestamp="1523759102669">
         <mark key="'" line="201" column="0" />
@@ -2231,7 +2238,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="8" filename="$USER_HOME$/code/voc_ice/src/pages/Component/Install.jsx" />
       <jump line="158" column="41" filename="$USER_HOME$/code/voc_ice/src/pages/Component/components/ComponentTable/ComponentTable.jsx" />
       <jump line="10" column="15" filename="$USER_HOME$/code/voc_ice/src/api/factory.js" />
       <jump line="0" column="0" filename="$USER_HOME$/code/voc_ice/src/api/factory.js" />
@@ -2331,6 +2337,7 @@
       <jump line="31" column="12" filename="C:/code/utils/system/wakeup/wakeup" />
       <jump line="0" column="0" filename="C:/code/utils/system/wakeup/wakeup" />
       <jump line="19" column="20" filename="C:/code/utils/system/windows/base.ps1" />
+      <jump line="1" column="22" filename="C:/code/utils/system/windows/05_config_back.ps1" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2353,8 +2360,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>dests</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">c2V0LXBzZGVidWcgLXRyYWNlIDIK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2461,40 +2468,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>dests</text>
+        <text>files</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsZWF2ZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">SWYgKC1OT1QgKFtTZWN1cml0eS5QcmluY2lwYWwuV2luZG93c1ByaW5jaXBhbF1bU2VjdXJpdHkuUHJpbmNpcGFsLldpbmRvd3NJZGVudGl0eV06OkdldEN1cnJlbnQoKSkuSXNJblJvbGUoW1NlY3VyaXR5LlByaW5jaXBhbC5XaW5kb3dzQnVpbHRJblJvbGVdICJBZG1pbmlzdHJhdG9yIikpCnsKICAgICRhcmd1bWVudHMgPSAiJiAnIiArICRteWludm9jYXRpb24ubXljb21tYW5kLmRlZmluaXRpb24gKyAiJyIKICAgIFN0YXJ0LVByb2Nlc3MgcG93ZXJzaGVsbCAtVmVyYiBydW5BcyAtQXJndW1lbnRMaXN0ICRhcmd1bWVudHMKICAgIEJyZWFrCn0K</text>
+        <text encoding="base64">JGN1cnJlbnQgPSBTcGxpdC1QYXRoICRzY3JpcHQ6TXlJbnZvY2F0aW9uLk15Q29tbWFuZC5QYXRoCkltcG9ydC1tb2R1bGUgIiRjdXJyZW50XDAzX2NvbmZpZ19maWxlcy5wczEiIC1Gb3JjZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YXNrQWRtaW4K</text>
+        <text encoding="base64">c2V0LXBzZGVidWcgLXRyYWNlIDIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">SW1wb3J0LW1vZHVsZSAuXGJhc2UucHMxIC1Gb3JjZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">JHN5bmMgPSBmaW5kU3luY0ZvbGRlcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBCcmVhawo=</text>
+        <text encoding="base64">SW1wb3J0LW1vZHVsZSAuXDAzX2NvbmZpZ19maWxlcy5wczEgLUZvcmNlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTdGFydC1Qcm9jZXNzIHBvd2Vyc2hlbGwgLVZlcmIgcnVuQXMgLUFyZ3VtZW50TGlzdCAkYXJndW1lbnRzCg==</text>
+        <text encoding="base64">ZWNobyAkY3VycmVudAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkYXJndW1lbnRzID0gIiYgJyIgKyAkbXlpbnZvY2F0aW9uLm15Y29tbWFuZC5kZWZpbml0aW9uICsgIiciCg==</text>
+        <text encoding="base64">SW1wb3J0LW1vZHVsZSAuXDAzX2NvbmZpZ19maWxlcy5wczEgLUZvcmNlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">ZWNobyAkTXlJbnZvY2F0aW9uLk15Q29tbWFuZC5QYXRoCmVjaG8gMQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIElmICgtTk9UIChbU2VjdXJpdHkuUHJpbmNpcGFsLldpbmRvd3NQcmluY2lwYWxdW1NlY3VyaXR5LlByaW5jaXBhbC5XaW5kb3dzSWRlbnRpdHldOjpHZXRDdXJyZW50KCkpLklzSW5Sb2xlKFtTZWN1cml0eS5QcmluY2lwYWwuV2luZG93c0J1aWx0SW5Sb2xlXSAiQWRtaW5pc3RyYXRvciIpKQo=</text>
+        <text encoding="base64">ZWNobyAkTXlJbnZvY2F0aW9uLk15Q29tbWFuZC5QYXRoCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gYXNrQWRtaW4oKSB7Cg==</text>
+        <text encoding="base64">ZWNobyAkTXlJbnZvY2F0aW9uLk15Q29tbWFuZC5QYXRoCg==</text>
       </register>
       <register name=":" type="4">
         <text>action PreviousTab</text>
