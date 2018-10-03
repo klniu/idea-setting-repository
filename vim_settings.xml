@@ -654,11 +654,11 @@
         <mark key="." line="77" column="74" />
         <mark key="^" line="77" column="74" />
       </file>
-      <file name="C:/code/voc_ice/src/components/FeedbackUpload/FeedbackUpload.js" timestamp="1538535422911">
-        <mark key="[" line="38" column="59" />
-        <mark key="]" line="38" column="59" />
-        <mark key="." line="38" column="59" />
-        <mark key="^" line="38" column="59" />
+      <file name="C:/code/voc_ice/src/components/FeedbackUpload/FeedbackUpload.js" timestamp="1538537915754">
+        <mark key="[" line="81" column="3" />
+        <mark key="]" line="81" column="3" />
+        <mark key="^" line="81" column="3" />
+        <mark key="." line="81" column="3" />
       </file>
       <file name="D:/code/web/voc-delon/src/app/routes/base/factory/factory.component.html" timestamp="1522210031261">
         <mark key="'" line="59" column="18" />
@@ -2379,7 +2379,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">YXdhaXQg</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2486,40 +2486,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YXdhaXQg</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>update</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5zZXRTdGF0ZSh7IHVwbG9hZGluZzogZmFsc2V9KTsK</text>
+      <register name="0" type="4">
+        <text>this.state.uploading ? this.handleUpload : this.stopUpload</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnNldFN0YXRlKHsgdXBsb2FkaW5nOiB0cnVlIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgdGhpcy5zZXRTdGF0ZSh7IHVwbG9hZGluZzogZmFsc2UgfSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnNldFN0YXRlKHsgdXBsb2FkaW5nOiBmYWxzZSB9KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5zZXRTdGF0ZSh7IHVwbG9hZGluZzogdHJ1ZSB9KTsK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnNldFN0YXRlKHsgdXBsb2FkaW5nOiB0cnVlIH0pOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0pLmZpbmFsbHkoKCkgPXsK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5zZXRTdGF0ZSh7IHVwbG9hZGluZzogZmFsc2V9KTsK</text>
+        <text encoding="base64">ICAgIH0pLmNhdGNoKChlcnJvcikgPT4gewogICAgICBmaWxlU3RhdHVzLnN0YXR1cyA9ICdlcnJvcic7CiAgICAgIGZpbGVTdGF0dXMuZXJyb3IgPSBgyc+0q8qnsNyjrMfrvOyy6c34wufBrL3TLiR7ZXJyb3J9YDsKICAgICAgdGhpcy5zZXRTdGF0ZSh7IHVwbG9hZGluZzogZmFsc2V9KTsKICAgIH0pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5zZXRTdGF0ZSh7IHVwbG9hZGluZzogZmFsc2V9KTsK</text>
+        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoeyB1cGxvYWRpbmc6IHRydWUgfSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5zZXRTdGF0ZSh7IHVwbG9hZGluZzogZmFsc2V9KTsK</text>
+        <text encoding="base64">ICAgICAgaWYgKHJlcy5kYXRhLmNvZGUgPT09IDApIHsKICAgICAgICBmaWxlU3RhdHVzLnN0YXR1cyA9ICdzdWNjZXNzJzsKICAgICAgfSBlbHNlIHsKICAgICAgICBmaWxlU3RhdHVzLnN0YXR1cyA9ICdlcnJvcic7CiAgICAgICAgZmlsZVN0YXR1cy5lcnJvciA9IHJlcy5kYXRhLm1zZzsKICAgICAgfQogICAgICB0aGlzLnNldFN0YXRlKHsgdXBsb2FkaW5nOiBmYWxzZX0pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoeyB1cGxvYWRpbmc6IGZhbHNlfSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action PreviousTab</text>
