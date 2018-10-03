@@ -168,12 +168,12 @@
         <mark key="^" line="52" column="12" />
         <mark key="." line="52" column="12" />
       </file>
-      <file name="C:/code/voc_ice/src/pages/ComponentPage/components/ComponentTable/ComponentTable.jsx" timestamp="1538556891419">
+      <file name="C:/code/voc_ice/src/pages/ComponentPage/components/ComponentTable/ComponentTable.jsx" timestamp="1538561842928">
         <mark key="'" line="38" column="6" />
-        <mark key="[" line="213" column="65" />
-        <mark key="]" line="213" column="66" />
-        <mark key="^" line="220" column="67" />
-        <mark key="." line="213" column="66" />
+        <mark key="[" line="227" column="95" />
+        <mark key="]" line="227" column="95" />
+        <mark key="^" line="228" column="92" />
+        <mark key="." line="227" column="95" />
       </file>
       <file name="$USER_HOME$/code/Ethereum/Helper/ethgasstation.py" timestamp="1535888991965">
         <mark key="[" line="8" column="22" />
@@ -585,12 +585,12 @@
         <mark key="^" line="13" column="116" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="C:/code/voc_ice/src/pages/ComponentPage/components/SealTable/SealTable.jsx" timestamp="1538558826422">
-        <mark key="'" line="132" column="30" />
-        <mark key="[" line="172" column="5" />
-        <mark key="]" line="172" column="13" />
-        <mark key="." line="172" column="13" />
-        <mark key="^" line="172" column="13" />
+      <file name="C:/code/voc_ice/src/pages/ComponentPage/components/SealTable/SealTable.jsx" timestamp="1538561772399">
+        <mark key="'" line="97" column="44" />
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="98" column="3" />
+        <mark key="." line="190" column="0" />
+        <mark key="^" line="97" column="15" />
       </file>
       <file name="D:/code/web/voc-ui/src/app/routes/ldar/component/component-form.component.ts" timestamp="1520556992956">
         <mark key="'" line="126" column="29" />
@@ -655,10 +655,11 @@
         <mark key="." line="77" column="74" />
         <mark key="^" line="77" column="74" />
       </file>
-      <file name="C:/code/voc_ice/src/components/FeedbackUpload/FeedbackUpload.js" timestamp="1538546027343">
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="84" column="28" />
-        <mark key="." line="84" column="0" />
+      <file name="C:/code/voc_ice/src/components/FeedbackUpload/FeedbackUpload.js" timestamp="1538562093182">
+        <mark key="[" line="95" column="40" />
+        <mark key="]" line="95" column="40" />
+        <mark key="." line="95" column="40" />
+        <mark key="^" line="95" column="40" />
       </file>
       <file name="D:/code/web/voc-delon/src/app/routes/base/factory/factory.component.html" timestamp="1522210031261">
         <mark key="'" line="59" column="18" />
@@ -2262,10 +2263,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/code/ice-master/react-materials/scaffolds/ice-design-pro/src/store/userProfile/reducer.js" />
-      <jump line="10" column="1" filename="$USER_HOME$/code/ice-master/react-materials/scaffolds/ice-design-pro/src/store/userProfile/reducer.js" />
-      <jump line="21" column="26" filename="$USER_HOME$/code/voc_ice/src/store/reducer.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/voc_ice/src/store/reducer.js" />
       <jump line="10" column="1" filename="$USER_HOME$/code/voc_ice/src/store/reducer.js" />
       <jump line="15" column="11" filename="$USER_HOME$/code/ice-master/react-materials/scaffolds/ice-design-pro/src/store/userProfile/action.js" />
       <jump line="0" column="0" filename="$USER_HOME$/code/ice-master/react-materials/scaffolds/ice-design-pro/src/store/userProfile/action.js" />
@@ -2362,6 +2359,10 @@
       <jump line="134" column="26" filename="C:/code/voc_ice/src/pages/ComponentPage/components/SealTable/SealTable.jsx" />
       <jump line="133" column="26" filename="C:/code/voc_ice/src/pages/ComponentPage/components/SealTable/SealTable.jsx" />
       <jump line="132" column="30" filename="C:/code/voc_ice/src/pages/ComponentPage/components/SealTable/SealTable.jsx" />
+      <jump line="190" column="26" filename="C:/code/voc_ice/src/pages/ComponentPage/components/SealTable/SealTable.jsx" />
+      <jump line="192" column="25" filename="C:/code/voc_ice/src/pages/ComponentPage/components/SealTable/SealTable.jsx" />
+      <jump line="193" column="21" filename="C:/code/voc_ice/src/pages/ComponentPage/components/SealTable/SealTable.jsx" />
+      <jump line="97" column="44" filename="C:/code/voc_ice/src/pages/ComponentPage/components/SealTable/SealTable.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2385,7 +2386,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>pace</text>
+        <text>type</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2492,40 +2493,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>pace</text>
+        <text>type</text>
       </register>
       <register name="/" type="4">
         <text>title</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGZsZXhHcm93OiAwLAo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">IGNlbGw9e3RoaXMucmVuZGVyTW9yZX0g</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG92ZXJmbG93OiAnaGlkZGVuJywK</text>
+        <text encoding="base64">ICAgIHRleHREZWNvcmF0aW9uOiAnbm9uZScsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBzdHlsZT17c3R5bGVzLnRvdGFsU3Bhbn0+e2C5siAke3RoaXMuc3RhdGUuZGF0YVNvdXJjZS5sZW5ndGh9IM/uYH08L2Rpdj4K</text>
+        <text encoding="base64">ICAgIGNvbG9yOiAnIzAwMCcsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxkaXYgc3R5bGU9e3N0eWxlcy50b3RhbFNwYW59PntgubIgJHt0aGlzLnN0YXRlLmRhdGFTb3VyY2UubGVuZ3RofSDP7mB9PC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgIGN1cnNvcjogJ2RlZmF1bHQnLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFRhYmxlLkNvbHVtbiB0aXRsZT0itqjOu8nosbgiIGRhdGFJbmRleD0ibG9jYXRvciIgd2lkdGg9ezgwfSAvPgo=</text>
+        <text encoding="base64">ICAgIHBvaW50ZXJFdmVudHM6ICdub25lJywK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB0YWJsZUNvbnRhaW5lcjogewogICAgcGFkZGluZ1RvcDogMCwKICB9LAo=</text>
+        <text encoding="base64">ICBjb2xvcjogYmxhY2s7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICB0ZXh0LWRlY29yYXRpb246IG5vbmU7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxkaXYgc3R5bGU9e3N0eWxlcy50b3RhbFNwYW59PntgubIgJHt0aGlzLnN0YXRlLnRvdGFsfSDP7mB9PC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgIG92ZXJmbG93OiAnaGlkZGVuJywK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBzdHlsZT17c3R5bGVzLnRvdGFsU3Bhbn0+e2C5siAke3RoaXMuc3RhdGUuZGF0YVNvdXJjZS5sZW5ndGh9IM/uYH08L2Rpdj4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxkaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxkaXYgc3R5bGU9e3N0eWxlcy50b3RhbFNwYW59PntgubIgJHt0aGlzLnN0YXRlLmRhdGFTb3VyY2UubGVuZ3RofSDP7mB9PC9kaXY+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action PreviousTab</text>
