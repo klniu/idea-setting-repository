@@ -176,10 +176,10 @@
         <mark key="^" line="52" column="12" />
         <mark key="." line="52" column="12" />
       </file>
-      <file name="C:/code/voc_ice/src/pages/ComponentPage/components/ComponentTable/ComponentTable.jsx" timestamp="1538647587616">
+      <file name="C:/code/voc_ice/src/pages/ComponentPage/components/ComponentTable/ComponentTable.jsx" timestamp="1538648607641">
         <mark key="'" line="118" column="21" />
-        <mark key="[" line="138" column="0" />
-        <mark key="]" line="140" column="2" />
+        <mark key="[" line="210" column="0" />
+        <mark key="]" line="220" column="18" />
         <mark key="^" line="236" column="30" />
         <mark key="." line="236" column="30" />
       </file>
@@ -375,6 +375,13 @@
         <mark key="]" line="38" column="63" />
         <mark key="." line="38" column="63" />
         <mark key="^" line="38" column="63" />
+      </file>
+      <file name="C:/code/voc_ice/src/pages/Detection/components/TVAForm.jsx" timestamp="1538648645556">
+        <mark key="'" line="67" column="0" />
+        <mark key="[" line="138" column="0" />
+        <mark key="]" line="138" column="0" />
+        <mark key="^" line="69" column="46" />
+        <mark key="." line="138" column="0" />
       </file>
       <file name="$USER_HOME$/code/pyutils/safetysystem/parseyaml.py" timestamp="1536911979413">
         <mark key="'" line="19" column="38" />
@@ -697,10 +704,6 @@
         <mark key="]" line="4" column="0" />
         <mark key="^" line="45" column="19" />
         <mark key="." line="4" column="0" />
-      </file>
-      <file name="C:/code/utils/system/windows/02_choco_install_softs.ps1" timestamp="1538357967465">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="5" column="0" />
       </file>
       <file name="$USER_HOME$/code/voc/src/test/java/com/cnvoc/voc/service/impl/InstallServiceImplTest.java" timestamp="1528265701173">
         <mark key="'" line="232" column="15" />
@@ -1836,10 +1839,6 @@
         <mark key="^" line="8" column="23" />
         <mark key="." line="8" column="23" />
       </file>
-      <file name="C:/code/voc_ice/package.json" timestamp="1538566674506">
-        <mark key="[" line="36" column="5" />
-        <mark key="]" line="36" column="19" />
-      </file>
       <file name="$USER_HOME$/code/website/src/containers/Home/components/Div4/style/mobile.scss" timestamp="1530345817234">
         <mark key="'" line="17" column="0" />
         <mark key="[" line="42" column="29" />
@@ -2340,8 +2339,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="149" column="33" filename="$USER_HOME$/code/voc_ice/src/pages/ComponentPage/components/ComponentTable/ComponentTable.jsx" />
-      <jump line="4" column="24" filename="$USER_HOME$/code/voc_ice/src/components/Upload/Upload.js" />
       <jump line="0" column="5" filename="C:/code/utils/tools/installer_klniu.ps1" />
       <jump line="13" column="25" filename="C:/code/utils/tools/choco_config.ps1" />
       <jump line="19" column="0" filename="C:/code/utils/tools/choco_config.ps1" />
@@ -2440,6 +2437,8 @@
       <jump line="9" column="53" filename="C:/code/voc_ice/src/store/action.js" />
       <jump line="17" column="0" filename="C:/code/voc_ice/src/api/detection.js" />
       <jump line="292" column="16" filename="C:/code/voc_ice/src/pages/Detection/components/DetectionTable/DetectionTable.jsx" />
+      <jump line="63" column="0" filename="C:/code/voc_ice/src/pages/Detection/components/TVAForm.jsx" />
+      <jump line="67" column="0" filename="C:/code/voc_ice/src/pages/Detection/components/TVAForm.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2462,8 +2461,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgPC9JY2VDb250YWluZXI+Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2570,40 +2569,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>企业信息设置</text>
       </register>
       <register name="/" type="4">
         <text>casder</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBvblNvcnQoZGF0YUluZGV4LCBvcmRlcikgewogICAgdGhpcy5zZXRTdGF0ZSh7IHNvcnRzOiB7IC4uLnRoaXMuc3RhdGUuc29ydHMsIFtkYXRhSW5kZXhdOiBvcmRlciA9PT0gJ2FzYycgfSB9LCB0aGlzLmdldERhdGEpOwogIH0K</text>
+        <text encoding="base64">ICAgICAgICAgIDxEaWFsb2cKICAgICAgICAgICAgY2xhc3NOYW1lPSJjb21wbGV4LWRpYWxvZyIKICAgICAgICAgICAgYXV0b0ZvY3VzPXtmYWxzZX0KICAgICAgICAgICAgZm9vdGVyPXt0aGlzLnJlbmRlclNlYWxzTW9kYWxGb290ZXIoKX0KICAgICAgICAgICAgdGl0bGU9e2DD3LfitePH5bWlo7oke3RoaXMuc3RhdGUuc2VhbERpYWxvZ1RpdGxlfWB9CiAgICAgICAgICAgIGlzRnVsbFNjcmVlbgogICAgICAgICAgICBvbkNsb3NlPXt0aGlzLmhpZGVTZWFsTW9kYWx9CiAgICAgICAgICAgIHZpc2libGU9e3RoaXMuc3RhdGUuc2VhbERpYWxvZ1Zpc2libGV9CiAgICAgICAgICA+CiAgICAgICAgICAgIDxTZWFsVGFibGUgY29tcG9uZW50SWQ9e3RoaXMuc3RhdGUuY3VycmVudENvbXBvbmVudCAmJiB0aGlzLnN0YXRlLmN1cnJlbnRDb21wb25lbnQuaWR9IC8+CiAgICAgICAgICA8L0RpYWxvZz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoewogICAgICBkYXRhU291cmNlCiAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgPC9JY2VDb250YWluZXI+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxldCBkYXRhU291cmNlID0gdGhpcy5zdGF0ZS5kYXRhU291cmNlLnNvcnQoZnVuY3Rpb24oYSwgYikgewogICAgICBsZXQgcmVzdWx0ID0gYVtkYXRhSW5kZXhdIC0gYltkYXRhSW5kZXhdOwogICAgICByZXR1cm4gb3JkZXIgPT09ICJhc2MiID8gKHJlc3VsdCA+IDAgPyAxIDogLTEpIDogcmVzdWx0ID4gMCA/IC0xIDogMTsKICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICA8L1Jvdz4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2V0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDwvQ29sPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IFNlYWxUYWJsZSBmcm9tICcuLi9TZWFsVGFibGUvU2VhbFRhYmxlJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZGVsZXRlQ29tcG9uZW50cywgZ2V0Q29tcG9uZW50cyB9IGZyb20gJy4uLy4uLy4uLy4uL2FwaS9jb21wb25lbnQnOwo=</text>
+        <text encoding="base64">ICAgICAgICA8Um93IHN0eWxlPXt7IG1hcmdpblRvcDogMjAgfX0+CiAgICAgICAgICA8Q29sIG9mZnNldD0iMyI+CiAgICAgICAgICAgIDxCdXR0b24KICAgICAgICAgICAgICBzaXplPSJsYXJnZSIKICAgICAgICAgICAgICB0eXBlPSJwcmltYXJ5IgogICAgICAgICAgICAgIHN0eWxlPXt7IHdpZHRoOiAxMDAgfX0KICAgICAgICAgICAgICBvbkNsaWNrPXt0aGlzLnZhbGlkYXRlQWxsRm9ybUZpZWxkfQogICAgICAgICAgICA+CiAgICAgICAgICAgICAgICDM4SC9uwogICAgICAgICAgICA8L0J1dHRvbj4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICByZW5kZXIK</text>
+        <text encoding="base64">ICAgICAgPC9JY2VDb250YWluZXI+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zdCByZXN1bHQgPSB7IHR1cm46IGRpY3RbMF0gfTsK</text>
+        <text encoding="base64">ICAgICAgPEljZUNvbnRhaW5lciBsb2FkaW5nPXt0aGlzLnN0YXRlLmxvYWRpbmd9Pgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB9LAo=</text>
+        <text encoding="base64">ICAgICAgPGRpdj4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRleHRBbGlnbjogJ2NlbnRlcicsCg==</text>
+        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action NextTab</text>
