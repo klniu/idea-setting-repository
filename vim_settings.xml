@@ -176,8 +176,8 @@
         <mark key="^" line="52" column="12" />
         <mark key="." line="52" column="12" />
       </file>
-      <file name="C:/code/voc_ice/src/pages/ComponentPage/components/ComponentTable/ComponentTable.jsx" timestamp="1538648607641">
-        <mark key="'" line="118" column="21" />
+      <file name="C:/code/voc_ice/src/pages/ComponentPage/components/ComponentTable/ComponentTable.jsx" timestamp="1538649987672">
+        <mark key="'" line="232" column="17" />
         <mark key="[" line="210" column="0" />
         <mark key="]" line="220" column="18" />
         <mark key="^" line="236" column="30" />
@@ -376,12 +376,11 @@
         <mark key="." line="38" column="63" />
         <mark key="^" line="38" column="63" />
       </file>
-      <file name="C:/code/voc_ice/src/pages/Detection/components/TVAForm.jsx" timestamp="1538648645556">
-        <mark key="'" line="67" column="0" />
-        <mark key="[" line="138" column="0" />
-        <mark key="]" line="138" column="0" />
-        <mark key="^" line="69" column="46" />
-        <mark key="." line="138" column="0" />
+      <file name="C:/code/voc_ice/src/pages/Detection/components/TVAForm.jsx" timestamp="1538650323108">
+        <mark key="'" line="66" column="0" />
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="77" column="0" />
+        <mark key="." line="66" column="0" />
       </file>
       <file name="$USER_HOME$/code/pyutils/safetysystem/parseyaml.py" timestamp="1536911979413">
         <mark key="'" line="19" column="38" />
@@ -595,10 +594,10 @@
         <mark key="^" line="13" column="116" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="C:/code/voc_ice/src/pages/ComponentPage/components/SealTable/SealTable.jsx" timestamp="1538646548597">
-        <mark key="'" line="146" column="28" />
-        <mark key="[" line="101" column="0" />
-        <mark key="]" line="104" column="3" />
+      <file name="C:/code/voc_ice/src/pages/ComponentPage/components/SealTable/SealTable.jsx" timestamp="1538649999084">
+        <mark key="'" line="101" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="34" />
         <mark key="." line="79" column="6" />
         <mark key="^" line="135" column="76" />
       </file>
@@ -1520,8 +1519,8 @@
         <mark key="." line="61" column="38" />
         <mark key="^" line="61" column="52" />
       </file>
-      <file name="C:/code/voc_ice/src/pages/Detection/components/DetectionTable/DetectionTable.jsx" timestamp="1538647613129">
-        <mark key="'" line="1" column="63" />
+      <file name="C:/code/voc_ice/src/pages/Detection/components/DetectionTable/DetectionTable.jsx" timestamp="1538649981674">
+        <mark key="'" line="21" column="15" />
         <mark key="[" line="306" column="54" />
         <mark key="]" line="306" column="54" />
         <mark key="." line="306" column="54" />
@@ -2339,13 +2338,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="5" filename="C:/code/utils/tools/installer_klniu.ps1" />
-      <jump line="13" column="25" filename="C:/code/utils/tools/choco_config.ps1" />
-      <jump line="19" column="0" filename="C:/code/utils/tools/choco_config.ps1" />
-      <jump line="4" column="71" filename="C:/code/utils/tools/installer_klniu.ps1" />
-      <jump line="5" column="0" filename="C:/code/utils/tools/installer_klniu.ps1" />
-      <jump line="18" column="11" filename="C:/code/utils/tools/choco_config.ps1" />
-      <jump line="6" column="0" filename="C:/code/utils/tools/choco_config.ps1" />
       <jump line="0" column="11" filename="/Dummy.txt" />
       <jump line="7" column="0" filename="C:/code/utils/system/wakeup/wakeup" />
       <jump line="31" column="12" filename="C:/code/utils/system/wakeup/wakeup" />
@@ -2439,6 +2431,13 @@
       <jump line="292" column="16" filename="C:/code/voc_ice/src/pages/Detection/components/DetectionTable/DetectionTable.jsx" />
       <jump line="63" column="0" filename="C:/code/voc_ice/src/pages/Detection/components/TVAForm.jsx" />
       <jump line="67" column="0" filename="C:/code/voc_ice/src/pages/Detection/components/TVAForm.jsx" />
+      <jump line="61" column="0" filename="C:/code/voc_ice/src/pages/Detection/components/TVAForm.jsx" />
+      <jump line="52" column="10" filename="C:/code/voc_ice/src/pages/Detection/components/TVAForm.jsx" />
+      <jump line="21" column="15" filename="C:/code/voc_ice/src/pages/Detection/components/DetectionTable/DetectionTable.jsx" />
+      <jump line="232" column="17" filename="C:/code/voc_ice/src/pages/ComponentPage/components/ComponentTable/ComponentTable.jsx" />
+      <jump line="101" column="0" filename="C:/code/voc_ice/src/pages/ComponentPage/components/SealTable/SealTable.jsx" />
+      <jump line="15" column="37" filename="C:/code/voc_ice/src/pages/Detection/components/TVAForm.jsx" />
+      <jump line="66" column="0" filename="C:/code/voc_ice/src/pages/Detection/components/TVAForm.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2462,7 +2461,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgPC9JY2VDb250YWluZXI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxSb3cgc3R5bGU9e3N0eWxlcy5mb3JtSXRlbX0+CiAgICAgICAgICAgIDxDb2wgeHhzPSI2IiBzPSIzIiBsPSIzIiBzdHlsZT17c3R5bGVzLmxhYmVsfT4KICAgICAgICAgICAgICAgICAgwta0zqO6CiAgICAgICAgICAgIDwvQ29sPgogICAgICAgICAgICA8Q29sIHM9IjEyIiBsPSIxMCI+CiAgICAgICAgICAgICAgPEljZUZvcm1CaW5kZXIgbmFtZT0iY2l0eSIgcmVxdWlyZWQgbWVzc2FnZT0isdjM7iI+CiAgICAgICAgICAgICAgICA8Q2FzY2FkZXJTZWxlY3QgZGF0YVNvdXJjZT17Q2l0aWVzfSAvPgogICAgICAgICAgICAgIDwvSWNlRm9ybUJpbmRlcj4KICAgICAgICAgICAgICA8SWNlRm9ybUVycm9yIG5hbWU9ImNpdHkiIC8+CiAgICAgICAgICAgIDwvQ29sPgogICAgICAgICAgPC9Sb3c+Cgo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2569,43 +2568,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>企业信息设置</text>
+        <text>区</text>
       </register>
       <register name="/" type="4">
         <text>casder</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxEaWFsb2cKICAgICAgICAgICAgY2xhc3NOYW1lPSJjb21wbGV4LWRpYWxvZyIKICAgICAgICAgICAgYXV0b0ZvY3VzPXtmYWxzZX0KICAgICAgICAgICAgZm9vdGVyPXt0aGlzLnJlbmRlclNlYWxzTW9kYWxGb290ZXIoKX0KICAgICAgICAgICAgdGl0bGU9e2DD3LfitePH5bWlo7oke3RoaXMuc3RhdGUuc2VhbERpYWxvZ1RpdGxlfWB9CiAgICAgICAgICAgIGlzRnVsbFNjcmVlbgogICAgICAgICAgICBvbkNsb3NlPXt0aGlzLmhpZGVTZWFsTW9kYWx9CiAgICAgICAgICAgIHZpc2libGU9e3RoaXMuc3RhdGUuc2VhbERpYWxvZ1Zpc2libGV9CiAgICAgICAgICA+CiAgICAgICAgICAgIDxTZWFsVGFibGUgY29tcG9uZW50SWQ9e3RoaXMuc3RhdGUuY3VycmVudENvbXBvbmVudCAmJiB0aGlzLnN0YXRlLmN1cnJlbnRDb21wb25lbnQuaWR9IC8+CiAgICAgICAgICA8L0RpYWxvZz4K</text>
+        <text encoding="base64">ICAgIG9uU3VibWl0OiBQcm9wVHlwZXMuZnVuYy5pc1JlcXVpcmVkLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgPC9JY2VDb250YWluZXI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxSb3cgc3R5bGU9e3N0eWxlcy5mb3JtSXRlbX0+CiAgICAgICAgICAgIDxDb2wgeHhzPSI2IiBzPSIzIiBsPSIzIiBzdHlsZT17c3R5bGVzLmxhYmVsfT4KICAgICAgICAgICAgICAgICAgwta0zqO6CiAgICAgICAgICAgIDwvQ29sPgogICAgICAgICAgICA8Q29sIHM9IjEyIiBsPSIxMCI+CiAgICAgICAgICAgICAgPEljZUZvcm1CaW5kZXIgbmFtZT0iY2l0eSIgcmVxdWlyZWQgbWVzc2FnZT0isdjM7iI+CiAgICAgICAgICAgICAgICA8Q2FzY2FkZXJTZWxlY3QgZGF0YVNvdXJjZT17Q2l0aWVzfSAvPgogICAgICAgICAgICAgIDwvSWNlRm9ybUJpbmRlcj4KICAgICAgICAgICAgICA8SWNlRm9ybUVycm9yIG5hbWU9ImNpdHkiIC8+CiAgICAgICAgICAgIDwvQ29sPgogICAgICAgICAgPC9Sb3c+Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8L1Jvdz4K</text>
+        <text encoding="base64">ICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvQ29sPgo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxkaXYgc3R5bGU9e3N0eWxlcy5mb3JtQ29udGVudH0+CiAgICAgICAgICAgIDxoMiBzdHlsZT17c3R5bGVzLmZvcm1UaXRsZX0+vOyy4tDFz6LJ6NbDPC9oMj4KCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgbG9hZGluZzogZmFsc2UsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8Um93IHN0eWxlPXt7IG1hcmdpblRvcDogMjAgfX0+CiAgICAgICAgICA8Q29sIG9mZnNldD0iMyI+CiAgICAgICAgICAgIDxCdXR0b24KICAgICAgICAgICAgICBzaXplPSJsYXJnZSIKICAgICAgICAgICAgICB0eXBlPSJwcmltYXJ5IgogICAgICAgICAgICAgIHN0eWxlPXt7IHdpZHRoOiAxMDAgfX0KICAgICAgICAgICAgICBvbkNsaWNrPXt0aGlzLnZhbGlkYXRlQWxsRm9ybUZpZWxkfQogICAgICAgICAgICA+CiAgICAgICAgICAgICAgICDM4SC9uwogICAgICAgICAgICA8L0J1dHRvbj4K</text>
+        <text encoding="base64">ICAgICAgICBmb290ZXI9e3RoaXMucmVuZGVyU2VhbHNNb2RhbEZvb3RlcigpfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgPC9JY2VDb250YWluZXI+Cg==</text>
+        <text encoding="base64">aW1wb3J0ICcuL1RWQUZvcm0uc2Nzcyc7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPEljZUNvbnRhaW5lciBsb2FkaW5nPXt0aGlzLnN0YXRlLmxvYWRpbmd9Pgo=</text>
+        <text encoding="base64">aW1wb3J0IENpdGllcyBmcm9tICcuLi8uLi8uLi8uLi9kYXRhL2NpdGllcyc7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPGRpdj4K</text>
+        <text encoding="base64">aW1wb3J0IHsgY2hlY2tSZXNwb25zZSB9IGZyb20gJy4uLy4uLy4uLy4uL0hlbHBlcnMvaGVscGVycyc7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgZ2V0RmFjdG9yeSwgdXBkYXRlRmFjdG9yeSB9IGZyb20gJy4uLy4uLy4uLy4uL2FwaS9mYWN0b3J5JzsK</text>
       </register>
       <register name=":" type="4">
-        <text>action NextTab</text>
+        <text>action PreviousTab</text>
       </register>
     </registers>
     <search>
@@ -2659,8 +2658,8 @@
         <entry>action ReformatCode</entry>
         <entry>w</entry>
         <entry>action Back</entry>
-        <entry>action PreviousTab</entry>
         <entry>action NextTab</entry>
+        <entry>action PreviousTab</entry>
       </history-cmd>
       <history-expr />
       <history-input />
