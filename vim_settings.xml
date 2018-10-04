@@ -2155,12 +2155,12 @@
         <mark key="^" line="97" column="20" />
         <mark key="." line="97" column="20" />
       </file>
-      <file name="C:/code/voc_ice/src/components/PhotoView/PhotoView.js" timestamp="1538572919980">
-        <mark key="'" line="47" column="30" />
-        <mark key="[" line="31" column="3" />
-        <mark key="]" line="32" column="5" />
-        <mark key="." line="32" column="5" />
-        <mark key="^" line="32" column="5" />
+      <file name="C:/code/voc_ice/src/components/PhotoView/PhotoView.js" timestamp="1538612467579">
+        <mark key="'" line="68" column="13" />
+        <mark key="[" line="30" column="3" />
+        <mark key="]" line="31" column="6" />
+        <mark key="." line="31" column="6" />
+        <mark key="^" line="31" column="6" />
       </file>
       <file name="D:/code/java/voc/src/test/resources/sql/init.sql" timestamp="1524214687179">
         <mark key="'" line="0" column="0" />
@@ -2282,7 +2282,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="263" column="0" filename="$USER_HOME$/code/voc_ice/src/pages/ComponentPage/components/ComponentTable/ComponentTable.jsx" />
       <jump line="0" column="0" filename="$USER_HOME$/code/voc_ice/src/layouts/UserLayout/UserLayout.jsx" />
       <jump line="139" column="2" filename="$USER_HOME$/code/voc_ice/src/pages/UserLogin/UserLogin.jsx" />
       <jump line="15" column="2" filename="$USER_HOME$/code/voc_ice/src/pages/UserLogin/UserLogin.jsx" />
@@ -2382,6 +2381,7 @@
       <jump line="42" column="27" filename="C:/code/voc_ice/src/pages/ComponentPage/components/SealTable/SealTable.jsx" />
       <jump line="239" column="12" filename="C:/code/voc_ice/src/pages/ComponentPage/components/ComponentTable/ComponentTable.jsx" />
       <jump line="40" column="30" filename="C:/code/voc_ice/src/components/PhotoView/PhotoView.js" />
+      <jump line="68" column="13" filename="C:/code/voc_ice/src/components/PhotoView/PhotoView.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2405,7 +2405,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgKiAqLwo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2512,7 +2512,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>prevProps</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjdXJyZW50Q29tcG9uZW50XD4=</text>
@@ -2521,31 +2521,31 @@
         <text encoding="base64">ICAgICAgdGhpcy5sb2FkSW1hZ2UodGhpcy5wcm9wcy5jb21wb25lbnQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgKiAqLwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdmlzaWJsZTogZmFsc2UsCg==</text>
+        <text encoding="base64">ICAvKioK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IEltZyBmcm9tICdAaWNlZGVzaWduL2ltZyc7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBvbkNsb3NlID0gKCkgPT4gewogICAgdGhpcy5vbkNsb3NlKCk7CiAgfTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBlcnJvckltZ1NyYz0iaHR0cHM6Ly9pbWcuYWxpY2RuLmNvbS90cHMvVEIxMVcuV09YWFhYWGNiYVhYWFhYWFhYWFhYLTQ5Ni0zMTAucG5nIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoeyB2aXNpYmxlOiBmYWxzZSB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBoZWlnaHQ9ezB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2V0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoe30pOwo=</text>
+        <text encoding="base64">ICAgICAgdmlzaWJsZTogZmFsc2UsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5zZXRTdGF0ZSh7dmlzaWJsZTogdHJ1ZX0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICBvbkNsb3NlID0gKCkgPT4gewogICAgdGhpcy5vbkNsb3NlKCk7CiAgfTsK</text>
       </register>
       <register name=":" type="4">
         <text>action NextTab</text>
@@ -2558,7 +2558,7 @@
       <last-replace>HeaderFooterLayout</last-replace>
       <last-substitute>BasicLayout</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
