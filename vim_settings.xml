@@ -170,12 +170,12 @@
         <mark key="^" line="52" column="12" />
         <mark key="." line="52" column="12" />
       </file>
-      <file name="C:/code/voc_ice/src/pages/ComponentPage/components/ComponentTable/ComponentTable.jsx" timestamp="1538572794795">
-        <mark key="'" line="239" column="12" />
-        <mark key="[" line="303" column="0" />
-        <mark key="]" line="307" column="3" />
-        <mark key="^" line="228" column="118" />
-        <mark key="." line="228" column="118" />
+      <file name="C:/code/voc_ice/src/pages/ComponentPage/components/ComponentTable/ComponentTable.jsx" timestamp="1538614907537">
+        <mark key="'" line="240" column="12" />
+        <mark key="[" line="243" column="83" />
+        <mark key="]" line="243" column="85" />
+        <mark key="^" line="243" column="85" />
+        <mark key="." line="243" column="85" />
       </file>
       <file name="$USER_HOME$/code/Ethereum/Helper/ethgasstation.py" timestamp="1535888991965">
         <mark key="[" line="8" column="22" />
@@ -587,12 +587,12 @@
         <mark key="^" line="13" column="116" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="C:/code/voc_ice/src/pages/ComponentPage/components/SealTable/SealTable.jsx" timestamp="1538572777164">
+      <file name="C:/code/voc_ice/src/pages/ComponentPage/components/SealTable/SealTable.jsx" timestamp="1538614995189">
         <mark key="'" line="42" column="27" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="45" column="2" />
-        <mark key="." line="69" column="18" />
-        <mark key="^" line="69" column="18" />
+        <mark key="[" line="16" column="27" />
+        <mark key="]" line="16" column="32" />
+        <mark key="." line="16" column="32" />
+        <mark key="^" line="16" column="32" />
       </file>
       <file name="D:/code/web/voc-ui/src/app/routes/ldar/component/component-form.component.ts" timestamp="1520556992956">
         <mark key="'" line="126" column="29" />
@@ -657,11 +657,11 @@
         <mark key="." line="77" column="74" />
         <mark key="^" line="77" column="74" />
       </file>
-      <file name="C:/code/voc_ice/src/components/FeedbackUpload/FeedbackUpload.js" timestamp="1538562093182">
-        <mark key="[" line="95" column="40" />
-        <mark key="]" line="95" column="40" />
-        <mark key="." line="95" column="40" />
-        <mark key="^" line="95" column="40" />
+      <file name="C:/code/voc_ice/src/components/FeedbackUpload/FeedbackUpload.js" timestamp="1538615974640">
+        <mark key="[" line="121" column="56" />
+        <mark key="]" line="121" column="59" />
+        <mark key="." line="121" column="59" />
+        <mark key="^" line="121" column="59" />
       </file>
       <file name="D:/code/web/voc-delon/src/app/routes/base/factory/factory.component.html" timestamp="1522210031261">
         <mark key="'" line="59" column="18" />
@@ -2404,8 +2404,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgKiAqLwo=</text>
+      <register name="&quot;" type="4">
+        <text>success</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2512,40 +2512,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>success</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjdXJyZW50Q29tcG9uZW50XD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5sb2FkSW1hZ2UodGhpcy5wcm9wcy5jb21wb25lbnQpOwo=</text>
+      <register name="0" type="4">
+        <text>{fileStatus.status === 'success' ? 'success' : &quot;warning&quot;}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgKiAqLwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGZpbGVTdGEK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvKioK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IEltZyBmcm9tICdAaWNlZGVzaWduL2ltZyc7Cg==</text>
+        <text encoding="base64">ICAgICAgbWV0aG9kOiAncG9zdCcsCiAgICAgIGhlYWRlcnM6IHsgJ0NvbnRlbnQtVHlwZSc6ICdtdWx0aXBhcnQvZm9ybS1kYXRhJyB9LAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBlcnJvckltZ1NyYz0iaHR0cHM6Ly9pbWcuYWxpY2RuLmNvbS90cHMvVEIxMVcuV09YWFhYWGNiYVhYWFhYWFhYWFhYLTQ5Ni0zMTAucG5nIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGF0YTpwYXlsb2FkCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBoZWlnaHQ9ezB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjYWxsYmFjazEocHJvZ3Jlc3NFdmVudCk7CiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdmlzaWJsZTogZmFsc2UsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvL8jnuftsZW5ndGhDb21wdXRhYmxlzqpmYWxzZaOsvs278cihsru1vXByb2dyZXNzRXZlbnQudG90YWy6zXByb2dyZXNzRXZlbnQubG9hZGVkCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvL8r00NRsZW5ndGhDb21wdXRhYmxl1vfSqrHtw/fX3Lmy0OjSqs3qs8m1xLmk1/fBv7rN0tG+rc3qs8m1xLmk1/fKx7fxv8nS1LG7suLBvwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBvbkNsb3NlID0gKCkgPT4gewogICAgdGhpcy5vbkNsb3NlKCk7CiAgfTsK</text>
+        <text encoding="base64">ICAgICAgICBvblVwbG9hZFByb2dyZXNzOmZ1bmN0aW9uKHByb2dyZXNzRXZlbnQpeyAvL9Styfq78cihyc+0q734tsi1xMrCvP4K</text>
       </register>
       <register name=":" type="4">
         <text>action NextTab</text>
