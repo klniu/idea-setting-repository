@@ -1308,8 +1308,12 @@
         <mark key="^" line="91" column="32" />
         <mark key="." line="90" column="0" />
       </file>
-      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/ComponentServiceImpl.java" timestamp="1538616523539">
+      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/ComponentServiceImpl.java" timestamp="1538617488779">
         <mark key="'" line="228" column="62" />
+        <mark key="[" line="233" column="75" />
+        <mark key="]" line="234" column="19" />
+        <mark key="^" line="234" column="19" />
+        <mark key="." line="234" column="19" />
       </file>
       <file name="$USER_HOME$/code/voc/src/test/java/com/cnvoc/voc/web/ComponentControllerTest.java" timestamp="1527836267407">
         <mark key="'" line="42" column="47" />
@@ -2391,7 +2395,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>png</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2498,7 +2502,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>png</text>
       </register>
       <register name="/" type="4">
         <text>update</text>
@@ -2534,7 +2538,7 @@
         <text encoding="base64">ICAgICAgdXBkYXRlKHRoaXMuc3RhdGUsIHsgc2VhbHNNb2RhbDogewogICAgICB2aXNpYmxlOiB7ICRzZXQ6IHRydWUgfSwKICAgICAgY29tcG9uZW50SWQ6IHsgJHNldDogcmVjb3JkLmlkIH0sCiAgICAgIHRpdGxlOiB7ICRzZXQ6IHJlY29yZC50YWcgfSwK</text>
       </register>
       <register name=":" type="4">
-        <text>action PreviousTab</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
@@ -2586,10 +2590,10 @@
         <entry>%s/BasicLayout/MainLayout/gc</entry>
         <entry>%s/BasicLayout/HeaderFooterLayout/gc</entry>
         <entry>q</entry>
-        <entry>action ReformatCode</entry>
         <entry>w</entry>
         <entry>action NextTab</entry>
         <entry>action PreviousTab</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
