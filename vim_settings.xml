@@ -321,11 +321,12 @@
         <mark key="." line="32" column="14" />
         <mark key="^" line="32" column="14" />
       </file>
-      <file name="D:/sync/projects/大沽化工/2018ldar/data/copyimages.py" timestamp="1538616851781">
-        <mark key="[" line="6" column="25" />
-        <mark key="]" line="6" column="25" />
-        <mark key="." line="6" column="25" />
-        <mark key="^" line="6" column="23" />
+      <file name="D:/sync/projects/大沽化工/2018ldar/data/copyimages.py" timestamp="1538621277135">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="6" column="52" />
+        <mark key="]" line="6" column="59" />
+        <mark key="." line="6" column="59" />
+        <mark key="^" line="6" column="59" />
       </file>
       <file name="D:/code/web/voc-delon/src/app/routes/base/factory/factory.component.ts" timestamp="1522139789401">
         <mark key="'" line="36" column="80" />
@@ -2215,7 +2216,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="15" filename="$USER_HOME$/code/voc_ice/src/api/factory.js" />
       <jump line="0" column="0" filename="$USER_HOME$/code/voc_ice/src/api/factory.js" />
       <jump line="13" column="0" filename="$USER_HOME$/code/voc_ice/src/Helpers/helpers.js" />
       <jump line="23" column="16" filename="$USER_HOME$/code/voc_ice/src/Helpers/helpers.js" />
@@ -2315,6 +2315,7 @@
       <jump line="97" column="20" filename="C:/code/pyutils/voc/bolinhandler.py" />
       <jump line="317" column="43" filename="C:/code/pyutils/voc/bolinhandler.py" />
       <jump line="351" column="19" filename="C:/code/pyutils/voc/bolinhandler.py" />
+      <jump line="6" column="0" filename="D:/sync/projects/大沽化工/2018ldar/data/copyimages.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2337,8 +2338,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2445,57 +2446,56 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>\'</text>
       </register>
       <register name="/" type="4">
-        <text>conso</text>
+        <text>\\</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBicmVhawo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">RnVuY3Rpb24gTG9jay1Xb3JrU3RhdGlvbiB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">JHNpZ25hdHVyZSA9IEAiCg==</text>
+        <text encoding="base64">RnVuY3Rpb24gTG9jay1Xb3JrU3RhdGlvbiB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">W0RsbEltcG9ydCgidXNlcjMyLmRsbCIsIFNldExhc3RFcnJvciA9IHRydWUpXQo=</text>
+        <text encoding="base64">JHNpZ25hdHVyZSA9IEAiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHVibGljIHN0YXRpYyBleHRlcm4gYm9vbCBMb2NrV29ya1N0YXRpb24oKTsK</text>
+        <text encoding="base64">W0RsbEltcG9ydCgidXNlcjMyLmRsbCIsIFNldExhc3RFcnJvciA9IHRydWUpXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IkAK</text>
+        <text encoding="base64">cHVibGljIHN0YXRpYyBleHRlcm4gYm9vbCBMb2NrV29ya1N0YXRpb24oKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">IkAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">JExvY2tXb3JrU3RhdGlvbiA9IEFkZC1UeXBlIC1tZW1iZXJEZWZpbml0aW9uICRzaWduYXR1cmUgLW5hbWUgIldpbjMyTG9ja1dvcmtTdGF0aW9uIiAtbmFtZXNwYWNlIFdpbjMyRnVuY3Rpb25zIC1wYXNzdGhydQo=</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">JExvY2tXb3JrU3RhdGlvbjo6TG9ja1dvcmtTdGF0aW9uKCkgfCBPdXQtTnVsbAo=</text>
+        <text encoding="base64">JExvY2tXb3JrU3RhdGlvbiA9IEFkZC1UeXBlIC1tZW1iZXJEZWZpbml0aW9uICRzaWduYXR1cmUgLW5hbWUgIldpbjMyTG9ja1dvcmtTdGF0aW9uIiAtbmFtZXNwYWNlIFdpbjMyRnVuY3Rpb25zIC1wYXNzdGhydQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">JExvY2tXb3JrU3RhdGlvbjo6TG9ja1dvcmtTdGF0aW9uKCkgfCBPdXQtTnVsbAo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz5zL1xcL1wvLw==</text>
       </register>
     </registers>
     <search>
-      <last-search>conso</last-search>
+      <last-search>\\</last-search>
       <last-offset />
-      <last-pattern>conso</last-pattern>
-      <last-replace>HeaderFooterLayout</last-replace>
-      <last-substitute>BasicLayout</last-substitute>
+      <last-pattern>\\</last-pattern>
+      <last-replace>\/</last-replace>
+      <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>content\[i++\]</entry>
         <entry encoding="base64">XDxwb3NpdGlvblw+</entry>
         <entry>netwo</entry>
         <entry>send</entry>
@@ -2515,10 +2515,9 @@
         <entry encoding="base64">XDxzZXRTZXR0aW5nXD4=</entry>
         <entry encoding="base64">XDxsZWF2ZVw+</entry>
         <entry>conso</entry>
+        <entry>\\</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gTmV4dFRhYg==</entry>
-        <entry>%s/1.0.0-beta.9/1.0.1/gc</entry>
         <entry encoding="base64">JzwsJz5zLzYuMC4wLzUuMi45L2dj</entry>
         <entry>action AceAction</entry>
         <entry encoding="base64">JzwsJz5zL2Rpc3RhbmNlL2hlaWdodC9nYw==</entry>
@@ -2537,6 +2536,8 @@
         <entry>action NextTab</entry>
         <entry>action PreviousTab</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5zL1xcL1wvL2dj</entry>
+        <entry encoding="base64">JzwsJz5zL1xcL1wvLw==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
