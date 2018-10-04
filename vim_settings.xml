@@ -587,11 +587,11 @@
         <mark key="^" line="13" column="116" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="C:/code/voc_ice/src/pages/ComponentPage/components/SealTable/SealTable.jsx" timestamp="1538619161841">
-        <mark key="'" line="43" column="27" />
-        <mark key="[" line="146" column="28" />
-        <mark key="]" line="146" column="29" />
-        <mark key="." line="146" column="29" />
+      <file name="C:/code/voc_ice/src/pages/ComponentPage/components/SealTable/SealTable.jsx" timestamp="1538623283875">
+        <mark key="'" line="146" column="28" />
+        <mark key="[" line="79" column="6" />
+        <mark key="]" line="79" column="6" />
+        <mark key="." line="79" column="6" />
         <mark key="^" line="135" column="76" />
       </file>
       <file name="D:/code/web/voc-ui/src/app/routes/ldar/component/component-form.component.ts" timestamp="1520556992956">
@@ -1091,7 +1091,7 @@
         <mark key="." line="16" column="12" />
         <mark key="^" line="16" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1538573027063">
+      <file name="/Dummy.txt" timestamp="1538623288567">
         <mark key="'" line="0" column="11" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
@@ -2246,6 +2246,12 @@
         <mark key="^" line="37" column="12" />
         <mark key="." line="37" column="12" />
       </file>
+      <file name="C:/code/voc_ice/src/menuConfig.js" timestamp="1538623401366">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="22" column="15" />
+      </file>
       <file name="$USER_HOME$/code/pyutils/auto/ClickAllLinks.py" timestamp="1536744112895">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="185" column="0" />
@@ -2283,7 +2289,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="19" filename="$USER_HOME$/code/voc_ice/src/pages/UserLogin/UserLogin.jsx" />
       <jump line="140" column="2" filename="$USER_HOME$/code/voc_ice/src/pages/UserLogin/UserLogin.jsx" />
       <jump line="16" column="2" filename="$USER_HOME$/code/voc_ice/src/pages/UserLogin/UserLogin.jsx" />
       <jump line="53" column="0" filename="$USER_HOME$/code/voc_ice/src/pages/ComponentPage/components/ComponentTable/ComponentTable.jsx" />
@@ -2383,6 +2388,7 @@
       <jump line="45" column="66" filename="C:/code/voc_ice/src/components/PhotoView/PhotoView.js" />
       <jump line="243" column="85" filename="C:/code/voc_ice/src/pages/ComponentPage/components/ComponentTable/ComponentTable.jsx" />
       <jump line="86" column="0" filename="C:/code/voc_ice/src/components/FeedbackUpload/FeedbackUpload.js" />
+      <jump line="146" column="28" filename="C:/code/voc_ice/src/pages/ComponentPage/components/SealTable/SealTable.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2405,8 +2411,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>9</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNoaWxkcmVuOiBbCiAgICAgIHsKICAgICAgICBuYW1lOiAn0qnGt9fWteQnLAogICAgICAgIHBhdGg6ICcvZGljdC9tZWRpY2luZScsCiAgICAgIH0sCiAgICAgIHsKICAgICAgICBuYW1lOiAn0r3W9sa1tM4nLAogICAgICAgIHBhdGg6ICcvZGljdC9hZHZpY2UnLAogICAgICB9LAogICAgXSwK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2513,7 +2519,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>9</text>
+        <text>dict</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
@@ -2522,31 +2528,31 @@
         <text encoding="base64">ICAgICAgICB0aGlzLnNldFN0YXRlKHsgZmlsZUxpc3QgfSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNoaWxkcmVuOiBbCiAgICAgIHsKICAgICAgICBuYW1lOiAn0qnGt9fWteQnLAogICAgICAgIHBhdGg6ICcvZGljdC9tZWRpY2luZScsCiAgICAgIH0sCiAgICAgIHsKICAgICAgICBuYW1lOiAn0r3W9sa1tM4nLAogICAgICAgIHBhdGg6ICcvZGljdC9hZHZpY2UnLAogICAgICB9LAogICAgXSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMuc2V0U3RhdGUoe2ZpbGVMaXN0fSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgIHRoaXMuc2V0U3RhdGUoe2ZpbGVMaXN0fSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGZpbGVMaXN0ID0gdGhpcy5zdGF0ZS5maWxlTGlzdC5sZW5ndGgK</text>
+        <text encoding="base64">ICAgICAgICAgIHRoaXMuc2V0U3RhdGUoe2ZpbGVMaXN0fSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXMpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGZpbGVMaXN0ID0gdGhpcy5zdGF0ZS5maWxlTGlzdC5sZW5ndGgK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZpbGVTdGF0dXMpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXMpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbkJvdHRvbTogMCwK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZpbGVTdGF0dXMpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbkJvdHRvbTogJzEwcHgnLAo=</text>
+        <text encoding="base64">ICAgIG1hcmdpbkJvdHRvbTogMCwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG1hcmdpblRvcDogJzEwcHgnLAo=</text>
+        <text encoding="base64">ICAgIG1hcmdpbkJvdHRvbTogJzEwcHgnLAo=</text>
       </register>
       <register name=":" type="4">
         <text>action NextTab</text>
