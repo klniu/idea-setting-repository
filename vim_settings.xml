@@ -170,8 +170,8 @@
         <mark key="^" line="52" column="12" />
         <mark key="." line="52" column="12" />
       </file>
-      <file name="C:/code/voc_ice/src/pages/ComponentPage/components/ComponentTable/ComponentTable.jsx" timestamp="1538618801168">
-        <mark key="'" line="243" column="85" />
+      <file name="C:/code/voc_ice/src/pages/ComponentPage/components/ComponentTable/ComponentTable.jsx" timestamp="1538636849214">
+        <mark key="'" line="118" column="21" />
         <mark key="[" line="305" column="0" />
         <mark key="]" line="305" column="0" />
         <mark key="^" line="257" column="22" />
@@ -493,6 +493,12 @@
         <mark key="." line="47" column="37" />
         <mark key="^" line="47" column="37" />
       </file>
+      <file name="C:/code/voc_ice/src/store/constants.js" timestamp="1538636867428">
+        <mark key="[" line="3" column="29" />
+        <mark key="]" line="3" column="32" />
+        <mark key="." line="3" column="32" />
+        <mark key="^" line="3" column="32" />
+      </file>
       <file name="$USER_HOME$/code/voc_ice/src/components/TreeTable/treePage.js" timestamp="1537062590859">
         <mark key="'" line="42" column="23" />
         <mark key="[" line="42" column="32" />
@@ -738,6 +744,12 @@
         <mark key="]" line="44" column="19" />
         <mark key="^" line="44" column="19" />
         <mark key="." line="44" column="19" />
+      </file>
+      <file name="C:/code/voc_ice/src/store/reducer.js" timestamp="1538636976575">
+        <mark key="[" line="7" column="10" />
+        <mark key="]" line="7" column="10" />
+        <mark key="^" line="7" column="10" />
+        <mark key="." line="7" column="10" />
       </file>
       <file name="$USER_HOME$/code/website/src/config.js" timestamp="1528892393764">
         <mark key="'" line="8" column="2" />
@@ -1389,6 +1401,13 @@
         <mark key="^" line="578" column="8" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="C:/code/voc_ice/src/store/action.js" timestamp="1538637255757">
+        <mark key="'" line="9" column="53" />
+        <mark key="[" line="38" column="32" />
+        <mark key="]" line="38" column="32" />
+        <mark key="." line="38" column="32" />
+        <mark key="^" line="38" column="32" />
+      </file>
       <file name="$USER_HOME$/code/voc/src/test/java/com/cnvoc/voc/service/impl/TobeServiceImplTest.java" timestamp="1530064854520">
         <mark key="'" line="155" column="28" />
         <mark key="[" line="157" column="8" />
@@ -1948,6 +1967,12 @@
         <mark key="^" line="46" column="12" />
         <mark key="." line="46" column="12" />
       </file>
+      <file name="C:/code/voc_ice/src/Helpers/helpers.js" timestamp="1538636591811">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+        <mark key="^" line="50" column="21" />
+      </file>
       <file name="D:/code/web/voc-web/src/app/routes/ldar/component/component.component.ts" timestamp="1520757956296">
         <mark key="'" line="29" column="4" />
         <mark key="[" line="255" column="0" />
@@ -2309,10 +2334,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="0" filename="$USER_HOME$/code/voc_ice/src/pages/ComponentPage/components/ComponentTable/ComponentTable.jsx" />
-      <jump line="18" column="2" filename="$USER_HOME$/code/voc_ice/src/layouts/HeaderFooterLayout/HeaderFooterLayout.jsx" />
-      <jump line="4" column="0" filename="$USER_HOME$/code/voc_ice/src/pages/ComponentPage/components/ComponentTable/ComponentTable.jsx" />
-      <jump line="261" column="0" filename="$USER_HOME$/code/voc_ice/src/pages/ComponentPage/components/ComponentTable/ComponentTable.jsx" />
       <jump line="168" column="14" filename="$USER_HOME$/code/voc_ice/src/pages/ComponentPage/components/ComponentTable/ComponentTable.jsx" />
       <jump line="171" column="56" filename="$USER_HOME$/code/voc_ice/src/pages/ComponentPage/components/ComponentTable/ComponentTable.jsx" />
       <jump line="149" column="33" filename="$USER_HOME$/code/voc_ice/src/pages/ComponentPage/components/ComponentTable/ComponentTable.jsx" />
@@ -2409,6 +2430,10 @@
       <jump line="146" column="28" filename="C:/code/voc_ice/src/pages/ComponentPage/components/SealTable/SealTable.jsx" />
       <jump line="175" column="9" filename="C:/code/voc_ice/src/pages/Detection/components/DetectionTable/DetectionTable.jsx" />
       <jump line="1" column="63" filename="C:/code/voc_ice/src/pages/Detection/components/DetectionTable/DetectionTable.jsx" />
+      <jump line="13" column="21" filename="C:/code/voc_ice/src/store/action.js" />
+      <jump line="118" column="21" filename="C:/code/voc_ice/src/pages/ComponentPage/components/ComponentTable/ComponentTable.jsx" />
+      <jump line="40" column="3" filename="C:/code/voc_ice/src/store/action.js" />
+      <jump line="9" column="53" filename="C:/code/voc_ice/src/store/action.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2431,8 +2456,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICB9Owo=</text>
+      <register name="&quot;" type="4">
+        <text>result</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2539,49 +2564,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>SealType</text>
+        <text>result</text>
       </register>
       <register name="/" type="4">
-        <text>console</text>
+        <text>casder</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFRhYmxlLkNvbHVtbiB0aXRsZT0iw9y34rXjwODQzSIgZGF0YUluZGV4PSJzZWFsVHlwZSIgY2VsbD17dGhpcy5yZW5kZXJTZWFsVHlwZX0gd2lkdGg9ezYwfSAvPgo=</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IFNFVF9TRVRUSU5HID0gJ1NFVF9TRVRUSU5HJzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB9Owo=</text>
+        <text encoding="base64">ICB7dW5pdHM6IHJlc3VsdFswXSwgaW5zdGFsbHM6IHJlc3VsdFsxXX0sCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICk7Cg==</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgY2hpbGRyZW4gPSAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8QnV0dG9uIHR5cGU9InByaW1hcnkiIG9uQ2xpY2s9e3RoaXMuaGlkZVNlYWxNb2RhbH0+udix1TwvQnV0dG9uPgo=</text>
+        <text encoding="base64">ICAgICAgZGljdHMuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPGRpdiBzdHlsZT17c3R5bGVzLnNlYWxzTW9kYWxGb290ZXJ9Pgo=</text>
+        <text encoding="base64">ICBkaWN0cwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAoCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICByZW5kZXJTZWFsc01vZGFsRm9vdGVyID0gKCkgPT4gewo=</text>
+        <text encoding="base64">ICByZXR1cm4gWyBwYXJlbnRzLCBjaGlsZHJlbiwgaW5zdGFsbHM6IGNoaWxkcmVuIH07Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB9Owo=</text>
+        <text encoding="base64">ICBjb25zdCBkaWN0cyA9IFtdOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiA8YSBocmVmPSIjIiBvbkNsaWNrPXt0aGlzLnNob3dTZWFsTW9kYWwuYmluZCh0aGlzLCByZWNvcmQpfT57dmFsdWV9PC9hPjsK</text>
+        <text encoding="base64">ICBjb25zdCBwYXJlbnRzID0ge307Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action NextTab</text>
+        <text>action PreviousTab</text>
       </register>
     </registers>
     <search>
-      <last-search>console</last-search>
+      <last-search>casder</last-search>
       <last-offset />
-      <last-pattern>console</last-pattern>
+      <last-pattern>casder</last-pattern>
       <last-replace>HeaderFooterLayout</last-replace>
       <last-substitute>BasicLayout</last-substitute>
       <last-dir>1</last-dir>
@@ -2589,7 +2614,6 @@
     </search>
     <history>
       <history-search>
-        <entry>beha</entry>
         <entry encoding="base64">XDxyZXR1cm5cPg==</entry>
         <entry>unlock</entry>
         <entry encoding="base64">XDxwYXNzX3hwYXRoXD4=</entry>
@@ -2609,6 +2633,7 @@
         <entry encoding="base64">XDxjdXJyZW50Q29tcG9uZW50SWRcPg==</entry>
         <entry encoding="base64">XDxjdXJyZW50Q29tcG9uZW50XD4=</entry>
         <entry>console</entry>
+        <entry>casder</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5hY3Rpb24gTmV4dFRhYg==</entry>
@@ -2629,8 +2654,8 @@
         <entry>q</entry>
         <entry>action ReformatCode</entry>
         <entry>w</entry>
-        <entry>action PreviousTab</entry>
         <entry>action NextTab</entry>
+        <entry>action PreviousTab</entry>
       </history-cmd>
       <history-expr />
       <history-input />
