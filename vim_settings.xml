@@ -170,12 +170,12 @@
         <mark key="^" line="52" column="12" />
         <mark key="." line="52" column="12" />
       </file>
-      <file name="C:/code/voc_ice/src/pages/ComponentPage/components/ComponentTable/ComponentTable.jsx" timestamp="1538737316143">
-        <mark key="'" line="233" column="12" />
-        <mark key="[" line="139" column="33" />
-        <mark key="]" line="139" column="33" />
-        <mark key="^" line="139" column="33" />
-        <mark key="." line="139" column="33" />
+      <file name="C:/code/voc_ice/src/pages/ComponentPage/components/ComponentTable/ComponentTable.jsx" timestamp="1538738739160">
+        <mark key="'" line="210" column="21" />
+        <mark key="[" line="275" column="14" />
+        <mark key="]" line="276" column="22" />
+        <mark key="." line="276" column="22" />
+        <mark key="^" line="276" column="22" />
       </file>
       <file name="$USER_HOME$/code/Ethereum/Helper/ethgasstation.py" timestamp="1535888991965">
         <mark key="[" line="8" column="22" />
@@ -1549,12 +1549,12 @@
         <mark key="." line="61" column="38" />
         <mark key="^" line="61" column="52" />
       </file>
-      <file name="C:/code/voc_ice/src/pages/Detection/components/DetectionTable/DetectionTable.jsx" timestamp="1538735619791">
-        <mark key="'" line="309" column="0" />
-        <mark key="[" line="144" column="79" />
-        <mark key="]" line="144" column="80" />
-        <mark key="^" line="39" column="14" />
-        <mark key="." line="144" column="80" />
+      <file name="C:/code/voc_ice/src/pages/Detection/components/DetectionTable/DetectionTable.jsx" timestamp="1538739368247">
+        <mark key="'" line="221" column="23" />
+        <mark key="[" line="171" column="0" />
+        <mark key="]" line="171" column="0" />
+        <mark key="^" line="170" column="11" />
+        <mark key="." line="171" column="0" />
       </file>
       <file name="$USER_HOME$/code/lkc_website/src/routes.js" timestamp="1528871958577">
         <mark key="'" line="42" column="31" />
@@ -2378,10 +2378,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="0" filename="C:/code/voc_ice/src/pages/ComponentPage/components/SealTable/SealTable.jsx" />
-      <jump line="37" column="4" filename="C:/code/voc_ice/src/components/FeedbackUpload/FeedbackUpload.js" />
-      <jump line="41" column="16" filename="C:/code/voc_ice/src/components/FeedbackUpload/FeedbackUpload.js" />
-      <jump line="106" column="16" filename="C:/code/voc_ice/src/components/FeedbackUpload/FeedbackUpload.js" />
       <jump line="0" column="0" filename="C:/code/voc_ice/src/components/FeedbackUpload/FeedbackUpload.js" />
       <jump line="42" column="6" filename="C:/code/voc_ice/src/components/FeedbackUpload/FeedbackUpload.js" />
       <jump line="159" column="0" filename="C:/code/voc_ice/src/components/FeedbackUpload/FeedbackUpload.js" />
@@ -2478,6 +2474,10 @@
       <jump line="309" column="0" filename="C:/code/voc_ice/src/pages/Detection/components/DetectionTable/DetectionTable.jsx" />
       <jump line="232" column="12" filename="C:/code/voc_ice/src/pages/ComponentPage/components/ComponentTable/ComponentTable.jsx" />
       <jump line="14" column="23" filename="C:/code/voc_ice/src/store/action.js" />
+      <jump line="206" column="0" filename="C:/code/voc_ice/src/pages/Detection/components/DetectionTable/DetectionTable.jsx" />
+      <jump line="217" column="0" filename="C:/code/voc_ice/src/pages/Detection/components/DetectionTable/DetectionTable.jsx" />
+      <jump line="220" column="23" filename="C:/code/voc_ice/src/pages/Detection/components/DetectionTable/DetectionTable.jsx" />
+      <jump line="210" column="21" filename="C:/code/voc_ice/src/pages/ComponentPage/components/ComponentTable/ComponentTable.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2500,8 +2500,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2608,49 +2608,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>onClick={this.handleImport}</text>
       </register>
       <register name="/" type="4">
-        <text>photoview</text>
+        <text>onsort</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBkaWN0cy5wdXNoKHBhcmVudHMpOwo=</text>
+        <text encoding="base64">ICAgIC8vINTdyrHWu9TK0O21pcHQxcXQ8gogICAgdGhpcy5zZXRTdGF0ZSh7IHNvcnRzOiBbeyBsZWZ0OiBkYXRhSW5kZXgsIHJpZ2h0OiBvcmRlciA9PT0gJ2FzYycgfV0gfSwgdGhpcy5nZXREYXRhKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBzb3J0cy4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBvbkNsaWNrPXt0aGlzLmhhbmRsZUltcG9ydH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoeyBzb3J0czogey4uLnRoaXMuc3RhdGUuc29ydHMsIDogZGF0YUluZGV4LCByaWdodDogb3JkZXIgPT09ICdhc2MnIH1dIH0sIHRoaXMuZ2V0RGF0YSk7Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoeyBzb3J0czogYWRkVG9Tb3J0cyh0aGlzLnN0YXRlLnNvcnRzLCB7IGxlZnQ6IGRhdGFJbmRleCwgcmlnaHQ6IG9yZGVyID09PSAnYXNjJyB9KSB9LCB0aGlzLmdldERhdGEpOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRhdGFJbmRleCwgb3JkZXIpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coYWN0aW9uLnBheWxvYWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICA8UGhvdG9WaWV3IGNvbXBvbmVudD17dGhpcy5zdGF0ZS5jdXJyZW50Q29tcG9uZW50fSBvbkNsb3NlPXt0aGlzLmNsb3NlSW1hZ2V9IHZpc2libGU9e3RoaXMuc3RhdGUucGhvdG9WaXNpYmxlfSAvPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXN1bHQpOwo=</text>
+        <text encoding="base64">ICAgICAgICA8L0ljZUNvbnRhaW5lcj4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coYWN0aW9uLnBheWxvYWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICA8SWNlQ29udGFpbmVyIGxvYWRpbmc9e3RoaXMuc3RhdGUubG9hZGluZ30gc3R5bGU9e3N0eWxlcy50YWJsZUNvbnRhaW5lcn0+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhkaWN0cyk7Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoeyBzb3J0czogeyAuLi50aGlzLnN0YXRlLnNvcnRzLCBbZGF0YUluZGV4XTogb3JkZXIgPT09ICdhc2MnIH0gfSwgdGhpcy5nZXREYXRhKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zdCByZXN1bHQgPSB7IHVuaXRzOiBkaWN0c1swXSwgaW5zdGFsbHM6IGRpY3RzWzFdIH07Cg==</text>
+        <text encoding="base64">ICAgICAgICA8L0ljZUNvbnRhaW5lcj4K</text>
       </register>
       <register name=":" type="4">
-        <text>action NextTab</text>
+        <text>action PreviousTab</text>
       </register>
     </registers>
     <search>
-      <last-search>photoview</last-search>
+      <last-search>onsort</last-search>
       <last-offset />
-      <last-pattern>photoview</last-pattern>
+      <last-pattern>onsort</last-pattern>
       <last-replace>HeaderFooterLayout</last-replace>
       <last-substitute>BasicLayout</last-substitute>
       <last-dir>1</last-dir>
@@ -2658,8 +2658,6 @@
     </search>
     <history>
       <history-search>
-        <entry>seal.no</entry>
-        <entry>1200</entry>
         <entry>BasicLayout</entry>
         <entry encoding="base64">XDxnZW5lcmF0ZV9wZGZcPg==</entry>
         <entry encoding="base64">XDxnZXRCYXNlRGF0YVw+</entry>
@@ -2678,6 +2676,8 @@
         <entry encoding="base64">XDxsYWJlbFw+</entry>
         <entry encoding="base64">XDxyZW5kZXJNb3JlXD4=</entry>
         <entry>photoview</entry>
+        <entry encoding="base64">XDx0YWJsZUNvbnRhaW5lclw+</entry>
+        <entry>onsort</entry>
       </history-search>
       <history-cmd>
         <entry>%s/1.0.0-beta.9/1.0.1/gc</entry>
@@ -2698,8 +2698,8 @@
         <entry>action ReformatCode</entry>
         <entry>w</entry>
         <entry>wq</entry>
-        <entry>action PreviousTab</entry>
         <entry>action NextTab</entry>
+        <entry>action PreviousTab</entry>
       </history-cmd>
       <history-expr />
       <history-input />
