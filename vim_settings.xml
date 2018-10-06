@@ -370,12 +370,12 @@
         <mark key="." line="38" column="63" />
         <mark key="^" line="38" column="63" />
       </file>
-      <file name="C:/code/voc_ice/src/pages/Detection/components/TVAForm.jsx" timestamp="1538797228452">
-        <mark key="'" line="63" column="51" />
-        <mark key="[" line="28" column="13" />
-        <mark key="]" line="28" column="29" />
-        <mark key="." line="28" column="29" />
-        <mark key="^" line="28" column="29" />
+      <file name="C:/code/voc_ice/src/pages/Detection/components/TVAForm.jsx" timestamp="1538800133628">
+        <mark key="'" line="63" column="10" />
+        <mark key="[" line="60" column="20" />
+        <mark key="]" line="60" column="20" />
+        <mark key="." line="60" column="20" />
+        <mark key="^" line="60" column="19" />
       </file>
       <file name="$USER_HOME$/code/pyutils/safetysystem/parseyaml.py" timestamp="1536911979413">
         <mark key="'" line="19" column="38" />
@@ -1550,12 +1550,12 @@
         <mark key="." line="61" column="38" />
         <mark key="^" line="61" column="52" />
       </file>
-      <file name="C:/code/voc_ice/src/pages/Detection/components/DetectionTable/DetectionTable.jsx" timestamp="1538797614462">
-        <mark key="'" line="167" column="39" />
-        <mark key="[" line="171" column="86" />
-        <mark key="]" line="171" column="86" />
-        <mark key="^" line="171" column="86" />
-        <mark key="." line="171" column="86" />
+      <file name="C:/code/voc_ice/src/pages/Detection/components/DetectionTable/DetectionTable.jsx" timestamp="1538799807961">
+        <mark key="'" line="194" column="70" />
+        <mark key="[" line="227" column="0" />
+        <mark key="]" line="227" column="0" />
+        <mark key="^" line="174" column="42" />
+        <mark key="." line="227" column="0" />
       </file>
       <file name="$USER_HOME$/code/lkc_website/src/routes.js" timestamp="1528871958577">
         <mark key="'" line="42" column="31" />
@@ -2384,11 +2384,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="110" column="30" filename="C:/code/voc_ice/src/components/FeedbackUpload/FeedbackUpload.js" />
-      <jump line="5" column="0" filename="C:/code/voc_ice/src/pages/ComponentPage/components/SealTable/SealTable.jsx" />
-      <jump line="147" column="14" filename="C:/code/voc_ice/src/pages/ComponentPage/components/SealTable/SealTable.jsx" />
-      <jump line="145" column="26" filename="C:/code/voc_ice/src/pages/ComponentPage/components/SealTable/SealTable.jsx" />
-      <jump line="144" column="26" filename="C:/code/voc_ice/src/pages/ComponentPage/components/SealTable/SealTable.jsx" />
       <jump line="143" column="26" filename="C:/code/voc_ice/src/pages/ComponentPage/components/SealTable/SealTable.jsx" />
       <jump line="142" column="26" filename="C:/code/voc_ice/src/pages/ComponentPage/components/SealTable/SealTable.jsx" />
       <jump line="141" column="26" filename="C:/code/voc_ice/src/pages/ComponentPage/components/SealTable/SealTable.jsx" />
@@ -2484,6 +2479,11 @@
       <jump line="44" column="27" filename="C:/code/voc_ice/src/pages/Detection/components/DetectionTable/DetectionTable.jsx" />
       <jump line="166" column="39" filename="C:/code/voc_ice/src/pages/Detection/components/DetectionTable/DetectionTable.jsx" />
       <jump line="45" column="17" filename="C:/code/voc_ice/src/pages/Detection/components/DetectionTable/DetectionTable.jsx" />
+      <jump line="227" column="34" filename="C:/code/voc_ice/src/pages/Detection/components/DetectionTable/DetectionTable.jsx" />
+      <jump line="194" column="70" filename="C:/code/voc_ice/src/pages/Detection/components/DetectionTable/DetectionTable.jsx" />
+      <jump line="48" column="10" filename="C:/code/voc_ice/src/pages/Detection/components/TVAForm.jsx" />
+      <jump line="61" column="14" filename="C:/code/voc_ice/src/pages/Detection/components/TVAForm.jsx" />
+      <jump line="62" column="10" filename="C:/code/voc_ice/src/pages/Detection/components/TVAForm.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2623,31 +2623,31 @@
         <text encoding="base64">ICAgIC8vINTdyrHWu9TK0O21pcHQxcXQ8gogICAgdGhpcy5zZXRTdGF0ZSh7IHNvcnRzOiBbeyBsZWZ0OiBkYXRhSW5kZXgsIHJpZ2h0OiBvcmRlciA9PT0gJ2FzYycgfV0gfSwgdGhpcy5nZXREYXRhKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0dXJuSWQ6IHRoaXMucHJvcHMudmFsdWVzLnR1cm5JZCwKICAgICAgICBkZXZpY2VNb2RlbDogdGhpcy5wcm9wcy52YWx1ZXMuZGV2aWNlTW9kZWwsCiAgICAgICAgZGV2aWNlTm86IHRoaXMucHJvcHMudmFsdWVzLmRldmljZU5vLAogICAgICAgIGNvbXBhbnk6IHRoaXMuLAogICAgICAgIHBlcnNvbnM6ICcnLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLy8gc2VhbCBtb2RhbHMK</text>
+        <text encoding="base64">ICAgICAgICAgIHJlZj0iZm9ybSIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKC4uLmFyZ3MpOwo=</text>
+        <text encoding="base64">ICAgICAgICA8SWNlRm9ybUJpbmRlcldyYXBwZXIKICAgICAgICAgIHZhbHVlPXt0aGlzLnN0YXRlLnZhbHVlfQogICAgICAgICAgb25DaGFuZ2U9e3RoaXMuZm9ybUNoYW5nZX0KICAgICAgICAgIHJlZj0iZm9ybSIKICAgICAgICA+CiAgICAgICAgICA8Um93IHN0eWxlPXtzdHlsZXMuZm9ybUl0ZW19PgogICAgICAgICAgICA8Q29sIHh4cz0iNiIgcz0iMyIgbD0iMyIgc3R5bGU9e3N0eWxlcy5sYWJlbH0+CiAgICAgICAgICAgICAgwta0zqO6CiAgICAgICAgICAgIDwvQ29sPgogICAgICAgICAgICA8Q29sIHM9IjEyIiBsPSIxMCI+CiAgICAgICAgICAgICAgPEljZUZvcm1CaW5kZXIgbmFtZT0idHVybklkIiByZXF1aXJlZCBtZXNzYWdlPSKx2MzuIj4KICAgICAgICAgICAgICAgIDxTZWxlY3QgZGF0YVNvdXJjZT17dGhpcy5wcm9wcy50dXJuX2Nhc2NhZGVyc30gcGxhY2Vob2xkZXI9ItGh1PHC1rTOIiAvPgogICAgICAgICAgICAgIDwvSWNlRm9ybUJpbmRlcj4KICAgICAgICAgICAgICA8SWNlRm9ybUVycm9yIG5hbWU9InR1cm5JZCIgLz4KICAgICAgICAgICAgPC9Db2w+CiAgICAgICAgICA8L1Jvdz4KCiAgICAgICAgICA8Um93IHN0eWxlPXtzdHlsZXMuZm9ybUl0ZW19PgogICAgICAgICAgICA8Q29sIHh4cz0iNiIgcz0iMyIgbD0iMyIgc3R5bGU9e3N0eWxlcy5sYWJlbH0+CiAgICAgICAgICAgICAgICAgINLHxvfQzbrFo7oKICAgICAgICAgICAgPC9Db2w+CiAgICAgICAgICAgIDxDb2wgcz0iMTIiIGw9IjEwIj4KICAgICAgICAgICAgICA8SWNlRm9ybUJpbmRlciBuYW1lPSJkZXZpY2VNb2RlbCIgcmVxdWlyZWQgbWF4PXsxMH0gbWVzc2FnZT0isdjM7iI+CiAgICAgICAgICAgICAgICA8SW5wdXQgc2l6ZT0ibGFyZ2UiIHBsYWNlaG9sZGVyPSLSx8b30M26xSIgdHJpbSAvPgogICAgICAgICAgICAgIDwvSWNlRm9ybUJpbmRlcj4KICAgICAgICAgICAgICA8SWNlRm9ybUVycm9yIG5hbWU9ImRldmljZU1vZGVsIiAvPgogICAgICAgICAgICA8L0NvbD4KICAgICAgICAgIDwvUm93PgoKICAgICAgICAgIDxSb3cgc3R5bGU9e3N0eWxlcy5mb3JtSXRlbX0+CiAgICAgICAgICAgIDxDb2wgeHhzPSI2IiBzPSIzIiBsPSIzIiBzdHlsZT17c3R5bGVzLmxhYmVsfT4KICAgICAgICAgICAgICAgICAg0sfG99DyusWjugogICAgICAgICAgICA8L0NvbD4KICAgICAgICAgICAgPENvbCBzPSIxMiIgbD0iMTAiPgogICAgICAgICAgICAgIDxJY2VGb3JtQmluZGVyIG5hbWU9ImRldmljZU5vIiByZXF1aXJlZCBtZXNzYWdlPSKx2MzuIj4KICAgICAgICAgICAgICAgIDxJbnB1dCBzaXplPSJsYXJnZSIgcGxhY2Vob2xkZXI9ItLHxvfQ8rrFIiB0cmltIC8+CiAgICAgICAgICAgICAgPC9JY2VGb3JtQmluZGVyPgogICAgICAgICAgICAgIDxJY2VGb3JtRXJyb3IgbmFtZT0iZGV2aWNlTm8iIC8+CiAgICAgICAgICAgIDwvQ29sPgogICAgICAgICAgPC9Sb3c+CgogICAgICAgICAgPFJvdyBzdHlsZT17c3R5bGVzLmZvcm1JdGVtfT4KICAgICAgICAgICAgPENvbCB4eHM9IjYiIHM9IjMiIGw9IjMiIHN0eWxlPXtzdHlsZXMubGFiZWx9PgogICAgICAgICAgICAgICAgICC87LLiuavLvqO6CiAgICAgICAgICAgIDwvQ29sPgogICAgICAgICAgICA8Q29sIHM9IjEyIiBsPSIxMCI+CiAgICAgICAgICAgICAgPEljZUZvcm1CaW5kZXIgbmFtZT0iY29tcGFueSIgcmVxdWlyZWQgbWVzc2FnZT0isdjM7iI+CiAgICAgICAgICAgICAgICA8SW5wdXQgc2l6ZT0ibGFyZ2UiIHBsYWNlaG9sZGVyPSK87LLiuavLviIgdHJpbSAvPgogICAgICAgICAgICAgIDwvSWNlRm9ybUJpbmRlcj4KICAgICAgICAgICAgICA8SWNlRm9ybUVycm9yIG5hbWU9ImNvbXBhbnkiIC8+CiAgICAgICAgICAgIDwvQ29sPgogICAgICAgICAgPC9Sb3c+CgogICAgICAgICAgPFJvdyBzdHlsZT17c3R5bGVzLmZvcm1JdGVtfT4KICAgICAgICAgICAgPENvbCB4eHM9IjYiIHM9IjMiIGw9IjMiIHN0eWxlPXtzdHlsZXMubGFiZWx9PgogICAgICAgICAgICAgICAgICC87LLiyMujugogICAgICAgICAgICA8L0NvbD4KICAgICAgICAgICAgPENvbCBzPSIxMiIgbD0iMTAiPgogICAgICAgICAgICAgIDxJY2VGb3JtQmluZGVyIG5hbWU9ImRlc2NyaXB0aW9uIj4KICAgICAgICAgICAgICAgIDxJbnB1dCBzaXplPSJsYXJnZSIgcGxhY2Vob2xkZXI9IrzssuLIyyIgLz4KICAgICAgICAgICAgICA8L0ljZUZvcm1CaW5kZXI+CiAgICAgICAgICAgICAgPEljZUZvcm1FcnJvciBuYW1lPSJwZXJzb25zIiAvPgogICAgICAgICAgICA8L0NvbD4KICAgICAgICAgIDwvUm93PgogICAgICAgIDwvSWNlRm9ybUJpbmRlcldyYXBwZXI+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGhlaWdodDogMjZweDsK</text>
+        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgPGRpdj4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgIDxUVkFGb3JtCiAgICAgICAgICAgIHZpc2libGU9e3RoaXMuc3RhdGUudHZhRm9ybVZpc2libGV9CiAgICAgICAgICAgIG9uU3VibWl0PXt0aGlzLmhhbmRsZVRWQUZvcm19CiAgICAgICAgICAgIG9uQ2FuY2VsPXt0aGlzLmhpZGVUVkFGb3JtfQogICAgICAgICAgICB2YWx1ZXM9e3RoaXMuc3RhdGUudHZhRm9ybX0KICAgICAgICAgIC8+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBvbkNsaWNrPXt0aGlzLmhhbmRsZUltcG9ydH0K</text>
+        <text encoding="base64">ICBzaG93VXBsb2FkRGlhbG9nID0gKCkgPT4gewogICAgdGhpcy5zZXRTdGF0ZSh7IHVwbG9hZERpYWxvZ1Zpc2libGU6IHRydWUgfSk7CiAgfTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoeyBzb3J0czogYWRkVG9Tb3J0cyh0aGlzLnN0YXRlLnNvcnRzLCB7IGxlZnQ6IGRhdGFJbmRleCwgcmlnaHQ6IG9yZGVyID09PSAnYXNjJyB9KSB9LCB0aGlzLmdldERhdGEpOwo=</text>
+        <text encoding="base64">ICBzaG93U2VhbE1vZGFsID0gKHJlY29yZCwgZSkgPT4gewogICAgZS5wcmV2ZW50RGVmYXVsdCgpOwogICAgdGhpcy5zZXRTdGF0ZSh7IHNlYWxEaWFsb2dWaXNpYmxlOiB0cnVlLCBjdXJyZW50Q29tcG9uZW50OiByZWNvcmQsIHNlYWxEaWFsb2dUaXRsZTogcmVjb3JkLnRhZyB9KTsKICB9OwogIGhpZGVTZWFsTW9kYWwgPSAoKSA9PiB7CiAgICB0aGlzLnNldFN0YXRlKHsgc2VhbERpYWxvZ1Zpc2libGU6IGZhbHNlIH0pOwogIH07Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRhdGFJbmRleCwgb3JkZXIpOwo=</text>
+        <text encoding="base64">ICAgICAgICB0dXJuSWQ6IHRoaXMucHJvcHMudmFsdWVzLnR1cm5JZCwKICAgICAgICBkZXZpY2VNb2RlbDogdGhpcy5wcm9wcy52YWx1ZXMuZGV2aWNlTW9kZWwsCiAgICAgICAgZGV2aWNlTm86IHRoaXMucHJvcHMudmFsdWVzLmRldmljZU5vLAogICAgICAgIGNvbXBhbnk6IHRoaXMuLAogICAgICAgIHBlcnNvbnM6ICcnLAo=</text>
       </register>
       <register name=":" type="4">
         <text>action PreviousTab</text>
