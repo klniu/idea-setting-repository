@@ -909,6 +909,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="C:/code/voc/src/main/resources/application.yaml" timestamp="1538978812597">
+        <mark key="[" line="3" column="12" />
+        <mark key="]" line="3" column="14" />
+        <mark key="." line="3" column="14" />
+        <mark key="^" line="3" column="14" />
+      </file>
       <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/common/Project.java" timestamp="1530782531593">
         <mark key="'" line="21" column="35" />
         <mark key="[" line="97" column="19" />
@@ -2514,8 +2520,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIERpc3BsYXkgdGhlIGtleS92YWx1ZSBwYWlycwogICAgZm9yIChjb25zdCBwYWlyIG9mIGZvcm0uZW50cmllcygpKSB7CiAgICAgIGNvbnNvbGUubG9nKGAke3BhaXJbMF19LCAke3BhaXJbMV19YCk7CiAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>prod</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2622,7 +2628,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>prod</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
