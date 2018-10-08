@@ -170,10 +170,10 @@
         <mark key="^" line="52" column="12" />
         <mark key="." line="52" column="12" />
       </file>
-      <file name="C:/code/voc_ice/src/pages/ComponentPage/components/ComponentTable/ComponentTable.jsx" timestamp="1538982054846">
-        <mark key="'" line="210" column="21" />
-        <mark key="[" line="254" column="76" />
-        <mark key="]" line="254" column="77" />
+      <file name="C:/code/voc_ice/src/pages/ComponentPage/components/ComponentTable/ComponentTable.jsx" timestamp="1538990551741">
+        <mark key="'" line="183" column="15" />
+        <mark key="[" line="183" column="0" />
+        <mark key="]" line="183" column="60" />
         <mark key="." line="254" column="77" />
         <mark key="^" line="276" column="22" />
       </file>
@@ -1136,7 +1136,7 @@
         <mark key="." line="16" column="12" />
         <mark key="^" line="16" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1538915294595">
+      <file name="/Dummy.txt" timestamp="1538990170999">
         <mark key="'" line="0" column="11" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
@@ -1197,11 +1197,12 @@
         <mark key="." line="3" column="15" />
         <mark key="^" line="3" column="15" />
       </file>
-      <file name="C:/code/voc_ice/src/components/FeedbackUpload/FeedbackUpload.jsx" timestamp="1538989349098">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="7" column="14" />
-        <mark key="^" line="7" column="14" />
-        <mark key="." line="7" column="14" />
+      <file name="C:/code/voc_ice/src/components/FeedbackUpload/FeedbackUpload.jsx" timestamp="1538991288799">
+        <mark key="'" line="1" column="32" />
+        <mark key="[" line="107" column="4" />
+        <mark key="]" line="107" column="41" />
+        <mark key="^" line="107" column="3" />
+        <mark key="." line="107" column="4" />
       </file>
       <file name="D:/code/web/voc-delon/src/app/core/startup/startup.service.ts" timestamp="1526527247859">
         <mark key="'" line="55" column="12" />
@@ -2398,11 +2399,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="139" column="26" filename="C:/code/voc_ice/src/pages/ComponentPage/components/SealTable/SealTable.jsx" />
-      <jump line="138" column="26" filename="C:/code/voc_ice/src/pages/ComponentPage/components/SealTable/SealTable.jsx" />
-      <jump line="137" column="26" filename="C:/code/voc_ice/src/pages/ComponentPage/components/SealTable/SealTable.jsx" />
-      <jump line="136" column="26" filename="C:/code/voc_ice/src/pages/ComponentPage/components/SealTable/SealTable.jsx" />
-      <jump line="135" column="26" filename="C:/code/voc_ice/src/pages/ComponentPage/components/SealTable/SealTable.jsx" />
       <jump line="134" column="26" filename="C:/code/voc_ice/src/pages/ComponentPage/components/SealTable/SealTable.jsx" />
       <jump line="133" column="26" filename="C:/code/voc_ice/src/pages/ComponentPage/components/SealTable/SealTable.jsx" />
       <jump line="132" column="30" filename="C:/code/voc_ice/src/pages/ComponentPage/components/SealTable/SealTable.jsx" />
@@ -2413,7 +2409,6 @@
       <jump line="67" column="20" filename="C:/code/voc_ice/src/pages/ComponentPage/components/SealTable/SealTable.jsx" />
       <jump line="12" column="0" filename="C:/code/voc_ice/src/pages/ComponentPage/components/SealTable/SealTable.jsx" />
       <jump line="19" column="0" filename="C:/code/voc_ice/src/components/PhotoView/PhotoView.js" />
-      <jump line="1" column="52" filename="C:/code/voc_ice/src/pages/ComponentPage/components/ComponentTable/ComponentTable.jsx" />
       <jump line="45" column="10" filename="C:/code/voc_ice/src/pages/ComponentPage/components/ComponentTable/ComponentTable.jsx" />
       <jump line="46" column="12" filename="C:/code/voc_ice/src/pages/ComponentPage/components/ComponentTable/ComponentTable.jsx" />
       <jump line="81" column="16" filename="C:/code/voc_ice/src/pages/ComponentPage/components/ComponentTable/ComponentTable.jsx" />
@@ -2498,6 +2493,12 @@
       <jump line="86" column="4" filename="C:/code/voc_ice/src/components/FeedbackUpload/FeedbackUpload.jsx" />
       <jump line="475" column="35" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" />
       <jump line="83" column="0" filename="C:/code/voc_ice/src/components/MainTab/MainTab.jsx" />
+      <jump line="248" column="25" filename="C:/code/voc_ice/src/pages/ComponentPage/components/ComponentTable/ComponentTable.jsx" />
+      <jump line="286" column="8" filename="C:/code/voc_ice/src/pages/ComponentPage/components/ComponentTable/ComponentTable.jsx" />
+      <jump line="1" column="24" filename="C:/code/voc_ice/src/pages/ComponentPage/components/ComponentTable/ComponentTable.jsx" />
+      <jump line="183" column="15" filename="C:/code/voc_ice/src/pages/ComponentPage/components/ComponentTable/ComponentTable.jsx" />
+      <jump line="117" column="18" filename="C:/code/voc_ice/src/components/FeedbackUpload/FeedbackUpload.jsx" />
+      <jump line="1" column="32" filename="C:/code/voc_ice/src/components/FeedbackUpload/FeedbackUpload.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2520,8 +2521,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">dGhpcy5zdGF0ZS5maWxlTGlzdC5zcGxpY2UoaW5kZXgsIDEpIA==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2628,57 +2629,56 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>CloseableTab</text>
+        <text>span</text>
       </register>
       <register name="/" type="4">
-        <text>console</text>
+        <text>icon</text>
       </register>
       <register name="0" type="4">
-        <text>Object(this.props.param).keys</text>
+        <text encoding="base64">dGhpcy5zdGF0ZS5maWxlTGlzdC5zcGxpY2UoaW5kZXgsIDEpIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIHRoaXMgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBtYXJnaW4tdG9wOiAxNHB4Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LmN1c3RvbS10YWIgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">UmVhY3RET00ucmVuZGVyKDxDbG9zZWFibGVUYWIgLz4sIG1vdW50Tm9kZSk7Cg==</text>
+        <text encoding="base64">ICBtYXJnaW4tdG9wOiAxNHB4Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">LmN1c3RvbS10YWIgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPGRpdj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UmVhY3RET00ucmVuZGVyKDxDbG9zZWFibGVUYWIgLz4sIG1vdW50Tm9kZSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action PreviousTab</text>
       </register>
     </registers>
     <search>
-      <last-search>console</last-search>
+      <last-search>icon</last-search>
       <last-offset />
-      <last-pattern>console</last-pattern>
+      <last-pattern>icon</last-pattern>
       <last-replace>HeaderFooterLayout</last-replace>
       <last-substitute>BasicLayout</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>content[i++]</entry>
         <entry>content\[i++\]</entry>
         <entry encoding="base64">XDxwb3NpdGlvblw+</entry>
         <entry>netwo</entry>
@@ -2698,6 +2698,7 @@
         <entry encoding="base64">XDxnZXRCYXNlRGF0YVw+</entry>
         <entry encoding="base64">XDxzZXRTZXR0aW5nXD4=</entry>
         <entry encoding="base64">XDxsZWF2ZVw+</entry>
+        <entry>icon</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5hY3Rpb24gTmV4dFRhYg==</entry>
@@ -2717,9 +2718,9 @@
         <entry>%s/BasicLayout/HeaderFooterLayout/gc</entry>
         <entry>q</entry>
         <entry>action ReformatCode</entry>
+        <entry>w</entry>
         <entry>action NextTab</entry>
         <entry>action PreviousTab</entry>
-        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
