@@ -1476,6 +1476,13 @@
         <mark key="^" line="2" column="27" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="C:/code/voc_ice/src/components/MainTab/MainTab.jsx" timestamp="1538986119093">
+        <mark key="'" line="84" column="0" />
+        <mark key="[" line="0" column="25" />
+        <mark key="]" line="0" column="24" />
+        <mark key="^" line="0" column="24" />
+        <mark key="." line="0" column="24" />
+      </file>
       <file name="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/EmissionServiceImplTest.java" timestamp="1523759102669">
         <mark key="'" line="201" column="0" />
         <mark key="[" line="39" column="11" />
@@ -2392,7 +2399,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="140" column="26" filename="C:/code/voc_ice/src/pages/ComponentPage/components/SealTable/SealTable.jsx" />
       <jump line="139" column="26" filename="C:/code/voc_ice/src/pages/ComponentPage/components/SealTable/SealTable.jsx" />
       <jump line="138" column="26" filename="C:/code/voc_ice/src/pages/ComponentPage/components/SealTable/SealTable.jsx" />
       <jump line="137" column="26" filename="C:/code/voc_ice/src/pages/ComponentPage/components/SealTable/SealTable.jsx" />
@@ -2492,6 +2498,7 @@
       <jump line="69" column="4" filename="C:/code/voc_ice/src/components/FeedbackUpload/FeedbackUpload.jsx" />
       <jump line="86" column="4" filename="C:/code/voc_ice/src/components/FeedbackUpload/FeedbackUpload.jsx" />
       <jump line="475" column="35" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" />
+      <jump line="83" column="0" filename="C:/code/voc_ice/src/components/MainTab/MainTab.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2515,7 +2522,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>y</text>
+        <text>CloseableTab</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2622,7 +2629,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text>CloseableTab</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
