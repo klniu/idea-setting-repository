@@ -170,11 +170,11 @@
         <mark key="^" line="52" column="12" />
         <mark key="." line="52" column="12" />
       </file>
-      <file name="C:/code/voc_ice/src/pages/ComponentPage/components/ComponentTable/ComponentTable.jsx" timestamp="1539052653442">
+      <file name="C:/code/voc_ice/src/pages/ComponentPage/components/ComponentTable/ComponentTable.jsx" timestamp="1539069533719">
         <mark key="'" line="183" column="15" />
-        <mark key="[" line="212" column="26" />
-        <mark key="]" line="212" column="33" />
-        <mark key="." line="212" column="33" />
+        <mark key="[" line="223" column="0" />
+        <mark key="]" line="223" column="0" />
+        <mark key="." line="223" column="0" />
         <mark key="^" line="212" column="33" />
       </file>
       <file name="$USER_HOME$/code/Ethereum/Helper/ethgasstation.py" timestamp="1535888991965">
@@ -2521,8 +2521,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>share</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIGlzRnVsbFNjcmVlbgo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2638,31 +2638,31 @@
         <text encoding="base64">ICAgICAgICAgICAgPEJ1dHRvbi5TcGxpdAogICAgICAgICAgICAgIHR5cGU9InByaW1hcnkiCiAgICAgICAgICAgICAgbWVudT17aW1wb3J0TWVudX0KICAgICAgICAgICAgICBzdHlsZT17c3R5bGVzLmJhdGNoQnRufQogICAgICAgICAgICAgIGNsYXNzTmFtZT0iaW1wb3J0LWJ1dHRvbiIKICAgICAgICAgICAgPgogICAgICAgICAgICAgIDxJY29uIHR5cGU9InNoYXJlIiBzdHlsZT17c3R5bGVzLmJ1dHRvbkljb259IC8+yc+0qwogICAgICAgICAgICA8L0J1dHRvbi5TcGxpdD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjbGFzc05hbWU9ImV4cG9ydC1idXR0b24iCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGlzRnVsbFNjcmVlbgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPEJ1dHRvbgogICAgICAgICAgICAgIG9uQ2xpY2s9e3RoaXMuc2hvd1VwbG9hZERpYWxvZ30KICAgICAgICAgICAgICB0eXBlPSJwcmltYXJ5IgogICAgICAgICAgICAgIHN0eWxlPXtzdHlsZXMuYmF0Y2hCdG59CiAgICAgICAgICAgID4KICAgICAgICAgICAgICA8SWNvbiB0eXBlPSJzaGFyZSIgc3R5bGU9e3N0eWxlcy5idXR0b25JY29ufSAvPrW8s/YKICAgICAgICAgICAgPC9CdXR0b24+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjbGFzc05hbWU9ImV4cG9ydC1idXR0b24iCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc3RhdGUuZmlsZUxpc3Quc3BsaWNlKGluZGV4LCAxKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPEJ1dHRvbgogICAgICAgICAgICAgIG9uQ2xpY2s9e3RoaXMuc2hvd1VwbG9hZERpYWxvZ30KICAgICAgICAgICAgICB0eXBlPSJwcmltYXJ5IgogICAgICAgICAgICAgIHN0eWxlPXtzdHlsZXMuYmF0Y2hCdG59CiAgICAgICAgICAgID4KICAgICAgICAgICAgICA8SWNvbiB0eXBlPSJzaGFyZSIgc3R5bGU9e3N0eWxlcy5idXR0b25JY29ufSAvPrW8s/YKICAgICAgICAgICAgPC9CdXR0b24+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gQFRvZG8g1MrQ7cm+s/3OxLz+Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuc3RhdGUuZmlsZUxpc3Quc3BsaWNlKGluZGV4LCAxKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB9LAo=</text>
+        <text encoding="base64">Ly8gQFRvZG8g1MrQ7cm+s/3OxLz+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG1hcmdpblJpZ2h0OiAnMTVweCcsCg==</text>
+        <text encoding="base64">ICB9LAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBkZWxldGVCdXR0b246IHsK</text>
+        <text encoding="base64">ICAgIG1hcmdpblJpZ2h0OiAnMTVweCcsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc3RhdGUuZmlsZUxpc3Quc3BsaWNlKGluZGV4LCAxKQo=</text>
+        <text encoding="base64">ICBkZWxldGVCdXR0b246IHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHNwYW4+Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuc3RhdGUuZmlsZUxpc3Quc3BsaWNlKGluZGV4LCAxKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action PreviousTab</text>
