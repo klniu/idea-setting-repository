@@ -1672,11 +1672,11 @@
         <mark key="." line="140" column="58" />
         <mark key="^" line="140" column="58" />
       </file>
-      <file name="D:/sync/projects/大沽化工/2018ldar/data/init.sql" timestamp="1539171479230">
-        <mark key="[" line="795" column="56" />
-        <mark key="]" line="795" column="57" />
-        <mark key="." line="795" column="57" />
-        <mark key="^" line="795" column="33" />
+      <file name="D:/sync/projects/大沽化工/2018ldar/data/init.sql" timestamp="1539174423377">
+        <mark key="[" line="795" column="0" />
+        <mark key="]" line="799" column="61" />
+        <mark key="." line="798" column="31" />
+        <mark key="^" line="798" column="31" />
       </file>
       <file name="D:/code/web/voc-ui/src/app/routes/ldar/tools/tools.component.html" timestamp="1520840744615">
         <mark key="'" line="22" column="35" />
@@ -2509,8 +2509,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>SAN</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAoMTIsIDEsIDIsIDUsIDEsICfoi6/kuZnng6/nsr7ppo8nLCAnQllYSkwnLCAyLCAnMjAxNC0wNS0wMScsICcwNTAxJywgJycpLAogICgxMywgMSwgMiwgNSwgMiwgJ+iLr+S5meeDrycsICdCWVgnLCAyLCAnMjAxNC0wNS0wMScsICcwNTAyJywgJycpLAogICgxNCwgMSwgMiwgNSwgMywgJ+iLr+S5meeDr+e9kOWMuicsICdCWVhHUScsIDIsICcyMDE0LTA1LTAxJywgJzA1MDMnLCAnJyksCiAgKDE1LCAxLCAyLCA1LCA0LCAn6ISx5rCi6KOF572uJywgJ1RRWlonLCAyLCAnMjAxNC0wNS0wMScsICcwNTA0JywgJycpLAogICgxNiwgMSwgMiwgNSwgNSwgJ+mrmOeDreeCiScsICdHUkwnLCAyLCAnMjAxNC0wNS0wMScsICcwNTA1JywgJycpOwo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2617,13 +2617,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>SAN</text>
+        <text>BYXJL</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAoMTEsIDEsIDIsIDQsIDEsICcwMScsICdTQU4nLCAyLCAnMjAxNC0wNS0wMScsICcwNDAxJywgJycpOwo=</text>
+        <text encoding="base64">ICAoMTUsIDEsIDIsIDUsIDQsICfohLHmsKLoo4Xnva4nLCAnQllYSkwnLCAyLCAnMjAxNC0wNS0wMScsICcwNTA0JywgJycpLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIC8vIERpc3BsYXkgdGhlIGtleS92YWx1ZSBwYWlycwogICAgZm9yIChjb25zdCBwYWlyIG9mIGZvcm0uZW50cmllcygpKSB7CiAgICAgIGNvbnNvbGUubG9nKGAke3BhaXJbMF19LCAke3BhaXJbMV19YCk7CiAgICB9Cg==</text>
@@ -2689,7 +2689,6 @@
         <entry>console</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/1.0.0-beta.9/1.0.1/gc</entry>
         <entry encoding="base64">JzwsJz5zLzYuMC4wLzUuMi45L2dj</entry>
         <entry>action AceAction</entry>
         <entry encoding="base64">JzwsJz5zL2Rpc3RhbmNlL2hlaWdodC9nYw==</entry>
@@ -2709,6 +2708,7 @@
         <entry>w</entry>
         <entry>action NextTab</entry>
         <entry>action PreviousTab</entry>
+        <entry encoding="base64">JzwsJz5J</entry>
       </history-cmd>
       <history-expr />
       <history-input />
