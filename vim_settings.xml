@@ -1138,7 +1138,7 @@
         <mark key="." line="16" column="12" />
         <mark key="^" line="16" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1538915294595">
+      <file name="/Dummy.txt" timestamp="1538915425656">
         <mark key="'" line="0" column="11" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
@@ -1672,10 +1672,11 @@
         <mark key="." line="140" column="58" />
         <mark key="^" line="140" column="58" />
       </file>
-      <file name="D:/sync/projects/大沽化工/2018ldar/data/init.sql" timestamp="1538625670186">
-        <mark key="[" line="795" column="12" />
-        <mark key="]" line="795" column="13" />
-        <mark key="." line="795" column="13" />
+      <file name="D:/sync/projects/大沽化工/2018ldar/data/init.sql" timestamp="1539171479230">
+        <mark key="[" line="795" column="56" />
+        <mark key="]" line="795" column="57" />
+        <mark key="." line="795" column="57" />
+        <mark key="^" line="795" column="33" />
       </file>
       <file name="D:/code/web/voc-ui/src/app/routes/ldar/tools/tools.component.html" timestamp="1520840744615">
         <mark key="'" line="22" column="35" />
@@ -2508,8 +2509,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIERpc3BsYXkgdGhlIGtleS92YWx1ZSBwYWlycwogICAgZm9yIChjb25zdCBwYWlyIG9mIGZvcm0uZW50cmllcygpKSB7CiAgICAgIGNvbnNvbGUubG9nKGAke3BhaXJbMF19LCAke3BhaXJbMV19YCk7CiAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>SAN</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2616,13 +2617,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>SAN</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
       </register>
-      <register name="0" type="4">
-        <text>Object(this.props.param).keys</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAoMTEsIDEsIDIsIDQsIDEsICcwMScsICdTQU4nLCAyLCAnMjAxNC0wNS0wMScsICcwNDAxJywgJycpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIC8vIERpc3BsYXkgdGhlIGtleS92YWx1ZSBwYWlycwogICAgZm9yIChjb25zdCBwYWlyIG9mIGZvcm0uZW50cmllcygpKSB7CiAgICAgIGNvbnNvbGUubG9nKGAke3BhaXJbMF19LCAke3BhaXJbMV19YCk7CiAgICB9Cg==</text>
