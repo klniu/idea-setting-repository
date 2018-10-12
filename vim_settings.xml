@@ -827,6 +827,12 @@
         <mark key="." line="42" column="17" />
         <mark key="^" line="42" column="17" />
       </file>
+      <file name="C:/code/pyutils/voc/component_no_convert.py" timestamp="1539351892101">
+        <mark key="[" line="7" column="41" />
+        <mark key="]" line="7" column="16" />
+        <mark key="." line="7" column="16" />
+        <mark key="^" line="5" column="36" />
+      </file>
       <file name="$USER_HOME$/code/LuckyCoinContract/contracts/LuckyCoinV0.sol" timestamp="1537774028516">
         <mark key="'" line="44" column="26" />
         <mark key="[" line="46" column="0" />
@@ -2537,8 +2543,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>/api/detection/upload/tva</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHdpdGggb3BlbihvdXRwdXQsICdyJykK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2645,7 +2651,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/api/detection/upload/tva</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxGSUxFU1w+</text>
@@ -2654,34 +2660,34 @@
         <text>/api/detection/upload/tva</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAnRDovRG93bmxvYWRzL3Jlc3VsdC8wMUxPRzkuMTgwMDIuVFhUJywKICAgICAgICAnRDovRG93bmxvYWRzL3Jlc3VsdC8wMkxPRzkuMTgwMDEuVFhUJywKICAgICAgICAnRDovRG93bmxvYWRzL3Jlc3VsdC8wM0xPRzIwMTguOS4xOS4wMDIuVFhUJywKICAgICAgICAnRDovRG93bmxvYWRzL3Jlc3VsdC8wNExPRzIwMTkuOS4xOS4wMDMuVFhUJywKICAgICAgICAnRDovRG93bmxvYWRzL3Jlc3VsdC8wNUxPRy4yMDE5LjkuMTkuMDAxLlRYVCcKCg==</text>
+        <text encoding="base64">ICAgIHdpdGggb3BlbihvdXRwdXQsICdyJykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmLnJlYWQoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">RDpcRG93bmxvYWRzXHJlc3VsdFwwMUxPRzkuMTgwMDIuVFhUCkQ6XERvd25sb2Fkc1xyZXN1bHRcMDJMT0c5LjE4MDAxLlRYVApEOlxEb3dubG9hZHNccmVzdWx0XDAzTE9HMjAxOC45LjE5LjAwMi5UWFQKRDpcRG93bmxvYWRzXHJlc3VsdFwwNExPRzIwMTkuOS4xOS4wMDMuVFhUCkQ6XERvd25sb2Fkc1xyZXN1bHRcMDVMT0cuMjAxOS45LjE5LjAwMS5UWFQK</text>
+        <text encoding="base64">ICAgICAgICAnRDovRG93bmxvYWRzL3Jlc3VsdC8wMUxPRzkuMTgwMDIuVFhUJywKICAgICAgICAnRDovRG93bmxvYWRzL3Jlc3VsdC8wMkxPRzkuMTgwMDEuVFhUJywKICAgICAgICAnRDovRG93bmxvYWRzL3Jlc3VsdC8wM0xPRzIwMTguOS4xOS4wMDIuVFhUJywKICAgICAgICAnRDovRG93bmxvYWRzL3Jlc3VsdC8wNExPRzIwMTkuOS4xOS4wMDMuVFhUJywKICAgICAgICAnRDovRG93bmxvYWRzL3Jlc3VsdC8wNUxPRy4yMDE5LjkuMTkuMDAxLlRYVCcKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlzRnVsbFNjcmVlbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjbGFzc05hbWU9ImV4cG9ydC1idXR0b24iCg==</text>
+        <text encoding="base64">RDpcRG93bmxvYWRzXHJlc3VsdFwwMUxPRzkuMTgwMDIuVFhUCkQ6XERvd25sb2Fkc1xyZXN1bHRcMDJMT0c5LjE4MDAxLlRYVApEOlxEb3dubG9hZHNccmVzdWx0XDAzTE9HMjAxOC45LjE5LjAwMi5UWFQKRDpcRG93bmxvYWRzXHJlc3VsdFwwNExPRzIwMTkuOS4xOS4wMDMuVFhUCkQ6XERvd25sb2Fkc1xyZXN1bHRcMDVMT0cuMjAxOS45LjE5LjAwMS5UWFQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPEJ1dHRvbgogICAgICAgICAgICAgIG9uQ2xpY2s9e3RoaXMuc2hvd1VwbG9hZERpYWxvZ30KICAgICAgICAgICAgICB0eXBlPSJwcmltYXJ5IgogICAgICAgICAgICAgIHN0eWxlPXtzdHlsZXMuYmF0Y2hCdG59CiAgICAgICAgICAgID4KICAgICAgICAgICAgICA8SWNvbiB0eXBlPSJzaGFyZSIgc3R5bGU9e3N0eWxlcy5idXR0b25JY29ufSAvPrW8s/YKICAgICAgICAgICAgPC9CdXR0b24+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGlzRnVsbFNjcmVlbgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc3RhdGUuZmlsZUxpc3Quc3BsaWNlKGluZGV4LCAxKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjbGFzc05hbWU9ImV4cG9ydC1idXR0b24iCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gQFRvZG8g1MrQ7cm+s/3OxLz+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPEJ1dHRvbgogICAgICAgICAgICAgIG9uQ2xpY2s9e3RoaXMuc2hvd1VwbG9hZERpYWxvZ30KICAgICAgICAgICAgICB0eXBlPSJwcmltYXJ5IgogICAgICAgICAgICAgIHN0eWxlPXtzdHlsZXMuYmF0Y2hCdG59CiAgICAgICAgICAgID4KICAgICAgICAgICAgICA8SWNvbiB0eXBlPSJzaGFyZSIgc3R5bGU9e3N0eWxlcy5idXR0b25JY29ufSAvPrW8s/YKICAgICAgICAgICAgPC9CdXR0b24+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB9LAo=</text>
+        <text encoding="base64">ICAgIHRoaXMuc3RhdGUuZmlsZUxpc3Quc3BsaWNlKGluZGV4LCAxKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text>action NextTab</text>
       </register>
     </registers>
     <search>
@@ -2734,9 +2740,9 @@
         <entry>%s/BasicLayout/HeaderFooterLayout/gc</entry>
         <entry>q</entry>
         <entry>w</entry>
-        <entry>action NextTab</entry>
-        <entry>action PreviousTab</entry>
         <entry>action ReformatCode</entry>
+        <entry>action PreviousTab</entry>
+        <entry>action NextTab</entry>
       </history-cmd>
       <history-expr />
       <history-input />
