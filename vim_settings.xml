@@ -924,6 +924,13 @@
         <mark key="." line="42" column="19" />
         <mark key="^" line="42" column="28" />
       </file>
+      <file name="C:/code/voc/src/main/resources/application.yaml" timestamp="1539434573381">
+        <mark key="'" line="13" column="18" />
+        <mark key="[" line="3" column="12" />
+        <mark key="]" line="3" column="15" />
+        <mark key="." line="3" column="15" />
+        <mark key="^" line="3" column="15" />
+      </file>
       <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/common/Project.java" timestamp="1530782531593">
         <mark key="'" line="21" column="35" />
         <mark key="[" line="97" column="19" />
@@ -1089,11 +1096,11 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="22" column="8" />
       </file>
-      <file name="C:/code/voc/src/main/resources/application-prod.yaml" timestamp="1538623016143">
-        <mark key="[" line="19" column="14" />
-        <mark key="]" line="19" column="17" />
-        <mark key="^" line="19" column="17" />
-        <mark key="." line="19" column="17" />
+      <file name="C:/code/voc/src/main/resources/application-prod.yaml" timestamp="1539434687331">
+        <mark key="[" line="19" column="7" />
+        <mark key="]" line="19" column="16" />
+        <mark key="^" line="19" column="16" />
+        <mark key="." line="19" column="16" />
       </file>
       <file name="$USER_HOME$/code/pyutils/auto/safetysystems.py" timestamp="1536309212583">
         <mark key="'" line="5" column="9" />
@@ -2468,7 +2475,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="139" column="35" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/LdarTurnServiceImpl.java" />
       <jump line="49" column="70" filename="C:/code/voc/src/main/java/com/cnvoc/voc/web/DetectionController.java" />
       <jump line="47" column="49" filename="C:/code/voc/src/main/java/com/cnvoc/voc/web/DetectionController.java" />
       <jump line="48" column="49" filename="C:/code/voc/src/main/java/com/cnvoc/voc/web/DetectionController.java" />
@@ -2568,6 +2574,7 @@
       <jump line="82" column="68" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/SealPointServiceImpl.java" />
       <jump line="88" column="42" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/SealPointServiceImpl.java" />
       <jump line="89" column="56" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/SealPointServiceImpl.java" />
+      <jump line="13" column="18" filename="C:/code/voc/src/main/resources/application.yaml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2590,8 +2597,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>${HOME}</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2698,7 +2705,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>${HOME}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21wb25lbnRJZFw+</text>
