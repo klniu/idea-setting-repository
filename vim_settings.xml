@@ -2001,9 +2001,10 @@
         <mark key="^" line="98" column="34" />
         <mark key="." line="108" column="21" />
       </file>
-      <file name="C:/code/pyutils/voc/bolinhandler.py" timestamp="1539347176229">
-        <mark key="[" line="98" column="8" />
-        <mark key="]" line="98" column="9" />
+      <file name="C:/code/pyutils/voc/bolinhandler.py" timestamp="1539411963184">
+        <mark key="'" line="221" column="28" />
+        <mark key="[" line="284" column="0" />
+        <mark key="]" line="306" column="28" />
         <mark key="^" line="98" column="9" />
         <mark key="." line="98" column="9" />
       </file>
@@ -2421,7 +2422,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="20" filename="C:/code/voc_ice/src/pages/ComponentPage/components/SealTable/SealTable.jsx" />
       <jump line="12" column="0" filename="C:/code/voc_ice/src/pages/ComponentPage/components/SealTable/SealTable.jsx" />
       <jump line="19" column="0" filename="C:/code/voc_ice/src/components/PhotoView/PhotoView.js" />
       <jump line="45" column="10" filename="C:/code/voc_ice/src/pages/ComponentPage/components/ComponentTable/ComponentTable.jsx" />
@@ -2521,6 +2521,7 @@
       <jump line="8" column="0" filename="C:/code/pyutils/voc/dagu.py" />
       <jump line="46" column="13" filename="C:/code/pyutils/voc/dagu.py" />
       <jump line="48" column="63" filename="C:/code/pyutils/voc/dagu.py" />
+      <jump line="221" column="28" filename="C:/code/pyutils/voc/bolinhandler.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2543,8 +2544,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>973</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBnZXRSZWN0U3RhcnQoY2lybGVQb2ludDogdHVwbGUsIHJlY3RQb2ludDogdHVwbGUpOgogICAgICAgIHgxID0gMAogICAgICAgIHkxID0gMAogICAgICAgIHgyID0gMAogICAgICAgIHkyID0gMAogICAgICAgIHdpZHRoID0gMzYKICAgICAgICBoZWlnaHQgPSAxOAogICAgICAgICMg1LLQxHgg1NpyZWN009Kx3wogICAgICAgIGlmIGNpcmxlUG9pbnRbMF0gLSByZWN0UG9pbnRbMF0gPj0gMDoKICAgICAgICAgICAgeDEgPSByZWN0UG9pbnRbMF0gLSB3aWR0aAogICAgICAgICAgICB4MiA9IHJlY3RQb2ludFswXQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHgxID0gcmVjdFBvaW50WzBdCiAgICAgICAgICAgIHgyID0gcmVjdFBvaW50WzBdICsgd2lkdGgKICAgICAgICAjINSy0MR51NpyZWN0yc/D5gogICAgICAgIGlmIGNpcmxlUG9pbnRbMV0gLSByZWN0UG9pbnRbMV0gPj0gMDoKICAgICAgICAgICAgeTEgPSByZWN0UG9pbnRbMV0gLSBoZWlnaHQKICAgICAgICAgICAgeTIgPSByZWN0UG9pbnRbMV0KICAgICAgICBlbHNlOgogICAgICAgICAgICB5MSA9IHJlY3RQb2ludFsxXQogICAgICAgICAgICB5MiA9IHJlY3RQb2ludFsxXSArIGhlaWdodAogICAgICAgIHJldHVybiB4MSwgeTEsIHgyLCB5Mgo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2654,10 +2655,10 @@
         <text>973</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxGSUxFU1w+</text>
+        <text encoding="base64">XDxnZXRSZWN0U3RhcnRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAoNzUxLCA3NTksIDgxKSwK</text>
+        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBnZXRSZWN0U3RhcnQoY2lybGVQb2ludDogdHVwbGUsIHJlY3RQb2ludDogdHVwbGUpOgogICAgICAgIHgxID0gMAogICAgICAgIHkxID0gMAogICAgICAgIHgyID0gMAogICAgICAgIHkyID0gMAogICAgICAgIHdpZHRoID0gMzYKICAgICAgICBoZWlnaHQgPSAxOAogICAgICAgICMg1LLQxHgg1NpyZWN009Kx3wogICAgICAgIGlmIGNpcmxlUG9pbnRbMF0gLSByZWN0UG9pbnRbMF0gPj0gMDoKICAgICAgICAgICAgeDEgPSByZWN0UG9pbnRbMF0gLSB3aWR0aAogICAgICAgICAgICB4MiA9IHJlY3RQb2ludFswXQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHgxID0gcmVjdFBvaW50WzBdCiAgICAgICAgICAgIHgyID0gcmVjdFBvaW50WzBdICsgd2lkdGgKICAgICAgICAjINSy0MR51NpyZWN0yc/D5gogICAgICAgIGlmIGNpcmxlUG9pbnRbMV0gLSByZWN0UG9pbnRbMV0gPj0gMDoKICAgICAgICAgICAgeTEgPSByZWN0UG9pbnRbMV0gLSBoZWlnaHQKICAgICAgICAgICAgeTIgPSByZWN0UG9pbnRbMV0KICAgICAgICBlbHNlOgogICAgICAgICAgICB5MSA9IHJlY3RQb2ludFsxXQogICAgICAgICAgICB5MiA9IHJlY3RQb2ludFsxXSArIGhlaWdodAogICAgICAgIHJldHVybiB4MSwgeTEsIHgyLCB5Mgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAoNzY4LCA4NDMsIDEzMCkK</text>
@@ -2687,13 +2688,13 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICMgveHOssrHMLXE0qrPyMiltfQK</text>
       </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text>action PreviousTab</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxGSUxFU1w+</last-search>
+      <last-search encoding="base64">XDxnZXRSZWN0U3RhcnRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxGSUxFU1w+</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRSZWN0U3RhcnRcPg==</last-pattern>
       <last-replace>HeaderFooterLayout</last-replace>
       <last-substitute>BasicLayout</last-substitute>
       <last-dir>1</last-dir>
@@ -2701,7 +2702,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwb3NpdGlvblw+</entry>
         <entry>netwo</entry>
         <entry>send</entry>
         <entry>chrome</entry>
@@ -2721,6 +2721,7 @@
         <entry encoding="base64">XDxsZWF2ZVw+</entry>
         <entry>icon</entry>
         <entry encoding="base64">XDxGSUxFU1w+</entry>
+        <entry encoding="base64">XDxnZXRSZWN0U3RhcnRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5hY3Rpb24gTmV4dFRhYg==</entry>
@@ -2740,9 +2741,9 @@
         <entry>%s/BasicLayout/HeaderFooterLayout/gc</entry>
         <entry>q</entry>
         <entry>w</entry>
-        <entry>action PreviousTab</entry>
-        <entry>action NextTab</entry>
         <entry>action ReformatCode</entry>
+        <entry>action NextTab</entry>
+        <entry>action PreviousTab</entry>
       </history-cmd>
       <history-expr />
       <history-input />
