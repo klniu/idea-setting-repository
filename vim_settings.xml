@@ -994,11 +994,6 @@
         <mark key="." line="119" column="16" />
         <mark key="^" line="119" column="16" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" timestamp="1538622191228">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="21" />
-        <mark key="." line="13" column="0" />
-      </file>
       <file name="D:/code/java/voc/build.gradle" timestamp="1524190339462">
         <mark key="'" line="60" column="17" />
         <mark key="[" line="78" column="0" />
@@ -1177,7 +1172,7 @@
         <mark key="^" line="6" column="14" />
         <mark key="." line="6" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539424833617">
+      <file name="/Dummy.txt" timestamp="1539523492661">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/code/voc/src/main/java/com/cnvoc/voc/entity/Seal.java" timestamp="1539398325164">
@@ -2049,11 +2044,11 @@
         <mark key="^" line="98" column="34" />
         <mark key="." line="108" column="21" />
       </file>
-      <file name="C:/code/pyutils/voc/bolinhandler.py" timestamp="1539347176229">
-        <mark key="[" line="98" column="8" />
-        <mark key="]" line="98" column="9" />
-        <mark key="^" line="98" column="9" />
-        <mark key="." line="98" column="9" />
+      <file name="C:/code/pyutils/voc/bolinhandler.py" timestamp="1539523485197">
+        <mark key="[" line="100" column="8" />
+        <mark key="]" line="100" column="9" />
+        <mark key="^" line="100" column="9" />
+        <mark key="." line="100" column="9" />
       </file>
       <file name="$USER_HOME$/code/algorithm/src/main/java/list/ArrayList.java" timestamp="1530693024303">
         <mark key="'" line="38" column="11" />
@@ -2412,6 +2407,11 @@
         <mark key="." line="61" column="35" />
         <mark key="^" line="61" column="36" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" timestamp="1538622191228">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="21" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/code/pyutils/work/SafetySystemLevelsCount.py" timestamp="1536282764152">
         <mark key="'" line="40" column="4" />
         <mark key="[" line="7" column="43" />
@@ -2598,7 +2598,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>${HOME}</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2705,13 +2705,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>${HOME}</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21wb25lbnRJZFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBDb21wb25lbnQgY29tcG9uZW50ID0gaUNvbXBvbmVudFNlcnZpY2UuZ2V0QnlJZChjb21wb25lbnRJZCk7CiAgICAgICAgLy8g5YWI55Sf5oiQ5Zu+54mHCiAgICAgICAgQnVmZmVyZWRJbWFnZSBpbWcgPSBtYWtlSW1hZ2UoY29tcG9uZW50LCBzZWFscywgcG9pbnRzKTsK</text>
+        <text encoding="base64">ICAgICAgICBDb21wb25lbnQgY29tcG9uZW50ID0gaUNvbXBvbmVudFNlcnZpY2UuZ2V0QnlJZChjb21wb25lbnRJZCk7CiAgICAgICAgLy8g5YWI55Sf5oiQ5Zu+54k/CiAgICAgICAgQnVmZmVyZWRJbWFnZSBpbWcgPSBtYWtlSW1hZ2UoY29tcG9uZW50LCBzZWFscywgcG9pbnRzKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -2735,7 +2735,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDojrflj5bljp/lp4vlm77niYfot6/lvoQKICAgICAgICBDb21wb25lbnQgY29tcG9uZW50ID0gaUNvbXBvbmVudFNlcnZpY2UuZ2V0QnlJZChjb21wb25lbnRJZCk7CiAgICAgICAgUGF0aCBvcmlnaW5QYXRoID0gaUluc3RhbGxTZXJ2aWNlLmdldE9yaWdpbkltYWdlUGF0aChjb21wb25lbnQuZ2V0SW5zdGFsbElkKCkpOwogICAgICAgIE9wdGlvbmFsPFBhdGg+IGltZ1BhdGggPSBGdW5jdGlvbi5maW5kRXhpc3RJbWFnZShvcmlnaW5QYXRoLCBjb21wb25lbnQuZ2V0UGhvdG9OYW1lKCkpOwogICAgICAgIGlmICghaW1nUGF0aC5pc1ByZXNlbnQoKSkgewogICAgICAgICAgICB0aHJvdyBuZXcgRmlsZU5vdEZvdW5kRXhjZXB0aW9uKCLljp/lp4vnhafniYfkuI3lrZjlnKjvvIzor7fkuIrkvKAiKTsKICAgICAgICB9CgogICAgICAgIC8vIOiOt+WPluWvhuWwgeeCueeahOe8lueggQogICAgICAgIExpc3Q8U2VhbFR5cGU+IHR5cGVzID0gc2VhbHMuc3RyZWFtKCkubWFwKFNlYWw6OmdldFNlYWxUeXBlKS5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpOwogICAgICAgIExkYXJTZXR0aW5nIGxkYXJTZXR0aW5nID0gaUxkYXJTZXR0aW5nU2VydmljZS5nZXRCeUZhY3RvcnlJZChjb21wb25lbnQuZ2V0RmFjdG9yeUlkKCkpOwogICAgICAgIEVudW1IZWxwZXIgaGVscGVyID0gbmV3IEVudW1IZWxwZXIobGRhclNldHRpbmcpOwogICAgICAgIExpc3Q8U3RyaW5nPiBjb2RlcyA9IHR5cGVzLnN0cmVhbSgpLm1hcChoZWxwZXI6OmdldENvZGVGb3JTZWFsVHlwZSkuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKTsKCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyDojrflj5bljp/lp4vlm77niYfot6/lvoQKICAgICAgICBDb21wb25lbnQgY29tcG9uZW50ID0gaUNvbXBvbmVudFNlcnZpY2UuZ2V0QnlJZChjb21wb25lbnRJZCk7CiAgICAgICAgUGF0aCBvcmlnaW5QYXRoID0gaUluc3RhbGxTZXJ2aWNlLmdldE9yaWdpbkltYWdlUGF0aChjb21wb25lbnQuZ2V0SW5zdGFsbElkKCkpOwogICAgICAgIE9wdGlvbmFsPFBhdGg+IGltZ1BhdGggPSBGdW5jdGlvbi5maW5kRXhpc3RJbWFnZShvcmlnaW5QYXRoLCBjb21wb25lbnQuZ2V0UGhvdG9OYW1lKCkpOwogICAgICAgIGlmICghaW1nUGF0aC5pc1ByZXNlbnQoKSkgewogICAgICAgICAgICB0aHJvdyBuZXcgRmlsZU5vdEZvdW5kRXhjZXB0aW9uKCLljp/lp4vnhafniYfkuI3lrZjlnKjvvIzor7fkuIrkvD8iKTsKICAgICAgICB9CgogICAgICAgIC8vIOiOt+WPluWvhuWwgeeCueeahOe8lueggQogICAgICAgIExpc3Q8U2VhbFR5cGU+IHR5cGVzID0gc2VhbHMuc3RyZWFtKCkubWFwKFNlYWw6OmdldFNlYWxUeXBlKS5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpOwogICAgICAgIExkYXJTZXR0aW5nIGxkYXJTZXR0aW5nID0gaUxkYXJTZXR0aW5nU2VydmljZS5nZXRCeUZhY3RvcnlJZChjb21wb25lbnQuZ2V0RmFjdG9yeUlkKCkpOwogICAgICAgIEVudW1IZWxwZXIgaGVscGVyID0gbmV3IEVudW1IZWxwZXIobGRhclNldHRpbmcpOwogICAgICAgIExpc3Q8U3RyaW5nPiBjb2RlcyA9IHR5cGVzLnN0cmVhbSgpLm1hcChoZWxwZXI6OmdldENvZGVGb3JTZWFsVHlwZSkuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKTsKCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
