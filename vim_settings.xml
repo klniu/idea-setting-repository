@@ -832,11 +832,11 @@
         <mark key="." line="42" column="17" />
         <mark key="^" line="42" column="17" />
       </file>
-      <file name="C:/code/pyutils/voc/component_no_convert.py" timestamp="1539480825167">
-        <mark key="[" line="42" column="16" />
-        <mark key="]" line="42" column="16" />
-        <mark key="." line="42" column="16" />
-        <mark key="^" line="42" column="11" />
+      <file name="C:/code/pyutils/voc/component_no_convert.py" timestamp="1539481850074">
+        <mark key="'" line="44" column="10" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/code/LuckyCoinContract/contracts/LuckyCoinV0.sol" timestamp="1537774028516">
         <mark key="'" line="44" column="26" />
@@ -2243,12 +2243,12 @@
         <mark key="^" line="61" column="5" />
         <mark key="." line="61" column="5" />
       </file>
-      <file name="C:/code/pyutils/voc/dagu.py" timestamp="1539478245607">
-        <mark key="'" line="49" column="63" />
-        <mark key="[" line="73" column="8" />
-        <mark key="]" line="73" column="8" />
-        <mark key="." line="73" column="8" />
-        <mark key="^" line="72" column="9" />
+      <file name="C:/code/pyutils/voc/dagu.py" timestamp="1539482983237">
+        <mark key="'" line="89" column="19" />
+        <mark key="[" line="87" column="8" />
+        <mark key="]" line="87" column="8" />
+        <mark key="^" line="87" column="8" />
+        <mark key="." line="87" column="8" />
       </file>
       <file name="$USER_HOME$/code/ym/form_filler.py" timestamp="1527908057177">
         <mark key="'" line="7" column="3" />
@@ -2469,9 +2469,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="139" column="35" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/LdarTurnServiceImpl.java" />
-      <jump line="49" column="70" filename="C:/code/voc/src/main/java/com/cnvoc/voc/web/DetectionController.java" />
-      <jump line="47" column="49" filename="C:/code/voc/src/main/java/com/cnvoc/voc/web/DetectionController.java" />
       <jump line="48" column="49" filename="C:/code/voc/src/main/java/com/cnvoc/voc/web/DetectionController.java" />
       <jump line="91" column="43" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/DetectionServiceImpl.java" />
       <jump line="104" column="64" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/DetectionServiceImpl.java" />
@@ -2569,6 +2566,9 @@
       <jump line="82" column="68" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/SealPointServiceImpl.java" />
       <jump line="88" column="42" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/SealPointServiceImpl.java" />
       <jump line="89" column="56" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/SealPointServiceImpl.java" />
+      <jump line="44" column="10" filename="C:/code/pyutils/voc/component_no_convert.py" />
+      <jump line="82" column="14" filename="C:/code/pyutils/voc/dagu.py" />
+      <jump line="89" column="19" filename="C:/code/pyutils/voc/dagu.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2591,8 +2591,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>95</text>
+      <register name="&quot;" type="8">
+        <text encoding="base64">IyAKIyAKIyA=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2699,57 +2699,56 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>95</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb21wb25lbnRJZFw+</text>
+        <text>$</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAoNzYwMCwgODU3LCA5NSksCg==</text>
+        <text encoding="base64">ICAgICAgICAoNzYzMCwgNzY0MCwgOTcpLAo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="1" type="8">
+        <text encoding="base64">IyAKIyAKIyA=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDojrflj5bljp/lp4vlm77niYfot6/lvoQKICAgICAgICBDb21wb25lbnQgY29tcG9uZW50ID0gaUNvbXBvbmVudFNlcnZpY2UuZ2V0QnlJZChjb21wb25lbnRJZCk7CiAgICAgICAgUGF0aCBvcmlnaW5QYXRoID0gaUluc3RhbGxTZXJ2aWNlLmdldE9yaWdpbkltYWdlUGF0aChjb21wb25lbnQuZ2V0SW5zdGFsbElkKCkpOwogICAgICAgIE9wdGlvbmFsPFBhdGg+IGltZ1BhdGggPSBGdW5jdGlvbi5maW5kRXhpc3RJbWFnZShvcmlnaW5QYXRoLCBjb21wb25lbnQuZ2V0UGhvdG9OYW1lKCkpOwogICAgICAgIGlmICghaW1nUGF0aC5pc1ByZXNlbnQoKSkgewogICAgICAgICAgICB0aHJvdyBuZXcgRmlsZU5vdEZvdW5kRXhjZXB0aW9uKCLljp/lp4vnhafniYfkuI3lrZjlnKjvvIzor7fkuIrkvD8iKTsKICAgICAgICB9CgogICAgICAgIC8vIOiOt+WPluWvhuWwgeeCueeahOe8lueggQogICAgICAgIExpc3Q8U2VhbFR5cGU+IHR5cGVzID0gc2VhbHMuc3RyZWFtKCkubWFwKFNlYWw6OmdldFNlYWxUeXBlKS5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpOwogICAgICAgIExkYXJTZXR0aW5nIGxkYXJTZXR0aW5nID0gaUxkYXJTZXR0aW5nU2VydmljZS5nZXRCeUZhY3RvcnlJZChjb21wb25lbnQuZ2V0RmFjdG9yeUlkKCkpOwogICAgICAgIEVudW1IZWxwZXIgaGVscGVyID0gbmV3IEVudW1IZWxwZXIobGRhclNldHRpbmcpOwogICAgICAgIExpc3Q8U3RyaW5nPiBjb2RlcyA9IHR5cGVzLnN0cmVhbSgpLm1hcChoZWxwZXI6OmdldENvZGVGb3JTZWFsVHlwZSkuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKTsKCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgQnVmZmVyZWRJbWFnZSBwcmVIYW5kbGVQaG90byAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBnZW5lcmF0ZVJlc3VsdFBob3RvKFBhdGggaW1nUGF0aCwgTGlzdDxTdHJpbmc+IGNvZGVzLCBMaXN0PFNlYWxQb2ludD4gcG9pbnRzKSB0aHJvd3MgSU9FeGNlcHRpb24gewo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>action PreviousTab</text>
+        <text encoding="base64">JzwsJz5zLyQvIiwvZ2M=</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb21wb25lbnRJZFw+</last-search>
+      <last-search>$</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb21wb25lbnRJZFw+</last-pattern>
-      <last-replace>HeaderFooterLayout</last-replace>
-      <last-substitute>BasicLayout</last-substitute>
+      <last-pattern>$</last-pattern>
+      <last-replace>&quot;,</last-replace>
+      <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>send</entry>
         <entry>chrome</entry>
         <entry>gpu</entry>
         <entry>beha</entry>
@@ -2769,9 +2768,9 @@
         <entry encoding="base64">XDxGSUxFU1w+</entry>
         <entry>getIn</entry>
         <entry encoding="base64">XDxjb21wb25lbnRJZFw+</entry>
+        <entry>$</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/1.0.0-beta.9/1.0.1/gc</entry>
         <entry encoding="base64">JzwsJz5zLzYuMC4wLzUuMi45L2dj</entry>
         <entry>action AceAction</entry>
         <entry encoding="base64">JzwsJz5zL2Rpc3RhbmNlL2hlaWdodC9nYw==</entry>
@@ -2791,6 +2790,7 @@
         <entry>q</entry>
         <entry>action NextTab</entry>
         <entry>action PreviousTab</entry>
+        <entry encoding="base64">JzwsJz5zLyQvIiwvZ2M=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
