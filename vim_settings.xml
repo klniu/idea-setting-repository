@@ -923,12 +923,12 @@
         <mark key="." line="42" column="19" />
         <mark key="^" line="42" column="28" />
       </file>
-      <file name="C:/code/voc/src/main/resources/application.yaml" timestamp="1539516944095">
-        <mark key="'" line="13" column="18" />
+      <file name="C:/code/voc/src/main/resources/application.yaml" timestamp="1539609951689">
+        <mark key="'" line="36" column="0" />
         <mark key="[" line="3" column="12" />
-        <mark key="]" line="3" column="14" />
-        <mark key="." line="3" column="14" />
-        <mark key="^" line="3" column="14" />
+        <mark key="]" line="3" column="15" />
+        <mark key="." line="3" column="15" />
+        <mark key="^" line="3" column="15" />
       </file>
       <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/common/Project.java" timestamp="1530782531593">
         <mark key="'" line="21" column="35" />
@@ -1090,12 +1090,12 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="22" column="8" />
       </file>
-      <file name="C:/code/voc/src/main/resources/application-prod.yaml" timestamp="1539514795061">
+      <file name="C:/code/voc/src/main/resources/application-prod.yaml" timestamp="1539609977414">
         <mark key="'" line="19" column="7" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
+        <mark key="[" line="19" column="24" />
+        <mark key="]" line="19" column="24" />
         <mark key="^" line="19" column="22" />
-        <mark key="." line="20" column="0" />
+        <mark key="." line="19" column="24" />
       </file>
       <file name="$USER_HOME$/code/pyutils/auto/safetysystems.py" timestamp="1536309212583">
         <mark key="'" line="5" column="9" />
@@ -1488,9 +1488,9 @@
         <mark key="^" line="34" column="21" />
         <mark key="." line="34" column="21" />
       </file>
-      <file name="C:/code/voc/src/main/resources/application-dev.yaml" timestamp="1538622908779">
-        <mark key="[" line="9" column="95" />
-        <mark key="]" line="9" column="134" />
+      <file name="C:/code/voc/src/main/resources/application-dev.yaml" timestamp="1539609972666">
+        <mark key="[" line="44" column="7" />
+        <mark key="]" line="44" column="23" />
         <mark key="." line="9" column="95" />
         <mark key="^" line="9" column="94" />
       </file>
@@ -1837,14 +1837,6 @@
         <mark key="]" line="161" column="52" />
         <mark key="^" line="161" column="52" />
         <mark key="." line="161" column="52" />
-      </file>
-      <file name="C:/code/voc/src/test/java/com/cnvoc/voc/service/impl/ComponentServiceImplTest.java" timestamp="1539518673324">
-        <mark key="'" line="265" column="0" />
-        <mark key="j" line="179" column="33" />
-        <mark key="[" line="179" column="0" />
-        <mark key="]" line="180" column="41" />
-        <mark key="^" line="203" column="38" />
-        <mark key="." line="208" column="30" />
       </file>
       <file name="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/EmissionServiceTest.java" timestamp="1521360717588">
         <mark key="'" line="18" column="59" />
@@ -2507,7 +2499,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="15" filename="C:/code/voc_ice/src/pages/ComponentPage/components/PhotoView/PhotoView.jsx" />
       <jump line="165" column="24" filename="C:/code/voc_ice/src/pages/Detection/components/DetectionTable/DetectionTable.jsx" />
       <jump line="7" column="18" filename="C:/code/voc_ice/src/pages/Detection/components/DetectionTable/DetectionTable.jsx" />
       <jump line="309" column="0" filename="C:/code/voc_ice/src/pages/Detection/components/DetectionTable/DetectionTable.jsx" />
@@ -2607,6 +2598,7 @@
       <jump line="54" column="38" filename="C:/code/voc/src/test/java/com/cnvoc/voc/web/SealControllerTest.java" />
       <jump line="118" column="30" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" />
       <jump line="66" column="26" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/TobeServiceImpl.java" />
+      <jump line="36" column="0" filename="C:/code/voc/src/main/resources/application.yaml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2630,7 +2622,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>PDF</text>
+        <text>${user.home}</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2737,13 +2729,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>PDF</text>
+        <text>${user.home}</text>
       </register>
       <register name="/" type="4">
         <text>exist</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIEBHZXRNYXBwaW5nKCIvZXhwb3J0UERGL3tpbnN0YWxsSWR9IikKICAgIHB1YmxpYyBSZXNwb25zZUVudGl0eTxSZXNvdXJjZT4gZXhwb3J0UERGKEBQYXRoVmFyaWFibGUgTG9uZyBpbnN0YWxsSWQpIHsKICAgICAgICB0cnkgewogICAgICAgICAgICBQYXRoIHBkZlBhdGggPSBpQ29tcG9uZW50U2VydmljZS5nZW5lcmF0ZVBob3RvUERGKGluc3RhbGxJZCk7CiAgICAgICAgICAgIEZpbGUgZmlsZSA9IHBkZlBhdGgudG9GaWxlKCk7CiAgICAgICAgICAgIGlmICghZmlsZS5leGlzdHMoKSkgewogICAgICAgICAgICAgICAgdGhyb3cgbmV3IFVua25vd25FcnJvckV4Y2VwdGlvbigi55Sf5oiQ55qE5paH5Lu25om+5LiN5Yiw77yM5pyN5Yqh5Zmo5byC5bi4Iik7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgSW5wdXRTdHJlYW1SZXNvdXJjZSByZXNvdXJjZSA9IG5ldyBJbnB1dFN0cmVhbVJlc291cmNlKG5ldyBGaWxlSW5wdXRTdHJlYW0oZmlsZSkpOwoKICAgICAgICAgICAgLy8gUmVzb3VyY2UgcmVzb3VyY2UgPSBuZXcgSW5wdXRTdHJlYW1SZXNvdXJjZShuZXcgQnl0ZUFycmF5SW5wdXRTdHJlYW0oRmlsZVV0aWxzLnJlYWRGaWxlVG9CeXRlQXJyYXkoZmlsZSkpKTsKICAgICAgICAgICAgcmV0dXJuIFJlc3BvbnNlRW50aXR5Lm9rKCkKICAgICAgICAgICAgICAgICAgICAuaGVhZGVyKCJDb250ZW50LURpc3Bvc2l0aW9uIiwiYXR0YWNobWVudDsgZmlsZW5hbWU9cGhvdG9zLnBkZiIpCiAgICAgICAgICAgICAgICAgICAgLmNvbnRlbnRMZW5ndGgoZmlsZS5sZW5ndGgoKSkKICAgICAgICAgICAgICAgICAgICAuY29udGVudFR5cGUoTWVkaWFUeXBlLnBhcnNlTWVkaWFUeXBlKCJhcHBsaWNhdGlvbi9wZGYiKSkKICAgICAgICAgICAgICAgICAgICAuYm9keShyZXNvdXJjZSk7CiAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgLy8g5L2/55So54m55q6K55qE5byC5bi477yM6L+Z5Liq5byC5bi45bCG6L+U5Zuec3RhdHVz5Li66ZSZ6K+v77yM5LiN5L2/55SoMjAwCiAgICAgICAgICAgIHRocm93IG5ldyBTZXJ2ZUZpbGVFeGNlcHRpb24oZS5nZXRNZXNzYWdlKCkpOwogICAgICAgIH0KICAgIH0K</text>
+      <register name="0" type="4">
+        <text>${java.io.tmpdir}</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGIK</text>
