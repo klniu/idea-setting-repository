@@ -181,6 +181,13 @@
         <mark key="." line="25" column="19" />
         <mark key="^" line="19" column="47" />
       </file>
+      <file name="C:/code/voc/src/test/java/com/cnvoc/voc/service/impl/SealPointServiceImplTest.java" timestamp="1539698868842">
+        <mark key="'" line="36" column="50" />
+        <mark key="[" line="68" column="35" />
+        <mark key="]" line="68" column="37" />
+        <mark key="^" line="68" column="37" />
+        <mark key="." line="68" column="37" />
+      </file>
       <file name="$USER_HOME$/code/website/src/containers/Home/style/pro.scss" timestamp="1530454653849">
         <mark key="'" line="164" column="16" />
         <mark key="[" line="189" column="10" />
@@ -688,7 +695,7 @@
         <mark key="^" line="6" column="14" />
         <mark key="." line="6" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539691424886">
+      <file name="/Dummy.txt" timestamp="1539697951458">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -1222,11 +1229,11 @@
         <mark key="^" line="252" column="46" />
         <mark key="." line="255" column="0" />
       </file>
-      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/SealPointServiceImpl.java" timestamp="1539685431128">
-        <mark key="[" line="133" column="49" />
-        <mark key="]" line="133" column="68" />
-        <mark key="^" line="133" column="68" />
-        <mark key="." line="133" column="68" />
+      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/SealPointServiceImpl.java" timestamp="1539698947786">
+        <mark key="[" line="196" column="98" />
+        <mark key="]" line="196" column="99" />
+        <mark key="^" line="59" column="37" />
+        <mark key="." line="196" column="99" />
       </file>
       <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/FactoryServiceImpl.java" timestamp="1519648006712">
         <mark key="'" line="108" column="32" />
@@ -1316,6 +1323,12 @@
         <mark key="]" line="104" column="53" />
         <mark key="^" line="104" column="53" />
         <mark key="." line="104" column="53" />
+      </file>
+      <file name="C:/code/voc/src/test/java/com/cnvoc/voc/service/impl/BaseTest.java" timestamp="1539698307513">
+        <mark key="[" line="65" column="10" />
+        <mark key="]" line="65" column="10" />
+        <mark key="^" line="52" column="17" />
+        <mark key="." line="65" column="10" />
       </file>
       <file name="$USER_HOME$/code/xauto/xauto/web/MailUtil.py" timestamp="1531468450438">
         <mark key="'" line="27" column="13" />
@@ -2698,7 +2711,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="183" column="15" filename="C:/code/voc_ice/src/pages/ComponentPage/components/ComponentTable/ComponentTable.jsx" />
       <jump line="117" column="18" filename="C:/code/voc_ice/src/components/FeedbackUpload/FeedbackUpload.jsx" />
       <jump line="1" column="32" filename="C:/code/voc_ice/src/components/FeedbackUpload/FeedbackUpload.jsx" />
       <jump line="126" column="41" filename="C:/code/voc_ice/src/components/FeedbackUpload/FeedbackUpload.jsx" />
@@ -2798,6 +2810,7 @@
       <jump line="19" column="27" filename="C:/code/voc/src/main/java/com/cnvoc/voc/config/JacksonConfig.java" />
       <jump line="85" column="0" filename="C:/code/voc/src/main/java/com/cnvoc/voc/web/RepairController.java" />
       <jump line="0" column="0" filename="C:/code/voc/src/main/java/com/cnvoc/voc/web/RepairController.java" />
+      <jump line="36" column="50" filename="C:/code/voc/src/test/java/com/cnvoc/voc/service/impl/SealPointServiceImplTest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2820,8 +2833,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBKc29uVmFsdWUK</text>
+      <register name="&quot;" type="4">
+        <text>4</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2928,7 +2941,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfc2VhbF9pZFw+</text>
