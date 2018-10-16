@@ -557,6 +557,7 @@
         <mark key="." line="52" column="13" />
         <mark key="^" line="52" column="13" />
       </file>
+      <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/model_test.go" timestamp="1539657433399" />
       <file name="C:/code/voc/src/main/java/com/cnvoc/voc/common/Function.java" timestamp="1539402823937">
         <mark key="'" line="29" column="0" />
         <mark key="[" line="406" column="18" />
@@ -2168,11 +2169,11 @@
         <mark key="^" line="252" column="46" />
         <mark key="." line="255" column="0" />
       </file>
-      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/SealPointServiceImpl.java" timestamp="1539605111452">
-        <mark key="[" line="69" column="41" />
-        <mark key="]" line="70" column="23" />
-        <mark key="." line="70" column="23" />
-        <mark key="^" line="70" column="23" />
+      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/SealPointServiceImpl.java" timestamp="1539660111287">
+        <mark key="[" line="171" column="42" />
+        <mark key="]" line="171" column="44" />
+        <mark key="^" line="171" column="44" />
+        <mark key="." line="171" column="44" />
       </file>
       <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/FactoryServiceImpl.java" timestamp="1519648006712">
         <mark key="'" line="108" column="32" />
@@ -2669,7 +2670,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>自动编</text>
+        <text>上</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2776,40 +2777,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>自动编</text>
+        <text>上</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfc2VhbF9pZFw+</text>
       </register>
-      <register name="0" type="4">
-        <text>${java.io.tmpdir}</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgZmxvYXQgUmVjdFdpZHRoID0gMzI7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8g6buY6K6k55SodGFn5o6S5bqPCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgeTEgPSByeTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBvcmRlciBieSBgY29tcG9uZW50X2lkYCwgYG5vYAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgeTIgPSByeTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gYm9zLnRvQnl0ZUFycmF5KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgeDEgPSByeDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBCeXRlQXJyYXlPdXRwdXRTdHJlYW0gYm9zID0gaVRvYmVTZXJ2aWNlLmV4cG9ydFRWQTIwMjBSb3V0ZShzZWFsKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgeDIgPSByeDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgeDEgPSBjeCAtIHdpZHRoOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfWVsc2UgewogICAgICAgICAgICAgICAgcmV0dXJuIG51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICBmbG9hdCB3aWR0aCA9IDE4OyAvLyC55raotcS+2NDOv+22yAogICAgICAgIGZsb2F0IGhlaWdodCA9IDk7Ly8gus2437bICg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8v5aaC5p6c5paH5Lu25a2Y5ZyoCg==</text>
+        <text encoding="base64">ICAgICAgICBmbG9hdCB4MjsKICAgICAgICBmbG9hdCB5MjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgaWYgKGZpbGUuZXhpc3RzKCkpewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmxvYXRbXSBjb29yZCA9IGdldFJlY3RDb29yZChwb2ludCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBnMmQuZHJhd0ltYWdlKGJ1ZmZlcmVkSW1hZ2UsIDAsIDAsIHdpZHRoLCBoZWlnaHQsIG51bGwpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
@@ -2822,7 +2823,7 @@
       <last-replace>HeaderFooterLayout</last-replace>
       <last-substitute>BasicLayout</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
