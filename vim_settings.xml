@@ -1821,12 +1821,12 @@
         <mark key="." line="115" column="22" />
         <mark key="^" line="115" column="22" />
       </file>
-      <file name="C:/code/pyutils/voc/dagu/daguserver.py" timestamp="1539691206591">
-        <mark key="'" line="175" column="0" />
-        <mark key="[" line="181" column="48" />
-        <mark key="]" line="181" column="51" />
-        <mark key="." line="181" column="51" />
-        <mark key="^" line="181" column="51" />
+      <file name="C:/code/pyutils/voc/dagu/daguserver.py" timestamp="1539695736092">
+        <mark key="'" line="36" column="25" />
+        <mark key="[" line="23" column="4" />
+        <mark key="]" line="23" column="4" />
+        <mark key="." line="23" column="4" />
+        <mark key="^" line="191" column="45" />
       </file>
       <file name="D:/code/java/cnooc/src/main/java/com/cnvoc/cnooc/service/impl/ExcelOutput.java" timestamp="1523438909186">
         <mark key="'" line="97" column="0" />
@@ -2493,7 +2493,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="23" filename="C:/code/voc_ice/src/store/action.js" />
       <jump line="206" column="0" filename="C:/code/voc_ice/src/pages/Detection/components/DetectionTable/DetectionTable.jsx" />
       <jump line="217" column="0" filename="C:/code/voc_ice/src/pages/Detection/components/DetectionTable/DetectionTable.jsx" />
       <jump line="220" column="23" filename="C:/code/voc_ice/src/pages/Detection/components/DetectionTable/DetectionTable.jsx" />
@@ -2593,6 +2592,7 @@
       <jump line="61" column="21" filename="C:/code/pyutils/voc/dagu/daguserver.py" />
       <jump line="42" column="17" filename="C:/code/pyutils/voc/dagu/daguserver.py" />
       <jump line="174" column="0" filename="C:/code/pyutils/voc/dagu/daguserver.py" />
+      <jump line="36" column="25" filename="C:/code/pyutils/voc/dagu/daguserver.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2615,8 +2615,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>txt</text>
+      <register name="&quot;" type="8">
+        <text encoding="base64">IyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyA=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2723,40 +2723,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>txt</text>
+        <text>xlsx</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnyfqzydew1sNwZGajuicsIGkpCg==</text>
+        <text encoding="base64">ICAgIGV4cG9ydF90b2JlX3JlcGFpcmVkKEhFQURFUlMpCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGNoZWNrX3JlcyhyKQo=</text>
+      <register name="1" type="8">
+        <text encoding="base64">IyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyA=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNoZWNrX3JlcyhyKQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVmIGV4cG9ydF90b2JlX3JlcGFpcmVkKGhlYWRlcnMpOgogICAgciA9IHJlcXVlc3RzLmdldChCQVNFX1VSTCArICcvYXBpL2RldGVjdGlvbi9leHBvcHJ0L3RvYmVyZXBhaXJlZCcsIGhlYWRlcnM9aGVhZGVycywganNvbj17CiAgICAgICAgImRldGVjdGlvbiI6IHsKICAgICAgICAgICAgImZhY3RvcnlJZCI6IDEKICAgICAgICB9CiAgICB9KQogICAgY2hlY2tfcmVzKHIpCiAgICB3aXRoIG9wZW4oJ0Q6L0Rvd25sb2Fkcy9yZXN1bHQvdG9iZXJlcGFpcmVkLnR4dCcsICd3YicpIGFzIGY6CiAgICAgICAgZi53cml0ZShyLmNvbnRlbnQpCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmb3Igc2VhbCBpbiByLmpzb24oKVsnZGF0YSddOgogICAgICAgICAgICBmLndyaXRlKHNlYWxbJ3RhZyddICsgJ1xuJykK</text>
+        <text encoding="base64">ZGVmIGV4cG9ydF90b2JlX3JlcGFpcmVkKGhlYWRlcnMpOgogICAgciA9IHJlcXVlc3RzLmdldChCQVNFX1VSTCArICcvYXBpL2RldGVjdGlvbi9leHBvcHJ0L3RvYmVyZXBhaXJlZCcsIGhlYWRlcnM9aGVhZGVycywganNvbj17CiAgICAgICAgImRldGVjdGlvbiI6IHsKICAgICAgICAgICAgImZhY3RvcnlJZCI6IDEKICAgICAgICB9CiAgICB9KQogICAgY2hlY2tfcmVzKHIpCiAgICB3aXRoIG9wZW4oJ0Q6L0Rvd25sb2Fkcy9yZXN1bHQvdG9iZXJlcGFpcmVkLnR4dCcsICd3YicpIGFzIGY6CiAgICAgICAgZi53cml0ZShyLmNvbnRlbnQpCgo=</text>
       </register>
-      <register name="6" type="8">
-        <text encoding="base64">IyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyA=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBmb3Igc2VhbCBpbiByLmpzb24oKVsnZGF0YSddOgogICAgICAgICAgICBmLndyaXRlKHNlYWxbJ3RhZyddICsgJ1xuJykK</text>
       </register>
       <register name="7" type="8">
         <text encoding="base64">IyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyA=</text>
       </register>
       <register name="8" type="8">
-        <text encoding="base64">IyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyA=</text>
+        <text encoding="base64">IyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyA=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHVwbG9hZF9zZWFsc19leGNlbChIRUFERVJTKQo=</text>
+      <register name="9" type="8">
+        <text encoding="base64">IyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyA=</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
