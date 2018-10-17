@@ -676,8 +676,8 @@
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/entity/Seal.java" timestamp="1539613301835">
-        <mark key="'" line="62" column="24" />
+      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/entity/Seal.java" timestamp="1539749067157">
+        <mark key="'" line="68" column="15" />
         <mark key="[" line="85" column="0" />
         <mark key="]" line="85" column="30" />
         <mark key="." line="85" column="0" />
@@ -1836,12 +1836,12 @@
         <mark key="." line="42" column="19" />
         <mark key="^" line="42" column="28" />
       </file>
-      <file name="C:/code/voc/src/main/resources/application.yaml" timestamp="1539743432537">
+      <file name="C:/code/voc/src/main/resources/application.yaml" timestamp="1539749187079">
         <mark key="'" line="36" column="0" />
         <mark key="[" line="3" column="12" />
-        <mark key="]" line="3" column="14" />
-        <mark key="." line="3" column="14" />
-        <mark key="^" line="3" column="14" />
+        <mark key="]" line="3" column="15" />
+        <mark key="." line="3" column="15" />
+        <mark key="^" line="3" column="15" />
       </file>
       <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/common/Project.java" timestamp="1530782531593">
         <mark key="'" line="21" column="35" />
@@ -2633,7 +2633,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="257" column="37" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/InstallServiceImpl.java" />
       <jump line="51" column="0" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/InstallServiceImpl.java" />
       <jump line="80" column="13" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/SealPointServiceImpl.java" />
       <jump line="82" column="68" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/SealPointServiceImpl.java" />
@@ -2733,6 +2732,7 @@
       <jump line="438" column="23" filename="C:/code/voc/src/main/java/com/cnvoc/voc/common/Function.java" />
       <jump line="120" column="0" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/SealPointServiceImpl.java" />
       <jump line="348" column="60" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/RepairServiceImpl.java" />
+      <jump line="68" column="15" filename="C:/code/voc/src/main/java/com/cnvoc/voc/entity/Seal.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2755,8 +2755,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZXRlY3Rpb24uc2VhbF9pZCwK</text>
+      <register name="&quot;" type="4">
+        <text>dev</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2863,7 +2863,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>iSealPointService</text>
+        <text>dev</text>
       </register>
       <register name="/" type="4">
         <text>422</text>
