@@ -210,12 +210,12 @@
         <mark key="." line="32" column="14" />
         <mark key="^" line="32" column="14" />
       </file>
-      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/entity/assists/PDFImage.java" timestamp="1539867550794">
+      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/entity/assists/PDFImage.java" timestamp="1539874905788">
         <mark key="'" line="102" column="11" />
-        <mark key="[" line="183" column="39" />
-        <mark key="]" line="183" column="47" />
-        <mark key="." line="183" column="47" />
-        <mark key="^" line="183" column="47" />
+        <mark key="[" line="159" column="37" />
+        <mark key="]" line="159" column="46" />
+        <mark key="." line="159" column="46" />
+        <mark key="^" line="159" column="46" />
       </file>
       <file name="D:/code/web/voc-delon/src/app/routes/base/factory/factory.component.ts" timestamp="1522139789401">
         <mark key="'" line="36" column="80" />
@@ -370,6 +370,12 @@
         <mark key="]" line="49" column="23" />
         <mark key="." line="49" column="23" />
         <mark key="^" line="49" column="23" />
+      </file>
+      <file name="C:/code/voc/src/test/java/com/cnvoc/voc/common/FunctionTest.java" timestamp="1539874598983">
+        <mark key="[" line="139" column="16" />
+        <mark key="]" line="139" column="24" />
+        <mark key="^" line="139" column="24" />
+        <mark key="." line="139" column="24" />
       </file>
       <file name="D:/code/web/voc-web/src/app/routes/passport/login/login.component.ts" timestamp="1520135524045">
         <mark key="'" line="29" column="36" />
@@ -684,7 +690,7 @@
         <mark key="^" line="6" column="14" />
         <mark key="." line="6" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539846233094">
+      <file name="/Dummy.txt" timestamp="1539875013548">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -1652,12 +1658,12 @@
         <mark key="." line="90" column="29" />
         <mark key="^" line="90" column="29" />
       </file>
-      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/common/Function.java" timestamp="1539681738322">
-        <mark key="'" line="438" column="39" />
-        <mark key="[" line="479" column="4" />
-        <mark key="]" line="479" column="17" />
-        <mark key="^" line="479" column="17" />
-        <mark key="." line="479" column="17" />
+      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/common/Function.java" timestamp="1539874793213">
+        <mark key="'" line="439" column="39" />
+        <mark key="[" line="518" column="56" />
+        <mark key="]" line="518" column="57" />
+        <mark key="." line="518" column="57" />
+        <mark key="^" line="518" column="58" />
       </file>
       <file name="D:/code/web/voc-ui/src/app/routes/ldar/component/seal-form.component.ts" timestamp="1522725627311">
         <mark key="'" line="35" column="38" />
@@ -2116,8 +2122,8 @@
         <mark key="^" line="679" column="15" />
         <mark key="." line="682" column="0" />
       </file>
-      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/RepairServiceImpl.java" timestamp="1539866902421">
-        <mark key="'" line="307" column="59" />
+      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/RepairServiceImpl.java" timestamp="1539873473290">
+        <mark key="'" line="362" column="25" />
         <mark key="[" line="316" column="79" />
         <mark key="]" line="316" column="115" />
         <mark key="." line="316" column="115" />
@@ -2655,7 +2661,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="0" filename="C:/code/voc/src/main/java/com/cnvoc/voc/entity/SealPoint.java" />
       <jump line="32" column="13" filename="C:/code/voc/src/main/java/com/cnvoc/voc/entity/Detection.java" />
       <jump line="18" column="2" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/IInstallService.java" />
       <jump line="257" column="37" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/InstallServiceImpl.java" />
@@ -2755,6 +2760,7 @@
       <jump line="535" column="40" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/ComponentServiceImpl.java" />
       <jump line="81" column="14" filename="C:/code/voc/src/main/resources/mapper/ComponentMapper.xml" />
       <jump line="32" column="12" filename="C:/code/voc/src/main/java/com/cnvoc/voc/mapper/ComponentMapper.java" />
+      <jump line="362" column="25" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/RepairServiceImpl.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2778,7 +2784,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>3</text>
+        <text>0</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2885,40 +2891,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWxlY3RMaXN0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0YWJsZS5zZXRIb3Jpem9udGFsQWxpZ25tZW50KEVsZW1lbnQuQUxJR05fQ0VOVEVSKTsK</text>
+        <text encoding="base64">ICAgICAgICBQZGZQQ2VsbCBjZWxsOSA9IGNyZWF0ZUNlbGwoKTsKICAgICAgICBjZWxsOS5zZXRDb2xzcGFuKDEpOwogICAgICAgIFBhcmFncmFwaCBwYXJhOSA9IGNyZWF0ZVBhcmFncmFwaCgi6KOF572uIik7CiAgICAgICAgY2VsbDkuYWRkRWxlbWVudChwYXJhOSk7CiAgICAgICAgdGFibGUuYWRkQ2VsbChjZWxsOSk7CgogICAgICAgIFBkZlBDZWxsIGNlbGwxMCA9IGNyZWF0ZUNlbGwoKTsKICAgICAgICBjZWxsMTAuc2V0Q29sc3BhbigzKTsKICAgICAgICBQYXJhZ3JhcGggcGFyYTEwID0gY3JlYXRlUGFyYWdyYXBoKHRoaXMubGVha2luZ0NvbXBvbmVudC5nZXRJbnN0YWxsTmFtZSgpKTsKICAgICAgICBjZWxsMTAuYWRkRWxlbWVudChwYXJhMTApOwogICAgICAgIHRhYmxlLmFkZENlbGwoY2VsbDEwKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">JycsCg==</text>
+        <text encoding="base64">ICAgICAgIFN0cmluZ0J1aWxkZXIgc2IgPSBuZXcgU3RyaW5nQnVpbGRlcigpOyAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">JycsCg==</text>
+        <text encoding="base64">ICAgICAgICBzYi5hcHBlbmQoY29tcG9uZW50LmdldExvY2F0b3IoKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIH0gZWxzZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIGlmIChjb21wb25lbnQuZ2V0TG9jYXRvcigpICE9IG51bGwpIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAoMTAsIDEsIDIsIDMsIDEsICcwMScsICdIUkcnLCAyLCAnMjAxNC0wNS0wMScsICcwMzAxJywgJycpLAogICgxMSwgMSwgMiwgNCwgMSwgJzAxJywgJ1NBTicsIDIsICcyMDE0LTA1LTAxJywgJzA0MDEnLCAnJyksCg==</text>
+        <text encoding="base64">ICAgICAgIGlmICgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAoNCwgMSwgNCwgJ1hYWFNBTicsICdYWFNBTicsICcnKSwKICAoNSwgMSwgNSwgJ+iLr+S5meeDrycsICdYWFhCWVgnLCAnJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjLnNldEhvcml6b250YWxBbGlnbm1lbnQoRWxlbWVudC5BTElHTl9DRU5URVIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjZWxsMS5zZXRIb3Jpem9udGFsQWxpZ25tZW50KEVsZW1lbnQuQUxJR05fQ0VOVEVSKTsK</text>
+        <text encoding="base64">JycsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0YWJsZS5zZXRBKEVsZW1lbnQuQUxJR05fQ0VOVEVSKTsK</text>
+        <text encoding="base64">JycsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0YWJsZS5zZXRIb3Jpem9udGFsQWxpZ25tZW50KEVsZW1lbnQuQUxJR05fTEVGVCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action PreviousTab</text>
