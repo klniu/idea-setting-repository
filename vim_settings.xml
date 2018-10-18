@@ -121,10 +121,10 @@
         <mark key="." line="78" column="110" />
         <mark key="^" line="78" column="110" />
       </file>
-      <file name="C:/code/pyutils/voc/dagu/bolinserver.py" timestamp="1539872089099">
+      <file name="C:/code/pyutils/voc/dagu/bolinserver.py" timestamp="1539875227410">
         <mark key="'" line="70" column="0" />
-        <mark key="[" line="88" column="61" />
-        <mark key="]" line="88" column="70" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="67" column="27" />
         <mark key="^" line="88" column="70" />
         <mark key="." line="88" column="70" />
       </file>
@@ -673,7 +673,7 @@
         <mark key="^" line="6" column="14" />
         <mark key="." line="6" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539700883477">
+      <file name="/Dummy.txt" timestamp="1539875105343">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -1014,11 +1014,11 @@
         <mark key="." line="115" column="22" />
         <mark key="^" line="115" column="22" />
       </file>
-      <file name="C:/code/pyutils/voc/dagu/daguserver.py" timestamp="1539873658212">
-        <mark key="[" line="32" column="4" />
-        <mark key="]" line="32" column="5" />
-        <mark key="." line="32" column="5" />
-        <mark key="^" line="32" column="5" />
+      <file name="C:/code/pyutils/voc/dagu/daguserver.py" timestamp="1539875096939">
+        <mark key="[" line="23" column="4" />
+        <mark key="]" line="23" column="4" />
+        <mark key="." line="23" column="4" />
+        <mark key="^" line="23" column="4" />
       </file>
       <file name="C:/code/voc/src/main/java/com/cnvoc/voc/service/IRepairService.java" timestamp="1539672885060">
         <mark key="[" line="89" column="53" />
@@ -2744,8 +2744,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICduYW1lJzogJ7Tzud7H+CcsICdpbnN0YWxscyc6IHsKICAgICAgICAgICAgICAgICAgICAnMDEnOiAntPO53sf4LbG90tLPqbnex/gnLAogICAgICAgICAgICAgICAgICAgICcwMic6ICex+8+p6+a53sf4JywKICAgICAgICAgICAgICAgICAgICAnMDMnOiAntqG2/s+pud7H+CcsCiAgICAgICAgICAgICAgICAgICAgJzA0JzogJ9LSz6m53sf4JywKICAgICAgICAgICAgICAgICAgICAnMDUnOiAn17CztcyoJywKICAgICAgICAgICAgICAgICAgICAnMDYnOiAnyuXKrrb+zem7+cHytLy54Mf4JywKICAgICAgICAgICAgICAgIH19LAogICAgICAgICAgICAnWFhYQUJTJzogeyduYW1lJzogJ0FCUycsICdpbnN0YWxscyc6IHsKICAgICAgICAgICAgICAgICcwMSc6ICdQQkwnLAogICAgICAgICAgICAgICAgJzAyJzogJ1NBTicsCiAgICAgICAgICAgICAgICAnMDMnOiAnSFJHJywK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2861,18 +2861,21 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICcwMSc6ICdTQU4nLAo=</text>
       </register>
       <register name="1" type="8">
-        <text encoding="base64">IyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyA=</text>
+        <text encoding="base64">IGYKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyA=</text>
       </register>
       <register name="2" type="8">
-        <text encoding="base64">IyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyA=</text>
+        <text encoding="base64">IyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyA=</text>
       </register>
       <register name="3" type="8">
-        <text encoding="base64">IyAKIyAKIyAKIyAKIyA=</text>
+        <text encoding="base64">IyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyA=</text>
       </register>
       <register name="4" type="8">
-        <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIA==</text>
+        <text encoding="base64">IyAKIyAKIyAKIyAKIyA=</text>
       </register>
       <register name="5" type="8">
+        <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIA==</text>
+      </register>
+      <register name="6" type="8">
         <text>#
 #
 #
@@ -2884,17 +2887,14 @@
 #
 #</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJ1hYWEhSRyc6IHsnbmFtZSc6ICdIUkcnLCAnaW5zdGFsbHMnOiB7CiAgICAgICAgICAgICAgICAnMDEnOiAnSFJHJywKICAgICAgICAgICAgfX0sCiAgICAgICAgICAgICdYWFhTQU4nOiB7J25hbWUnOiAnU0FOJywgJ2luc3RhbGxzJzogewogICAgICAgICAgICAgICAgJzAxJzogJ1NBTicsCiAgICAgICAgICAgIH19LAo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICcwMyc6ICdQQkwnLAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICcwMic6ICdQQkwnLAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICcwMic6ICdQQkwnLAo=</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
