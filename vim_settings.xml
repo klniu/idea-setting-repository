@@ -1014,7 +1014,7 @@
         <mark key="." line="115" column="22" />
         <mark key="^" line="115" column="22" />
       </file>
-      <file name="C:/code/pyutils/voc/dagu/daguserver.py" timestamp="1539869213799">
+      <file name="C:/code/pyutils/voc/dagu/daguserver.py" timestamp="1539871398755">
         <mark key="[" line="23" column="4" />
         <mark key="]" line="23" column="4" />
         <mark key="." line="23" column="4" />
@@ -2745,12 +2745,7 @@
         </keys>
       </register>
       <register name="&quot;" type="8">
-        <text>'大罐区-苯乙烯罐区',
-'丙烯腈罐区',
-'丁二烯罐区',
-'乙烯罐区',
-'装车台',
-'叔十二烷基硫醇灌区',</text>
+        <text encoding="base64">IyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyA=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2866,9 +2861,15 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICcwMSc6ICdTQU4nLAo=</text>
       </register>
       <register name="1" type="8">
-        <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIA==</text>
+        <text encoding="base64">IyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyA=</text>
       </register>
       <register name="2" type="8">
+        <text encoding="base64">IyAKIyAKIyAKIyAKIyA=</text>
+      </register>
+      <register name="3" type="8">
+        <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIA==</text>
+      </register>
+      <register name="4" type="8">
         <text>#
 #
 #
@@ -2880,26 +2881,20 @@
 #
 #</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJ1hYWEhSRyc6IHsnbmFtZSc6ICdIUkcnLCAnaW5zdGFsbHMnOiB7CiAgICAgICAgICAgICAgICAnMDEnOiAnSFJHJywKICAgICAgICAgICAgfX0sCiAgICAgICAgICAgICdYWFhTQU4nOiB7J25hbWUnOiAnU0FOJywgJ2luc3RhbGxzJzogewogICAgICAgICAgICAgICAgJzAxJzogJ1NBTicsCiAgICAgICAgICAgIH19LAo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICcwMyc6ICdQQkwnLAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICcwMic6ICdQQkwnLAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgJzAnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICcwMic6ICdQQkwnLAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgJzAnCg==</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
