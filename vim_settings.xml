@@ -210,12 +210,12 @@
         <mark key="." line="32" column="14" />
         <mark key="^" line="32" column="14" />
       </file>
-      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/entity/assists/PDFImage.java" timestamp="1539679528918">
-        <mark key="'" line="31" column="8" />
-        <mark key="[" line="39" column="8" />
-        <mark key="]" line="39" column="14" />
-        <mark key="." line="39" column="14" />
-        <mark key="^" line="39" column="14" />
+      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/entity/assists/PDFImage.java" timestamp="1539865686722">
+        <mark key="'" line="102" column="11" />
+        <mark key="[" line="105" column="23" />
+        <mark key="]" line="105" column="35" />
+        <mark key="." line="105" column="35" />
+        <mark key="^" line="105" column="35" />
       </file>
       <file name="D:/code/web/voc-delon/src/app/routes/base/factory/factory.component.ts" timestamp="1522139789401">
         <mark key="'" line="36" column="80" />
@@ -1851,7 +1851,7 @@
         <mark key="." line="42" column="19" />
         <mark key="^" line="42" column="28" />
       </file>
-      <file name="C:/code/voc/src/main/resources/application.yaml" timestamp="1539613536514">
+      <file name="C:/code/voc/src/main/resources/application.yaml" timestamp="1539863939778">
         <mark key="'" line="36" column="0" />
         <mark key="[" line="3" column="12" />
         <mark key="]" line="3" column="15" />
@@ -2651,7 +2651,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="16" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/SealPointServiceImpl.java" />
       <jump line="296" column="20" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/ComponentServiceImpl.java" />
       <jump line="0" column="0" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/ComponentServiceImpl.java" />
       <jump line="226" column="50" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/ComponentServiceImpl.java" />
@@ -2751,6 +2750,7 @@
       <jump line="585" column="53" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/DetectionServiceImpl.java" />
       <jump line="83" column="0" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/DetectionServiceImpl.java" />
       <jump line="73" column="28" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/DetectionServiceImpl.java" />
+      <jump line="101" column="11" filename="C:/code/voc/src/main/java/com/cnvoc/voc/entity/assists/PDFImage.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2773,8 +2773,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2881,40 +2881,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWxlY3RMaXN0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZGV0ZWN0aW9uTWFwcGVyLnNlbGVjdExpc3QobmV3IEVudGl0eVdyYXBwZXI8RGV0ZWN0aW9uPigpCiAgICAgICAgICAgICAgICAuZXEoImRldGVjdGlvbi5mYWN0b3J5X2lkIiwgZmFjdG9yeUlkKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjZWxsMi5zZXRDb2xzcGFuKDIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB0YWJsZS5zZXRXaWR0aHMobmV3IGZsb2F0W10geyAxLCAzIH0pOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB0cnkK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBldy4K</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHZvaWQgCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBGaWxlVXRpbHMuZm9yY2VEZWxldGUob3JpZ2luMC50b0ZpbGUoKSk7CiAgICAgICAgRmlsZVV0aWxzLmZvcmNlRGVsZXRlKHJlc3VsdDAudG9GaWxlKCkpOwogICAgICAgIEZpbGVVdGlscy5mb3JjZURlbGV0ZShvcmlnaW4xLnRvRmlsZSgpKTsKICAgICAgICBGaWxlVXRpbHMuZm9yY2VEZWxldGUocmVzdWx0MS50b0ZpbGUoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>action NextTab</text>
