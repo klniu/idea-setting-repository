@@ -900,6 +900,12 @@
         <mark key="^" line="342" column="15" />
         <mark key="." line="190" column="0" />
       </file>
+      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/service/IStatisticService.java" timestamp="1539935462332">
+        <mark key="[" line="8" column="24" />
+        <mark key="]" line="7" column="27" />
+        <mark key="^" line="7" column="27" />
+        <mark key="." line="7" column="27" />
+      </file>
       <file name="C:/code/voc_ice/src/pages/Detection/components/DetectionTable/DetectionTable.jsx" timestamp="1539052578376">
         <mark key="'" line="194" column="70" />
         <mark key="[" line="215" column="0" />
@@ -2045,9 +2051,6 @@
         <mark key="." line="6" column="6" />
         <mark key="^" line="6" column="5" />
       </file>
-      <file name="/fragment.java" timestamp="1539846233586">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="D:/code/java/cnooc/src/main/resources/application.yml" timestamp="1523433308337">
         <mark key="'" line="34" column="15" />
         <mark key="[" line="3" column="54" />
@@ -2786,7 +2789,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>installId</text>
+        <text>Long</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2893,7 +2896,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>installId</text>
+        <text>Long</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWxlY3RMaXN0XD4=</text>
