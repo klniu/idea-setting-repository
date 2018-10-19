@@ -1752,6 +1752,10 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="C:/code/voc/src/test/resources/sql/init.sql" timestamp="1539911091371">
+        <mark key="[" line="171" column="19" />
+        <mark key="]" line="171" column="23" />
+      </file>
       <file name="$USER_HOME$/code/website/src/containers/Home/components/Div1/Div1.js" timestamp="1528895170704">
         <mark key="'" line="4" column="62" />
         <mark key="[" line="113" column="14" />
@@ -1839,12 +1843,12 @@
         <mark key="." line="42" column="19" />
         <mark key="^" line="42" column="28" />
       </file>
-      <file name="C:/code/voc/src/main/resources/application.yaml" timestamp="1539613536514">
+      <file name="C:/code/voc/src/main/resources/application.yaml" timestamp="1539910565894">
         <mark key="'" line="36" column="0" />
-        <mark key="[" line="3" column="12" />
-        <mark key="]" line="3" column="15" />
-        <mark key="." line="3" column="15" />
-        <mark key="^" line="3" column="15" />
+        <mark key="[" line="3" column="11" />
+        <mark key="]" line="3" column="14" />
+        <mark key="." line="3" column="14" />
+        <mark key="^" line="3" column="14" />
       </file>
       <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/common/Project.java" timestamp="1530782531593">
         <mark key="'" line="21" column="35" />
@@ -2020,9 +2024,6 @@
         <mark key="]" line="6" column="58" />
         <mark key="." line="6" column="6" />
         <mark key="^" line="6" column="5" />
-      </file>
-      <file name="/fragment.java" timestamp="1539675240911">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/code/java/cnooc/src/main/resources/application.yml" timestamp="1523433308337">
         <mark key="'" line="34" column="15" />
@@ -2755,8 +2756,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>炼制装置1</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2863,7 +2864,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>compo</text>
+        <text>prod</text>
       </register>
       <register name="/" type="4">
         <text>scale</text>
