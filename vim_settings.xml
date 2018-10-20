@@ -1012,11 +1012,11 @@
         <mark key="." line="115" column="22" />
         <mark key="^" line="115" column="22" />
       </file>
-      <file name="C:/code/pyutils/voc/dagu/daguserver.py" timestamp="1540025963315">
-        <mark key="'" line="8" column="10" />
-        <mark key="[" line="29" column="4" />
-        <mark key="]" line="29" column="4" />
-        <mark key="." line="29" column="4" />
+      <file name="C:/code/pyutils/voc/dagu/daguserver.py" timestamp="1540027341072">
+        <mark key="'" line="26" column="11" />
+        <mark key="[" line="30" column="4" />
+        <mark key="]" line="30" column="4" />
+        <mark key="." line="30" column="4" />
         <mark key="^" line="29" column="4" />
       </file>
       <file name="C:/code/voc/src/main/java/com/cnvoc/voc/service/IRepairService.java" timestamp="1539672885060">
@@ -2219,6 +2219,9 @@
         <mark key="^" line="39" column="41" />
         <mark key="." line="39" column="41" />
       </file>
+      <file name="/Python Console" timestamp="1540027233723">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/ISealPointServiceImpl.java" timestamp="1539399067001">
         <mark key="[" line="17" column="112" />
         <mark key="]" line="17" column="112" />
@@ -2627,7 +2630,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="159" column="0" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/SealPointServiceImpl.java" />
       <jump line="62" column="16" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/SealPointServiceImpl.java" />
       <jump line="296" column="20" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/ComponentServiceImpl.java" />
       <jump line="0" column="0" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/ComponentServiceImpl.java" />
@@ -2727,6 +2729,7 @@
       <jump line="55" column="13" filename="C:/code/pyutils/voc/dagu/daguserver.py" />
       <jump line="8" column="10" filename="C:/code/pyutils/voc/dagu/daguserver.py" />
       <jump line="0" column="0" filename="C:/code/pyutils/requirements.txt" />
+      <jump line="26" column="11" filename="C:/code/pyutils/voc/dagu/daguserver.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2749,8 +2752,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cmVxdWVzdHNfdG9vbGJlbHQK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2857,7 +2860,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>scale</text>
@@ -2865,36 +2868,36 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaW50KCK1vLP2dHZhMjAyMMK308mjuiIpCiAgICByID0gcmVxdWVzdHMucG9zdChCQVNFX1VSTCArICcvYXBpL3RvYmUvZXhwb3J0L3R2YTIwMjAnLCBoZWFkZXJzPWhlYWRlcnMsIGpzb249ewogICAgICAgICJmYWN0b3J5SWQiOiAxCiAgICB9KQogICAgd2l0aCBvcGVuKCJEOi9Eb3dubG9hZHMvcmVzdWx0L3RvYmVzLnR4dCIsICd3YicpIGFzIGY6CiAgICAgICAgZi53cml0ZShyLmNvbnRlbnQpCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">cmVxdWVzdHNfdG9vbGJlbHQK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ZnJvbSB0eXBpbmcgaW1wb3J0IExpc3QK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ZnJvbSByZXF1ZXN0c190b29sYmVsdCBpbXBvcnQgTXVsdGlwYXJ0RW5jb2Rlcgo=</text>
-      </register>
-      <register name="4" type="8">
+      <register name="1" type="8">
         <text encoding="base64">IyAKIyAKIyAKIyAKIyAKIyAKIyA=</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">cmVxdWVzdHNfdG9vbGJlbHQK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ZnJvbSB0eXBpbmcgaW1wb3J0IExpc3QK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ZnJvbSByZXF1ZXN0c190b29sYmVsdCBpbXBvcnQgTXVsdGlwYXJ0RW5jb2Rlcgo=</text>
+      </register>
       <register name="5" type="8">
-        <text encoding="base64">IyAKIyAKIyAKIyAKIyA=</text>
+        <text encoding="base64">IyAKIyAKIyAKIyAKIyAKIyAKIyA=</text>
       </register>
       <register name="6" type="8">
-        <text encoding="base64">IyAKIyA=</text>
+        <text encoding="base64">IyAKIyAKIyAKIyAKIyA=</text>
       </register>
       <register name="7" type="8">
+        <text encoding="base64">IyAKIyA=</text>
+      </register>
+      <register name="8" type="8">
         <text>点
 点
 点
 点
 点</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGZpbGVzID1bXQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbXBvbmVudF9ncm91cCA9IFtdCiAgICBmb3IgaSBpbiByYW5nZSgyKToKICAgICAgICBiID0gQm9MaW4oIkQ6L0Rvd25sb2Fkcy9MREFSXyIgKyBzdHIoaSkgKyAiL0xEQVJfREIvbGRhci5kYiIsCiAgICAgICAgICAgICAgICAgICJEOi9Eb3dubG9hZHMvTERBUl8iICsgc3RyKGkpICsKICAgICAgICAgICAgICAgICAgIi9pbWFnZS8iLCBJTUFHRV9ESVIpCiAgICAgICAgYi5ydW4oKQogICAgICAgIGNvbXBvbmVudF9ncm91cC5leHRlbmQoYi5jb21wb25lbnRfZ3JvdXBzKQo=</text>
+        <text encoding="base64">ICAgIGZpbGVzID1bXQo=</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
