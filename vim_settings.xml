@@ -1012,12 +1012,12 @@
         <mark key="." line="115" column="22" />
         <mark key="^" line="115" column="22" />
       </file>
-      <file name="C:/code/pyutils/voc/dagu/daguserver.py" timestamp="1540024307986">
+      <file name="C:/code/pyutils/voc/dagu/daguserver.py" timestamp="1540025963315">
         <mark key="'" line="8" column="10" />
-        <mark key="[" line="28" column="4" />
-        <mark key="]" line="28" column="5" />
-        <mark key="." line="28" column="5" />
-        <mark key="^" line="28" column="5" />
+        <mark key="[" line="29" column="4" />
+        <mark key="]" line="29" column="4" />
+        <mark key="." line="29" column="4" />
+        <mark key="^" line="29" column="4" />
       </file>
       <file name="C:/code/voc/src/main/java/com/cnvoc/voc/service/IRepairService.java" timestamp="1539672885060">
         <mark key="[" line="89" column="53" />
@@ -1713,11 +1713,10 @@
         <mark key="." line="3" column="12" />
         <mark key="^" line="3" column="12" />
       </file>
-      <file name="C:/code/pyutils/requirements.txt" timestamp="1540010644226">
+      <file name="C:/code/pyutils/requirements.txt" timestamp="1540025941489">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
-        <mark key="^" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
       <file name="D:/code/web/voc-delon/src/app/routes/base/factory/factory.component.html" timestamp="1522210031261">
@@ -2750,8 +2749,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="8">
-        <text encoding="base64">IyAKIyAKIyAKIyAKIyA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cmVxdWVzdHNfdG9vbGJlbHQK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2858,47 +2857,47 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>scale</text>
       </register>
-      <register name="0" type="4">
-        <text>oj(IMAGE_DIR, name)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHByaW50KCK1vLP2dHZhMjAyMMK308mjuiIpCiAgICByID0gcmVxdWVzdHMucG9zdChCQVNFX1VSTCArICcvYXBpL3RvYmUvZXhwb3J0L3R2YTIwMjAnLCBoZWFkZXJzPWhlYWRlcnMsIGpzb249ewogICAgICAgICJmYWN0b3J5SWQiOiAxCiAgICB9KQogICAgd2l0aCBvcGVuKCJEOi9Eb3dubG9hZHMvcmVzdWx0L3RvYmVzLnR4dCIsICd3YicpIGFzIGY6CiAgICAgICAgZi53cml0ZShyLmNvbnRlbnQpCg==</text>
       </register>
-      <register name="1" type="8">
+      <register name="1" type="2">
+        <text encoding="base64">cmVxdWVzdHNfdG9vbGJlbHQK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ZnJvbSB0eXBpbmcgaW1wb3J0IExpc3QK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ZnJvbSByZXF1ZXN0c190b29sYmVsdCBpbXBvcnQgTXVsdGlwYXJ0RW5jb2Rlcgo=</text>
+      </register>
+      <register name="4" type="8">
+        <text encoding="base64">IyAKIyAKIyAKIyAKIyAKIyAKIyA=</text>
+      </register>
+      <register name="5" type="8">
         <text encoding="base64">IyAKIyAKIyAKIyAKIyA=</text>
       </register>
-      <register name="2" type="8">
+      <register name="6" type="8">
         <text encoding="base64">IyAKIyA=</text>
       </register>
-      <register name="3" type="8">
+      <register name="7" type="8">
         <text>点
 点
 点
 点
 点</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGZpbGVzID1bXQo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgIGNvbXBvbmVudF9ncm91cCA9IFtdCiAgICBmb3IgaSBpbiByYW5nZSgyKToKICAgICAgICBiID0gQm9MaW4oIkQ6L0Rvd25sb2Fkcy9MREFSXyIgKyBzdHIoaSkgKyAiL0xEQVJfREIvbGRhci5kYiIsCiAgICAgICAgICAgICAgICAgICJEOi9Eb3dubG9hZHMvTERBUl8iICsgc3RyKGkpICsKICAgICAgICAgICAgICAgICAgIi9pbWFnZS8iLCBJTUFHRV9ESVIpCiAgICAgICAgYi5ydW4oKQogICAgICAgIGNvbXBvbmVudF9ncm91cC5leHRlbmQoYi5jb21wb25lbnRfZ3JvdXBzKQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZGVmIAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaGVhZGVyc1snY29udGVudC10eXBlJ10gPSBtLmNvbnRlbnRfdHlwZQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbSA9IE11bHRpcGFydEVuY29kZXIoeyJmaWxlIjogZn0pOwo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIrW8yOvNvMaso7oiLCBuYW1lKQo=</text>
-      </register>
       <register name=":" type="4">
-        <text>action NextTab</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
@@ -2951,9 +2950,9 @@
         <entry>q</entry>
         <entry>action Forward</entry>
         <entry encoding="base64">JzwsJz5J</entry>
-        <entry>action ReformatCode</entry>
         <entry>action PreviousTab</entry>
         <entry>action NextTab</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
