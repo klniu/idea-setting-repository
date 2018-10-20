@@ -1012,12 +1012,12 @@
         <mark key="." line="115" column="22" />
         <mark key="^" line="115" column="22" />
       </file>
-      <file name="C:/code/pyutils/voc/dagu/daguserver.py" timestamp="1540006317555">
-        <mark key="'" line="29" column="11" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="4" />
-        <mark key="." line="29" column="4" />
-        <mark key="^" line="51" column="31" />
+      <file name="C:/code/pyutils/voc/dagu/daguserver.py" timestamp="1540011123498">
+        <mark key="'" line="8" column="10" />
+        <mark key="[" line="59" column="69" />
+        <mark key="]" line="59" column="72" />
+        <mark key="." line="59" column="72" />
+        <mark key="^" line="59" column="72" />
       </file>
       <file name="C:/code/voc/src/main/java/com/cnvoc/voc/service/IRepairService.java" timestamp="1539672885060">
         <mark key="[" line="89" column="53" />
@@ -1071,11 +1071,6 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
         <mark key="^" line="44" column="28" />
-      </file>
-      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/DetectionServiceImpl.java" timestamp="1539673218618">
-        <mark key="'" line="97" column="27" />
-        <mark key="[" line="529" column="0" />
-        <mark key="]" line="530" column="72" />
       </file>
       <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/IInstallService.java" timestamp="1529889391231">
         <mark key="'" line="18" column="2" />
@@ -1717,6 +1712,13 @@
         <mark key="]" line="3" column="12" />
         <mark key="." line="3" column="12" />
         <mark key="^" line="3" column="12" />
+      </file>
+      <file name="C:/code/pyutils/requirements.txt" timestamp="1540010644226">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="D:/code/web/voc-delon/src/app/routes/base/factory/factory.component.html" timestamp="1522210031261">
         <mark key="'" line="59" column="18" />
@@ -2626,9 +2628,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="114" column="6" filename="C:/code/voc/src/main/java/com/cnvoc/voc/common/EnumHelper.java" />
-      <jump line="93" column="51" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/SealPointServiceImpl.java" />
-      <jump line="47" column="21" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/SealPointServiceImpl.java" />
       <jump line="159" column="0" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/SealPointServiceImpl.java" />
       <jump line="62" column="16" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/SealPointServiceImpl.java" />
       <jump line="296" column="20" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/ComponentServiceImpl.java" />
@@ -2726,6 +2725,9 @@
       <jump line="434" column="39" filename="C:/code/voc/src/main/java/com/cnvoc/voc/common/Function.java" />
       <jump line="328" column="54" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/RepairServiceImpl.java" />
       <jump line="29" column="11" filename="C:/code/pyutils/voc/dagu/daguserver.py" />
+      <jump line="55" column="13" filename="C:/code/pyutils/voc/dagu/daguserver.py" />
+      <jump line="8" column="10" filename="C:/code/pyutils/voc/dagu/daguserver.py" />
+      <jump line="0" column="0" filename="C:/code/pyutils/requirements.txt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2748,8 +2750,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgY29tLnBob3RvTmFtZSA9PSAiWFhYU0FOLTAxLTAxLTEyNzciOgogICAgICAgICAgICAgICAgcHJpbnQoIm9yaWdpbiIsIG9yaWdpbikKICAgICAgICAgICAgICAgIHByaW50KCJvdXRwdXQiLCByZXN1bHRfanBnKQo=</text>
+      <register name="&quot;" type="4">
+        <text>files</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2856,7 +2858,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>component_dir</text>
+        <text>files</text>
       </register>
       <register name="/" type="4">
         <text>scale</text>
@@ -2865,31 +2867,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCJvcmlnaW4iOiBvcmlnaW4pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgY29tLnBob3RvTmFtZSA9PSAiWFhYU0FOLTAxLTAxLTEyNzciOgogICAgICAgICAgICAgICAgcHJpbnQoIm9yaWdpbiIsIG9yaWdpbikKICAgICAgICAgICAgICAgIHByaW50KCJvdXRwdXQiLCByZXN1bHRfanBnKQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgY29tLnBob3RvTmFtZSA9PSAiWFhYU0FOLTAxLTAxLTEyNzciOgogICAgICAgICAgICAgICAgcHJpbnQoIm9yaWdpbiIsIG9yaWdpbikKICAgICAgICAgICAgICAgIHByaW50KCJvdXRwdXQiLCBjb21wb25lbnRfZGlyKQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="4" type="8">
-        <text encoding="base64">IyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyA=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIAo=</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgY29tLnBob3RvTmFtZSA9PSAiWFhYU0FOLTAxLTAxLTEyNzciOgogICAgICAgICAgICAgICAgcHJpbnQoIm9yaWdpbiIsIG9yaWdpbikKICAgICAgICAgICAgICAgIHByaW50KCJvdXRwdXQiLCByZXN1bHRfanBnKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgY29tLnBob3RvTmFtZSA9PSAiWFhYU0FOLTAxLTAxLTEyNzciOgogICAgICAgICAgICAgICAgcHJpbnQoIm9yaWdpbiIsIG9yaWdpbikKICAgICAgICAgICAgICAgIHByaW50KCJvdXRwdXQiLCBjb21wb25lbnRfZGlyKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="6" type="8">
+        <text encoding="base64">IyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyA=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIL2rzbzGrLz10KGz37TnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIL2rzbzGrLz10KGz37TnCiAgICBwcml2YXRlIEJ1ZmZlcmVkSW1hZ2Ugc2NhbGVJbWFnZShQYXRoIGltZ1BhdGgsIGludCBoZWlnaHQpIHRocm93cyBJT0V4Y2VwdGlvbiB7CiAgICAgICAgQnVmZmVyZWRJbWFnZSBpbWcgPSBJbWFnZUlPLnJlYWQoaW1nUGF0aC50b0ZpbGUoKSk7CiAgICAgICAgaW50IHdpZHRoID0gKGludCkgKChmbG9hdCkgaGVpZ2h0IC8gKGZsb2F0KSBpbWcuZ2V0SGVpZ2h0KCkgKiBpbWcuZ2V0V2lkdGgoKSk7CiAgICAgICAgQnVmZmVyZWRJbWFnZSBuZXdJbWcgPSBuZXcgQnVmZmVyZWRJbWFnZSh3aWR0aCwgaGVpZ2h0LCBCdWZmZXJlZEltYWdlLlRSQU5TTFVDRU5UKTsKICAgICAgICBHcmFwaGljczJEIGcyID0gbmV3SW1nLmNyZWF0ZUdyYXBoaWNzKCk7CiAgICAgICAgZzIuc2V0UmVuZGVyaW5nSGludChSZW5kZXJpbmdIaW50cy5LRVlfSU5URVJQT0xBVElPTiwgUmVuZGVyaW5nSGludHMuVkFMVUVfSU5URVJQT0xBVElPTl9CSUxJTkVBUik7CiAgICAgICAgZzIuZHJhd0ltYWdlKGltZywgMCwgMCwgd2lkdGgsIGhlaWdodCwgbnVsbCk7CiAgICAgICAgZzIuZGlzcG9zZSgpOwogICAgICAgIHJldHVybiBuZXdJbWc7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIC8vIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGluc3RhbGxGb2xkZXIgPSAK</text>
+        <text encoding="base64">ICAgIC8vIL2rzbzGrLz10KGz37TnCg==</text>
       </register>
       <register name=":" type="4">
         <text>action NextTab</text>
