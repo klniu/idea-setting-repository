@@ -694,7 +694,7 @@
         <mark key="^" line="6" column="14" />
         <mark key="." line="6" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1540025295454">
+      <file name="/Dummy.txt" timestamp="1540027458681">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -970,6 +970,12 @@
         <mark key="^" line="219" column="14" />
         <mark key="." line="219" column="11" />
       </file>
+      <file name="C:/code/voc/src/test/java/com/cnvoc/voc/service/impl/DetectionServiceImplTest.java" timestamp="1540026589945">
+        <mark key="[" line="394" column="49" />
+        <mark key="]" line="395" column="21" />
+        <mark key="^" line="395" column="21" />
+        <mark key="." line="395" column="21" />
+      </file>
       <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/IDetectionService.java" timestamp="1530065307794">
         <mark key="'" line="100" column="19" />
         <mark key="[" line="111" column="0" />
@@ -1108,12 +1114,12 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="44" column="28" />
       </file>
-      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/DetectionServiceImpl.java" timestamp="1539932889307">
-        <mark key="'" line="93" column="19" />
-        <mark key="[" line="591" column="12" />
-        <mark key="]" line="591" column="11" />
-        <mark key="." line="591" column="11" />
-        <mark key="^" line="591" column="11" />
+      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/DetectionServiceImpl.java" timestamp="1540027172803">
+        <mark key="'" line="42" column="17" />
+        <mark key="[" line="326" column="55" />
+        <mark key="]" line="326" column="56" />
+        <mark key="." line="326" column="56" />
+        <mark key="^" line="309" column="54" />
       </file>
       <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/IInstallService.java" timestamp="1529889391231">
         <mark key="'" line="18" column="2" />
@@ -1717,8 +1723,8 @@
         <mark key="^" line="64" column="12" />
         <mark key="." line="64" column="12" />
       </file>
-      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/web/DetectionController.java" timestamp="1540025593000">
-        <mark key="'" line="124" column="0" />
+      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/web/DetectionController.java" timestamp="1540026064223">
+        <mark key="'" line="140" column="57" />
         <mark key="[" line="149" column="0" />
         <mark key="]" line="149" column="0" />
         <mark key="^" line="140" column="87" />
@@ -1845,11 +1851,12 @@
         <mark key="." line="166" column="73" />
         <mark key="^" line="166" column="73" />
       </file>
-      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/entity/Detection.java" timestamp="1539932913910">
-        <mark key="[" line="79" column="20" />
-        <mark key="]" line="79" column="23" />
-        <mark key="." line="79" column="23" />
-        <mark key="^" line="79" column="23" />
+      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/entity/Detection.java" timestamp="1540026800455">
+        <mark key="'" line="64" column="24" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="36" column="31" />
+        <mark key="." line="36" column="31" />
+        <mark key="^" line="36" column="31" />
       </file>
       <file name="C:/code/voc/src/test/java/com/cnvoc/voc/web/FactoryControllerTest.java" timestamp="1539766990342">
         <mark key="[" line="109" column="39" />
@@ -1899,12 +1906,12 @@
         <mark key="." line="42" column="19" />
         <mark key="^" line="42" column="28" />
       </file>
-      <file name="C:/code/voc/src/main/resources/application.yaml" timestamp="1540022166402">
-        <mark key="'" line="43" column="0" />
-        <mark key="[" line="3" column="12" />
-        <mark key="]" line="3" column="15" />
-        <mark key="." line="3" column="15" />
+      <file name="C:/code/voc/src/main/resources/application.yaml" timestamp="1540027526026">
+        <mark key="'" line="36" column="0" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
         <mark key="^" line="3" column="15" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/common/Project.java" timestamp="1530782531593">
         <mark key="'" line="21" column="35" />
@@ -2706,20 +2713,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="669" column="28" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" />
-      <jump line="62" column="23" filename="C:/code/voc/src/main/java/com/cnvoc/voc/web/SealController.java" />
-      <jump line="54" column="38" filename="C:/code/voc/src/test/java/com/cnvoc/voc/web/SealControllerTest.java" />
-      <jump line="118" column="30" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" />
-      <jump line="66" column="26" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/TobeServiceImpl.java" />
-      <jump line="36" column="0" filename="C:/code/voc/src/main/resources/application.yaml" />
-      <jump line="32" column="53" filename="C:/code/voc/src/main/java/com/cnvoc/voc/web/TobeController.java" />
-      <jump line="245" column="28" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/DetectionServiceImpl.java" />
-      <jump line="359" column="28" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/DetectionServiceImpl.java" />
-      <jump line="8" column="0" filename="C:/code/voc/src/main/resources/sql/schema.sql" />
-      <jump line="553" column="12" filename="C:/code/voc/src/main/resources/sql/schema.sql" />
-      <jump line="36" column="34" filename="D:/sync/projects/大沽化工/2018ldar/data/init.sql" />
-      <jump line="62" column="24" filename="C:/code/voc/src/main/java/com/cnvoc/voc/entity/Seal.java" />
-      <jump line="639" column="30" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" />
       <jump line="160" column="38" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/TobeServiceImpl.java" />
       <jump line="36" column="13" filename="C:/code/voc/build.gradle" />
       <jump line="41" column="28" filename="C:/code/voc/src/main/java/com/cnvoc/voc/mapper/DetectionMapper.java" />
@@ -2806,6 +2799,20 @@
       <jump line="306" column="27" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/ComponentServiceImpl.java" />
       <jump line="354" column="37" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/RepairServiceImpl.java" />
       <jump line="124" column="0" filename="C:/code/voc/src/main/java/com/cnvoc/voc/web/DetectionController.java" />
+      <jump line="140" column="57" filename="C:/code/voc/src/main/java/com/cnvoc/voc/web/DetectionController.java" />
+      <jump line="283" column="49" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/DetectionServiceImpl.java" />
+      <jump line="103" column="37" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/DetectionServiceImpl.java" />
+      <jump line="285" column="60" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/DetectionServiceImpl.java" />
+      <jump line="288" column="50" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/DetectionServiceImpl.java" />
+      <jump line="63" column="24" filename="C:/code/voc/src/main/java/com/cnvoc/voc/entity/Detection.java" />
+      <jump line="304" column="31" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/DetectionServiceImpl.java" />
+      <jump line="306" column="34" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/DetectionServiceImpl.java" />
+      <jump line="307" column="50" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/DetectionServiceImpl.java" />
+      <jump line="308" column="35" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/DetectionServiceImpl.java" />
+      <jump line="309" column="35" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/DetectionServiceImpl.java" />
+      <jump line="310" column="34" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/DetectionServiceImpl.java" />
+      <jump line="311" column="34" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/DetectionServiceImpl.java" />
+      <jump line="42" column="17" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/DetectionServiceImpl.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2936,49 +2943,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>tobes</text>
+        <text>WORKER</text>
       </register>
       <register name="/" type="4">
-        <text>image</text>
+        <text encoding="base64">XDxDYWxlbmRhclw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBSZXNwb25zZUJvZHkKICAgIEBQb3N0TWFwcGluZygiL2V4cG9ydC90b2JlcmVwYWlyZWQiKQogICAgcHVibGljIFJlc3BvbnNlRW50aXR5PGJ5dGVbXT4gZXhwb3J0VG9CZVJlcGFpcmVkRXhjZWwoQFJlcXVlc3RCb2R5IERldGVjdGlvbiBjb25kaXRpb24pIHsKICAgICAgICBCeXRlQXJyYXlPdXRwdXRTdHJlYW0gYm9zID0gaURldGVjdGlvblNlcnZpY2UuZXhwb3J0VG9CZVJlcGFpcmVkRXhjZWwoY29uZGl0aW9uKTsKICAgICAgICBIdHRwSGVhZGVycyBodHRwSGVhZGVycyA9IG5ldyBIdHRwSGVhZGVycygpOwogICAgICAgIC8v6K6+572u5paH5Lu25LiL6L2955qE5o+P6L+w5L+h5oGvCiAgICAgICAgU3RyaW5nIGRvd25sb2FkRmlsZU5hbWUgPSAidG9iZXMudHh0IjsKICAgICAgICBodHRwSGVhZGVycy5zZXRDb250ZW50RGlzcG9zaXRpb25Gb3JtRGF0YSgiYXR0YWNobWVudCIsIGRvd25sb2FkRmlsZU5hbWUpOwogICAgICAgIC8v6K6+572u5ZON5bqU55qE5YaF5a655piv5rWBLS0tLeS6jOi/m+WItgogICAgICAgIGh0dHBIZWFkZXJzLnNldENvbnRlbnRUeXBlKE1lZGlhVHlwZS5BUFBMSUNBVElPTl9PQ1RFVF9TVFJFQU0pOwogICAgICAgIHJldHVybiBuZXcgUmVzcG9uc2VFbnRpdHk8Pihib3MudG9CeXRlQXJyYXkoKSwgaHR0cEhlYWRlcnMsIEh0dHBTdGF0dXMuT0spOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBzb3J0cy5hZGQobmV3IEltbXV0YWJsZVBhaXI8Pigic2VhbC50YWciLCB0cnVlKSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjZWxsMS5zZXRDb2xzcGFuKDQpOwo=</text>
+        <text encoding="base64">ICAgIGVuY29kaW5nOgogICAgICBmb3JjZTogdHJ1ZQogICAgICBjaGFyc2V0OiBVVEYtOAogICAgICBlbmFibGVkOiB0cnVlCnNlcnZlcjoKICB0b21jYXQ6CiAgICB1cmktZW5jb2Rpbmc6IFVURi04Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjZWxsMS5zZXRIb3Jpem9udGFsQWxpZ25tZW50KEVsZW1lbnQuQUxJR05fQ0VOVEVSKTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoY2VsbHMubGVuZ3RoID49IDI0KSB7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBib29sZWFuIGlzU2VhbFBvaW50ID0gZmFsc2U7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBjZWxsMS5zZXRDb2xzcGFuKDQpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBjZWxsMS5zZXRIb3Jpem9udGFsQWxpZ25tZW50KEVsZW1lbnQuQUxJR05fQ0VOVEVSKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoY2VsbHMubGVuZ3RoID49IDI0KSB7Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBzcHJpbmcuaHR0cC5lbmNvZGluZy5lbmFibGVkPXRydWUK</text>
+        <text encoding="base64">ICAgICAgICBib29sZWFuIGlzU2VhbFBvaW50ID0gZmFsc2U7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
-      <last-search>image</last-search>
+      <last-search encoding="base64">XDxDYWxlbmRhclw+</last-search>
       <last-offset />
-      <last-pattern>image</last-pattern>
+      <last-pattern encoding="base64">XDxDYWxlbmRhclw+</last-pattern>
       <last-replace>HeaderFooterLayout</last-replace>
       <last-substitute>BasicLayout</last-substitute>
       <last-dir>1</last-dir>
@@ -2986,7 +2993,6 @@
     </search>
     <history>
       <history-search>
-        <entry>icon</entry>
         <entry encoding="base64">XDxGSUxFU1w+</entry>
         <entry>getIn</entry>
         <entry encoding="base64">XDxjb21wb25lbnRJZFw+</entry>
@@ -3006,6 +3012,7 @@
         <entry>test</entry>
         <entry>logger</entry>
         <entry>image</entry>
+        <entry encoding="base64">XDxDYWxlbmRhclw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzYuMC4wLzUuMi45L2dj</entry>
