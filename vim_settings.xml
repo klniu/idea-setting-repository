@@ -2131,12 +2131,12 @@
         <mark key="." line="931" column="25" />
         <mark key="^" line="931" column="25" />
       </file>
-      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" timestamp="1540001738463">
-        <mark key="'" line="502" column="34" />
-        <mark key="[" line="502" column="76" />
-        <mark key="]" line="502" column="77" />
-        <mark key="." line="502" column="76" />
-        <mark key="^" line="502" column="37" />
+      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" timestamp="1540004955906">
+        <mark key="'" line="500" column="38" />
+        <mark key="[" line="305" column="0" />
+        <mark key="]" line="305" column="0" />
+        <mark key="." line="305" column="0" />
+        <mark key="^" line="500" column="62" />
       </file>
       <file name="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/RepairServiceImpl.java" timestamp="1539873473290">
         <mark key="'" line="362" column="25" />
@@ -2677,7 +2677,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="306" column="41" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" />
       <jump line="77" column="46" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" />
       <jump line="227" column="41" filename="C:/code/voc/src/test/java/com/cnvoc/voc/service/impl/SealServiceImplTest.java" />
       <jump line="72" column="44" filename="C:/code/voc/src/test/java/com/cnvoc/voc/service/impl/SealServiceImplTest.java" />
@@ -2774,9 +2773,10 @@
       <jump line="586" column="37" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" />
       <jump line="583" column="33" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" />
       <jump line="593" column="54" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" />
-      <jump line="440" column="40" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" />
-      <jump line="502" column="34" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" />
       <jump line="62" column="13" filename="C:/code/voc/src/test/java/com/cnvoc/voc/service/impl/SealServiceImplTest.java" />
+      <jump line="306" column="36" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" />
+      <jump line="440" column="34" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" />
+      <jump line="502" column="38" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2799,8 +2799,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="8">
-        <text encoding="base64">6Iuv5LmZ54Ov57K+6aaPJwroi6/kuZnng68nLCAK6Iuv5LmZ54Ov572Q5Yy6JwrohLHmsKLoo4Xnva4nLArpq5jng63ngoknLCA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAvLyDmoIfms6jlm77niYflubbkv53lrZjmoIfms6jngrkKICAgICAgICBpU2VhbFBvaW50U2VydmljZS5zYXZlU2VhbFBvaW50c0J5Q29tcG9uZW50cyhjb21zKTsK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2907,40 +2907,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>Function.getSealPointsFromSeals(seals)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWxlY3RMaXN0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXJycy5hZGQoIuWBnOeUqOS/oeaBr+acieivryIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpU2VhbFBvaW50U2VydmljZS5zYXZlU2VhbFBvaW50c0J5Q29tcG9uZW50cyhjb21zKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAvLyDmoIfms6jlm77niYflubbkv53lrZjmoIfms6jngrkKICAgICAgICBpU2VhbFBvaW50U2VydmljZS5zYXZlU2VhbFBvaW50c0J5Q29tcG9uZW50cyhjb21zKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYy5nZXQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoKSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYy5nZXQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgIFN0cmluZ0J1aWxkZXIgc2IgPSBuZXcgU3RyaW5nQnVpbGRlcigpOyAK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoKSAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzYi5hcHBlbmQoY29tcG9uZW50LmdldExvY2F0b3IoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgIFN0cmluZ0J1aWxkZXIgc2IgPSBuZXcgU3RyaW5nQnVpbGRlcigpOyAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgIH0gZWxzZQo=</text>
+        <text encoding="base64">ICAgICAgICBzYi5hcHBlbmQoY29tcG9uZW50LmdldExvY2F0b3IoKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgIGlmIChjb21wb25lbnQuZ2V0TG9jYXRvcigpICE9IG51bGwpIHsK</text>
+        <text encoding="base64">ICAgICAgIH0gZWxzZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgIGlmICgpCg==</text>
+        <text encoding="base64">ICAgICAgIGlmIChjb21wb25lbnQuZ2V0TG9jYXRvcigpICE9IG51bGwpIHsK</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
