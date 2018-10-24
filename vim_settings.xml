@@ -569,12 +569,6 @@
         <mark key="." line="119" column="16" />
         <mark key="^" line="119" column="16" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" timestamp="1539766444908">
-        <mark key="[" line="10" column="30" />
-        <mark key="]" line="11" column="20" />
-        <mark key="." line="11" column="20" />
-        <mark key="^" line="11" column="20" />
-      </file>
       <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/ILdarStandardService.java" timestamp="1521030362892">
         <mark key="'" line="21" column="18" />
         <mark key="[" line="21" column="0" />
@@ -2465,6 +2459,12 @@
         <mark key="]" line="2" column="20" />
         <mark key="." line="2" column="20" />
       </file>
+      <file name="C:/code/pyutils/voc/detection_time_changer.py" timestamp="1540373526188">
+        <mark key="[" line="32" column="57" />
+        <mark key="]" line="32" column="63" />
+        <mark key="." line="32" column="63" />
+        <mark key="^" line="32" column="63" />
+      </file>
       <file name="D:/code/web/voc-ui/src/app/routes/ldar/unit/unit.component.html" timestamp="1522226662628">
         <mark key="'" line="82" column="47" />
         <mark key="[" line="86" column="0" />
@@ -2699,6 +2699,12 @@
         <mark key="." line="61" column="35" />
         <mark key="^" line="61" column="36" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" timestamp="1539766444908">
+        <mark key="[" line="10" column="30" />
+        <mark key="]" line="11" column="20" />
+        <mark key="." line="11" column="20" />
+        <mark key="^" line="11" column="20" />
+      </file>
       <file name="$USER_HOME$/code/pyutils/work/SafetySystemLevelsCount.py" timestamp="1536282764152">
         <mark key="'" line="40" column="4" />
         <mark key="[" line="7" column="43" />
@@ -2856,7 +2862,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>8</text>
+        <text>D:/Downloads/result/detections/</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2963,25 +2969,25 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>8</text>
+        <text>D:/Downloads/result/detections/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWxlY3RMaXN0XD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IFJlc3VsdDw+KDEwMDQsICLph43lpI3nmoTmlbDmja7vvIzor7fmo4Dmn6XovpPlhaUiLCBFbXB0eSk7Cg==</text>
+      <register name="0" type="4">
+        <text>D:/sync/projects/大沽化工/2018ldar/data/检测记录-处理3/</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIC8vIEBSZXNwb25zZVN0YXR1cyhIdHRwU3RhdHVzLkJBRF9SRVFVRVNUKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDnrKwy6KGM5Lit5o+Q5L6b6ZSZ6K+v5L+h5oGvCiAgICAgICAgU3RyaW5nIG1zZyA9IGUuZ2V0TWVzc2FnZSgpLnNwbGl0KCJcbiIpWzFdOwogICAgICAgIC8vIOacquaJvuWIsOazhOa8j+WumuS5ieS8muaKm+WHum9yZy5zcHJpbmdmcmFtZXdvcmsuamRiYy5VbmNhdGVnb3JpemVkU1FMRXhjZXB0aW9u5byC5bi4CiAgICAgICAgLy8gZXJyb3IgbXNnIGlzICMjIyBFcnJvciB1cGRhdGluZyBkYXRhYmFzZS4gIENhdXNlOiBqYXZhLnNxbC5TUUxFeGNlcHRpb246IDAxMDEwMDAwMDFMSjA15pyq5om+5Yiw5rOE5ryP5a6a5LmJCiAgICAgICAgaWYgKG1zZy5jb250YWlucygi5pyq5om+5Yiw5rOE5ryP5a6a5LmJIikpIHsKICAgICAgICAgICAgcmV0dXJuIG5ldyBSZXN1bHQ8PigyMDAyLCBtc2cuc3BsaXQoIjoiLCAzKVsyXS50cmltKCkgKwogICAgICAgICAgICAgICAgICAgICLvvIzor7fnoa7kv53nm7jlupTnmoTlr4blsIHngrnkv6Hmga/lt7Lnu4/kuIrkvKDmiJbkvb/nlKjlrozmlbTnmoTms4TmvI/lrprkuYkiLCBFbXB0eSk7CiAgICAgICAgfQogICAgICAgIHJldHVybiBuZXcgUmVzdWx0PD4oMjAwMiwgbXNnLCBFbXB0eSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyDnrD8y6KGM5Lit5o+Q5L6b6ZSZ6K+v5L+h5oGvCiAgICAgICAgU3RyaW5nIG1zZyA9IGUuZ2V0TWVzc2FnZSgpLnNwbGl0KCJcbiIpWzFdOwogICAgICAgIC8vIOacquaJvuWIsOazhOa8j+WumuS5ieS8muaKm+WHum9yZy5zcHJpbmdmcmFtZXdvcmsuamRiYy5VbmNhdGVnb3JpemVkU1FMRXhjZXB0aW9u5byC5bi4CiAgICAgICAgLy8gZXJyb3IgbXNnIGlzICMjIyBFcnJvciB1cGRhdGluZyBkYXRhYmFzZS4gIENhdXNlOiBqYXZhLnNxbC5TUUxFeGNlcHRpb246IDAxMDEwMDAwMDFMSjA15pyq5om+5Yiw5rOE5ryP5a6a5Lk/CiAgICAgICAgaWYgKG1zZy5jb250YWlucygi5pyq5om+5Yiw5rOE5ryP5a6a5Lk/IikpIHsKICAgICAgICAgICAgcmV0dXJuIG5ldyBSZXN1bHQ8PigyMDAyLCBtc2cuc3BsaXQoIjoiLCAzKVsyXS50cmltKCkgKwogICAgICAgICAgICAgICAgICAgICLvvIzor7fnoa7kv53nm7jlupTnmoTlr4blsIHngrnkv6Hmga/lt7Lnu4/kuIrkvKDmiJbkvb/nlKjlrozmlbTnmoTms4TmvI/lrprkuYkiLCBFbXB0eSk7CiAgICAgICAgfQogICAgICAgIHJldHVybiBuZXcgUmVzdWx0PD4oMjAwMiwgbXNnLCBFbXB0eSk7Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBAdG9kbyDpnIDopoHmoLnmja7nsbvlnovph43mlrDop6PmnpDlrZfnrKbkuLLmnaXov5Tlm54K</text>
+        <text encoding="base64">ICAgICAgICAvLyBAdG9kbyDpnD/opoHmoLnmja7nsbvlnovph43mlrDop6PmnpDlrZfnrKbkuLLmnaXov5Tlmz8K</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBzb3J0cy5hZGQobmV3IEltbXV0YWJsZVBhaXI8Pigic2VhbC5ubyIsIHRydWUpKTsKICAgICAgICBzb3J0cy5hZGQobmV3IEltbXV0YWJsZVBhaXI8Pigic2VhbC50YWciLCB0cnVlKSk7Cg==</text>
