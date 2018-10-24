@@ -1419,6 +1419,11 @@
         <mark key="^" line="37" column="12" />
         <mark key="." line="37" column="12" />
       </file>
+      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/common/ZipUtil.java" timestamp="1540349335944">
+        <mark key="'" line="63" column="31" />
+        <mark key="[" line="2" column="7" />
+        <mark key="]" line="2" column="23" />
+      </file>
       <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/LdarRuleServiceImpl.java" timestamp="1521117692020">
         <mark key="'" line="49" column="36" />
         <mark key="[" line="65" column="0" />
@@ -2159,12 +2164,12 @@
         <mark key="^" line="91" column="32" />
         <mark key="." line="90" column="0" />
       </file>
-      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/ComponentServiceImpl.java" timestamp="1539866621533">
-        <mark key="'" line="535" column="40" />
-        <mark key="[" line="294" column="42" />
-        <mark key="]" line="294" column="50" />
-        <mark key="^" line="294" column="50" />
-        <mark key="." line="294" column="50" />
+      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/ComponentServiceImpl.java" timestamp="1540349399184">
+        <mark key="'" line="400" column="14" />
+        <mark key="[" line="400" column="55" />
+        <mark key="]" line="400" column="57" />
+        <mark key="^" line="400" column="57" />
+        <mark key="." line="400" column="57" />
       </file>
       <file name="D:/code/go/src/ldar/emission_test.go" timestamp="1521520684666">
         <mark key="'" line="805" column="0" />
@@ -2728,9 +2733,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="257" column="37" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/InstallServiceImpl.java" />
-      <jump line="51" column="0" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/InstallServiceImpl.java" />
-      <jump line="80" column="13" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/SealPointServiceImpl.java" />
       <jump line="82" column="68" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/SealPointServiceImpl.java" />
       <jump line="88" column="42" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/SealPointServiceImpl.java" />
       <jump line="89" column="56" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/SealPointServiceImpl.java" />
@@ -2828,6 +2830,9 @@
       <jump line="362" column="25" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/RepairServiceImpl.java" />
       <jump line="26" column="60" filename="C:/code/vocs/pom.xml" />
       <jump line="776" column="20" filename="C:/code/pyutils/voc/dagu/init.sql" />
+      <jump line="400" column="14" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/ComponentServiceImpl.java" />
+      <jump line="36" column="17" filename="C:/code/voc/src/main/java/com/cnvoc/voc/common/ZipUtil.java" />
+      <jump line="63" column="31" filename="C:/code/voc/src/main/java/com/cnvoc/voc/common/ZipUtil.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2850,8 +2855,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIEBSZXNwb25zZVN0YXR1cyhIdHRwU3RhdHVzLkJBRF9SRVFVRVNUKQo=</text>
+      <register name="&quot;" type="4">
+        <text>8</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2958,7 +2963,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>new Exception(e);</text>
+        <text>8</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWxlY3RMaXN0XD4=</text>
