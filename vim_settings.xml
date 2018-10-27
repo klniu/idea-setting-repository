@@ -432,6 +432,13 @@
         <mark key="^" line="44" column="19" />
         <mark key="." line="44" column="19" />
       </file>
+      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/config/JacksonConfig.java" timestamp="1540630372884">
+        <mark key="'" line="25" column="61" />
+        <mark key="[" line="55" column="27" />
+        <mark key="]" line="54" column="37" />
+        <mark key="." line="54" column="37" />
+        <mark key="^" line="54" column="37" />
+      </file>
       <file name="C:/code/voc_ice/src/store/reducer.js" timestamp="1538805783375">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
@@ -1180,9 +1187,6 @@
         <mark key="]" line="117" column="2" />
         <mark key="." line="101" column="0" />
         <mark key="^" line="16" column="11" />
-      </file>
-      <file name="C:/code/vocs/src/main/resources/config/logback-spring.xml" timestamp="1540022483822">
-        <mark key="'" line="58" column="9" />
       </file>
       <file name="C:/code/voc/src/main/java/com/cnvoc/voc/common/GlobalExceptionHandler.java" timestamp="1540348103314">
         <mark key="[" line="74" column="0" />
@@ -2666,6 +2670,12 @@
         <mark key="." line="56" column="28" />
         <mark key="^" line="56" column="28" />
       </file>
+      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/common/PairDeserializer.java" timestamp="1540629827083">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="6" />
+        <mark key="." line="15" column="6" />
+        <mark key="^" line="15" column="6" />
+      </file>
       <file name="C:/code/voc_ice/src/components/PhotoView/PhotoView.js" timestamp="1538572919980">
         <mark key="'" line="47" column="30" />
         <mark key="[" line="31" column="3" />
@@ -2755,7 +2765,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="227" column="41" filename="C:/code/voc/src/test/java/com/cnvoc/voc/service/impl/SealServiceImplTest.java" />
       <jump line="72" column="44" filename="C:/code/voc/src/test/java/com/cnvoc/voc/service/impl/SealServiceImplTest.java" />
       <jump line="568" column="41" filename="C:/code/voc/src/main/resources/sql/schema.sql" />
       <jump line="19" column="7" filename="C:/code/voc/src/main/resources/application-prod.yaml" />
@@ -2855,6 +2864,7 @@
       <jump line="408" column="33" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/ComponentServiceImpl.java" />
       <jump line="400" column="53" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/ComponentServiceImpl.java" />
       <jump line="30" column="46" filename="C:/code/voc/src/main/java/com/cnvoc/voc/shiro/JWTUtil.java" />
+      <jump line="18" column="61" filename="C:/code/voc/src/main/java/com/cnvoc/voc/config/JacksonConfig.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2878,7 +2888,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>*</text>
+        <text>,</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2985,40 +2995,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXJzZUZvbGRlcnNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZihycUhkICE9IG51bGwpewogICAgICAgICAgICBTdHJpbmcgcnFIZWFkZXIgPSBVUkxFbmNvZGVyLmVuY29kZShycUhkLCBTdGFuZGFyZENoYXJzZXRzLlVURl84LmRpc3BsYXlOYW1lKCkpOwogICAgICAgICAgICBodHRwU2VydmxldFJlc3BvbnNlLmFkZEhlYWRlcigiQWNjZXNzLUNvbnRyb2wtQWxsb3ctT3JpZ2luIiwgcnFIZWFkZXIpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBzaW1wbGVNb2R1bGUuYWRkU2VyaWFsaXplcihQYWlyLmNsYXNzLCBuZXcgUGFpclNlcmlhbGl6ZXIoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">amFyIHsKICAgIG1hbmlmZXN0IHsKICAgICAgICBhdHRyaWJ1dGVzICdNYWluLUNsYXNzJzogJ2NvbS5jbnZvYy52b2MuVm9jQXBwbGljYXRpb24nCiAgICB9Cn0K</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuY29tbW9ucy5sYW5nMy50dXBsZS5QYWlyOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnZWNsaXBzZScK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5jbnZvYy52b2MuY29tbW9uLlBhaXJEZXNlcmlhbGl6ZXI7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnZmluZGJ1Z3MnCg==</text>
+        <text encoding="base64">ICAgICAgICBzaW1wbGVNb2R1bGUuYWRkU2VyaWFsaXplcihQYWlyLmNsYXNzLCBQYWlyRGVzZXJpYWxpemVyLmluc3RhbmNlKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBodHRwU2VydmxldFJlc3BvbnNlLnNldEhlYWRlcigiIiwgcnFIZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYWlyLmsgPSBrZXk7CiAgICAgICAgcGFpci52ID0gdmFsdWU7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBodHRwU2VydmxldFJlc3BvbnNlLnNldEhlYWRlcigiQWNjZXNzLWNvbnRyb2wtQWxsb3ctT3JpZ2luIiwgcnFIZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgcnFIZCA9IHJlcXVlc3QuZ2V0SGVhZGVyKCJBY2Nlc3MtQ29udHJvbC1SZXF1ZXN0LUhlYWRlcnMiKTsgCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIFBhaXJEZXNlcmlhbGl6ZXIgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICog5qOA5rWL5pWw5o2u5pe26Ze06YeN5o6SKOa1i+ivleS9v+eUqO+8jOS4jeimgeiwg+eUqO+8iQogICAgICovCiAgICB2b2lkIGV4cG9ydEZha2VUVkFUSW1lRGF0YShMaXN0PExvbmc+IGluc3RhbGxJZHMsIERhdGUgYmVnaW5EYXRlLCBEYXRlIGVuZERhdGUsIEludGVnZXIgZGV2aWNlTnVtKTsK</text>
+        <text encoding="base64">amFyIHsKICAgIG1hbmlmZXN0IHsKICAgICAgICBhdHRyaWJ1dGVzICdNYWluLUNsYXNzJzogJ2NvbS5jbnZvYy52b2MuVm9jQXBwbGljYXRpb24nCiAgICB9Cn0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnZWNsaXBzZScK</text>
       </register>
       <register name=":" type="4">
         <text>action PreviousTab</text>
