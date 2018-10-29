@@ -2073,9 +2073,9 @@
         <mark key="^" line="112" column="15" />
         <mark key="." line="112" column="46" />
       </file>
-      <file name="C:/code/voc/src/main/resources/mapper/StatisticMapper.xml" timestamp="1540809443287">
-        <mark key="[" line="29" column="51" />
-        <mark key="]" line="29" column="51" />
+      <file name="C:/code/voc/src/main/resources/mapper/StatisticMapper.xml" timestamp="1540815457169">
+        <mark key="[" line="15" column="21" />
+        <mark key="]" line="15" column="52" />
         <mark key="." line="29" column="51" />
       </file>
       <file name="C:/code/voc/src/main/resources/sql/schema.sql" timestamp="1539613242979">
@@ -2922,8 +2922,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEdhcygxPDwxMCwgIuawlOS9kyIpLAogICAgTGlnaHRMaXF1aWQoMTw8MTEsICLovbvotKjmtrIiKSwKICAgIEhlYXZ5TGlxdWlkKDE8PDEyLCAi6YeN6LSo5rayIik7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>foreach item=&quot;access&quot; collection</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
