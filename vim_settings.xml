@@ -358,12 +358,12 @@
         <mark key="." line="103" column="43" />
         <mark key="^" line="103" column="43" />
       </file>
-      <file name="C:/code/voc_ice/src/pages/SealStatistic/FilterForm/FilterForm.jsx" timestamp="1540725653185">
-        <mark key="'" line="21" column="26" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="109" column="3" />
-        <mark key="." line="9" column="0" />
+      <file name="C:/code/voc_ice/src/pages/SealStatistic/FilterForm/FilterForm.jsx" timestamp="1540810182432">
+        <mark key="'" line="20" column="26" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="38" column="39" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/IComponentService.java" timestamp="1529895913273">
         <mark key="'" line="233" column="28" />
@@ -1206,7 +1206,6 @@
         <mark key="^" line="29" column="60" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="C:/code/ice/react-materials/blocks/FilterTable/src/FilterTable.jsx" timestamp="1540724900898" />
       <file name="C:/code/vocs/src/main/resources/config/logback-spring.xml" timestamp="1540022483822">
         <mark key="'" line="58" column="9" />
       </file>
@@ -1504,12 +1503,12 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="19" column="0" />
       </file>
-      <file name="C:/code/voc_ice/src/pages/SealStatistic/SealStatistic.js" timestamp="1540725675537">
-        <mark key="'" line="167" column="41" />
-        <mark key="[" line="170" column="28" />
-        <mark key="]" line="169" column="0" />
-        <mark key="." line="169" column="0" />
-        <mark key="^" line="169" column="0" />
+      <file name="C:/code/voc_ice/src/pages/SealStatistic/SealStatistic.js" timestamp="1540810492832">
+        <mark key="'" line="168" column="41" />
+        <mark key="[" line="65" column="6" />
+        <mark key="]" line="65" column="8" />
+        <mark key="." line="65" column="8" />
+        <mark key="^" line="65" column="8" />
       </file>
       <file name="$USER_HOME$/code/pyutils/safetysystem/config/22.yaml" timestamp="1536822404525">
         <mark key="'" line="8" column="0" />
@@ -2407,6 +2406,12 @@
         <mark key="^" line="456" column="27" />
         <mark key="." line="456" column="27" />
       </file>
+      <file name="C:/code/voc_ice/src/api/statistic.js" timestamp="1540810478994">
+        <mark key="[" line="8" column="1" />
+        <mark key="]" line="8" column="1" />
+        <mark key="." line="8" column="1" />
+        <mark key="^" line="8" column="1" />
+      </file>
       <file name="D:/code/web/voc-ui/src/app/routes/ldar/tools/tools.component.html" timestamp="1520840744615">
         <mark key="'" line="22" column="35" />
         <mark key="[" line="22" column="0" />
@@ -2812,7 +2817,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="669" column="28" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" />
       <jump line="62" column="23" filename="C:/code/voc/src/main/java/com/cnvoc/voc/web/SealController.java" />
       <jump line="54" column="38" filename="C:/code/voc/src/test/java/com/cnvoc/voc/web/SealControllerTest.java" />
       <jump line="118" column="30" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" />
@@ -2912,6 +2916,7 @@
       <jump line="66" column="19" filename="C:/code/voc_ice/src/pages/SealStatistic/SealStatistic.js" />
       <jump line="24" column="26" filename="C:/code/voc_ice/src/pages/SealStatistic/FilterForm/FilterForm.jsx" />
       <jump line="167" column="41" filename="C:/code/voc_ice/src/pages/SealStatistic/SealStatistic.js" />
+      <jump line="10" column="14" filename="C:/code/voc_ice/src/api/statistic.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2934,8 +2939,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGJhc2VSZWR1Y2VyIGZyb20gJy4uLy4uLy4uL3N0b3JlL2Jhc2UvcmVkdWNlcic7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>installs</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -3042,7 +3047,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQg</text>
+        <text>installs</text>
       </register>
       <register name="/" type="4">
         <text>break</text>
@@ -3051,34 +3056,34 @@
         <text encoding="base64">Y29uc3QgbWFwRGlzcGF0Y2hUb1Byb3BzID0gewogIHNldERhdGFTb3VyY2UsCiAgc2V0TG9hZGluZywKfTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGJhc2VSZWR1Y2VyIGZyb20gJy4uLy4uLy4uL3N0b3JlL2Jhc2UvcmVkdWNlcic7Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIGRlbGV0ZUNvbXBvbmVudHMocGFyYW0pIHsKICByZXR1cm4gYXhpb3MoewogICAgdXJsOiAnL2FwaS9jb21wb25lbnQvZGVsZXRlJywKICAgIG1ldGhvZDogJ3Bvc3QnLAogICAgZGF0YTogcGFyYW0sCiAgfSk7Cn0KCmV4cG9ydCBmdW5jdGlvbiBkZWxldGVTZWFscyhwYXJhbSkgewogIHJldHVybiBheGlvcyh7CiAgICB1cmw6ICcvYXBpL3NlYWwvZGVsZXRlJywKICAgIG1ldGhvZDogJ3Bvc3QnLAogICAgZGF0YTogcGFyYW0sCiAgfSk7Cn0KCmV4cG9ydCBmdW5jdGlvbiBnZXRTZWFsc0J5Q29tcG9uZW50SWQoaWQpIHsKICByZXR1cm4gYXhpb3MoewogICAgdXJsOiBgL2FwaS9zZWFsL2NvbXBvbmVudC8ke2lkfWAsCiAgICBtZXRob2Q6ICdnZXQnLAogIH0pOwp9CgpleHBvcnQgZnVuY3Rpb24gZ2V0SW1hZ2UoY29tcG9uZW50KSB7CiAgcmV0dXJuIGF4aW9zKHsKICAgIHVybDogJy9hcGkvY29tcG9uZW50L2ltYWdlJywKICAgIG1ldGhvZDogJ3Bvc3QnLAogICAgZGF0YTogY29tcG9uZW50LAogIH0pOwp9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGluamVjdFJlZHVjZXIgZnJvbSAnLi4vLi4vLi4vdXRpbHMvaW5qZWN0UmVkdWNlcic7Cg==</text>
+        <text encoding="base64">Y29uc3QgeyBPcHRpb24gfSA9IFNlbGVjdDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgY29tcG9zZSB9IGZyb20gJ3JlZHV4JzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPENvbCB4eHM9ezI0fSB4cz17MTJ9IGw9ezh9IHN0eWxlPXtzdHlsZXMuZmlsdGVyQ29sfT4KICAgICAgICAgICAgICA8bGFiZWwgc3R5bGU9e3N0eWxlcy5maWx0ZXJUaXRsZX0+yse38c2j08M8L2xhYmVsPgogICAgICAgICAgICAgIDxJY2VGb3JtQmluZGVyPgogICAgICAgICAgICAgICAgPFNlbGVjdAogICAgICAgICAgICAgICAgICBuYW1lPSJzdG9wcGluZyIKICAgICAgICAgICAgICAgICAgcGxhY2Vob2xkZXI9Isfr0aHU8SIKICAgICAgICAgICAgICAgICAgc3R5bGU9e3N0eWxlcy5maWx0ZXJUb29sfQogICAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgICA8T3B0aW9uIHZhbHVlPSJhbGwiPrK7z948L09wdGlvbj4KICAgICAgICAgICAgICAgICAgPE9wdGlvbiB2YWx1ZT0idHJ1ZSI+ysc8L09wdGlvbj4KICAgICAgICAgICAgICAgICAgPE9wdGlvbiB2YWx1ZT0iZmFsc2UiPrfxPC9PcHRpb24+CiAgICAgICAgICAgICAgICA8L1NlbGVjdD4KICAgICAgICAgICAgICA8L0ljZUZvcm1CaW5kZXI+CiAgICAgICAgICAgIDwvQ29sPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">KShGaWx0ZXJGb3JtKTsK</text>
+        <text encoding="base64">aW1wb3J0IGJhc2VSZWR1Y2VyIGZyb20gJy4uLy4uLy4uL3N0b3JlL2Jhc2UvcmVkdWNlcic7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29tcG9zZSgKICB3aXRoQ29ubmVjdCwKKShGaWx0ZXJGb3JtKTsK</text>
+        <text encoding="base64">aW1wb3J0IGluamVjdFJlZHVjZXIgZnJvbSAnLi4vLi4vLi4vdXRpbHMvaW5qZWN0UmVkdWNlcic7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB3aXRoQmFzZVJlZHVjZXIsCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgY29tcG9zZSB9IGZyb20gJ3JlZHV4JzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KShGaWx0ZXJGb3JtKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3Qgd2l0aEJhc2VSZWR1Y2VyID0gaW5qZWN0UmVkdWNlcih7IGtleTogJ2Jhc2UnLCByZWR1Y2VyOiBiYXNlUmVkdWNlciB9KTsK</text>
+        <text encoding="base64">Y29tcG9zZSgKICB3aXRoQ29ubmVjdCwKKShGaWx0ZXJGb3JtKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZ2V0RmFjdG9yeUlkIH0gZnJvbSAnLi4vLi4vLi4vLi4vdXRpbHMvaGVscGVycyc7Cg==</text>
+        <text encoding="base64">ICB3aXRoQmFzZVJlZHVjZXIsCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text>action PreviousTab</text>
       </register>
     </registers>
     <search>
@@ -3088,7 +3093,7 @@
       <last-replace>HeaderFooterLayout</last-replace>
       <last-substitute>BasicLayout</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -3131,9 +3136,9 @@
         <entry>q</entry>
         <entry>action Forward</entry>
         <entry encoding="base64">JzwsJz5J</entry>
-        <entry>action PreviousTab</entry>
         <entry>action NextTab</entry>
         <entry>action ReformatCode</entry>
+        <entry>action PreviousTab</entry>
       </history-cmd>
       <history-expr />
       <history-input />
