@@ -1183,6 +1183,9 @@
         <mark key="." line="101" column="0" />
         <mark key="^" line="16" column="11" />
       </file>
+      <file name="C:/code/vocs/src/main/resources/config/logback-spring.xml" timestamp="1540022483822">
+        <mark key="'" line="58" column="9" />
+      </file>
       <file name="C:/code/voc/src/main/java/com/cnvoc/voc/common/GlobalExceptionHandler.java" timestamp="1540348103314">
         <mark key="[" line="74" column="0" />
         <mark key="]" line="74" column="0" />
@@ -1614,6 +1617,12 @@
         <mark key="^" line="78" column="41" />
         <mark key="." line="69" column="0" />
       </file>
+      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/web/StatisticsController.java" timestamp="1540861828269">
+        <mark key="[" line="54" column="45" />
+        <mark key="]" line="54" column="61" />
+        <mark key="^" line="53" column="45" />
+        <mark key="." line="54" column="45" />
+      </file>
       <file name="$USER_HOME$/code/voc_ice/src/pages/ComponentPage/index.js" timestamp="1537168819603">
         <mark key="[" line="1" column="24" />
         <mark key="]" line="1" column="27" />
@@ -2032,6 +2041,13 @@
         <mark key="]" line="112" column="15" />
         <mark key="^" line="112" column="15" />
         <mark key="." line="112" column="46" />
+      </file>
+      <file name="C:/code/voc/src/main/resources/mapper/StatisticMapper.xml" timestamp="1540862179587">
+        <mark key="'" line="4" column="18" />
+        <mark key="[" line="10" column="8" />
+        <mark key="]" line="10" column="13" />
+        <mark key="^" line="10" column="7" />
+        <mark key="." line="10" column="8" />
       </file>
       <file name="C:/code/voc/src/main/resources/sql/schema.sql" timestamp="1539613242979">
         <mark key="'" line="553" column="12" />
@@ -2540,6 +2556,9 @@
         <mark key="." line="72" column="20" />
         <mark key="^" line="72" column="20" />
       </file>
+      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/mapper/StatisticMapper.java" timestamp="1540862183098">
+        <mark key="'" line="33" column="71" />
+      </file>
       <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/web/DetectionController.java" timestamp="1524020343314">
         <mark key="'" line="82" column="47" />
         <mark key="[" line="86" column="43" />
@@ -2754,11 +2773,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="44" filename="C:/code/voc/src/test/java/com/cnvoc/voc/service/impl/SealServiceImplTest.java" />
-      <jump line="568" column="41" filename="C:/code/voc/src/main/resources/sql/schema.sql" />
-      <jump line="19" column="7" filename="C:/code/voc/src/main/resources/application-prod.yaml" />
-      <jump line="17" column="0" filename="C:/code/voc/src/main/java/com/cnvoc/voc/common/Project.java" />
-      <jump line="142" column="19" filename="C:/code/voc/src/test/java/com/cnvoc/voc/service/impl/ComponentServiceImplTest.java" />
       <jump line="443" column="15" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/ComponentServiceImpl.java" />
       <jump line="444" column="43" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/ComponentServiceImpl.java" />
       <jump line="109" column="28" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/ComponentServiceImpl.java" />
@@ -2854,6 +2868,11 @@
       <jump line="408" column="33" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/ComponentServiceImpl.java" />
       <jump line="400" column="53" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/ComponentServiceImpl.java" />
       <jump line="108" column="58" filename="C:/code/pyutils/voc/dagu/daguserver.py" />
+      <jump line="6" column="59" filename="C:/code/voc/src/main/resources/mapper/StatisticMapper.xml" />
+      <jump line="4" column="18" filename="C:/code/voc/src/main/resources/mapper/StatisticMapper.xml" />
+      <jump line="0" column="0" filename="C:/code/voc/src/main/java/com/cnvoc/voc/mapper/StatisticMapper.java" />
+      <jump line="24" column="14" filename="C:/code/voc/src/main/java/com/cnvoc/voc/mapper/StatisticMapper.java" />
+      <jump line="33" column="71" filename="C:/code/voc/src/main/java/com/cnvoc/voc/mapper/StatisticMapper.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2876,8 +2895,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5jbnZvYy52b2MuZW50aXR5LmFzc2lzdHMuUXVlcnk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PC9pZj4=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2984,13 +3003,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>检测记录-处理3</text>
+        <text encoding="base64">PC9pZj4=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwYXJzZUZvbGRlcnNcPg==</text>
+        <text encoding="base64">XDxpbnN0YWxsSWRzXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZihycUhkICE9IG51bGwpewogICAgICAgICAgICBTdHJpbmcgcnFIZWFkZXIgPSBVUkxFbmNvZGVyLmVuY29kZShycUhkLCBTdGFuZGFyZENoYXJzZXRzLlVURl84LmRpc3BsYXlOYW1lKCkpOwogICAgICAgICAgICBodHRwU2VydmxldFJlc3BvbnNlLmFkZEhlYWRlcigiQWNjZXNzLUNvbnRyb2wtQWxsb3ctT3JpZ2luIiwgcnFIZWFkZXIpOwogICAgICAgIH0K</text>
+      <register name="0" type="4">
+        <text>(required=false)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5jbnZvYy52b2MuZW50aXR5LmFzc2lzdHMuUXVlcnk7Cg==</text>
@@ -3020,21 +3039,20 @@
         <text encoding="base64">ICAgICAgICBodHRwU2VydmxldFJlc3BvbnNlLnNldEhlYWRlcigiQWNjZXNzLWNvbnRyb2wtQWxsb3ctT3JpZ2luIiwgcnFIZCk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action PreviousTab</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwYXJzZUZvbGRlcnNcPg==</last-search>
+      <last-search encoding="base64">XDxpbnN0YWxsSWRzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwYXJzZUZvbGRlcnNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxpbnN0YWxsSWRzXD4=</last-pattern>
       <last-replace>HeaderFooterLayout</last-replace>
       <last-substitute>BasicLayout</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxEXD4=</entry>
         <entry encoding="base64">XDxlZGl0aW5nUGljRXh0XD4=</entry>
         <entry encoding="base64">XDxjb21wb25lbnRNYXBwZXJcPg==</entry>
         <entry>copy</entry>
@@ -3054,6 +3072,7 @@
         <entry>unzip</entry>
         <entry encoding="base64">XDx1bnppcFVwbG9hZGVkWmlwXD4=</entry>
         <entry encoding="base64">XDxwYXJzZUZvbGRlcnNcPg==</entry>
+        <entry encoding="base64">XDxpbnN0YWxsSWRzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzYuMC4wLzUuMi45L2dj</entry>
