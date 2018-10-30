@@ -1500,12 +1500,12 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="19" column="0" />
       </file>
-      <file name="C:/code/voc_ice/src/pages/SealStatistic/SealStatistic.js" timestamp="1540880039152">
-        <mark key="'" line="79" column="21" />
-        <mark key="[" line="43" column="20" />
-        <mark key="]" line="52" column="31" />
-        <mark key="^" line="52" column="31" />
-        <mark key="." line="52" column="31" />
+      <file name="C:/code/voc_ice/src/pages/SealStatistic/SealStatistic.js" timestamp="1540882387689">
+        <mark key="'" line="87" column="21" />
+        <mark key="[" line="166" column="35" />
+        <mark key="]" line="166" column="35" />
+        <mark key="." line="166" column="35" />
+        <mark key="^" line="166" column="35" />
       </file>
       <file name="$USER_HOME$/code/pyutils/safetysystem/config/22.yaml" timestamp="1536822404525">
         <mark key="'" line="8" column="0" />
@@ -2933,7 +2933,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>typeName</text>
+        <text>数量</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -3040,40 +3040,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>typeName</text>
+        <text>数量</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGRzID0gbmV3IERhdGFTZXQoKTsKICAgIGNvbnN0IGR2ID0gZHMuY3JlYXRlVmlldygpLnNvdXJjZShkYXRhKTsKICAgIGR2LnRyYW5zZm9ybSh7CiAgICAgIHR5cGU6ICdmb2xkJywKICAgICAgZmllbGRzOiBbJ0phbi4nLCAnRmViLicsICdNYXIuJywgJ0Fwci4nLCAnTWF5JywgJ0p1bi4nLCAnSnVsLicsICdBdWcuJ10sIC8vINW5v6rX1rbOvK8KICAgICAga2V5OiAn1MK33ScsIC8vIGtledfWts4KICAgICAgdmFsdWU6ICfUwr75vbXT6sG/JywgLy8gdmFsdWXX1rbOCiAgICB9KTsK</text>
+      <register name="0" type="4">
+        <text>true: '停用', false: '非停用' };</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRoaXMuZHMuY3JlYXRlVmlldygnc2VydmljZVNlYWwnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8QXhpcyBuYW1lPSLD3LfiteMiIC8+Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXMuZHMgPSBuZXcgRGF0YVNldCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRoaXMuZHMgPSBuZXcgRGF0YVNldCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHlwZSA9ICJjIjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGR2ID0gdGhpcy5kcy5nZXRWaWV3KCdzZXJ2aWNlU2VhbCcpOwogICAgZHYuc291cmNlKGRhdGEpOwogICAgZHYudHJhbnNmb3JtKHsKICAgICAgdHlwZTogJ2ZvbGQnLAogICAgICBmaWVsZHM6IFNlYWxUeXBlcy5tYXAocyA9PiB0aGlzLmdldEVudW1DaGluZXNlKHMpKSwKICAgICAga2V5OiAnw9y34rXjJywKICAgICAgdmFsdWU6ICfK/cG/JywKICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIH0gZWxzZSBpZiAoa2V5ID09PSAiMjUgdG8gNDQgWWVhcnMiKSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRoaXMuZHMuY3JlYXRlVmlldygnc2VydmljZVNlYWwnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAga2V5ID09PSAgfHwKICAgICAgICAgICAga2V5ID09PSAiNSB0byAxMyBZZWFycyIgfHwKICAgICAgICAgICAga2V5ID09PSAiMTQgdG8gMTcgWWVhcnMiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMuZmlsdGVyRm9ybSwgcHJldlByb3BzLmZpbHRlckZvcm0pOwogICAgaWYgKCFpc0VxdWFsKHRoaXMucHJvcHMuZmlsdGVyRm9ybSwgcHJldlByb3BzLmZpbHRlckZvcm0pKSB7CiAgICAgIHRoaXMuZ2V0RGF0YSgpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgIHRoaXMuc2VydmljZUNoaW5lc2UgPSBTZXJ2aWNlcwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBmaWx0ZXJGb3JtOiB7fSwK</text>
+        <text encoding="base64">ICAgICAgZGF0YS5wdXNoKGFjY2Vzc0RhdGEpOwogICAgICBkYXRhLnB1c2goc3RvcHBpbmdEYXRhKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBzZXJ2aWNlTmFtZSA9IGNuKHMpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action NextTab</text>
