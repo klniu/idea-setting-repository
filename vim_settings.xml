@@ -326,7 +326,6 @@
         <mark key="." line="52" column="13" />
         <mark key="^" line="52" column="13" />
       </file>
-      <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/model_test.go" timestamp="1540517591232" />
       <file name="$USER_HOME$/code/voc_ice/src/menuConfig.js" timestamp="1537180163680">
         <mark key="'" line="95" column="0" />
         <mark key="[" line="17" column="12" />
@@ -702,6 +701,13 @@
         <mark key="]" line="15" column="6" />
         <mark key="." line="15" column="6" />
         <mark key="^" line="15" column="6" />
+      </file>
+      <file name="C:/code/voc_ice/src/layouts/HeaderFooterLayout/HeaderFooterLayout.jsx" timestamp="1540884684427">
+        <mark key="'" line="42" column="9" />
+        <mark key="[" line="19" column="8" />
+        <mark key="]" line="19" column="8" />
+        <mark key="^" line="19" column="12" />
+        <mark key="." line="19" column="8" />
       </file>
       <file name="C:/code/voc_ice/src/pages/Home/components/CustomTable/CustomTable.jsx" timestamp="1540721503823">
         <mark key="'" line="0" column="0" />
@@ -1500,12 +1506,12 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="19" column="0" />
       </file>
-      <file name="C:/code/voc_ice/src/pages/SealStatistic/SealStatistic.js" timestamp="1540882387689">
-        <mark key="'" line="87" column="21" />
-        <mark key="[" line="166" column="35" />
-        <mark key="]" line="166" column="35" />
-        <mark key="." line="166" column="35" />
-        <mark key="^" line="166" column="35" />
+      <file name="C:/code/voc_ice/src/pages/SealStatistic/SealStatistic.js" timestamp="1540884651794">
+        <mark key="'" line="2" column="42" />
+        <mark key="[" line="72" column="35" />
+        <mark key="]" line="72" column="35" />
+        <mark key="." line="72" column="35" />
+        <mark key="^" line="72" column="35" />
       </file>
       <file name="$USER_HOME$/code/pyutils/safetysystem/config/22.yaml" timestamp="1536822404525">
         <mark key="'" line="8" column="0" />
@@ -2810,9 +2816,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="99" column="43" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/DetectionServiceImpl.java" />
-      <jump line="54" column="14" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/IDetectionService.java" />
-      <jump line="0" column="0" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/RepairServiceImpl.java" />
       <jump line="79" column="28" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/RepairServiceImpl.java" />
       <jump line="252" column="34" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/RepairServiceImpl.java" />
       <jump line="16" column="28" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/RepairServiceImpl.java" />
@@ -2908,8 +2911,11 @@
       <jump line="54" column="4" filename="C:/code/voc_ice/src/pages/SealStatistic/SealStatistic.js" />
       <jump line="29" column="0" filename="C:/code/voc_ice/src/pages/SealStatistic/SealStatistic.js" />
       <jump line="53" column="4" filename="C:/code/voc_ice/src/pages/SealStatistic/SealStatistic.js" />
-      <jump line="2" column="35" filename="C:/code/voc_ice/src/pages/SealStatistic/SealStatistic.js" />
       <jump line="79" column="21" filename="C:/code/voc_ice/src/pages/SealStatistic/SealStatistic.js" />
+      <jump line="160" column="0" filename="C:/code/voc_ice/src/pages/SealStatistic/SealStatistic.js" />
+      <jump line="2" column="42" filename="C:/code/voc_ice/src/pages/SealStatistic/SealStatistic.js" />
+      <jump line="19" column="29" filename="C:/code/voc_ice/src/layouts/HeaderFooterLayout/HeaderFooterLayout.jsx" />
+      <jump line="42" column="9" filename="C:/code/voc_ice/src/layouts/HeaderFooterLayout/HeaderFooterLayout.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2933,7 +2939,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>数量</text>
+        <text>w</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -3040,40 +3046,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>数量</text>
+        <text>w</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
       </register>
       <register name="0" type="4">
-        <text>true: '停用', false: '非停用' };</text>
+        <text>this.props.setting[`${lowerFirst(s)}Name`]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8QXhpcyBuYW1lPSLD3LfiteMiIC8+Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMuc2V0dGluZyxgJHtsb3dlckZpcnN0KHMpfU5hbWVgKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuc3RhdGUuZGF0YSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNvdXJjZSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHlwZSA9ICJjIjsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRhdGEpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0gZWxzZSBpZiAoa2V5ID09PSAiMjUgdG8gNDQgWWVhcnMiKSB7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAga2V5ID09PSAgfHwKICAgICAgICAgICAga2V5ID09PSAiNSB0byAxMyBZZWFycyIgfHwKICAgICAgICAgICAga2V5ID09PSAiMTQgdG8gMTcgWWVhcnMiCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coY24odCkgLHQpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2VydmljZUNoaW5lc2UgPSBTZXJ2aWNlcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZGF0YS5wdXNoKGFjY2Vzc0RhdGEpOwogICAgICBkYXRhLnB1c2goc3RvcHBpbmdEYXRhKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8QXhpcyBuYW1lPSLD3LfiteMiIC8+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBzZXJ2aWNlTmFtZSA9IGNuKHMpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action NextTab</text>
