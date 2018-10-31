@@ -326,6 +326,7 @@
         <mark key="." line="52" column="13" />
         <mark key="^" line="52" column="13" />
       </file>
+      <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/model_test.go" timestamp="1540948018719" />
       <file name="$USER_HOME$/code/voc_ice/src/menuConfig.js" timestamp="1537180163680">
         <mark key="'" line="95" column="0" />
         <mark key="[" line="17" column="12" />
@@ -578,6 +579,12 @@
         <mark key="]" line="119" column="16" />
         <mark key="." line="119" column="16" />
         <mark key="^" line="119" column="16" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" timestamp="1539766444908">
+        <mark key="[" line="10" column="30" />
+        <mark key="]" line="11" column="20" />
+        <mark key="." line="11" column="20" />
+        <mark key="^" line="11" column="20" />
       </file>
       <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/ILdarStandardService.java" timestamp="1521030362892">
         <mark key="'" line="21" column="18" />
@@ -1356,12 +1363,6 @@
         <mark key="^" line="37" column="33" />
         <mark key="." line="37" column="33" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" timestamp="1539766444908">
-        <mark key="[" line="10" column="30" />
-        <mark key="]" line="11" column="20" />
-        <mark key="." line="11" column="20" />
-        <mark key="^" line="11" column="20" />
-      </file>
       <file name="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/LdarTurnServiceImplTest.java" timestamp="1521017228614">
         <mark key="'" line="49" column="0" />
         <mark key="[" line="109" column="22" />
@@ -2086,8 +2087,14 @@
         <mark key="^" line="112" column="15" />
         <mark key="." line="112" column="46" />
       </file>
-      <file name="C:/code/voc/src/main/resources/sql/schema.sql" timestamp="1539613242979">
-        <mark key="'" line="553" column="12" />
+      <file name="C:/code/voc/src/main/resources/mapper/StatisticMapper.xml" timestamp="1540949870298">
+        <mark key="[" line="29" column="46" />
+        <mark key="]" line="29" column="47" />
+        <mark key="." line="29" column="47" />
+        <mark key="^" line="29" column="47" />
+      </file>
+      <file name="C:/code/voc/src/main/resources/sql/schema.sql" timestamp="1540949862071">
+        <mark key="'" line="325" column="36" />
         <mark key="[" line="589" column="42" />
         <mark key="]" line="589" column="42" />
         <mark key="^" line="589" column="42" />
@@ -2815,7 +2822,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="52" filename="C:/code/voc/src/test/java/com/cnvoc/voc/service/impl/BaseTest.java" />
       <jump line="302" column="54" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/RepairServiceImpl.java" />
       <jump line="305" column="19" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/RepairServiceImpl.java" />
       <jump line="251" column="0" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/ComponentServiceImpl.java" />
@@ -2915,6 +2921,7 @@
       <jump line="33" column="23" filename="C:/code/voc_ice/src/pages/SealStatistic/SealStatistic.js" />
       <jump line="66" column="0" filename="C:/code/voc_ice/src/pages/SealStatistic/SealStatistic.js" />
       <jump line="79" column="0" filename="C:/code/voc_ice/src/pages/SealStatistic/SealStatistic.js" />
+      <jump line="325" column="36" filename="C:/code/voc/src/main/resources/sql/schema.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2937,8 +2944,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlc3VsdCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>g</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -3045,10 +3052,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>g</text>
       </register>
       <register name="/" type="4">
-        <text>console</text>
+        <text>stop</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRpc3BsYXk6ICdmbGV4JywKICAgIGFsaWduSXRlbXM6ICdjZW50ZXInLAogICAgbWFyZ2luQm90dG9tOiAnMjBweCcsCg==</text>
@@ -3075,7 +3082,7 @@
         <text encoding="base64">ICAgICAgICAgICAgc3R5bGU9e3sKICAgICAgICAgICAgICB0ZXh0QWxpZ246ICdsZWZ0JywKICAgICAgICAgICAgICBtYXJnaW5MZWZ0OiAnMTJweCcsCiAgICAgICAgICAgIH19Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPEJ1dHRvbiBvbkNsaWNrPXt0aGlzLnByb3BzLm9uUmVzZXR9IHR5cGU9Im5vcm1hbCI+CiAgICAgICAgICAgICAg1tjWwwogICAgICAgICAgICA8L0J1dHRvbj4KICAgICAgICAgICAgPEJ1dHRvbgogICAgICAgICAgICAgIG9uQ2xpY2s9e3RoaXMucHJvcHMub25TdWJtaXR9CiAgICAgICAgICAgICAgdHlwZT0icHJpbWFyeSIKICAgICAgICAgICAgICBzdHlsZT17eyBtYXJnaW5MZWZ0OiAnMTBweCcgfX0KICAgICAgICAgICAgPgogICAgICAgICAgICAgIMi3tqgKICAgICAgICAgICAgPC9CdXR0b24+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPEJ1dHRvbiBvbkNsaWNrPXt0aGlzLnByb3BzLm9uUmVzZXR9IHR5cGU9Im5vcm1hbCI+CiAgICAgICAgICAgICAg77+977+977+977+9CiAgICAgICAgICAgIDwvQnV0dG9uPgogICAgICAgICAgICA8QnV0dG9uCiAgICAgICAgICAgICAgb25DbGljaz17dGhpcy5wcm9wcy5vblN1Ym1pdH0KICAgICAgICAgICAgICB0eXBlPSJwcmltYXJ5IgogICAgICAgICAgICAgIHN0eWxlPXt7IG1hcmdpbkxlZnQ6ICcxMHB4JyB9fQogICAgICAgICAgICA+CiAgICAgICAgICAgICAgyLfvv73vv70KICAgICAgICAgICAgPC9CdXR0b24+Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgIDxJY2VDb250YWluZXIgc3R5bGU9e3N0eWxlcy5jb250YWluZXJ9PgogICAgICAgICAgICB7dGhpcy5nZXRJbmZvUm93KHRoaXMuc3RhdGUudmFsdWVzLnNsaWNlKDAsIDEwKSwgMSl9CiAgICAgICAgICAgIHt0aGlzLmdldEluZm9Sb3codGhpcy5zdGF0ZS52YWx1ZXMuc2xpY2UoMTAsIDEzKSwgMil9CiAgICAgICAgICAgIHt0aGlzLmdldEluZm9Sb3codGhpcy5zdGF0ZS52YWx1ZXMuc2xpY2UoMTMsIDE2KSwgMyl9CiAgICAgICAgICAgIHt0aGlzLmdldEluZm9Sb3codGhpcy5zdGF0ZS52YWx1ZXMuc2xpY2UoMTYpLCA0KX0KICAgICAgICAgIDwvSWNlQ29udGFpbmVyPgo=</text>
@@ -3085,9 +3092,9 @@
       </register>
     </registers>
     <search>
-      <last-search>console</last-search>
+      <last-search>stop</last-search>
       <last-offset />
-      <last-pattern>console</last-pattern>
+      <last-pattern>stop</last-pattern>
       <last-replace>HeaderFooterLayout</last-replace>
       <last-substitute>BasicLayout</last-substitute>
       <last-dir>1</last-dir>
@@ -3095,7 +3102,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZWxlY3RUb0JlUmVwYWlyZWRQYWdlXD4=</entry>
         <entry encoding="base64">XDxwYWludExlYWtpbmdJbWFnZVw+</entry>
         <entry encoding="base64">XDxDb21wb25lbnRJbWFnZVw+</entry>
         <entry encoding="base64">XDxsYXlvdXRDb21wb25lbnRJbWFnZXNcPg==</entry>
@@ -3115,6 +3121,7 @@
         <entry encoding="base64">XDxzZWFsRGF0YVw+</entry>
         <entry>sealtypes</entry>
         <entry>console</entry>
+        <entry>stop</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzYuMC4wLzUuMi45L2dj</entry>
