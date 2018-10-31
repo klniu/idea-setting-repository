@@ -360,12 +360,12 @@
         <mark key="." line="103" column="43" />
         <mark key="^" line="103" column="43" />
       </file>
-      <file name="C:/code/voc_ice/src/pages/SealStatistic/FilterForm/FilterForm.jsx" timestamp="1540950097597">
-        <mark key="'" line="21" column="26" />
-        <mark key="[" line="41" column="37" />
-        <mark key="]" line="41" column="38" />
-        <mark key="^" line="60" column="15" />
-        <mark key="." line="41" column="38" />
+      <file name="C:/code/voc_ice/src/pages/SealStatistic/FilterForm/FilterForm.jsx" timestamp="1540951433832">
+        <mark key="'" line="22" column="26" />
+        <mark key="[" line="18" column="48" />
+        <mark key="]" line="18" column="48" />
+        <mark key="^" line="18" column="48" />
+        <mark key="." line="18" column="48" />
       </file>
       <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/IComponentService.java" timestamp="1529895913273">
         <mark key="'" line="233" column="28" />
@@ -1861,6 +1861,9 @@
         <mark key="^" line="29" column="58" />
         <mark key="." line="26" column="38" />
       </file>
+      <file name="C:/code/voc_ice/package-lock.json" timestamp="1540951710753">
+        <mark key="'" line="360" column="10" />
+      </file>
       <file name="$USER_HOME$/code/voc_ice/src/store/reducer.js" timestamp="1537250028557">
         <mark key="'" line="13" column="1" />
         <mark key="[" line="3" column="9" />
@@ -2816,7 +2819,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="52" filename="C:/code/voc/src/test/java/com/cnvoc/voc/service/impl/BaseTest.java" />
       <jump line="302" column="54" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/RepairServiceImpl.java" />
       <jump line="305" column="19" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/RepairServiceImpl.java" />
       <jump line="251" column="0" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/ComponentServiceImpl.java" />
@@ -2916,6 +2918,7 @@
       <jump line="33" column="23" filename="C:/code/voc_ice/src/pages/SealStatistic/SealStatistic.js" />
       <jump line="66" column="0" filename="C:/code/voc_ice/src/pages/SealStatistic/SealStatistic.js" />
       <jump line="79" column="0" filename="C:/code/voc_ice/src/pages/SealStatistic/SealStatistic.js" />
+      <jump line="360" column="10" filename="C:/code/voc_ice/package-lock.json" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2938,8 +2941,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>installsSearched</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -3046,10 +3049,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>installsSearched</text>
       </register>
       <register name="/" type="4">
-        <text>console</text>
+        <text>ice</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRpc3BsYXk6ICdmbGV4JywKICAgIGFsaWduSXRlbXM6ICdjZW50ZXInLAogICAgbWFyZ2luQm90dG9tOiAnMjBweCcsCg==</text>
@@ -3086,17 +3089,16 @@
       </register>
     </registers>
     <search>
-      <last-search>console</last-search>
+      <last-search>ice</last-search>
       <last-offset />
-      <last-pattern>console</last-pattern>
+      <last-pattern>ice</last-pattern>
       <last-replace>HeaderFooterLayout</last-replace>
       <last-substitute>BasicLayout</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZWxlY3RUb0JlUmVwYWlyZWRQYWdlXD4=</entry>
         <entry encoding="base64">XDxwYWludExlYWtpbmdJbWFnZVw+</entry>
         <entry encoding="base64">XDxDb21wb25lbnRJbWFnZVw+</entry>
         <entry encoding="base64">XDxsYXlvdXRDb21wb25lbnRJbWFnZXNcPg==</entry>
@@ -3116,6 +3118,7 @@
         <entry encoding="base64">XDxzZWFsRGF0YVw+</entry>
         <entry>sealtypes</entry>
         <entry>console</entry>
+        <entry>ice</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzYuMC4wLzUuMi45L2dj</entry>
