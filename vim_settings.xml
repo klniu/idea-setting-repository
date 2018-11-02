@@ -568,11 +568,11 @@
         <mark key="." line="119" column="16" />
         <mark key="^" line="119" column="16" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" timestamp="1541138786504">
+      <file name="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" timestamp="1541138820856">
         <mark key="[" line="0" column="4" />
-        <mark key="]" line="0" column="6" />
-        <mark key="." line="0" column="6" />
-        <mark key="^" line="0" column="6" />
+        <mark key="]" line="0" column="7" />
+        <mark key="." line="0" column="7" />
+        <mark key="^" line="0" column="7" />
       </file>
       <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/ILdarStandardService.java" timestamp="1521030362892">
         <mark key="'" line="21" column="18" />
@@ -1083,7 +1083,7 @@
         <mark key="^" line="1" column="10" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/service/IEmissionService.java" timestamp="1541121986349">
+      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/service/IEmissionService.java" timestamp="1541139940241">
         <mark key="'" line="34" column="38" />
       </file>
       <file name="D:/code/java/voc/src/test/java/com/cnvoc/voc/web/SealControllerTest.java" timestamp="1521017004987">
@@ -1674,7 +1674,7 @@
         <mark key="^" line="2" column="24" />
         <mark key="." line="2" column="24" />
       </file>
-      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/web/StatisticsController.java" timestamp="1541121895049">
+      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/web/StatisticsController.java" timestamp="1541139938265">
         <mark key="'" line="51" column="47" />
         <mark key="[" line="66" column="46" />
         <mark key="]" line="66" column="59" />
@@ -2945,9 +2945,9 @@
       <jump line="74" column="54" filename="C:/code/voc/src/main/resources/mapper/StatisticMapper.xml" />
       <jump line="82" column="40" filename="C:/code/voc/src/main/resources/mapper/StatisticMapper.xml" />
       <jump line="84" column="30" filename="C:/code/voc/src/main/resources/mapper/StatisticMapper.xml" />
+      <jump line="61" column="10" filename="C:/code/voc/build.gradle" />
       <jump line="51" column="47" filename="C:/code/voc/src/main/java/com/cnvoc/voc/web/StatisticsController.java" />
       <jump line="34" column="38" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/IEmissionService.java" />
-      <jump line="61" column="10" filename="C:/code/voc/build.gradle" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2971,7 +2971,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text>6</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -3078,7 +3078,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>6</text>
       </register>
       <register name="/" type="4">
         <text>mysql</text>
@@ -3125,7 +3125,7 @@
       <last-replace>right</last-replace>
       <last-substitute>getRight()</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
