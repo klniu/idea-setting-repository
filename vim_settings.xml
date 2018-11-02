@@ -568,11 +568,11 @@
         <mark key="." line="119" column="16" />
         <mark key="^" line="119" column="16" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" timestamp="1539766444908">
-        <mark key="[" line="10" column="30" />
-        <mark key="]" line="11" column="20" />
-        <mark key="." line="11" column="20" />
-        <mark key="^" line="11" column="20" />
+      <file name="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" timestamp="1541138786504">
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="0" column="6" />
+        <mark key="." line="0" column="6" />
+        <mark key="^" line="0" column="6" />
       </file>
       <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/ILdarStandardService.java" timestamp="1521030362892">
         <mark key="'" line="21" column="18" />
@@ -2970,9 +2970,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="8">
-        <text>炼制装置1
-化工装置2</text>
+      <register name="&quot;" type="4">
+        <text>2</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -3079,7 +3078,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>mysql</text>
@@ -3116,7 +3115,7 @@
         <text encoding="base64">aW1wb3J0IGxvbWJvay5EYXRhOwppbXBvcnQgbG9tYm9rLmV4cGVyaW1lbnRhbC5BY2Nlc3NvcnM7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action NextTab</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -3158,7 +3157,6 @@
         <entry>%s/content\[i++\]/{content[i++]}/gc</entry>
         <entry>%s/BasicLayout/MainLayout/gc</entry>
         <entry>%s/BasicLayout/HeaderFooterLayout/gc</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUHJldmlvdXNUYWI=</entry>
         <entry>action Back</entry>
         <entry>q</entry>
@@ -3172,6 +3170,7 @@
         <entry>%s/getLeft()/left/gc</entry>
         <entry>%s/getRight()/right/gc</entry>
         <entry>action NextTab</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
