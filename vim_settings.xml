@@ -249,6 +249,12 @@
         <mark key="]" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/webstorm64.exe.vmoptions" timestamp="1541153055429">
+        <mark key="[" line="3" column="4" />
+        <mark key="]" line="3" column="7" />
+        <mark key="." line="3" column="7" />
+        <mark key="^" line="3" column="7" />
+      </file>
       <file name="D:/code/web/voc-ui/src/app/app.component.css" timestamp="1517990394175">
         <mark key="'" line="28" column="0" />
         <mark key="[" line="0" column="0" />
@@ -357,13 +363,6 @@
         <mark key="]" line="103" column="43" />
         <mark key="." line="103" column="43" />
         <mark key="^" line="103" column="43" />
-      </file>
-      <file name="C:/code/voc_ice/src/pages/SealStatistic/FilterForm/FilterForm.jsx" timestamp="1540810182432">
-        <mark key="'" line="20" column="26" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="38" column="39" />
-        <mark key="." line="13" column="0" />
       </file>
       <file name="C:/code/voc_ice/src/data/contants.js" timestamp="1540813559962">
         <mark key="'" line="0" column="0" />
@@ -722,7 +721,7 @@
         <mark key="^" line="6" column="14" />
         <mark key="." line="6" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1540732601684">
+      <file name="/Dummy.txt" timestamp="1540817451352">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -1511,11 +1510,8 @@
         <mark key="^" line="19" column="0" />
       </file>
       <file name="C:/code/voc_ice/src/pages/SealStatistic/SealStatistic.js" timestamp="1540814207090">
-        <mark key="'" line="181" column="41" />
         <mark key="[" line="2" column="44" />
         <mark key="]" line="2" column="52" />
-        <mark key="." line="30" column="7" />
-        <mark key="^" line="30" column="7" />
       </file>
       <file name="$USER_HOME$/code/pyutils/safetysystem/config/22.yaml" timestamp="1536822404525">
         <mark key="'" line="8" column="0" />
@@ -2413,12 +2409,6 @@
         <mark key="^" line="456" column="27" />
         <mark key="." line="456" column="27" />
       </file>
-      <file name="C:/code/voc_ice/src/api/statistic.js" timestamp="1540810478994">
-        <mark key="[" line="8" column="1" />
-        <mark key="]" line="8" column="1" />
-        <mark key="." line="8" column="1" />
-        <mark key="^" line="8" column="1" />
-      </file>
       <file name="D:/code/web/voc-ui/src/app/routes/ldar/tools/tools.component.html" timestamp="1520840744615">
         <mark key="'" line="22" column="35" />
         <mark key="[" line="22" column="0" />
@@ -2947,7 +2937,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>bizcharts</text>
+        <text>0</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -3054,7 +3044,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>HeavyLiquid</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>break</text>
@@ -3090,7 +3080,7 @@
         <text encoding="base64">ICBjb21wb25lbnRXaWxsVXAK</text>
       </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -3137,7 +3127,6 @@
         <entry>%s/content\[i++\]/{content[i++]}/gc</entry>
         <entry>%s/BasicLayout/MainLayout/gc</entry>
         <entry>%s/BasicLayout/HeaderFooterLayout/gc</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUHJldmlvdXNUYWI=</entry>
         <entry>action Back</entry>
         <entry>q</entry>
@@ -3146,6 +3135,7 @@
         <entry>action NextTab</entry>
         <entry>action PreviousTab</entry>
         <entry>action ReformatCode</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
