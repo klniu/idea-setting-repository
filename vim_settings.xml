@@ -2143,10 +2143,10 @@
         <mark key="^" line="49" column="17" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="C:/code/voc_ice/src/pages/EmissionStatistic/EmissionStatistic.js" timestamp="1541208400655">
-        <mark key="'" line="125" column="0" />
-        <mark key="[" line="193" column="20" />
-        <mark key="]" line="193" column="24" />
+      <file name="C:/code/voc_ice/src/pages/EmissionStatistic/EmissionStatistic.js" timestamp="1541215704510">
+        <mark key="'" line="222" column="39" />
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="109" column="5" />
         <mark key="." line="193" column="24" />
         <mark key="^" line="193" column="24" />
       </file>
@@ -2839,12 +2839,12 @@
         <mark key="." line="61" column="35" />
         <mark key="^" line="61" column="36" />
       </file>
-      <file name="C:/code/voc_ice/src/pages/DigestStatistic/DigestStatistic.js" timestamp="1541214576341">
-        <mark key="'" line="167" column="0" />
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="96" column="0" />
-        <mark key="^" line="95" column="60" />
-        <mark key="." line="96" column="0" />
+      <file name="C:/code/voc_ice/src/pages/DigestStatistic/DigestStatistic.js" timestamp="1541215851488">
+        <mark key="'" line="56" column="3" />
+        <mark key="[" line="59" column="83" />
+        <mark key="]" line="115" column="54" />
+        <mark key="^" line="115" column="54" />
+        <mark key="." line="115" column="54" />
       </file>
       <file name="$USER_HOME$/code/pyutils/work/SafetySystemLevelsCount.py" timestamp="1536282764152">
         <mark key="'" line="40" column="4" />
@@ -2886,9 +2886,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="101" column="17" filename="C:/code/voc_ice/src/pages/SealStatistic/SealStatistic.js" />
-      <jump line="170" column="26" filename="C:/code/voc_ice/src/pages/SealStatistic/SealStatistic.js" />
-      <jump line="222" column="35" filename="C:/code/voc_ice/src/pages/SealStatistic/SealStatistic.js" />
       <jump line="237" column="76" filename="C:/code/voc_ice/src/pages/SealStatistic/SealStatistic.js" />
       <jump line="243" column="2" filename="C:/code/voc_ice/src/pages/SealStatistic/SealStatistic.js" />
       <jump line="11" column="7" filename="C:/code/voc_ice/src/pages/SealStatistic/SealStatistic.js" />
@@ -2986,6 +2983,9 @@
       <jump line="24" column="29" filename="C:/code/voc_ice/src/pages/DigestStatistic/DigestStatistic.js" />
       <jump line="338" column="0" filename="C:/code/voc_ice/src/pages/DigestStatistic/DigestStatistic.js" />
       <jump line="23" column="0" filename="C:/code/voc_ice/src/api/statistic.js" />
+      <jump line="45" column="0" filename="C:/code/voc_ice/src/pages/DigestStatistic/DigestStatistic.js" />
+      <jump line="222" column="39" filename="C:/code/voc_ice/src/pages/EmissionStatistic/EmissionStatistic.js" />
+      <jump line="56" column="3" filename="C:/code/voc_ice/src/pages/DigestStatistic/DigestStatistic.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3008,8 +3008,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFRhYmxlLkNvbHVtbgogICAgICAgICAgICAgIHRpdGxlPXsKICAgICAgICAgICAgICAgIDxCYWxsb29uLlRvb2x0aXAKICAgICAgICAgICAgICAgICAgdHJpZ2dlcj17PHNwYW4+1+7W1cXFt8XBvyhrZykgPEljb24gdHlwZT0iaGVscCIgc2l6ZT0ic21hbGwiIC8+PC9zcGFuPn0KICAgICAgICAgICAgICAgICAgYWxpZ249ImIiCiAgICAgICAgICAgICAgICAgIHRleHQ9ItDeuLS688XFt8XBvyuyu7/JtO/D3LfitePFxbfFwb8rv8m07860vOyy4sXFt8XBvyIKICAgICAgICAgICAgICAgIC8+CiAgICAgICAgICAgICAgfQogICAgICAgICAgICAgIGRhdGFJbmRleD0iZmluYWxFbWlzc2lvbiIKICAgICAgICAgICAgICB3aWR0aD17ODB9CiAgICAgICAgICAgICAgYWxpZ249ImNlbnRlciIKICAgICAgICAgICAgICBjZWxsPXt0aGlzLmZsb2F0Um91bmR9CiAgICAgICAgICAgIC8+Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Y2VsbD17dGhpcy5jYWxjUmF0aW99IA==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -3116,43 +3116,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>udCount</text>
+        <text encoding="base64">Y2VsbD17dGhpcy5jYWxjUmF0aW99IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyb3VuZFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICB7CiAgICBwYXRoOiAnL3N0YXRpc3RpY3Mvc2VhbCcsCiAgICBsYXlvdXQ6IEhlYWRlckZvb3RlckxheW91dCwKICAgIGNvbXBvbmVudDogU2VhbFN0YXRpc3RpYywKICB9LAo=</text>
+        <text encoding="base64">ICAgIC8vIMno1sPD3LfitePB0LXEv+fQ0AogICAgbGV0IHNwYW4gPSAxOwogICAgZm9yIChsZXQgaSA9IGRhdGEubGVuZ3RoIC0gMTsgaSA+PSAwOyBpIC09IDEpIHsKICAgICAgaWYgKGkgLSAxID49IDAgJiYgZGF0YVtpIC0gMV0uc2VhbCA9PT0gZGF0YVtpXS5zZWFsKSB7CiAgICAgICAgc3BhbiArPSAxOwogICAgICB9IGVsc2UgewogICAgICAgIGlmIChzcGFuID4gMSkgewogICAgICAgICAgZGF0YVtpXS5zcGFuID0gc3BhbjsKICAgICAgICB9CiAgICAgICAgc3BhbiA9IDE7CiAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFRhYmxlLkNvbHVtbgogICAgICAgICAgICAgIHRpdGxlPXsKICAgICAgICAgICAgICAgIDxCYWxsb29uLlRvb2x0aXAKICAgICAgICAgICAgICAgICAgdHJpZ2dlcj17PHNwYW4+1+7W1cXFt8XBvyhrZykgPEljb24gdHlwZT0iaGVscCIgc2l6ZT0ic21hbGwiIC8+PC9zcGFuPn0KICAgICAgICAgICAgICAgICAgYWxpZ249ImIiCiAgICAgICAgICAgICAgICAgIHRleHQ9ItDeuLS688XFt8XBvyuyu7/JtO/D3LfitePFxbfFwb8rv8m07860vOyy4sXFt8XBvyIKICAgICAgICAgICAgICAgIC8+CiAgICAgICAgICAgICAgfQogICAgICAgICAgICAgIGRhdGFJbmRleD0iZmluYWxFbWlzc2lvbiIKICAgICAgICAgICAgICB3aWR0aD17ODB9CiAgICAgICAgICAgICAgYWxpZ249ImNlbnRlciIKICAgICAgICAgICAgICBjZWxsPXt0aGlzLmZsb2F0Um91bmR9CiAgICAgICAgICAgIC8+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFRhYmxlLkNvbHVtbiB0aXRsZT0iIiBkYXRhSW5kZXg9InVkRW1pc3Npb24iIHdpZHRoPXsxMDB9IGNlbGw9e3RoaXMuZmxvYXRSb3VuZH0gYWxpZ249ImNlbnRlciIgLz4KICAgICAgICAgICAgPFRhYmxlLkNvbHVtbiB0aXRsZT0iw9y34rXj19y8xii49ikiIGRhdGFJbmRleD0iYWxsQ291bnQiIHdpZHRoPXsxMDB9IGFsaWduPSJjZW50ZXIiIC8+Cg==</text>
+        <text encoding="base64">ICB9Owo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB9Owo=</text>
+        <text encoding="base64">ICBzZXRTcGFuID0gKGRhdGEpID0+IHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB7fTsK</text>
+        <text encoding="base64">ICAvLyDJ6NbDus+yogo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICBzZXRGaWx0ZXJGb3JtLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIHRoaXMucHJvcHMuc2V0RmlsdGVyRm9ybShwYXJhbSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4geyBjb2xTcGFuOiAyIH07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPFRhYmxlLkNvbHVtbgogICAgICAgICAgICAgIHRpdGxlPXsKICAgICAgICAgICAgICAgIDxCYWxsb29uLlRvb2x0aXAKICAgICAgICAgICAgICAgICAgdHJpZ2dlcj17PHNwYW4+1+7W1cXFt8XBvyhrZykgPEljb24gdHlwZT0iaGVscCIgc2l6ZT0ic21hbGwiIC8+PC9zcGFuPn0KICAgICAgICAgICAgICAgICAgYWxpZ249ImIiCiAgICAgICAgICAgICAgICAgIHRleHQ9ItDeuLS688XFt8XBvyuyu7/JtO/D3LfitePFxbfFwb8rv8m07860vOyy4sXFt8XBvyIKICAgICAgICAgICAgICAgIC8+CiAgICAgICAgICAgICAgfQogICAgICAgICAgICAgIGRhdGFJbmRleD0iZmluYWxFbWlzc2lvbiIKICAgICAgICAgICAgICB3aWR0aD17ODB9CiAgICAgICAgICAgICAgYWxpZ249ImNlbnRlciIKICAgICAgICAgICAgICBjZWxsPXt0aGlzLmZsb2F0Um91bmR9CiAgICAgICAgICAgIC8+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyC6z7zG0NAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPFRhYmxlLkNvbHVtbiB0aXRsZT0iIiBkYXRhSW5kZXg9InVkRW1pc3Npb24iIHdpZHRoPXsxMDB9IGNlbGw9e3RoaXMuZmxvYXRSb3VuZH0gYWxpZ249ImNlbnRlciIgLz4KICAgICAgICAgICAgPFRhYmxlLkNvbHVtbiB0aXRsZT0iw9y34rXj19y8xii49ikiIGRhdGFJbmRleD0iYWxsQ291bnQiIHdpZHRoPXsxMDB9IGFsaWduPSJjZW50ZXIiIC8+Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action NextTab</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
@@ -3205,9 +3205,9 @@
         <entry>%s/getLeft()/left/gc</entry>
         <entry>%s/getRight()/right/gc</entry>
         <entry>w</entry>
-        <entry>action ReformatCode</entry>
-        <entry>action PreviousTab</entry>
         <entry>action NextTab</entry>
+        <entry>action PreviousTab</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
