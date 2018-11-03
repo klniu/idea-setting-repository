@@ -1189,12 +1189,12 @@
         <mark key="." line="127" column="14" />
         <mark key="^" line="118" column="31" />
       </file>
-      <file name="C:/code/voc/src/test/java/com/cnvoc/voc/service/impl/StaticticServiceImplTest.java" timestamp="1541212819951">
+      <file name="C:/code/voc/src/test/java/com/cnvoc/voc/service/impl/StaticticServiceImplTest.java" timestamp="1541213985751">
         <mark key="'" line="58" column="59" />
-        <mark key="[" line="110" column="21" />
-        <mark key="]" line="110" column="22" />
-        <mark key="^" line="123" column="21" />
-        <mark key="." line="110" column="22" />
+        <mark key="[" line="119" column="0" />
+        <mark key="]" line="119" column="61" />
+        <mark key="^" line="111" column="56" />
+        <mark key="." line="119" column="0" />
       </file>
       <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/entity/enums/ScreenFactor.java" timestamp="1521527961490">
         <mark key="'" line="8" column="4" />
@@ -1634,11 +1634,11 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/service/IStaticticService.java" timestamp="1541213203302">
-        <mark key="[" line="47" column="28" />
-        <mark key="]" line="47" column="30" />
-        <mark key="^" line="47" column="30" />
-        <mark key="." line="47" column="30" />
+      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/service/IStaticticService.java" timestamp="1541213970223">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="^" line="42" column="30" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/impl/ComponentServiceImpl.java" timestamp="1530864453076">
         <mark key="'" line="193" column="28" />
@@ -2120,11 +2120,12 @@
         <mark key="^" line="112" column="15" />
         <mark key="." line="112" column="46" />
       </file>
-      <file name="C:/code/voc/src/main/resources/mapper/StatisticMapper.xml" timestamp="1541212425125">
+      <file name="C:/code/voc/src/main/resources/mapper/StatisticMapper.xml" timestamp="1541214141539">
         <mark key="'" line="123" column="0" />
-        <mark key="[" line="152" column="0" />
-        <mark key="]" line="152" column="8" />
-        <mark key="." line="152" column="8" />
+        <mark key="[" line="153" column="17" />
+        <mark key="]" line="153" column="33" />
+        <mark key="." line="153" column="33" />
+        <mark key="^" line="153" column="33" />
       </file>
       <file name="C:/code/voc/src/main/java/com/cnvoc/voc/common/Pair.java" timestamp="1541052341921">
         <mark key="'" line="49" column="17" />
@@ -2633,12 +2634,12 @@
         <mark key="." line="72" column="20" />
         <mark key="^" line="72" column="20" />
       </file>
-      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/mapper/StatisticMapper.java" timestamp="1541212597969">
+      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/mapper/StatisticMapper.java" timestamp="1541213961871">
         <mark key="'" line="63" column="6" />
-        <mark key="[" line="68" column="26" />
-        <mark key="]" line="68" column="26" />
-        <mark key="^" line="68" column="26" />
-        <mark key="." line="68" column="26" />
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="67" column="7" />
+        <mark key="^" line="64" column="25" />
+        <mark key="." line="64" column="25" />
       </file>
       <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/web/DetectionController.java" timestamp="1524020343314">
         <mark key="'" line="82" column="47" />
@@ -2976,8 +2977,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>select</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoMSwgKGxvbmcpIHJlc3VsdHMuZ2V0KDApLmdldCgidW5pdElkIikpOwo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -3084,40 +3085,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>select</text>
+        <text>installId</text>
       </register>
       <register name="/" type="4">
         <text>mysql</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBHZXRNYXBwaW5nKCIvZW1pc3Npb24iKQogICAgcHVibGljIFJlc3VsdCBnZXRFbWlzc2lvbihAUmVxdWVzdFBhcmFtKCJpbnN0YWxsSWRzIikgTG9uZ1tdIGluc3RhbGxJZHMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBSZXF1ZXN0UGFyYW0oImJlZ2luIikgRGF0ZSBiZWdpbiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQFJlcXVlc3RQYXJhbSgiZW5kIikgRGF0ZSBlbmQpIHsKICAgICAgICByZXR1cm4gbmV3IFJlc3VsdDw+KGlFbWlzc2lvblNlcnZpY2UuZW1pc3Npb25zKGluc3RhbGxJZHMsIGJlZ2luLCBlbmQpKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoMSwgKGxvbmcpIHJlc3VsdHMuZ2V0KDApLmdldCgidW5pdElkIikpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Mgk1CTAJMAkwCTAKMwk1CTUJMAkwCTAKNAk1CTAJMAkwCTAKNQkwCTAJMAkwCTAKNgkyCTIJMAkwCTAK</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICog6I635Y+W5bel5Y6C55qE5pGY6KaB5L+h5oGv77yM5YyF5ous77yM6KOF572uaWQsIOe7hOS7tuaVsOOAgeWvhuWwgeeCueaVsOOAgeajgOa1i+aVsOOAgeazhOa8j+aVsOOAgeS/ruWkjeaVsOOAggogICAgICoKICAgICAqIEByZXR1cm4g5pWw6YeP6ZuG5ZCICiAgICAgKi8K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">MQkxMgk1CTE3CTExCTQK</text>
+        <text encoding="base64">Mgk1CTAJMAkwCTAKMwk1CTUJMAkwCTAKNAk1CTAJMAkwCTAKNQkwCTAJMAkwCTAKNgkyCTIJMAkwCTAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbnN0YWxsSWQJY29tcG9uZW50cwlzZWFscwlkZXRlY3Rpb25zCWxlYWtpbmdzCXJlcGFpcmVkCg==</text>
+        <text encoding="base64">MQkxMgk1CTE3CTExCTQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnN0YWxsSWQJY29tcG9uZW50cwlzZWFscwlkZXRlY3Rpb25zCWxlYWtpbmdzCXJlcGFpcmVkCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBpbnN0YWxsSWRzIOijhee9rmlk6ZuG5ZCICiAgICAgKiBAcGFyYW0gYmVnaW4gICAgICDlvIDlp4vml6XmnJ8KICAgICAqIEBwYXJhbSBlbmQgICAgICAgIOe7k+adn+aXpeacnwogICAgICogQHBhcmFtIHJhbmdlcyAgICAg5pWw5o2u6IyD5Zu077yM5LiA57uE5pWw5o2u5bCG5Y+Y5Li657G75Z6Ldj4yMDAsIDIwMDw9djw9NTAwLCB2Pj01MDDnsbvkvLznmoTmlbDmja4KICAgICAqIEBwYXJhbSBzZWFsVHlwZXMgIOimgeafpeivoueahOWvhuWwgeeCueexu+Wei+mbhuWQiAogICAgICogQHBhcmFtIHNlcnZpY2VzICAg6KaB5p+l6K+i55qE5LuL6LSo54q25oCB6ZuG5ZCICg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBQYXJhbSgic2VydmljZXMiKSBTZXJ2aWNlW10gc2VydmljZXMK</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBpbnN0YWxsSWRzIOijhee9rmlk6ZuG5ZCICiAgICAgKiBAcGFyYW0gYmVnaW4gICAgICDlvIDlp4vml6XmnJ8KICAgICAqIEBwYXJhbSBlbmQgICAgICAgIOe7k+adn+aXpeacnwogICAgICogQHBhcmFtIHJhbmdlcyAgICAg5pWw5o2u6IyD5Zu077yM5LiA57uE5pWw5o2u5bCG5Y+Y5Li657G75Z6Ldj4yMDAsIDIwMDw9djw9NTAwLCB2Pj01MDDnsbvkvLznmoTmlbDmja4KICAgICAqIEBwYXJhbSBzZWFsVHlwZXMgIOimgeafpeivoueahOWvhuWwgeeCueexu+Wei+mbhuWQiAogICAgICogQHBhcmFtIHNlcnZpY2VzICAg6KaB5p+l6K+i55qE5LuL6LSo54q25oCB6ZuG5ZCICg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBQYXJhbSgic2VhbFR5cGVzIikgU2VhbFR5cGVbXSBzZWFsVHlwZXMsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBQYXJhbSgic2VydmljZXMiKSBTZXJ2aWNlW10gc2VydmljZXMK</text>
       </register>
       <register name=":" type="4">
         <text>action PreviousTab</text>
