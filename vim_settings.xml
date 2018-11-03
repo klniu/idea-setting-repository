@@ -946,8 +946,8 @@
         <mark key="^" line="8" column="36" />
         <mark key="." line="8" column="36" />
       </file>
-      <file name="C:/code/voc_ice/src/pages/Detection/components/DetectionTable/DetectionTable.jsx" timestamp="1541154186278">
-        <mark key="'" line="330" column="8" />
+      <file name="C:/code/voc_ice/src/pages/Detection/components/DetectionTable/DetectionTable.jsx" timestamp="1541247402532">
+        <mark key="'" line="117" column="25" />
       </file>
       <file name="$USER_HOME$/code/lkc_website/src/routes.js" timestamp="1528871958577">
         <mark key="'" line="42" column="31" />
@@ -2361,6 +2361,12 @@
         <mark key="." line="157" column="10" />
         <mark key="^" line="157" column="10" />
       </file>
+      <file name="C:/code/voc_ice/src/pages/TobeRepaired/components/TobeRepairedTable/TobeRepairedTable.jsx" timestamp="1541247419438">
+        <mark key="[" line="80" column="73" />
+        <mark key="]" line="80" column="75" />
+        <mark key="." line="80" column="75" />
+        <mark key="^" line="80" column="75" />
+      </file>
       <file name="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/EmissionServiceImplTest.java" timestamp="1523759102669">
         <mark key="'" line="201" column="0" />
         <mark key="[" line="39" column="11" />
@@ -2869,7 +2875,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="9" filename="C:/code/voc_ice/src/pages/SealStatistic/SealStatistic.js" />
       <jump line="83" column="25" filename="C:/code/voc_ice/src/pages/SealStatistic/SealStatistic.js" />
       <jump line="101" column="17" filename="C:/code/voc_ice/src/pages/SealStatistic/SealStatistic.js" />
       <jump line="170" column="26" filename="C:/code/voc_ice/src/pages/SealStatistic/SealStatistic.js" />
@@ -2969,6 +2974,7 @@
       <jump line="199" column="33" filename="C:/code/voc_ice/src/pages/EmissionStatistic/EmissionStatistic.js" />
       <jump line="186" column="0" filename="C:/code/voc_ice/src/pages/DetectionRangeStatistic/DetectionRangeStatistic.js" />
       <jump line="229" column="35" filename="C:/code/voc_ice/src/pages/SealStatistic/SealStatistic.js" />
+      <jump line="117" column="25" filename="C:/code/voc_ice/src/pages/Detection/components/DetectionTable/DetectionTable.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2992,7 +2998,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>seal statistic</text>
+        <text>repair</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -3099,13 +3105,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>seal statistic</text>
+        <text>repair</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyb3VuZFw+</text>
+        <text encoding="base64">XDxyZW1vdmVCdG5cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8L0ljZUNvbnRhaW5lcj4K</text>
+        <text encoding="base64">ICAgICAgICA8YSBzdHlsZT17c3R5bGVzLnJlbW92ZUJ0bn0gdGl0bGU9Is6s0N4iPjxGb3VuZGF0aW9uU3ltYm9sIHR5cGU9InJlcGFpciIgLz48L2E+Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
@@ -3139,9 +3145,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyb3VuZFw+</last-search>
+      <last-search encoding="base64">XDxyZW1vdmVCdG5cPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyb3VuZFw+</last-pattern>
+      <last-pattern encoding="base64">XDxyZW1vdmVCdG5cPg==</last-pattern>
       <last-replace>right</last-replace>
       <last-substitute>getRight()</last-substitute>
       <last-dir>1</last-dir>
@@ -3149,7 +3155,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkdlw+</entry>
         <entry encoding="base64">XDxuYW1lXD4=</entry>
         <entry>seal</entry>
         <entry encoding="base64">XDxzZWFsRGF0YVw+</entry>
@@ -3169,6 +3174,7 @@
         <entry>conso</entry>
         <entry>round</entry>
         <entry encoding="base64">XDxyb3VuZFw+</entry>
+        <entry encoding="base64">XDxyZW1vdmVCdG5cPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2RldGVjdC9yZXBhaXIvZ2M=</entry>
