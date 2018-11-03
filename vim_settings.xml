@@ -334,6 +334,7 @@
         <mark key="." line="52" column="13" />
         <mark key="^" line="52" column="13" />
       </file>
+      <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/model_test.go" timestamp="1541207160619" />
       <file name="$USER_HOME$/code/voc_ice/src/menuConfig.js" timestamp="1537180163680">
         <mark key="'" line="95" column="0" />
         <mark key="[" line="17" column="12" />
@@ -2142,12 +2143,12 @@
         <mark key="^" line="49" column="17" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="C:/code/voc_ice/src/pages/EmissionStatistic/EmissionStatistic.js" timestamp="1541150489644">
-        <mark key="'" line="183" column="0" />
-        <mark key="[" line="247" column="77" />
-        <mark key="]" line="247" column="100" />
-        <mark key="." line="247" column="77" />
-        <mark key="^" line="264" column="13" />
+      <file name="C:/code/voc_ice/src/pages/EmissionStatistic/EmissionStatistic.js" timestamp="1541207774384">
+        <mark key="'" line="125" column="0" />
+        <mark key="[" line="208" column="27" />
+        <mark key="]" line="208" column="30" />
+        <mark key="." line="208" column="30" />
+        <mark key="^" line="208" column="30" />
       </file>
       <file name="C:/code/voc/src/main/resources/sql/schema.sql" timestamp="1539613242979">
         <mark key="'" line="553" column="12" />
@@ -2549,7 +2550,6 @@
         <mark key="." line="24" column="21" />
         <mark key="^" line="24" column="21" />
       </file>
-      <file name="C:/code/ice-master/react-materials/blocks/CreateActivityForm/src/CreateActivityForm.jsx" timestamp="1541140148225" />
       <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/shiro/JwtAuthenticationFilter.java" timestamp="1517649706908">
         <mark key="'" line="45" column="26" />
         <mark key="[" line="73" column="33" />
@@ -2879,8 +2879,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="22" filename="C:/code/voc_ice/src/layouts/HeaderFooterLayout/HeaderFooterLayout.jsx" />
-      <jump line="34" column="43" filename="C:/code/voc_ice/src/layouts/HeaderFooterLayout/HeaderFooterLayout.jsx" />
       <jump line="46" column="0" filename="C:/code/voc_ice/src/pages/SealStatistic/SealStatistic.js" />
       <jump line="65" column="9" filename="C:/code/voc_ice/src/pages/SealStatistic/SealStatistic.js" />
       <jump line="83" column="25" filename="C:/code/voc_ice/src/pages/SealStatistic/SealStatistic.js" />
@@ -2979,6 +2977,8 @@
       <jump line="51" column="4" filename="C:/code/voc_ice/src/pages/DetectionRangeStatistic/DetectionRangeStatistic.js" />
       <jump line="73" column="36" filename="C:/code/voc_ice/src/pages/DetectionRangeStatistic/DetectionRangeStatistic.js" />
       <jump line="103" column="38" filename="C:/code/voc_ice/src/pages/DetectionRangeStatistic/DetectionRangeStatistic.js" />
+      <jump line="119" column="59" filename="C:/code/voc_ice/src/pages/EmissionStatistic/EmissionStatistic.js" />
+      <jump line="125" column="0" filename="C:/code/voc_ice/src/pages/EmissionStatistic/EmissionStatistic.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3002,7 +3002,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGNlbGw9e3RoaXMuZmxvYXRSb3VuZH0=</text>
+        <text>emission</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -3109,13 +3109,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>emission</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyb3VuZFw+</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">IGNlbGw9e3RoaXMuZmxvYXRSb3VuZH0=</text>
+        <text>this.floatRound</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -3155,7 +3155,7 @@
       <last-replace>right</last-replace>
       <last-substitute>getRight()</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
