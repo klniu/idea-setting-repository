@@ -2143,8 +2143,8 @@
         <mark key="^" line="49" column="17" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="C:/code/voc_ice/src/pages/EmissionStatistic/EmissionStatistic.js" timestamp="1541217200536">
-        <mark key="'" line="84" column="0" />
+      <file name="C:/code/voc_ice/src/pages/EmissionStatistic/EmissionStatistic.js" timestamp="1541218826143">
+        <mark key="'" line="230" column="24" />
         <mark key="[" line="84" column="0" />
         <mark key="]" line="95" column="9" />
         <mark key="." line="193" column="24" />
@@ -2304,10 +2304,12 @@
         <mark key="^" line="80" column="40" />
         <mark key="." line="24" column="26" />
       </file>
-      <file name="C:/code/voc_ice/src/pages/DetectionRangeStatistic/DetectionRangeStatistic.js" timestamp="1541150427824">
+      <file name="C:/code/voc_ice/src/pages/DetectionRangeStatistic/DetectionRangeStatistic.js" timestamp="1541218856019">
         <mark key="'" line="103" column="38" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="33" />
+        <mark key="[" line="103" column="84" />
+        <mark key="]" line="103" column="85" />
+        <mark key="." line="103" column="85" />
+        <mark key="^" line="103" column="85" />
       </file>
       <file name="D:/code/go/src/ldar/emission_test.go" timestamp="1521520684666">
         <mark key="'" line="805" column="0" />
@@ -2839,12 +2841,12 @@
         <mark key="." line="61" column="35" />
         <mark key="^" line="61" column="36" />
       </file>
-      <file name="C:/code/voc_ice/src/pages/DigestStatistic/DigestStatistic.js" timestamp="1541217277289">
-        <mark key="'" line="61" column="31" />
-        <mark key="[" line="50" column="32" />
-        <mark key="]" line="50" column="32" />
-        <mark key="^" line="50" column="32" />
-        <mark key="." line="50" column="32" />
+      <file name="C:/code/voc_ice/src/pages/DigestStatistic/DigestStatistic.js" timestamp="1541218819089">
+        <mark key="'" line="79" column="0" />
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="^" line="55" column="110" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="$USER_HOME$/code/pyutils/work/SafetySystemLevelsCount.py" timestamp="1536282764152">
         <mark key="'" line="40" column="4" />
@@ -2886,10 +2888,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="8" filename="C:/code/voc_ice/src/pages/SealStatistic/SealStatistic.js" />
-      <jump line="55" column="10" filename="C:/code/voc_ice/src/pages/SealStatistic/SealStatistic.js" />
-      <jump line="59" column="12" filename="C:/code/voc_ice/src/pages/SealStatistic/SealStatistic.js" />
-      <jump line="52" column="18" filename="C:/code/voc_ice/src/pages/SealStatistic/SealStatistic.js" />
       <jump line="54" column="8" filename="C:/code/voc_ice/src/pages/SealStatistic/SealStatistic.js" />
       <jump line="56" column="10" filename="C:/code/voc_ice/src/pages/SealStatistic/SealStatistic.js" />
       <jump line="60" column="12" filename="C:/code/voc_ice/src/pages/SealStatistic/SealStatistic.js" />
@@ -2986,6 +2984,10 @@
       <jump line="133" column="12" filename="C:/code/voc_ice/src/pages/DigestStatistic/DigestStatistic.js" />
       <jump line="84" column="0" filename="C:/code/voc_ice/src/pages/EmissionStatistic/EmissionStatistic.js" />
       <jump line="59" column="31" filename="C:/code/voc_ice/src/pages/DigestStatistic/DigestStatistic.js" />
+      <jump line="57" column="110" filename="C:/code/voc_ice/src/pages/DigestStatistic/DigestStatistic.js" />
+      <jump line="81" column="0" filename="C:/code/voc_ice/src/pages/DigestStatistic/DigestStatistic.js" />
+      <jump line="10" column="0" filename="C:/code/voc_ice/src/pages/EmissionStatistic/EmissionStatistic.js" />
+      <jump line="230" column="24" filename="C:/code/voc_ice/src/pages/EmissionStatistic/EmissionStatistic.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3009,7 +3011,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>0</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -3116,63 +3118,61 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyb3VuZFw+</text>
+        <text>ratio</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHJvdW5kIGZyb20gJ2xvZGFzaC9yb3VuZCc7Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">dGhpcy5mbG9hdFJvdW5kKCh0b0ludGVnZXIoZC5yZXBhaXJlZCkgLyB0b0ludGVnZXIoZC5sZWFraW5nKSkgKiAxMDAsIDIpIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQ2hhcnQsIEF4aXMsIFRvb2x0aXAsIEdlb20sIExlZ2VuZCB9IGZyb20gJ2JpemNoYXJ0cyc7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMuZGF0YVNvdXJjZSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IERhdGFTZXQgZnJvbSAnQGFudHYvZGF0YS1zZXQnOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHVuaXRzLCBpbnN0YWxscyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGlzRW1wdHkgZnJvbSAnbG9kYXNoL2lzRW1wdHknOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRhdGEpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2VsbD17dGhpcy5mbG9hdFJvdW5kfQo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZC5yZXBhaXJlZCwgZC5sZWFraW5nLCB0b0ludGVnZXIoZC5yZXBhaXJlZCksIHRvSW50ZWdlcihkLmxlYWtpbmdzKXRoaXMuZmxvYXRSb3VuZCgodG9JbnRlZ2VyKGQucmVwYWlyZWQpIC8gdG9JbnRlZ2VyKGQubGVha2luZykpICogMTAwLCAyKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2VsbD17dGhpcy5mbG9hdFJvdW5kfQo=</text>
+        <text encoding="base64">ICAgICAgLy8gzN6z/c6qMLXE0NAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2VsbD17dGhpcy5mbG9hdFJvdW5kfQo=</text>
+        <text encoding="base64">aW1wb3J0IHsgQ2hhcnQsIEF4aXMsIFRvb2x0aXAsIEdlb20sIExlZ2VuZCB9IGZyb20gJ2JpemNoYXJ0cyc7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgU2VhbFR5cGVzLCBTZXJ2aWNlcyB9IGZyb20gJy4uLy4uL2RhdGEvY29udGFudHMnOwo=</text>
+        <text encoding="base64">aW1wb3J0IERhdGFTZXQgZnJvbSAnQGFudHYvZGF0YS1zZXQnOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGlzRW1wdHkgZnJvbSAnbG9kYXNoL2lzRW1wdHknOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGVtaXNzaW9uU3RhdGlzdGljUmVkdWNlciBmcm9tICcuLi9FbWlzc2lvblN0YXRpc3RpYy9yZWR1Y2VyJzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2VsbD17dGhpcy5mbG9hdFJvdW5kfQo=</text>
       </register>
       <register name=":" type="4">
         <text>action PreviousTab</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyb3VuZFw+</last-search>
+      <last-search>ratio</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyb3VuZFw+</last-pattern>
+      <last-pattern>ratio</last-pattern>
       <last-replace>right</last-replace>
       <last-substitute>getRight()</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkdlw+</entry>
         <entry encoding="base64">XDxuYW1lXD4=</entry>
         <entry>seal</entry>
         <entry encoding="base64">XDxzZWFsRGF0YVw+</entry>
         <entry>sealtypes</entry>
         <entry>ice</entry>
-        <entry>console</entry>
         <entry encoding="base64">XDxzZWFsQ2hpbmVzZVw+</entry>
         <entry>date</entry>
         <entry>_1</entry>
@@ -3186,6 +3186,8 @@
         <entry>conso</entry>
         <entry>round</entry>
         <entry encoding="base64">XDxyb3VuZFw+</entry>
+        <entry>console</entry>
+        <entry>ratio</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2RldGVjdC9yZXBhaXIvZ2M=</entry>
