@@ -2143,12 +2143,12 @@
         <mark key="^" line="49" column="17" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="C:/code/voc_ice/src/pages/EmissionStatistic/EmissionStatistic.js" timestamp="1541207774384">
+      <file name="C:/code/voc_ice/src/pages/EmissionStatistic/EmissionStatistic.js" timestamp="1541208400655">
         <mark key="'" line="125" column="0" />
-        <mark key="[" line="208" column="27" />
-        <mark key="]" line="208" column="30" />
-        <mark key="." line="208" column="30" />
-        <mark key="^" line="208" column="30" />
+        <mark key="[" line="193" column="20" />
+        <mark key="]" line="193" column="24" />
+        <mark key="." line="193" column="24" />
+        <mark key="^" line="193" column="24" />
       </file>
       <file name="C:/code/voc/src/main/resources/sql/schema.sql" timestamp="1539613242979">
         <mark key="'" line="553" column="12" />
@@ -3002,7 +3002,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>emission</text>
+        <text>range</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -3109,7 +3109,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>emission</text>
+        <text>range</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyb3VuZFw+</text>
