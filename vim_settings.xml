@@ -716,10 +716,11 @@
         <mark key="^" line="6" column="14" />
         <mark key="." line="6" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541150538609">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="4" />
-        <mark key="." line="0" column="4" />
+      <file name="/Dummy.txt" timestamp="1541161711075">
+        <mark key="i" line="0" column="20" />
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="7" />
+        <mark key="." line="0" column="7" />
       </file>
       <file name="C:/code/voc/src/main/java/com/cnvoc/voc/entity/Seal.java" timestamp="1539613301835">
         <mark key="'" line="62" column="24" />
@@ -946,11 +947,7 @@
         <mark key="." line="8" column="36" />
       </file>
       <file name="C:/code/voc_ice/src/pages/Detection/components/DetectionTable/DetectionTable.jsx" timestamp="1541154186278">
-        <mark key="'" line="335" column="8" />
-        <mark key="[" line="195" column="21" />
-        <mark key="]" line="195" column="21" />
-        <mark key="^" line="245" column="38" />
-        <mark key="." line="195" column="21" />
+        <mark key="'" line="330" column="8" />
       </file>
       <file name="$USER_HOME$/code/lkc_website/src/routes.js" timestamp="1528871958577">
         <mark key="'" line="42" column="31" />
@@ -1531,11 +1528,9 @@
         <mark key="." line="72" column="0" />
       </file>
       <file name="C:/code/voc_ice/src/pages/SealStatistic/SealStatistic.js" timestamp="1541154264002">
-        <mark key="'" line="229" column="35" />
-        <mark key="[" line="293" column="0" />
-        <mark key="]" line="293" column="0" />
-        <mark key="^" line="229" column="35" />
-        <mark key="." line="293" column="0" />
+        <mark key="[" line="298" column="0" />
+        <mark key="]" line="298" column="0" />
+        <mark key="." line="298" column="0" />
       </file>
       <file name="$USER_HOME$/code/pyutils/safetysystem/config/22.yaml" timestamp="1536822404525">
         <mark key="'" line="8" column="0" />
@@ -2142,13 +2137,6 @@
         <mark key="]" line="49" column="0" />
         <mark key="^" line="49" column="17" />
         <mark key="." line="49" column="0" />
-      </file>
-      <file name="C:/code/voc_ice/src/pages/EmissionStatistic/EmissionStatistic.js" timestamp="1541154143853">
-        <mark key="'" line="199" column="33" />
-        <mark key="[" line="269" column="0" />
-        <mark key="]" line="269" column="0" />
-        <mark key="." line="269" column="0" />
-        <mark key="^" line="198" column="33" />
       </file>
       <file name="C:/code/voc/src/main/resources/sql/schema.sql" timestamp="1539613242979">
         <mark key="'" line="553" column="12" />
@@ -3003,8 +2991,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>seal statistic</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -3111,7 +3099,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>内容筛选</text>
+        <text>seal statistic</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyb3VuZFw+</text>
@@ -3157,7 +3145,7 @@
       <last-replace>right</last-replace>
       <last-substitute>getRight()</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
