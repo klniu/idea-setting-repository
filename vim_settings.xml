@@ -1499,6 +1499,10 @@
         <mark key="^" line="42" column="22" />
         <mark key="." line="42" column="22" />
       </file>
+      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/entity/enums/LdarInstallType.java" timestamp="1541320998750">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="11" column="30" />
+      </file>
       <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/DetectionServiceImpl.java" timestamp="1524020209581">
         <mark key="'" line="130" column="28" />
         <mark key="[" line="155" column="36" />
@@ -1583,11 +1587,11 @@
         <mark key="." line="37" column="44" />
         <mark key="^" line="37" column="44" />
       </file>
-      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/web/LdarStandardController.java" timestamp="1541318124196">
+      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/web/LdarStandardController.java" timestamp="1541321572700">
         <mark key="'" line="36" column="25" />
-        <mark key="[" line="51" column="62" />
-        <mark key="]" line="51" column="70" />
-        <mark key="." line="51" column="70" />
+        <mark key="[" line="33" column="22" />
+        <mark key="]" line="33" column="22" />
+        <mark key="." line="33" column="22" />
         <mark key="^" line="51" column="70" />
       </file>
       <file name="D:/code/java/voc/src/test/resources/sql/clear.sql" timestamp="1523757183962">
@@ -3078,7 +3082,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>id</text>
+        <text>/</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -3185,7 +3189,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>id</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXBhaXJzXD4=</text>
