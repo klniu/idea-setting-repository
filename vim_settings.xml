@@ -689,7 +689,7 @@
         <mark key="^" line="6" column="14" />
         <mark key="." line="6" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539875013548">
+      <file name="/Dummy.txt" timestamp="1541417262961">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -1032,10 +1032,12 @@
         <mark key="." line="115" column="22" />
         <mark key="^" line="115" column="22" />
       </file>
-      <file name="C:/code/pyutils/voc/dagu/daguserver.py" timestamp="1539700876694">
-        <mark key="[" line="23" column="4" />
-        <mark key="]" line="23" column="4" />
-        <mark key="." line="23" column="4" />
+      <file name="C:/code/pyutils/voc/dagu/daguserver.py" timestamp="1541417183537">
+        <mark key="'" line="108" column="22" />
+        <mark key="[" line="84" column="12" />
+        <mark key="]" line="84" column="12" />
+        <mark key="." line="84" column="12" />
+        <mark key="^" line="84" column="12" />
       </file>
       <file name="C:/code/voc/src/main/java/com/cnvoc/voc/service/IRepairService.java" timestamp="1539672885060">
         <mark key="[" line="89" column="53" />
@@ -2671,7 +2673,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="2" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/IInstallService.java" />
       <jump line="257" column="37" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/InstallServiceImpl.java" />
       <jump line="51" column="0" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/InstallServiceImpl.java" />
       <jump line="80" column="13" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/SealPointServiceImpl.java" />
@@ -2771,6 +2772,7 @@
       <jump line="32" column="12" filename="C:/code/voc/src/main/java/com/cnvoc/voc/mapper/ComponentMapper.java" />
       <jump line="362" column="25" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/RepairServiceImpl.java" />
       <jump line="26" column="60" filename="C:/code/vocs/pom.xml" />
+      <jump line="108" column="22" filename="C:/code/pyutils/voc/dagu/daguserver.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2793,8 +2795,12 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAoMTAsIDEsIDIsIDMsIDEsICexvdLSz6m+q8HzJywgJ0JZWEpMJywgMiwgJzIwMTQtMDUtMDEnLCAnMDMwMScsICcnKSwKICAoMTEsIDEsIDIsIDMsIDIsICexvdLSz6knLCAnQllYJywgMiwgJzIwMTQtMDUtMDEnLCAnMDMwMicsICcnKSwKICAoMTIsIDEsIDIsIDMsIDMsICexvdLSz6m53sf4JywgJ0JZWEdRJywgMiwgJzIwMTQtMDUtMDEnLCAnMDMwMycsICcnKSwKICAoMTMsIDEsIDIsIDMsIDQsICfN0cfi17DWwycsICdUUVpaJywgMiwgJzIwMTQtMDUtMDEnLCAnMDMwNCcsICcnKSwKICAoMTQsIDEsIDIsIDMsIDUsICe438jIwq8nLCAnR1JMJywgMiwgJzIwMTQtMDUtMDEnLCAnMDMwNScsICcnKTsK</text>
+      <register name="&quot;" type="8">
+        <text>sync
+sync
+sync
+sync
+sync</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2901,57 +2907,60 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>time</text>
+        <text>sync</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZWxlY3RMaXN0XD4=</text>
+        <text>sync</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzb3J0cy5hZGQobmV3IEltbXV0YWJsZVBhaXI8PigiZGV0ZWN0aW9uLnRpbWUiLCB0cnVlKSk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzb3J0cy5hZGQobmV3IEltbXV0YWJsZVBhaXI8Pigic2VhbC5ubyIsIHRydWUpKTsKICAgICAgICBzb3J0cy5hZGQobmV3IEltbXV0YWJsZVBhaXI8Pigic2VhbC50YWciLCB0cnVlKSk7Cg==</text>
+      <register name="1" type="8">
+        <text>sync
+sync
+sync
+sync
+sync</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzb3J0cy5hZGQobmV3IEltbXV0YWJsZVBhaXI8PigiZGV0ZWN0aW9uLnRpbWUiLCB0cnVlKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAiIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIFN0cmluZ0J1aWxkZXIgc2IgPSBuZXcgU3RyaW5nQnVpbGRlcigpOyAK</text>
+        <text encoding="base64">ICAgICAgICBzb3J0cy5hZGQobmV3IEltbXV0YWJsZVBhaXI8Pigic2VhbC5ubyIsIHRydWUpKTsKICAgICAgICBzb3J0cy5hZGQobmV3IEltbXV0YWJsZVBhaXI8Pigic2VhbC50YWciLCB0cnVlKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzYi5hcHBlbmQoY29tcG9uZW50LmdldExvY2F0b3IoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzb3J0cy5hZGQobmV3IEltbXV0YWJsZVBhaXI8PigiZGV0ZWN0aW9uLnRpbWUiLCB0cnVlKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgIH0gZWxzZQo=</text>
+        <text encoding="base64">ICAgICAgIFN0cmluZ0J1aWxkZXIgc2IgPSBuZXcgU3RyaW5nQnVpbGRlcigpOyAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIGlmIChjb21wb25lbnQuZ2V0TG9jYXRvcigpICE9IG51bGwpIHsK</text>
+        <text encoding="base64">ICAgICAgICBzYi5hcHBlbmQoY29tcG9uZW50LmdldExvY2F0b3IoKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgIGlmICgpCg==</text>
+        <text encoding="base64">ICAgICAgIH0gZWxzZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjLnNldEhvcml6b250YWxBbGlnbm1lbnQoRWxlbWVudC5BTElHTl9DRU5URVIpOwo=</text>
+        <text encoding="base64">ICAgICAgIGlmIChjb21wb25lbnQuZ2V0TG9jYXRvcigpICE9IG51bGwpIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">JycsCg==</text>
+        <text encoding="base64">ICAgICAgIGlmICgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>action PreviousTab</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZWxlY3RMaXN0XD4=</last-search>
+      <last-search>sync</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZWxlY3RMaXN0XD4=</last-pattern>
+      <last-pattern>sync</last-pattern>
       <last-replace>HeaderFooterLayout</last-replace>
       <last-substitute>BasicLayout</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRCYXNlRGF0YVw+</entry>
         <entry encoding="base64">XDxzZXRTZXR0aW5nXD4=</entry>
         <entry encoding="base64">XDxsZWF2ZVw+</entry>
         <entry>icon</entry>
@@ -2971,6 +2980,7 @@
         <entry encoding="base64">XDxsYXlvdXRDb21wb25lbnRJbWFnZXNcPg==</entry>
         <entry>scale</entry>
         <entry encoding="base64">XDxzZWxlY3RMaXN0XD4=</entry>
+        <entry>sync</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzYuMC4wLzUuMi45L2dj</entry>
