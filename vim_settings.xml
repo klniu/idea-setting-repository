@@ -689,7 +689,7 @@
         <mark key="^" line="6" column="14" />
         <mark key="." line="6" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541417262961">
+      <file name="/Dummy.txt" timestamp="1541422645785">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -701,7 +701,8 @@
         <mark key="." line="85" column="0" />
         <mark key="^" line="78" column="26" />
       </file>
-      <file name="C:/code/pyutils/voc/dagu/init.sql" timestamp="1540699503898">
+      <file name="C:/code/pyutils/voc/dagu/init.sql" timestamp="1541422881071">
+        <mark key="'" line="37" column="27" />
         <mark key="[" line="806" column="0" />
         <mark key="]" line="810" column="62" />
         <mark key="^" line="805" column="21" />
@@ -1032,7 +1033,7 @@
         <mark key="." line="115" column="22" />
         <mark key="^" line="115" column="22" />
       </file>
-      <file name="C:/code/pyutils/voc/dagu/daguserver.py" timestamp="1541419421426">
+      <file name="C:/code/pyutils/voc/dagu/daguserver.py" timestamp="1541422642192">
         <mark key="'" line="272" column="4" />
         <mark key="[" line="21" column="4" />
         <mark key="]" line="21" column="4" />
@@ -2673,7 +2674,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="13" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/SealPointServiceImpl.java" />
       <jump line="82" column="68" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/SealPointServiceImpl.java" />
       <jump line="88" column="42" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/SealPointServiceImpl.java" />
       <jump line="89" column="56" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/SealPointServiceImpl.java" />
@@ -2773,6 +2773,7 @@
       <jump line="108" column="22" filename="C:/code/pyutils/voc/dagu/daguserver.py" />
       <jump line="206" column="14" filename="C:/code/pyutils/voc/dagu/daguserver.py" />
       <jump line="270" column="4" filename="C:/code/pyutils/voc/dagu/daguserver.py" />
+      <jump line="37" column="27" filename="C:/code/pyutils/voc/dagu/init.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2795,8 +2796,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>repairs</text>
+      <register name="&quot;" type="8">
+        <text encoding="base64">IyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyA=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -2911,36 +2912,36 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHVwbG9hZF9yZXBhaXJzKEhFQURFUlMpCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGRhdGE9ewogICAgICAgICAgICAgICAgICAgICAgICAgICdmYWN0b3J5SWQnOiAxLAogICAgICAgICAgICAgICAgICAgICAgICAgICd0dXJuSWQnOiAxLAogICAgICAgICAgICAgICAgICAgICAgICAgICdjb21wYW55JzogJ3Rlc3QnLAogICAgICAgICAgICAgICAgICAgICAgICAgICdwZXJzb25zJzogJ3Rlc3QnLAogICAgICAgICAgICAgICAgICAgICAgICAgICdkZXZpY2VNb2RlbCc6ICd0dmEyMDIwQycsCiAgICAgICAgICAgICAgICAgICAgICAgICAgJ2RldmljZU5vJzogJ2FkZmFzZicK</text>
+      <register name="1" type="8">
+        <text encoding="base64">IyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyA=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZvciBkIGluIGRldGVjdGlvbnM6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGRhdGE9ewogICAgICAgICAgICAgICAgICAgICAgICAgICdmYWN0b3J5SWQnOiAxLAogICAgICAgICAgICAgICAgICAgICAgICAgICd0dXJuSWQnOiAxLAogICAgICAgICAgICAgICAgICAgICAgICAgICdjb21wYW55JzogJ3Rlc3QnLAogICAgICAgICAgICAgICAgICAgICAgICAgICdwZXJzb25zJzogJ3Rlc3QnLAogICAgICAgICAgICAgICAgICAgICAgICAgICdkZXZpY2VNb2RlbCc6ICd0dmEyMDIwQycsCiAgICAgICAgICAgICAgICAgICAgICAgICAgJ2RldmljZU5vJzogJ2FkZmFzZicK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIGZvciBkIGluIGRldGVjdGlvbnM6Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgIGRldGVjdGlvbnMgPSBbCiAgICAgICAgIkxPRzkuMTctMS5UWFQiLAogICAgICAgICJMT0c5LjE4LTEuVFhUIiwKICAgICAgICAiTE9HOS4xOC0yLlRYVCIsCiAgICAgICAgIkxPRzkuMTgtMy5UWFQiLAogICAgICAgICJMT0c5LjE5LTEuVFhUIiwKICAgICAgICAiTE9HOS4xOS0yLlRYVCIsCiAgICAgICAgIkxPRzkuMTktMy5UWFQiLAogICAgICAgICJMT0c5LjIwLTEuVFhUIiwKICAgICAgICAiTE9HOS4yMC0yLlRYVCIsCiAgICAgICAgIkxPRzkuMjAtMy5UWFQiLAogICAgICAgICJMT0c5LjIxLTEuVFhUIiwKICAgICAgICAiTE9HOS4yMS0yLlRYVCIsCiAgICAgICAgIkxPRzkuMjEtMy5UWFQiLAogICAgICAgICJMT0c5LjIyLTEuVFhUIiwKICAgICAgICAiTE9HOS4yMi0yLlRYVCIsCiAgICAgICAgIkxPRzkuMjItMy5UWFQiLAogICAgICAgICJMT0c5LjIzLTEuVFhUIiwKICAgICAgICAiTE9HOS4yMy0yLlRYVCIsCiAgICAgICAgIkxPRzkuMjYtMS5UWFQiLAogICAgICAgICJMT0c5LjI2LTIuVFhUIiwKICAgICAgICAiTE9HOS4yNi0zLlRYVCIsCiAgICAgICAgIkxPRzkuMjgtMS5UWFQiLAogICAgICAgICJMT0c5LjI4LTIuVFhUIiwKICAgICAgICAiTE9HOS4yOC0zLlRYVCIsCiAgICAgICAgIkxPRzkuMjktMS5UWFQiLAogICAgICAgICJMT0c5LjI5LTIuVFhUIiwKICAgICAgICAiTE9HOS4yOS0zLlRYVCIsCiAgICAgICAgIkxPRzkuMjktNC5UWFQiLAogICAgICAgICJMT0c5LjMwLTEuVFhUIiwKICAgICAgICAiTE9HOS4zMC0yLlRYVCIsCiAgICAgICAgIkxPRzkuMzAtMy5UWFQiLAogICAgICAgICJMT0c5LjMwLTQuVFhUIiwKICAgICAgICAiTE9HMTAuOS0xLlRYVCIsCiAgICAgICAgIkxPRzEwLjktMi5UWFQiLAogICAgICAgICJMT0cxMC45LTMuVFhUIiwKICAgICAgICAiTE9HMTAuMTAtMS5UWFQiLAogICAgICAgICJMT0cxMC4xMC0yLlRYVCIsCiAgICAgICAgIkxPRzEwLjEwLTMuVFhUIiwKICAgICAgICAiTE9HMTAuMTAtNC5UWFQiLAogICAgICAgICJMT0cxMC4xMS0xLlRYVCIsCiAgICAgICAgIkxPRzEwLjExLTIuVFhUIiwKICAgICAgICAiTE9HMTAuMTEtMy5UWFQiLAogICAgICAgICJMT0cxMC4xMS00LlRYVCIsCiAgICAgICAgIkxPRzEwLjEyLTEuVFhUIiwKICAgICAgICAiTE9HMTAuMTItMi5UWFQiLAogICAgICAgICJMT0cxMC4xMi0zLlRYVCIsCiAgICAgICAgIkxPRzEwLjEyLTQuVFhUIiwKICAgICAgICAiTE9HMTAuMTItNS5UWFQiLAogICAgICAgICJMT0cxMC4xMy0xLlRYVCIsCiAgICAgICAgIkxPRzEwLjEzLTIuVFhUIiwKICAgICAgICAiTE9HMTAuMTMtMy5UWFQiLAogICAgICAgICJMT0cxMC4xMy00LlRYVCIsCiAgICAgICAgIkxPRzEwLjE0LTEuVFhUIiwKICAgICAgICAiTE9HMTAuMTQtMi5UWFQiLAogICAgICAgICJMT0cxMC4xNC0zLlRYVCIsCiAgICAgICAgIkxPRzEwLjE0LTQuVFhUIiwKICAgICAgICAiTE9HMTAuMTUtMS5UWFQiLAogICAgICAgICJMT0cxMC4xNS0yLlRYVCIsCiAgICAgICAgIkxPRzEwLjE1LTMuVFhUIiwKICAgICAgICAiTE9HMTAuMTYtMS5UWFQiLAogICAgICAgICJMT0cxMC4xNi0yLlRYVCIsCiAgICAgICAgIkxPRzEwLjE2LTMuVFhUIiwKICAgICAgICAiTE9HMTAuMTYtNC5UWFQiLAogICAgICAgICJMT0cxMC4xNy0xLlRYVCIsCiAgICAgICAgIkxPRzEwLjE3LTIuVFhUIiwKICAgICAgICAiTE9HMTEuMi0xLlRYVCIsCiAgICAgICAgIkxPRzExLjItMi5UWFQiLAogICAgICAgICJMT0cxMS4yLTMuVFhUIgogICAgXQo=</text>
       </register>
-      <register name="4" type="8">
+      <register name="5" type="8">
         <text>sync
 sync
 sync
 sync
 sync</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAiIgo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBzb3J0cy5hZGQobmV3IEltbXV0YWJsZVBhaXI8Pigic2VhbC5ubyIsIHRydWUpKTsKICAgICAgICBzb3J0cy5hZGQobmV3IEltbXV0YWJsZVBhaXI8Pigic2VhbC50YWciLCB0cnVlKSk7Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBzb3J0cy5hZGQobmV3IEltbXV0YWJsZVBhaXI8PigiZGV0ZWN0aW9uLnRpbWUiLCB0cnVlKSk7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgIFN0cmluZ0J1aWxkZXIgc2IgPSBuZXcgU3RyaW5nQnVpbGRlcigpOyAK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzYi5hcHBlbmQoY29tcG9uZW50LmdldExvY2F0b3IoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgIFN0cmluZ0J1aWxkZXIgc2IgPSBuZXcgU3RyaW5nQnVpbGRlcigpOyAK</text>
       </register>
       <register name=":" type="4">
         <text>action PreviousTab</text>
