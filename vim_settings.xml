@@ -263,7 +263,6 @@
         <mark key="^" line="267" column="70" />
         <mark key="." line="237" column="0" />
       </file>
-      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/mapper/RepairMapper.java" timestamp="1541297464111" />
       <file name="D:/code/web/voc-ui/src/app/app.component.css" timestamp="1517990394175">
         <mark key="'" line="28" column="0" />
         <mark key="[" line="0" column="0" />
@@ -345,6 +344,7 @@
         <mark key="." line="52" column="13" />
         <mark key="^" line="52" column="13" />
       </file>
+      <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/model_test.go" timestamp="1541416892493" />
       <file name="$USER_HOME$/code/voc_ice/src/menuConfig.js" timestamp="1537180163680">
         <mark key="'" line="95" column="0" />
         <mark key="[" line="17" column="12" />
@@ -1195,12 +1195,12 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="44" column="28" />
       </file>
-      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/DetectionServiceImpl.java" timestamp="1541301211081">
-        <mark key="'" line="121" column="19" />
-        <mark key="[" line="121" column="53" />
-        <mark key="]" line="121" column="53" />
-        <mark key="." line="121" column="53" />
-        <mark key="^" line="121" column="65" />
+      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/DetectionServiceImpl.java" timestamp="1541418410531">
+        <mark key="'" line="242" column="33" />
+        <mark key="[" line="285" column="56" />
+        <mark key="]" line="285" column="57" />
+        <mark key="." line="285" column="57" />
+        <mark key="^" line="285" column="55" />
       </file>
       <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/IInstallService.java" timestamp="1529889391231">
         <mark key="'" line="18" column="2" />
@@ -2959,10 +2959,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="360" column="10" filename="C:/code/voc_ice/package-lock.json" />
-      <jump line="41" column="12" filename="C:/code/ice-master/react-materials/blocks/ReviewDataChart/src/ReviewDataChart.jsx" />
-      <jump line="89" column="19" filename="C:/code/voc_ice/src/utils/helpers.js" />
-      <jump line="1" column="34" filename="C:/code/voc_ice/src/utils/helpers.js" />
       <jump line="0" column="0" filename="C:/code/ice-master/react-materials/blocks/RealTimeData/src/RealTimeData.jsx" />
       <jump line="14" column="54" filename="C:/code/voc_ice/src/api/index.js" />
       <jump line="18" column="0" filename="C:/code/voc_ice/src/api/index.js" />
@@ -3059,6 +3055,10 @@
       <jump line="41" column="44" filename="C:/code/voc/src/main/java/com/cnvoc/voc/web/LdarStandardController.java" />
       <jump line="36" column="25" filename="C:/code/voc/src/main/java/com/cnvoc/voc/web/LdarStandardController.java" />
       <jump line="85" column="39" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/InstallServiceImpl.java" />
+      <jump line="122" column="14" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/DetectionServiceImpl.java" />
+      <jump line="128" column="80" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/DetectionServiceImpl.java" />
+      <jump line="167" column="35" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/DetectionServiceImpl.java" />
+      <jump line="242" column="33" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/DetectionServiceImpl.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3192,7 +3192,7 @@
         <text>/</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZXBhaXJzXD4=</text>
+        <text>deviceNo</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBHZXRNYXBwaW5nKCIve2lkfSIpCiAgICBwdWJsaWMgUmVzdWx0IGdldEJ5SWQoQFBhdGhWYXJpYWJsZSBMb25nIGlkKSB7CiAgICAgICAgcmV0dXJuIG5ldyBSZXN1bHQ8PihpTGRhclN0YW5kYXJkU2VydmljZS5nZXRCeUlkKGlkKSk7CiAgICB9Cg==</text>
@@ -3229,9 +3229,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZXBhaXJzXD4=</last-search>
+      <last-search>deviceNo</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZXBhaXJzXD4=</last-pattern>
+      <last-pattern>deviceNo</last-pattern>
       <last-replace>right</last-replace>
       <last-substitute>getRight()</last-substitute>
       <last-dir>1</last-dir>
@@ -3239,7 +3239,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxuYW1lXD4=</entry>
         <entry>seal</entry>
         <entry encoding="base64">XDxzZWFsRGF0YVw+</entry>
         <entry>sealtypes</entry>
@@ -3259,6 +3258,7 @@
         <entry>round</entry>
         <entry encoding="base64">XDxyb3VuZFw+</entry>
         <entry encoding="base64">XDxyZXBhaXJzXD4=</entry>
+        <entry>deviceNo</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2dldCgwKS9nZXQoMSkvZ2M=</entry>
