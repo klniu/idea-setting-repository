@@ -331,6 +331,7 @@
         <mark key="." line="52" column="13" />
         <mark key="^" line="52" column="13" />
       </file>
+      <file name="$USER_HOME$/sync/code/go/src/LawIndexer/models/model_test.go" timestamp="1541422654969" />
       <file name="$USER_HOME$/code/voc_ice/src/menuConfig.js" timestamp="1537180163680">
         <mark key="'" line="95" column="0" />
         <mark key="[" line="17" column="12" />
@@ -1508,12 +1509,11 @@
         <mark key="." line="155" column="39" />
         <mark key="^" line="155" column="39" />
       </file>
-      <file name="C:/code/voc_ice/src/pages/UnitPage/components/UnitTable/reducer.js" timestamp="1541321464315">
-        <mark key="'" line="23" column="40" />
-        <mark key="[" line="22" column="33" />
-        <mark key="]" line="22" column="33" />
-        <mark key="^" line="22" column="33" />
-        <mark key="." line="22" column="33" />
+      <file name="C:/code/voc_ice/src/pages/UnitPage/components/UnitTable/reducer.js" timestamp="1541422991331">
+        <mark key="'" line="8" column="6" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/code/website/src/containers/Announcements/style/pro.scss" timestamp="1530455074181">
         <mark key="'" line="1" column="14" />
@@ -1638,11 +1638,11 @@
         <mark key="." line="22" column="27" />
         <mark key="^" line="22" column="27" />
       </file>
-      <file name="C:/code/voc_ice/src/pages/ComponentPage/components/ComponentTable/ComponentTable.jsx" timestamp="1541320518325">
-        <mark key="'" line="178" column="30" />
-        <mark key="[" line="165" column="0" />
-        <mark key="]" line="167" column="4" />
-        <mark key="." line="273" column="20" />
+      <file name="C:/code/voc_ice/src/pages/ComponentPage/components/ComponentTable/ComponentTable.jsx" timestamp="1541423297949">
+        <mark key="'" line="227" column="16" />
+        <mark key="[" line="243" column="93" />
+        <mark key="]" line="243" column="94" />
+        <mark key="." line="243" column="94" />
         <mark key="^" line="273" column="20" />
       </file>
       <file name="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/RactorsCalculator.java" timestamp="1540351116565">
@@ -2979,7 +2979,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="0" filename="C:/code/voc/src/main/java/com/cnvoc/voc/web/StatisticsController.java" />
       <jump line="40" column="74" filename="C:/code/voc/src/test/java/com/cnvoc/voc/service/impl/StaticticServiceImplTest.java" />
       <jump line="35" column="29" filename="C:/code/voc/src/main/java/com/cnvoc/voc/mapper/StatisticMapper.java" />
       <jump line="27" column="42" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/StaticticServiceImpl.java" />
@@ -3064,7 +3063,6 @@
       <jump line="108" column="0" filename="C:/code/voc_ice/src/pages/UnitPage/components/InstallTable/InstallTable.jsx" />
       <jump line="222" column="0" filename="C:/code/voc_ice/src/pages/UnitPage/components/InstallTable/InstallTable.jsx" />
       <jump line="63" column="26" filename="C:/code/voc_ice/src/pages/UnitPage/components/InstallTable/InstallTable.jsx" />
-      <jump line="8" column="2" filename="C:/code/voc_ice/src/pages/UnitPage/components/UnitTable/reducer.js" />
       <jump line="23" column="40" filename="C:/code/voc_ice/src/pages/UnitPage/components/UnitTable/reducer.js" />
       <jump line="64" column="22" filename="C:/code/voc_ice/src/pages/UnitPage/components/InstallTable/InstallTable.jsx" />
       <jump line="219" column="9" filename="C:/code/voc_ice/src/pages/UnitPage/components/InstallTable/InstallTable.jsx" />
@@ -3079,6 +3077,8 @@
       <jump line="39" column="4" filename="C:/code/voc_ice/src/utils/helpers.js" />
       <jump line="40" column="8" filename="C:/code/voc_ice/src/utils/helpers.js" />
       <jump line="105" column="22" filename="C:/code/voc_ice/src/pages/UnitPage/components/InstallTable/InstallTable.jsx" />
+      <jump line="8" column="6" filename="C:/code/voc_ice/src/pages/UnitPage/components/UnitTable/reducer.js" />
+      <jump line="227" column="16" filename="C:/code/voc_ice/src/pages/ComponentPage/components/ComponentTable/ComponentTable.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3102,7 +3102,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHZhbHVlLCB0aGlzLnByb3BzLnN0YW5kYXJkcywgdGhpcy5wcm9wcy5zdGFuZGFyZHNbdmFsdWUudG9TdHJpbmcoKV0gICk7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coYWN0aW9uLnBheWxvYWQpOwo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -3212,46 +3212,46 @@
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>console</text>
+        <text>conso</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICByZW5kZXJUYWcgPSAodmFsdWUsIGluZGV4LCByZWNvcmQpID0+IHsKICAgIHJldHVybiA8YSBocmVmPSIjIiBvbkNsaWNrPXt0aGlzLnNob3dTZWFsTW9kYWwuYmluZCh0aGlzLCByZWNvcmQpfT57dmFsdWV9PC9hPjsKICB9Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHZhbHVlLCB0aGlzLnByb3BzLnN0YW5kYXJkcywgdGhpcy5wcm9wcy5zdGFuZGFyZHNbdmFsdWUudG9TdHJpbmcoKV0gICk7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coYWN0aW9uLnBheWxvYWQpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzMS5kYXRhKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHZhbHVlLCB0aGlzLnByb3BzLnN0YW5kYXJkcywgdGhpcy5wcm9wcy5zdGFuZGFyZHNbdmFsdWUudG9TdHJpbmcoKV0gICk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlczEpOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzMS5kYXRhKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy5wcm9wcy5zdGFuZGFyZHMpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlczEpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZ2V0U3RhbmRhcmRDYXNjYWRlcnMgfSBmcm9tICcuLi8uLi8uLi8uLi9hcGkvc3RhbmRhcmQnOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy5wcm9wcy5zdGFuZGFyZHMpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgZ2V0U3RhbmRhcmRDYXNjYWRlcnMgfSBmcm9tICcuLi8uLi8uLi8uLi9hcGkvc3RhbmRhcmQnOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMuc3RhbmRhcmRzKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMuc3RhbmRhcmRzKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB9Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action NextTab</text>
       </register>
     </registers>
     <search>
-      <last-search>console</last-search>
+      <last-search>conso</last-search>
       <last-offset />
-      <last-pattern>console</last-pattern>
+      <last-pattern>conso</last-pattern>
       <last-replace>right</last-replace>
       <last-substitute>getRight()</last-substitute>
       <last-dir>1</last-dir>
@@ -3268,7 +3268,6 @@
         <entry encoding="base64">XDxnZXREYXRhXD4=</entry>
         <entry encoding="base64">XDxzZXRGaWx0ZXJGb3JtXD4=</entry>
         <entry encoding="base64">XDxzZXRMb2FkaW5nXD4=</entry>
-        <entry>conso</entry>
         <entry>round</entry>
         <entry encoding="base64">XDxyb3VuZFw+</entry>
         <entry>component</entry>
@@ -3279,6 +3278,7 @@
         <entry encoding="base64">XDxzdGFuZGFyZHNcPg==</entry>
         <entry encoding="base64">XDx2YWx1ZVw+</entry>
         <entry>console</entry>
+        <entry>conso</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2RldGVjdC9yZXBhaXIvZ2M=</entry>
