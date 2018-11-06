@@ -722,11 +722,11 @@
         <mark key="." line="15" column="6" />
         <mark key="^" line="15" column="6" />
       </file>
-      <file name="C:/code/voc_ice/src/layouts/HeaderFooterLayout/HeaderFooterLayout.jsx" timestamp="1541503207212">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="46" />
-        <mark key="^" line="40" column="89" />
-        <mark key="." line="5" column="0" />
+      <file name="C:/code/voc_ice/src/layouts/HeaderFooterLayout/HeaderFooterLayout.jsx" timestamp="1541506120301">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="^" line="58" column="5" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="C:/code/voc_ice/src/components/Upload/Upload.js" timestamp="1538475346048">
         <mark key="'" line="48" column="0" />
@@ -3079,8 +3079,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>Component, props</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHRoaXMuY2hlY2tUb2tlbigpOwo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -3187,7 +3187,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Component, props</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSb3V0ZXJcPg==</text>
@@ -3196,31 +3196,31 @@
         <text encoding="base64">ICAgIEBHZXRNYXBwaW5nKCIve2lkfSIpCiAgICBwdWJsaWMgUmVzdWx0IGdldEJ5SWQoQFBhdGhWYXJpYWJsZSBMb25nIGlkKSB7CiAgICAgICAgcmV0dXJuIG5ldyBSZXN1bHQ8PihpTGRhclN0YW5kYXJkU2VydmljZS5nZXRCeUlkKGlkKSk7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmICghcHJvcHMuaXNBdXRoZW50aWNhdGVkKSB7Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuY2hlY2tUb2tlbigpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgPGRpdj4KICAgICAgICB7IHRoaXMuc3RhdGUubG9hZGluZyA/CiAgICAgICAgICA8TG9hZGluZyBzaGFwZT0iZG90LWNpcmNsZSIgc3R5bGU9e3N0eWxlcy5sb2FkaW5nfSBjb2xvcj0iIzAwQkZGRiIgdGlwPSK809TY1tAuLi4iIC8+IDoKICAgICAgICAgIDxMYXlvdXQgY2xhc3NOYW1lPSJoZWFkZXItZm9vdGVyLWxheW91dCI+CiAgICAgICAgICAgIDxIZWFkZXIgLz4KICAgICAgICAgICAgPGRpdiBzdHlsZT17c3R5bGVzLm1haW5Db250ZW50fT57dGhpcy5wcm9wcy5jaGlsZHJlbn08L2Rpdj4KICAgICAgICAgICAgPEZvb3RlciAvPgogICAgICAgICAgPC9MYXlvdXQ+CiAgICAgICAgfQogICAgICA8L2Rpdj4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgd2l0aFJvdXRlciB9IGZyb20gJ3JlYWN0LXJvdXRlci1kb20nOwo=</text>
+        <text encoding="base64">ICAgICAgPENvbXBvbmVudCB7Li4ucHJvcHN9Lz4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgIGlmICghcHJvcHMuaXNBdXRoZW50aWNhdGVkKSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuc3RlcmVvdHlwZS5Db250cm9sbGVyOwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBQb3N0TWFwcGluZygiL2dldCIpCiAgICBwdWJsaWMgUmVzdWx0IGdldChATm90TnVsbCBAUmVxdWVzdEJvZHkgUGFnZTxEZWxheVJlcGFpcj4gcGFnZSwgRGVsYXlSZXBhaXIgcmVwYWlyLAogICAgICAgICAgICAgICAgICAgICAgQE51bGxhYmxlIExpc3Q8UGFpcjxTdHJpbmcsIEJvb2xlYW4+PiBzb3J0cykgewogICAgICAgcmV0dXJuIG5ldyBSZXN1bHQ8PihpRGVsYXlSZXBhaXJTZXJ2aWNlLmdldFBhZ2UocGFnZSwgcmVwYWlyLCBzb3J0cykpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLmJpbmQuYW5ub3RhdGlvbi5HZXRNYXBwaW5nOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgd2l0aFJvdXRlciB9IGZyb20gJ3JlYWN0LXJvdXRlci1kb20nOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGJlZ2luICE9IG51bGwgJiYgZW5kICE9IG51bGwpIHsKICAgICAgICAgICAgICAgIGV3LmJldHdlZW4oZmllbGQsIGJlZ2luLCBlbmQpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
