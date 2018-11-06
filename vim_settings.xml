@@ -2116,12 +2116,12 @@
         <mark key="^" line="112" column="15" />
         <mark key="." line="112" column="46" />
       </file>
-      <file name="C:/code/voc/src/main/resources/mapper/StatisticMapper.xml" timestamp="1541059702296">
-        <mark key="'" line="84" column="30" />
-        <mark key="[" line="106" column="64" />
-        <mark key="]" line="106" column="69" />
-        <mark key="." line="106" column="69" />
-        <mark key="^" line="106" column="69" />
+      <file name="C:/code/voc/src/main/resources/mapper/StatisticMapper.xml" timestamp="1541474450173">
+        <mark key="'" line="125" column="0" />
+        <mark key="[" line="125" column="0" />
+        <mark key="]" line="156" column="45" />
+        <mark key="." line="125" column="0" />
+        <mark key="^" line="123" column="7" />
       </file>
       <file name="C:/code/voc/src/main/java/com/cnvoc/voc/common/Pair.java" timestamp="1541052341921">
         <mark key="'" line="49" column="17" />
@@ -2870,10 +2870,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="25" filename="C:/code/voc_ice/src/pages/SealStatistic/SealStatistic.js" />
-      <jump line="101" column="17" filename="C:/code/voc_ice/src/pages/SealStatistic/SealStatistic.js" />
-      <jump line="170" column="26" filename="C:/code/voc_ice/src/pages/SealStatistic/SealStatistic.js" />
-      <jump line="222" column="35" filename="C:/code/voc_ice/src/pages/SealStatistic/SealStatistic.js" />
       <jump line="237" column="76" filename="C:/code/voc_ice/src/pages/SealStatistic/SealStatistic.js" />
       <jump line="243" column="2" filename="C:/code/voc_ice/src/pages/SealStatistic/SealStatistic.js" />
       <jump line="11" column="7" filename="C:/code/voc_ice/src/pages/SealStatistic/SealStatistic.js" />
@@ -2970,6 +2966,10 @@
       <jump line="186" column="0" filename="C:/code/voc_ice/src/pages/DetectionRangeStatistic/DetectionRangeStatistic.js" />
       <jump line="229" column="35" filename="C:/code/voc_ice/src/pages/SealStatistic/SealStatistic.js" />
       <jump line="48" column="44" filename="C:/code/voc/src/main/java/com/cnvoc/voc/web/LdarTurnController.java" />
+      <jump line="123" column="13" filename="C:/code/voc/src/main/resources/mapper/StatisticMapper.xml" />
+      <jump line="122" column="25" filename="C:/code/voc/src/main/resources/mapper/StatisticMapper.xml" />
+      <jump line="126" column="25" filename="C:/code/voc/src/main/resources/mapper/StatisticMapper.xml" />
+      <jump line="125" column="0" filename="C:/code/voc/src/main/resources/mapper/StatisticMapper.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2993,7 +2993,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgU0VMRUNUCiAgICAgICAgICBpbnN0YWxsLnVuaXRfaWQgdW5pdElkLAogICAgICAgICAgaW5zdGFsbC5pZCBpbnN0YWxsSWQsCiAgICAgICAgICBDT1VOVChESVNUSU5DVCBjb21wb25lbnQuaWQpIGNvbXBvbmVudHMsCiAgICAgICAgICBDT1VOVChESVNUSU5DVCBzZWFsLmlkKSBzZWFscywKICAgICAgICAgIENPVU5UKERJU1RJTkNUIGRldGVjdGlvbi5pZCkgZGV0ZWN0aW9ucywKICAgICAgICAgIENPVU5UKAogICAgICAgICAgICBESVNUSU5DVCBDQVNFCiAgICAgICAgICAgICAgV0hFTiBkZXRlY3Rpb24ubGVha2luZyA9IDEKICAgICAgICAgICAgICBUSEVOIGRldGVjdGlvbi5pZAogICAgICAgICAgICAgIEVMU0UgTlVMTAogICAgICAgICAgICBFTkQKICAgICAgICAgICkgbGVha2luZ3MsCiAgICAgICAgICBDT1VOVCgKICAgICAgICAgICAgRElTVElOQ1QgQ0FTRQogICAgICAgICAgICAgIFdIRU4gcmVwYWlyLmxlYWtpbmcgPSAwCiAgICAgICAgICAgICAgVEhFTiByZXBhaXIuaWQKICAgICAgICAgICAgICBFTFNFIE5VTEwKICAgICAgICAgICAgRU5ECiAgICAgICAgICApIHJlcGFpcmVkCiAgICAgICAgRlJPTQogICAgICAgICAgYGluc3RhbGxgCiAgICAgICAgICBMRUZUIEpPSU4gY29tcG9uZW50CiAgICAgICAgICAgIE9OIGNvbXBvbmVudC5pbnN0YWxsX2lkID0gaW5zdGFsbC5pZAogICAgICAgICAgTEVGVCBKT0lOIHNlYWwKICAgICAgICAgICAgT04gc2VhbC5pbnN0YWxsX2lkID0gaW5zdGFsbC5pZAogICAgICAgICAgTEVGVCBKT0lOIGRldGVjdGlvbgogICAgICAgICAgICBPTiBkZXRlY3Rpb24uc2VhbF9pZCA9IHNlYWwuaWQKICAgICAgICAgIExFRlQgSk9JTiBgcmVwYWlyYAogICAgICAgICAgICBPTiByZXBhaXIuZGV0ZWN0aW9uX2lkID0gZGV0ZWN0aW9uLmlkCiAgICAgICAgICBXSEVSRSBpbnN0YWxsLmZhY3RvcnlfaWQgPSAje2ZhY3RvcnlJZH0KICAgICAgICBHUk9VUCBCWSBpbnN0YWxsLnVuaXRfaWQsIGluc3RhbGwuaWQ7Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -3100,7 +3100,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>内容筛选</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyb3VuZFw+</text>
@@ -3109,10 +3109,10 @@
         <text encoding="base64">ICAgICAgICA8L0ljZUNvbnRhaW5lcj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">LS0gICAgICAgICBTRUxFQ1QKICAgICAgICAgIGluc3RhbGwudW5pdF9pZCB1bml0SWQsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPGRpdj4K</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
@@ -3121,19 +3121,19 @@
         <text encoding="base64">ICAgICAgPGRpdj4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPGRpdiBjbGFzc05hbWU9InNlbGVjdGFibGUtdGFibGUiIHN0eWxlPXtzdHlsZXMuc2VsZWN0YWJsZVRhYmxlfT4K</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgPGRpdj4K</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgPGRpdiBjbGFzc05hbWU9InNlbGVjdGFibGUtdGFibGUiIHN0eWxlPXtzdHlsZXMuc2VsZWN0YWJsZVRhYmxlfT4K</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPGRpdj4K</text>
       </register>
       <register name=":" type="4">
         <text>action NextTab</text>
