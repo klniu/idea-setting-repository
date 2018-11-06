@@ -1586,12 +1586,12 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="7" column="40" />
       </file>
-      <file name="C:/code/voc_ice/src/pages/ComponentPage/components/ComponentTable/ComponentTable.jsx" timestamp="1540965556031">
-        <mark key="'" line="232" column="0" />
-        <mark key="[" line="124" column="0" />
-        <mark key="]" line="127" column="4" />
-        <mark key="." line="223" column="0" />
-        <mark key="^" line="212" column="33" />
+      <file name="C:/code/voc_ice/src/pages/ComponentPage/components/ComponentTable/ComponentTable.jsx" timestamp="1541490158440">
+        <mark key="'" line="200" column="38" />
+        <mark key="[" line="236" column="0" />
+        <mark key="]" line="236" column="0" />
+        <mark key="^" line="236" column="11" />
+        <mark key="." line="236" column="0" />
       </file>
       <file name="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/RactorsCalculator.java" timestamp="1540351116565">
         <mark key="[" line="57" column="29" />
@@ -2886,15 +2886,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="170" column="26" filename="C:/code/voc_ice/src/pages/SealStatistic/SealStatistic.js" />
-      <jump line="222" column="35" filename="C:/code/voc_ice/src/pages/SealStatistic/SealStatistic.js" />
-      <jump line="237" column="76" filename="C:/code/voc_ice/src/pages/SealStatistic/SealStatistic.js" />
-      <jump line="243" column="2" filename="C:/code/voc_ice/src/pages/SealStatistic/SealStatistic.js" />
-      <jump line="11" column="7" filename="C:/code/voc_ice/src/pages/SealStatistic/SealStatistic.js" />
-      <jump line="53" column="8" filename="C:/code/voc_ice/src/pages/SealStatistic/SealStatistic.js" />
-      <jump line="55" column="10" filename="C:/code/voc_ice/src/pages/SealStatistic/SealStatistic.js" />
-      <jump line="59" column="12" filename="C:/code/voc_ice/src/pages/SealStatistic/SealStatistic.js" />
-      <jump line="52" column="18" filename="C:/code/voc_ice/src/pages/SealStatistic/SealStatistic.js" />
       <jump line="54" column="8" filename="C:/code/voc_ice/src/pages/SealStatistic/SealStatistic.js" />
       <jump line="56" column="10" filename="C:/code/voc_ice/src/pages/SealStatistic/SealStatistic.js" />
       <jump line="60" column="12" filename="C:/code/voc_ice/src/pages/SealStatistic/SealStatistic.js" />
@@ -2986,6 +2977,15 @@
       <jump line="233" column="56" filename="C:/code/voc_ice/src/pages/SealStatistic/SealStatistic.js" />
       <jump line="282" column="34" filename="C:/code/voc_ice/src/pages/SealStatistic/SealStatistic.js" />
       <jump line="352" column="5" filename="C:/code/voc_ice/src/pages/SealStatistic/SealStatistic.js" />
+      <jump line="179" column="9" filename="C:/code/voc_ice/src/pages/ComponentPage/components/ComponentTable/ComponentTable.jsx" />
+      <jump line="183" column="34" filename="C:/code/voc_ice/src/pages/ComponentPage/components/ComponentTable/ComponentTable.jsx" />
+      <jump line="185" column="128" filename="C:/code/voc_ice/src/pages/ComponentPage/components/ComponentTable/ComponentTable.jsx" />
+      <jump line="186" column="10" filename="C:/code/voc_ice/src/pages/ComponentPage/components/ComponentTable/ComponentTable.jsx" />
+      <jump line="187" column="9" filename="C:/code/voc_ice/src/pages/ComponentPage/components/ComponentTable/ComponentTable.jsx" />
+      <jump line="191" column="34" filename="C:/code/voc_ice/src/pages/ComponentPage/components/ComponentTable/ComponentTable.jsx" />
+      <jump line="192" column="36" filename="C:/code/voc_ice/src/pages/ComponentPage/components/ComponentTable/ComponentTable.jsx" />
+      <jump line="195" column="10" filename="C:/code/voc_ice/src/pages/ComponentPage/components/ComponentTable/ComponentTable.jsx" />
+      <jump line="218" column="38" filename="C:/code/voc_ice/src/pages/ComponentPage/components/ComponentTable/ComponentTable.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3008,8 +3008,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>true</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2hvdWxkVXBkYXRlUG9zaXRpb24KICAgICAgICAgICAgbWluTWFyZ2luPXsxMH0K</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -3119,28 +3119,28 @@
         <text>true</text>
       </register>
       <register name="/" type="4">
-        <text>loading</text>
+        <text>Dialog</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHRoaXMucHJvcHMuc2V0TG9hZGluZyh0cnVlKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXNMb2FkaW5nPXt0aGlzLnByb3BzLmxvYWRpbmd9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2hvdWxkVXBkYXRlUG9zaXRpb24KICAgICAgICAgICAgbWluTWFyZ2luPXsxMH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxEaWFsb2cKICAgICAgICAgICAgY2xhc3NOYW1lPSJjb21wbGV4LWRpYWxvZyIKICAgICAgICAgICAgZm9vdGVyPXt0aGlzLnJlbmRlclNlYWxzTW9kYWxGb290ZXIoKX0KICAgICAgICAgICAgb25DbG9zZT17dGhpcy5oaWRlU2VhbE1vZGFsfQogICAgICAgICAgICB2aXNpYmxlPXt0aGlzLnN0YXRlLnNlYWxEaWFsb2dWaXNpYmxlfQogICAgICAgICAgPgogICAgICAgICAgICA8U2VhbFRhYmxlIGNvbXBvbmVudElkPXt0aGlzLnN0YXRlLmN1cnJlbnRDb21wb25lbnQgJiYgdGhpcy5zdGF0ZS5jdXJyZW50Q29tcG9uZW50LmlkfSB0aXRsZT17YMPct+K148fltaWjuiR7dGhpcy5zdGF0ZS5zZWFsRGlhbG9nVGl0bGV9YH0gLz4KICAgICAgICAgIDwvRGlhbG9nPgogICAgICAgICAgPERpYWxvZwogICAgICAgICAgICBjbGFzc05hbWU9ImNvbXBsZXgtZGlhbG9nIgogICAgICAgICAgICBmb290ZXI9ezxkaXYgLz59CiAgICAgICAgICAgIHRpdGxlPSLJz7Sr1+m8/iIKICAgICAgICAgICAgb25DbG9zZT17dGhpcy5oaWRlVXBsb2FkRGlhbG9nfQogICAgICAgICAgICB2aXNpYmxlPXt0aGlzLnN0YXRlLnVwbG9hZERpYWxvZ1Zpc2libGV9CiAgICAgICAgICA+CiAgICAgICAgICAgIDxGZWVkYmFja1VwbG9hZCBhY2NlcHQ9Ii54bHN4IiBhY3Rpb249Ii9hcGkvc2VhbC91cGxvYWQvZXhjZWwiIC8+CiAgICAgICAgICA8L0RpYWxvZz4KICAgICAgICAgIDxQaG90b1ZpZXcgY29tcG9uZW50PXt0aGlzLnN0YXRlLmN1cnJlbnRDb21wb25lbnR9IG9uQ2xvc2U9e3RoaXMuY2xvc2VJbWFnZX0gdmlzaWJsZT17dGhpcy5zdGF0ZS5waG90b1Zpc2libGV9IC8+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPGRpdj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWluTWFyZ2luPXs4MH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXNMb2FkaW5nPXt0aGlzLnByb3BzLmxvYWRpbmd9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPGRpdj4K</text>
+        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgPGRpdiBjbGFzc05hbWU9InNlbGVjdGFibGUtdGFibGUiIHN0eWxlPXtzdHlsZXMuc2VsZWN0YWJsZVRhYmxlfT4K</text>
+        <text encoding="base64">ICAgICAgPGRpdj4K</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
@@ -3149,16 +3149,16 @@
         <text encoding="base64">ICAgICAgPGRpdj4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgPGRpdiBjbGFzc05hbWU9InNlbGVjdGFibGUtdGFibGUiIHN0eWxlPXtzdHlsZXMuc2VsZWN0YWJsZVRhYmxlfT4K</text>
       </register>
       <register name=":" type="4">
         <text>action NextTab</text>
       </register>
     </registers>
     <search>
-      <last-search>loading</last-search>
+      <last-search>Dialog</last-search>
       <last-offset />
-      <last-pattern>loading</last-pattern>
+      <last-pattern>Dialog</last-pattern>
       <last-replace>right</last-replace>
       <last-substitute>getRight()</last-substitute>
       <last-dir>1</last-dir>
@@ -3166,7 +3166,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxuYW1lXD4=</entry>
         <entry>seal</entry>
         <entry encoding="base64">XDxzZWFsRGF0YVw+</entry>
         <entry>sealtypes</entry>
@@ -3186,6 +3185,7 @@
         <entry>round</entry>
         <entry encoding="base64">XDxyb3VuZFw+</entry>
         <entry>loading</entry>
+        <entry>Dialog</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2RldGVjdC9yZXBhaXIvZ2M=</entry>
