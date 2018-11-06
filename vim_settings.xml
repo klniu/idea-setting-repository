@@ -1062,12 +1062,12 @@
         <mark key="^" line="35" column="2" />
         <mark key="." line="35" column="2" />
       </file>
-      <file name="C:/code/pyutils/voc/dagu/dagu_api.py" timestamp="1541493192824">
+      <file name="C:/code/pyutils/voc/dagu/dagu_api.py" timestamp="1541518227604">
         <mark key="'" line="4" column="4" />
-        <mark key="[" line="144" column="19" />
-        <mark key="]" line="144" column="21" />
-        <mark key="." line="144" column="21" />
-        <mark key="^" line="144" column="21" />
+        <mark key="[" line="163" column="4" />
+        <mark key="]" line="163" column="4" />
+        <mark key="." line="163" column="4" />
+        <mark key="^" line="161" column="5" />
       </file>
       <file name="$USER_HOME$/code/LuckyCoinContract/contracts/LuckyCoin_V0.sol" timestamp="1532826936195">
         <mark key="'" line="3" column="25" />
@@ -1824,12 +1824,6 @@
         <mark key="^" line="245" column="6" />
         <mark key="." line="100" column="0" />
       </file>
-      <file name="C:/code/voc/src/test/java/com/cnvoc/voc/service/impl/RepairServiceImplTest.java" timestamp="1541298501833">
-        <mark key="'" line="228" column="41" />
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="0" />
-        <mark key="." line="85" column="0" />
-      </file>
       <file name="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/LdarStandardServiceImplTest.java" timestamp="1523759140585">
         <mark key="'" line="104" column="8" />
         <mark key="[" line="32" column="11" />
@@ -2278,6 +2272,12 @@
         <mark key="." line="79" column="22" />
         <mark key="^" line="79" column="22" />
       </file>
+      <file name="C:/code/pyutils/voc/voc_api.py" timestamp="1541518000612">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="25" />
+        <mark key="^" line="49" column="23" />
+        <mark key="." line="57" column="0" />
+      </file>
       <file name="D:/code/web/voc-delon/src/app/core/startup/startup.service.ts" timestamp="1526527247859">
         <mark key="'" line="55" column="12" />
         <mark key="[" line="26" column="0" />
@@ -2713,12 +2713,6 @@
         <mark key="^" line="98" column="9" />
         <mark key="." line="98" column="9" />
       </file>
-      <file name="C:/code/voc/src/main/resources/mapper/RepairMapper.xml" timestamp="1541302283191">
-        <mark key="'" line="4" column="63" />
-        <mark key="[" line="7" column="62" />
-        <mark key="]" line="7" column="62" />
-        <mark key="." line="7" column="62" />
-      </file>
       <file name="$USER_HOME$/Downloads/index.html" timestamp="1528963420792">
         <mark key="'" line="5870" column="802" />
         <mark key="[" line="5870" column="802" />
@@ -3094,8 +3088,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -3202,13 +3196,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>admin</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>turn</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBHZXRNYXBwaW5nKCIve2lkfSIpCiAgICBwdWJsaWMgUmVzdWx0IGdldEJ5SWQoQFBhdGhWYXJpYWJsZSBMb25nIGlkKSB7CiAgICAgICAgcmV0dXJuIG5ldyBSZXN1bHQ8PihpTGRhclN0YW5kYXJkU2VydmljZS5nZXRCeUlkKGlkKSk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGltZS5zbGVlcCgxKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -3248,7 +3242,7 @@
       <last-replace>right</last-replace>
       <last-substitute>getRight()</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
