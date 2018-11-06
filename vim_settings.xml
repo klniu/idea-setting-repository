@@ -1223,6 +1223,9 @@
         <mark key="." line="127" column="14" />
         <mark key="^" line="118" column="31" />
       </file>
+      <file name="C:/code/voc_ice/src/router.jsx" timestamp="1541503844226">
+        <mark key="'" line="3" column="23" />
+      </file>
       <file name="C:/code/voc/src/test/java/com/cnvoc/voc/service/impl/StaticticServiceImplTest.java" timestamp="1541055165548">
         <mark key="'" line="58" column="59" />
         <mark key="[" line="94" column="22" />
@@ -2958,9 +2961,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="360" column="10" filename="C:/code/voc_ice/package-lock.json" />
-      <jump line="41" column="12" filename="C:/code/ice-master/react-materials/blocks/ReviewDataChart/src/ReviewDataChart.jsx" />
-      <jump line="89" column="19" filename="C:/code/voc_ice/src/utils/helpers.js" />
       <jump line="1" column="34" filename="C:/code/voc_ice/src/utils/helpers.js" />
       <jump line="0" column="0" filename="C:/code/ice-master/react-materials/blocks/RealTimeData/src/RealTimeData.jsx" />
       <jump line="14" column="54" filename="C:/code/voc_ice/src/api/index.js" />
@@ -3058,6 +3058,9 @@
       <jump line="41" column="44" filename="C:/code/voc/src/main/java/com/cnvoc/voc/web/LdarStandardController.java" />
       <jump line="36" column="25" filename="C:/code/voc/src/main/java/com/cnvoc/voc/web/LdarStandardController.java" />
       <jump line="85" column="39" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/InstallServiceImpl.java" />
+      <jump line="115" column="57" filename="C:/code/voc_ice/src/router.jsx" />
+      <jump line="117" column="40" filename="C:/code/voc_ice/src/router.jsx" />
+      <jump line="3" column="23" filename="C:/code/voc_ice/src/router.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3191,7 +3194,7 @@
         <text>/</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZXBhaXJzXD4=</text>
+        <text encoding="base64">XDxSb3V0ZXJcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBHZXRNYXBwaW5nKCIve2lkfSIpCiAgICBwdWJsaWMgUmVzdWx0IGdldEJ5SWQoQFBhdGhWYXJpYWJsZSBMb25nIGlkKSB7CiAgICAgICAgcmV0dXJuIG5ldyBSZXN1bHQ8PihpTGRhclN0YW5kYXJkU2VydmljZS5nZXRCeUlkKGlkKSk7CiAgICB9Cg==</text>
@@ -3228,18 +3231,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZXBhaXJzXD4=</last-search>
+      <last-search encoding="base64">XDxSb3V0ZXJcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZXBhaXJzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxSb3V0ZXJcPg==</last-pattern>
       <last-replace>right</last-replace>
       <last-substitute>getRight()</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxuYW1lXD4=</entry>
-        <entry>seal</entry>
         <entry encoding="base64">XDxzZWFsRGF0YVw+</entry>
         <entry>sealtypes</entry>
         <entry>ice</entry>
@@ -3258,6 +3259,8 @@
         <entry>round</entry>
         <entry encoding="base64">XDxyb3VuZFw+</entry>
         <entry encoding="base64">XDxyZXBhaXJzXD4=</entry>
+        <entry>history</entry>
+        <entry encoding="base64">XDxSb3V0ZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2dldCgwKS9nZXQoMSkvZ2M=</entry>
