@@ -1061,12 +1061,12 @@
         <mark key="^" line="35" column="2" />
         <mark key="." line="35" column="2" />
       </file>
-      <file name="C:/code/pyutils/voc/dagu/dagu_api.py" timestamp="1541513348886">
-        <mark key="'" line="97" column="62" />
-        <mark key="[" line="134" column="0" />
-        <mark key="]" line="134" column="102" />
-        <mark key="." line="94" column="64" />
-        <mark key="^" line="94" column="64" />
+      <file name="C:/code/pyutils/voc/dagu/dagu_api.py" timestamp="1541514809533">
+        <mark key="'" line="172" column="16" />
+        <mark key="[" line="172" column="4" />
+        <mark key="]" line="172" column="4" />
+        <mark key="." line="172" column="4" />
+        <mark key="^" line="161" column="5" />
       </file>
       <file name="$USER_HOME$/code/LuckyCoinContract/contracts/LuckyCoin_V0.sol" timestamp="1532826936195">
         <mark key="'" line="3" column="25" />
@@ -2271,11 +2271,12 @@
         <mark key="." line="79" column="22" />
         <mark key="^" line="79" column="22" />
       </file>
-      <file name="C:/code/pyutils/voc/voc_api.py" timestamp="1541512046288">
+      <file name="C:/code/pyutils/voc/voc_api.py" timestamp="1541515256143">
         <mark key="'" line="108" column="8" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="32" column="35" />
-        <mark key="." line="45" column="0" />
+        <mark key="[" line="185" column="41" />
+        <mark key="]" line="185" column="50" />
+        <mark key="." line="185" column="50" />
+        <mark key="^" line="185" column="50" />
       </file>
       <file name="D:/code/web/voc-delon/src/app/core/startup/startup.service.ts" timestamp="1526527247859">
         <mark key="'" line="55" column="12" />
@@ -2971,7 +2972,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="9" filename="C:/code/voc_ice/src/pages/SealStatistic/SealStatistic.js" />
       <jump line="60" column="0" filename="C:/code/voc/src/test/java/com/cnvoc/voc/service/impl/StaticticServiceImplTest.java" />
       <jump line="442" column="23" filename="C:/code/voc/src/main/java/com/cnvoc/voc/common/Function.java" />
       <jump line="18" column="37" filename="C:/code/voc/src/main/java/com/cnvoc/voc/common/Function.java" />
@@ -3071,6 +3071,7 @@
       <jump line="108" column="8" filename="C:/code/pyutils/voc/voc_api.py" />
       <jump line="89" column="23" filename="C:/code/pyutils/voc/dagu/dagu_api.py" />
       <jump line="97" column="62" filename="C:/code/pyutils/voc/dagu/dagu_api.py" />
+      <jump line="172" column="16" filename="C:/code/pyutils/voc/dagu/dagu_api.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3093,8 +3094,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHsiZmFjdG9yeUlkIjogZmFjdG9yeV9pZCwgInN0YW5kYXJkSWQiOiAiMTAwMSIsICJubyI6IDUsICJuYW1lIjogIrjfyMjCryIsICJjb2RlIjogIkdSTCIsCg==</text>
+      <register name="&quot;" type="4">
+        <text>factory_id</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -3201,7 +3202,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>factory_id</text>
       </register>
       <register name="/" type="4">
         <text>&quot;standardId&quot;: &quot;2&quot;</text>
