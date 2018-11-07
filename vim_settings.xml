@@ -2209,12 +2209,12 @@
         <mark key="^" line="112" column="15" />
         <mark key="." line="112" column="46" />
       </file>
-      <file name="C:/code/voc/src/main/resources/mapper/StatisticMapper.xml" timestamp="1541423456003">
+      <file name="C:/code/voc/src/main/resources/mapper/StatisticMapper.xml" timestamp="1541565285912">
         <mark key="'" line="84" column="30" />
-        <mark key="[" line="123" column="8" />
-        <mark key="]" line="154" column="44" />
-        <mark key="." line="106" column="69" />
-        <mark key="^" line="106" column="69" />
+        <mark key="[" line="83" column="69" />
+        <mark key="]" line="83" column="69" />
+        <mark key="." line="83" column="69" />
+        <mark key="^" line="83" column="69" />
       </file>
       <file name="C:/code/voc/src/main/java/com/cnvoc/voc/common/Pair.java" timestamp="1541052341921">
         <mark key="'" line="49" column="17" />
@@ -2864,6 +2864,7 @@
         <mark key="." line="70" column="0" />
         <mark key="^" line="70" column="52" />
       </file>
+      <file name="C:/code/voc/src/test/java/com/cnvoc/voc/service/impl/StatisticServiceImplTest.java" timestamp="1541565035462" />
       <file name="D:/code/web/voc-web/src/app/routes/base/setting/photo-number.component.html" timestamp="1520047977134">
         <mark key="'" line="41" column="62" />
         <mark key="[" line="41" column="62" />
@@ -3096,7 +3097,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>s.get(i-1)</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -3203,7 +3204,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>s.get(i-1)</text>
       </register>
       <register name="/" type="4">
         <text>turn</text>
