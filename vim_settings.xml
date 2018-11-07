@@ -1059,12 +1059,12 @@
         <mark key="^" line="35" column="2" />
         <mark key="." line="35" column="2" />
       </file>
-      <file name="C:/code/pyutils/voc/dagu/dagu_api.py" timestamp="1541554479504">
+      <file name="C:/code/pyutils/voc/dagu/dagu_api.py" timestamp="1541558338461">
         <mark key="'" line="4" column="4" />
-        <mark key="[" line="168" column="4" />
-        <mark key="]" line="168" column="4" />
-        <mark key="^" line="165" column="5" />
-        <mark key="." line="168" column="4" />
+        <mark key="[" line="13" column="8" />
+        <mark key="]" line="13" column="8" />
+        <mark key="^" line="168" column="5" />
+        <mark key="." line="13" column="8" />
       </file>
       <file name="$USER_HOME$/code/LuckyCoinContract/contracts/LuckyCoin_V0.sol" timestamp="1532826936195">
         <mark key="'" line="3" column="25" />
@@ -2269,11 +2269,11 @@
         <mark key="." line="79" column="22" />
         <mark key="^" line="79" column="22" />
       </file>
-      <file name="C:/code/pyutils/voc/voc_api.py" timestamp="1541554887881">
-        <mark key="[" line="187" column="26" />
-        <mark key="]" line="187" column="29" />
-        <mark key="." line="187" column="29" />
-        <mark key="^" line="187" column="29" />
+      <file name="C:/code/pyutils/voc/voc_api.py" timestamp="1541557179052">
+        <mark key="'" line="201" column="27" />
+        <mark key="[" line="207" column="0" />
+        <mark key="]" line="207" column="0" />
+        <mark key="." line="207" column="0" />
       </file>
       <file name="D:/code/web/voc-delon/src/app/core/startup/startup.service.ts" timestamp="1526527247859">
         <mark key="'" line="55" column="12" />
@@ -2963,13 +2963,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="442" column="23" filename="C:/code/voc/src/main/java/com/cnvoc/voc/common/Function.java" />
-      <jump line="18" column="37" filename="C:/code/voc/src/main/java/com/cnvoc/voc/common/Function.java" />
-      <jump line="43" column="17" filename="C:/code/voc/src/main/java/com/cnvoc/voc/common/Function.java" />
-      <jump line="106" column="68" filename="C:/code/voc/src/main/java/com/cnvoc/voc/common/Function.java" />
-      <jump line="327" column="14" filename="C:/code/voc/src/main/java/com/cnvoc/voc/common/Function.java" />
-      <jump line="330" column="62" filename="C:/code/voc/src/main/java/com/cnvoc/voc/common/Function.java" />
-      <jump line="334" column="74" filename="C:/code/voc/src/main/java/com/cnvoc/voc/common/Function.java" />
       <jump line="346" column="14" filename="C:/code/voc/src/main/java/com/cnvoc/voc/common/Function.java" />
       <jump line="349" column="85" filename="C:/code/voc/src/main/java/com/cnvoc/voc/common/Function.java" />
       <jump line="350" column="45" filename="C:/code/voc/src/main/java/com/cnvoc/voc/common/Function.java" />
@@ -3063,6 +3056,13 @@
       <jump line="123" column="32" filename="C:/code/pyutils/voc/dagu/dagu_api.py" />
       <jump line="144" column="21" filename="C:/code/pyutils/voc/dagu/dagu_api.py" />
       <jump line="4" column="4" filename="C:/code/pyutils/voc/dagu/dagu_api.py" />
+      <jump line="197" column="78" filename="C:/code/pyutils/voc/voc_api.py" />
+      <jump line="16" column="31" filename="C:/code/pyutils/voc/voc_api.py" />
+      <jump line="56" column="35" filename="C:/code/pyutils/voc/voc_api.py" />
+      <jump line="85" column="41" filename="C:/code/pyutils/voc/voc_api.py" />
+      <jump line="86" column="38" filename="C:/code/pyutils/voc/voc_api.py" />
+      <jump line="119" column="58" filename="C:/code/pyutils/voc/voc_api.py" />
+      <jump line="201" column="27" filename="C:/code/pyutils/voc/voc_api.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3085,8 +3085,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>;</text>
+      <register name="&quot;" type="8">
+        <text encoding="base64">IyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyA=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -3193,57 +3193,56 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>turn</text>
+        <text>dict</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBHZXRNYXBwaW5nKCIve2lkfSIpCiAgICBwdWJsaWMgUmVzdWx0IGdldEJ5SWQoQFBhdGhWYXJpYWJsZSBMb25nIGlkKSB7CiAgICAgICAgcmV0dXJuIG5ldyBSZXN1bHQ8PihpTGRhclN0YW5kYXJkU2VydmljZS5nZXRCeUlkKGlkKSk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNlbGYuX3JlcXVlc3QodHlwZSwgKipwYXJhbSkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="1" type="8">
+        <text encoding="base64">IyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyA=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
+        <text encoding="base64">ICAgIHByaW50KHJlcy5jb250ZW50KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGVsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHBhcmFtKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGUxOgogICAgICAgICAgICBwcmludChlMSkKICAgICAgICAgICAgcmV0dXJuIHNlbGYuX3JlcXVlc3QocmVxX3R5cGUsICoqcGFyYW0pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocGFyYW0pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">SU5TRVJUIElOVE8gbGRhcl9zdGFuZGFyZCAoaWQsIG5hbWUsIGJ1aWx0X2luLCBmYWN0b3J5X2lkLCBkZXNjcmlwdGlvbikgVkFMVUVTCiAgKDEsICfKr9PNwbbWxrmk0rXO28i+zu/FxbfFserXvCcsIFRSVUUsIDAsICdHQiAzMTU3MC0yMDE1IMqv083BttbGuaTStc7byL7O78XFt8Wx6te8JyksCiAgKDIsICfKr9PNu6/Rp7mk0rXO28i+zu/FxbfFserXvCcsIFRSVUUsIDAsICdHQiAzMTU3MS0yMDE1IMqv0827r9GnuaTStc7byL7O78XFt8Wx6te8JyksCiAgKDMsICe6z7PJyvfWrLmk0rXO28i+zu/FxbfFserXvCcsIFRSVUUsIDAsICdHQiAzMTU3Mi0yMDE1IMqv0827r9GnuaTStc7byL7O78XFt8Wx6te8JyksCiAgKDQsICfM7L3yserXvCcsIEZBTFNFLCAxLCAnzOy98rHq17wnKSwKICAoNSwgJ8zsvfK12LHqJywgRkFMU0UsIDEsICfM7L3yserXvCcpLAogICg2LCAnv9W/x7mry76x6te8JywgRkFMU0UsIDEsICcnKTsKCklOU0VSVCBJTlRPIGxkYXJfcnVsZSAoaWQsIHN0YW5kYXJkX2lkLCBzZWFsX3R5cGUsIHNlcnZpY2UsIGNvbmNlbnRyYXRpb24sIHF1YW50X2ZyZXEsIG9naV9mcmVxLCBkZXNjcmlwdGlvbikKVkFMVUVTCiAgLS0gxvjM5aGix+HWytK6ILHDoaLRucv1u/qhorenw8Whor+qv9q53M/fu/K/qr/at6ehosb4zOUv1fTG+9C50bnJ6LG4oaLIodH5way908+1zbPDvzO49tTCvOyy4tK7tM4sIDIwMDAKICAoMSwgMSwgMjQ5LCAzMDcyLCA1MDAsIDkwLCAwLCAnJyksCiAgLS0gxvjM5aGix+HWytK6ILeowLy8sMbky/vBrL3TvP6hor3BsOjG96GixuTL/MPct+LJ6LG4w782uPbUwrzssuLSu7TOLCAyMDAwCiAgKDIsIDEsIDc3NCwgMzA3MiwgNTAwLCAxODAsIDAsICcnKSwKICAtLSDW2NbK0rogscOhotG5y/W7+qGit6fDxaGiv6q/2rncz9+78r+qv9q3p6GiyKHR+cGsvdPPtc2zw78zuPbUwrzssuLSu7TOLCAyMDAwCiAgKDMsIDEsIDIxNywgNDA5NiwgNTAwLCA5MCwgMCwgJycpLAogIC0tINbY1srSuiC3qMC8vLDG5Mv7way907z+oaK9wbDoxvehotC50bnJ6LG4oaLG5Mv8w9y34snosbjDvza49tTCvOyy4tK7tM4sINbY1srSujIwMDAKICAoNCwgMSwgODA2LCA0MDk2LCA1MDAsIDE4MCwgMCwgJycpLAoKICAtLSDG+MzloaLH4dbK0rogscOhotG5y/W7+qGit6fDxaGiv6q/2rncz9+78r+qv9q3p6GixvjM5S/V9Mb70LnRucnosbihosih0fnBrL3Tz7XNs8O/M7j21MK87LLi0ru0ziwgMjAwMAogICg1LCAyLCAyNDksIDMwNzIsIDUwMCwgOTAsIDAsICcnKSwKICAtLSDG+MzloaLH4dbK0rogt6jAvLywxuTL+8GsvdO8/qGivcGw6Mb3oaLG5Mv8w9y34snosbjDvza49tTCvOyy4tK7tM4sIDIwMDAKICAoNiwgMiwgNzc0LCAzMDcyLCA1MDAsIDE4MCwgMCwgJycpLAogIC0tINbY1srSuiCxw6Gi0bnL9bv6oaK3p8PFoaK/qr/audzP37vyv6q/2renoaLIodH5way908+1zbPDvzO49tTCvOyy4tK7tM4sIDIwMDAKICAoNywgMiwgMjE3LCA0MDk2LCA1MDAsIDkwLCAwLCAnJyksCiAgLS0g1tjWytK6ILeowLy8sMbky/vBrL3TvP6hor3BsOjG96Gi0LnRucnosbihosbky/zD3LfiyeixuMO/Nrj21MK87LLi0ru0ziwg1tjWytK6MjAwMAogICg4LCAyLCA4MDYsIDQwOTYsIDUwMCwgMTgwLCAwLCAnJyksCgogIC0tIMb4zOWhosfh1srSuiCxw6Gi0bnL9bv6oaK3p8PFoaK/qr/audzP37vyv6q/2renoaLG+MzlL9X0xvvQudG5yeixuKGiyKHR+cGsvdPPtc2zw78zuPbUwrzssuLSu7TOLCAyMDAwCiAgKDksIDMsIDI0OSwgMzA3MiwgNTAwLCA5MCwgMCwgJycpLAogIC0tIMb4zOWhosfh1srSuiC3qMC8vLDG5Mv7way907z+oaK9wbDoxvehosbky/zD3LfiyeixuMO/Nrj21MK87LLi0ru0ziwgMjAwMAogICgxMCwgMywgNzc0LCAzMDcyLCA1MDAsIDE4MCwgMCwgJycpLAogIC0tINbY1srSuiCxw6Gi0bnL9bv6oaK3p8PFoaK/qr/audzP37vyv6q/2renoaLIodH5way908+1zbPDvzO49tTCvOyy4tK7tM4sIDIwMDAKICAoMTEsIDMsIDIxNywgNDA5NiwgNTAwLCA5MCwgMCwgJycpLAogIC0tINbY1srSuiC3qMC8vLDG5Mv7way907z+oaK9wbDoxvehotC50bnJ6LG4oaLG5Mv8w9y34snosbjDvza49tTCvOyy4tK7tM4sINbY1srSujIwMDAKICAoMTIsIDMsIDgwNiwgNDA5NiwgNTAwLCAxODAsIDAsICcnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5Ogo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAoMSwgMSk7Cg==</text>
+        <text encoding="base64">ICAgIGVsCg==</text>
       </register>
       <register name=":" type="4">
         <text>action PreviousTab</text>
       </register>
     </registers>
     <search>
-      <last-search>turn</last-search>
+      <last-search>dict</last-search>
       <last-offset />
-      <last-pattern>turn</last-pattern>
+      <last-pattern>dict</last-pattern>
       <last-replace>right</last-replace>
       <last-substitute>getRight()</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>sealtypes</entry>
         <entry>ice</entry>
         <entry>console</entry>
         <entry encoding="base64">XDxzZWFsQ2hpbmVzZVw+</entry>
@@ -3263,6 +3262,7 @@
         <entry>deviceNo</entry>
         <entry encoding="base64">XDxhZGRSZXBhaXJCeURldGVjdGlvblw+</entry>
         <entry>turn</entry>
+        <entry>dict</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2dldCgwKS9nZXQoMSkvZ2M=</entry>
