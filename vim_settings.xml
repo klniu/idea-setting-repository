@@ -262,6 +262,12 @@
         <mark key="^" line="19" column="3" />
         <mark key="." line="19" column="3" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/webstorm64.exe.vmoptions" timestamp="1541138843032">
+        <mark key="[" line="3" column="4" />
+        <mark key="]" line="3" column="7" />
+        <mark key="." line="3" column="7" />
+        <mark key="^" line="3" column="7" />
+      </file>
       <file name="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/DelayRepairServiceImpl.java" timestamp="1541297033788">
         <mark key="'" line="241" column="40" />
         <mark key="[" line="267" column="63" />
@@ -615,12 +621,6 @@
         <mark key="." line="119" column="16" />
         <mark key="^" line="119" column="16" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" timestamp="1541138786504">
-        <mark key="[" line="0" column="4" />
-        <mark key="]" line="0" column="6" />
-        <mark key="." line="0" column="6" />
-        <mark key="^" line="0" column="6" />
-      </file>
       <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/ILdarStandardService.java" timestamp="1521030362892">
         <mark key="'" line="21" column="18" />
         <mark key="[" line="21" column="0" />
@@ -757,7 +757,7 @@
         <mark key="^" line="6" column="14" />
         <mark key="." line="6" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541669666004">
+      <file name="/Dummy.txt" timestamp="1541682476087">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -1445,6 +1445,12 @@
         <mark key="." line="12" column="19" />
         <mark key="^" line="12" column="19" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" timestamp="1541138786504">
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="0" column="6" />
+        <mark key="." line="0" column="6" />
+        <mark key="^" line="0" column="6" />
+      </file>
       <file name="D:/code/web/voc-delon/src/app/app.module.ts" timestamp="1526517217344">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="37" column="33" />
@@ -1681,11 +1687,11 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="7" column="40" />
       </file>
-      <file name="C:/code/voc_ice/src/pages/ComponentPage/components/ComponentTable/ComponentTable.jsx" timestamp="1540965556031">
+      <file name="C:/code/voc_ice/src/pages/ComponentPage/components/ComponentTable/ComponentTable.jsx" timestamp="1541682467845">
         <mark key="'" line="232" column="0" />
-        <mark key="[" line="124" column="0" />
-        <mark key="]" line="127" column="4" />
-        <mark key="." line="223" column="0" />
+        <mark key="[" line="244" column="68" />
+        <mark key="]" line="244" column="69" />
+        <mark key="." line="244" column="69" />
         <mark key="^" line="212" column="33" />
       </file>
       <file name="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/RactorsCalculator.java" timestamp="1541668194669">
@@ -2955,12 +2961,6 @@
         <mark key="." line="56" column="28" />
         <mark key="^" line="56" column="28" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/webstorm64.exe.vmoptions" timestamp="1541138843032">
-        <mark key="[" line="3" column="4" />
-        <mark key="]" line="3" column="7" />
-        <mark key="." line="3" column="7" />
-        <mark key="^" line="3" column="7" />
-      </file>
       <file name="C:/code/voc_ice/src/components/PhotoView/PhotoView.js" timestamp="1538572919980">
         <mark key="'" line="47" column="30" />
         <mark key="[" line="31" column="3" />
@@ -3301,7 +3301,7 @@
         <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEludmFsaWREYXRhRXhjZXB0aW9uKHZhbGlkTXNnSGFuZGxlcihiaW5kaW5nUmVzdWx0KSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBJT0V4Y2VwdGlvbigi5peg5rOV5Yib5bu66KOF572u55uu5b2V77yaIiArIGUuZ2V0TWVzc2FnZSgpKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBJT0V4Y2VwdGlvbigi5peg5rOV5Yib5bu66KOF572u55uu5b2V77w/IiArIGUuZ2V0TWVzc2FnZSgpKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
@@ -3326,7 +3326,7 @@
       <last-replace>responseFactor</last-replace>
       <last-substitute>ldarSetting</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
