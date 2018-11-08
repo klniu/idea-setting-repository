@@ -1113,6 +1113,12 @@
         <mark key="^" line="2" column="48" />
         <mark key="." line="2" column="48" />
       </file>
+      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/SealHistoriesCalculator.java" timestamp="1541668329038">
+        <mark key="[" line="304" column="51" />
+        <mark key="]" line="304" column="70" />
+        <mark key="." line="304" column="70" />
+        <mark key="^" line="304" column="70" />
+      </file>
       <file name="D:/code/java/voc/src/test/java/com/cnvoc/voc/service/impl/LdarRuleServiceImplTest.java" timestamp="1523759128299">
         <mark key="'" line="49" column="45" />
         <mark key="[" line="34" column="11" />
@@ -1682,7 +1688,8 @@
         <mark key="." line="223" column="0" />
         <mark key="^" line="212" column="33" />
       </file>
-      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/RactorsCalculator.java" timestamp="1540351116565">
+      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/RactorsCalculator.java" timestamp="1541668194669">
+        <mark key="'" line="52" column="11" />
         <mark key="[" line="57" column="29" />
         <mark key="]" line="57" column="36" />
         <mark key="^" line="57" column="36" />
@@ -3043,8 +3050,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="47" filename="C:/code/voc/src/main/java/com/cnvoc/voc/web/StatisticsController.java" />
-      <jump line="34" column="38" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/IEmissionService.java" />
       <jump line="61" column="10" filename="C:/code/voc/build.gradle" />
       <jump line="159" column="0" filename="C:/code/voc_ice/src/pages/EmissionStatistic/EmissionStatistic.js" />
       <jump line="158" column="2" filename="C:/code/voc_ice/src/pages/EmissionStatistic/EmissionStatistic.js" />
@@ -3143,6 +3148,8 @@
       <jump line="10" column="88" filename="C:/code/voc/src/main/resources/mapper/RepairMapper.xml" />
       <jump line="43" column="0" filename="C:/code/voc/src/main/java/com/cnvoc/voc/mapper/DetectionMapper.java" />
       <jump line="78" column="28" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/DetectionServiceImpl.java" />
+      <jump line="80" column="14" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/RactorsCalculator.java" />
+      <jump line="52" column="11" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/RactorsCalculator.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3166,7 +3173,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>klniu</text>
+        <text>HashMap</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -3273,10 +3280,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>klniu</text>
+        <text>HashMap</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmaWxsUmVwYWlyXD4=</text>
+        <text encoding="base64">XDxSYWN0b3JzQ2FsY3VsYXRvclw+</text>
       </register>
       <register name="0" type="4">
         <text>i7s8vWATPsfCeUZJAL</text>
@@ -3313,17 +3320,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmaWxsUmVwYWlyXD4=</last-search>
+      <last-search encoding="base64">XDxSYWN0b3JzQ2FsY3VsYXRvclw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmaWxsUmVwYWlyXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxSYWN0b3JzQ2FsY3VsYXRvclw+</last-pattern>
       <last-replace>responseFactor</last-replace>
       <last-substitute>ldarSetting</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>date</entry>
         <entry>_1</entry>
         <entry>_2</entry>
         <entry>List.of</entry>
@@ -3343,6 +3349,7 @@
         <entry>ldarSetting</entry>
         <entry encoding="base64">XDxwYXJzZVJvd0ZvclJlcGFpclw+</entry>
         <entry encoding="base64">XDxmaWxsUmVwYWlyXD4=</entry>
+        <entry encoding="base64">XDxSYWN0b3JzQ2FsY3VsYXRvclw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/content\[i++\]/{content[i++]}/gc</entry>
