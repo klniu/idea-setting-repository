@@ -243,11 +243,11 @@
         <mark key="^" line="245" column="8" />
         <mark key="." line="149" column="31" />
       </file>
-      <file name="C:/code/voc_ice/src/pages/SealStatistic/components/WholeChart.js" timestamp="1541761677593">
-        <mark key="[" line="11" column="33" />
-        <mark key="]" line="11" column="36" />
-        <mark key="." line="11" column="36" />
-        <mark key="^" line="11" column="36" />
+      <file name="C:/code/voc_ice/src/pages/SealStatistic/components/WholeChart.js" timestamp="1541762533102">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
+        <mark key="^" line="88" column="64" />
       </file>
       <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/common/GlobalExceptionHandler.java" timestamp="1521962345504">
         <mark key="'" line="36" column="50" />
@@ -1624,6 +1624,12 @@
         <mark key="^" line="19" column="0" />
         <mark key="." line="72" column="0" />
       </file>
+      <file name="C:/code/voc_ice/src/pages/SealStatistic/SealStatistic.js" timestamp="1541763283232">
+        <mark key="[" line="120" column="4" />
+        <mark key="]" line="120" column="3" />
+        <mark key="^" line="120" column="3" />
+        <mark key="." line="120" column="3" />
+      </file>
       <file name="$USER_HOME$/code/pyutils/safetysystem/config/22.yaml" timestamp="1536822404525">
         <mark key="'" line="8" column="0" />
         <mark key="[" line="9" column="51" />
@@ -2143,6 +2149,13 @@
         <mark key="]" line="8" column="0" />
         <mark key="^" line="7" column="31" />
         <mark key="." line="8" column="0" />
+      </file>
+      <file name="C:/code/voc_ice/src/pages/SealStatistic/components/PieChart.jsx" timestamp="1541762884126">
+        <mark key="'" line="92" column="20" />
+        <mark key="[" line="21" column="17" />
+        <mark key="]" line="21" column="36" />
+        <mark key="." line="21" column="36" />
+        <mark key="^" line="21" column="36" />
       </file>
       <file name="C:/code/voc/src/main/java/com/cnvoc/voc/web/SealController.java" timestamp="1541297247621">
         <mark key="'" line="62" column="23" />
@@ -3049,7 +3062,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="9" filename="C:/code/voc_ice/src/pages/EmissionStatistic/EmissionStatistic.js" />
       <jump line="130" column="2" filename="C:/code/voc_ice/src/pages/EmissionStatistic/FilterForm/FilterForm.jsx" />
       <jump line="129" column="2" filename="C:/code/voc_ice/src/pages/EmissionStatistic/FilterForm/FilterForm.jsx" />
       <jump line="9" column="9" filename="C:/code/voc_ice/src/pages/EmissionStatistic/FilterForm/FilterForm.jsx" />
@@ -3149,6 +3161,7 @@
       <jump line="252" column="34" filename="C:/code/voc_ice/src/pages/ComponentPage/components/ComponentTable/ComponentTable.jsx" />
       <jump line="330" column="66" filename="C:/code/voc_ice/src/pages/ComponentPage/components/ComponentTable/ComponentTable.jsx" />
       <jump line="331" column="19" filename="C:/code/voc_ice/src/pages/ComponentPage/components/ComponentTable/ComponentTable.jsx" />
+      <jump line="119" column="20" filename="C:/code/voc_ice/src/pages/SealStatistic/components/PieChart.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3172,7 +3185,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Fields</text>
+        <text>'</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -3279,49 +3292,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Fields</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
-        <text>reduce</text>
+        <text>console</text>
       </register>
       <register name="0" type="4">
         <text>i7s8vWATPsfCeUZJAL</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB4eHg6ICd5eXknIC8vIHJvdy54eHggu+Gxu8zmu7uzySByb3cueXl5Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGRhdGEgPSBbCiAgICAgIHsKICAgICAgICBpdGVtOiAnysLA/dK7JywKICAgICAgICBjb3VudDogNDAsCiAgICAgIH0sCiAgICAgIHsKICAgICAgICBpdGVtOiAnysLA/bb+JywKICAgICAgICBjb3VudDogMjEsCiAgICAgIH0sCiAgICAgIHsKICAgICAgICBpdGVtOiAnysLA/cj9JywKICAgICAgICBjb3VudDogMTcsCiAgICAgIH0sCiAgICAgIHsKICAgICAgICBpdGVtOiAnysLA/cvEJywKICAgICAgICBjb3VudDogMTMsCiAgICAgIH0sCiAgICAgIHsKICAgICAgICBpdGVtOiAnysLA/c7lJywKICAgICAgICBjb3VudDogOSwKICAgICAgfSwKICAgIF07Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBHMiwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBHZXRNYXBwaW5nKCIvdW5pdHNBbmRJbnN0YWxscy97ZmFjdG9yeUlkfSIpCiAgICBwdWJsaWMgUmVzdWx0IGdldFVuaXRzQW5kSW5zdGFsbHNDYXNjYWRlcihAUGF0aFZhcmlhYmxlIExvbmcgZmFjdG9yeUlkKSB7CiAgICAgICAgcmV0dXJuIG5ldyBSZXN1bHQ8PihpSW5zdGFsbFNlcnZpY2UuZ2V0VW5pdEFuZEluc3RhbGxzKGZhY3RvcnlJZCkpOwogICAgfQo=</text>
+        <text encoding="base64">ICBWaWV3LAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBTaGFwZSwKICBGYWNldCwKICBVdGlsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEludmFsaWREYXRhRXhjZXB0aW9uKHZhbGlkTXNnSGFuZGxlcihiaW5kaW5nUmVzdWx0KSk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGR2LnJvd3MpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBJT0V4Y2VwdGlvbigi5peg5rOV5Yib5bu66KOF572u55uu5b2V77w/IiArIGUuZ2V0TWVzc2FnZSgpKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+        <text encoding="base64">ICAgICAgICB4eHg6ICd5eXknIC8vIHJvdy54eHggu+Gxu8zmu7uzySByb3cueXl5Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBHZXRNYXBwaW5nKCIve2lkfSIpCiAgICBwdWJsaWMgUmVzdWx0IGdldEJ5SWQoQFBhdGhWYXJpYWJsZSBMb25nIGlkKSB7CiAgICAgICAgcmV0dXJuIG5ldyBSZXN1bHQ8PihpSW5zdGFsbFNlcnZpY2UuZ2V0QnlJZChpZCkpOwogICAgfQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action NextTab</text>
       </register>
     </registers>
     <search>
-      <last-search>reduce</last-search>
+      <last-search>console</last-search>
       <last-offset />
-      <last-pattern>reduce</last-pattern>
+      <last-pattern>console</last-pattern>
       <last-replace>responseFactor</last-replace>
       <last-substitute>ldarSetting</last-substitute>
       <last-dir>1</last-dir>
@@ -3329,7 +3342,6 @@
     </search>
     <history>
       <history-search>
-        <entry>_2</entry>
         <entry>List.of</entry>
         <entry>getLeft()</entry>
         <entry>getRight()</entry>
@@ -3349,6 +3361,7 @@
         <entry encoding="base64">XDxmaWxsUmVwYWlyXD4=</entry>
         <entry encoding="base64">XDxSYWN0b3JzQ2FsY3VsYXRvclw+</entry>
         <entry>reduce</entry>
+        <entry>console</entry>
       </history-search>
       <history-cmd>
         <entry>%s/content\[i++\]/{content[i++]}/gc</entry>
