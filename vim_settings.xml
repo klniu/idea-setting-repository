@@ -243,9 +243,10 @@
         <mark key="^" line="245" column="8" />
         <mark key="." line="149" column="31" />
       </file>
-      <file name="C:/code/voc_ice/src/pages/SealStatistic/components/WholeChart.js" timestamp="1541762533102">
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="0" />
+      <file name="C:/code/voc_ice/src/pages/SealStatistic/components/WholeChart.js" timestamp="1541763982980">
+        <mark key="'" line="65" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="35" />
         <mark key="." line="65" column="0" />
         <mark key="^" line="88" column="64" />
       </file>
@@ -1624,11 +1625,12 @@
         <mark key="^" line="19" column="0" />
         <mark key="." line="72" column="0" />
       </file>
-      <file name="C:/code/voc_ice/src/pages/SealStatistic/SealStatistic.js" timestamp="1541763283232">
-        <mark key="[" line="120" column="4" />
-        <mark key="]" line="120" column="3" />
-        <mark key="^" line="120" column="3" />
-        <mark key="." line="120" column="3" />
+      <file name="C:/code/voc_ice/src/pages/SealStatistic/SealStatistic.js" timestamp="1541764967722">
+        <mark key="'" line="118" column="9" />
+        <mark key="[" line="121" column="0" />
+        <mark key="]" line="121" column="80" />
+        <mark key="." line="121" column="0" />
+        <mark key="^" line="125" column="5" />
       </file>
       <file name="$USER_HOME$/code/pyutils/safetysystem/config/22.yaml" timestamp="1536822404525">
         <mark key="'" line="8" column="0" />
@@ -2150,8 +2152,8 @@
         <mark key="^" line="7" column="31" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="C:/code/voc_ice/src/pages/SealStatistic/components/PieChart.jsx" timestamp="1541762884126">
-        <mark key="'" line="92" column="20" />
+      <file name="C:/code/voc_ice/src/pages/SealStatistic/components/PieChart.jsx" timestamp="1541763980161">
+        <mark key="'" line="21" column="36" />
         <mark key="[" line="21" column="17" />
         <mark key="]" line="21" column="36" />
         <mark key="." line="21" column="36" />
@@ -3062,9 +3064,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="130" column="2" filename="C:/code/voc_ice/src/pages/EmissionStatistic/FilterForm/FilterForm.jsx" />
-      <jump line="129" column="2" filename="C:/code/voc_ice/src/pages/EmissionStatistic/FilterForm/FilterForm.jsx" />
-      <jump line="9" column="9" filename="C:/code/voc_ice/src/pages/EmissionStatistic/FilterForm/FilterForm.jsx" />
       <jump line="128" column="39" filename="C:/code/voc_ice/src/pages/EmissionStatistic/FilterForm/FilterForm.jsx" />
       <jump line="1" column="45" filename="C:/code/voc_ice/src/pages/EmissionStatistic/FilterForm/FilterForm.jsx" />
       <jump line="89" column="12" filename="C:/code/voc_ice/src/pages/EmissionStatistic/FilterForm/FilterForm.jsx" />
@@ -3162,6 +3161,9 @@
       <jump line="330" column="66" filename="C:/code/voc_ice/src/pages/ComponentPage/components/ComponentTable/ComponentTable.jsx" />
       <jump line="331" column="19" filename="C:/code/voc_ice/src/pages/ComponentPage/components/ComponentTable/ComponentTable.jsx" />
       <jump line="119" column="20" filename="C:/code/voc_ice/src/pages/SealStatistic/components/PieChart.jsx" />
+      <jump line="21" column="36" filename="C:/code/voc_ice/src/pages/SealStatistic/components/PieChart.jsx" />
+      <jump line="65" column="0" filename="C:/code/voc_ice/src/pages/SealStatistic/components/WholeChart.js" />
+      <jump line="120" column="9" filename="C:/code/voc_ice/src/pages/SealStatistic/SealStatistic.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3184,8 +3186,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgcmVzdWx0W2Quc2VydmljZV0gPSByZXN1bHRbZC5zZXJ2aWNlXSA/IHJlc3VsdFtkLnNlcnZpY2VdICsgZC5zdW0gOiBkLnN1bTsK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -3292,43 +3294,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
       </register>
-      <register name="0" type="4">
-        <text>i7s8vWATPsfCeUZJAL</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgcmVzdWx0W2Quc2VydmljZV0gPSByZXN1bHRbZC5zZXJ2aWNlXSA/IHJlc3VsdFtkLnNlcnZpY2VdICsgZC5zdW0gOiBkLnN1bTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGRhdGEgPSBbCiAgICAgIHsKICAgICAgICBpdGVtOiAnysLA/dK7JywKICAgICAgICBjb3VudDogNDAsCiAgICAgIH0sCiAgICAgIHsKICAgICAgICBpdGVtOiAnysLA/bb+JywKICAgICAgICBjb3VudDogMjEsCiAgICAgIH0sCiAgICAgIHsKICAgICAgICBpdGVtOiAnysLA/cj9JywKICAgICAgICBjb3VudDogMTcsCiAgICAgIH0sCiAgICAgIHsKICAgICAgICBpdGVtOiAnysLA/cvEJywKICAgICAgICBjb3VudDogMTMsCiAgICAgIH0sCiAgICAgIHsKICAgICAgICBpdGVtOiAnysLA/c7lJywKICAgICAgICBjb3VudDogOSwKICAgICAgfSwKICAgIF07Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBHMiwK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBWaWV3LAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBTaGFwZSwKICBGYWNldCwKICBVdGlsCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGR2LnJvd3MpOwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgfQo=</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgaWYgKHJlc3VsdFtkLnNlYWxdKSB7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgZHZEYXRhOiBbXSwK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IHsgQ2hhcnQsIEF4aXMsIFRvb2x0aXAsIEdlb20sIExlZ2VuZCB9IGZyb20gJ2JpemNoYXJ0cyc7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IERhdGFTZXQgZnJvbSAnQGFudHYvZGF0YS1zZXQnOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB4eHg6ICd5eXknIC8vIHJvdy54eHggu+Gxu8zmu7uzySByb3cueXl5Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGRhdGEgPSBbCiAgICAgIHsKICAgICAgICBpdGVtOiAnysLA/dK7JywKICAgICAgICBjb3VudDogNDAsCiAgICAgIH0sCiAgICAgIHsKICAgICAgICBpdGVtOiAnysLA/bb+JywKICAgICAgICBjb3VudDogMjEsCiAgICAgIH0sCiAgICAgIHsKICAgICAgICBpdGVtOiAnysLA/cj9JywKICAgICAgICBjb3VudDogMTcsCiAgICAgIH0sCiAgICAgIHsKICAgICAgICBpdGVtOiAnysLA/cvEJywKICAgICAgICBjb3VudDogMTMsCiAgICAgIH0sCiAgICAgIHsKICAgICAgICBpdGVtOiAnysLA/c7lJywKICAgICAgICBjb3VudDogOSwKICAgICAgfSwKICAgIF07Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBHMiwK</text>
       </register>
       <register name=":" type="4">
-        <text>action NextTab</text>
+        <text>action PreviousTab</text>
       </register>
     </registers>
     <search>
@@ -3382,8 +3384,8 @@
         <entry>%s/LdarSetting/ResponseFactor/gc</entry>
         <entry>%s/ldarSetting/responseFactor/gc</entry>
         <entry>action ReformatCode</entry>
-        <entry>action PreviousTab</entry>
         <entry>action NextTab</entry>
+        <entry>action PreviousTab</entry>
       </history-cmd>
       <history-expr />
       <history-input />
