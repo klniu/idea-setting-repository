@@ -1625,12 +1625,12 @@
         <mark key="^" line="19" column="0" />
         <mark key="." line="72" column="0" />
       </file>
-      <file name="C:/code/voc_ice/src/pages/SealStatistic/SealStatistic.js" timestamp="1541764967722">
-        <mark key="'" line="118" column="9" />
-        <mark key="[" line="121" column="0" />
-        <mark key="]" line="121" column="80" />
-        <mark key="." line="121" column="0" />
-        <mark key="^" line="125" column="5" />
+      <file name="C:/code/voc_ice/src/pages/SealStatistic/SealStatistic.js" timestamp="1541766903910">
+        <mark key="'" line="119" column="9" />
+        <mark key="[" line="118" column="26" />
+        <mark key="]" line="118" column="26" />
+        <mark key="." line="118" column="26" />
+        <mark key="^" line="118" column="26" />
       </file>
       <file name="$USER_HOME$/code/pyutils/safetysystem/config/22.yaml" timestamp="1536822404525">
         <mark key="'" line="8" column="0" />
@@ -3186,8 +3186,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgcmVzdWx0W2Quc2VydmljZV0gPSByZXN1bHRbZC5zZXJ2aWNlXSA/IHJlc3VsdFtkLnNlcnZpY2VdICsgZC5zdW0gOiBkLnN1bTsK</text>
+      <register name="&quot;" type="4">
+        <text>]</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -3294,40 +3294,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgcmVzdWx0W2Quc2VydmljZV0gPSByZXN1bHRbZC5zZXJ2aWNlXSA/IHJlc3VsdFtkLnNlcnZpY2VdICsgZC5zdW0gOiBkLnN1bTsK</text>
+      <register name="0" type="4">
+        <text>result.stopped ? result.stopped + d.sum : d.sum;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgaWYgKHJlc3VsdFtkLnNlYWxdKSB7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZHZEYXRhOiBbXSwK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQ2hhcnQsIEF4aXMsIFRvb2x0aXAsIEdlb20sIExlZ2VuZCB9IGZyb20gJ2JpemNoYXJ0cyc7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IERhdGFTZXQgZnJvbSAnQGFudHYvZGF0YS1zZXQnOwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGRhdGEubm9uc3RvcHBlZCA9Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgcmVzdWx0Lm5vbnN0b3BwZWQgPSByZXN1bHQubm9uc3RvcHBlZCA/IHJlc3VsdC5zdG9wcGVkICsgZC5zdW0gOiBkLnN1bTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgfQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgaWYgKHJlc3VsdFtkLnNlYWxdKSB7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgZHZEYXRhOiBbXSwK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGRhdGEgPSBbCiAgICAgIHsKICAgICAgICBpdGVtOiAnysLA/dK7JywKICAgICAgICBjb3VudDogNDAsCiAgICAgIH0sCiAgICAgIHsKICAgICAgICBpdGVtOiAnysLA/bb+JywKICAgICAgICBjb3VudDogMjEsCiAgICAgIH0sCiAgICAgIHsKICAgICAgICBpdGVtOiAnysLA/cj9JywKICAgICAgICBjb3VudDogMTcsCiAgICAgIH0sCiAgICAgIHsKICAgICAgICBpdGVtOiAnysLA/cvEJywKICAgICAgICBjb3VudDogMTMsCiAgICAgIH0sCiAgICAgIHsKICAgICAgICBpdGVtOiAnysLA/c7lJywKICAgICAgICBjb3VudDogOSwKICAgICAgfSwKICAgIF07Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgQ2hhcnQsIEF4aXMsIFRvb2x0aXAsIEdlb20sIExlZ2VuZCB9IGZyb20gJ2JpemNoYXJ0cyc7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBHMiwK</text>
+        <text encoding="base64">aW1wb3J0IERhdGFTZXQgZnJvbSAnQGFudHYvZGF0YS1zZXQnOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action PreviousTab</text>
