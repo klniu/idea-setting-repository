@@ -243,6 +243,12 @@
         <mark key="^" line="245" column="8" />
         <mark key="." line="149" column="31" />
       </file>
+      <file name="C:/code/voc_ice/src/pages/SealStatistic/components/WholeChart.js" timestamp="1541761677593">
+        <mark key="[" line="11" column="33" />
+        <mark key="]" line="11" column="36" />
+        <mark key="." line="11" column="36" />
+        <mark key="^" line="11" column="36" />
+      </file>
       <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/common/GlobalExceptionHandler.java" timestamp="1521962345504">
         <mark key="'" line="36" column="50" />
         <mark key="[" line="47" column="31" />
@@ -1618,13 +1624,6 @@
         <mark key="^" line="19" column="0" />
         <mark key="." line="72" column="0" />
       </file>
-      <file name="C:/code/voc_ice/src/pages/SealStatistic/SealStatistic.js" timestamp="1541154264002">
-        <mark key="'" line="229" column="35" />
-        <mark key="[" line="293" column="0" />
-        <mark key="]" line="293" column="0" />
-        <mark key="^" line="229" column="35" />
-        <mark key="." line="293" column="0" />
-      </file>
       <file name="$USER_HOME$/code/pyutils/safetysystem/config/22.yaml" timestamp="1536822404525">
         <mark key="'" line="8" column="0" />
         <mark key="[" line="9" column="51" />
@@ -1687,8 +1686,8 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="7" column="40" />
       </file>
-      <file name="C:/code/voc_ice/src/pages/ComponentPage/components/ComponentTable/ComponentTable.jsx" timestamp="1541682467845">
-        <mark key="'" line="232" column="0" />
+      <file name="C:/code/voc_ice/src/pages/ComponentPage/components/ComponentTable/ComponentTable.jsx" timestamp="1541761485268">
+        <mark key="'" line="331" column="19" />
         <mark key="[" line="244" column="68" />
         <mark key="]" line="244" column="69" />
         <mark key="." line="244" column="69" />
@@ -3050,10 +3049,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="10" filename="C:/code/voc/build.gradle" />
-      <jump line="159" column="0" filename="C:/code/voc_ice/src/pages/EmissionStatistic/EmissionStatistic.js" />
-      <jump line="158" column="2" filename="C:/code/voc_ice/src/pages/EmissionStatistic/EmissionStatistic.js" />
-      <jump line="202" column="27" filename="C:/code/voc_ice/src/pages/EmissionStatistic/EmissionStatistic.js" />
       <jump line="42" column="9" filename="C:/code/voc_ice/src/pages/EmissionStatistic/EmissionStatistic.js" />
       <jump line="130" column="2" filename="C:/code/voc_ice/src/pages/EmissionStatistic/FilterForm/FilterForm.jsx" />
       <jump line="129" column="2" filename="C:/code/voc_ice/src/pages/EmissionStatistic/FilterForm/FilterForm.jsx" />
@@ -3150,6 +3145,10 @@
       <jump line="78" column="28" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/DetectionServiceImpl.java" />
       <jump line="80" column="14" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/RactorsCalculator.java" />
       <jump line="52" column="11" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/RactorsCalculator.java" />
+      <jump line="32" column="11" filename="C:/code/voc_ice/src/pages/SealStatistic/components/WholeChart.js" />
+      <jump line="252" column="34" filename="C:/code/voc_ice/src/pages/ComponentPage/components/ComponentTable/ComponentTable.jsx" />
+      <jump line="330" column="66" filename="C:/code/voc_ice/src/pages/ComponentPage/components/ComponentTable/ComponentTable.jsx" />
+      <jump line="331" column="19" filename="C:/code/voc_ice/src/pages/ComponentPage/components/ComponentTable/ComponentTable.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3173,7 +3172,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>HashMap</text>
+        <text>Fields</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -3280,57 +3279,56 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>HashMap</text>
+        <text>Fields</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxSYWN0b3JzQ2FsY3VsYXRvclw+</text>
+        <text>reduce</text>
       </register>
       <register name="0" type="4">
         <text>i7s8vWATPsfCeUZJAL</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBHZXRNYXBwaW5nKCIvdW5pdHNBbmRJbnN0YWxscy97ZmFjdG9yeUlkfSIpCiAgICBwdWJsaWMgUmVzdWx0IGdldFVuaXRzQW5kSW5zdGFsbHNDYXNjYWRlcihAUGF0aFZhcmlhYmxlIExvbmcgZmFjdG9yeUlkKSB7CiAgICAgICAgcmV0dXJuIG5ldyBSZXN1bHQ8PihpSW5zdGFsbFNlcnZpY2UuZ2V0VW5pdEFuZEluc3RhbGxzKGZhY3RvcnlJZCkpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICB4eHg6ICd5eXknIC8vIHJvdy54eHggu+Gxu8zmu7uzySByb3cueXl5Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEludmFsaWREYXRhRXhjZXB0aW9uKHZhbGlkTXNnSGFuZGxlcihiaW5kaW5nUmVzdWx0KSk7Cg==</text>
+        <text encoding="base64">ICAgIEBHZXRNYXBwaW5nKCIvdW5pdHNBbmRJbnN0YWxscy97ZmFjdG9yeUlkfSIpCiAgICBwdWJsaWMgUmVzdWx0IGdldFVuaXRzQW5kSW5zdGFsbHNDYXNjYWRlcihAUGF0aFZhcmlhYmxlIExvbmcgZmFjdG9yeUlkKSB7CiAgICAgICAgcmV0dXJuIG5ldyBSZXN1bHQ8PihpSW5zdGFsbFNlcnZpY2UuZ2V0VW5pdEFuZEluc3RhbGxzKGZhY3RvcnlJZCkpOwogICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBJT0V4Y2VwdGlvbigi5peg5rOV5Yib5bu66KOF572u55uu5b2V77w/IiArIGUuZ2V0TWVzc2FnZSgpKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEludmFsaWREYXRhRXhjZXB0aW9uKHZhbGlkTXNnSGFuZGxlcihiaW5kaW5nUmVzdWx0KSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBHZXRNYXBwaW5nKCIve2lkfSIpCiAgICBwdWJsaWMgUmVzdWx0IGdldEJ5SWQoQFBhdGhWYXJpYWJsZSBMb25nIGlkKSB7CiAgICAgICAgcmV0dXJuIG5ldyBSZXN1bHQ8PihpSW5zdGFsbFNlcnZpY2UuZ2V0QnlJZChpZCkpOwogICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBJT0V4Y2VwdGlvbigi5peg5rOV5Yib5bu66KOF572u55uu5b2V77w/IiArIGUuZ2V0TWVzc2FnZSgpKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZvaWQgdXBkYXRlUmZWYWx1ZXNCeVJlc3BvbnNlRmFjdG9ycyhMaXN0PFJlc3BvbnNlRmFjdG9yPiBmYWN0b3JzKTsK</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIEBHZXRNYXBwaW5nKCIve2lkfSIpCiAgICBwdWJsaWMgUmVzdWx0IGdldEJ5SWQoQFBhdGhWYXJpYWJsZSBMb25nIGlkKSB7CiAgICAgICAgcmV0dXJuIG5ldyBSZXN1bHQ8PihpSW5zdGFsbFNlcnZpY2UuZ2V0QnlJZChpZCkpOwogICAgfQoK</text>
       </register>
       <register name=":" type="4">
         <text>action NextTab</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxSYWN0b3JzQ2FsY3VsYXRvclw+</last-search>
+      <last-search>reduce</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxSYWN0b3JzQ2FsY3VsYXRvclw+</last-pattern>
+      <last-pattern>reduce</last-pattern>
       <last-replace>responseFactor</last-replace>
       <last-substitute>ldarSetting</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>_1</entry>
         <entry>_2</entry>
         <entry>List.of</entry>
         <entry>getLeft()</entry>
@@ -3350,6 +3348,7 @@
         <entry encoding="base64">XDxwYXJzZVJvd0ZvclJlcGFpclw+</entry>
         <entry encoding="base64">XDxmaWxsUmVwYWlyXD4=</entry>
         <entry encoding="base64">XDxSYWN0b3JzQ2FsY3VsYXRvclw+</entry>
+        <entry>reduce</entry>
       </history-search>
       <history-cmd>
         <entry>%s/content\[i++\]/{content[i++]}/gc</entry>
