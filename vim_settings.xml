@@ -774,7 +774,7 @@
         <mark key="^" line="6" column="14" />
         <mark key="." line="6" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542019386134">
+      <file name="/Dummy.txt" timestamp="1542022246849">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -2464,11 +2464,12 @@
         <mark key="^" line="80" column="40" />
         <mark key="." line="24" column="26" />
       </file>
-      <file name="C:/code/voc_ice/src/pages/DetectionRangeStatistic/DetectionRangeStatistic.js" timestamp="1542019378192">
-        <mark key="[" line="192" column="0" />
-        <mark key="]" line="192" column="0" />
-        <mark key="^" line="194" column="34" />
-        <mark key="." line="192" column="0" />
+      <file name="C:/code/voc_ice/src/pages/DetectionRangeStatistic/DetectionRangeStatistic.js" timestamp="1542022117570">
+        <mark key="'" line="335" column="0" />
+        <mark key="[" line="2" column="43" />
+        <mark key="]" line="2" column="49" />
+        <mark key="^" line="2" column="49" />
+        <mark key="." line="2" column="49" />
       </file>
       <file name="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/ResponseFactorServiceImpl.java" timestamp="1541582467177">
         <mark key="'" line="67" column="8" />
@@ -3059,10 +3060,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="186" column="0" filename="C:/code/voc_ice/src/pages/DetectionRangeStatistic/DetectionRangeStatistic.js" />
-      <jump line="229" column="35" filename="C:/code/voc_ice/src/pages/SealStatistic/SealStatistic.js" />
-      <jump line="260" column="33" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/RepairServiceImpl.java" />
-      <jump line="127" column="64" filename="C:/code/voc/src/main/java/com/cnvoc/voc/web/DetectionController.java" />
       <jump line="294" column="15" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/RepairServiceImpl.java" />
       <jump line="240" column="40" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/DelayRepairServiceImpl.java" />
       <jump line="167" column="5" filename="C:/code/voc/src/test/java/com/cnvoc/voc/service/impl/DelayRepairServiceImplTest.java" />
@@ -3159,6 +3156,10 @@
       <jump line="191" column="9" filename="C:/code/voc_ice/src/pages/SealStatistic/SealStatistic.js" />
       <jump line="261" column="68" filename="C:/code/voc_ice/src/pages/SealStatistic/SealStatistic.js" />
       <jump line="46" column="41" filename="C:/code/voc_ice/src/pages/SealStatistic/components/WholeChart.js" />
+      <jump line="218" column="18" filename="C:/code/voc_ice/src/pages/DetectionRangeStatistic/DetectionRangeStatistic.js" />
+      <jump line="13" column="0" filename="C:/code/voc_ice/src/pages/DetectionRangeStatistic/DetectionRangeStatistic.js" />
+      <jump line="21" column="20" filename="C:/code/voc_ice/src/pages/DetectionRangeStatistic/DetectionRangeStatistic.js" />
+      <jump line="335" column="0" filename="C:/code/voc_ice/src/pages/DetectionRangeStatistic/DetectionRangeStatistic.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3182,7 +3183,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuc3RhdGUudGFibGVEYXRhKTsKICAgIGNvbnNvbGUubG9nKHRoaXMuc3RhdGUudHlwZURhdGEpOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgc2V0TG9hZGluZyB9IGZyb20gJy4uLy4uL3N0b3JlL2Jhc2UvYWN0aW9uJzsK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -3289,7 +3290,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ayA9PiBrICE9PSAncmFuZ2UnKSw=</text>
+        <text>sales</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
@@ -3298,31 +3299,31 @@
         <text encoding="base64">ZmlsdGVyKE9iamVjdC5rZXlzKHRoaXMuc3RhdGUudHlwZURhdGFbMF0pLAogICAgICAgIGsgPT4gayAhPT0gJ3JhbmdlJyks</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuc3RhdGUudGFibGVEYXRhKTsKICAgIGNvbnNvbGUubG9nKHRoaXMuc3RhdGUudHlwZURhdGEpOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgc2V0TG9hZGluZyB9IGZyb20gJy4uLy4uL3N0b3JlL2Jhc2UvYWN0aW9uJzsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGR2LnRyYW5zZm9ybSh7IC8vILK5yKu96dbK17TMrLXE19a2zgogICAgICB0eXBlOiAnaW1wdXRlJywKICAgICAgZmllbGQ6ICdHYXMnLCAvLyC0/bK5yKvX1rbOCiAgICAgIGdyb3VwQnk6IFtdLCAvLyC31tfp19a2zryvo6i0q7/V1PKyu7fW1+mjqQogICAgICBtZXRob2Q6ICd2YWx1ZScsIC8vILK5yKvX1rbO1rXKsda00NC1xLnm1PIKICAgICAgdmFsdWU6IDAsCiAgICB9KS50cmFuc2Zvcm0oeyAvLyCyucirvenWyte0zKy1xNfWts4KICAgICAgdHlwZTogJ2ltcHV0ZScsCiAgICAgIGZpZWxkOiAnTGlnaHRMaXF1aWQnLCAvLyC0/bK5yKvX1rbOCiAgICAgIGdyb3VwQnk6IFtdLCAvLyC31tfp19a2zryvo6i0q7/V1PKyu7fW1+mjqQogICAgICBtZXRob2Q6ICd2YWx1ZScsIC8vILK5yKvX1rbO1rXKsda00NC1xLnm1PIKICAgICAgdmFsdWU6IDAsCiAgICB9KS50cmFuc2Zvcm0oeyAvLyCyucirvenWyte0zKy1xNfWts4KICAgICAgdHlwZTogJ2ltcHV0ZScsCiAgICAgIGZpZWxkOiAnSGVhdnlMaXF1aWQnLCAvLyC0/bK5yKvX1rbOCiAgICAgIGdyb3VwQnk6IFtdLCAvLyC31tfp19a2zryvo6i0q7/V1PKyu7fW1+mjqQogICAgICBtZXRob2Q6ICd2YWx1ZScsIC8vILK5yKvX1rbO1rXKsda00NC1xLnm1PIKICAgICAgdmFsdWU6IDAsCg==</text>
+        <text encoding="base64">aW1wb3J0IGluamVjdFJlZHVjZXIgZnJvbSAnLi4vLi4vdXRpbHMvaW5qZWN0UmVkdWNlcic7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGJhc2VSZWR1Y2VyIGZyb20gJy4uLy4uL3N0b3JlL2Jhc2UvcmVkdWNlcic7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGR2LnJvd3MpOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgY29ubmVjdCB9IGZyb20gJ3JlYWN0LXJlZHV4JzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGR2LnJvd3MpOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgY29tcG9zZSB9IGZyb20gJ3JlZHV4JzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZHYucm93cyk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuc3RhdGUudGFibGVEYXRhKTsKICAgIGNvbnNvbGUubG9nKHRoaXMuc3RhdGUudHlwZURhdGEpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGR2LnRyYW5zZm9ybSh7IC8vILK5yKu96dbK17TMrLXE19a2zgogICAgICB0eXBlOiAnaW1wdXRlJywKICAgICAgZmllbGQ6ICdHYXMnLCAvLyC0/bK5yKvX1rbOCiAgICAgIGdyb3VwQnk6IFtdLCAvLyC31tfp19a2zryvo6i0q7/V1PKyu7fW1+mjqQogICAgICBtZXRob2Q6ICd2YWx1ZScsIC8vILK5yKvX1rbO1rXKsda00NC1xLnm1PIKICAgICAgdmFsdWU6IDAsCiAgICB9KS50cmFuc2Zvcm0oeyAvLyCyucirvenWyte0zKy1xNfWts4KICAgICAgdHlwZTogJ2ltcHV0ZScsCiAgICAgIGZpZWxkOiAnTGlnaHRMaXF1aWQnLCAvLyC0/bK5yKvX1rbOCiAgICAgIGdyb3VwQnk6IFtdLCAvLyC31tfp19a2zryvo6i0q7/V1PKyu7fW1+mjqQogICAgICBtZXRob2Q6ICd2YWx1ZScsIC8vILK5yKvX1rbO1rXKsda00NC1xLnm1PIKICAgICAgdmFsdWU6IDAsCiAgICB9KS50cmFuc2Zvcm0oeyAvLyCyucirvenWyte0zKy1xNfWts4KICAgICAgdHlwZTogJ2ltcHV0ZScsCiAgICAgIGZpZWxkOiAnSGVhdnlMaXF1aWQnLCAvLyC0/bK5yKvX1rbOCiAgICAgIGdyb3VwQnk6IFtdLCAvLyC31tfp19a2zryvo6i0q7/V1PKyu7fW1+mjqQogICAgICBtZXRob2Q6ICd2YWx1ZScsIC8vILK5yKvX1rbO1rXKsda00NC1xLnm1PIKICAgICAgdmFsdWU6IDAsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGZpZWxkcyA9IFNlcnZpY2VzLmNvbmNhdChBY2Nlc3NpYmlsaXRpZXMpOwogICAgY29uc3QgY2hpbmVzZUZpZWxkcyA9IGZpZWxkcy5tYXAocyA9PiB0aGlzLnByb3BzLmNoaW5lc2VGdW5jKHMpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGR2LnNvdXJjZSh0aGlzLnByb3BzLmRhdGEpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGR2LnJvd3MpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action NextTab</text>
