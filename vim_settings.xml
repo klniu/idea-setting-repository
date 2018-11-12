@@ -774,7 +774,7 @@
         <mark key="^" line="6" column="14" />
         <mark key="." line="6" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542024828783">
+      <file name="/Dummy.txt" timestamp="1542027659990">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -2288,12 +2288,12 @@
         <mark key="^" line="8" column="55" />
         <mark key="." line="8" column="18" />
       </file>
-      <file name="C:/code/voc_ice/src/pages/EmissionStatistic/EmissionStatistic.js" timestamp="1541154143853">
-        <mark key="'" line="199" column="33" />
-        <mark key="[" line="269" column="0" />
-        <mark key="]" line="269" column="0" />
-        <mark key="." line="269" column="0" />
-        <mark key="^" line="198" column="33" />
+      <file name="C:/code/voc_ice/src/pages/EmissionStatistic/EmissionStatistic.js" timestamp="1542027627627">
+        <mark key="'" line="249" column="35" />
+        <mark key="[" line="260" column="85" />
+        <mark key="]" line="260" column="86" />
+        <mark key="." line="260" column="86" />
+        <mark key="^" line="260" column="40" />
       </file>
       <file name="C:/code/voc/src/main/resources/sql/schema.sql" timestamp="1541581667801">
         <mark key="'" line="17" column="33" />
@@ -2457,12 +2457,12 @@
         <mark key="^" line="238" column="58" />
         <mark key="." line="238" column="58" />
       </file>
-      <file name="C:/code/voc_ice/src/pages/EmissionStatistic/FilterForm/FilterForm.jsx" timestamp="1541149787513">
+      <file name="C:/code/voc_ice/src/pages/EmissionStatistic/FilterForm/FilterForm.jsx" timestamp="1542028221243">
         <mark key="'" line="87" column="12" />
-        <mark key="[" line="24" column="26" />
-        <mark key="]" line="24" column="26" />
-        <mark key="^" line="80" column="40" />
-        <mark key="." line="24" column="26" />
+        <mark key="[" line="63" column="57" />
+        <mark key="]" line="63" column="57" />
+        <mark key="^" line="63" column="57" />
+        <mark key="." line="63" column="57" />
       </file>
       <file name="C:/code/voc_ice/src/pages/DetectionRangeStatistic/DetectionRangeStatistic.js" timestamp="1542024810745">
         <mark key="'" line="335" column="0" />
@@ -3060,8 +3060,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="294" column="15" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/RepairServiceImpl.java" />
-      <jump line="240" column="40" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/DelayRepairServiceImpl.java" />
       <jump line="167" column="5" filename="C:/code/voc/src/test/java/com/cnvoc/voc/service/impl/DelayRepairServiceImplTest.java" />
       <jump line="163" column="15" filename="C:/code/voc/src/test/java/com/cnvoc/voc/service/impl/DelayRepairServiceImplTest.java" />
       <jump line="67" column="18" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/IDelayRepairService.java" />
@@ -3160,6 +3158,8 @@
       <jump line="13" column="0" filename="C:/code/voc_ice/src/pages/DetectionRangeStatistic/DetectionRangeStatistic.js" />
       <jump line="21" column="20" filename="C:/code/voc_ice/src/pages/DetectionRangeStatistic/DetectionRangeStatistic.js" />
       <jump line="335" column="0" filename="C:/code/voc_ice/src/pages/DetectionRangeStatistic/DetectionRangeStatistic.js" />
+      <jump line="26" column="21" filename="C:/code/voc_ice/src/pages/EmissionStatistic/EmissionStatistic.js" />
+      <jump line="249" column="35" filename="C:/code/voc_ice/src/pages/EmissionStatistic/EmissionStatistic.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3183,7 +3183,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>[</text>
+        <text>点</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -3290,40 +3290,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>[</text>
+        <text>点</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">IHBhZGRpbmc9e1s4MCwgNDAsIDQwLCA0MF0=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPC9UYWJsZS5Db2x1bW5Hcm91cD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgc2V0TG9hZGluZyB9IGZyb20gJy4uLy4uL3N0b3JlL2Jhc2UvYWN0aW9uJzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGluamVjdFJlZHVjZXIgZnJvbSAnLi4vLi4vdXRpbHMvaW5qZWN0UmVkdWNlcic7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgc2V0TG9hZGluZyB9IGZyb20gJy4uLy4uL3N0b3JlL2Jhc2UvYWN0aW9uJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGJhc2VSZWR1Y2VyIGZyb20gJy4uLy4uL3N0b3JlL2Jhc2UvcmVkdWNlcic7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGluamVjdFJlZHVjZXIgZnJvbSAnLi4vLi4vdXRpbHMvaW5qZWN0UmVkdWNlcic7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgY29ubmVjdCB9IGZyb20gJ3JlYWN0LXJlZHV4JzsK</text>
+        <text encoding="base64">aW1wb3J0IGJhc2VSZWR1Y2VyIGZyb20gJy4uLy4uL3N0b3JlL2Jhc2UvcmVkdWNlcic7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgY29tcG9zZSB9IGZyb20gJ3JlZHV4JzsK</text>
+        <text encoding="base64">aW1wb3J0IHsgY29ubmVjdCB9IGZyb20gJ3JlYWN0LXJlZHV4JzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuc3RhdGUudGFibGVEYXRhKTsKICAgIGNvbnNvbGUubG9nKHRoaXMuc3RhdGUudHlwZURhdGEpOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgY29tcG9zZSB9IGZyb20gJ3JlZHV4JzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGR2LnRyYW5zZm9ybSh7IC8vILK5yKu96dbK17TMrLXE19a2zgogICAgICB0eXBlOiAnaW1wdXRlJywKICAgICAgZmllbGQ6ICdHYXMnLCAvLyC0/bK5yKvX1rbOCiAgICAgIGdyb3VwQnk6IFtdLCAvLyC31tfp19a2zryvo6i0q7/V1PKyu7fW1+mjqQogICAgICBtZXRob2Q6ICd2YWx1ZScsIC8vILK5yKvX1rbO1rXKsda00NC1xLnm1PIKICAgICAgdmFsdWU6IDAsCiAgICB9KS50cmFuc2Zvcm0oeyAvLyCyucirvenWyte0zKy1xNfWts4KICAgICAgdHlwZTogJ2ltcHV0ZScsCiAgICAgIGZpZWxkOiAnTGlnaHRMaXF1aWQnLCAvLyC0/bK5yKvX1rbOCiAgICAgIGdyb3VwQnk6IFtdLCAvLyC31tfp19a2zryvo6i0q7/V1PKyu7fW1+mjqQogICAgICBtZXRob2Q6ICd2YWx1ZScsIC8vILK5yKvX1rbO1rXKsda00NC1xLnm1PIKICAgICAgdmFsdWU6IDAsCiAgICB9KS50cmFuc2Zvcm0oeyAvLyCyucirvenWyte0zKy1xNfWts4KICAgICAgdHlwZTogJ2ltcHV0ZScsCiAgICAgIGZpZWxkOiAnSGVhdnlMaXF1aWQnLCAvLyC0/bK5yKvX1rbOCiAgICAgIGdyb3VwQnk6IFtdLCAvLyC31tfp19a2zryvo6i0q7/V1PKyu7fW1+mjqQogICAgICBtZXRob2Q6ICd2YWx1ZScsIC8vILK5yKvX1rbO1rXKsda00NC1xLnm1PIKICAgICAgdmFsdWU6IDAsCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuc3RhdGUudGFibGVEYXRhKTsKICAgIGNvbnNvbGUubG9nKHRoaXMuc3RhdGUudHlwZURhdGEpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGR2LnRyYW5zZm9ybSh7IC8vILK5yKu96dbK17TMrLXE19a2zgogICAgICB0eXBlOiAnaW1wdXRlJywKICAgICAgZmllbGQ6ICdHYXMnLCAvLyC0/bK5yKvX1rbOCiAgICAgIGdyb3VwQnk6IFtdLCAvLyC31tfp19a2zryvo6i0q7/V1PKyu7fW1+mjqQogICAgICBtZXRob2Q6ICd2YWx1ZScsIC8vILK5yKvX1rbO1rXKsda00NC1xLnm1PIKICAgICAgdmFsdWU6IDAsCiAgICB9KS50cmFuc2Zvcm0oeyAvLyCyucirvenWyte0zKy1xNfWts4KICAgICAgdHlwZTogJ2ltcHV0ZScsCiAgICAgIGZpZWxkOiAnTGlnaHRMaXF1aWQnLCAvLyC0/bK5yKvX1rbOCiAgICAgIGdyb3VwQnk6IFtdLCAvLyC31tfp19a2zryvo6i0q7/V1PKyu7fW1+mjqQogICAgICBtZXRob2Q6ICd2YWx1ZScsIC8vILK5yKvX1rbO1rXKsda00NC1xLnm1PIKICAgICAgdmFsdWU6IDAsCiAgICB9KS50cmFuc2Zvcm0oeyAvLyCyucirvenWyte0zKy1xNfWts4KICAgICAgdHlwZTogJ2ltcHV0ZScsCiAgICAgIGZpZWxkOiAnSGVhdnlMaXF1aWQnLCAvLyC0/bK5yKvX1rbOCiAgICAgIGdyb3VwQnk6IFtdLCAvLyC31tfp19a2zryvo6i0q7/V1PKyu7fW1+mjqQogICAgICBtZXRob2Q6ICd2YWx1ZScsIC8vILK5yKvX1rbO1rXKsda00NC1xLnm1PIKICAgICAgdmFsdWU6IDAsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGR2LnJvd3MpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action NextTab</text>
