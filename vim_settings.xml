@@ -249,12 +249,12 @@
         <mark key="^" line="245" column="8" />
         <mark key="." line="149" column="31" />
       </file>
-      <file name="C:/code/pyutils/voc/ldar/yongli_api.py" timestamp="1542124016911">
-        <mark key="'" line="33" column="61" />
-        <mark key="[" line="100" column="15" />
-        <mark key="]" line="100" column="24" />
-        <mark key="^" line="100" column="24" />
-        <mark key="." line="100" column="24" />
+      <file name="C:/code/pyutils/voc/ldar/yongli_api.py" timestamp="1542125887338">
+        <mark key="'" line="34" column="61" />
+        <mark key="[" line="30" column="18" />
+        <mark key="]" line="30" column="24" />
+        <mark key="^" line="30" column="24" />
+        <mark key="." line="30" column="24" />
       </file>
       <file name="C:/code/voc_ice/src/pages/SealStatistic/components/WholeChart.js" timestamp="1541758468657">
         <mark key="'" line="47" column="41" />
@@ -2384,12 +2384,12 @@
         <mark key="." line="79" column="22" />
         <mark key="^" line="79" column="22" />
       </file>
-      <file name="C:/code/pyutils/voc/voc_api.py" timestamp="1542124522399">
-        <mark key="'" line="23" column="13" />
-        <mark key="[" line="217" column="32" />
-        <mark key="]" line="217" column="41" />
-        <mark key="^" line="217" column="41" />
-        <mark key="." line="217" column="41" />
+      <file name="C:/code/pyutils/voc/voc_api.py" timestamp="1542125855971">
+        <mark key="'" line="115" column="21" />
+        <mark key="[" line="131" column="92" />
+        <mark key="]" line="131" column="91" />
+        <mark key="^" line="131" column="91" />
+        <mark key="." line="131" column="91" />
       </file>
       <file name="D:/code/web/voc-delon/src/app/core/startup/startup.service.ts" timestamp="1526527247859">
         <mark key="'" line="55" column="12" />
@@ -3118,12 +3118,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="6" filename="C:/code/voc/src/main/java/com/cnvoc/voc/web/RepairController.java" />
-      <jump line="117" column="48" filename="C:/code/voc/src/main/java/com/cnvoc/voc/web/RepairController.java" />
-      <jump line="54" column="4" filename="C:/code/voc/src/main/java/com/cnvoc/voc/web/RepairController.java" />
-      <jump line="36" column="20" filename="C:/code/voc/src/main/java/com/cnvoc/voc/web/DelayRepairController.java" />
-      <jump line="41" column="4" filename="C:/code/voc/src/main/java/com/cnvoc/voc/web/DelayRepairController.java" />
-      <jump line="131" column="38" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/RepairServiceImpl.java" />
       <jump line="4" column="63" filename="C:/code/voc/src/main/resources/mapper/RepairMapper.xml" />
       <jump line="351" column="26" filename="C:/code/voc/src/test/java/com/cnvoc/voc/service/impl/RepairServiceImplTest.java" />
       <jump line="0" column="0" filename="C:/code/voc/src/main/java/com/cnvoc/voc/common/Function.java" />
@@ -3218,6 +3212,12 @@
       <jump line="0" column="0" filename="C:/code/pyutils/voc/ldar/yongli.sql" />
       <jump line="22" column="61" filename="C:/code/pyutils/voc/ldar/yongli_api.py" />
       <jump line="23" column="13" filename="C:/code/pyutils/voc/voc_api.py" />
+      <jump line="178" column="44" filename="C:/code/pyutils/voc/voc_api.py" />
+      <jump line="68" column="21" filename="C:/code/pyutils/voc/voc_api.py" />
+      <jump line="69" column="89" filename="C:/code/pyutils/voc/voc_api.py" />
+      <jump line="98" column="21" filename="C:/code/pyutils/voc/voc_api.py" />
+      <jump line="100" column="83" filename="C:/code/pyutils/voc/voc_api.py" />
+      <jump line="115" column="21" filename="C:/code/pyutils/voc/voc_api.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3241,7 +3241,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>seals</text>
+        <text>factory_id</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -3348,53 +3348,53 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>seals</text>
+        <text>factory_id</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1cGxvYWRfc2VhbHNcPg==</text>
+        <text>file</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZvYy51cGxvYWRfc2VhbHNfZXhjZWwoKQo=</text>
+        <text encoding="base64">ICAgICAgICAiZmFjdG9yeUlkIjogZmFjdG9yeV9pZCwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAitNfL4S2018vhLnhsc3giCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnZmFjdG9yeUlkJzogc2VsZi5jb25maWdbJ2ZhY3RvcnlJZCddLAo=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAitNfL4S2018vhLnhsc3giCg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7ImZhY3RvcnlJZCI6IGZhY3RvcnlfaWQsICJzdGFuZGFyZElkIjogIjIwMDEiLCAibm8iOiAyLCAibmFtZSI6ICLL9brPuaS2ziIsCiAgICAgICAgICAgICAgICAgICAgICJjb2RlIjogIlhYWFNIMiIsCiAgICAgICAgICAgICAgICAgICAgICJ0eXBlIjogIlNPQ01JIiwgImNvbnN0cnVjdERhdGUiOiAiMjAxNC0wMy0zMSJ9LAogICAgICAgICAgICAgICAgICAgIHsiZmFjdG9yeUlkIjogZmFjdG9yeV9pZCwgInN0YW5kYXJkSWQiOiAiMjAwMSIsICJubyI6IDMsICJuYW1lIjogItDBtLy5pLbOIiwKICAgICAgICAgICAgICAgICAgICAgImNvZGUiOiAiWFhYWEMyIiwKICAgICAgICAgICAgICAgICAgICAgInR5cGUiOiAiU09DTUkiLCAiY29uc3RydWN0RGF0ZSI6ICIyMDE2LTAzLTMxIn0sCiAgICAgICAgICAgICAgICAgICAgeyJmYWN0b3J5SWQiOiBmYWN0b3J5X2lkLCAic3RhbmRhcmRJZCI6ICIyMDAxIiwgIm5vIjogNCwgIm5hbWUiOiAitqG0vLmkts4iLAogICAgICAgICAgICAgICAgICAgICAiY29kZSI6ICJYWFhEQzIiLAogICAgICAgICAgICAgICAgICAgICAidHlwZSI6ICJTT0NNSSIsICJjb25zdHJ1Y3REYXRlIjogIjIwMTYtMDQtMzAifSwKICAgICAgICAgICAgICAgICAgICB7ImZhY3RvcnlJZCI6IGZhY3RvcnlfaWQsICJzdGFuZGFyZElkIjogIjIwMDEiLCAibm8iOiA1LCAibmFtZSI6ICK53sf4IiwKICAgICAgICAgICAgICAgICAgICAgImNvZGUiOiAiWFhYR1EyIiwKICAgICAgICAgICAgICAgICAgICAgInR5cGUiOiAiU09DTUkiLCAiY29uc3RydWN0RGF0ZSI6ICIyMDE0LTA0LTMwIn0sCg==</text>
       </register>
-      <register name="3" type="8">
+      <register name="4" type="8">
         <text>一
 一
 一
 一
 一</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAiMDMwMtLSsb1fbmV3Lnhsc3giLAogICAgICAgICIwMzAzsb3S0s+pud7H+F9uZXcueGxzeCIsCiAgICAgICAgIjAzMDTN0cfi17DWw19uZXcueGxzeCIsCiAgICAgICAgIjAzMDW438jIwq9fbmV3Lnhsc3giCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAiZGV0ZWN0aW9uX2luZm8iOiB7CiAgICAgICAgICAgICIxIjogeyJwZXJzb25zIjogJ7rOwcEnLCAiZGV2aWNlTm8iOiAnMTQyMzIzJywgImRldmljZU1vZGVsIjogIlRWQTIwMjBDIiwKICAgICAgICAgICAgICAgICAgImNvbXBhbnkiOiAizOy98rKuwekifSwKICAgICAgICAgICAgIjIiOiB7InBlcnNvbnMiOiAnus7BwTEnLCAiZGV2aWNlTm8iOiAnMTQyMzIzJywgImRldmljZU1vZGVsIjogIlRWQTIwMjBDIiwKICAgICAgICAgICAgICAgICAgImNvbXBhbnkiOiAizOy98rKuwekifSwKICAgICAgICAgICAgIjMiOiB7InBlcnNvbnMiOiAnus7BwTInLCAiZGV2aWNlTm8iOiAnMTQyMzIzJywgImRldmljZU1vZGVsIjogIlRWQTIwMjBDIiwKICAgICAgICAgICAgICAgICAgImNvbXBhbnkiOiAizOy98rKuwekifSwKICAgICAgICAgICAgIjQiOiB7InBlcnNvbnMiOiAnus7BwTMnLCAiZGV2aWNlTm8iOiAnMTQyMzIzJywgImRldmljZU1vZGVsIjogIlRWQTIwMjBDIiwKICAgICAgICAgICAgICAgICAgImNvbXBhbnkiOiAizOy98rKuwekifSwKICAgICAgICAgICAgIjUiOiB7InBlcnNvbnMiOiAnus7BwTQnLCAiZGV2aWNlTm8iOiAnMTQyMzIzJywgImRldmljZU1vZGVsIjogIlRWQTIwMjBDIiwKICAgICAgICAgICAgICAgICAgImNvbXBhbnkiOiAizOy98rKuwekifSwKICAgICAgICB9LAo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAidHVybklkIjogMjAwMSwK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAidHZhX2xvZ3MiOiBbIkQ6L09uZURyaXZlL3Byb2plY3RzL7TzucG7r7mkLzIwMThsZGFyL2RhdGEvvOyy4rzHwrwttKbA7TQtyrG85C8iICsgaSBmb3IgaSBpbiB0dmFfbG9nc10sCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBdLAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeydtZWRpYSc6ICex+8+py+EnLCAgJ2ZhY3Rvcic6IDYuM30K</text>
+        <text encoding="base64">ICAgICAgICBdLAo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1cGxvYWRfc2VhbHNcPg==</last-search>
+      <last-search>file</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1cGxvYWRfc2VhbHNcPg==</last-pattern>
+      <last-pattern>file</last-pattern>
       <last-replace>2001</last-replace>
       <last-substitute>1001</last-substitute>
       <last-dir>1</last-dir>
@@ -3402,7 +3402,6 @@
     </search>
     <history>
       <history-search>
-        <entry>turn</entry>
         <entry>LdarSetting</entry>
         <entry>ldarSetting</entry>
         <entry encoding="base64">XDxwYXJzZVJvd0ZvclJlcGFpclw+</entry>
@@ -3422,6 +3421,7 @@
         <entry>1002</entry>
         <entry>1001</entry>
         <entry encoding="base64">XDx1cGxvYWRfc2VhbHNcPg==</entry>
+        <entry>file</entry>
       </history-search>
       <history-cmd>
         <entry>%s/BasicLayout/HeaderFooterLayout/gc</entry>
