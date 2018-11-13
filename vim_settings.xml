@@ -1251,12 +1251,11 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="44" column="28" />
       </file>
-      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/DetectionServiceImpl.java" timestamp="1542149612832">
+      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/DetectionServiceImpl.java" timestamp="1542151773071">
         <mark key="'" line="78" column="28" />
-        <mark key="[" line="387" column="44" />
-        <mark key="]" line="387" column="52" />
-        <mark key="^" line="387" column="52" />
-        <mark key="." line="387" column="52" />
+        <mark key="[" line="384" column="44" />
+        <mark key="]" line="384" column="44" />
+        <mark key="." line="384" column="44" />
       </file>
       <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/IInstallService.java" timestamp="1529889391231">
         <mark key="'" line="18" column="2" />
@@ -3227,7 +3226,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>dev</text>
+        <text>)</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -3334,7 +3333,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>dev</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>小</text>
@@ -3343,31 +3342,31 @@
         <text encoding="base64">ICAgICAgU0VUIEBub3RfZm91bmQgPSBDT05DQVQoX3RhZywgJ+acquaJvuWIsOazhOa8j+WumuS5ie+8jOivt+ehruiupOazhOa8j+inhOWImeWMuemFjeaIluWvhuWwgeeCueaYr+WQpuWtmOWcqCcpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBmb3IgKGludCBpID0gMDsgaSA8IGRldGVjdHMuc2l6ZSgpOyBpICs9IDIwMCkgewogICAgICAgIC8vIGRldGVjdGlvbk1hcHBlci5pbnNlcnRCYXRjaChkZXRlY3RzLnN1Ykxpc3QoaSwgTWF0aC5taW4oaSArIDIwMCwgZGV0ZWN0cy5zaXplKCkpKSk7CiAgICAgICAgLy8gfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZXRlY3Rpb25NYXBwZXIuaW5zZXJ0QmF0Y2goZGV0ZWN0cyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZGV0ZWN0cy5nZXQoMTM5MCkuZ2V0VGFnKCkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZXRlY3RzLnN1Ykxpc3QoKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLnRyYW5zZm9ybSh7CiAgdHlwZTogJ2ZpbHRlcicsCiAgY2FsbGJhY2socm93KSB7IC8vIO+/vdC277+9xLPSu++/ve+/ve+/vce377+977+977+977+977+9xKzvv73Pt++/ve+/ve+/vXRydWUKICAgIHJldHVybiByb3dbXSA+IDE5OTg7CiAgfQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLnRyYW5zZm9ybSh7CiAgdHlwZTogJ2ZpbHRlcicsCiAgY2FsbGJhY2socm93KSB7IC8vIO+/vdC277+9xLPSu++/ve+/ve+/vce377+977+977+977+977+9xKzvv73Pt++/ve+/ve+/vXRydWUKICAgIHJldHVybiByb3dbXSA+IDE5OTg7CiAgfQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICA8c2NyaXB0IHNyYz0iaHR0cHM6Ly9jZG4uanNkZWxpdnIubmV0L25wbS9iaXpjaGFydHMvdW1kL0JpekNoYXJ0cy5taW4uanMiPjwvc2NyaXB0Pgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICA8c2NyaXB0IHNyYz0iaHR0cHM6Ly9jZG4uanNkZWxpdnIubmV0L25wbS9iaXpjaGFydHMvdW1kL0JpekNoYXJ0cy5taW4uanMiPjwvc2NyaXB0Pgo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBkZXRlY3Rpb25NYXBwZXIuaW5zZXJ0QmF0Y2goZGV0ZWN0cyk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBkZXRlY3RzLnN1Ykxpc3QoKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgLnRyYW5zZm9ybSh7CiAgdHlwZTogJ2ZpbHRlcicsCiAgY2FsbGJhY2socm93KSB7IC8vIO+/vdC277+9xLPSu++/ve+/ve+/vce377+977+977+977+977+9xKzvv73Pt++/ve+/ve+/vXRydWUKICAgIHJldHVybiByb3dbXSA+IDE5OTg7CiAgfQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgLnRyYW5zZm9ybSh7CiAgdHlwZTogJ2ZpbHRlcicsCiAgY2FsbGJhY2socm93KSB7IC8vIO+/vdC277+9xLPSu++/ve+/ve+/vce377+977+977+977+977+9xKzvv73Pt++/ve+/ve+/vXRydWUKICAgIHJldHVybiByb3dbXSA+IDE5OTg7CiAgfQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICA8c2NyaXB0IHNyYz0iaHR0cHM6Ly9jZG4uanNkZWxpdnIubmV0L25wbS9iaXpjaGFydHMvdW1kL0JpekNoYXJ0cy5taW4uanMiPjwvc2NyaXB0Pgo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgeyByZXNvbHZlIH0gPSByZXF1aXJlKCdwYXRoJyk7Cg==</text>
+        <text encoding="base64">ICA8c2NyaXB0IHNyYz0iaHR0cHM6Ly9jZG4uanNkZWxpdnIubmV0L25wbS9iaXpjaGFydHMvdW1kL0JpekNoYXJ0cy5taW4uanMiPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>action NextTab</text>
