@@ -383,6 +383,12 @@
         <mark key="." line="57" column="23" />
         <mark key="^" line="59" column="35" />
       </file>
+      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/entity/enums/TagFormatField.java" timestamp="1542122609237">
+        <mark key="[" line="4" column="13" />
+        <mark key="]" line="4" column="23" />
+        <mark key="^" line="4" column="23" />
+        <mark key="." line="4" column="23" />
+      </file>
       <file name="C:/code/voc_ice/src/pages/ComponentPage/components/SealTable/SealTable.jsx" timestamp="1538572777164">
         <mark key="'" line="42" column="27" />
         <mark key="[" line="41" column="0" />
@@ -1830,6 +1836,9 @@
         <mark key="^" line="78" column="41" />
         <mark key="." line="69" column="0" />
       </file>
+      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/LdarSettingServiceImpl.java" timestamp="1542122803848">
+        <mark key="'" line="60" column="52" />
+      </file>
       <file name="C:/code/voc_ice/src/pages/SealStatistic/Filter/index.js" timestamp="1540721793090">
         <mark key="[" line="2" column="21" />
         <mark key="]" line="2" column="24" />
@@ -2514,12 +2523,12 @@
         <mark key="." line="931" column="25" />
         <mark key="^" line="931" column="25" />
       </file>
-      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" timestamp="1542116855108">
+      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" timestamp="1542122662178">
         <mark key="'" line="167" column="47" />
-        <mark key="[" line="473" column="8" />
-        <mark key="]" line="473" column="8" />
-        <mark key="." line="473" column="8" />
-        <mark key="^" line="473" column="8" />
+        <mark key="[" line="182" column="64" />
+        <mark key="]" line="182" column="74" />
+        <mark key="." line="182" column="74" />
+        <mark key="^" line="182" column="74" />
       </file>
       <file name="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/RepairServiceImpl.java" timestamp="1541582035910">
         <mark key="'" line="437" column="17" />
@@ -3109,7 +3118,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="163" column="15" filename="C:/code/voc/src/test/java/com/cnvoc/voc/service/impl/DelayRepairServiceImplTest.java" />
       <jump line="67" column="18" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/IDelayRepairService.java" />
       <jump line="45" column="26" filename="C:/code/voc/src/test/java/com/cnvoc/voc/service/impl/DelayRepairServiceImplTest.java" />
       <jump line="244" column="21" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/RepairServiceImpl.java" />
@@ -3209,6 +3217,7 @@
       <jump line="165" column="0" filename="C:/code/voc_ice/src/pages/UserLogin/UserLogin.jsx" />
       <jump line="98" column="15" filename="C:/code/voc_ice/src/pages/DetectionRangeStatistic/DetectionRangeStatistic.js" />
       <jump line="167" column="47" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" />
+      <jump line="60" column="52" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/LdarSettingServiceImpl.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3232,7 +3241,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>1998</text>
+        <text>No</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -3339,13 +3348,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>1998</text>
+        <text>No</text>
       </register>
       <register name="/" type="4">
         <text>小</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QHdpdGhSb3V0ZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgUGhvdG9ObzoKICAgICAgICAgICAgICAgICAgICByZXN1bHQgPSBTdHJpbmcuZm9ybWF0KGZvcm1hdCwgY29tcG9uZW50LmdldE5vKCkpOwogICAgICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgLnRyYW5zZm9ybSh7CiAgdHlwZTogJ2ZpbHRlcicsCiAgY2FsbGJhY2socm93KSB7IC8vIO+/vdC277+9xLPSu++/ve+/ve+/vce377+977+977+977+977+9xKzvv73Pt++/ve+/ve+/vXRydWUKICAgIHJldHVybiByb3dbXSA+IDE5OTg7CiAgfQo=</text>
@@ -3385,7 +3394,7 @@
       <last-replace>responseFactor</last-replace>
       <last-substitute>ldarSetting</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
