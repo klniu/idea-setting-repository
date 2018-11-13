@@ -693,10 +693,10 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="22" column="8" />
       </file>
-      <file name="C:/code/voc/src/main/resources/application-prod.yaml" timestamp="1541665547181">
+      <file name="C:/code/voc/src/main/resources/application-prod.yaml" timestamp="1542149714801">
         <mark key="'" line="19" column="7" />
-        <mark key="[" line="13" column="14" />
-        <mark key="]" line="13" column="33" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="28" />
         <mark key="^" line="13" column="29" />
         <mark key="." line="13" column="14" />
       </file>
@@ -1251,12 +1251,12 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="44" column="28" />
       </file>
-      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/DetectionServiceImpl.java" timestamp="1542127698563">
+      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/DetectionServiceImpl.java" timestamp="1542149612832">
         <mark key="'" line="78" column="28" />
-        <mark key="[" line="385" column="92" />
-        <mark key="]" line="385" column="93" />
-        <mark key="^" line="385" column="93" />
-        <mark key="." line="385" column="93" />
+        <mark key="[" line="387" column="44" />
+        <mark key="]" line="387" column="52" />
+        <mark key="^" line="387" column="52" />
+        <mark key="." line="387" column="52" />
       </file>
       <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/IInstallService.java" timestamp="1529889391231">
         <mark key="'" line="18" column="2" />
@@ -2218,7 +2218,7 @@
         <mark key="." line="42" column="19" />
         <mark key="^" line="42" column="28" />
       </file>
-      <file name="C:/code/voc/src/main/resources/application.yaml" timestamp="1541638215688">
+      <file name="C:/code/voc/src/main/resources/application.yaml" timestamp="1542150976499">
         <mark key="'" line="36" column="0" />
         <mark key="[" line="3" column="12" />
         <mark key="]" line="3" column="15" />
@@ -2330,12 +2330,12 @@
         <mark key="." line="269" column="0" />
         <mark key="^" line="198" column="33" />
       </file>
-      <file name="C:/code/voc/src/main/resources/sql/schema.sql" timestamp="1542127332878">
+      <file name="C:/code/voc/src/main/resources/sql/schema.sql" timestamp="1542150933853">
         <mark key="'" line="17" column="33" />
-        <mark key="[" line="590" column="23" />
-        <mark key="]" line="590" column="23" />
-        <mark key="^" line="474" column="29" />
-        <mark key="." line="590" column="23" />
+        <mark key="[" line="593" column="26" />
+        <mark key="]" line="593" column="26" />
+        <mark key="^" line="591" column="61" />
+        <mark key="." line="593" column="26" />
       </file>
       <file name="$USER_HOME$/code/LuckyCoinContract/package.json" timestamp="1532999818694">
         <mark key="'" line="1" column="0" />
@@ -2578,14 +2578,6 @@
         <mark key="]" line="39" column="18" />
         <mark key="^" line="39" column="18" />
         <mark key="." line="39" column="18" />
-      </file>
-      <file name="C:/code/voc_ice/src/pages/UserRegister/UserRegister.jsx" timestamp="1542003600406">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="11" />
-      </file>
-      <file name="C:/code/ice-master/react-materials/blocks/MultiplePieChart/src/Card.jsx" timestamp="1541997019531">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="62" column="2" />
       </file>
       <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/entity/Detection.java" timestamp="1523609356505">
         <mark key="'" line="75" column="12" />
@@ -2860,11 +2852,11 @@
         <mark key="." line="5870" column="802" />
         <mark key="^" line="5870" column="774" />
       </file>
-      <file name="C:/code/voc/Readme.md" timestamp="1541665540543">
-        <mark key="[" line="11" column="46" />
-        <mark key="]" line="11" column="64" />
-        <mark key="^" line="11" column="61" />
-        <mark key="." line="11" column="61" />
+      <file name="C:/code/voc/Readme.md" timestamp="1542148875925">
+        <mark key="[" line="25" column="19" />
+        <mark key="]" line="25" column="20" />
+        <mark key="^" line="25" column="0" />
+        <mark key="." line="25" column="20" />
       </file>
       <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/shiro/MyRealm.java" timestamp="1523767045638">
         <mark key="'" line="66" column="38" />
@@ -3235,7 +3227,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>dev</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -3342,13 +3334,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>dev</text>
       </register>
       <register name="/" type="4">
         <text>小</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBQb3N0TWFwcGluZygiL3VwbG9hZC9leGNlbCIpCiAgICBwdWJsaWMgUmVzdWx0IHVwbG9hZFNlYWxFeGNlbChAUmVxdWVzdFBhcmFtKCJmaWxlIikgTXVsdGlwYXJ0RmlsZSB1cGxvYWRmaWxlKSB7CiAgICAgICAgaWYgKHVwbG9hZGZpbGUuaXNFbXB0eSgpKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBJbnZhbGlkRGF0YUV4Y2VwdGlvbigi6K+35o+Q5L6b5LiA5Liq6KGo5qC85paH5Lu2Iik7CiAgICAgICAgfQogICAgICAgIGlmICghRmlsZW5hbWVVdGlscy5pc0V4dGVuc2lvbih1cGxvYWRmaWxlLmdldE9yaWdpbmFsRmlsZW5hbWUoKSwgQXJyYXlzLmFzTGlzdCgieGxzeCIsICJ4bHMiLCAiWExTWCIsICJYTFMiKSkpIHsKICAgICAgICAgICAgdGhyb3cgbmV3IEludmFsaWREYXRhRXhjZXB0aW9uKCLor7fmj5DkvpvkuIDkuKrmnInmlYjnmoTooajmoLzmlofku7YiKTsKICAgICAgICB9CiAgICAgICAgTG9uZyBmYWN0b3J5SWQgPSBpVXNlclNlcnZpY2UuZ2V0RmFjdG9yeUlkQnlUb2tlbigpOwogICAgICAgIHJldHVybiBuZXcgUmVzdWx0PD4oaVNlYWxTZXJ2aWNlLmltcG9ydEV4Y2VsKHVwbG9hZGZpbGUsIGZhY3RvcnlJZCkpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgU0VUIEBub3RfZm91bmQgPSBDT05DQVQoX3RhZywgJ+acquaJvuWIsOazhOa8j+WumuS5ie+8jOivt+ehruiupOazhOa8j+inhOWImeWMuemFjeaIluWvhuWwgeeCueaYr+WQpuWtmOWcqCcpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
