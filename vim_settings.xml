@@ -328,12 +328,6 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="129" column="3" />
       </file>
-      <file name="C:/code/voc_ice/src/utils/helpers.js" timestamp="1541751144010">
-        <mark key="'" line="1" column="34" />
-        <mark key="[" line="123" column="0" />
-        <mark key="]" line="123" column="0" />
-        <mark key="." line="123" column="0" />
-      </file>
       <file name="$USER_HOME$/code/voc_ice/src/components/TreeTable/treePage.js" timestamp="1537062590859">
         <mark key="'" line="42" column="23" />
         <mark key="[" line="42" column="32" />
@@ -1098,11 +1092,11 @@
         <mark key="." line="130" column="46" />
         <mark key="^" line="130" column="46" />
       </file>
-      <file name="C:/code/voc/src/test/java/com/cnvoc/voc/web/DetectionControllerTest.java" timestamp="1540025628215">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="6" column="7" />
-        <mark key="^" line="6" column="7" />
-        <mark key="." line="6" column="7" />
+      <file name="C:/code/voc/src/test/java/com/cnvoc/voc/web/DetectionControllerTest.java" timestamp="1542123712533">
+        <mark key="[" line="42" column="40" />
+        <mark key="]" line="43" column="7" />
+        <mark key="^" line="43" column="7" />
+        <mark key="." line="43" column="7" />
       </file>
       <file name="D:/code/web/voc-pro/src/routes/List/Applications.js" timestamp="1526607251374">
         <mark key="'" line="199" column="14" />
@@ -2010,12 +2004,12 @@
         <mark key="^" line="31" column="4" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/web/DetectionController.java" timestamp="1541246083148">
-        <mark key="'" line="127" column="64" />
-        <mark key="[" line="130" column="41" />
-        <mark key="]" line="130" column="44" />
-        <mark key="^" line="130" column="44" />
-        <mark key="." line="130" column="44" />
+      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/web/DetectionController.java" timestamp="1542123644344">
+        <mark key="'" line="124" column="3" />
+        <mark key="[" line="153" column="71" />
+        <mark key="]" line="153" column="72" />
+        <mark key="^" line="153" column="73" />
+        <mark key="." line="153" column="72" />
       </file>
       <file name="D:/code/web/voc-web/src/app/routes/base/base.module.ts" timestamp="1520141756916">
         <mark key="'" line="12" column="0" />
@@ -2196,7 +2190,7 @@
         <mark key="." line="35" column="48" />
         <mark key="^" line="35" column="48" />
       </file>
-      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/web/SealController.java" timestamp="1541297247621">
+      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/web/SealController.java" timestamp="1542123567759">
         <mark key="'" line="62" column="23" />
         <mark key="[" line="99" column="0" />
         <mark key="]" line="109" column="5" />
@@ -3118,7 +3112,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="18" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/IDelayRepairService.java" />
       <jump line="45" column="26" filename="C:/code/voc/src/test/java/com/cnvoc/voc/service/impl/DelayRepairServiceImplTest.java" />
       <jump line="244" column="21" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/RepairServiceImpl.java" />
       <jump line="80" column="6" filename="C:/code/voc/src/main/java/com/cnvoc/voc/web/RepairController.java" />
@@ -3218,6 +3211,7 @@
       <jump line="98" column="15" filename="C:/code/voc_ice/src/pages/DetectionRangeStatistic/DetectionRangeStatistic.js" />
       <jump line="167" column="47" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" />
       <jump line="60" column="52" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/LdarSettingServiceImpl.java" />
+      <jump line="124" column="3" filename="C:/code/voc/src/main/java/com/cnvoc/voc/web/DetectionController.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3241,7 +3235,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>No</text>
+        <text>iSealService</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -3348,13 +3342,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>No</text>
+        <text>iSealService</text>
       </register>
       <register name="/" type="4">
         <text>小</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgUGhvdG9ObzoKICAgICAgICAgICAgICAgICAgICByZXN1bHQgPSBTdHJpbmcuZm9ybWF0KGZvcm1hdCwgY29tcG9uZW50LmdldE5vKCkpOwogICAgICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
+        <text encoding="base64">ICAgIEBQb3N0TWFwcGluZygiL3VwbG9hZC9leGNlbCIpCiAgICBwdWJsaWMgUmVzdWx0IHVwbG9hZFNlYWxFeGNlbChAUmVxdWVzdFBhcmFtKCJmaWxlIikgTXVsdGlwYXJ0RmlsZSB1cGxvYWRmaWxlKSB7CiAgICAgICAgaWYgKHVwbG9hZGZpbGUuaXNFbXB0eSgpKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBJbnZhbGlkRGF0YUV4Y2VwdGlvbigi6K+35o+Q5L6b5LiA5Liq6KGo5qC85paH5Lu2Iik7CiAgICAgICAgfQogICAgICAgIGlmICghRmlsZW5hbWVVdGlscy5pc0V4dGVuc2lvbih1cGxvYWRmaWxlLmdldE9yaWdpbmFsRmlsZW5hbWUoKSwgQXJyYXlzLmFzTGlzdCgieGxzeCIsICJ4bHMiLCAiWExTWCIsICJYTFMiKSkpIHsKICAgICAgICAgICAgdGhyb3cgbmV3IEludmFsaWREYXRhRXhjZXB0aW9uKCLor7fmj5DkvpvkuIDkuKrmnInmlYjnmoTooajmoLzmlofku7YiKTsKICAgICAgICB9CiAgICAgICAgTG9uZyBmYWN0b3J5SWQgPSBpVXNlclNlcnZpY2UuZ2V0RmFjdG9yeUlkQnlUb2tlbigpOwogICAgICAgIHJldHVybiBuZXcgUmVzdWx0PD4oaVNlYWxTZXJ2aWNlLmltcG9ydEV4Y2VsKHVwbG9hZGZpbGUsIGZhY3RvcnlJZCkpOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgLnRyYW5zZm9ybSh7CiAgdHlwZTogJ2ZpbHRlcicsCiAgY2FsbGJhY2socm93KSB7IC8vIO+/vdC277+9xLPSu++/ve+/ve+/vce377+977+977+977+977+9xKzvv73Pt++/ve+/ve+/vXRydWUKICAgIHJldHVybiByb3dbXSA+IDE5OTg7CiAgfQo=</text>
