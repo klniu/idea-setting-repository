@@ -249,12 +249,12 @@
         <mark key="^" line="245" column="8" />
         <mark key="." line="149" column="31" />
       </file>
-      <file name="C:/code/pyutils/voc/ldar/yongli_api.py" timestamp="1542162095939">
+      <file name="C:/code/pyutils/voc/ldar/yongli_api.py" timestamp="1542162999073">
         <mark key="'" line="36" column="61" />
-        <mark key="[" line="105" column="4" />
-        <mark key="]" line="105" column="5" />
-        <mark key="^" line="105" column="5" />
-        <mark key="." line="105" column="5" />
+        <mark key="[" line="112" column="5" />
+        <mark key="]" line="112" column="5" />
+        <mark key="^" line="112" column="5" />
+        <mark key="." line="112" column="5" />
       </file>
       <file name="C:/code/voc_ice/src/pages/SealStatistic/components/WholeChart.js" timestamp="1541758468657">
         <mark key="'" line="47" column="41" />
@@ -2384,11 +2384,12 @@
         <mark key="." line="79" column="22" />
         <mark key="^" line="79" column="22" />
       </file>
-      <file name="C:/code/pyutils/voc/voc_api.py" timestamp="1542160771254">
-        <mark key="'" line="115" column="21" />
-        <mark key="[" line="137" column="0" />
-        <mark key="]" line="137" column="32" />
-        <mark key="." line="137" column="0" />
+      <file name="C:/code/pyutils/voc/voc_api.py" timestamp="1542163674355">
+        <mark key="'" line="134" column="30" />
+        <mark key="[" line="183" column="86" />
+        <mark key="]" line="183" column="90" />
+        <mark key="." line="183" column="90" />
+        <mark key="^" line="183" column="90" />
       </file>
       <file name="D:/code/web/voc-delon/src/app/core/startup/startup.service.ts" timestamp="1526527247859">
         <mark key="'" line="55" column="12" />
@@ -3120,11 +3121,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="63" filename="C:/code/voc/src/main/resources/mapper/RepairMapper.xml" />
-      <jump line="351" column="26" filename="C:/code/voc/src/test/java/com/cnvoc/voc/service/impl/RepairServiceImplTest.java" />
-      <jump line="0" column="0" filename="C:/code/voc/src/main/java/com/cnvoc/voc/common/Function.java" />
-      <jump line="83" column="49" filename="C:/code/voc/src/main/java/com/cnvoc/voc/entity/Repair.java" />
-      <jump line="0" column="0" filename="C:/code/voc/src/main/java/com/cnvoc/voc/entity/Detection.java" />
       <jump line="232" column="41" filename="C:/code/voc/src/test/java/com/cnvoc/voc/service/impl/RepairServiceImplTest.java" />
       <jump line="247" column="48" filename="C:/code/voc/src/test/java/com/cnvoc/voc/service/impl/DetectionServiceImplTest.java" />
       <jump line="286" column="43" filename="C:/code/voc/src/test/java/com/cnvoc/voc/service/impl/DetectionServiceImplTest.java" />
@@ -3220,6 +3216,11 @@
       <jump line="98" column="21" filename="C:/code/pyutils/voc/voc_api.py" />
       <jump line="100" column="83" filename="C:/code/pyutils/voc/voc_api.py" />
       <jump line="115" column="21" filename="C:/code/pyutils/voc/voc_api.py" />
+      <jump line="20" column="27" filename="C:/code/pyutils/voc/voc_api.py" />
+      <jump line="111" column="40" filename="C:/code/pyutils/voc/voc_api.py" />
+      <jump line="123" column="31" filename="C:/code/pyutils/voc/voc_api.py" />
+      <jump line="195" column="16" filename="C:/code/pyutils/voc/voc_api.py" />
+      <jump line="134" column="30" filename="C:/code/pyutils/voc/voc_api.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3242,8 +3243,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZvYy51cGxvYWRfZGV0ZWN0aW9uX2V4Y2VsKCkK</text>
+      <register name="&quot;" type="4">
+        <text>name</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -3350,65 +3351,56 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>name</text>
       </register>
       <register name="/" type="4">
-        <text>file</text>
+        <text>self.config\['url'\]</text>
       </register>
-      <register name="0" type="4">
-        <text>天津LDAR/永利化工/2018LDAR/detections/</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLl91cmwgPSBzZWxmLmNvbmZpZ1sndXJsJ10K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZvYy51cGxvYWRfZGV0ZWN0aW9uX2V4Y2VsKCkK</text>
+        <text encoding="base64">ICAgICAgICBpbnN0YWxscyA9IFtdCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIrW8yOvOrNDevMfCvKO6IiArIGYpCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgaSBpbiBpbnN0YWxsczoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnZmFjdG9yeUlkJzogc2VsZi5jb25maWdbJ2ZhY3RvcnlJZCddLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAitNfL4S2018vhLnhsc3giCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5zdGFsbHMuZXh0ZW5kKFtpWyd2YWx1ZSddIGZvciBpIGluIHVbJ2NoaWxkcmVuJ11dKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7ImZhY3RvcnlJZCI6IGZhY3RvcnlfaWQsICJzdGFuZGFyZElkIjogIjIwMDEiLCAibm8iOiAyLCAibmFtZSI6ICLL9brPuaS2ziIsCiAgICAgICAgICAgICAgICAgICAgICJjb2RlIjogIlhYWFNIMiIsCiAgICAgICAgICAgICAgICAgICAgICJ0eXBlIjogIlNPQ01JIiwgImNvbnN0cnVjdERhdGUiOiAiMjAxNC0wMy0zMSJ9LAogICAgICAgICAgICAgICAgICAgIHsiZmFjdG9yeUlkIjogZmFjdG9yeV9pZCwgInN0YW5kYXJkSWQiOiAiMjAwMSIsICJubyI6IDMsICJuYW1lIjogItDBtLy5pLbOIiwKICAgICAgICAgICAgICAgICAgICAgImNvZGUiOiAiWFhYWEMyIiwKICAgICAgICAgICAgICAgICAgICAgInR5cGUiOiAiU09DTUkiLCAiY29uc3RydWN0RGF0ZSI6ICIyMDE2LTAzLTMxIn0sCiAgICAgICAgICAgICAgICAgICAgeyJmYWN0b3J5SWQiOiBmYWN0b3J5X2lkLCAic3RhbmRhcmRJZCI6ICIyMDAxIiwgIm5vIjogNCwgIm5hbWUiOiAitqG0vLmkts4iLAogICAgICAgICAgICAgICAgICAgICAiY29kZSI6ICJYWFhEQzIiLAogICAgICAgICAgICAgICAgICAgICAidHlwZSI6ICJTT0NNSSIsICJjb25zdHJ1Y3REYXRlIjogIjIwMTYtMDQtMzAifSwKICAgICAgICAgICAgICAgICAgICB7ImZhY3RvcnlJZCI6IGZhY3RvcnlfaWQsICJzdGFuZGFyZElkIjogIjIwMDEiLCAibm8iOiA1LCAibmFtZSI6ICK53sf4IiwKICAgICAgICAgICAgICAgICAgICAgImNvZGUiOiAiWFhYR1EyIiwKICAgICAgICAgICAgICAgICAgICAgInR5cGUiOiAiU09DTUkiLCAiY29uc3RydWN0RGF0ZSI6ICIyMDE0LTA0LTMwIn0sCg==</text>
+        <text encoding="base64">ICAgICAgICBleGl0KDApCg==</text>
       </register>
-      <register name="6" type="8">
-        <text>一
-一
-一
-一
-一</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHZvYy51cGxvYWRfZGV0ZWN0aW9uX2V4Y2VsKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAiMDMwMtLSsb1fbmV3Lnhsc3giLAogICAgICAgICIwMzAzsb3S0s+pud7H+F9uZXcueGxzeCIsCiAgICAgICAgIjAzMDTN0cfi17DWw19uZXcueGxzeCIsCiAgICAgICAgIjAzMDW438jIwq9fbmV3Lnhsc3giCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIrW8yOvOrNDevMfCvKO6IiArIGYpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAiZGV0ZWN0aW9uX2luZm8iOiB7CiAgICAgICAgICAgICIxIjogeyJwZXJzb25zIjogJ7rOwcEnLCAiZGV2aWNlTm8iOiAnMTQyMzIzJywgImRldmljZU1vZGVsIjogIlRWQTIwMjBDIiwKICAgICAgICAgICAgICAgICAgImNvbXBhbnkiOiAizOy98rKuwekifSwKICAgICAgICAgICAgIjIiOiB7InBlcnNvbnMiOiAnus7BwTEnLCAiZGV2aWNlTm8iOiAnMTQyMzIzJywgImRldmljZU1vZGVsIjogIlRWQTIwMjBDIiwKICAgICAgICAgICAgICAgICAgImNvbXBhbnkiOiAizOy98rKuwekifSwKICAgICAgICAgICAgIjMiOiB7InBlcnNvbnMiOiAnus7BwTInLCAiZGV2aWNlTm8iOiAnMTQyMzIzJywgImRldmljZU1vZGVsIjogIlRWQTIwMjBDIiwKICAgICAgICAgICAgICAgICAgImNvbXBhbnkiOiAizOy98rKuwekifSwKICAgICAgICAgICAgIjQiOiB7InBlcnNvbnMiOiAnus7BwTMnLCAiZGV2aWNlTm8iOiAnMTQyMzIzJywgImRldmljZU1vZGVsIjogIlRWQTIwMjBDIiwKICAgICAgICAgICAgICAgICAgImNvbXBhbnkiOiAizOy98rKuwekifSwKICAgICAgICAgICAgIjUiOiB7InBlcnNvbnMiOiAnus7BwTQnLCAiZGV2aWNlTm8iOiAnMTQyMzIzJywgImRldmljZU1vZGVsIjogIlRWQTIwMjBDIiwKICAgICAgICAgICAgICAgICAgImNvbXBhbnkiOiAizOy98rKuwekifSwKICAgICAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnZmFjdG9yeUlkJzogc2VsZi5jb25maWdbJ2ZhY3RvcnlJZCddLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAidHVybklkIjogMjAwMSwK</text>
+        <text encoding="base64">ICAgICAgICAitNfL4S2018vhLnhsc3giCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action NextTab</text>
+        <text>%s/self.config\['url'\]/self._url/gc</text>
       </register>
     </registers>
     <search>
-      <last-search>file</last-search>
+      <last-search>self.config\['url'\]</last-search>
       <last-offset />
-      <last-pattern>file</last-pattern>
-      <last-replace>2001</last-replace>
-      <last-substitute>1001</last-substitute>
+      <last-pattern>self.config\['url'\]</last-pattern>
+      <last-replace>self._url</last-replace>
+      <last-substitute>self.config\['url'\]</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>LdarSetting</entry>
-        <entry>ldarSetting</entry>
-        <entry encoding="base64">XDxwYXJzZVJvd0ZvclJlcGFpclw+</entry>
-        <entry encoding="base64">XDxmaWxsUmVwYWlyXD4=</entry>
-        <entry encoding="base64">XDxSYWN0b3JzQ2FsY3VsYXRvclw+</entry>
         <entry encoding="base64">XDxjb3JlRGF0YUNoYXJ0V3JhcHBlclw+</entry>
         <entry encoding="base64">XDxjYWxjVGFibGVEYXRhXD4=</entry>
         <entry encoding="base64">XDxzZXJ2aWNlQ2hpbmVzZVw+</entry>
@@ -3424,12 +3416,13 @@
         <entry>1001</entry>
         <entry encoding="base64">XDx1cGxvYWRfc2VhbHNcPg==</entry>
         <entry>file</entry>
+        <entry>factory</entry>
+        <entry>self.config['factoryId']</entry>
+        <entry>self.config\['factoryId'\]</entry>
+        <entry>self.config\['turnId'\]</entry>
+        <entry>self.config\['url'\]</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/BasicLayout/HeaderFooterLayout/gc</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gUHJldmlvdXNUYWI=</entry>
-        <entry>action Back</entry>
-        <entry encoding="base64">JzwsJz5J</entry>
         <entry>%s/_1/getLeft()/gc</entry>
         <entry>%s/_2/getRight()/gc</entry>
         <entry>%s/List.of/Arrays.asList/gc</entry>
@@ -3444,8 +3437,12 @@
         <entry>%s/1002/2002/gc</entry>
         <entry>%s/1001/2001/gc</entry>
         <entry>wq</entry>
-        <entry>action PreviousTab</entry>
         <entry>action NextTab</entry>
+        <entry>action PreviousTab</entry>
+        <entry>%s/self.config['factoryId']/self._factory_id/gc</entry>
+        <entry>%s/self.config\['factoryId'\]/self._factory_id/gc</entry>
+        <entry>%s/self.config\['turnId'\]/self._turn_id/gc</entry>
+        <entry>%s/self.config\['url'\]/self._url/gc</entry>
       </history-cmd>
       <history-expr />
       <history-input />
