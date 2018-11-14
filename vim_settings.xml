@@ -1106,8 +1106,8 @@
         <mark key="^" line="35" column="2" />
         <mark key="." line="35" column="2" />
       </file>
-      <file name="C:/code/pyutils/voc/dagu/dagu_api.py" timestamp="1542165840759">
-        <mark key="'" line="4" column="4" />
+      <file name="C:/code/pyutils/voc/dagu/dagu_api.py" timestamp="1542169146389">
+        <mark key="'" line="145" column="9" />
         <mark key="[" line="145" column="0" />
         <mark key="]" line="148" column="10" />
         <mark key="^" line="151" column="5" />
@@ -1185,7 +1185,7 @@
         <mark key="." line="115" column="22" />
         <mark key="^" line="115" column="22" />
       </file>
-      <file name="C:/code/pyutils/voc/dagu/daguserver.py" timestamp="1540519542495">
+      <file name="C:/code/pyutils/voc/dagu/daguserver.py" timestamp="1542169205850">
         <mark key="'" line="108" column="58" />
         <mark key="[" line="21" column="4" />
         <mark key="]" line="21" column="4" />
@@ -2384,8 +2384,8 @@
         <mark key="." line="79" column="22" />
         <mark key="^" line="79" column="22" />
       </file>
-      <file name="C:/code/pyutils/voc/voc_api.py" timestamp="1542163674355">
-        <mark key="'" line="134" column="30" />
+      <file name="C:/code/pyutils/voc/voc_api.py" timestamp="1542169117039">
+        <mark key="'" line="206" column="42" />
         <mark key="[" line="183" column="86" />
         <mark key="]" line="183" column="90" />
         <mark key="." line="183" column="90" />
@@ -3121,14 +3121,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="232" column="41" filename="C:/code/voc/src/test/java/com/cnvoc/voc/service/impl/RepairServiceImplTest.java" />
-      <jump line="247" column="48" filename="C:/code/voc/src/test/java/com/cnvoc/voc/service/impl/DetectionServiceImplTest.java" />
-      <jump line="286" column="43" filename="C:/code/voc/src/test/java/com/cnvoc/voc/service/impl/DetectionServiceImplTest.java" />
-      <jump line="100" column="47" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/DetectionServiceImpl.java" />
-      <jump line="121" column="19" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/DetectionServiceImpl.java" />
-      <jump line="47" column="0" filename="C:/code/voc/src/main/java/com/cnvoc/voc/entity/Detection.java" />
-      <jump line="45" column="56" filename="C:/code/voc/src/main/java/com/cnvoc/voc/web/DelayRepairController.java" />
-      <jump line="103" column="23" filename="C:/code/voc/src/main/java/com/cnvoc/voc/web/RepairController.java" />
       <jump line="46" column="49" filename="C:/code/voc/src/main/java/com/cnvoc/voc/web/DelayRepairController.java" />
       <jump line="40" column="26" filename="C:/code/voc/src/main/java/com/cnvoc/voc/web/DelayRepairController.java" />
       <jump line="41" column="44" filename="C:/code/voc/src/main/java/com/cnvoc/voc/web/LdarStandardController.java" />
@@ -3217,10 +3209,18 @@
       <jump line="100" column="83" filename="C:/code/pyutils/voc/voc_api.py" />
       <jump line="115" column="21" filename="C:/code/pyutils/voc/voc_api.py" />
       <jump line="20" column="27" filename="C:/code/pyutils/voc/voc_api.py" />
-      <jump line="111" column="40" filename="C:/code/pyutils/voc/voc_api.py" />
-      <jump line="123" column="31" filename="C:/code/pyutils/voc/voc_api.py" />
       <jump line="195" column="16" filename="C:/code/pyutils/voc/voc_api.py" />
       <jump line="134" column="30" filename="C:/code/pyutils/voc/voc_api.py" />
+      <jump line="25" column="27" filename="C:/code/pyutils/voc/voc_api.py" />
+      <jump line="111" column="31" filename="C:/code/pyutils/voc/voc_api.py" />
+      <jump line="123" column="39" filename="C:/code/pyutils/voc/voc_api.py" />
+      <jump line="159" column="31" filename="C:/code/pyutils/voc/voc_api.py" />
+      <jump line="168" column="31" filename="C:/code/pyutils/voc/voc_api.py" />
+      <jump line="174" column="82" filename="C:/code/pyutils/voc/voc_api.py" />
+      <jump line="187" column="48" filename="C:/code/pyutils/voc/voc_api.py" />
+      <jump line="197" column="35" filename="C:/code/pyutils/voc/voc_api.py" />
+      <jump line="206" column="42" filename="C:/code/pyutils/voc/voc_api.py" />
+      <jump line="145" column="9" filename="C:/code/pyutils/voc/dagu/dagu_api.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3354,7 +3354,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>self.config\['url'\]</text>
+        <text>rf</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAizOy98tPAwPtyZXBhaXIueGxzeCIsCg==</text>
@@ -3387,13 +3387,13 @@
         <text encoding="base64">ICAgICAgICAitNfL4S2018vhLnhsc3giCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action PreviousTab</text>
+        <text>action NextTab</text>
       </register>
     </registers>
     <search>
-      <last-search>self.config\['url'\]</last-search>
+      <last-search>rf</last-search>
       <last-offset />
-      <last-pattern>self.config\['url'\]</last-pattern>
+      <last-pattern>rf</last-pattern>
       <last-replace>self._url</last-replace>
       <last-substitute>self.config\['url'\]</last-substitute>
       <last-dir>1</last-dir>
@@ -3401,9 +3401,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb3JlRGF0YUNoYXJ0V3JhcHBlclw+</entry>
-        <entry encoding="base64">XDxjYWxjVGFibGVEYXRhXD4=</entry>
-        <entry encoding="base64">XDxzZXJ2aWNlQ2hpbmVzZVw+</entry>
         <entry encoding="base64">XDxjaGluZXNlRnVuY1w+</entry>
         <entry encoding="base64">XDxkdlw+</entry>
         <entry>seal</entry>
@@ -3421,6 +3418,9 @@
         <entry>self.config\['factoryId'\]</entry>
         <entry>self.config\['turnId'\]</entry>
         <entry>self.config\['url'\]</entry>
+        <entry>factor</entry>
+        <entry encoding="base64">XDxmYWN0b3JzXD4=</entry>
+        <entry>rf</entry>
       </history-search>
       <history-cmd>
         <entry>%s/_1/getLeft()/gc</entry>
@@ -3437,12 +3437,12 @@
         <entry>%s/1002/2002/gc</entry>
         <entry>%s/1001/2001/gc</entry>
         <entry>wq</entry>
-        <entry>action NextTab</entry>
         <entry>%s/self.config['factoryId']/self._factory_id/gc</entry>
         <entry>%s/self.config\['factoryId'\]/self._factory_id/gc</entry>
         <entry>%s/self.config\['turnId'\]/self._turn_id/gc</entry>
         <entry>%s/self.config\['url'\]/self._url/gc</entry>
         <entry>action PreviousTab</entry>
+        <entry>action NextTab</entry>
       </history-cmd>
       <history-expr />
       <history-input />
