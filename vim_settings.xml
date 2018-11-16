@@ -632,12 +632,6 @@
         <mark key="." line="119" column="16" />
         <mark key="^" line="119" column="16" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" timestamp="1541138786504">
-        <mark key="[" line="0" column="4" />
-        <mark key="]" line="0" column="6" />
-        <mark key="." line="0" column="6" />
-        <mark key="^" line="0" column="6" />
-      </file>
       <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/ILdarStandardService.java" timestamp="1521030362892">
         <mark key="'" line="21" column="18" />
         <mark key="[" line="21" column="0" />
@@ -774,7 +768,7 @@
         <mark key="^" line="6" column="14" />
         <mark key="." line="6" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542360296144">
+      <file name="/Dummy.txt" timestamp="1542359960102">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -931,6 +925,12 @@
       </file>
       <file name="C:/code/ice-master/react-materials/blocks/MultiplePieChart/src/MultiplePieChart.jsx" timestamp="1541996791379">
         <mark key="'" line="88" column="13" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/webstorm64.exe.vmoptions" timestamp="1541138843032">
+        <mark key="[" line="3" column="4" />
+        <mark key="]" line="3" column="7" />
+        <mark key="." line="3" column="7" />
+        <mark key="^" line="3" column="7" />
       </file>
       <file name="C:/code/voc/src/main/resources/application-dev.yaml" timestamp="1541665568518">
         <mark key="[" line="11" column="13" />
@@ -1257,12 +1257,12 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="44" column="28" />
       </file>
-      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/DetectionServiceImpl.java" timestamp="1542360002890">
-        <mark key="'" line="772" column="26" />
-        <mark key="[" line="691" column="15" />
-        <mark key="]" line="691" column="29" />
-        <mark key="." line="691" column="29" />
-        <mark key="^" line="691" column="29" />
+      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/DetectionServiceImpl.java" timestamp="1541582006327">
+        <mark key="'" line="78" column="28" />
+        <mark key="[" line="617" column="0" />
+        <mark key="]" line="618" column="49" />
+        <mark key="." line="624" column="57" />
+        <mark key="^" line="624" column="57" />
       </file>
       <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/IInstallService.java" timestamp="1529889391231">
         <mark key="'" line="18" column="2" />
@@ -3031,12 +3031,6 @@
         <mark key="." line="56" column="28" />
         <mark key="^" line="56" column="28" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/webstorm64.exe.vmoptions" timestamp="1541138843032">
-        <mark key="[" line="3" column="4" />
-        <mark key="]" line="3" column="7" />
-        <mark key="." line="3" column="7" />
-        <mark key="^" line="3" column="7" />
-      </file>
       <file name="C:/code/voc_ice/src/components/PhotoView/PhotoView.js" timestamp="1538572919980">
         <mark key="'" line="47" column="30" />
         <mark key="[" line="31" column="3" />
@@ -3086,6 +3080,12 @@
         <mark key="." line="61" column="35" />
         <mark key="^" line="61" column="36" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" timestamp="1541138786504">
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="0" column="6" />
+        <mark key="." line="0" column="6" />
+        <mark key="^" line="0" column="6" />
+      </file>
       <file name="$USER_HOME$/code/pyutils/work/SafetySystemLevelsCount.py" timestamp="1536282764152">
         <mark key="'" line="40" column="4" />
         <mark key="[" line="7" column="43" />
@@ -3126,6 +3126,7 @@
       </file>
     </filemarks>
     <jumps>
+      <jump line="163" column="15" filename="C:/code/voc/src/test/java/com/cnvoc/voc/service/impl/DelayRepairServiceImplTest.java" />
       <jump line="67" column="18" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/IDelayRepairService.java" />
       <jump line="45" column="26" filename="C:/code/voc/src/test/java/com/cnvoc/voc/service/impl/DelayRepairServiceImplTest.java" />
       <jump line="244" column="21" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/RepairServiceImpl.java" />
@@ -3225,7 +3226,6 @@
       <jump line="165" column="0" filename="C:/code/voc_ice/src/pages/UserLogin/UserLogin.jsx" />
       <jump line="98" column="15" filename="C:/code/voc_ice/src/pages/DetectionRangeStatistic/DetectionRangeStatistic.js" />
       <jump line="167" column="47" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" />
-      <jump line="770" column="26" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/DetectionServiceImpl.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3249,7 +3249,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>origins</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -3356,56 +3356,57 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>origins</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzcGxpdE51bVw+</text>
+        <text>小</text>
       </register>
-      <register name="0" type="4">
-        <text>RandomUtils.nextInt(500, 550)</text>
+      <register name="0" type="2">
+        <text encoding="base64">QHdpdGhSb3V0ZXIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmFkZEFsbChleHRyYURldGVjdGlvbnMpOwo=</text>
+        <text encoding="base64">ICAgIHZvYy51cGxvYWRfcmVwYWlycygpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZvYy51cGxvYWRfcmVwYWlycygpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByYW5nZUV4dHJhRGV0ZWN0aW9ucyhleHRyYURldGVjdGlvbnMpOwogICAgICAgIG9yaWdpbnMuYWRkQWxsKGV4dHJhRGV0ZWN0aW9ucyk7CiAgICAgICAgdXBkYXRlQmF0Y2hCeUlkKG9yaWdpbnMpOwo=</text>
+        <text encoding="base64">ICAgICAgLnRyYW5zZm9ybSh7CiAgdHlwZTogJ2ZpbHRlcicsCiAgY2FsbGJhY2socm93KSB7IC8vIO+/vdC277+9xLPSu++/ve+/ve+/vce377+977+977+977+977+9xKzvv73Pt++/ve+/ve+/vXRydWUKICAgIHJldHVybiByb3dbXSA+IDE5OTg7CiAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2l6ZSA9IFJhbmRvbVV0aWxzLm5leHRJbnQoNTAwLCA1NTApOwogICAgICAgIH07Cg==</text>
+        <text encoding="base64">ICAgICAgLnRyYW5zZm9ybSh7CiAgdHlwZTogJ2ZpbHRlcicsCiAgY2FsbGJhY2socm93KSB7IC8vIO+/vdC277+9xLPSu++/ve+/ve+/vce377+977+977+977+977+9xKzvv73Pt++/ve+/ve+/vXRydWUKICAgIHJldHVybiByb3dbXSA+IDE5OTg7CiAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICA8c2NyaXB0IHNyYz0iaHR0cHM6Ly9jZG4uanNkZWxpdnIubmV0L25wbS9iaXpjaGFydHMvdW1kL0JpekNoYXJ0cy5taW4uanMiPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0LmFkZChzaXplKTsKICAgICAgICAgICAgc3VtIC09IHNpemU7Cg==</text>
+        <text encoding="base64">ICA8c2NyaXB0IHNyYz0iaHR0cHM6Ly9jZG4uanNkZWxpdnIubmV0L25wbS9iaXpjaGFydHMvdW1kL0JpekNoYXJ0cy5taW4uanMiPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB3aGlsZSAoc3VtIC8gc2l6ZSA+IDApIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgc2l6ZSA9IFJhbmRvbVV0aWxzLm5leHRJbnQoNTAwLCA1NTApOzsK</text>
+        <text encoding="base64">Y29uc3QgeyByZXNvbHZlIH0gPSByZXF1aXJlKCdwYXRoJyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2l6ZSA9IFJhbmRvbVV0aWxzLm5leHRJbnQoNTAwLCA1NTApOwo=</text>
+        <text encoding="base64">Y29uc3QgRXh0cmFjdFRleHRQbHVnaW4gPSByZXF1aXJlKCdleHRyYWN0LXRleHQtd2VicGFjay1wbHVnaW4nKTsK</text>
       </register>
       <register name=":" type="4">
         <text>action NextTab</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzcGxpdE51bVw+</last-search>
+      <last-search>小</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzcGxpdE51bVw+</last-pattern>
+      <last-pattern>小</last-pattern>
       <last-replace>responseFactor</last-replace>
       <last-substitute>ldarSetting</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
+        <entry>deviceNo</entry>
         <entry encoding="base64">XDxhZGRSZXBhaXJCeURldGVjdGlvblw+</entry>
         <entry>turn</entry>
         <entry>LdarSetting</entry>
@@ -3425,7 +3426,6 @@
         <entry>console</entry>
         <entry>history</entry>
         <entry>小</entry>
-        <entry encoding="base64">XDxzcGxpdE51bVw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/content\[i++\]/{content[i++]}/gc</entry>
