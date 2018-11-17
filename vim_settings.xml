@@ -249,11 +249,11 @@
         <mark key="^" line="245" column="8" />
         <mark key="." line="149" column="31" />
       </file>
-      <file name="C:/code/pyutils/voc/ldar/yongli_api.py" timestamp="1542198868866">
-        <mark key="[" line="33" column="8" />
-        <mark key="]" line="33" column="9" />
-        <mark key="." line="33" column="9" />
-        <mark key="^" line="33" column="9" />
+      <file name="C:/code/pyutils/voc/ldar/yongli_api.py" timestamp="1542420046951">
+        <mark key="'" line="103" column="20" />
+        <mark key="[" line="120" column="0" />
+        <mark key="]" line="120" column="30" />
+        <mark key="." line="120" column="0" />
       </file>
       <file name="C:/code/voc_ice/src/pages/SealStatistic/components/WholeChart.js" timestamp="1541758468657">
         <mark key="'" line="47" column="41" />
@@ -1882,10 +1882,11 @@
         <mark key="." line="38" column="63" />
         <mark key="^" line="38" column="63" />
       </file>
-      <file name="C:/code/pyutils/voc/ldar/aojia_api.py" timestamp="1542199265183">
-        <mark key="[" line="20" column="9" />
-        <mark key="]" line="20" column="9" />
-        <mark key="." line="20" column="9" />
+      <file name="C:/code/pyutils/voc/ldar/aojia_api.py" timestamp="1542419971704">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
         <mark key="^" line="20" column="9" />
       </file>
       <file name="C:/code/voc_ice/src/pages/Detection/components/TVAForm.jsx" timestamp="1538803798294">
@@ -2394,11 +2395,11 @@
         <mark key="." line="79" column="22" />
         <mark key="^" line="79" column="22" />
       </file>
-      <file name="C:/code/pyutils/voc/voc_api.py" timestamp="1541518000612">
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="25" />
-        <mark key="^" line="49" column="23" />
-        <mark key="." line="57" column="0" />
+      <file name="C:/code/pyutils/voc/voc_api.py" timestamp="1542418937216">
+        <mark key="[" line="251" column="49" />
+        <mark key="]" line="251" column="55" />
+        <mark key="^" line="251" column="55" />
+        <mark key="." line="251" column="55" />
       </file>
       <file name="D:/code/web/voc-delon/src/app/core/startup/startup.service.ts" timestamp="1526527247859">
         <mark key="'" line="55" column="12" />
@@ -3126,8 +3127,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="163" column="15" filename="C:/code/voc/src/test/java/com/cnvoc/voc/service/impl/DelayRepairServiceImplTest.java" />
-      <jump line="67" column="18" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/IDelayRepairService.java" />
       <jump line="45" column="26" filename="C:/code/voc/src/test/java/com/cnvoc/voc/service/impl/DelayRepairServiceImplTest.java" />
       <jump line="244" column="21" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/RepairServiceImpl.java" />
       <jump line="80" column="6" filename="C:/code/voc/src/main/java/com/cnvoc/voc/web/RepairController.java" />
@@ -3226,6 +3225,8 @@
       <jump line="165" column="0" filename="C:/code/voc_ice/src/pages/UserLogin/UserLogin.jsx" />
       <jump line="98" column="15" filename="C:/code/voc_ice/src/pages/DetectionRangeStatistic/DetectionRangeStatistic.js" />
       <jump line="167" column="47" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" />
+      <jump line="0" column="0" filename="C:/code/pyutils/voc/ldar/aojia_api.py" />
+      <jump line="103" column="20" filename="C:/code/pyutils/voc/ldar/yongli_api.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3248,8 +3249,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHZvYy5leHBvcnRfdG9iZV9yZXBhaXJlZCgpCg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -3356,40 +3357,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>detection_excel</text>
       </register>
       <register name="/" type="4">
         <text>小</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QHdpdGhSb3V0ZXIK</text>
+        <text encoding="base64">ICAgIHZvYy5leHBvcnRfdG9iZV9yZXBhaXJlZCgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZvYy51cGxvYWRfcmVwYWlycygpCg==</text>
+        <text encoding="base64">ICAgIHZvYy5leHBvcnRfdG9iZV9yZXBhaXJlZCgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZvYy51cGxvYWRfcmVwYWlycygpCg==</text>
+        <text encoding="base64">ICAgIHZvYy5leHBvcnRfdG9iZV9yZXBhaXJlZCgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLnRyYW5zZm9ybSh7CiAgdHlwZTogJ2ZpbHRlcicsCiAgY2FsbGJhY2socm93KSB7IC8vIO+/vdC277+9xLPSu++/ve+/ve+/vce377+977+977+977+977+9xKzvv73Pt++/ve+/ve+/vXRydWUKICAgIHJldHVybiByb3dbXSA+IDE5OTg7CiAgfQo=</text>
+        <text encoding="base64">ICAgIHZvYy5leHBvcnRfdG9iZV9yZXBhaXJlZCgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLnRyYW5zZm9ybSh7CiAgdHlwZTogJ2ZpbHRlcicsCiAgY2FsbGJhY2socm93KSB7IC8vIO+/vdC277+9xLPSu++/ve+/ve+/vce377+977+977+977+977+9xKzvv73Pt++/ve+/ve+/vXRydWUKICAgIHJldHVybiByb3dbXSA+IDE5OTg7CiAgfQo=</text>
+        <text encoding="base64">ICAgIHZvYyA9IFZPQyhjKQogICAgIyB2b2MuYWRkX3VuaXRzKCkKICAgICMgdm9jLnVwbG9hZF9waG90b3MoKQogICAgIyB2b2MudXBsb2FkX3NlYWxzX2V4Y2VsKCkKICAgICMgdm9jLmFkZF9yZXNwb25zZV9mYWN0b3JzKCkKICAgICMgdm9jLmdlbmVyYXRlX3BkZigpCiAgICAjIHZvYy5hZGRfdG9iZXMoKQogICAgIyB2b2MudXBsb2FkX2RldGVjdGlvbl9leGNlbCgpCiAgICB2b2MuZXhwb3J0X3RvYmVzKCkKICAgIHZvYy5leHBvcnRfdHZhKCkKICAgICMgdm9jLmV4cG9ydF90b2JlX3JlcGFpcmVkKCkKICAgICMgdm9jLmV4cG9ydF9sZWFraW5nX3Bob3RvcygpCiAgICAjIHZvYy51cGxvYWRfcmVwYWlycygpCiAgICAjIHZvYy51cGxvYWRfZGVsYXlfcmVwYWlycygpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICA8c2NyaXB0IHNyYz0iaHR0cHM6Ly9jZG4uanNkZWxpdnIubmV0L25wbS9iaXpjaGFydHMvdW1kL0JpekNoYXJ0cy5taW4uanMiPjwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">ICAgICMgdm9jLnJlcmFuZ2VfdGltZSgpCiAgICAjIHZvYy5leHBvcnRfZGV0ZWN0aW9uX2V4Y2VsKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICA8c2NyaXB0IHNyYz0iaHR0cHM6Ly9jZG4uanNkZWxpdnIubmV0L25wbS9iaXpjaGFydHMvdW1kL0JpekNoYXJ0cy5taW4uanMiPjwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">ICAgIHZvYy51cGxvYWRfcmVwYWlycygpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZvYy51cGxvYWRfcmVwYWlycygpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgeyByZXNvbHZlIH0gPSByZXF1aXJlKCdwYXRoJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgLnRyYW5zZm9ybSh7CiAgdHlwZTogJ2ZpbHRlcicsCiAgY2FsbGJhY2socm93KSB7IC8vIO+/vdC277+9xLPSu++/ve+/ve+/vce377+977+977+977+977+9xKzvv73Pt++/ve+/ve+/vXRydWUKICAgIHJldHVybiByb3dbXSA+IDE5OTg7CiAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgRXh0cmFjdFRleHRQbHVnaW4gPSByZXF1aXJlKCdleHRyYWN0LXRleHQtd2VicGFjay1wbHVnaW4nKTsK</text>
+        <text encoding="base64">ICAgICAgLnRyYW5zZm9ybSh7CiAgdHlwZTogJ2ZpbHRlcicsCiAgY2FsbGJhY2socm93KSB7IC8vIO+/vdC277+9xLPSu++/ve+/ve+/vce377+977+977+977+977+9xKzvv73Pt++/ve+/ve+/vXRydWUKICAgIHJldHVybiByb3dbXSA+IDE5OTg7CiAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>action NextTab</text>
