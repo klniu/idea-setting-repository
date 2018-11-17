@@ -19,7 +19,7 @@
         <mark key="^" line="83" column="25" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1542436132909">
+      <file name="/a.dummy" timestamp="1542440698337">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/ComponentServiceImpl.java" timestamp="1523955925447">
@@ -1016,6 +1016,13 @@
         <mark key="." line="29" column="30" />
         <mark key="^" line="29" column="30" />
       </file>
+      <file name="C:/code/pyutils/voc/ldar/dagu_2018.py" timestamp="1542441102348">
+        <mark key="'" line="168" column="0" />
+        <mark key="[" line="160" column="0" />
+        <mark key="]" line="166" column="47" />
+        <mark key="^" line="185" column="5" />
+        <mark key="." line="160" column="0" />
+      </file>
       <file name="C:/code/voc_ice/build/index.html" timestamp="1542005781655">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -1722,12 +1729,12 @@
         <mark key="." line="33" column="22" />
         <mark key="^" line="51" column="70" />
       </file>
-      <file name="C:/code/pyutils/voc/ldar/dagu_origin_2018.py" timestamp="1542439186390">
-        <mark key="'" line="181" column="12" />
-        <mark key="[" line="165" column="36" />
-        <mark key="]" line="165" column="45" />
-        <mark key="." line="165" column="45" />
-        <mark key="^" line="165" column="45" />
+      <file name="C:/code/pyutils/voc/ldar/dagu_origin_2018.py" timestamp="1542440639059">
+        <mark key="'" line="182" column="12" />
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="87" column="47" />
+        <mark key="." line="87" column="0" />
+        <mark key="^" line="185" column="17" />
       </file>
       <file name="D:/code/java/voc/src/test/resources/sql/clear.sql" timestamp="1523757183962">
         <mark key="'" line="0" column="27" />
@@ -1905,12 +1912,12 @@
         <mark key="." line="38" column="63" />
         <mark key="^" line="38" column="63" />
       </file>
-      <file name="C:/code/pyutils/voc/ldar/aojia_api.py" timestamp="1542422791057">
+      <file name="C:/code/pyutils/voc/ldar/aojia_api.py" timestamp="1542441278500">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="71" column="4" />
-        <mark key="]" line="71" column="4" />
-        <mark key="." line="71" column="4" />
-        <mark key="^" line="67" column="5" />
+        <mark key="[" line="68" column="4" />
+        <mark key="]" line="68" column="5" />
+        <mark key="." line="68" column="5" />
+        <mark key="^" line="68" column="5" />
       </file>
       <file name="C:/code/voc_ice/src/pages/Detection/components/TVAForm.jsx" timestamp="1538803798294">
         <mark key="'" line="64" column="10" />
@@ -2418,11 +2425,11 @@
         <mark key="." line="79" column="22" />
         <mark key="^" line="79" column="22" />
       </file>
-      <file name="C:/code/pyutils/voc/voc_api.py" timestamp="1542437266764">
-        <mark key="[" line="125" column="0" />
-        <mark key="]" line="125" column="32" />
-        <mark key="^" line="194" column="52" />
-        <mark key="." line="125" column="32" />
+      <file name="C:/code/pyutils/voc/voc_api.py" timestamp="1542440467991">
+        <mark key="[" line="27" column="33" />
+        <mark key="]" line="28" column="34" />
+        <mark key="^" line="28" column="34" />
+        <mark key="." line="28" column="34" />
       </file>
       <file name="D:/code/web/voc-delon/src/app/core/startup/startup.service.ts" timestamp="1526527247859">
         <mark key="'" line="55" column="12" />
@@ -3142,7 +3149,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="244" column="21" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/RepairServiceImpl.java" />
       <jump line="80" column="6" filename="C:/code/voc/src/main/java/com/cnvoc/voc/web/RepairController.java" />
       <jump line="117" column="48" filename="C:/code/voc/src/main/java/com/cnvoc/voc/web/RepairController.java" />
       <jump line="54" column="4" filename="C:/code/voc/src/main/java/com/cnvoc/voc/web/RepairController.java" />
@@ -3242,6 +3248,7 @@
       <jump line="0" column="0" filename="C:/code/pyutils/voc/ldar/aojia_api.py" />
       <jump line="103" column="20" filename="C:/code/pyutils/voc/ldar/yongli_api.py" />
       <jump line="180" column="12" filename="C:/code/pyutils/voc/ldar/dagu_origin_2018.py" />
+      <jump line="168" column="0" filename="C:/code/pyutils/voc/ldar/dagu_2018.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3264,8 +3271,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAiZmFjdG9yeUlkIjogZmFjdG9yeV9pZCwKICAgICAgICAidHVybklkIjogdHVybl9pZCwK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -3372,43 +3379,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>[&quot;D:/OneDrive/projects/天津LDAR/澳佳永利/2018LDAR/detections/&quot; + i for i in detection_excels],</text>
       </register>
       <register name="/" type="4">
         <text>tmpd</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZvYy5leHBvcnRfdG9iZV9yZXBhaXJlZCgndG9iZV9yZXBhaXJlZF9hbGwueGxzeCcpCg==</text>
+        <text encoding="base64">ICAgICAgICAiZmFjdG9yeUlkIjogZmFjdG9yeV9pZCwKICAgICAgICAidHVybklkIjogdHVybl9pZCwKICAgICAgICAic2VhbF9leGNlbHMiOiBzZWFsX2V4Y2VscywKICAgICAgICAidG1wX2ltYWdlc19kaXIiOiBtYWluX2RpciArICJzZWFsL2ltYWdlIiwKICAgICAgICAicmVzdWx0X2RpciI6IG1haW5fZGlyKydyZXN1bHQnLAogICAgICAgICJyZXBhaXJlZCI6IHJlcGFpcl9leGNlbHMsCiAgICAgICAgImRlbGF5IjogbWFpbl9kaXIgKyAncmVwYWlyL2RlbGF5Lnhsc3gnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZvYy5leHBvcnRfdG9iZV9yZXBhaXJlZCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAiZmFjdG9yeUlkIjogZmFjdG9yeV9pZCwKICAgICAgICAidHVybklkIjogdHVybl9pZCwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAiZGVsYXkiOiAiRDovT25lRHJpdmUvcHJvamVjdHMvtPO5wbuvuaQvMjAxOGxkYXIvZGF0YS/OrNDeL2RlbGF5cmVwYWlyLnhsc3giCg==</text>
+        <text encoding="base64">ICAgICAgICAicmVzdWx0X2RpciI6ICJEOi9Eb3dubG9hZHMvcmVzdWx0LyIsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAidG1wX2ltYWdlc19kaXIiOiAiRDovRG93bmxvYWRzL3Jlc3VsdC9pbWFnZSIsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjICJ1cmwiOiAiaHR0cHM6Ly92b2MuY252b2MuY29tLyIsCg==</text>
+        <text encoding="base64">ICAgICAgICAic2VhbF9leGNlbHMiOiBbIkQ6L09uZURyaXZlL3Byb2plY3RzL8zsvfJMREFSL7DEvNHTwMD7LzIwMThMREFSL3NlYWxzLyIgKyBpIGZvciBpIGluIHNlYWxfZXhjZWxzXSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAidXJsIjogImh0dHA6Ly8zOS4xMDUuMTY3LjEwMTo5MDkwLyIsCg==</text>
+        <text encoding="base64">ICAgICAgICAiZGV0ZWN0aW9uX2V4Y2VscyI6IGRldGVjdGlvbl9leGNlbHMsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRldGVjdGlvbl9kaXIgPSAiRDovT25lRHJpdmUvcHJvamVjdHMvtPO5wbuvuaQvMjAxOGxkYXIvZGF0YS/X7tbVyc+0q8r9vt0vb3JpZ2luL2RldGVjdGlvbi8iCg==</text>
+        <text encoding="base64">ICAgICAgICAicmVwYWlyZWQiOiBbIkQ6L09uZURyaXZlL3Byb2plY3RzL8zsvfJMREFSL7DEvNHTwMD7LzIwMThMREFSL3JlcGFpcnMvIiArIGkgZm9yIGkgaW4gcmVwYWlyX2V4Y2Vsc10sCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHNlYWxfZGlyID0gc2VhbC8iCg==</text>
+        <text encoding="base64">ICAgICAgICAiZGVsYXkiOiAiRDovT25lRHJpdmUvcHJvamVjdHMvtPO5wbuvuaQvMjAxOGxkYXIvZGF0YS/OrNDeL2RlbGF5cmVwYWlyLnhsc3giLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZvYy5leHBvcnRfdG9iZV9yZXBhaXJlZCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZvYy5leHBvcnRfdG9iZV9yZXBhaXJlZCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAiZmFjdG9yeUlkIjogZmFjdG9yeV9pZCwKICAgICAgICAidHVybklkIjogdHVybl9pZCwK</text>
       </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text>action PreviousTab</text>
       </register>
     </registers>
     <search>
@@ -3461,9 +3468,9 @@
         <entry>%s/LdarSetting/ResponseFactor/gc</entry>
         <entry>%s/ldarSetting/responseFactor/gc</entry>
         <entry>q</entry>
-        <entry>action PreviousTab</entry>
-        <entry>action NextTab</entry>
         <entry>action ReformatCode</entry>
+        <entry>action NextTab</entry>
+        <entry>action PreviousTab</entry>
       </history-cmd>
       <history-expr />
       <history-input />
