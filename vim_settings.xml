@@ -1257,12 +1257,12 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="44" column="28" />
       </file>
-      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/DetectionServiceImpl.java" timestamp="1541582006327">
+      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/DetectionServiceImpl.java" timestamp="1542421894555">
         <mark key="'" line="78" column="28" />
-        <mark key="[" line="617" column="0" />
-        <mark key="]" line="618" column="49" />
-        <mark key="." line="624" column="57" />
-        <mark key="^" line="624" column="57" />
+        <mark key="[" line="732" column="107" />
+        <mark key="]" line="733" column="34" />
+        <mark key="." line="733" column="34" />
+        <mark key="^" line="733" column="34" />
       </file>
       <file name="$USER_HOME$/code/voc/src/main/java/com/cnvoc/voc/service/IInstallService.java" timestamp="1529889391231">
         <mark key="'" line="18" column="2" />
@@ -2442,6 +2442,9 @@
         <mark key="." line="6" column="6" />
         <mark key="^" line="6" column="5" />
       </file>
+      <file name="/fragment.java" timestamp="1542421943835">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/code/java/cnooc/src/main/resources/application.yml" timestamp="1523433308337">
         <mark key="'" line="34" column="15" />
         <mark key="[" line="3" column="54" />
@@ -2592,14 +2595,6 @@
         <mark key="]" line="39" column="18" />
         <mark key="^" line="39" column="18" />
         <mark key="." line="39" column="18" />
-      </file>
-      <file name="C:/code/voc_ice/src/pages/UserRegister/UserRegister.jsx" timestamp="1542003600406">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="11" />
-      </file>
-      <file name="C:/code/ice-master/react-materials/blocks/MultiplePieChart/src/Card.jsx" timestamp="1541997019531">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="62" column="2" />
       </file>
       <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/entity/Detection.java" timestamp="1523609356505">
         <mark key="'" line="75" column="12" />
@@ -3248,8 +3243,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>i</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbGFzdE51bSA9IHNwbGl0cy5nZXQoaSk7Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -3356,7 +3351,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>splits.get(i)</text>
       </register>
       <register name="/" type="4">
         <text>小</text>
@@ -3365,31 +3360,31 @@
         <text encoding="base64">ICAgIEBSZXNwb25zZUJvZHkKICAgIEBHZXRNYXBwaW5nKCIvZXhwb3J0L2V4Y2VsL3t0dXJuSWR9IikKICAgIHB1YmxpYyBSZXNwb25zZUVudGl0eTxieXRlW10+IGV4cG9ydEV4Y2VsKEBQYXRoVmFyaWFibGUgTG9uZyB0dXJuSWQpIHsKICAgICAgICBMb25nIGZhY3RvcnlJZCA9IGlVc2VyU2VydmljZS5nZXRGYWN0b3J5SWRCeVRva2VuKCk7CiAgICAgICAgQnl0ZUFycmF5T3V0cHV0U3RyZWFtIGJvcyA9IGlEZXRlY3Rpb25TZXJ2aWNlLmV4cG9ydEV4Y2VsKG5ldyBEZXRlY3Rpb24oKS5zZXRGYWN0b3J5SWQoZmFjdG9yeUlkKS5zZXRUdXJuSWQodHVybklkKSwKICAgICAgICAgICAgICAgIG51bGwsCiAgICAgICAgICAgICAgICBudWxsKTsKICAgICAgICBIdHRwSGVhZGVycyBodHRwSGVhZGVycyA9IG5ldyBIdHRwSGVhZGVycygpOwogICAgICAgIC8v6K6+572u5paH5Lu25LiL6L2955qE5o+P6L+w5L+h5oGvCiAgICAgICAgU3RyaW5nIGRvd25sb2FkRmlsZU5hbWUgPSAicmVyYW5nZWQueGxzeCI7CiAgICAgICAgaHR0cEhlYWRlcnMuc2V0Q29udGVudERpc3Bvc2l0aW9uRm9ybURhdGEoImF0dGFjaG1lbnQiLCBkb3dubG9hZEZpbGVOYW1lKTsKICAgICAgICAvL+iuvue9ruWTjeW6lOeahOWGheWuueaYr+a1gS0tLS3kuozov5vliLYKICAgICAgICBodHRwSGVhZGVycy5zZXRDb250ZW50VHlwZShNZWRpYVR5cGUuQVBQTElDQVRJT05fT0NURVRfU1RSRUFNKTsKICAgICAgICByZXR1cm4gbmV3IFJlc3BvbnNlRW50aXR5PD4oYm9zLnRvQnl0ZUFycmF5KCksIGh0dHBIZWFkZXJzLCBIdHRwU3RhdHVzLk9LKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZvYy51cGxvYWRfcmVwYWlycygpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGFzdE51bSA9IHNwbGl0cy5nZXQoaSk7Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIHZvYy51cGxvYWRfcmVwYWlycygpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLnRyYW5zZm9ybSh7CiAgdHlwZTogJ2ZpbHRlcicsCiAgY2FsbGJhY2socm93KSB7IC8vIO+/vdC277+9xLPSu++/ve+/ve+/vce377+977+977+977+977+9xKzvv73Pt++/ve+/ve+/vXRydWUKICAgIHJldHVybiByb3dbXSA+IDE5OTg7CiAgfQo=</text>
+        <text encoding="base64">ICAgIHZvYy51cGxvYWRfcmVwYWlycygpCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgLnRyYW5zZm9ybSh7CiAgdHlwZTogJ2ZpbHRlcicsCiAgY2FsbGJhY2socm93KSB7IC8vIO+/vdC277+9xLPSu++/ve+/ve+/vce377+977+977+977+977+9xKzvv73Pt++/ve+/ve+/vXRydWUKICAgIHJldHVybiByb3dbXSA+IDE5OTg7CiAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICA8c2NyaXB0IHNyYz0iaHR0cHM6Ly9jZG4uanNkZWxpdnIubmV0L25wbS9iaXpjaGFydHMvdW1kL0JpekNoYXJ0cy5taW4uanMiPjwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">ICAgICAgLnRyYW5zZm9ybSh7CiAgdHlwZTogJ2ZpbHRlcicsCiAgY2FsbGJhY2socm93KSB7IC8vIO+/vdC277+9xLPSu++/ve+/ve+/vce377+977+977+977+977+9xKzvv73Pt++/ve+/ve+/vXRydWUKICAgIHJldHVybiByb3dbXSA+IDE5OTg7CiAgfQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICA8c2NyaXB0IHNyYz0iaHR0cHM6Ly9jZG4uanNkZWxpdnIubmV0L25wbS9iaXpjaGFydHMvdW1kL0JpekNoYXJ0cy5taW4uanMiPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICA8c2NyaXB0IHNyYz0iaHR0cHM6Ly9jZG4uanNkZWxpdnIubmV0L25wbS9iaXpjaGFydHMvdW1kL0JpekNoYXJ0cy5taW4uanMiPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgeyByZXNvbHZlIH0gPSByZXF1aXJlKCdwYXRoJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgRXh0cmFjdFRleHRQbHVnaW4gPSByZXF1aXJlKCdleHRyYWN0LXRleHQtd2VicGFjay1wbHVnaW4nKTsK</text>
+        <text encoding="base64">Y29uc3QgeyByZXNvbHZlIH0gPSByZXF1aXJlKCdwYXRoJyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action PreviousTab</text>
