@@ -19,6 +19,9 @@
         <mark key="^" line="83" column="25" />
         <mark key="." line="59" column="0" />
       </file>
+      <file name="/a.dummy" timestamp="1542436132909">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/service/impl/ComponentServiceImpl.java" timestamp="1523955925447">
         <mark key="'" line="219" column="63" />
         <mark key="[" line="104" column="0" />
@@ -618,6 +621,12 @@
         <mark key="]" line="53" column="0" />
         <mark key="^" line="9" column="0" />
         <mark key="." line="53" column="0" />
+      </file>
+      <file name="C:/code/pyutils/voc/ldar/dagu_api.py" timestamp="1542436121901">
+        <mark key="[" line="4" column="18" />
+        <mark key="]" line="5" column="14" />
+        <mark key="^" line="5" column="14" />
+        <mark key="." line="5" column="14" />
       </file>
       <file name="D:/code/web/voc-delon/src/app/routes/base/base.module.ts" timestamp="1522205215234">
         <mark key="'" line="1" column="13" />
@@ -1679,6 +1688,12 @@
         <mark key="." line="72" column="37" />
         <mark key="^" line="72" column="29" />
       </file>
+      <file name="C:/code/pyutils/voc/ldar/dagu.sql" timestamp="1542437383323">
+        <mark key="[" line="8" column="18" />
+        <mark key="]" line="8" column="17" />
+        <mark key="." line="8" column="17" />
+        <mark key="^" line="8" column="17" />
+      </file>
       <file name="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/InstallServiceImpl.java" timestamp="1541317853383">
         <mark key="'" line="85" column="39" />
         <mark key="[" line="182" column="72" />
@@ -1706,6 +1721,13 @@
         <mark key="]" line="33" column="22" />
         <mark key="." line="33" column="22" />
         <mark key="^" line="51" column="70" />
+      </file>
+      <file name="C:/code/pyutils/voc/ldar/dagu_origin_2018.py" timestamp="1542437310084">
+        <mark key="'" line="180" column="12" />
+        <mark key="[" line="181" column="44" />
+        <mark key="]" line="181" column="48" />
+        <mark key="." line="181" column="48" />
+        <mark key="^" line="181" column="48" />
       </file>
       <file name="D:/code/java/voc/src/test/resources/sql/clear.sql" timestamp="1523757183962">
         <mark key="'" line="0" column="27" />
@@ -2396,11 +2418,11 @@
         <mark key="." line="79" column="22" />
         <mark key="^" line="79" column="22" />
       </file>
-      <file name="C:/code/pyutils/voc/voc_api.py" timestamp="1542418937216">
-        <mark key="[" line="251" column="49" />
-        <mark key="]" line="251" column="55" />
-        <mark key="^" line="251" column="55" />
-        <mark key="." line="251" column="55" />
+      <file name="C:/code/pyutils/voc/voc_api.py" timestamp="1542437266764">
+        <mark key="[" line="125" column="0" />
+        <mark key="]" line="125" column="32" />
+        <mark key="^" line="194" column="52" />
+        <mark key="." line="125" column="32" />
       </file>
       <file name="D:/code/web/voc-delon/src/app/core/startup/startup.service.ts" timestamp="1526527247859">
         <mark key="'" line="55" column="12" />
@@ -2594,14 +2616,6 @@
         <mark key="]" line="39" column="18" />
         <mark key="^" line="39" column="18" />
         <mark key="." line="39" column="18" />
-      </file>
-      <file name="C:/code/voc_ice/src/pages/UserRegister/UserRegister.jsx" timestamp="1542003600406">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="11" />
-      </file>
-      <file name="C:/code/ice-master/react-materials/blocks/MultiplePieChart/src/Card.jsx" timestamp="1541997019531">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="62" column="2" />
       </file>
       <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/entity/Detection.java" timestamp="1523609356505">
         <mark key="'" line="75" column="12" />
@@ -3128,7 +3142,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="26" filename="C:/code/voc/src/test/java/com/cnvoc/voc/service/impl/DelayRepairServiceImplTest.java" />
       <jump line="244" column="21" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/RepairServiceImpl.java" />
       <jump line="80" column="6" filename="C:/code/voc/src/main/java/com/cnvoc/voc/web/RepairController.java" />
       <jump line="117" column="48" filename="C:/code/voc/src/main/java/com/cnvoc/voc/web/RepairController.java" />
@@ -3228,6 +3241,7 @@
       <jump line="167" column="47" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" />
       <jump line="0" column="0" filename="C:/code/pyutils/voc/ldar/aojia_api.py" />
       <jump line="103" column="20" filename="C:/code/pyutils/voc/ldar/yongli_api.py" />
+      <jump line="180" column="12" filename="C:/code/pyutils/voc/ldar/dagu_origin_2018.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3251,7 +3265,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>大沽化工</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -3358,57 +3372,56 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>大沽化工</text>
       </register>
       <register name="/" type="4">
-        <text>小</text>
+        <text>tmpd</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZvYy5leHBvcnRfdG9iZV9yZXBhaXJlZCgpCg==</text>
+        <text encoding="base64">ICAgIHZvYy5leHBvcnRfdG9iZV9yZXBhaXJlZCgndG9iZV9yZXBhaXJlZF9hbGwueGxzeCcpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHZvYy5leHBvcnRfdG9iZV9yZXBhaXJlZCgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZvYy5leHBvcnRfdG9iZV9yZXBhaXJlZCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAiZGVsYXkiOiAiRDovT25lRHJpdmUvcHJvamVjdHMvtPO5wbuvuaQvMjAxOGxkYXIvZGF0YS/OrNDeL2RlbGF5cmVwYWlyLnhsc3giCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZvYy5leHBvcnRfdG9iZV9yZXBhaXJlZCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZvYyA9IFZPQyhjKQogICAgIyB2b2MuYWRkX3VuaXRzKCkKICAgICMgdm9jLnVwbG9hZF9waG90b3MoKQogICAgIyB2b2MudXBsb2FkX3NlYWxzX2V4Y2VsKCkKICAgICMgdm9jLmFkZF9yZXNwb25zZV9mYWN0b3JzKCkKICAgICMgdm9jLmdlbmVyYXRlX3BkZigpCiAgICAjIHZvYy5hZGRfdG9iZXMoKQogICAgIyB2b2MudXBsb2FkX2RldGVjdGlvbl9leGNlbCgpCiAgICB2b2MuZXhwb3J0X3RvYmVzKCkKICAgIHZvYy5leHBvcnRfdHZhKCkKICAgICMgdm9jLmV4cG9ydF90b2JlX3JlcGFpcmVkKCkKICAgICMgdm9jLmV4cG9ydF9sZWFraW5nX3Bob3RvcygpCiAgICAjIHZvYy51cGxvYWRfcmVwYWlycygpCiAgICAjIHZvYy51cGxvYWRfZGVsYXlfcmVwYWlycygpCg==</text>
+        <text encoding="base64">ICAgICAgICAjICJ1cmwiOiAiaHR0cHM6Ly92b2MuY252b2MuY29tLyIsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgdm9jLnJlcmFuZ2VfdGltZSgpCiAgICAjIHZvYy5leHBvcnRfZGV0ZWN0aW9uX2V4Y2VsKCkK</text>
+        <text encoding="base64">ICAgICAgICAidXJsIjogImh0dHA6Ly8zOS4xMDUuMTY3LjEwMTo5MDkwLyIsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZvYy51cGxvYWRfcmVwYWlycygpCg==</text>
+        <text encoding="base64">ICAgIGRldGVjdGlvbl9kaXIgPSAiRDovT25lRHJpdmUvcHJvamVjdHMvtPO5wbuvuaQvMjAxOGxkYXIvZGF0YS/X7tbVyc+0q8r9vt0vb3JpZ2luL2RldGVjdGlvbi8iCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZvYy51cGxvYWRfcmVwYWlycygpCg==</text>
+        <text encoding="base64">ICAgIHNlYWxfZGlyID0gc2VhbC8iCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLnRyYW5zZm9ybSh7CiAgdHlwZTogJ2ZpbHRlcicsCiAgY2FsbGJhY2socm93KSB7IC8vIO+/vdC277+9xLPSu++/ve+/ve+/vce377+977+977+977+977+9xKzvv73Pt++/ve+/ve+/vXRydWUKICAgIHJldHVybiByb3dbXSA+IDE5OTg7CiAgfQo=</text>
+        <text encoding="base64">ICAgIHZvYy5leHBvcnRfdG9iZV9yZXBhaXJlZCgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLnRyYW5zZm9ybSh7CiAgdHlwZTogJ2ZpbHRlcicsCiAgY2FsbGJhY2socm93KSB7IC8vIO+/vdC277+9xLPSu++/ve+/ve+/vce377+977+977+977+977+9xKzvv73Pt++/ve+/ve+/vXRydWUKICAgIHJldHVybiByb3dbXSA+IDE5OTg7CiAgfQo=</text>
+        <text encoding="base64">ICAgIHZvYy5leHBvcnRfdG9iZV9yZXBhaXJlZCgpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action NextTab</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
-      <last-search>小</last-search>
+      <last-search>tmpd</last-search>
       <last-offset />
-      <last-pattern>小</last-pattern>
+      <last-pattern>tmpd</last-pattern>
       <last-replace>responseFactor</last-replace>
       <last-substitute>ldarSetting</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>deviceNo</entry>
         <entry encoding="base64">XDxhZGRSZXBhaXJCeURldGVjdGlvblw+</entry>
         <entry>turn</entry>
         <entry>LdarSetting</entry>
@@ -3428,6 +3441,7 @@
         <entry>console</entry>
         <entry>history</entry>
         <entry>小</entry>
+        <entry>tmpd</entry>
       </history-search>
       <history-cmd>
         <entry>%s/content\[i++\]/{content[i++]}/gc</entry>
@@ -3446,10 +3460,10 @@
         <entry>wq</entry>
         <entry>%s/LdarSetting/ResponseFactor/gc</entry>
         <entry>%s/ldarSetting/responseFactor/gc</entry>
-        <entry>action ReformatCode</entry>
         <entry>q</entry>
         <entry>action PreviousTab</entry>
         <entry>action NextTab</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
