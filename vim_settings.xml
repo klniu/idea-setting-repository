@@ -123,11 +123,11 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="91" column="0" />
       </file>
-      <file name="C:/code/pyutils/voc/ldar/yongli2018.py" timestamp="1542447301359">
-        <mark key="[" line="123" column="4" />
-        <mark key="]" line="123" column="4" />
-        <mark key="." line="123" column="4" />
-        <mark key="^" line="127" column="3" />
+      <file name="C:/code/pyutils/voc/ldar/yongli2018.py" timestamp="1542449005151">
+        <mark key="[" line="122" column="4" />
+        <mark key="]" line="122" column="5" />
+        <mark key="." line="122" column="5" />
+        <mark key="^" line="122" column="5" />
       </file>
       <file name="C:/code/voc_ice/src/api/component.js" timestamp="1538570736805">
         <mark key="[" line="38" column="4" />
@@ -784,7 +784,7 @@
         <mark key="^" line="6" column="14" />
         <mark key="." line="6" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542359960102">
+      <file name="/Dummy.txt" timestamp="1542449307314">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -2431,11 +2431,11 @@
         <mark key="." line="79" column="22" />
         <mark key="^" line="79" column="22" />
       </file>
-      <file name="C:/code/pyutils/voc/voc_api.py" timestamp="1542441960502">
-        <mark key="[" line="156" column="19" />
-        <mark key="]" line="156" column="22" />
-        <mark key="^" line="156" column="22" />
-        <mark key="." line="156" column="22" />
+      <file name="C:/code/pyutils/voc/voc_api.py" timestamp="1542448964552">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="^" line="35" column="8" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="D:/code/web/voc-delon/src/app/core/startup/startup.service.ts" timestamp="1526527247859">
         <mark key="'" line="55" column="12" />
@@ -2465,12 +2465,12 @@
         <mark key="." line="78" column="22" />
         <mark key="^" line="78" column="22" />
       </file>
-      <file name="C:/code/pyutils/voc/ldar/aojia2018.py" timestamp="1542445125057">
+      <file name="C:/code/pyutils/voc/ldar/aojia2018.py" timestamp="1542448991456">
         <mark key="'" line="59" column="13" />
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="77" column="25" />
-        <mark key="^" line="14" column="9" />
-        <mark key="." line="49" column="17" />
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="20" />
+        <mark key="^" line="76" column="19" />
+        <mark key="." line="76" column="19" />
       </file>
       <file name="$USER_HOME$/code/LuckyCoinContract/contracts/Airdrop.sol" timestamp="1533006249052">
         <mark key="'" line="5" column="27" />
@@ -3284,8 +3284,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHZvYy5leHBvcnRfYWxsKCkK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -3398,37 +3398,46 @@
         <text>tmpd</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZvYy5leHBvcnRfZGV0ZWN0aW9uX2V4Y2VsKCkK</text>
+        <text encoding="base64">ICAgICMgdm9jLmdlbmVyYXRlX3BkZigpCiAgICAjIHZvYy5hZGRfdG9iZXMoKQogICAgIyB2b2MudXBsb2FkX2RldGVjdGlvbnMoKQogICAgIyB2b2MudXBsb2FkX2RldGVjdGlvbl9leGNlbCgpCiAgICAjIHZvYy5leHBvcnRfdG9iZXMoKQogICAgIyB2b2MuZXhwb3J0X3R2YSgpCiAgICAjIHZvYy5leHBvcnRfdG9iZV9yZXBhaXJlZCgndG9iZV9yZXBhaXJlZF9hbGwueGxzeCcpCiAgICAjIHZvYy5leHBvcnRfbGVha2luZ19waG90b3MoKQogICAgIyB2b2MudXBsb2FkX3JlcGFpcnMoKQogICAgIyB2b2MuZXhwb3J0X3RvYmVfcmVwYWlyZWQoJ3RvYmVfcmVwYWlyZWRfYWZ0ZXIueGxzeCcpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnVwbG9hZF9yZXBhaXJzKCkK</text>
       </register>
-      <register name="2" type="8">
-        <text encoding="base64">IyAKIyAKIyAKIyA=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmV4cG9ydF90b2JlX3JlcGFpcmVkKCd0b2JlX3JlcGFpcmVkX2FsbC54bHN4JykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZvYyA9IFZPQyhjKQogICAgIyB2b2MuYWRkX3VuaXRzKCkKICAgICMgdm9jLnVwbG9hZF9waG90b3MoKQogICAgIyB2b2MudXBsb2FkX3NlYWxzX2V4Y2VsKCkKICAgICMgdm9jLmFkZF9yZXNwb25zZV9mYWN0b3JzKCkKICAgICMgdm9jLmFkZF90b2JlcygpCiAgICB2b2MudXBsb2FkX2RldGVjdGlvbl9leGNlbCgpCiAgICAjIHZvYy5nZW5lcmF0ZV9wZGYoKQogICAgIyB2b2MuZXhwb3J0X3RvYmVzKCkKICAgICMgdm9jLmV4cG9ydF90dmEoKQogICAgIyB2b2MuZXhwb3J0X2xlYWtpbmdfcGhvdG9zKCkKICAgICMgdm9jLmV4cG9ydF9kZXRlY3Rpb25fZXhjZWwoKQogICAgdm9jLnVwbG9hZF9yZXBhaXJzKCkKICAgICMgdm9jLmV4cG9ydF9yZXBhaXJfZXhjZWwoKQogICAgIyB2b2MuZXhwb3J0X3RvYmVfcmVwYWlyZWQoKQogICAgIyB2b2MudXBsb2FkX2RlbGF5X3JlcGFpcnMoKQoKICAgIHZvYy5yZXJhbmdlX3RpbWUoKQogICAgdm9jLmV4cG9ydF9kZXRlY3Rpb25fZXhjZWwoKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnVwbG9hZF9kZXRlY3Rpb25fZXhjZWwoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAiZmFjdG9yeUlkIjogZmFjdG9yeV9pZCwK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnVwbG9hZF9kZXRlY3Rpb25zKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAidHVybklkIjogdHVybl9pZCwK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFkZF90b2JlcygpCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAicmVzdWx0X2RpciI6ICJEOi9Eb3dubG9hZHMvcmVzdWx0LyIsCiAgICAgICAgInRtcF9pbWFnZXNfZGlyIjogIkQ6L0Rvd25sb2Fkcy9yZXN1bHQvaW1hZ2UiLAogICAgICAgICJzZWFsX2V4Y2VscyI6IFsiRDovT25lRHJpdmUvcHJvamVjdHMvzOy98kxEQVIv08DA+7uvuaQvMjAxOExEQVIvc2VhbHMvIiArIGkgZm9yIGkgaW4gc2VhbF9leGNlbHNdLAogICAgICAgICJkZXRlY3Rpb25fZXhjZWxzIjogWyJEOi9PbmVEcml2ZS9wcm9qZWN0cy/M7L3yTERBUi/TwMD7u6+5pC8yMDE4TERBUi9kZXRlY3Rpb25zLyIgKyBpIGZvciBpIGluIGRldGVjdGlvbl9leGNlbHNdLAogICAgICAgICJyZXBhaXJlZCI6IFsiRDovT25lRHJpdmUvcHJvamVjdHMvzOy98kxEQVIv08DA+7uvuaQvMjAxOExEQVIvcmVwYWlycy8iICsgaSBmb3IgaSBpbiByZXBhaXJfZXhjZWxzXSwKICAgICAgICAiZGVsYXkiOiAiRDovT25lRHJpdmUvcHJvamVjdHMvtPO5wbuvuaQvMjAxOGxkYXIvZGF0YS/OrNDeL2RlbGF5cmVwYWlyLnhsc3giCg==</text>
+      <register name="6" type="8">
+        <text># voc
+# voc
+# voc
+# voc
+# voc
+# voc
+# voc
+# voc
+# voc
+# voc</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHNlYWxfZXhjZWxzID0gWwogICAgXQogICAgZGV0ZWN0aW9uX2V4Y2VscyA9IFsKICAgIF0KICAgIHJlcGFpcl9leGNlbHMgPSBbCiAgICBdCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAizOy98tPAwPtyZXBhaXIueGxzeCIsCiAgICAgICAgIrrPs8mwsXJlcGFpci54bHN4IiwKICAgICAgICAitqHQwbS8tv7G2nJlcGFpci54bHN4Igo=</text>
+      <register name="8" type="8">
+        <text encoding="base64">IyAKIyAKIyAKIyA=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAizOy98tPAwPsueGxzeCIsCiAgICAgICAgIrah0MG0vLb+xtoueGxzeCIsCiAgICAgICAgIrrPs8mwsS54bHN4Igo=</text>
+        <text encoding="base64">ICAgIHZvYyA9IFZPQyhjKQogICAgIyB2b2MuYWRkX3VuaXRzKCkKICAgICMgdm9jLnVwbG9hZF9waG90b3MoKQogICAgIyB2b2MudXBsb2FkX3NlYWxzX2V4Y2VsKCkKICAgICMgdm9jLmFkZF9yZXNwb25zZV9mYWN0b3JzKCkKICAgICMgdm9jLmFkZF90b2JlcygpCiAgICB2b2MudXBsb2FkX2RldGVjdGlvbl9leGNlbCgpCiAgICAjIHZvYy5nZW5lcmF0ZV9wZGYoKQogICAgIyB2b2MuZXhwb3J0X3RvYmVzKCkKICAgICMgdm9jLmV4cG9ydF90dmEoKQogICAgIyB2b2MuZXhwb3J0X2xlYWtpbmdfcGhvdG9zKCkKICAgICMgdm9jLmV4cG9ydF9kZXRlY3Rpb25fZXhjZWwoKQogICAgdm9jLnVwbG9hZF9yZXBhaXJzKCkKICAgICMgdm9jLmV4cG9ydF9yZXBhaXJfZXhjZWwoKQogICAgIyB2b2MuZXhwb3J0X3RvYmVfcmVwYWlyZWQoKQogICAgIyB2b2MudXBsb2FkX2RlbGF5X3JlcGFpcnMoKQoKICAgIHZvYy5yZXJhbmdlX3RpbWUoKQogICAgdm9jLmV4cG9ydF9kZXRlY3Rpb25fZXhjZWwoKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action NextTab</text>
+        <text>action PreviousTab</text>
       </register>
     </registers>
     <search>
@@ -3467,7 +3476,6 @@
         <entry>%s/content\[i++\]/{content[i++]}/gc</entry>
         <entry>%s/BasicLayout/MainLayout/gc</entry>
         <entry>%s/BasicLayout/HeaderFooterLayout/gc</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gUHJldmlvdXNUYWI=</entry>
         <entry>action Back</entry>
         <entry encoding="base64">JzwsJz5J</entry>
         <entry>%s/_1/getLeft()/gc</entry>
@@ -3482,8 +3490,9 @@
         <entry>%s/ldarSetting/responseFactor/gc</entry>
         <entry>q</entry>
         <entry>action ReformatCode</entry>
-        <entry>action PreviousTab</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gUHJldmlvdXNUYWI=</entry>
         <entry>action NextTab</entry>
+        <entry>action PreviousTab</entry>
       </history-cmd>
       <history-expr />
       <history-input />
