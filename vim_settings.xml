@@ -182,6 +182,13 @@
         <mark key="^" line="45" column="47" />
         <mark key="." line="45" column="47" />
       </file>
+      <file name="C:/code/pyutils/voc/ldar/dagu2018.py" timestamp="1542605679340">
+        <mark key="'" line="188" column="5" />
+        <mark key="[" line="87" column="8" />
+        <mark key="]" line="87" column="8" />
+        <mark key="^" line="88" column="9" />
+        <mark key="." line="87" column="8" />
+      </file>
       <file name="D:/code/web/voc-delon/src/app/layout/passport/passport.component.html" timestamp="1526527444136">
         <mark key="'" line="10" column="15" />
         <mark key="[" line="9" column="0" />
@@ -3162,7 +3169,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="20" filename="C:/code/voc/src/main/java/com/cnvoc/voc/web/DelayRepairController.java" />
       <jump line="41" column="4" filename="C:/code/voc/src/main/java/com/cnvoc/voc/web/DelayRepairController.java" />
       <jump line="131" column="38" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/RepairServiceImpl.java" />
       <jump line="4" column="63" filename="C:/code/voc/src/main/resources/mapper/RepairMapper.xml" />
@@ -3262,6 +3268,7 @@
       <jump line="147" column="28" filename="C:/code/pyutils/voc/ldar/dagu_2018.py" />
       <jump line="59" column="13" filename="C:/code/pyutils/voc/ldar/aojia2018.py" />
       <jump line="128" column="4" filename="C:/code/pyutils/voc/ldar/yongli2018.py" />
+      <jump line="188" column="5" filename="C:/code/pyutils/voc/ldar/dagu2018.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3284,8 +3291,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZvYy5leHBvcnRfYWxsKCkK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -3447,7 +3454,7 @@
       <last-replace>responseFactor</last-replace>
       <last-substitute>ldarSetting</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
