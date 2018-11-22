@@ -5,6 +5,12 @@
       <mark key="M" line="56" column="22" filename="$USER_HOME$/sync/code/go/src/LawIndexer/models/model_test.go" protocol="file" />
     </globalmarks>
     <filemarks>
+      <file name="C:/code/voc/build.gradle" timestamp="1542880265279">
+        <mark key="[" line="45" column="28" />
+        <mark key="]" line="45" column="29" />
+        <mark key="^" line="45" column="3" />
+        <mark key="." line="45" column="29" />
+      </file>
       <file name="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/UnitServiceImpl.java" timestamp="1542787712042">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -38,11 +44,11 @@
       <file name="/a.sql" timestamp="1542876804610">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/code/voc/src/main/resources/application-test.yaml" timestamp="1542877330778">
-        <mark key="[" line="9" column="4" />
-        <mark key="]" line="9" column="20" />
-        <mark key="." line="10" column="16" />
-        <mark key="^" line="10" column="16" />
+      <file name="C:/code/voc/src/main/resources/application-test.yaml" timestamp="1542879770926">
+        <mark key="[" line="9" column="23" />
+        <mark key="]" line="9" column="54" />
+        <mark key="." line="9" column="23" />
+        <mark key="^" line="14" column="19" />
       </file>
       <file name="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/ResponseFactorServiceImpl.java" timestamp="1542787224055">
         <mark key="'" line="34" column="13" />
@@ -116,6 +122,9 @@
         <mark key="]" line="90" column="0" />
         <mark key="." line="90" column="0" />
       </file>
+      <file name="C:/code/voc/src/test/java/com/cnvoc/voc/service/impl/ComponentServiceImplTest.java" timestamp="1542880334003">
+        <mark key="'" line="121" column="0" />
+      </file>
       <file name="C:/code/voc/src/main/resources/sql/schema_oracle.sql" timestamp="1542876431520">
         <mark key="'" line="702" column="30" />
         <mark key="[" line="728" column="17" />
@@ -173,9 +182,11 @@
         <mark key="^" line="96" column="48" />
         <mark key="." line="79" column="0" />
       </file>
+      <file name="/fragment.java" timestamp="1542880231136">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="288" column="70" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/SealHistoriesCalculator.java" />
       <jump line="60" column="53" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/StatisticServiceImpl.java" />
       <jump line="56" column="51" filename="C:/code/voc/src/main/java/com/cnvoc/voc/web/StatisticsController.java" />
       <jump line="54" column="21" filename="C:/code/voc/src/main/java/com/cnvoc/voc/web/StatisticsController.java" />
@@ -275,6 +286,7 @@
       <jump line="438" column="39" filename="C:/code/voc/src/main/resources/sql/schema_oracle.sql" />
       <jump line="702" column="30" filename="C:/code/voc/src/main/resources/sql/schema_oracle.sql" />
       <jump line="242" column="21" filename="C:/code/voc/src/main/resources/sql/schema.sql" />
+      <jump line="121" column="0" filename="C:/code/voc/src/test/java/com/cnvoc/voc/service/impl/ComponentServiceImplTest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -297,8 +309,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>driver-class-name</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC8vIHJ1bnRpbWUoJ2NvbS5oMmRhdGFiYXNlOmgyJykK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -405,7 +417,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">amRiYzpteXNxbDovL2xvY2FsaG9zdDozMzA2L3ZvY190ZXN0P2FsbG93TXVsdGlRdWVyaWVzPXRydWUmbm9BY2Nlc3NUb1Byb2NlZHVyZUJvZGllcz10cnVlJnVzZVVuaWNvZGU9dHJ1ZSZjaGFyYWN0ZXJFbmNvZGluZz1VVEYtOCZzZXJ2ZXJUaW1lem9uZT1Bc2lhL1NoYW5naGFp</text>
+        <text>com.mysql.jdbc.Driver</text>
       </register>
       <register name="/" type="4">
         <text>FALSE</text>
@@ -414,31 +426,31 @@
         <text>insert_detection</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAtLSBPVVQgYF9pZGAgICAgICAgICAgIEJJR0lOVCwKICAtLSBPVVQgYF91bml0X2lkYCAgICAgIElOVCwKICAtLSBPVVQgYF9pbnN0YWxsX2lkYCAgIElOVCwKICAtLSBPVVQgYF9zZWFsX2lkYCAgICAgIElOVCwKICAtLSBPVVQgYF9zdGFuZGFyZGAgICAgIElOVCwKICAtLSBPVVQgYF9sZWFraW5nYCAgICAgIEJPT0wsCiAgLS0gT1VUIGBfc2VhbF90eXBlYCAgICBJTlQsCiAgLS0gT1VUIGBfc2VydmljZWAgICAgICBJTlQK</text>
+        <text encoding="base64">ICAgIC8vIHJ1bnRpbWUoJ2NvbS5oMmRhdGFiYXNlOmgyJykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LS0gIGBjb3JyZWxhdGlvbl9lbWlzc2lvbmAgRE9VQkxFLAo=</text>
+        <text encoding="base64">ICAgIHJ1bnRpbWUoJ215c3FsOm15c3FsLWNvbm5lY3Rvci1qYXZhJykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LS0gIGBzY3JlZW5fZW1pc3Npb25gICAgICAgRE9VQkxFLAo=</text>
+        <text encoding="base64">ICAtLSBPVVQgYF9pZGAgICAgICAgICAgIEJJR0lOVCwKICAtLSBPVVQgYF91bml0X2lkYCAgICAgIElOVCwKICAtLSBPVVQgYF9pbnN0YWxsX2lkYCAgIElOVCwKICAtLSBPVVQgYF9zZWFsX2lkYCAgICAgIElOVCwKICAtLSBPVVQgYF9zdGFuZGFyZGAgICAgIElOVCwKICAtLSBPVVQgYF9sZWFraW5nYCAgICAgIEJPT0wsCiAgLS0gT1VUIGBfc2VhbF90eXBlYCAgICBJTlQsCiAgLS0gT1VUIGBfc2VydmljZWAgICAgICBJTlQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LS0gIGBhdmVyYWdlX2VtaXNzaW9uYCAgICAgRE9VQkxFLAo=</text>
+        <text encoding="base64">LS0gIGBjb3JyZWxhdGlvbl9lbWlzc2lvbmAgRE9VQkxFLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LS0gIGBpbnN0YWxsX2lkYCAgICAgICAgICAgIElOVCAgICAgICAgICBOT1QgTlVMTCwK</text>
+        <text encoding="base64">LS0gIGBzY3JlZW5fZW1pc3Npb25gICAgICAgRE9VQkxFLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LS0gIGB1bml0X2lkYCAgICAgICAgICAgICAgIElOVCAgICAgICAgICBOT1QgTlVMTCwK</text>
+        <text encoding="base64">LS0gIGBhdmVyYWdlX2VtaXNzaW9uYCAgICAgRE9VQkxFLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAtLSBgYXZlcmFnZV9lbWlzc2lvbmAgICAgICBET1VCTEUgTk9UIE5VTEwgREVGQVVMVCAwLAogIC0tIGBzY3JlZW5fZW1pc3Npb25gICAgICAgIERPVUJMRSBOT1QgTlVMTCBERUZBVUxUIDAsCiAgLS0gYGNvcnJlbGF0aW9uX2VtaXNzaW9uYCAgRE9VQkxFIE5PVCBOVUxMIERFRkFVTFQgMCwK</text>
+        <text encoding="base64">LS0gIGBpbnN0YWxsX2lkYCAgICAgICAgICAgIElOVCAgICAgICAgICBOT1QgTlVMTCwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LS0gIEZPUkVJR04gS0VZIChgdW5pdF9pZGApIFJFRkVSRU5DRVMgYHVuaXRgIChgaWRgKQotLSAgICBPTiBERUxFVEUgQ0FTQ0FERQotLSAgICBPTiBVUERBVEUgQ0FTQ0FERSwKLS0gIEZPUkVJR04gS0VZIChgaW5zdGFsbF9pZGApIFJFRkVSRU5DRVMgYGluc3RhbGxgIChgaWRgKQotLSAgICBPTiBERUxFVEUgQ0FTQ0FERQotLSAgICBPTiBVUERBVEUgQ0FTQ0FERSwK</text>
+        <text encoding="base64">LS0gIGB1bml0X2lkYCAgICAgICAgICAgICAgIElOVCAgICAgICAgICBOT1QgTlVMTCwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAtLSBgYXZlcmFnZV9lbWlzc2lvbmAgICAgICBET1VCTEUgTk9UIE5VTEwgREVGQVVMVCAwLAogIC0tIGBzY3JlZW5fZW1pc3Npb25gICAgICAgIERPVUJMRSBOT1QgTlVMTCBERUZBVUxUIDAsCiAgLS0gYGNvcnJlbGF0aW9uX2VtaXNzaW9uYCAgRE9VQkxFIE5PVCBOVUxMIERFRkFVTFQgMCwK</text>
       </register>
       <register name=":" type="4">
         <text>%s/NUMBER(0, 1)/NUMBER\(1\)/gc</text>
