@@ -44,10 +44,12 @@
       <file name="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/ResponseFactorServiceImpl.java" timestamp="1542787224055">
         <mark key="'" line="34" column="13" />
       </file>
-      <file name="C:/code/voc/src/main/resources/sql/schema.sql" timestamp="1542854905061">
-        <mark key="[" line="203" column="0" />
-        <mark key="]" line="203" column="0" />
-        <mark key="." line="203" column="0" />
+      <file name="C:/code/voc/src/main/resources/sql/schema.sql" timestamp="1542871890010">
+        <mark key="'" line="561" column="56" />
+        <mark key="[" line="401" column="29" />
+        <mark key="]" line="401" column="29" />
+        <mark key="^" line="449" column="21" />
+        <mark key="." line="401" column="29" />
       </file>
       <file name="C:/code/voc/src/test/java/com/cnvoc/voc/web/LdarTurnControllerTest.java" timestamp="1542849116539">
         <mark key="[" line="69" column="39" />
@@ -111,12 +113,12 @@
         <mark key="]" line="90" column="0" />
         <mark key="." line="90" column="0" />
       </file>
-      <file name="C:/code/voc/src/main/resources/sql/schema_oracle.sql" timestamp="1542869993462">
-        <mark key="'" line="715" column="25" />
-        <mark key="[" line="255" column="2" />
-        <mark key="]" line="255" column="13" />
-        <mark key="." line="288" column="32" />
-        <mark key="^" line="288" column="32" />
+      <file name="C:/code/voc/src/main/resources/sql/schema_oracle.sql" timestamp="1542872509835">
+        <mark key="'" line="659" column="25" />
+        <mark key="[" line="716" column="4" />
+        <mark key="]" line="716" column="3" />
+        <mark key="." line="716" column="3" />
+        <mark key="^" line="716" column="3" />
       </file>
       <file name="C:/code/pyutils/voc/ldar/dagu2018.py" timestamp="1542531808730">
         <mark key="[" line="153" column="30" />
@@ -170,8 +172,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="28" filename="C:/code/voc/src/main/java/com/cnvoc/voc/entity/Repair.java" />
-      <jump line="87" column="25" filename="C:/code/voc/src/main/java/com/cnvoc/voc/entity/Repair.java" />
       <jump line="5" column="22" filename="C:/code/voc/src/main/java/com/cnvoc/voc/entity/Repair.java" />
       <jump line="6" column="22" filename="C:/code/voc/src/main/java/com/cnvoc/voc/entity/Repair.java" />
       <jump line="7" column="0" filename="C:/code/voc/src/main/java/com/cnvoc/voc/entity/Repair.java" />
@@ -270,6 +270,8 @@
       <jump line="695" column="0" filename="C:/code/voc/src/main/resources/sql/schema_oracle.sql" />
       <jump line="0" column="0" filename="C:/code/voc/src/main/resources/sql/schema_oracle.sql" />
       <jump line="715" column="25" filename="C:/code/voc/src/main/resources/sql/schema_oracle.sql" />
+      <jump line="206" column="35" filename="C:/code/voc/src/main/resources/sql/schema.sql" />
+      <jump line="565" column="56" filename="C:/code/voc/src/main/resources/sql/schema.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -293,7 +295,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">Rk9SRUlHTiBLRVkg</text>
+        <text>_</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -400,7 +402,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>`</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQZXJpb2RcPg==</text>
@@ -409,31 +411,31 @@
         <text>i7s8vWATPsfCeUZ@JAL</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiMgZW5hYmxlIHNvbWUgaW5mb3JtYXRpb24gZGlzcGxheWVkIGluIGFjdHVhdG9yCm1hbmFnZW1lbnQ6CiAgc2VjdXJpdHk6CiAgICBlbmFibGVkOiBmYWxzZQo=</text>
+        <text encoding="base64">RFJPUCBQUk9DRURVUkUgSUYgRVhJU1RTIGluc2VydF9kZXRlY3Rpb247Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBoMjoKICAgIGNvbnNvbGU6CiAgICAgIGVuYWJsZWQ6IHRydWUKICAgICAgcGF0aDogL2gyCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGluaXRpYWxpemU6IHRydWUK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Q1JFQVRFIElOREVYIChmYWN0b3J5X2lkLCBjb21wb25lbnRfaWQpOwpDUkVBVEUgSU5ERVggKGZhY3RvcnlfaWQsIGlkKTsKCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Q1JFQVRFIElOREVYIChmYWN0b3J5X2lkLCBpZCk7Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICwK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIE9OIFVQREFURSBDQVNDQURFCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIE9OIFVQREFURSBDQVNDQURFLAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBLRVkgKGByZl92YWx1ZWApCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBLRVkgKGB2YWx1ZWApLAo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">Q1JFQVRFIElOREVYIChidWlsdF9pbik7Cg==</text>
+        <text encoding="base64">ICBLRVkgKGByZl9yZXZhbHVlYCksCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LS0gQ1JFQVRFIFRBQkxFIElGIE5PVCBFWElTVFMgbGRhcl9zZXR0aW5nICgKLS0gICBgaWRgICAgICAgICAgICAgICAgICAgICAgICAgICAgSU5UIFBSSU1BUlkgS0VZIEFVVE9fSU5DUkVNRU5ULAotLSAgIGBmYWN0b3J5X2lkYCAgICAgICAgICAgICAgICAgICBJTlQgICAgICAgICAgTk9UIE5VTEwsCi0tICAgYHVuaXRfbm9fbGVuZ3RoYCAgICAgICAgICAgICAgIFRJTllJTlQgICAgICBOT1QgTlVMTAotLSAgIENPTU1FTlQgJ+euoeeQhuWNleWFg+e8luWPt+S9jeaVsCcsCi0tICAgYHVuaXRfbm9faW5jYCAgICAgICAgICAgICAgICAgIElOVCAgICAgICAgICBOT1QgTlVMTAotLSAgIENPTU1FTlQgJ+euoeeQhuWNleWFg+avj+WinuWKoOS4gOS4quS4que8luWPt+WinuWKoOWkmuWwkScsCi0tICAgYGluc3RhbGxfbm9fbGVuZ3RoYCAgICAgICAgICAgIFRJTllJTlQgICAgICBOT1QgTlVMTAotLSAgIENPTU1FTlQgJ+ijhee9rue8luWPt+S9jeaVsCcsCi0tICAgYGluc3RhbGxfbm9faW5jYCAgICAgICAgICAgICAgIElOVCAgICAgICAgICBOT1QgTlVMTAotLSAgIENPTU1FTlQgJ+ijhee9ruavj+WinuWKoOS4gOS4que8luWPt+WinuWKoOWkmuWwkScsCi0tICAgYGNvbXBvbmVudF90YWdfZm9ybWF0YCAgICAgICAgIFZBUkNIQVIoMjU1KSBOT1QgTlVMTAotLSAgIENPTU1FTlQgJ+e7hOS7tnRhZ+eahOagvOW8j++8jGpzb27lrZfnrKbkuLInLAotLSAgIGBjb21wb25lbnRfcGhvdG9fbGFiZWxfZm9ybWF0YCBWQVJDSEFSKDI1NSkgTk9UIE5VTEwKLS0gICBDT01NRU5UICfnu4Tku7bnhafniYfkuK3lr4blsIHngrnmoIforrDnmoTmoLzlvI/vvIxqc29u5a2X56ym5LiyJywKLS0gICBgZmlyc3RfcGhvdG9fbm9gICAgICAgICAgICAgICAgSU5UICAgICAgICAgIE5PVCBOVUxMCi0tICAgQ09NTUVOVCAn56ys5LiA5Liq54Wn54mH55qE57yW5Y+3JywKLS0gICBgcGhvdG9fbm9fbGVuZ3RoYCAgICAgICAgICAgICAgVElOWUlOVCAgICAgIE5PVCBOVUxMCi0tICAgQ09NTUVOVCAn54Wn54mH57yW5Y+355qE6ZW/5bqmJywKLS0gICBgcGhvdG9fbm9faW5jYCAgICAgICAgICAgICAgICAgSU5UICAgICAgICAgIE5PVCBOVUxMCi0tICAgQ09NTUVOVCAn5q+P5aKe5Yqg5LiA5Liq54Wn54mH57yW5Y+35aKe5Yqg55qE5pWw6YePJywKLS0gICBgcGhvdG9fbm9faW5jX2J5YCAgICAgICAgICAgICAgVElOWUlOVCAgICAgICAgIERFRkFVTFQgMQotLSAgIENPTU1FTlQgJ+eFp+eJh+aYr+aMieW3peWOguOAgeeuoeeQhuWNleWFg+i/mOaYr+ijhee9rumAkuWinicsCi0tICAgYHNlYWxfdGFnX2Zvcm1hdGAgICAgICAgICAgICAgIFZBUkNIQVIoMjU1KSBOT1QgTlVMTAotLSAgIENPTU1FTlQgJ+WvhuWwgeeCuee8luWPt+eahOagvOW8j++8jGpzb27lrZfnrKbkuLInLAotLSAgIEZPUkVJR04gS0VZIChgZmFjdG9yeV9pZGApIFJFRkVSRU5DRVMgYGZhY3RvcnlgIChgaWRgKQotLSAgICAgT04gREVMRVRFIENBU0NBREUKLS0gICAgIE9OIFVQREFURSBDQVNDQURFCi0tICkKLS0gICBDT01NRU5UID0gJ0xEQVLorr7nva7ooagnOwoK</text>
+        <text encoding="base64">ICBLRVkgKGByZXZhbHVlYCksCg==</text>
       </register>
       <register name=":" type="4">
         <text>action PreviousTab</text>
