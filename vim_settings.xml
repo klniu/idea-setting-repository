@@ -357,6 +357,12 @@
         <mark key="." line="42" column="32" />
         <mark key="^" line="42" column="32" />
       </file>
+      <file name="C:/code/pyutils/voc/ldar/rentai2018.py" timestamp="1543052101321">
+        <mark key="[" line="13" column="32" />
+        <mark key="]" line="13" column="32" />
+        <mark key="^" line="44" column="3" />
+        <mark key="." line="13" column="32" />
+      </file>
       <file name="D:/code/java/voc/src/main/java/com/cnvoc/voc/shiro/JWTFilter.java" timestamp="1517388376147">
         <mark key="'" line="20" column="0" />
         <mark key="[" line="84" column="8" />
@@ -1712,6 +1718,13 @@
         <mark key="]" line="182" column="72" />
         <mark key="^" line="182" column="71" />
         <mark key="." line="182" column="72" />
+      </file>
+      <file name="C:/code/pyutils/voc/ldar/rentai2018.sql" timestamp="1543050537082">
+        <mark key="'" line="64" column="0" />
+        <mark key="[" line="8" column="10" />
+        <mark key="]" line="8" column="15" />
+        <mark key="." line="8" column="15" />
+        <mark key="^" line="8" column="15" />
       </file>
       <file name="C:/code/voc/src/main/java/com/cnvoc/voc/shiro/JWTUtil.java" timestamp="1540355778304">
         <mark key="'" line="30" column="12" />
@@ -3150,12 +3163,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="63" filename="C:/code/voc/src/main/resources/mapper/RepairMapper.xml" />
-      <jump line="351" column="26" filename="C:/code/voc/src/test/java/com/cnvoc/voc/service/impl/RepairServiceImplTest.java" />
-      <jump line="0" column="0" filename="C:/code/voc/src/main/java/com/cnvoc/voc/common/Function.java" />
-      <jump line="83" column="49" filename="C:/code/voc/src/main/java/com/cnvoc/voc/entity/Repair.java" />
-      <jump line="0" column="0" filename="C:/code/voc/src/main/java/com/cnvoc/voc/entity/Detection.java" />
-      <jump line="232" column="41" filename="C:/code/voc/src/test/java/com/cnvoc/voc/service/impl/RepairServiceImplTest.java" />
       <jump line="247" column="48" filename="C:/code/voc/src/test/java/com/cnvoc/voc/service/impl/DetectionServiceImplTest.java" />
       <jump line="286" column="43" filename="C:/code/voc/src/test/java/com/cnvoc/voc/service/impl/DetectionServiceImplTest.java" />
       <jump line="100" column="47" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/DetectionServiceImpl.java" />
@@ -3250,6 +3257,12 @@
       <jump line="0" column="0" filename="D:/OneDrive/projects/天津LDAR/voc/all.sql" />
       <jump line="188" column="26" filename="D:/OneDrive/projects/天津LDAR/voc/all.sql" />
       <jump line="23" column="5" filename="C:/code/pyutils/voc/ldar/yongli2018.py" />
+      <jump line="3" column="3" filename="C:/code/pyutils/voc/ldar/rentai2018.sql" />
+      <jump line="62" column="2" filename="C:/code/pyutils/voc/ldar/rentai2018.sql" />
+      <jump line="0" column="0" filename="C:/code/pyutils/voc/ldar/rentai2018.sql" />
+      <jump line="52" column="58" filename="C:/code/pyutils/voc/ldar/rentai2018.sql" />
+      <jump line="48" column="28" filename="C:/code/pyutils/voc/ldar/rentai2018.sql" />
+      <jump line="64" column="0" filename="C:/code/pyutils/voc/ldar/rentai2018.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3383,55 +3396,53 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>tmpd</text>
+        <text>200</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7ImZhY3RvcnlJZCI6IGZhY3RvcnlfaWQsICJzdGFuZGFyZElkIjogIjIwMDEiLCAibm8iOiAyLCAibmFtZSI6ICLL4c3RIiwKICAgICAgICAgICAgICAgICAgICAgImNvZGUiOiAiQ1NHUSIsCiAgICAgICAgICAgICAgICAgICAgICJ0eXBlIjogIlNPQ01JIiwgImNvbnN0cnVjdERhdGUiOiAiMjAxNC0wMy0zMSJ9LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAivNe0vC2+q8HzLnhsc3giLAo=</text>
+        <text encoding="base64">ICAgIHZvYy51cGxvYWRfc2VhbHMoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZvYy5nZW5lcmF0ZV9wZGYoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZvYy51cGxvYWRfZGV0ZWN0aW9ucygpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgdm9jLmV4cG9ydF9hbGwoKQo=</text>
+        <text encoding="base64">ICAgIHZvYy5hZGRfcmVzcG9uc2VfZmFjdG9ycygpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZvYy5leHBvcnRfYWxsKCkK</text>
+        <text encoding="base64">ICAgICAgICAjICK2odDBtLy2/sbacmVwYWlyLnhsc3giCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZvYy5leHBvcnRfYWxsKCkK</text>
+        <text encoding="base64">ICAgICAgICAjICK6z7PJsLFyZXBhaXIueGxzeCIsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjICLM7L3y08DA+3JlcGFpci54bHN4IiwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnVwbG9hZF9yZXBhaXJzKCkK</text>
+        <text encoding="base64">ICAgICAgICAiZmFjdG9ycyI6IFsKICAgICAgICAgICAgeydtZWRpYSc6ICe817S8JywgICdmYWN0b3InOiAzLjgxfSwKICAgICAgICAgICAgeydtZWRpYSc6ICe818ipJywgICdmYWN0b3InOiA5Ljc2fQogICAgICAgIF0sCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmV4cG9ydF90b2JlX3JlcGFpcmVkKCd0b2JlX3JlcGFpcmVkX2FsbC54bHN4JykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgeyJmYWN0b3J5SWQiOiBmYWN0b3J5X2lkLCAibm8iOiAyLCAibmFtZSI6ICK2odDBtLy2/sbaIiwgImNvZGUiOiAiWFhEWENIMiIsICJpbnN0YWxscyI6CiAgICAgICAgICAgICAgICBbCiAgICAgICAgICAgICAgICAgICAgeyJmYWN0b3J5SWQiOiBmYWN0b3J5X2lkLCAic3RhbmRhcmRJZCI6ICIyMDAxIiwgIm5vIjogMSwgIm5hbWUiOiAi9Mq7+bmkts4iLAogICAgICAgICAgICAgICAgICAgICAiY29kZSI6ICJUSkdEMiIsCiAgICAgICAgICAgICAgICAgICAgICJ0eXBlIjogIlNPQ01JIiwgImNvbnN0cnVjdERhdGUiOiAiMjAxNC0wMy0zMSJ9LAogICAgICAgICAgICAgICAgICAgIHsiZmFjdG9yeUlkIjogZmFjdG9yeV9pZCwgInN0YW5kYXJkSWQiOiAiMjAwMSIsICJubyI6IDIsICJuYW1lIjogIsv1us+5pLbOIiwKICAgICAgICAgICAgICAgICAgICAgImNvZGUiOiAiU0hHRDIiLAogICAgICAgICAgICAgICAgICAgICAidHlwZSI6ICJTT0NNSSIsICJjb25zdHJ1Y3REYXRlIjogIjIwMTQtMDMtMzEifSwKICAgICAgICAgICAgICAgICAgICB7ImZhY3RvcnlJZCI6IGZhY3RvcnlfaWQsICJzdGFuZGFyZElkIjogIjIwMDEiLCAibm8iOiAzLCAibmFtZSI6ICLQwbS8uaS2ziIsCiAgICAgICAgICAgICAgICAgICAgICJjb2RlIjogIlhDR0QyIiwKICAgICAgICAgICAgICAgICAgICAgInR5cGUiOiAiU09DTUkiLCAiY29uc3RydWN0RGF0ZSI6ICIyMDE2LTAzLTMxIn0sCiAgICAgICAgICAgICAgICAgICAgeyJmYWN0b3J5SWQiOiBmYWN0b3J5X2lkLCAic3RhbmRhcmRJZCI6ICIyMDAxIiwgIm5vIjogNCwgIm5hbWUiOiAitqG0vLmkts4iLAogICAgICAgICAgICAgICAgICAgICAiY29kZSI6ICJEQ0dEMiIsCiAgICAgICAgICAgICAgICAgICAgICJ0eXBlIjogIlNPQ01JIiwgImNvbnN0cnVjdERhdGUiOiAiMjAxNi0wNC0zMCJ9LAogICAgICAgICAgICAgICAgICAgIHsiZmFjdG9yeUlkIjogZmFjdG9yeV9pZCwgInN0YW5kYXJkSWQiOiAiMjAwMSIsICJubyI6IDUsICJuYW1lIjogIrnex/giLAogICAgICAgICAgICAgICAgICAgICAiY29kZSI6ICJHUTIiLAogICAgICAgICAgICAgICAgICAgICAidHlwZSI6ICJTT0NNSSIsICJjb25zdHJ1Y3REYXRlIjogIjIwMTQtMDQtMzAifSwKICAgICAgICAgICAgICAgIF0KICAgICAgICAgICAgIH0sCiAgICAgICAgICAgIHsiZmFjdG9yeUlkIjogZmFjdG9yeV9pZCwgIm5vIjogMywgIm5hbWUiOiAius+zybCxIiwgImNvZGUiOiAiWFhIQ0EiLCAiaW5zdGFsbHMiOgogICAgICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgICAgIHsiZmFjdG9yeUlkIjogZmFjdG9yeV9pZCwgInN0YW5kYXJkSWQiOiAiMjAwMSIsICJubyI6IDEsICJuYW1lIjogIsvhzdG5pLbOIiwKICAgICAgICAgICAgICAgICAgICAgImNvZGUiOiAiU1RHRCIsCiAgICAgICAgICAgICAgICAgICAgICJ0eXBlIjogIlNPQ01JIiwgImNvbnN0cnVjdERhdGUiOiAiMjAxNC0wMy0zMSJ9LAogICAgICAgICAgICAgICAgXQogICAgICAgICAgICAgfSwKICAgICAgICAgICAgeyJmYWN0b3J5SWQiOiBmYWN0b3J5X2lkLCAibm8iOiA0LCAibmFtZSI6ICK018vhIiwgImNvZGUiOiAiWFhDUyIsICJpbnN0YWxscyI6CiAgICAgICAgICAgICAgICBbCiAgICAgICAgICAgICAgICAgICAgeyJmYWN0b3J5SWQiOiBmYWN0b3J5X2lkLCAic3RhbmRhcmRJZCI6ICIyMDAxIiwgIm5vIjogMSwgIm5hbWUiOiAitNfL4dew1sMiLAogICAgICAgICAgICAgICAgICAgICAiY29kZSI6ICJDU1paIiwKICAgICAgICAgICAgICAgICAgICAgInR5cGUiOiAiU09DTUkiLCAiY29uc3RydWN0RGF0ZSI6ICIyMDE0LTAzLTMxIn0sCiAgICAgICAgICAgICAgICAgICAgeyJmYWN0b3J5SWQiOiBmYWN0b3J5X2lkLCAic3RhbmRhcmRJZCI6ICIyMDAxIiwgIm5vIjogMiwgIm5hbWUiOiAiud7H+CIsCiAgICAgICAgICAgICAgICAgICAgICJjb2RlIjogIkNTR1EiLAogICAgICAgICAgICAgICAgICAgICAidHlwZSI6ICJTT0NNSSIsICJjb25zdHJ1Y3REYXRlIjogIjIwMTQtMDMtMzEifSwKICAgICAgICAgICAgICAgIF0KICAgICAgICAgICAgIH0sCiAgICAgICAgICAgIHsiZmFjdG9yeUlkIjogZmFjdG9yeV9pZCwgIm5vIjogNSwgIm5hbWUiOiAivNe0vCIsICJjb2RlIjogIkpDWloiLCAiaW5zdGFsbHMiOgogICAgICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgICAgIHsiZmFjdG9yeUlkIjogZmFjdG9yeV9pZCwgInN0YW5kYXJkSWQiOiAiMjAwMSIsICJubyI6IDEsICJuYW1lIjogIr6rwfMiLAogICAgICAgICAgICAgICAgICAgICAiY29kZSI6ICJKTEdEIiwKICAgICAgICAgICAgICAgICAgICAgInR5cGUiOiAiU09DTUkiLCAiY29uc3RydWN0RGF0ZSI6ICIyMDE0LTAzLTMxIn0sCiAgICAgICAgICAgICAgICAgICAgeyJmYWN0b3J5SWQiOiBmYWN0b3J5X2lkLCAic3RhbmRhcmRJZCI6ICIyMDAxIiwgIm5vIjogMiwgIm5hbWUiOiAiy+HN0SIsCiAgICAgICAgICAgICAgICAgICAgICJjb2RlIjogIlNUR0QiLAogICAgICAgICAgICAgICAgICAgICAidHlwZSI6ICJTT0NNSSIsICJjb25zdHJ1Y3REYXRlIjogIjIwMTQtMDMtMzEifSwKICAgICAgICAgICAgICAgICAgICB7ImZhY3RvcnlJZCI6IGZhY3RvcnlfaWQsICJzdGFuZGFyZElkIjogIjIwMDEiLCAibm8iOiAzLCAibmFtZSI6ICK53sf4IiwKICAgICAgICAgICAgICAgICAgICAgImNvZGUiOiAiSkNHUSIsCiAgICAgICAgICAgICAgICAgICAgICJ0eXBlIjogIlNPQ01JIiwgImNvbnN0cnVjdERhdGUiOiAiMjAxNC0wMy0zMSJ9LAogICAgICAgICAgICAgICAgXQogICAgICAgICAgICAgfSwK</text>
       </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text>%s/2001/4001/gc</text>
       </register>
     </registers>
     <search>
-      <last-search>tmpd</last-search>
+      <last-search>200</last-search>
       <last-offset />
-      <last-pattern>tmpd</last-pattern>
-      <last-replace>responseFactor</last-replace>
-      <last-substitute>ldarSetting</last-substitute>
+      <last-pattern>200</last-pattern>
+      <last-replace>4001</last-replace>
+      <last-substitute>2001</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhZGRSZXBhaXJCeURldGVjdGlvblw+</entry>
-        <entry>turn</entry>
         <entry>LdarSetting</entry>
         <entry>ldarSetting</entry>
         <entry encoding="base64">XDxwYXJzZVJvd0ZvclJlcGFpclw+</entry>
@@ -3450,9 +3461,10 @@
         <entry>history</entry>
         <entry>小</entry>
         <entry>tmpd</entry>
+        <entry>2001</entry>
+        <entry>200</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/content\[i++\]/{content[i++]}/gc</entry>
         <entry>%s/BasicLayout/MainLayout/gc</entry>
         <entry>%s/BasicLayout/HeaderFooterLayout/gc</entry>
         <entry>action Back</entry>
@@ -3472,6 +3484,7 @@
         <entry>action NextTab</entry>
         <entry>action PreviousTab</entry>
         <entry>action ReformatCode</entry>
+        <entry>%s/2001/4001/gc</entry>
       </history-cmd>
       <history-expr />
       <history-input />
