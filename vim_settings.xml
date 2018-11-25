@@ -803,6 +803,13 @@
         <mark key="." line="85" column="0" />
         <mark key="^" line="78" column="26" />
       </file>
+      <file name="C:/code/pyutils/voc/ldar/xinlongqiao2018.sql" timestamp="1543110885083">
+        <mark key="'" line="62" column="2" />
+        <mark key="[" line="8" column="10" />
+        <mark key="]" line="8" column="20" />
+        <mark key="." line="8" column="20" />
+        <mark key="^" line="8" column="20" />
+      </file>
       <file name="C:/code/pyutils/voc/dagu/init.sql" timestamp="1541494519105">
         <mark key="'" line="49" column="0" />
         <mark key="[" line="45" column="0" />
@@ -3163,8 +3170,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="247" column="48" filename="C:/code/voc/src/test/java/com/cnvoc/voc/service/impl/DetectionServiceImplTest.java" />
-      <jump line="286" column="43" filename="C:/code/voc/src/test/java/com/cnvoc/voc/service/impl/DetectionServiceImplTest.java" />
       <jump line="100" column="47" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/DetectionServiceImpl.java" />
       <jump line="121" column="19" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/DetectionServiceImpl.java" />
       <jump line="47" column="0" filename="C:/code/voc/src/main/java/com/cnvoc/voc/entity/Detection.java" />
@@ -3263,6 +3268,8 @@
       <jump line="52" column="58" filename="C:/code/pyutils/voc/ldar/rentai2018.sql" />
       <jump line="48" column="28" filename="C:/code/pyutils/voc/ldar/rentai2018.sql" />
       <jump line="64" column="0" filename="C:/code/pyutils/voc/ldar/rentai2018.sql" />
+      <jump line="6" column="20" filename="C:/code/pyutils/voc/ldar/xinlongqiao2018.sql" />
+      <jump line="62" column="2" filename="C:/code/pyutils/voc/ldar/xinlongqiao2018.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3286,7 +3293,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>rentai</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -3393,10 +3400,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>rentai</text>
       </register>
       <register name="/" type="4">
-        <text>200</text>
+        <text>4001</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7ImZhY3RvcnlJZCI6IGZhY3RvcnlfaWQsICJzdGFuZGFyZElkIjogIjQwMDEiLCAibm8iOiAxLCAibmFtZSI6ICLJ+rL617DWwyIsCiAgICAgICAgICAgICAgICAgICAgICJjb2RlIjogIlhYU0MiLAogICAgICAgICAgICAgICAgICAgICAidHlwZSI6ICJTT0NNSSIsICJjb25zdHJ1Y3REYXRlIjogIjIwMTQtMDMtMzEifSwK</text>
@@ -3429,21 +3436,20 @@
         <text encoding="base64">ICAgICAgICAjICLM7L3y08DA+3JlcGFpci54bHN4IiwK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>%s/4001/5001/gc</text>
       </register>
     </registers>
     <search>
-      <last-search>200</last-search>
+      <last-search>4001</last-search>
       <last-offset />
-      <last-pattern>200</last-pattern>
-      <last-replace>4001</last-replace>
-      <last-substitute>2001</last-substitute>
+      <last-pattern>4001</last-pattern>
+      <last-replace>5001</last-replace>
+      <last-substitute>4001</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>LdarSetting</entry>
         <entry>ldarSetting</entry>
         <entry encoding="base64">XDxwYXJzZVJvd0ZvclJlcGFpclw+</entry>
         <entry encoding="base64">XDxmaWxsUmVwYWlyXD4=</entry>
@@ -3463,9 +3469,9 @@
         <entry>tmpd</entry>
         <entry>2001</entry>
         <entry>200</entry>
+        <entry>4001</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/getLeft()/left/gc</entry>
         <entry>%s/getRight()/right/gc</entry>
         <entry>action Forward</entry>
         <entry>wq</entry>
@@ -3485,6 +3491,7 @@
         <entry encoding="base64">JzwsJz5ub3JtIEEi</entry>
         <entry>norm A&quot;</entry>
         <entry>.,.+1norm A&quot;</entry>
+        <entry>%s/4001/5001/gc</entry>
       </history-cmd>
       <history-expr />
       <history-input />
