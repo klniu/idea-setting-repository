@@ -3,11 +3,30 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="C:/code/pyutils/office/exportpdf.py" timestamp="1543113750182">
+        <mark key="'" line="99" column="21" />
+        <mark key="[" line="14" column="7" />
+        <mark key="]" line="14" column="14" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="C:/code/pyutils/office/office2pdf.py" timestamp="1543115247491">
+        <mark key="'" line="88" column="30" />
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="0" />
+        <mark key="^" line="66" column="21" />
+        <mark key="." line="83" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1543115360785">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="C:/code/pyutils/voc/ldar/xinlongqiao2018.sql" timestamp="1543111649463">
         <mark key="[" line="59" column="8" />
         <mark key="]" line="59" column="9" />
         <mark key="." line="59" column="9" />
         <mark key="^" line="48" column="30" />
+      </file>
+      <file name="/a.dummy" timestamp="1543113405902">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/code/pyutils/voc/ldar/xinlongqiao2018.py" timestamp="1543111998311">
         <mark key="[" line="4" column="14" />
@@ -15,59 +34,84 @@
         <mark key="^" line="34" column="33" />
         <mark key="." line="4" column="15" />
       </file>
+      <file name="C:/code/pyutils/requirements.txt" timestamp="1543113906292">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="8" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="11" column="0" filename="C:/code/pyutils/voc/ldar/xinlongqiao2018.py" />
+      <jump line="99" column="21" filename="C:/code/pyutils/office/exportpdf.py" />
+      <jump line="63" column="29" filename="C:/code/pyutils/office/office2pdf.py" />
+      <jump line="9" column="0" filename="C:/code/pyutils/office/office2pdf.py" />
+      <jump line="91" column="47" filename="C:/code/pyutils/office/office2pdf.py" />
+      <jump line="100" column="12" filename="C:/code/pyutils/office/office2pdf.py" />
+      <jump line="101" column="24" filename="C:/code/pyutils/office/office2pdf.py" />
+      <jump line="81" column="30" filename="C:/code/pyutils/office/office2pdf.py" />
     </jumps>
     <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCgyKQo=</text>
+      </register>
+      <register name="-" type="4">
+        <text>(</text>
+      </register>
+      <register name="/" type="4">
+        <text>output</text>
+      </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7ImZhY3RvcnlJZCI6IGZhY3RvcnlfaWQsICJzdGFuZGFyZElkIjogIjUwMDEiLCAibm8iOiAyLCAibmFtZSI6ICK53sf4IiwKICAgICAgICAgICAgICAgICAgICAgImNvZGUiOiAiWFhCRllCIiwKICAgICAgICAgICAgICAgICAgICAgInR5cGUiOiAiU09DTUkiLCAiY29uc3RydWN0RGF0ZSI6ICIyMDE0LTAzLTMxIn0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGltZS5zbGVlcCgxKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>BFYB</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgyKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgxKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB0aW1lLnNsZWVwKDEpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAi0MLB+sfFLbnex/gueGxzeCIsCg==</text>
+        <text encoding="base64">ICAgICAgICBleGl0KDApCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAi0MLB+sfFLUG3tNOmsr8ueGxzeCIK</text>
+      <register name="5" type="8">
+        <text>doc
+doc
+doc</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAiyMrMqS3J+rL617DWwy54bHN4IiwK</text>
+        <text encoding="base64">ICAgICAgICBkb2MgPSBzZWxmLmRvYy5Eb2N1bWVudHMuT3BlbihmaWxlX3BhdGgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAiyMrMqS253sf4Lnhsc3giCg==</text>
+        <text encoding="base64">ICAgICAgICBkb2MuUHJpbnRPdXQoKQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBkb2MuQ2xvc2UoRmFsc2UpCg==</text>
+      </register>
+      <register name="9" type="8">
+        <text>doc
+doc
+doc</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyQvIiwvZ2M=</text>
       </register>
-      <register name="-" type="4">
-        <text>BFYB</text>
-      </register>
-      <register name="/" type="4">
-        <text>$</text>
-      </register>
     </registers>
     <search>
-      <last-search>$</last-search>
-      <last-pattern>$</last-pattern>
+      <last-search>output</last-search>
+      <last-offset />
+      <last-pattern>output</last-pattern>
       <last-replace>&quot;,</last-replace>
       <last-substitute>$</last-substitute>
-      <last-dir>0</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
         <entry>$</entry>
+        <entry>output</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4lcy8kLyIsL2dj</entry>
@@ -86,6 +130,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed J</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
