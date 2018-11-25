@@ -3,12 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/code/pyutils/office/exportpdf.py" timestamp="1543113750182">
-        <mark key="'" line="99" column="21" />
-        <mark key="[" line="14" column="7" />
-        <mark key="]" line="14" column="14" />
-        <mark key="." line="15" column="0" />
-      </file>
       <file name="C:/code/pyutils/office/office2pdf.py" timestamp="1543115247491">
         <mark key="'" line="88" column="30" />
         <mark key="[" line="83" column="0" />
@@ -16,7 +10,7 @@
         <mark key="^" line="66" column="21" />
         <mark key="." line="83" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1543115360785">
+      <file name="/Dummy.txt" timestamp="1543152720589">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/code/pyutils/voc/ldar/xinlongqiao2018.sql" timestamp="1543111649463">
@@ -25,32 +19,20 @@
         <mark key="." line="59" column="9" />
         <mark key="^" line="48" column="30" />
       </file>
-      <file name="C:/code/pyutils/voc/ldar/aojia2018.py" timestamp="1543146972578">
-        <mark key="[" line="69" column="4" />
-        <mark key="]" line="69" column="4" />
-        <mark key="^" line="14" column="9" />
-        <mark key="." line="69" column="4" />
-      </file>
       <file name="/a.dummy" timestamp="1543113405902">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/code/pyutils/voc/ldar/xinlongqiao2018.py" timestamp="1543118721056">
+      <file name="C:/code/pyutils/voc/ldar/xinlongqiao2018.py" timestamp="1543150939342">
         <mark key="[" line="64" column="4" />
         <mark key="]" line="64" column="5" />
         <mark key="^" line="64" column="5" />
         <mark key="." line="64" column="5" />
       </file>
-      <file name="C:/code/pyutils/voc/ldar/rentai2018.py" timestamp="1543148637955">
-        <mark key="[" line="53" column="4" />
-        <mark key="]" line="53" column="4" />
-        <mark key="^" line="12" column="9" />
-        <mark key="." line="53" column="4" />
-      </file>
-      <file name="C:/code/pyutils/voc/ldar/yongli2018.py" timestamp="1543141865048">
-        <mark key="[" line="143" column="0" />
-        <mark key="]" line="145" column="0" />
-        <mark key="." line="146" column="4" />
-        <mark key="^" line="146" column="4" />
+      <file name="C:/code/pyutils/voc/ldar/rentai2018.py" timestamp="1543152407731">
+        <mark key="[" line="20" column="8" />
+        <mark key="]" line="20" column="8" />
+        <mark key="^" line="19" column="9" />
+        <mark key="." line="20" column="8" />
       </file>
       <file name="C:/code/pyutils/voc/ldar/rentai2018.sql" timestamp="1543124915420">
         <mark key="'" line="31" column="14" />
@@ -60,6 +42,34 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
+      </file>
+      <file name="C:/code/pyutils/voc/voc_api.py" timestamp="1543152492971">
+        <mark key="[" line="245" column="0" />
+        <mark key="]" line="245" column="0" />
+        <mark key="^" line="243" column="24" />
+        <mark key="." line="245" column="0" />
+      </file>
+      <file name="C:/code/pyutils/voc/ldar/dagu2018.py" timestamp="1543150972710">
+        <mark key="'" line="88" column="27" />
+      </file>
+      <file name="C:/code/pyutils/office/exportpdf.py" timestamp="1543113750182">
+        <mark key="'" line="99" column="21" />
+        <mark key="[" line="14" column="7" />
+        <mark key="]" line="14" column="14" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="C:/code/pyutils/voc/ldar/aojia2018.py" timestamp="1543152310873">
+        <mark key="'" line="79" column="4" />
+        <mark key="[" line="62" column="16" />
+        <mark key="]" line="62" column="15" />
+        <mark key="^" line="62" column="15" />
+        <mark key="." line="62" column="15" />
+      </file>
+      <file name="C:/code/pyutils/voc/ldar/yongli2018.py" timestamp="1543150966357">
+        <mark key="[" line="146" column="4" />
+        <mark key="]" line="146" column="4" />
+        <mark key="." line="146" column="4" />
+        <mark key="^" line="38" column="9" />
       </file>
     </filemarks>
     <jumps>
@@ -72,13 +82,15 @@
       <jump line="101" column="24" filename="C:/code/pyutils/office/office2pdf.py" />
       <jump line="81" column="30" filename="C:/code/pyutils/office/office2pdf.py" />
       <jump line="31" column="14" filename="C:/code/pyutils/voc/ldar/rentai2018.sql" />
+      <jump line="88" column="27" filename="C:/code/pyutils/voc/ldar/dagu2018.py" />
+      <jump line="79" column="4" filename="C:/code/pyutils/voc/ldar/aojia2018.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBub3Qgc2VsZi5jb25maWdbJ2ZhY3RvcnMnXToKICAgICAgICAgICAgcmV0dXJuCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>['factors']</text>
       </register>
       <register name="/" type="4">
         <text>output</text>
@@ -87,35 +99,35 @@
         <text encoding="base64">ICAgICMgdm9jLnJlcmFuZ2VfdGltZSgpCiAgICAjIHZvYy5leHBvcnRfZGV0ZWN0aW9uX2V4Y2VsKCkKCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgdm9jLnVwbG9hZF9kZXRlY3Rpb25zKCkK</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3Qgc2VsZi5jb25maWdbJ2ZhY3RvcnMnXToKICAgICAgICAgICAgcmV0dXJuCg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBub3Qgc2VsZi5jb25maWdbJ2ZhY3RvcnMnXToKICAgICAgICAgICAgcmV0dXJuCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICMgdm9jLnVwbG9hZF9kZXRlY3Rpb25zKCkK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICMgdm9jLnVwbG9hZF9zZWFscygpCg==</text>
       </register>
-      <register name="3" type="8">
+      <register name="5" type="8">
         <text encoding="base64">IAogCiAKIAog</text>
       </register>
-      <register name="4" type="8">
+      <register name="6" type="8">
         <text>#
 #
 #
 #
 #</text>
       </register>
-      <register name="5" type="8">
+      <register name="7" type="8">
         <text encoding="base64">IyAKIyAKIyA=</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIHZvYy51cGxvYWRfZGV0ZWN0aW9ucygpCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgyKQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgxKQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aW1lLnNsZWVwKDEpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgyKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action NextTab</text>
