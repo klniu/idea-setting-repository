@@ -25,6 +25,12 @@
         <mark key="." line="59" column="9" />
         <mark key="^" line="48" column="30" />
       </file>
+      <file name="C:/code/pyutils/voc/ldar/aojia2018.py" timestamp="1543142028901">
+        <mark key="[" line="78" column="4" />
+        <mark key="]" line="78" column="5" />
+        <mark key="^" line="78" column="5" />
+        <mark key="." line="78" column="5" />
+      </file>
       <file name="/a.dummy" timestamp="1543113405902">
         <mark key="[" line="0" column="0" />
       </file>
@@ -40,11 +46,11 @@
         <mark key="^" line="11" column="9" />
         <mark key="." line="61" column="4" />
       </file>
-      <file name="C:/code/pyutils/voc/ldar/yongli2018.py" timestamp="1543139473410">
-        <mark key="[" line="26" column="8" />
-        <mark key="]" line="26" column="8" />
-        <mark key="." line="26" column="8" />
-        <mark key="^" line="26" column="8" />
+      <file name="C:/code/pyutils/voc/ldar/yongli2018.py" timestamp="1543141865048">
+        <mark key="[" line="143" column="0" />
+        <mark key="]" line="145" column="0" />
+        <mark key="." line="146" column="4" />
+        <mark key="^" line="146" column="4" />
       </file>
       <file name="C:/code/pyutils/voc/ldar/rentai2018.sql" timestamp="1543124915420">
         <mark key="'" line="31" column="14" />
@@ -78,43 +84,41 @@
         <text>output</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGltZS5zbGVlcCgxKQo=</text>
+        <text encoding="base64">ICAgICMgdm9jLnJlcmFuZ2VfdGltZSgpCiAgICAjIHZvYy5leHBvcnRfZGV0ZWN0aW9uX2V4Y2VsKCkKCg==</text>
       </register>
-      <register name="1" type="8">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICMgdm9jLnVwbG9hZF9kZXRlY3Rpb25zKCkK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICMgdm9jLnVwbG9hZF9zZWFscygpCg==</text>
+      </register>
+      <register name="3" type="8">
         <text encoding="base64">IAogCiAKIAog</text>
       </register>
-      <register name="2" type="8">
+      <register name="4" type="8">
         <text>#
 #
 #
 #
 #</text>
       </register>
-      <register name="3" type="8">
+      <register name="5" type="8">
         <text encoding="base64">IyAKIyAKIyA=</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIHZvYy51cGxvYWRfZGV0ZWN0aW9ucygpCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCgyKQo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCgxKQo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICB0aW1lLnNsZWVwKDEpCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBleGl0KDApCg==</text>
-      </register>
-      <register name="9" type="8">
-        <text>doc
-doc
-doc</text>
-      </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zLyQvIiwvZ2M=</text>
+        <text>action NextTab</text>
       </register>
     </registers>
     <search>
@@ -134,6 +138,8 @@ doc</text>
       <history-cmd>
         <entry encoding="base64">JzwsJz4lcy8kLyIsL2dj</entry>
         <entry encoding="base64">JzwsJz5zLyQvIiwvZ2M=</entry>
+        <entry>action PreviousTab</entry>
+        <entry>action NextTab</entry>
       </history-cmd>
     </history>
     <shortcut-conflicts>
@@ -151,6 +157,12 @@ doc</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed J</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>alt pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>alt pressed L</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
