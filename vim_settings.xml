@@ -185,12 +185,12 @@
       <file name="/fragment.java" timestamp="1542880231136">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/DetectionServiceImpl.java" timestamp="1543128961626">
-        <mark key="'" line="749" column="39" />
-        <mark key="[" line="743" column="27" />
-        <mark key="]" line="743" column="32" />
-        <mark key="." line="743" column="32" />
-        <mark key="^" line="743" column="32" />
+      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/DetectionServiceImpl.java" timestamp="1543130291156">
+        <mark key="'" line="747" column="39" />
+        <mark key="[" line="742" column="60" />
+        <mark key="]" line="742" column="61" />
+        <mark key="." line="742" column="61" />
+        <mark key="^" line="746" column="63" />
       </file>
     </filemarks>
     <jumps>
@@ -316,8 +316,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ID4gNjAw</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpbnQgYWdncmVnYXRpb24gPSAwOwo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -424,7 +424,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID4gNjAw</text>
+        <text>aggregation</text>
       </register>
       <register name="/" type="4">
         <text>FALSE</text>
@@ -433,31 +433,31 @@
         <text encoding="base64">ICAgICAgICBpbnQgc2l6ZSA9IFJhbmRvbVV0aWxzLm5leHRJbnQoNTAwLCA1NTApOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFnZ3JlZ2F0aW9uID0gMDsK</text>
+        <text encoding="base64">ICAgICAgICBpbnQgYWdncmVnYXRpb24gPSAwOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGFzdE9sZFRpbWUgPSBkLmdldFRpbWUoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFnZ3JlZ2F0aW9uID0gMDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTGlzdDxMaXN0PERldGVjdGlvbj4+IG9yaWdpbkFuZEV4dHJhcyA9IGdldEV4dHJhRGV0ZWN0aW9ucyhkZXRlY3RzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFnZ3JlZ2F0aW9uID0gMDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PERldGVjdGlvbj4gb3JpZ2lucyA9IG5ldyBBcnJheUxpc3Q8PigpOyAvLyDkuI3pnIDopoHmlLnkurrnmoTmlbDmja4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGFzdE9sZFRpbWUgPSBkLmdldFRpbWUoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgb3JpZ2lucy5hZGRBbGwob3JpZ2luQW5kRXh0cmFzLmdldCgwKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTGlzdDxMaXN0PERldGVjdGlvbj4+IG9yaWdpbkFuZEV4dHJhcyA9IGdldEV4dHJhRGV0ZWN0aW9ucyhkZXRlY3RzKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9IGVsc2Ugewo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgb3JpZ2lucy5hZGRBbGwoZGV0ZWN0cyk7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBMaXN0PERldGVjdGlvbj4gb3JpZ2lucyA9IG5ldyBBcnJheUxpc3Q8PigpOyAvLyDkuI3pnIDopoHmlLnkurrnmoTmlbDmja4K</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgb3JpZ2lucy5hZGRBbGwob3JpZ2luQW5kRXh0cmFzLmdldCgwKSk7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9IGVsc2Ugewo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIHJ1bnRpbWUoJ2NvbS5oMmRhdGFiYXNlOmgyJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgb3JpZ2lucy5hZGRBbGwoZGV0ZWN0cyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/NUMBER(0, 1)/NUMBER\(1\)/gc</text>
