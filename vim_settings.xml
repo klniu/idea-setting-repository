@@ -188,12 +188,12 @@
         <mark key="^" line="45" column="47" />
         <mark key="." line="45" column="47" />
       </file>
-      <file name="C:/code/pyutils/voc/ldar/dagu2018.py" timestamp="1543199590748">
+      <file name="C:/code/pyutils/voc/ldar/dagu2018.py" timestamp="1543213088905">
         <mark key="'" line="188" column="13" />
-        <mark key="[" line="188" column="4" />
-        <mark key="]" line="188" column="5" />
-        <mark key="." line="188" column="5" />
-        <mark key="^" line="188" column="5" />
+        <mark key="[" line="187" column="4" />
+        <mark key="]" line="187" column="5" />
+        <mark key="." line="187" column="5" />
+        <mark key="^" line="187" column="5" />
       </file>
       <file name="D:/code/web/voc-delon/src/app/layout/passport/passport.component.html" timestamp="1526527444136">
         <mark key="'" line="10" column="15" />
@@ -2432,12 +2432,12 @@
         <mark key="." line="79" column="22" />
         <mark key="^" line="79" column="22" />
       </file>
-      <file name="C:/code/pyutils/voc/voc_api.py" timestamp="1543199673763">
-        <mark key="'" line="269" column="18" />
-        <mark key="[" line="41" column="20" />
-        <mark key="]" line="41" column="32" />
-        <mark key="^" line="41" column="32" />
-        <mark key="." line="41" column="32" />
+      <file name="C:/code/pyutils/voc/voc_api.py" timestamp="1543213114322">
+        <mark key="'" line="35" column="23" />
+        <mark key="[" line="35" column="24" />
+        <mark key="]" line="35" column="36" />
+        <mark key="^" line="35" column="36" />
+        <mark key="." line="35" column="36" />
       </file>
       <file name="D:/code/web/voc-delon/src/app/core/startup/startup.service.ts" timestamp="1526527247859">
         <mark key="'" line="55" column="12" />
@@ -3159,8 +3159,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="C:/code/voc/src/main/java/com/cnvoc/voc/common/Function.java" />
-      <jump line="83" column="49" filename="C:/code/voc/src/main/java/com/cnvoc/voc/entity/Repair.java" />
       <jump line="0" column="0" filename="C:/code/voc/src/main/java/com/cnvoc/voc/entity/Detection.java" />
       <jump line="232" column="41" filename="C:/code/voc/src/test/java/com/cnvoc/voc/service/impl/RepairServiceImplTest.java" />
       <jump line="247" column="48" filename="C:/code/voc/src/test/java/com/cnvoc/voc/service/impl/DetectionServiceImplTest.java" />
@@ -3256,9 +3254,11 @@
       <jump line="128" column="4" filename="C:/code/pyutils/voc/ldar/yongli2018.py" />
       <jump line="0" column="0" filename="D:/OneDrive/projects/天津LDAR/voc/all.sql" />
       <jump line="188" column="26" filename="D:/OneDrive/projects/天津LDAR/voc/all.sql" />
-      <jump line="188" column="13" filename="C:/code/pyutils/voc/ldar/dagu2018.py" />
       <jump line="268" column="18" filename="C:/code/pyutils/voc/voc_api.py" />
       <jump line="62" column="29" filename="C:/code/pyutils/voc/ldar/aojia2018.py" />
+      <jump line="188" column="13" filename="C:/code/pyutils/voc/ldar/dagu2018.py" />
+      <jump line="35" column="23" filename="C:/code/pyutils/voc/voc_api.py" />
+      <jump line="276" column="23" filename="C:/code/pyutils/voc/voc_api.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3282,7 +3282,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>delay</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -3389,13 +3389,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>delay</text>
       </register>
       <register name="/" type="4">
         <text>tmpd</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmV4cG9ydF9yZXBhaXJfZXhjZWwoKQo=</text>
+        <text encoding="base64">ICAgIGRlZiBleHBvcnRfZGVsYXlfZXhjZWwoc2VsZik6CiAgICAgICAgcHJpbnQoJ7W8s/ZkZWxheSBFeGNlbCcpCiAgICAgICAgciA9IHNlbGYuX2dldCh1cmw9c2VsZi5fdXJsICsgJy9hcGkvZGVsYXkvZXhwb3J0L2V4Y2VsLycgKyBzdHIoc2VsZi5fdHVybl9pZCkpCiAgICAgICAgd2l0aCBvcGVuKG9qKHNlbGYuY29uZmlnWydyZXN1bHRfZGlyJ10sICdkZWxheS54bHN4JyksICd3YicpIGFzIGY6CiAgICAgICAgICAgIGYud3JpdGUoci5jb250ZW50KQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICMgdm9jLmV4cG9ydF9hbGwoKQo=</text>
@@ -3425,7 +3425,7 @@
         <text encoding="base64">ICAgICAgICBzZWxmLmFkZF90b2JlcygpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text>action PreviousTab</text>
       </register>
     </registers>
     <search>
@@ -3478,9 +3478,9 @@
         <entry>%s/ldarSetting/responseFactor/gc</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUHJldmlvdXNUYWI=</entry>
+        <entry>action ReformatCode</entry>
         <entry>action NextTab</entry>
         <entry>action PreviousTab</entry>
-        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
