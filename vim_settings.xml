@@ -13,6 +13,9 @@
       <file name="/Dummy.txt" timestamp="1543152720589">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Python Console" timestamp="1543720362970">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="C:/code/pyutils/voc/ldar/xinlongqiao2018.sql" timestamp="1543111649463">
         <mark key="[" line="59" column="8" />
         <mark key="]" line="59" column="9" />
@@ -22,11 +25,11 @@
       <file name="/a.dummy" timestamp="1543113405902">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/code/pyutils/voc/ldar/xinlongqiao2018.py" timestamp="1543150939342">
-        <mark key="[" line="64" column="4" />
-        <mark key="]" line="64" column="5" />
-        <mark key="^" line="64" column="5" />
-        <mark key="." line="64" column="5" />
+      <file name="C:/code/pyutils/voc/ldar/xinlongqiao2018.py" timestamp="1543720384139">
+        <mark key="[" line="20" column="8" />
+        <mark key="]" line="20" column="9" />
+        <mark key="^" line="20" column="9" />
+        <mark key="." line="20" column="9" />
       </file>
       <file name="C:/code/pyutils/voc/ldar/rentai2018.py" timestamp="1543152407731">
         <mark key="[" line="20" column="8" />
@@ -43,14 +46,8 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="C:/code/pyutils/voc/voc_api.py" timestamp="1543152492971">
-        <mark key="[" line="245" column="0" />
-        <mark key="]" line="245" column="0" />
-        <mark key="^" line="243" column="24" />
-        <mark key="." line="245" column="0" />
-      </file>
       <file name="C:/code/pyutils/voc/ldar/dagu2018.py" timestamp="1543150972710">
-        <mark key="'" line="88" column="27" />
+        <mark key="'" line="87" column="27" />
       </file>
       <file name="C:/code/pyutils/office/exportpdf.py" timestamp="1543113750182">
         <mark key="'" line="99" column="21" />
@@ -86,11 +83,11 @@
       <jump line="79" column="4" filename="C:/code/pyutils/voc/ldar/aojia2018.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3Qgc2VsZi5jb25maWdbJ2ZhY3RvcnMnXToKICAgICAgICAgICAgcmV0dXJuCg==</text>
+      <register name="&quot;" type="4">
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>['factors']</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>output</text>
@@ -140,7 +137,7 @@
       <last-replace>&quot;,</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -153,6 +150,8 @@
         <entry>action PreviousTab</entry>
         <entry>action NextTab</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
