@@ -27,6 +27,12 @@
         <mark key="]" line="26" column="11" />
         <mark key="." line="26" column="11" />
       </file>
+      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/entity/Component.java" timestamp="1543828895267">
+        <mark key="[" line="56" column="23" />
+        <mark key="]" line="56" column="23" />
+        <mark key="." line="56" column="23" />
+        <mark key="^" line="56" column="23" />
+      </file>
       <file name="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/FactoryServiceImpl.java" timestamp="1542785023958">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -34,6 +40,13 @@
       </file>
       <file name="/a.sql" timestamp="1543287647144">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/code/voc/src/test/resources/sql/init.sql" timestamp="1543828866549">
+        <mark key="'" line="7" column="39" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="8" column="59" />
+        <mark key="^" line="239" column="148" />
+        <mark key="." line="244" column="37" />
       </file>
       <file name="C:/code/voc/src/main/resources/application-test.yaml" timestamp="1542879770926">
         <mark key="^" line="8" column="19" />
@@ -44,8 +57,15 @@
         <mark key="." line="36" column="66" />
         <mark key="^" line="36" column="66" />
       </file>
-      <file name="C:/code/voc/src/test/resources/sql/clear.sql" timestamp="1543286589108">
-        <mark key="]" line="0" column="1" />
+      <file name="C:/code/voc/src/test/resources/sql/clear.sql" timestamp="1543829606465">
+        <mark key="'" line="13" column="8" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="12" column="3" />
+      </file>
+      <file name="C:/code/voc/src/main/resources/sql/schema.sql" timestamp="1543826494443">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="C:/code/voc/src/test/java/com/cnvoc/voc/web/LdarTurnControllerTest.java" timestamp="1542849116539">
         <mark key="[" line="69" column="39" />
@@ -61,7 +81,7 @@
       <file name="/dummy.sql" timestamp="1543284404518">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1543553063994">
+      <file name="/Dummy.txt" timestamp="1543829632243">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -109,6 +129,11 @@
         <mark key="]" line="90" column="0" />
         <mark key="." line="90" column="0" />
       </file>
+      <file name="C:/code/voc/src/test/java/com/cnvoc/voc/service/impl/ComponentServiceImplTest.java" timestamp="1543829543720">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
+      </file>
       <file name="C:/code/voc/src/main/resources/sql/schema_oracle.sql" timestamp="1542876431520">
         <mark key="'" line="702" column="30" />
         <mark key="[" line="728" column="17" />
@@ -145,6 +170,11 @@
         <mark key="^" line="125" column="34" />
         <mark key="." line="341" column="0" />
       </file>
+      <file name="C:/code/voc/src/main/resources/application.yaml" timestamp="1543828437804">
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="." line="68" column="0" />
+      </file>
       <file name="C:/code/voc/src/test/java/com/cnvoc/voc/web/LdarStandardControllerTest.java" timestamp="1542848943882">
         <mark key="[" line="73" column="38" />
         <mark key="]" line="73" column="40" />
@@ -165,16 +195,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="127" column="17" filename="C:/code/voc/src/main/resources/sql/schema_oracle.sql" />
-      <jump line="128" column="17" filename="C:/code/voc/src/main/resources/sql/schema_oracle.sql" />
-      <jump line="129" column="17" filename="C:/code/voc/src/main/resources/sql/schema_oracle.sql" />
-      <jump line="132" column="17" filename="C:/code/voc/src/main/resources/sql/schema_oracle.sql" />
-      <jump line="151" column="22" filename="C:/code/voc/src/main/resources/sql/schema_oracle.sql" />
-      <jump line="152" column="22" filename="C:/code/voc/src/main/resources/sql/schema_oracle.sql" />
-      <jump line="153" column="22" filename="C:/code/voc/src/main/resources/sql/schema_oracle.sql" />
-      <jump line="156" column="22" filename="C:/code/voc/src/main/resources/sql/schema_oracle.sql" />
-      <jump line="157" column="22" filename="C:/code/voc/src/main/resources/sql/schema_oracle.sql" />
-      <jump line="184" column="23" filename="C:/code/voc/src/main/resources/sql/schema_oracle.sql" />
       <jump line="185" column="23" filename="C:/code/voc/src/main/resources/sql/schema_oracle.sql" />
       <jump line="186" column="23" filename="C:/code/voc/src/main/resources/sql/schema_oracle.sql" />
       <jump line="187" column="23" filename="C:/code/voc/src/main/resources/sql/schema_oracle.sql" />
@@ -226,7 +246,6 @@
       <jump line="132" column="27" filename="C:/code/voc/src/main/resources/sql/schema.sql" />
       <jump line="15" column="0" filename="C:/code/voc/src/test/resources/sql/clear.sql" />
       <jump line="9" column="26" filename="C:/code/voc/src/test/resources/sql/clear.sql" />
-      <jump line="0" column="0" filename="C:/code/voc/src/test/resources/sql/clear.sql" />
       <jump line="17" column="0" filename="C:/code/voc/src/test/resources/sql/clear.sql" />
       <jump line="16" column="21" filename="C:/code/voc/src/test/resources/sql/clear.sql" />
       <jump line="145" column="48" filename="C:/code/voc/src/main/resources/sql/schema.sql" />
@@ -265,6 +284,17 @@
       <jump line="249" column="29" filename="C:/code/voc/src/main/resources/sql/schema.sql" />
       <jump line="10" column="47" filename="C:/code/voc/src/test/resources/sql/init.sql" />
       <jump line="0" column="0" filename="C:/code/voc/src/test/resources/sql/init.sql" />
+      <jump line="144" column="5" filename="C:/code/voc/src/main/resources/sql/schema.sql" />
+      <jump line="0" column="0" filename="C:/code/voc/src/main/resources/sql/schema.sql" />
+      <jump line="9" column="0" filename="C:/code/voc/src/test/resources/sql/init.sql" />
+      <jump line="153" column="20" filename="C:/code/voc/src/test/resources/sql/init.sql" />
+      <jump line="155" column="39" filename="C:/code/voc/src/test/resources/sql/init.sql" />
+      <jump line="214" column="33" filename="C:/code/voc/src/test/resources/sql/init.sql" />
+      <jump line="242" column="31" filename="C:/code/voc/src/test/resources/sql/init.sql" />
+      <jump line="7" column="39" filename="C:/code/voc/src/test/resources/sql/init.sql" />
+      <jump line="21" column="19" filename="C:/code/voc/src/test/resources/sql/clear.sql" />
+      <jump line="0" column="0" filename="C:/code/voc/src/test/resources/sql/clear.sql" />
+      <jump line="13" column="8" filename="C:/code/voc/src/test/resources/sql/clear.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -287,8 +317,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">SU5TRVJUIElOVE8gaW5zdGFsbCAoaWQsIGZhY3RvcnlfaWQsIHN0YW5kYXJkX2lkLCB1bml0X2lkLCBubywgbmFtZSwgY29kZSwgdHlwZSwgY29uc3RydWN0X2RhdGUsCiAgICAgICAgICAgICAgICAgICAgIGZvbGRlciwgZGVzY3JpcHRpb24pClNFTEVDVCAxLCA2LCAxLCAxLCAxLCAn54K85Yi26KOF572uMScsICdaWjEnLCAxLCBUT19EQVRFKCcyMDE0LTA0LTAxJywgJ3l5eXktbW0tZGQnKSwgJ2FiY2RlZmdoaWonLCAn54K85Yi26KOF572uMScgRlJPTSBkdWFsIFVOSU9OIEFMTApTRUxFQ1QgMiwgNiwgMiwgMSwgMiwgJ+WMluW3peijhee9rjInLCAnWloyJywgMiwgVE9fREFURSgnMjAxNC0wNC0wMScsICd5eXl5LW1tLWRkJyksICdqaWhnZmVkY2JhJywgJ+WMluW3peijhee9rjInIEZST00gZHVhbCBVTklPTiBBTEwKU0VMRUNUIDMsIDcsIDEsIDMsIDEsICfmsrnmsJTnlJ/kuqfoo4Xnva4xJywgJ1lRU0MxJywgMywgVE9fREFURSgnMjAxNi0wNC0wMScsICd5eXl5LW1tLWRkJyksICcyYTFmc2FkZmFzJywgJ+ayueawlOeUn+S6p+ijhee9rjEnIEZST00gZHVhbCBVTklPTiBBTEwKU0VMRUNUIDQsIDcsIDEsIDMsIDIsICfplIDllK7nu4jnq68yJywgJ1hTWkQxJywgMywgVE9fREFURSgnMjAxNi0wNS0wMScsICd5eXl5LW1tLWRkJyksICczYTFmc2FkZmFzJywgJ+mUgOWUrue7iOerrzInIEZST00gZHVhbCBVTklPTiBBTEwKU0VMRUNUIDUsIDYsIDEsIDEsIDMsICfplIDllK7nu4jnq68zJywgJ1hTWkQzJywgMiwgVE9fREFURSgnMjAxNC0wNS0wMScsICd5eXl5LW1tLWRkJyksICdvMjNmbGFzZmxqJywgJ+mUgOWUrue7iOerrzInIEZST00gZHVhbCBVTklPTiBBTEwKU0VMRUNUIDYsIDgsIDEsIDUsIDEsICfoo4Xnva4zJywgJ1paMycsIDIsIFRPX0RBVEUoJzIwMTQtMDUtMDEnLCAneXl5eS1tbS1kZCcpLCAnZGZkamZrc2RmJywgJ+ijhee9rjMnIEZST00gZHVhbDsK</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -395,76 +425,56 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>15</text>
+        <text>:=</text>
       </register>
-      <register name="0" type="4">
-        <text>, 'yyyy-mm-dd')</text>
+      <register name="0" type="2">
+        <text encoding="base64">Lwo=</text>
       </register>
-      <register name="1" type="8">
-        <text>TRUNCATE
-TRUNCATE
-TRUNCATE
-TRUNCATE
-TRUNCATE
-TRUNCATE
-TRUNCATE
-TRUNCATE
-TRUNCATE
-TRUNCATE
-TRUNCATE
-TRUNCATE
-TRUNCATE
-TRUNCATE
-TRUNCATE
-TRUNCATE
-TRUNCATE</text>
+      <register name="1" type="2">
+        <text encoding="base64">QkVHSU4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YWx0ZXIgdGFibGUgdGFibGVfbmFtZSBkaXNhYmxlIGNvbnN0cmFpbnQgY29uc3RyYWludF9uYW1lCg==</text>
+        <text encoding="base64">RU5EOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YWx0ZXIgdGFibGUgdGFibGVfbmFtZSBkaXNhYmxlIGNvbnN0cmFpbnQgY29uc3RyYWludF9uYW1lCg==</text>
+        <text encoding="base64">Lwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">VFJVTkNBVEUgVEFCTEUgInBlcm1pc3Npb24iOwo=</text>
+        <text encoding="base64">RU5EOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">VFJVTkNBVEUgVEFCTEUgdXNlcl9wZXJtaXNzaW9uOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">U0VUIEZPUkVJR05fS0VZX0NIRUNLUyA9IDE7Cg==</text>
+        <text encoding="base64">ICAvCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">U0VUIEZPUkVJR05fS0VZX0NIRUNLUyA9IDA7Cg==</text>
+        <text encoding="base64">Lwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LyoKSU5TRVJUIElOVE8gcm9sZSAoaWQsIG5hbWUsIGRlc2NyaXB0aW9uKSBWQUxVRVMKICAoMSwgJ2FkbWluJywgJ+euoeeQhuWRmCcpLAogICgyLCAndm9jX21hbmFnZXInLCAndm9j566h55CG5Lq65ZGYJyksCiAgKDIsICd2b2Nfdmlld2VyJywgJ3ZvY+euoeeQhuS6uuWRmCcpLAogICgyLCAnbGRhcl9lZGl0b3InLCAnbGRhcuaTjeS9nOS6uuWRmCcpLAogICgzLCAnbGRhcl92aWV3ZXInLCAnbGRhcuafpeeci+S6uuWRmCcpOwoqLwoKSU5TRVJUIElOVE8gcGVybWlzc2lvbiAoaWQsIG1ldGhvZCwgZGVzY3JpcHRpb24pClNFTEVDVCAxLCAnKicsICfnrqHnkIblkZgnIEZST00gZHVhbCBVTklPTiBBTEwKU0VMRUNUIDIsICd1c2VyJywgJ+aTjeS9nOeUqOaItycgRlJPTSBkdWFsIFVOSU9OIEFMTApTRUxFQ1QgMywgJ3VzZXI6dmlldycsICfmn6XnnIvnlKjmiLcnIEZST00gZHVhbCBVTklPTiBBTEwKU0VMRUNUIDQsICdsZGFyJywgJ2xkYXLlhajmnYPpmZAnIEZST00gZHVhbCBVTklPTiBBTEwKU0VMRUNUIDUsICdsZGFyOmVkaXQsdmlldycsICfpmaRwYWTlpJbnmoRsZGFy5p2D6ZmQJyBGUk9NIGR1YWwgVU5JT04gQUxMClNFTEVDVCA2LCAnbGRhcjp2aWV3JywgJ2xkYXLmn6XnnIsnIEZST00gZHVhbDsKCklOU0VSVCBJTlRPIHVzZXJfcGVybWlzc2lvbiAodXNlcl9pZCwgcGVybWlzc2lvbl9pZCkKU0VMRUNUIDEsIDEgRlJPTSBkdWFsIFVOSU9OIEFMTAo=</text>
+        <text encoding="base64">Lwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">U0VMRUNUIDIsIDUgRlJPTSBkdWFsIFVOSU9OIEFMTAoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zLzE1LzMwL2dj</text>
+        <text>%s/-mm-/-MM-/gc</text>
       </register>
     </registers>
     <search>
-      <last-search>15</last-search>
+      <last-search>:=</last-search>
       <last-offset />
-      <last-pattern>15</last-pattern>
-      <last-replace>30</last-replace>
-      <last-substitute>15</last-substitute>
+      <last-pattern>:=</last-pattern>
+      <last-replace>-MM-</last-replace>
+      <last-substitute>-mm-</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>vali</entry>
-        <entry>compile</entry>
-        <entry>junit</entry>
-        <entry>assertT</entry>
         <entry>Duration</entry>
         <entry encoding="base64">XDxQZXJpb2RcPg==</entry>
         <entry>CHAR</entry>
@@ -481,11 +491,12 @@ TRUNCATE</text>
         <entry>FALSE</entry>
         <entry>default</entry>
         <entry>15</entry>
+        <entry>'2004</entry>
+        <entry>01-01'</entry>
+        <entry>-mm-</entry>
+        <entry>:=</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/ldarSetting/responseFactor/gc</entry>
-        <entry>q</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gUHJldmlvdXNUYWI=</entry>
         <entry>vsplit</entry>
         <entry>%s/date(/datetime(//gc</entry>
         <entry>%s/date(/datetime(/gc</entry>
@@ -503,6 +514,9 @@ TRUNCATE</text>
         <entry>%s/TRUE/1/gc</entry>
         <entry>%s/FALSE/0/gc</entry>
         <entry encoding="base64">JzwsJz5zLzE1LzMwL2dj</entry>
+        <entry>%s/'2004/TO_DATE('2004/gc</entry>
+        <entry>%s/01-01'/01-01', 'yyyy-mm-dd')/gc</entry>
+        <entry>%s/-mm-/-MM-/gc</entry>
       </history-cmd>
       <history-expr />
       <history-input />
