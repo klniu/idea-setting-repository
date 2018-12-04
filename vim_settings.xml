@@ -5,6 +5,11 @@
       <mark key="M" line="56" column="22" filename="$USER_HOME$/sync/code/go/src/LawIndexer/models/model_test.go" protocol="file" />
     </globalmarks>
     <filemarks>
+      <file name="C:/code/pyutils/office/office2pdf.py" timestamp="1543894239069">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
       <file name="C:/code/voc/build.gradle" timestamp="1542880265279">
         <mark key="[" line="45" column="28" />
         <mark key="]" line="45" column="29" />
@@ -294,8 +299,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAiZG9jIiBpbiBzZWxmLnR5cGVzIG9yICJkb2N4IiBpbiBzZWxmLnR5cGVzCg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IChlcnIpID0+IG1lc3NhZ2UuZXJyb3IoIue9kee7nOmUmeivr++8jOivt+eojeWQjumHjeivlSIpLAo=</text>
@@ -410,7 +415,16 @@
       <register name="0" type="4">
         <text>, 'yyyy-mm-dd')</text>
       </register>
-      <register name="1" type="8">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAiZG9jIiBpbiBzZWxmLnR5cGVzIG9yICJkb2N4IiBpbiBzZWxmLnR5cGVzCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBleHQK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBleHQK</text>
+      </register>
+      <register name="4" type="8">
         <text>TRUNCATE
 TRUNCATE
 TRUNCATE
@@ -429,29 +443,20 @@ TRUNCATE
 TRUNCATE
 TRUNCATE</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">YWx0ZXIgdGFibGUgdGFibGVfbmFtZSBkaXNhYmxlIGNvbnN0cmFpbnQgY29uc3RyYWludF9uYW1lCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">YWx0ZXIgdGFibGUgdGFibGVfbmFtZSBkaXNhYmxlIGNvbnN0cmFpbnQgY29uc3RyYWludF9uYW1lCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">VFJVTkNBVEUgVEFCTEUgInBlcm1pc3Npb24iOwo=</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">VFJVTkNBVEUgVEFCTEUgdXNlcl9wZXJtaXNzaW9uOwo=</text>
+        <text encoding="base64">YWx0ZXIgdGFibGUgdGFibGVfbmFtZSBkaXNhYmxlIGNvbnN0cmFpbnQgY29uc3RyYWludF9uYW1lCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">U0VUIEZPUkVJR05fS0VZX0NIRUNLUyA9IDE7Cg==</text>
+        <text encoding="base64">YWx0ZXIgdGFibGUgdGFibGVfbmFtZSBkaXNhYmxlIGNvbnN0cmFpbnQgY29uc3RyYWludF9uYW1lCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">U0VUIEZPUkVJR05fS0VZX0NIRUNLUyA9IDA7Cg==</text>
+        <text encoding="base64">VFJVTkNBVEUgVEFCTEUgInBlcm1pc3Npb24iOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LyoKSU5TRVJUIElOVE8gcm9sZSAoaWQsIG5hbWUsIGRlc2NyaXB0aW9uKSBWQUxVRVMKICAoMSwgJ2FkbWluJywgJ+euoeeQhuWRPycpLAogICgyLCAndm9jX21hbmFnZXInLCAndm9j566h55CG5Lq65ZGYJyksCiAgKDIsICd2b2Nfdmlld2VyJywgJ3ZvY+euoeeQhuS6uuWRmCcpLAogICgyLCAnbGRhcl9lZGl0b3InLCAnbGRhcuaTjeS9nOS6uuWRmCcpLAogICgzLCAnbGRhcl92aWV3ZXInLCAnbGRhcuafpeeci+S6uuWRmCcpOwoqLwoKSU5TRVJUIElOVE8gcGVybWlzc2lvbiAoaWQsIG1ldGhvZCwgZGVzY3JpcHRpb24pClNFTEVDVCAxLCAnKicsICfnrqHnkIblkT8nIEZST00gZHVhbCBVTklPTiBBTEwKU0VMRUNUIDIsICd1c2VyJywgJ+aTjeS9nOeUqOaItycgRlJPTSBkdWFsIFVOSU9OIEFMTApTRUxFQ1QgMywgJ3VzZXI6dmlldycsICfmn6XnnIvnlKjmiLcnIEZST00gZHVhbCBVTklPTiBBTEwKU0VMRUNUIDQsICdsZGFyJywgJ2xkYXLlhajmnYPpmT8nIEZST00gZHVhbCBVTklPTiBBTEwKU0VMRUNUIDUsICdsZGFyOmVkaXQsdmlldycsICfpmaRwYWTlpJbnmoRsZGFy5p2D6ZmQJyBGUk9NIGR1YWwgVU5JT04gQUxMClNFTEVDVCA2LCAnbGRhcjp2aWV3JywgJ2xkYXLmn6XnnIsnIEZST00gZHVhbDsKCklOU0VSVCBJTlRPIHVzZXJfcGVybWlzc2lvbiAodXNlcl9pZCwgcGVybWlzc2lvbl9pZCkKU0VMRUNUIDEsIDEgRlJPTSBkdWFsIFVOSU9OIEFMTAo=</text>
+        <text encoding="base64">VFJVTkNBVEUgVEFCTEUgdXNlcl9wZXJtaXNzaW9uOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">U0VMRUNUIDIsIDUgRlJPTSBkdWFsIFVOSU9OIEFMTAoK</text>
+        <text encoding="base64">U0VUIEZPUkVJR05fS0VZX0NIRUNLUyA9IDE7Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLzE1LzMwL2dj</text>
