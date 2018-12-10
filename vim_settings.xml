@@ -3,12 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/code/pyutils/voc/ldar/yongli2018.py" timestamp="1544446938591">
-        <mark key="'" line="26" column="21" />
-        <mark key="[" line="26" column="11" />
-        <mark key="]" line="26" column="22" />
-        <mark key="^" line="26" column="22" />
-        <mark key="." line="26" column="22" />
+      <file name="/Dummy.txt" timestamp="1544447501007">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/code/pyutils/voc/ldar/yongli2018.py" timestamp="1544447494379">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="29" />
+        <mark key="." line="26" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -18,14 +19,14 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAjICe817S8vOyy4sr9vt0ueGxzeCcK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>据</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAnvNe0vF90aW1lY2hhbmdlZC54bHN4Jwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>据</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
@@ -33,9 +34,12 @@
       <show-last>false</show-last>
     </search>
     <history>
+      <history-search />
       <history-cmd>
         <entry>w</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
