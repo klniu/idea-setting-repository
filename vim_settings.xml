@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="C:/code/pyutils/utils/randomrename.py" timestamp="1544527468196">
+        <mark key="[" line="15" column="36" />
+        <mark key="]" line="15" column="36" />
+        <mark key="." line="15" column="36" />
+        <mark key="^" line="20" column="45" />
+      </file>
       <file name="C:/code/pyutils/voc/ldar/yongli2018.py" timestamp="1544524550930">
         <mark key="[" line="25" column="37" />
         <mark key="]" line="25" column="37" />
@@ -11,12 +17,53 @@
       </file>
     </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">IyBZYW5nZ2QgMjAxMi85LzcKIyBnZXQgZmlsZSBuYW1lLCBhbmQgdGhlbiByZW5hbWUgdGhlIGZpbGUKIyBhZnRlciByZW5hbWVkLCB0aGUgbmFtZSBsaWtlcyB0aGlzOlthLXpBLVpdW2EtekEtWl1bMC05XVswLTldW2EtekEtWl1bMC05XQo=</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>+</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IHJhbmRvbQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBleGlzdE5hbWUuYXBwZW5kKG5ld0ZpbGVOYW1lLnVwcGVyKCkpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB3aGlsZSBuZXdGaWxlTmFtZS51cHBlcigpIGluIGV4aXN0TmFtZToKICAgICAgICAgICAgbmV3RmlsZU5hbWUgPSByYW5kb20uY2hvaWNlKHJhbmdlTGV0dGVyKSArIHJhbmRvbS5jaG9pY2UocmFuZ2VMZXR0ZXIpKyBcCiAgICAgICAgICAgIHN0cihyYW5kb20ucmFuZHJhbmdlKDEwKSkrc3RyKHJhbmRvbS5yYW5kcmFuZ2UoMTApKStyYW5kb20uY2hvaWNlKHJhbmdlTGV0dGVyKStzdHIocmFuZG9tLnJhbmRyYW5nZSgxMCkpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB3aGlsZSBuZXdGaWxlTmFtZQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBkbwo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBzdHIocmFuZG9tLnJhbmRyYW5nZSgxMCkpK3N0cihyYW5kb20ucmFuZHJhbmdlKDEwKSkrcmFuZG9tLmNob2ljZShyYW5nZUxldHRlcikrc3RyKHJhbmRvbS5yYW5kcmFuZ2UoMTApKQo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>action ReformatCode</text>
+      </register>
+      <register name="-" type="4">
+        <text>+</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-cmd>
+        <entry>action ReformatCode</entry>
+      </history-cmd>
+    </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed S</text>
