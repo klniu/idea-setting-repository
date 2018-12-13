@@ -2,14 +2,103 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
-    <jumps />
-    <registers />
+    <filemarks>
+      <file name="C:/code/voc/src/main/resources/application-cnooc.yaml" timestamp="1544667818671">
+        <mark key="[" line="19" column="2" />
+        <mark key="]" line="19" column="2" />
+        <mark key="^" line="19" column="18" />
+        <mark key="." line="19" column="2" />
+      </file>
+      <file name="C:/code/voc/build.gradle" timestamp="1544669833204">
+        <mark key="[" line="36" column="45" />
+        <mark key="]" line="36" column="68" />
+      </file>
+      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/UserServiceImpl.java" timestamp="1544668867095">
+        <mark key="'" line="60" column="28" />
+        <mark key="[" line="38" column="45" />
+        <mark key="]" line="39" column="15" />
+        <mark key="^" line="39" column="15" />
+        <mark key="." line="39" column="15" />
+      </file>
+      <file name="/fragment.java" timestamp="1544667366614">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/CnoocUserServiceImpl.java" timestamp="1544670382180">
+        <mark key="[" line="100" column="30" />
+        <mark key="]" line="100" column="41" />
+        <mark key="." line="100" column="41" />
+        <mark key="^" line="100" column="41" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="68" column="34" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/UserServiceImpl.java" />
+      <jump line="60" column="28" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/UserServiceImpl.java" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>)</text>
+      </register>
+      <register name="-" type="4">
+        <text>)</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBtYXAuYWRkKCJ1c2VybmFtZSIsIHVzZXJuYW1lKTsK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICB9IGVsc2UgewogICAgICAgICAgICByZXR1cm4gbnVsbDsKICAgICAgICB9Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAodXNlciAhPSBudWxsICYmIEJDcnlwdC5jaGVja3B3KHBhc3N3b3JkLCB1c2VyLmdldFBhc3N3b3JkKCkpKSB7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBjYWNoZU1hbmFnZXIuCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgSUZhY3RvcnlTZXJ2aWNlIGlGYWN0b3J5U2VydmljZTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgVXNlck1hcHBlciB1c2VyTWFwcGVyOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAocmUpCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICByZXNwb25zZS4K</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICByZXNwb25zZS5nZQo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>action Back</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
-    <shortcut-conflicts />
+    <history>
+      <history-cmd>
+        <entry>action PreviousTab</entry>
+        <entry>action NextTab</entry>
+        <entry>action Back</entry>
+      </history-cmd>
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>alt pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>alt pressed L</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
