@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1544687157475">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="C:/code/voc/src/main/resources/application-cnooc.yaml" timestamp="1544681067154">
         <mark key="[" line="19" column="36" />
         <mark key="]" line="19" column="36" />
@@ -13,67 +16,83 @@
         <mark key="[" line="36" column="45" />
         <mark key="]" line="36" column="68" />
       </file>
-      <file name="C:/code/voc/src/main/resources/application.yaml" timestamp="1544680713265">
+      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/shiro/MyRealm.java" timestamp="1544685522374">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+      </file>
+      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/entity/User.java" timestamp="1544684990771" />
+      <file name="C:/code/voc/src/main/resources/application.yaml" timestamp="1544686165543">
         <mark key="'" line="34" column="6" />
+        <mark key="[" line="3" column="12" />
+        <mark key="]" line="3" column="16" />
+        <mark key="." line="3" column="16" />
+        <mark key="^" line="3" column="16" />
       </file>
-      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/UserServiceImpl.java" timestamp="1544668867095">
-        <mark key="'" line="60" column="28" />
-        <mark key="[" line="38" column="45" />
-        <mark key="]" line="39" column="15" />
-        <mark key="^" line="39" column="15" />
-        <mark key="." line="39" column="15" />
+      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/UserServiceImpl.java" timestamp="1544686935271">
+        <mark key="'" line="54" column="28" />
+        <mark key="[" line="39" column="10" />
+        <mark key="]" line="39" column="16" />
+        <mark key="." line="39" column="16" />
+        <mark key="^" line="39" column="16" />
       </file>
-      <file name="/fragment.java" timestamp="1544667366614">
+      <file name="/fragment.java" timestamp="1544687157460">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/CnoocUserServiceImpl.java" timestamp="1544684043125">
-        <mark key="[" line="123" column="43" />
-        <mark key="]" line="123" column="51" />
-        <mark key="." line="123" column="51" />
-        <mark key="^" line="123" column="51" />
+      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/CnoocUserServiceImpl.java" timestamp="1544686537969">
+        <mark key="'" line="102" column="41" />
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
+      </file>
+      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/service/IUserService.java" timestamp="1544685533893">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
     </filemarks>
     <jumps>
       <jump line="68" column="34" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/UserServiceImpl.java" />
       <jump line="60" column="28" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/UserServiceImpl.java" />
       <jump line="34" column="6" filename="C:/code/voc/src/main/resources/application.yaml" />
+      <jump line="104" column="41" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/CnoocUserServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>department</text>
+        <text>cnooc</text>
       </register>
       <register name="-" type="4">
-        <text>department</text>
+        <text>cnooc</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBWYWx1ZSgiJHtjbm9vYy5sb2dpblVybH0iKSBwcml2YXRlIFN0cmluZyBsb2dpblVybDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZGF0YS5nZXQoKQo=</text>
+        <text encoding="base64">QFByb2ZpbGUoIiFjbm9vYyIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QENvbmRpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgQENhY2hlYWJsZSgicGVybWlzc2lvbiIpCiAgICBwdWJsaWMgTGlzdDxTdHJpbmc+IGdldFBlcm1pc3Npb25zQnlVc2VySWQoTG9uZyB1c2VySWQpIHsKICAgICAgICByZXR1cm4gdXNlck1hcHBlci5nZXRQZXJtaXNzaW9uc0J5VXNlcklkKHVzZXJJZCk7CiAgICB9Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIAo=</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgQENhY2hlYWJsZSgicGVybWlzc2lvbiIpCiAgICBwdWJsaWMgTGlzdDxTdHJpbmc+IGdldFBlcm1pc3Npb25zQnlVc2VySWQoTG9uZyB1c2VySWQpIHsKICAgICAgICByZXR1cm4gdXNlck1hcHBlci5nZXRQZXJtaXNzaW9uc0J5VXNlcklkKHVzZXJJZCk7CiAgICB9Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+        <text encoding="base64">CiAgICAvKioKICAgICAqIOagueaNrueUqOaIt2lk6I635Y+W5YW25LiL55qE5p2D6ZmQCiAgICAgKiBAcGFyYW0gdXNlcklkCiAgICAgKiBAcmV0dXJuCiAgICAgKi8KICAgIExpc3Q8U3RyaW5nPiBnZXRQZXJtaXNzaW9uc0J5VXNlcklkKExvbmcgdXNlcklkKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICog5Y+q5pyJ5b2T6ZyA6KaB5qOA5rWL55So5oi35p2D6ZmQ55qE5pe25YCZ5omN5Lya6LCD55So5q2k5pa55rOV77yM5L6L5aaCY2hlY2tSb2xlLGNoZWNrUGVybWlzc2lvbuS5i+exu+eahAogICAgICovCiAgICBAT3ZlcnJpZGUKICAgIHByb3RlY3RlZCBBdXRob3JpemF0aW9uSW5mbyBkb0dldEF1dGhvcml6YXRpb25JbmZvKFByaW5jaXBhbENvbGxlY3Rpb24gcHJpbmNpcGFscykgewogICAgICAgIHJldHVybiBuZXcgU2ltcGxlQXV0aG9yaXphdGlvbkluZm8oKTsKICAgIH0KCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBKc29uTm9kZSBkYXRhID0gbWFwcGVyLnJlYWRUcmVlKHJlc3VsdC5nZXREYXRhKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBzaW1wbGVBdXRob3JpemF0aW9uSW5mby5hZGRTdHJpbmdQZXJtaXNzaW9ucyhwZXJtaXNzaW9uKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBXaGVuCiAgICAgICAgSnNvbk5vZGUganNvbk5vZGUxID0gYWN0dWFsT2JqLmdldCgiazEiKTsKICAgICAgICBhc3NlcnRUaGF0KGpzb25Ob2RlMS50ZXh0VmFsdWUoKSwgZXF1YWxUbygidjEiKSk7CiAgICAgICAgTGlzdDxNYXA8U3RyaW5nLCBPYmplY3Q+PiBkYXRhID0gIChMaXN0PE1hcDxTdHJpbmcsIE9iamVjdD4+KWRhdGFOb2RlLmdldCgibHN0T3JkZXJCYXNlSW5mbyIpOy8v6I635Y+WanNvbuaWh+S7tuS4rWxzdE9yZGVyQmFzZUluZm/ov5nkuKprZXnlr7nlupTnmoR2YWx1ZQo=</text>
+        <text encoding="base64">ICAgICAgICBVc2VyIHVzZXIgPSBpVXNlclNlcnZpY2UuZ2V0QnlVc2VyTmFtZSh1c2VybmFtZSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcganNvblN0cmluZyA9ICJ7ImsxIjoidjEiLCJrMiI6InYyIn0iOwo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgdXNlcm5hbWUgPSBKV1RVdGlsLmdldFVzZXJuYW1lKHByaW5jaXBhbHMudG9TdHJpbmcoKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action PreviousTab</text>
@@ -91,7 +110,7 @@
       </history-cmd>
     </history>
     <shortcut-conflicts>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed S</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
