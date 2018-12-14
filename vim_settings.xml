@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1544769365531">
+      <file name="/Dummy.txt" timestamp="1544771969010">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/code/voc/src/main/resources/application-cnooc.yaml" timestamp="1544681067154">
@@ -16,6 +16,15 @@
         <mark key="[" line="36" column="45" />
         <mark key="]" line="36" column="68" />
       </file>
+      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/config/ShiroConfig.java" timestamp="1544692544991">
+        <mark key="'" line="97" column="23" />
+      </file>
+      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/web/UserController.java" timestamp="1544757806790">
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="^" line="67" column="35" />
+        <mark key="." line="69" column="0" />
+      </file>
       <file name="C:/code/voc/src/main/java/com/cnvoc/voc/shiro/MyRealm.java" timestamp="1544692579370">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -26,21 +35,18 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/config/ShiroConfig.java" timestamp="1544692544991">
-        <mark key="'" line="97" column="23" />
-      </file>
-      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/web/UserController.java" timestamp="1544757806790">
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="^" line="67" column="35" />
-        <mark key="." line="69" column="0" />
-      </file>
-      <file name="C:/code/voc/src/main/resources/application.yaml" timestamp="1544756849265">
+      <file name="C:/code/voc/src/main/resources/application.yaml" timestamp="1544772082088">
         <mark key="'" line="34" column="6" />
         <mark key="[" line="3" column="12" />
-        <mark key="]" line="3" column="16" />
-        <mark key="." line="3" column="16" />
-        <mark key="^" line="3" column="16" />
+        <mark key="]" line="3" column="15" />
+        <mark key="." line="3" column="15" />
+        <mark key="^" line="3" column="15" />
+      </file>
+      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/DelayRepairServiceImpl.java" timestamp="1544771964468">
+        <mark key="[" line="182" column="80" />
+        <mark key="]" line="182" column="81" />
+        <mark key="^" line="182" column="81" />
+        <mark key="." line="182" column="81" />
       </file>
       <file name="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/UserServiceImpl.java" timestamp="1544757079730">
         <mark key="'" line="40" column="43" />
@@ -52,7 +58,7 @@
       <file name="/fragment.java" timestamp="1544757125700">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/CnoocUserServiceImpl.java" timestamp="1544767952002">
+      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/CnoocUserServiceImpl.java" timestamp="1544771330179">
         <mark key="'" line="52" column="7" />
         <mark key="[" line="123" column="19" />
         <mark key="]" line="123" column="40" />
@@ -78,13 +84,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text>cnooc</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>cnooc</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICogMS4g5aaC5p6c55So5oi35LuObGRhcuezu+e7n+eZu+mZhu+8jOi+k+WFpeeUqOaIt+WQjeWSjOWvhueggeWQju+8jGxkYXLns7vnu5/lsIbnlKjmiLflkI3lkozlr4bnoIHlj5HpgIHliLDnjq/kv53ns7vnu5/nmoTnlKjmiLfnmbvpmYbor7fmsYLvvIzojrflj5Z0b2tlbu+8jOeEtuWQjmxkYXLns7vnu5/moLnmja7nlKjmiLflkI3lkox0b2tlbuWGjeeUn+aIkOS4gOS4quiHquW3seeahHRva2Vu77yM6L+Z5qC35Lul5ZCO57O757uf5LiN5Lya5YaN5q+P5qyh5Y67546v5L+d57O757uf55Sz6K+36aqM6K+B44CC6L+Z5q2l546v5L+d57O757uf5LiN6ZyA6KaB5YGa5LuA5LmI44CCCiAqIDIuIOWmguaenOeUqOaIt+S7jueOr+S/neezu+e7n+eZu+mZhu+8jOW9k+eUqOaIt+imgeiuv+mXrmxkYXLns7vnu5/ml7bvvIznjq/kv53ns7vnu5/pnIDopoHlsIZ0b2tlbuWSjOeUqOaIt+WQjeivt+axguWIsGxkYXLns7vnu5/vvIzku6Xkvr9sZGFy57O757uf55Sf5oiQdG9rZW7vvJvlpoLmnpzliY3nq6/kv53lrZjnmoTmnIl0b2tlbuWSjOeUqOaIt+WQje+8jOWJjeerr+ivt+axguWwseWlveOAggogKiAzLiDlpoLmnpznlKjmiLfor7fmsYLpgIDlh7rvvIznm7TmjqXosIPnlKhsZGFy57O757uf6YCA5Ye65o6l5Y+j6K+35rGC5Yig6Zmk55u45bqU6K6w5b2V44CC6L+Z5Liq55u05o6l5YmN56uv6K+35rGC5bCx5aW944CCKGhlYWRlcuS4reimgeWKoOWFpWxkYXLns7vnu5/nmoR0b2tlbikKICogNC4g5aaC5p6c55So5oi35YiH5o2i5bel5Y6C77yM546v5L+d57O757uf6ZyA6KaB5YWI5Y+R6YCB5paw5bel5Y6CaWTliLBsZGFy57O757uf55qE5YiH5o2i5bel5Y6C5o6l5Y+j77yM6L+Z5Liq5Lmf55u05o6l5YmN56uv6K+35rGC5bCx5aW944CCKGhlYWRlcuS4reimgeWKoOWFpWxkYXLns7vnu5/nmoR0b2tlbikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2VsbHNbaisrXS5zZXRDZWxsVmFsdWUoTWF0aC5yb3VuZChyLmdldFJmVmFsdWUoKSAqIDEwKSAvIDEwLjApOyAvLyDmo4DmtYvlgLwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
