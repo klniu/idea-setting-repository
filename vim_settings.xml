@@ -2,9 +2,57 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
+    <filemarks>
+      <file name="C:/code/voc/src/test/resources/sql/init.sql" timestamp="1545100556480">
+        <mark key="[" line="159" column="19" />
+        <mark key="]" line="159" column="23" />
+      </file>
+      <file name="C:/code/voc/src/main/resources/application.yaml" timestamp="1545100382427">
+        <mark key="[" line="3" column="12" />
+        <mark key="]" line="3" column="15" />
+        <mark key="." line="3" column="15" />
+        <mark key="^" line="3" column="15" />
+      </file>
+      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/CnoocUserServiceImpl.java" timestamp="1545100214583">
+        <mark key="[" line="91" column="52" />
+        <mark key="]" line="91" column="52" />
+        <mark key="^" line="91" column="51" />
+        <mark key="." line="91" column="52" />
+      </file>
+    </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFVua25vd25FcnJvckV4Y2VwdGlvbigi572R57uc6K+35rGC6ZSZ6K+v77yM6K+356iN5ZCO6YeN6K+VIik7Cg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>炼制装置1</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBzZXRVc2VyQ2FjaGUodXNlcik7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAocmVzcG9uc2UgPT0gbnVsbCkgewogICAgICAgICAgICB0aHJvdyBuZXcgVW5rbm93bkVycm9yRXhjZXB0aW9uKCLnvZHnu5zor7fmsYLplJnor6/vvIzor7fnqI3lkI7ph43or5UiKTsKICAgICAgICB9CgogICAgICAgIGlmIChyZXNwb25zZS5nZXRDb2RlKCkgIT0gMCkgewogICAgICAgICAgICB0aHJvdyBuZXcgVW5hdXRob3JpemVkRXhjZXB0aW9uKHJlc3BvbnNlLmdldE1zZygpKTsKICAgICAgICB9CiAgICAgICAgVXNlciB1c2VyID0gbmV3IFVzZXIoKS5zZXRVc2VybmFtZSh1c2VybmFtZSkuc2V0UGFzc3dvcmQocmVzcG9uc2UuZ2V0RGF0YSgpKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBSZXN1bHQ8U3RyaW5nPiByZXNwb25zZSA9IHJlc3RUZW1wbGF0ZS5leGNoYW5nZSggdXJsICsgbG9naW5VcmwsIEh0dHBNZXRob2QuUE9TVCwgcmVxdWVzdCwKICAgICAgICAgICAgICAgIG5ldyBQYXJhbWV0ZXJpemVkVHlwZVJlZmVyZW5jZTxSZXN1bHQ8U3RyaW5nPj4oKSB7fSkuZ2V0Qm9keSgpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBSZXN1bHQ8U3RyaW5nPiByZXNwb25zZSA9IHJlc3RUZW1wbGF0ZS5leGNoYW5nZSggdXJsICsgbG9naW5VcmwsIEh0dHBNZXRob2QuUE9TVCwgcmVxdWVzdCwKICAgICAgICAgICAgICAgIG5ldyBQYXJhbWV0ZXJpemVkVHlwZVJlZmVyZW5jZTxSZXN1bHQ8U3RyaW5nPj4oKSB7fSkuZ2V0Qm9keSgpOwo=</text>
+      </register>
+      <register name="-" type="4">
+        <text>cnooc</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
@@ -18,6 +66,9 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
