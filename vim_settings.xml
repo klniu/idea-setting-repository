@@ -3,10 +3,39 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/common/GlobalExceptionHandler.java" timestamp="1545119070177">
+        <mark key="[" line="53" column="47" />
+        <mark key="]" line="53" column="47" />
+        <mark key="^" line="53" column="58" />
+        <mark key="." line="53" column="58" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1545119487789">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="C:/code/voc/src/main/resources/application-cnooc.yaml" timestamp="1545101518351">
         <mark key="[" line="19" column="11" />
         <mark key="]" line="19" column="43" />
         <mark key="." line="19" column="11" />
+      </file>
+      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/web/UserController.java" timestamp="1545117155993">
+        <mark key="'" line="36" column="0" />
+        <mark key="[" line="50" column="54" />
+        <mark key="]" line="50" column="58" />
+        <mark key="." line="50" column="58" />
+        <mark key="^" line="50" column="58" />
+      </file>
+      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/config/ShiroConfig.java" timestamp="1545116151915">
+        <mark key="[" line="47" column="48" />
+        <mark key="]" line="47" column="53" />
+        <mark key="." line="47" column="53" />
+        <mark key="^" line="47" column="53" />
+      </file>
+      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/common/Function.java" timestamp="1545118716813">
+        <mark key="'" line="546" column="14" />
+        <mark key="[" line="559" column="11" />
+        <mark key="]" line="559" column="17" />
+        <mark key="^" line="559" column="17" />
+        <mark key="." line="559" column="17" />
       </file>
       <file name="C:/code/voc/src/main/java/com/cnvoc/voc/service/ICnoocUserService.java" timestamp="1545102744568">
         <mark key="[" line="37" column="14" />
@@ -18,80 +47,83 @@
         <mark key="[" line="159" column="19" />
         <mark key="]" line="159" column="23" />
       </file>
-      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/web/UserController.java" timestamp="1545102554757">
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
-      </file>
       <file name="C:/code/voc/src/main/resources/application.yaml" timestamp="1545101536787">
         <mark key="[" line="3" column="12" />
         <mark key="]" line="3" column="16" />
         <mark key="." line="3" column="16" />
         <mark key="^" line="3" column="16" />
       </file>
-      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/web/CnoocUserController.java" timestamp="1545102618616">
-        <mark key="[" line="31" column="3" />
-        <mark key="]" line="32" column="14" />
-        <mark key="." line="32" column="14" />
+      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/web/CnoocUserController.java" timestamp="1545115371910">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
         <mark key="^" line="32" column="14" />
       </file>
-      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/CnoocUserServiceImpl.java" timestamp="1545113006616">
-        <mark key="'" line="115" column="44" />
-        <mark key="[" line="118" column="32" />
-        <mark key="]" line="119" column="21" />
-        <mark key="." line="119" column="21" />
-        <mark key="^" line="119" column="21" />
+      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/UserServiceImpl.java" timestamp="1545115440463">
+        <mark key="[" line="129" column="35" />
+        <mark key="]" line="130" column="7" />
+        <mark key="." line="130" column="7" />
+        <mark key="^" line="130" column="7" />
+      </file>
+      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/CnoocUserServiceImpl.java" timestamp="1545119387776">
+        <mark key="[" line="177" column="0" />
+        <mark key="]" line="177" column="0" />
+        <mark key="." line="177" column="0" />
+        <mark key="^" line="42" column="32" />
       </file>
       <file name="/fragment.java" timestamp="1545102538240">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/service/IUserService.java" timestamp="1545102500396">
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
+      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/service/IUserService.java" timestamp="1545115774463">
+        <mark key="[" line="37" column="29" />
+        <mark key="]" line="37" column="35" />
+        <mark key="." line="37" column="35" />
+        <mark key="^" line="37" column="35" />
       </file>
     </filemarks>
     <jumps>
       <jump line="99" column="29" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/CnoocUserServiceImpl.java" />
       <jump line="106" column="37" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/CnoocUserServiceImpl.java" />
       <jump line="108" column="44" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/CnoocUserServiceImpl.java" />
+      <jump line="36" column="0" filename="C:/code/voc/src/main/java/com/cnvoc/voc/web/UserController.java" />
+      <jump line="546" column="14" filename="C:/code/voc/src/main/java/com/cnvoc/voc/common/Function.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>)</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSnNvbk5vZGUgciA9IG9iamVjdE1hcHBlci5yZWFkVHJlZShyZXN1bHQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5ldyBSZXN1bHQ8PihlLmdldFN0YXR1c0NvZGUoKS52YWx1ZSgpLAogICAgICAgICAgICAgICAgICAgIEZ1bmN0aW9uLnBhcnNlSnNvbkZpZWxkKGUuZ2V0UmVzcG9uc2VCb2R5QXNTdHJpbmcoKSwgIm1zZyIpLmFzVGV4dCgpLCBFbXB0eSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBzZXRVc2VyQ2FjaGUodXNlcik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAocmVzcG9uc2UuZ2V0U3RhdHVzQ29kZSgpID09IEh0dHBTdGF0dXMuVU5BVVRIT1JJWkVEKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBVbmF1dGhvcml6ZWRFeGNlcHRpb24oIuaOiOadg+Wksei0pe+8jOivt+mHjeaWsOeZu+mZhiIpOwogICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IFJlc3VsdDw+KGUuZ2V0U3RhdHVzQ29kZSgpLnZhbHVlKCksCiAgICAgICAgICAgICAgICBGdW5jdGlvbi5wYXJzZUpzb25GaWVsZChlLmdldFJlc3BvbnNlQm9keUFzU3RyaW5nKCksICJtZXNzYWdlIikuYXNUZXh0KCksIEVtcHR5KTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAocmVzcG9uc2UuZ2V0U3RhdHVzQ29kZSgpID09IEh0dHBTdGF0dXMuVU5BVVRIT1JJWkVEKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBVbmF1dGhvcml6ZWRFeGNlcHRpb24oIuaOiOadg+Wksei0pe+8jOivt+mHjeaWsOeZu+mZhiIpOwogICAgICAgIH0K</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgSnNvbk5vZGUgcGFyc2VSZXN1bHRGaWVsZChTdHJpbmcgcmVzdWx0LCBTdHJpbmcgZmllbGQpIHsKICAgICAgICBpZiAoU3RyaW5ncy5pc0VtcHR5KHJlc3VsdCkpIHsKICAgICAgICAgICAgdGhyb3cgbmV3IFVua25vd25FcnJvckV4Y2VwdGlvbigi6K+35rGC57uT5p6c5Ye66ZSZ77yM6K+356iN5ZCO6YeN6K+VIik7CiAgICAgICAgfQogICAgICAgIEpzb25Ob2RlIHI7CiAgICAgICAgdHJ5IHsKICAgICAgICAgICAgciA9IG9iamVjdE1hcHBlci5yZWFkVHJlZShyZXN1bHQpOwogICAgICAgICAgICBpZiAoci5oYXMoZmllbGQpKXsKICAgICAgICAgICAgICAgIHJldHVybiByLmdldChmaWVsZCk7CiAgICAgICAgICAgIH0KICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGxvZy5lcnJvcihFeGNlcHRpb25VdGlscy5nZXRTdGFja1RyYWNlKGUpKTsKICAgICAgICB9CiAgICAgICAgdGhyb3cgbmV3IFVuYXV0aG9yaXplZEV4Y2VwdGlvbigi5peg5pWI6L+U5Zue57uT5p6cIik7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action PreviousTab</text>
@@ -99,11 +131,13 @@
     </registers>
     <search>
       <last-dir>0</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search />
       <history-cmd>
+        <entry>action EditorUp</entry>
+        <entry>action NextTab</entry>
         <entry>action PreviousTab</entry>
       </history-cmd>
       <history-expr />
@@ -119,8 +153,23 @@
       <shortcut-conflict owner="vim">
         <text>alt pressed H</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>alt pressed L</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
