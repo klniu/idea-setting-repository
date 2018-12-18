@@ -9,7 +9,7 @@
         <mark key="^" line="53" column="58" />
         <mark key="." line="53" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545123596832">
+      <file name="/Dummy.txt" timestamp="1545125145207">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/code/voc/src/main/resources/application-cnooc.yaml" timestamp="1545101518351">
@@ -42,6 +42,12 @@
         <mark key="]" line="37" column="34" />
         <mark key="^" line="37" column="34" />
         <mark key="." line="37" column="34" />
+      </file>
+      <file name="C:/code/voc/src/main/resources/banner.txt" timestamp="1545125120002">
+        <mark key="[" line="21" column="62" />
+        <mark key="]" line="21" column="62" />
+        <mark key="^" line="21" column="62" />
+        <mark key="." line="21" column="62" />
       </file>
       <file name="C:/code/voc/src/test/resources/sql/init.sql" timestamp="1545100556480">
         <mark key="[" line="159" column="19" />
@@ -90,11 +96,11 @@
       <jump line="65" column="50" filename="C:/code/voc/src/main/java/com/cnvoc/voc/web/UserController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgT2JqZWN0TWFwcGVyIG9iamVjdE1hcHBlcjsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KSA=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gKFVzZXIpIGNhY2hlLmdldCgpLmdldCh1c2VybmFtZSkuZ2V0KCk7Cg==</text>
@@ -127,12 +133,12 @@
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action PreviousTab</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
       <last-dir>0</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search />
@@ -140,6 +146,7 @@
         <entry>action EditorUp</entry>
         <entry>action NextTab</entry>
         <entry>action PreviousTab</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
