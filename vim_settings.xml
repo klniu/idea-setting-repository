@@ -17,6 +17,12 @@
         <mark key="]" line="19" column="43" />
         <mark key="." line="19" column="11" />
       </file>
+      <file name="C:/code/jeesite4/web/src/main/resources/config/application.yml" timestamp="1545136641147">
+        <mark key="[" line="40" column="12" />
+        <mark key="]" line="40" column="18" />
+        <mark key="." line="40" column="18" />
+        <mark key="^" line="40" column="18" />
+      </file>
       <file name="C:/code/voc/src/main/java/com/cnvoc/voc/web/UserController.java" timestamp="1545121473281">
         <mark key="'" line="65" column="50" />
         <mark key="[" line="50" column="54" />
@@ -110,10 +116,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>123456</text>
+        <text>12346</text>
       </register>
       <register name="-" type="4">
-        <text>123456</text>
+        <text>12346</text>
       </register>
       <register name="/" type="4">
         <text>mybatis</text>
@@ -163,7 +169,9 @@
       <history-search>
         <entry>mybatis</entry>
       </history-search>
-      <history-cmd />
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
