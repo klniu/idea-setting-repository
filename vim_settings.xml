@@ -35,11 +35,12 @@
         <mark key="." line="32" column="14" />
         <mark key="^" line="32" column="14" />
       </file>
-      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/CnoocUserServiceImpl.java" timestamp="1545103459413">
-        <mark key="[" line="103" column="0" />
-        <mark key="]" line="103" column="7" />
-        <mark key="." line="103" column="7" />
-        <mark key="^" line="103" column="7" />
+      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/CnoocUserServiceImpl.java" timestamp="1545113006616">
+        <mark key="'" line="115" column="44" />
+        <mark key="[" line="118" column="32" />
+        <mark key="]" line="119" column="21" />
+        <mark key="." line="119" column="21" />
+        <mark key="^" line="119" column="21" />
       </file>
       <file name="/fragment.java" timestamp="1545102538240">
         <mark key="[" line="0" column="0" />
@@ -50,43 +51,47 @@
         <mark key="." line="61" column="0" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="99" column="29" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/CnoocUserServiceImpl.java" />
+      <jump line="106" column="37" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/CnoocUserServiceImpl.java" />
+      <jump line="108" column="44" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/CnoocUserServiceImpl.java" />
+    </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>token</text>
+        <text>e</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXNlciA9IG5ldyBVc2VyKCkuc2V0VXNlcm5hbWUodXNlcm5hbWUpLnNldFBhc3N3b3JkKHJlc3BvbnNlLmdldERhdGEoKSk7CiAgICAgICAgICAgIHNldFVzZXJDYWNoZSh1c2VyKTsKICAgICAgICB9IGNhdGNoIChSZXNvdXJjZUFjY2Vzc0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBVbmtub3duRXJyb3JFeGNlcHRpb24oIueZu+mZhuacjeWKoeWZqOWHuumUme+8jOivt+eojeWQjumHjeivlSIpOwogICAgICAgIH0KCiAgICAgICAgLy8g6I635Y+W5bel5Y6CaWQKICAgICAgICBsb25nIGZhY3RvcnlJZCA9IGdldEZhY3RvcnlJZCh1c2VyLmdldFBhc3N3b3JkKCkpOwogICAgICAgIHVzZXIuc2V0RmFjdG9yeUlkKGZhY3RvcnlJZCk7CgogICAgICAgIHJldHVybiBnZW5lcmF0ZVRva2VuKHVzZXIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgSnNvbk5vZGUgciA9IG9iamVjdE1hcHBlci5yZWFkVHJlZShyZXN1bHQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTWFwPFN0cmluZywgPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgVW5rbm93bkVycm9yRXhjZXB0aW9uKCLnmbvpmYbmnI3liqHlmajlh7rplJnvvIzor7fnqI3lkI7ph43or5UiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0gY2F0Y2ggKFJlc291cmNlQWNjZXNzRXhjZXB0aW9uIGUpIHsK</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBHZXRNYXBwaW5nKCIvYXBpL3BpbmciKQogICAgcHVibGljIFJlc3VsdCBwaW5nKCkgewogICAgICAgIHJldHVybiBuZXcgUmVzdWx0PD4oMCwgIuaOiOadg+aIkOWKnyIsIG5ldyBIYXNoTWFwPD4oKSk7CiAgICB9Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBHZXRNYXBwaW5nKCIvYXBpL2xvZ291dCIpCiAgICBwdWJsaWMgUmVzdWx0IGxvZ291dCgpIHsKICAgICAgICBTdHJpbmcgdXNlcm5hbWUgPSBpVXNlclNlcnZpY2UuZ2V0VXNlcm5hbWVCeVRva2VuKCk7CiAgICAgICAgaWYgKCB1c2VybmFtZSA9PSBudWxsKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBVbmF1dGhvcml6ZWRFeGNlcHRpb24oIuaXoOaViOeahOeUqOaItyIpOwogICAgICAgIH0KICAgICAgICBpVXNlclNlcnZpY2UubG9nb3V0KHVzZXJuYW1lKTsKICAgICAgICByZXR1cm4gbmV3IFJlc3VsdDw+KDAsICLpgIDlh7rmiJDlip8iLCBudWxsKTsKICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
       </register>
       <register name=":" type="4">
         <text>action PreviousTab</text>
@@ -113,6 +118,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>alt pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Q</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
