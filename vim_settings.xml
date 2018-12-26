@@ -3,17 +3,76 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/SealPointServiceImpl.java" timestamp="1545806744867">
-        <mark key="'" line="207" column="20" />
+      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/SealPointServiceImpl.java" timestamp="1545811325241">
+        <mark key="[" line="168" column="0" />
+        <mark key="]" line="168" column="0" />
+        <mark key="^" line="159" column="50" />
+        <mark key="." line="168" column="0" />
       </file>
-      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" timestamp="1545808581070" />
+      <file name="C:/code/voc/src/main/resources/sql/schema.sql" timestamp="1545809887073">
+        <mark key="[" line="231" column="11" />
+        <mark key="]" line="231" column="50" />
+        <mark key="^" line="231" column="50" />
+        <mark key="." line="231" column="50" />
+      </file>
+      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/entity/Component.java" timestamp="1545809997903">
+        <mark key="[" line="91" column="25" />
+        <mark key="]" line="92" column="27" />
+        <mark key="^" line="92" column="27" />
+        <mark key="." line="92" column="27" />
+      </file>
+      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" timestamp="1545810163770">
+        <mark key="'" line="514" column="38" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="207" column="20" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/SealPointServiceImpl.java" />
+      <jump line="312" column="25" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" />
+      <jump line="514" column="38" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" />
+      <jump line="70" column="56" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/SealPointServiceImpl.java" />
+      <jump line="81" column="41" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/SealPointServiceImpl.java" />
+      <jump line="154" column="51" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/SealPointServiceImpl.java" />
+      <jump line="153" column="39" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/SealPointServiceImpl.java" />
     </jumps>
     <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">TGlzdDxTdHJpbmc+IA==</text>
+      </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRSZWN0Q29vcmRcPg==</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBFbnVtSGVscGVyIGhlbHBlciA9IG5ldyBFbnVtSGVscGVyKGxkYXJTZXR0aW5nKTsKICAgICAgICBMaXN0PFN0cmluZz4gY29kZXMgPSB0eXBlcy5zdHJlYW0oKS5tYXAoaGVscGVyOjpnZXRDb2RlRm9yU2VhbFR5cGUpLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSk7Cg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgQnVmZmVyZWRJbWFnZSBtYWtlSW1hZ2VGb3JDb29saW5nKENvbXBvbmVudCBjb21wb25lbnQsIFNlYWwgc2VhbCwgU2VhbFBvaW50IHBvaW50KSB7CiAgICAgICAgLy8g6I635Y+W5Y6f5aeL5Zu+54mH6Lev5b6ECgogICAgICAgIEVudW1IZWxwZXIgaGVscGVyID0gbmV3IEVudW1IZWxwZXIobGRhclNldHRpbmcpOwogICAgICAgIExpc3Q8U3RyaW5nPiBjb2RlcyA9IHR5cGVzLnN0cmVhbSgpLm1hcChoZWxwZXI6OmdldENvZGVGb3JTZWFsVHlwZSkuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKTsKCiAgICAgICAgLy8g6I635Y+W5a+G5bCB54K555qE57yW56CBCiAgICAgICAgcmV0dXJuIGRyYXcoaW1nUGF0aCwgQ29sbGVjdGlvbnMuc2luZ2xldG9uTGlzdCgiSjAxLSIgKyBjb21wb25lbnQuZ2V0U2VhbHMoKS5zaXplKCkpLCBDb2xsZWN0aW9ucy5zaW5nbGV0b25MaXN0KHBvaW50KSk7CiAgICB9CgogICAgLy8g6I635Y+W5Y6f5aeL5Zu+54mH6Lev5b6ECiAgICBwcml2YXRlIFBhdGggZ2V0SW1hZ2VQYXRoKENvbXBvbmVudCBjb20pIHsKICAgICAgICByZXR1cm4gaW1nUGF0aC5nZXQoKTsKICAgIH0K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGRyYXcoaW1nUGF0aC5nZXQoKSwgY29kZXMsIHBvaW50cyk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgdGFnID0gU3RyaW5nLmZvcm1hdCgiJXMlMDJkIiwgIiIK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgTGRhclNldHRpbmcgbGRhclNldHRpbmcgPSBpTGRhclNldHRpbmdTZXJ2aWNlLmdldEJ5RmFjdG9yeUlkKGNvbXBvbmVudC5nZXRGYWN0b3J5SWQoKSk7CiAgICAgICAgICAgIEVudW1IZWxwZXIgaGVscGVyID0gbmV3IEVudW1IZWxwZXIobGRhclNldHRpbmcpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAvLyDojrflj5blr4blsIHngrnnmoTnvJbnoIEKICAgICAgICBMaXN0PFNlYWxUeXBlPiB0eXBlcyA9IHNlYWxzLnN0cmVhbSgpLm1hcChTZWFsOjpnZXRTZWFsVHlwZSkuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKTsKICAgICAgICBMZGFyU2V0dGluZyBsZGFyU2V0dGluZyA9IGlMZGFyU2V0dGluZ1NlcnZpY2UuZ2V0QnlGYWN0b3J5SWQoY29tcG9uZW50LmdldEZhY3RvcnlJZCgpKTsKICAgICAgICBFbnVtSGVscGVyIGhlbHBlciA9IG5ldyBFbnVtSGVscGVyKGxkYXJTZXR0aW5nKTsKICAgICAgICBMaXN0PFN0cmluZz4gY29kZXMgPSB0eXBlcy5zdHJlYW0oKS5tYXAoaGVscGVyOjpnZXRDb2RlRm9yU2VhbFR5cGUpLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSk7CiAgICAgICAgcmV0dXJuIGRyYXcoaW1nUGF0aCwgY29kZXMsIHBvaW50cyk7Cg==</text>
       </register>
     </registers>
     <search>
@@ -28,6 +87,13 @@
         <entry encoding="base64">XDxnZXRSZWN0Q29vcmRcPg==</entry>
       </history-search>
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
