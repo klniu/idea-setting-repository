@@ -3,11 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1545813845693">
+      <file name="/Dummy.txt" timestamp="1545815857093">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/code/voc/src/test/java/com/cnvoc/voc/service/impl/SealPointServiceImplTest.java" timestamp="1545815066896" />
-      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/SealPointServiceImpl.java" timestamp="1545814690533">
+      <file name="C:/code/voc/hs_err_pid4268.log" timestamp="1545815228216">
+        <mark key="'" line="30" column="37" />
+      </file>
+      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/SealPointServiceImpl.java" timestamp="1545815848947">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="269" column="16" />
         <mark key="]" line="269" column="17" />
@@ -32,7 +34,7 @@
         <mark key="^" line="92" column="34" />
         <mark key="." line="92" column="34" />
       </file>
-      <file name="D:/OneDrive/projects/天津LDAR/voc/all.sql" timestamp="1545813626958">
+      <file name="D:/OneDrive/projects/天津LDAR/voc/all.sql" timestamp="1545815765014">
         <mark key="'" line="660" column="14" />
       </file>
       <file name="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/SealServiceImpl.java" timestamp="1545810163770">
@@ -52,6 +54,7 @@
       <jump line="660" column="14" filename="D:/OneDrive/projects/天津LDAR/voc/all.sql" />
       <jump line="262" column="31" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/SealPointServiceImpl.java" />
       <jump line="0" column="0" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/SealPointServiceImpl.java" />
+      <jump line="30" column="37" filename="C:/code/voc/hs_err_pid4268.log" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -99,12 +102,15 @@
       <last-offset />
       <last-pattern encoding="base64">XDxnZXRSZWN0Q29vcmRcPg==</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry encoding="base64">XDxnZXRSZWN0Q29vcmRcPg==</entry>
       </history-search>
+      <history-cmd />
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
