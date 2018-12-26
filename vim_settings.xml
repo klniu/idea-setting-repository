@@ -2,14 +2,31 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
-    <jumps />
-    <registers />
+    <filemarks>
+      <file name="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/SealPointServiceImpl.java" timestamp="1545806744867">
+        <mark key="'" line="207" column="20" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="207" column="20" filename="C:/code/voc/src/main/java/com/cnvoc/voc/service/impl/SealPointServiceImpl.java" />
+    </jumps>
+    <registers>
+      <register name="/" type="4">
+        <text encoding="base64">XDxnZXRSZWN0Q29vcmRcPg==</text>
+      </register>
+    </registers>
     <search>
-      <last-dir>0</last-dir>
-      <show-last>false</show-last>
+      <last-search encoding="base64">XDxnZXRSZWN0Q29vcmRcPg==</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxnZXRSZWN0Q29vcmRcPg==</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>true</show-last>
     </search>
-    <history />
+    <history>
+      <history-search>
+        <entry encoding="base64">XDxnZXRSZWN0Q29vcmRcPg==</entry>
+      </history-search>
+    </history>
     <shortcut-conflicts />
   </component>
 </application>
