@@ -12,6 +12,9 @@
       <file name="C:/code/ehsbible/src/test/java/com/ehsbible/test/InitCoreData.java" timestamp="1545998440399">
         <mark key="'" line="20" column="64" />
       </file>
+      <file name="C:/code/ehsbible/hs_err_pid14876.log" timestamp="1545999212964">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="C:/code/ehsbible/src/main/resources/config/application.yml" timestamp="1545998061635">
         <mark key="'" line="49" column="3" />
         <mark key="[" line="138" column="10" />
@@ -19,11 +22,12 @@
         <mark key="." line="138" column="18" />
         <mark key="^" line="138" column="18" />
       </file>
-      <file name="C:/code/ehsbible/pom.xml" timestamp="1545997786355">
-        <mark key="[" line="22" column="25" />
-        <mark key="]" line="22" column="32" />
-        <mark key="." line="22" column="32" />
-        <mark key="^" line="22" column="32" />
+      <file name="C:/code/ehsbible/pom.xml" timestamp="1545999248113">
+        <mark key="'" line="97" column="29" />
+        <mark key="[" line="57" column="19" />
+        <mark key="]" line="57" column="25" />
+        <mark key="." line="57" column="25" />
+        <mark key="^" line="57" column="25" />
       </file>
     </filemarks>
     <jumps>
@@ -39,31 +43,34 @@
       <jump line="41" column="2" filename="C:/code/ehsbible/src/main/resources/config/application.yml" />
       <jump line="49" column="3" filename="C:/code/ehsbible/src/main/resources/config/application.yml" />
       <jump line="20" column="64" filename="C:/code/ehsbible/src/test/java/com/ehsbible/test/InitCoreData.java" />
+      <jump line="0" column="0" filename="C:/code/ehsbible/hs_err_pid14876.log" />
+      <jump line="97" column="29" filename="C:/code/ehsbible/pom.xml" />
     </jumps>
     <registers>
       <register name="1" type="4">
         <text encoding="base64">d2ViCiAgICA=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>```</text>
+        <text>provided</text>
       </register>
       <register name="-" type="4">
-        <text>```</text>
+        <text>provided</text>
       </register>
       <register name="/" type="4">
-        <text>test</text>
+        <text>tom</text>
       </register>
     </registers>
     <search>
-      <last-search>test</last-search>
+      <last-search>tom</last-search>
       <last-offset />
-      <last-pattern>test</last-pattern>
+      <last-pattern>tom</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
         <entry>test</entry>
+        <entry>tom</entry>
       </history-search>
       <history-cmd />
       <history-expr />
