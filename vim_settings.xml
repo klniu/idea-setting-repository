@@ -3,28 +3,68 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/code/ehsbible/pom.xml" timestamp="1545997485907">
-        <mark key="[" line="17" column="22" />
-        <mark key="]" line="17" column="23" />
-        <mark key="." line="17" column="23" />
-        <mark key="^" line="16" column="32" />
+      <file name="C:/code/ehsbible/Readme.md" timestamp="1545998224735">
+        <mark key="[" line="7" column="17" />
+        <mark key="]" line="8" column="2" />
+        <mark key="^" line="8" column="2" />
+        <mark key="." line="8" column="2" />
+      </file>
+      <file name="C:/code/ehsbible/src/test/java/com/ehsbible/test/InitCoreData.java" timestamp="1545998440399">
+        <mark key="'" line="20" column="64" />
+      </file>
+      <file name="C:/code/ehsbible/src/main/resources/config/application.yml" timestamp="1545998061635">
+        <mark key="'" line="49" column="3" />
+        <mark key="[" line="138" column="10" />
+        <mark key="]" line="138" column="18" />
+        <mark key="." line="138" column="18" />
+        <mark key="^" line="138" column="18" />
+      </file>
+      <file name="C:/code/ehsbible/pom.xml" timestamp="1545997786355">
+        <mark key="[" line="22" column="25" />
+        <mark key="]" line="22" column="32" />
+        <mark key="." line="22" column="32" />
+        <mark key="^" line="22" column="32" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="553" column="29" filename="C:/code/ehsbible/src/main/resources/config/application.yml" />
+      <jump line="57" column="3" filename="C:/code/ehsbible/src/main/resources/config/application.yml" />
+      <jump line="65" column="3" filename="C:/code/ehsbible/src/main/resources/config/application.yml" />
+      <jump line="89" column="5" filename="C:/code/ehsbible/src/main/resources/config/application.yml" />
+      <jump line="90" column="5" filename="C:/code/ehsbible/src/main/resources/config/application.yml" />
+      <jump line="114" column="5" filename="C:/code/ehsbible/src/main/resources/config/application.yml" />
+      <jump line="139" column="20" filename="C:/code/ehsbible/src/main/resources/config/application.yml" />
+      <jump line="252" column="7" filename="C:/code/ehsbible/src/main/resources/config/application.yml" />
+      <jump line="538" column="18" filename="C:/code/ehsbible/src/main/resources/config/application.yml" />
+      <jump line="41" column="2" filename="C:/code/ehsbible/src/main/resources/config/application.yml" />
+      <jump line="49" column="3" filename="C:/code/ehsbible/src/main/resources/config/application.yml" />
+      <jump line="20" column="64" filename="C:/code/ehsbible/src/test/java/com/ehsbible/test/InitCoreData.java" />
+    </jumps>
     <registers>
+      <register name="1" type="4">
+        <text encoding="base64">d2ViCiAgICA=</text>
+      </register>
       <register name="&quot;" type="4">
-        <text>http://jeesite.com</text>
+        <text>```</text>
       </register>
       <register name="-" type="4">
-        <text>http://jeesite.com</text>
+        <text>```</text>
+      </register>
+      <register name="/" type="4">
+        <text>test</text>
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
-      <show-last>false</show-last>
+      <last-search>test</last-search>
+      <last-offset />
+      <last-pattern>test</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>true</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>test</entry>
+      </history-search>
       <history-cmd />
       <history-expr />
       <history-input />
