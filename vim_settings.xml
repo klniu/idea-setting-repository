@@ -9,7 +9,7 @@
         <mark key="^" line="8" column="2" />
         <mark key="." line="8" column="2" />
       </file>
-      <file name="/Dummy.txt" timestamp="1546001967833">
+      <file name="/Dummy.txt" timestamp="1546084896754">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/code/ehsbible/src/test/java/com/ehsbible/test/InitCoreData.java" timestamp="1545998440399">
@@ -111,6 +111,9 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
